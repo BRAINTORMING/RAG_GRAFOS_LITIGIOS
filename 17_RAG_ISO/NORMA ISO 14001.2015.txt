@@ -1,0 +1,1874 @@
+--- Página 1 ---
+NORMA
+INTERNACIONAL
+ISO 14001:2015
+Traducción certificada
+Sistemas de Gestión Ambiental – Requisitos
+con orientación para su uso
+Environmental management systems— Requirements with guidance for use
+Systèmes de management environnemental— Exigences et lignes directrices
+pour son utilisation
+Número de referencia
+ISO 14001:2015 (ES)
+(traducción certificada)
+© ISO 2015
+
+--- Página 2 ---
+ISO 14001:2015 (traducción certificada)
+PDF – Exoneración de responsabilidad
+El presente fichero PDF puede contener pólizas de caracteres integradas. Conforme a las condiciones
+de licencia de Adobe, este fichero podrá ser impreso o visualizado, pero no deberá ser modificado a
+menos que el ordenador empleado para tal fin disfrute de una licencia que autorice la utilización de
+estas pólizas y que éstas estén instaladas en el ordenador. Al descargar este fichero, las partes
+implicadas aceptan de hecho la responsabilidad de no infringir las condiciones de licencia de Adobe. La
+Secretaría Central de ISO rehusa toda responsabilidad sobre esta cuestión.
+Adobe es una marca registrada de Adobe Systems Incorporated.
+Los detalles relativos a los productos software utilizados para la creación del presente fichero PDF están
+disponibles en la sección General Info del fichero. Los parámetros de creación PDF han sido
+optimizados para la impresión. Se han adoptado todas las medidas pertinentes para garantizar la
+explotación de este fichero por los comités miembros de ISO. En la eventualidad poco probable de surgir
+un problema de utilización, sírvase comunicarlo a la Secretaría Central en la dirección indicada a
+continuación.
+© ISO 2015
+Reservados los derechos de reproducción. Salvo prescripción diferente, no podrá reproducirse ni utilizarse ninguna
+parte de esta publicación bajo ninguna forma y por ningún procedimiento, electrónico o mecánico, fotocopias y
+microfilms inclusive, sin el acuerdo escrito de ISO solicitado a la siguiente dirección o del comité miembro de ISO en
+el país del solicitante.
+ISO copyright office
+Case postale 56  CH-1211 Geneva 20
+Tfn: + 41 22 749 01 11
+Fax: + 41 22 749 09 47
+E-mail copyright@iso.ch
+Web www.iso.ch
+Impreso en Suiza
+
+--- Página 3 ---
+Índice
+Página
+Prólogo .............................................................................................................................................. iv
+Prólogo de la versión en español ................................................................................................... v
+0 Introducción ........................................................................................................................... vi
+1 Objeto y campo de aplicación .............................................................................................. 1
+2 Normas para consulta ........................................................................................................... 1
+3 Términos y definiciones ....................................................................................................... 1
+4 Contexto de la organización ................................................................................................ 8
+4.1 Conocimiento de la organización y de su contexto ................................................... 8
+4.2 Comprensión de las necesidades y expectativas de las partes interesadas………. 8
+4.3 Determinación del alcance del Sistema de Gestión Ambiental................................. 9
+4.4 Sistema de Gestión Ambiental...................................................................................... 9
+5 Liderazgo ................................................................................................................................... 9
+5.1 Liderazgo y compromiso ............................................................................................... 9
+5.2 Política ambiental ........................................................................................................... 10
+5.3 Roles, responsabilidades y autoridades en la organización ..................................... 11
+6 Planificación .............................................................................................................................. 11
+6.1 Acciones para tratar riesgos asociados con amenazas y oportunidades ............... 11
+6.1.1 Generalidades .................................................................................................... 11
+6.1.2 Aspectos ambientales significativos .............................................................. 11
+6.1.3 Obligaciones de cumplimiento ........................................................................ 12
+6.1.4 Riesgo asociado con amenazas y oportunidades ......................................... 13
+6.1.5 Planificación de acciones ................................................................................. 13
+6.2 Objetivos ambientales y planificación para lograrlos ................................................ 13
+6.2.1 Objetivos ambientales ...................................................................................... 13
+6.2.2 Planificación de acciones para cumplir los objetivos ambientales ............. 14
+7 Soporte…….. ............................................................................................................................. 14
+7.1 Recursos ......................................................................................................................... 14
+7.2 Competencia ................................................................................................................... 14
+7.3 Toma de conciencia ....................................................................................................... 15
+7.4 Comunicación ................................................................................................................. 15
+7.4.1 Generalidades .................................................................................................... 15
+7.4.2 Comunicación interna ....................................................................................... 16
+7.4.3 Comunicación externa ...................................................................................... 16
+7.5 Información documentada ............................................................................................ 16
+7.5.1 Generalidades .................................................................................................... 16
+7.5.2 Creación y actualización................................................................................... 17
+7.5.3 Control de la información documentada ........................................................ 17
+8 Operación…… ........................................................................................................................... 17
+8.1 Planificación y control operacional .............................................................................. 17
+8.2 Preparación y respuesta ante emergencias ................................................................ 18
+9 Evaluación del desempeño ..................................................................................................... 19
+9.1 Seguimiento, medición, análisis y evaluación ............................................................ 19
+9.1.1 Generalidades .................................................................................................... 19
+9.1.2 Evaluación del cumplimiento ........................................................................... 20
+9.2 Auditoría interna ............................................................................................................. 20
+9.3 Revisión de la dirección ................................................................................................ 21
+10 Mejora……… ............................................................................................................................. 22
+10.1 No conformidades y acciones correctivas .................................................................. 22
+10.2 Mejora continua .............................................................................................................. 23
+Anexo A (Informativo) Orientación para el uso de esta Norma Internacional ........................... 24
+Tabla B.1 - Correspondencia entre ISO 14001:2004 y la Norma ISO 14001:2015 ..................... 42
+Tabla B.2 - Correspondencia entre la ISO 14001:2015 y la Norma ISO 14001:2004 ................. 44
+Bibliografía
+
+--- Página 4 ---
+PRÓLOGO
+ISO (Organización Internacional de Normalización) es una federación mundial de
+organismos nacionales de normalización (organismos miembros de ISO). El trabajo de
+preparación de las normas internacionales normalmente se realiza a través de los
+comités técnicos de ISO. Cada organismo miembro interesado en una materia para la
+cual se haya establecido un comité técnico, tiene el derecho de estar representado en
+dicho comité. Las organizaciones internacionales, públicas y privadas, en coordinación
+con ISO, también participan en el trabajo. ISO colabora estrechamente con la Comisión
+Electrotécnica Internacional (IEC) en todas las materias de normalización
+electrotécnica.
+En la parte 1 de las Directivas ISO/IEC se describen los procedimientos utilizados para
+desarrollar esta norma y para su mantenimiento posterior. En particular debería
+tomarse nota de los diferentes criterios de aprobación necesarios para los distintos
+tipos de documentos ISO. Esta norma se redactó de acuerdo a las reglas editoriales de
+la parte 2 de las Directivas ISO/IEC (www.iso.org/directives).
+Se llama la atención sobre la posibilidad de que algunos de los elementos de este
+documento puedan estar sujetos a derechos de patente. ISO no asume la
+responsabilidad por la identificación de cualquiera o todos los derechos de patente. Los
+detalles sobre cualquier derecho de patente identificado durante el desarrollo de esta
+norma se indican en la introducción y/o en la lista ISO de declaraciones de patente
+recibidas (www.iso.org/patents).
+Cualquier nombre comercial utilizado en esta norma es información a la atención de los
+usuarios y no constituyen una recomendación.
+Para obtener una explicación sobre el significado de los términos específicos de ISO y
+expresiones relacionadas con la evaluación de la conformidad, así como información
+de la adhesión de ISO a los principios de la OMC (Organización Mundial del Comercio)
+respecto a los obstáculos técnicos al comercio (TBT), véase el siguiente enlace:
+Foreword - Supplementary information.. El comité responsable de esta norma es el
+ISO/TC 207, Gestión ambiental, Subcomité SC 1, Sistemas de gestión medioambiental.
+iv
+
+--- Página 5 ---
+Prólogo de la versión en español
+Esta norma ha sido traducida por el Grupo de Trabajo "Spanish Translation Task
+Force" del Comité Técnico ISO/TC 207, Gestión Ambiental, en el que han participado
+representantes de los organismos nacionales de normalización y representantes del
+sector empresarial de los siguientes países: Argentina, Brasil, Chile, Colombia, Costa
+Rica, Cuba, España, Estados Unidos de América, México, Perú, República
+Dominicana, Uruguay y Venezuela.
+Igualmente, han participado en la realización de esta traducción representantes de
+COPANT (Comisión Panamericana de Normas Técnicas) y de INLAC (Instituto
+Latinoamericano de la Calidad).
+La innegable importancia de esta norma se deriva, sustancialmente, del hecho de que
+ésta representa una iniciativa en la normalización internacional, con la que se consigue
+unificar la terminología en el sector de la gestión ambiental en la lengua española.
+v
+
+--- Página 6 ---
+NORMA INTERNACIONAL ISO 14001:2015 (traducción certificada)
+0 INTRODUCCIÓN
+0.1 Antecedentes
+El logro de equilibrio entre los subsistemas ambiental, social y económico dentro del
+sistema global se considera esencial para satisfacer las necesidades del presente sin
+poner en riesgo la capacidad de las generaciones futuras para satisfacer sus
+necesidades. Este concepto de los “tres pilares” de la sostenibilidad es la meta del
+desarrollo sostenible.
+Las expectativas de la sociedad en cuanto a desarrollo sostenible, transparencia y la
+obligación de rendir cuentas han evolucionado dentro del contexto de legislaciones
+cada vez más estrictas, presiones crecientes con relación a la contaminación del
+ambiente y al uso ineficiente de recursos, la gestión de residuos, el cambio climático y
+la degradación de los ecosistemas y de la biodiversidad.
+Esto ha conducido a que las organizaciones adopten un enfoque sistemático con
+relación a la gestión ambiental, mediante la implementación de sistemas de gestión
+ambiental cuyo objetivo es contribuir al “pilar ambiental” de la sostenibilidad
+0.2 Objetivo de un sistema de gestión ambiental
+El propósito de esta Norma Internacional es proporcionar a las organizaciones un
+marco de referencia sistemático para proteger el medio ambiente y responder a las
+condiciones ambientales cambiantes, en equilibrio con las necesidades
+socioeconómicas, mediante la especificación de requisitos para un sistema de gestión
+ambiental que posibilita que una organización mejore su desempeño ambiental
+ el desarrollo e implementación de una política y objetivos ambientales;
+ la identificación de aspectos de sus actividades, productos y servicios que puedan
+provocar impactos ambientales significativos;
+ el establecimiento de procesos sistemáticos que consideren su contexto y que
+tengan en cuenta los aspectos ambientales significativos, el riesgo asociado con
+amenazas y oportunidades y sus obligaciones de cumplimiento;
+ una mayor toma de conciencia de su relación con el medio ambiente;
+ el establecimiento de controles operacionales para gestionar sus aspectos
+ambientales significativos y sus obligaciones de cumplimiento;
+vi
+
+--- Página 7 ---
+ la evaluación del desempeño ambiental y la toma de acciones, según sea
+necesario.
+Un enfoque sistemático a la gestión ambiental puede suministrar información a la
+alta dirección para alcanzar el éxito a largo plazo y crear opciones para contribuir
+al desarrollo sostenible mediante:
+ la protección del medio ambiente, mediante la prevención o reducción de
+impactos adversos al medio ambiente;
+ la mitigación del impacto potencial adverso de las condiciones ambientales sobre
+la organización;
+ la asistencia en el cumplimiento de las obligaciones de cumplimiento;
+ la mejora del desempeño ambiental;
+ el control o la influencia sobre la forma en la que la organización diseña, fabrica,
+distribuye, consume y lleva a cabo la disposición final de productos o servicios,
+usando una perspectiva de ciclo de vida que pueda prevenir que las cargas
+ambientales cambien inadvertidamente a cualquier otro lugar dentro del ciclo;
+ el logro de beneficios financieros y operacionales que puedan ser el resultado de
+implementar alternativas ambientales respetuosas con el medio ambiente que
+fortalezcan la posición de la organización en el mercado;
+ la comunicación de la información ambiental a las partes interesadas pertinentes.
+0.3 Factores de éxito
+El éxito de un sistema de gestión ambiental depende del compromiso de todas las
+funciones y niveles de la organización, bajo el liderazgo de la alta dirección. Ellos
+pueden aprovechar las oportunidades de reducir o eliminar impactos ambientales,
+particularmente los que tienen implicaciones estratégicas y de competitividad. La alta
+dirección puede tener en cuenta eficazmente estas oportunidades mediante la
+integración de la gestión ambiental a sus procesos de negocio, estrategia y toma de
+decisiones, alineándolas con otras prioridades de negocio, e incorporando la
+gobernanza ambiental a su sistema de gestión global. La demostración de la
+implementación exitosa de esta Norma Internacional se puede usar para asegurar a las
+partes interesadas que se ha puesto en marcha un sistema de gestión ambiental
+apropiado.
+Sin embargo, la adopción de esta Norma Internacional no garantiza en sí misma
+resultados ambientales óptimos. Dos organizaciones pueden llevar a cabo actividades
+similares pero pueden tener diferentes obligaciones de cumplimiento, diferentes
+compromisos de política ambiental, diferentes tecnologías ambientales en uso y
+diferentes metas de desempeño ambiental, y aún así ambas pueden cumplir los
+requisitos de esta Norma Internacional.
+vi
+
+--- Página 8 ---
+El nivel de detalle y complejidad, el alcance de la documentación y los recursos
+necesarios para un sistema de gestión ambiental dependerán de varios factores, tales
+como el contexto de la organización, su tamaño y ubicación, sus obligaciones de
+cumplimiento, el alcance del sistema y la naturaleza de sus actividades, productos y
+servicios, incluidos sus aspectos ambientales e impactos potenciales.
+0.4 Enfoque planificar, hacer, verificar, actuar
+La base para el enfoque que subyace a un sistema de gestión ambiental se
+fundamenta en el concepto de Shewhart de Planificar, Hacer, Verificar y Actuar (PFVA),
+que Deming hizo popular. El modelo PHVA demuestra un proceso reiterativo usado por
+las organizaciones para lograr la mejora continua. Se puede aplicar a un sistema de
+gestión y a cada uno de sus elementos individuales, y se puede describir brevemente
+así:
+ Planificar: establecer los objetivos y procesos necesarios para conseguir
+resultados de acuerdo con la política de la organización.
+ Hacer: implementar los procesos de la manera planificada.
+ Verificar: hacer el seguimiento y la medición de los procesos respecto a la política,
+incluidos sus compromisos, objetivos y controles operacionales, e informar sobre
+los resultados.
+ Actuar: emprender acciones para mejorar continuamente.
+Esta Norma Internacional incorpora el concepto PHVA en un nuevo marco de
+referencia, como se ilustra en la Figura 1
+vi
+
+--- Página 9 ---
+Sistemas de gestión ambiental - Requisitos con orientación para
+su uso
+1 OBJETO Y CAMPO DE APLICACIÓN
+Esta Norma Internacional especifica los requisitos de un sistema de gestión ambiental
+para organizaciones que buscan establecer, implementar, mantener y mejorar
+continuamente un marco de referencia con el fin de gestionar sus responsabilidades
+ambientales de una forma que contribuya al “pilar ambiental” de la sostenibilidad.
+Los resultados previstos de un sistema de gestión ambiental aportan valor para el
+medio ambiente, la organización y sus partes interesadas. En coherencia con la política
+ambiental de la organización, los resultados previstos de un sistema de gestión
+ambiental incluyen:
+— la mejora del desempeño ambiental;
+— la conformidad con las obligaciones legales y los requisitos voluntarios;
+— el cumplimiento de los objetivos ambientales.
+Esta Norma Internacional es aplicable a cualquier organización, independientemente de
+su tamaño, tipo y naturaleza, y se aplica a los aspectos ambientales que la
+organización determina que puede controlar o sobre los que puede influir, desde una
+perspectiva de ciclo de vida. No establece criterios específicos de desempeño
+ambiental ni aumenta ni modifica las obligaciones legales de una organización.
+Esta Norma Internacional se puede usar total o parcialmente para mejorar la gestión
+ambiental, pero todos los requisitos están previstos para su incorporación a un sistema
+de gestión ambiental y para su cumplimiento, sin ninguna excepción, si una
+organización declara conformidad con esta Norma Internacional.
+2 REFERENCIAS NORMATIVAS
+No se citan referencias normativas. Este capítulo se incluye con el propósito de
+conservar la alineación numérica con otras normas ISO de sistemas de gestión.
+3 TÉRMINOS Y DEFINICIONES
+Para los fines de este documento, se aplican los términos y definiciones siguientes.
+3.1 organización
+persona o grupo de personas que tienen sus propias funciones y responsabilidades,
+autoridades y relaciones para el logro de sus objetivos (3.16)
+Nota 1 a la entrada: El concepto de organización incluye, entre otros, un trabajador
+1
+
+--- Página 10 ---
+independiente, compañía, corporación, firma, empresa, autoridad, sociedad,
+organización benéfica o institución, o una parte o combinación de éstas, ya estén
+constituidas o no, públicas o privadas
+3.2 alta dirección
+persona o grupo de personas que dirige y controlan una organización (3.1) al más alto
+nivel
+Nota 1 a la entrada: La alta dirección tiene el poder para delegar autoridad y
+proporcionar recursos dentro de la organización.
+Nota 2 a la entrada: Si el alcance del sistema de gestión (3.3) comprende solo una
+parte de una organización, entonces “alta dirección” se refiere a quienes dirigen y
+controlan esa parte de la organización.
+3.3 sistema de gestión
+conjunto de elementos de una organización (3.1) interrelacionados o que interactúan
+para establecer políticas, objetivos (3.16) y procesos (3.26) para el logro de estos
+objetivos
+Nota 1 a la entrada: Un sistema de gestión puede tratar una sola disciplina o varias
+disciplinas (por ejemplo, calidad, medio ambiente, salud y seguridad en el trabajo).
+Nota 2 a la entrada: Los elementos del sistema incluyen la estructura de la
+organización, los roles y las responsabilidades, la planificación y la operación, la
+evaluación y la mejora del desempeño.
+Nota 3 a la entrada: El alcance de un sistema de gestión puede incluir la totalidad de la
+organización, funciones específicas e identificadas de la organización, secciones
+específicas e identificadas de la organización, o una o más funciones dentro de un
+grupo de organizaciones.
+3.4 sistema de gestión ambiental
+parte del sistema de gestión (3.3) usado para gestionar aspectos ambientales (3.9),
+cumplir con las obligaciones legales y los requisitos voluntarios (3.22), y tener en
+cuenta el riesgo (3.18) asociado con las amenazas y oportunidades.
+3.5 parte interesada
+persona u organización (3.1) que puede afectar, verse afectada, o percibirse como
+afectada por una decisión o actividad.
+Nota 1 a la entrada: Las partes interesadas pueden incluir personas y grupos
+involucrados con el desempeño ambiental (3.13) de una organización, o afectados por
+éste.
+2
+
+--- Página 11 ---
+Nota 2 a la entrada: “Percibirse como afectado” significa que esta percepción se ha
+dado a conocer a la organización.
+Nota 3 a la entrada: Las partes interesadas pueden incluir a los clientes, comunidades,
+proveedores, entes reguladores, organizaciones no gubernamentales, inversores,
+empleados.
+3.6 política ambiental
+intenciones y dirección de una organización (3.1), como las expresa formalmente su
+alta dirección (3.2), relacionadas con el desempeño ambiental (3.13)
+3.7 información documentada
+información que una organización (3.1) tiene que controlar y mantener, y el medio en el
+que está contenida
+Nota 1 a la entrada: La información documentada puede estar en cualquier formato y
+medio, y puede provenir de cualquier fuente.
+Nota 2 a la entrada: La información documentada puede hacer referencia a:
+ el sistema de gestión ambiental (3.4), incluidos los procesos relacionados (3.26);
+ la información creada para la operación de la organización (también se puede
+denominar documentación);
+ la evidencia de los resultados alcanzados (también se pueden denominar
+registros).
+3.8 medio ambiente
+entorno en el cual una organización (3.1) opera, incluidos el aire, el agua, la tierra, los
+recursos naturales, la flora, la fauna, los seres humanos y sus interrelaciones.
+Nota 1 a la entrada: El entorno en este contexto puede abarcar desde el interior de
+Nota 2 a la entrada: El entorno se puede describir en términos de biodiversidad,
+ecosistemas, clima u otras características.
+3.9 aspecto ambiental
+elemento de las actividades, productos o servicios de una organización (3.1) que
+interactúa o puede interactuar con el medio ambiente (3.8)
+Nota 1 a la entrada: Un aspecto ambiental puede provocar uno o varios impacto(s)
+ambiental(es) (3.10). Un aspecto ambiental significativo es aquel que tiene o puede
+tener un impacto ambiental significativo.
+3
+
+--- Página 12 ---
+Nota 2 a la entrada: La organización determina los aspectos ambientales significativos,
+mediante la aplicación de uno o más criterios.
+3.10 impacto ambiental
+cambio en el medio ambiente (3.8), ya sea adverso o beneficioso, como resultado total
+o parcial de los aspectos ambientales (3.9) de una organización (3.1)
+3.11 condición ambiental
+estado o característica del medio ambiente (3.8), determinado en un punto específico
+en el tiempo.
+3.12 desempeño
+resultado medible.
+Nota 1 a la entrada: El desempeño se puede relacionar con hallazgos cuantitativos o
+cualitativos.
+Nota 2 a la entrada: El desempeño se puede relacionar con la gestión de actividades,
+procesos (3.26), productos (incluidos servicios), sistemas u organizaciones (3.1).
+3.13 desempeño ambiental
+desempeño (3.12) relacionado con la gestión de aspectos ambientales (3.9)
+Nota 1 a la entrada: En el contexto de los sistemas de gestión ambiental (3.4), los
+resultados se pueden medir con respecto a la política ambiental (3.6), los objetivos
+ambientales (3.17) u otro criterio, mediante el uso de indicadores.
+3.14 prevención de la contaminación
+utilización de procesos (3.26), prácticas, técnicas, materiales, productos, servicios o
+energía para evitar, reducir o controlar (en forma separada o en combinación) la
+creación, emisión o descarga de cualquier tipo de contaminante o residuo, con el fin de
+reducir los impactos ambientales (3.10) adversos
+Nota 1 a la entrada: La prevención de la contaminación puede incluir la reducción o la
+eliminación en la fuente, cambios en el proceso, producto o servicio, uso eficiente de
+recursos, sustitución de materiales y energía, reutilización, recuperación, reciclaje,
+recuperación y tratamiento.
+3.15 ciclo de vida
+etapas consecutivas e interrelacionadas del sistema del producto, desde la adquisición
+de materia prima o su generación a partir de recursos naturales hasta el tratamiento al
+finalizar su vida.
+4
+
+--- Página 13 ---
+Nota 1 a la entrada: El ciclo de vida incluye actividades, productos y servicios, y puede
+incluir bienes y servicios adquiridos, al igual que el tratamiento al finalizar la vida de
+productos y la prestación de servicios, por ejemplo, diseño, fabricación, transporte,
+embalaje y uso o disposición final.
+[Fuente: ISO 14044:2006, 3.1, modificado ― referencia a "tratamiento al final de la
+vida", no a "disposición final”. Se agregó la Nota 1 a la entrada].
+3.16 objetivo
+resultado a lograr
+Nota 1 a la entrada: Un objetivo puede ser estratégico, táctico u operativo.
+Nota 2 a la entrada: Los objetivos pueden referirse a diferentes disciplinas (como
+financieras, de salud y seguridad y ambientales) y se pueden aplicar en diferentes
+niveles (como estratégicos, para toda la organización, para proyectos, productos,
+servicios y procesos (3.26)).
+Nota 3 a la entrada: Un objetivo se puede expresar de otras maneras, por ejemplo,
+como un resultado previsto, un propósito, un criterio operativo, un objetivo ambiental
+(3.17), o mediante el uso de términos con un significado similar (por ejemplo, finalidad o
+meta).
+3.17 objetivo ambiental
+objetivo (3.16) establecido por la organización (3.1), coherente con la política ambiental
+(3.6)
+3.18 riesgo
+efecto de la incertidumbre sobre los objetivos (3.16)
+Nota 1 a la entrada: Un efecto es una desviación de lo esperado, ya sea positivo o
+negativo.
+Nota 2 a la entrada: Incertidumbre es el estado, incluso parcial, de deficiencia de
+información relacionada con la comprensión o conocimiento de un evento, su
+consecuencia o su probabilidad.
+Nota 3 a la entrada: El riesgo se caracteriza con frecuencia por referencia a “eventos”
+potenciales (como se definen en la Guía ISO 73:2009, 3.5.1.3) y a "consecuencias"
+(según se definen en la Guía ISO 73:2009, 3.6.1.3), o a una combinación de éstos.
+Nota 4 a la entrada: Con frecuencia el riesgo se expresa en términos de una
+combinación de las consecuencias de un evento (incluye cambios en las
+circunstancias) y la “probabilidad” asociada (como se define en la Guía ISO 73:2009,
+3.6.1.1) de que ocurra.
+5
+
+--- Página 14 ---
+3.19 competencia
+capacidad para aplicar conocimientos y habilidades con el fin de lograr los resultados
+previstos.
+3.20 eficacia
+grado en el cual se realizan las actividades planificadas y se logran los resultados
+planificados,
+3.21 requisito
+necesidad o expectativa que está establecida, generalmente implícita u obligatoria,
+Nota 1 a la entrada: "Generalmente implícita" significa que es una costumbre o práctica
+común en la organización (3.1) y en las partes interesadas (3.5) que la necesidad o
+expectativa que se considera esté implícita.
+Nota 2 a la entrada: Un requisito especificado es el que está declarado, por ejemplo, en
+información documentada (3.7).
+Nota 3 a la entrada: Los requisitos diferentes de los legales se convierten en
+obligatorios cuando la organización decide cumplirlos.
+3.22 obligaciones de cumplimiento
+requisito (3.21) que debe cumplir una organización (3.1) o que decide cumplir.
+Nota 1 a la entrada: Las obligaciones pueden surgir de requisitos (3.21) obligatorios,
+tales como las leyes y reglamentaciones aplicables, o de compromisos voluntarios,
+tales como las normas de la industria y de la organización, las relaciones contractuales,
+los principios de buena gobernanza, las normas de la comunidad y las normas de ética.
+[Fuente: ISO/DIS 19600:2014, 3.31]
+3.23 conformidad
+cumplimiento de un requisito (3.21)
+3.24 no conformidad
+incumplimiento de un requisito (3.21)
+Nota 1 a la entrada: La no conformidad se relaciona con las obligaciones de
+cumplimiento (3.22), incluidos los requisitos de esta Norma Internacional y los
+requisitos adicionales del sistema de gestión ambiental (3.4) que una organización (3.1)
+establece para sí misma.
+6
+
+--- Página 15 ---
+3.25 acción correctiva
+acción para eliminar la causa de una no conformidad (3.24) y prevenir que vuelva a
+ocurrir.
+3.26 proceso
+conjunto de actividades interrelacionadas o que interactúan, que transforma elementos
+de entrada en elementos de salida.
+Nota 1 a la entrada: Los procesos pueden estar documentados o no.
+3.27 medición
+proceso (3.26) para determinar un valor.
+3.28 auditoría
+proceso (3.26) sistemático, independiente y documentado para obtener las evidencias
+de auditoría y evaluarlas de manera objetiva con el fin de determinar el grado en el que
+se cumplen los criterios de auditoría.
+Nota 1 a la entrada: Una auditoría interna la realiza la propia organización (3.1) o una
+parte externa en su nombre.
+Nota 2 a la entrada: Una auditoría puede ser una auditoría combinada (combinando
+dos o más disciplinas).
+Nota 3 a la entrada: La independencia se puede demostrar por la ausencia de
+responsabilidad con relación a la actividad que se audita, o ausencia de sesgo y
+conflicto de intereses.
+Nota 4 a la entrada: La “evidencia de auditoría” consiste en registros verificables,
+declaraciones de hechos y demás información pertinente a los criterios de auditoría; los
+“criterios de auditoría” son el conjunto de políticas, procedimientos (3.30) o requisitos
+(3.21) usados como referencia, contra los cuales se compara la evidencia de auditoría,
+como se define en la Norma ISO 19011.
+3.29 mejora continua
+actividad recurrente para mejorar el desempeño (3.12)
+Nota 1 a la entrada: La mejora del desempeño se relaciona con el uso del sistema de
+gestión ambiental (3.4) para mejorar el desempeño ambiental (3.13) en coherencia con
+la política ambiental (3.6) de la organización (3.1).
+Nota 2 a la entrada: No es necesario que la actividad ocurra simultáneamente en todas
+las áreas, o sin interrupción.
+7
+
+--- Página 16 ---
+3.30 procedimiento
+forma especificada de llevar a cabo una actividad o un proceso (3.26)
+Nota 1 a la entrada: Los procedimientos pueden estar documentados o no.
+3.31 seguimiento
+determinación del estado de un sistema, un proceso (3.26) o una actividad.
+Nota 1 a la entrada: Para determinar el estado puede ser necesario verificar, supervisar
+u observar en forma crítica.
+3.32 contratar externamente
+establecer un acuerdo mediante el cual una organización (3.1) externa realiza parte de
+una función o proceso (3.26) de una organización.
+Nota 1 a la entrada: Una organización externa está fuera del alcance del sistema de
+gestión (3.3) aunque la función o proceso contratado externamente forme parte del
+alcance.
+3.33 indicador
+representación mesurable de la condición o estado de las operaciones, de la gestión o
+de las condiciones. [FUENTE: ISO 14031:2013, 3.15]
+4 CONTEXTO DE LA ORGANIZACIÓN
+4.1 Conocimiento de la organización y de su contexto
+La organización debe determinar las cuestiones externas e internas que son
+pertinentes para su propósito y que afectan a su capacidad para lograr los resultados
+previstos de su sistema de gestión ambiental. Estas cuestiones incluyen las
+condiciones ambientales capaces de afectar o de verse afectadas por la organización.
+4.2 Comprensión de las necesidades y expectativas de las partes interesadas
+La organización debe determinar:
+ las partes interesadas que son pertinentes al sistema de gestión ambiental;
+ las necesidades y expectativas pertinentes (es decir, requisitos) de estas partes
+interesadas;
+ cuáles de estas necesidades y expectativas se convierten en obligaciones de
+cumplimiento.
+8
+
+--- Página 17 ---
+4.3 Determinación del alcance del sistema de gestión ambiental
+La organización debe determinar los límites y la aplicabilidad del sistema de gestión
+ambiental para establecer su alcance.
+Cuando se determina este alcance, la organización debe considerar:
+ las cuestiones externas e internas referidas en 4.1;
+ las obligaciones de cumplimiento referidas en 4.2;
+ las unidades, funciones y límites físicos de la organización;
+ sus actividades, productos y servicios;
+ su autoridad y capacidad para ejercer control e influencia.
+Una vez que se defina el alcance del sistema de gestión, se deben incluir en él las
+actividades, productos y servicios que puedan tener aspectos ambientales significativos
+(véase 6.1.2).
+El alcance se debe mantener como información documentada y debe estar disponible
+para las partes interesadas.
+4.4 Sistema de gestión ambiental
+Para mejorar su desempeño ambiental, la organización debe establecer, implementar,
+mantener y mejorar continuamente un sistema de gestión ambiental, incluidos los
+procesos necesarios y sus interacciones, de acuerdo con los requisitos de esta Norma
+Internacional.
+Al establecer y mantener el sistema de gestión ambiental, la organización debe
+considerar el conocimiento de su contexto.
+5 LIDERAZGO
+5.1 Liderazgo y compromiso
+La alta dirección debe demostrar liderazgo y compromiso con respecto al sistema de
+gestión ambiental:
+ asumiendo la obligación de rendir cuentas para la eficacia del sistema de gestión
+ambiental;
+ asegurando que se establezcan la política ambiental y los objetivos ambientales,
+y que estos sean compatibles con la dirección estratégica y el contexto de la
+organización;
+9
+
+--- Página 18 ---
+ asegurando la integración de los requisitos del sistema de gestión ambiental
+dentro de los procesos de negocio de la organización;
+ asegurando que los recursos necesarios para el sistema de gestión ambiental
+estén disponibles;
+ comunicando la importancia de una gestión ambiental eficaz y conforme con los
+requisitos del sistema de gestión ambiental;
+ asegurando que el sistema de gestión ambiental logre los resultados previstos;
+ dirigiendo y apoyando a las personas, para contribuir a la eficacia del sistema de
+gestión ambiental;
+ promoviendo la mejora continua;
+ apoyando otros roles pertinentes de la dirección, para demostrar su liderazgo
+aplicado a sus áreas de responsabilidad.
+NOTA: En esta Norma Internacional se debería interpretar el término “negocio” en su
+sentido más amplio, es decir, referido a aquellas actividades que son esenciales para
+los propósitos de la existencia de la organización.
+5.2 Política ambiental
+La alta dirección debe establecer, implementar y mantener una política ambiental que,
+dentro del alcance definido de su sistema de gestión ambiental:
+a) sea adecuada a:
+1) el propósito de la organización;
+2) el contexto de la organización, incluida la naturaleza, magnitud e impactos
+ambientales de sus actividades, productos y servicios;
+b) proporcione un marco de referencia para el establecimiento de los objetivos
+ambientales;
+c) incluya compromisos para la protección del medio ambiente, incluida la prevención
+de la contaminación y otros específicos del contexto de la organización;
+NOTA Otros compromisos específicos de protección del medio ambiente pueden
+incluir el uso sostenible de recursos, la mitigación y adaptación al cambio climático
+y la protección de la biodiversidad y de los ecosistemas, y otras cuestiones
+ambientales pertinentes (véase 4.1).
+d) incluya un compromiso de conformidad con las obligaciones de cumplimiento.
+10
+
+--- Página 19 ---
+e) incluya un compromiso de mejora continua del sistema de gestión ambiental para
+mejorar el desempeño ambiental.
+La política ambiental debe:
+ mantenerse como información documentada;
+ comunicarse dentro de la organización, inclusive a las personas que trabajan
+bajo el control de la organización;
+ estar disponible para las partes interesadas.
+5.3 Roles, responsabilidades y autoridades en la organización
+La alta dirección debe asegurarse de que las responsabilidades y autoridades para los
+roles pertinentes se asignen y comuniquen dentro de la organización, para facilitar una
+gestión ambiental eficaz.
+La alta dirección debe asignar la responsabilidad y autoridad para:
+a) asegurarse de que el sistema de gestión ambiental es conforme con los
+requisitos de esta Norma Internacional; y
+b) informar a la alta dirección sobre el sistema de gestión ambiental, incluido su
+desempeño.
+6 PLANIFICACIÓN
+6.1 Acciones para tratar riesgos asociados con amenazas y oportunidades
+6.1.1 Generalidades
+La organización debe planificar e implementar un proceso para cumplir los requisitos de
+6.1
+Al planificar el sistema de gestión ambiental de 6.1 (es decir, 6.1.2 - 6.1.4), la
+organización debe considerar las cuestiones referidas en el apartado 4.1 y los
+requisitos referidos en el apartado 4.2.
+La organización debe mantener la información documentada necesaria para tener la
+confianza en que los procesos se han llevado a cabo según lo planificado.
+6.1.2 Aspectos ambientales significativos
+Dentro del alcance definido del sistema de gestión ambiental, la organización debe:
+11
+
+--- Página 20 ---
+a) identificar los aspectos ambientales y los impactos ambientales asociados de
+sus actividades, productos y servicios que puede controlar y de aquellos en los
+que puede influir, desde una perspectiva de ciclo de vida;
+b) tener en cuenta:
+1) los cambios, incluidos los desarrollos nuevos o planificados, y las
+actividades, productos y servicios nuevos o modificados;
+2) las situaciones anormales y de emergencia potencial identificadas.
+La organización debe determinar aquellos aspectos que tengan o puedan tener un
+impacto significativo sobre el medio ambiente, es decir, aspectos ambientales
+significativos.
+La organización debe comunicar sus aspectos ambientales significativos entre los
+diferentes niveles y funciones de la organización.
+La organización debe mantener información documentada adecuada de:
+ los criterios usados para determinar sus aspectos ambientales significativos;
+ sus aspectos ambientales e impactos ambientales asociados;
+ sus aspectos ambientales significativos.
+NOTA Los aspectos ambientales significativos pueden dar como resultado el riesgo
+asociado con los impactos ambientales adversos (amenazas) o los impactos
+ambientales beneficiosos (oportunidades).
+6.1.3 Obligaciones de cumplimiento
+La organización debe:
+a) identificar y tener acceso a las obligaciones de cumplimiento relacionadas con
+sus aspectos ambientales;
+b) determinar cómo se aplican estas obligaciones de cumplimiento a la
+organización.
+La organización debe mantener información documentada de sus obligaciones de
+cumplimiento.
+NOTA Las obligaciones de cumplimiento pueden tener el potencial de dar como
+resultado el riesgo asociado con los impactos adversos (amenazas) o los impactos
+beneficiosos (oportunidades) para la organización.
+12
+
+--- Página 21 ---
+6.1.4 Riesgo asociado con amenazas y oportunidades
+La organización debe determinar el riesgo asociado con amenazas y oportunidades
+que es necesario tratar con el fin de:
+ asegurar que el sistema de gestión ambiental pueda lograr sus resultados
+previstos;
+ prevenir o reducir efectos indeseados, incluyendo el potencial de que las
+condiciones ambientales externas afecten a la organización;
+ lograr la mejora continua.
+La organización debe mantener información documentada del riesgo asociado con
+amenazas y oportunidades que es necesario tratar.
+6.1.5 Planificación de acciones
+La organización debe planificar:
+a) la realización de acciones para tratar riesgos asociados con amenazas y
+oportunidades (véase 6.1.4), los aspectos ambientales significativos (véase
+6.1.2) y las obligaciones de cumplimiento (véase 6.1.3);
+b) la manera de:
+ integrar e implementar las acciones en los procesos de su sistema de
+gestión ambiental;
+ evaluar la eficacia de estas acciones.
+6.2 Objetivos ambientales y planificación para lograrlos
+6.2.1 Objetivos ambientales
+La organización debe establecer los objetivos ambientales en las funciones y niveles
+pertinentes:
+ teniendo en cuenta los aspectos ambientales significativos de la organización y
+sus obligaciones de cumplimiento;
+ considerando el riesgo asociado con las amenazas y oportunidades.
+Al desarrollar estos objetivos, la organización debe considerar sus opciones
+tecnológicas y los requisitos financieros, operacionales y de negocio.
+Los objetivos ambientales deben:
+13
+
+--- Página 22 ---
+a) ser coherentes con la política ambiental;
+b) ser medibles (si es posible);
+c) ser objeto de seguimiento;
+d) ser comunicados;
+e) ser actualizados, según sea apropiado.
+La organización debe conservar información documentada sobre los objetivos
+ambientales.
+6.2.2 Planificación de acciones para cumplir los objetivos ambientales
+Cuando se hace la planificación para lograr sus objetivos ambientales, la organización
+debe determinar:
+ lo que se va a hacer;
+ qué recursos se requerirán;
+ quién será responsable;
+ cuándo se finalizará;
+ cómo se evaluarán los resultados, incluidos los indicadores de seguimiento de
+los avances para el logro de objetivos ambientales mesurables (véase 9.1.1).
+La organización debe considerar cómo se pueden integrar las acciones para el logro de
+los objetivos ambientales en los procesos de negocio de la organización.
+7 SOPORTE
+7.1 Recursos
+La organización debe determinar y proporcionar los recursos necesarios para el
+establecimiento, implementación, mantenimiento y mejora continua del sistema de
+gestión ambiental.
+7.2 Competencia
+La organización debe:
+ determinar la competencia necesaria de las personas que realizan, bajo su
+control, un trabajo que afecta a su desempeño ambiental;
+ asegurarse de que estas personas sean competentes, basándose en la
+educación, formación o experiencia adecuadas;
+14
+
+--- Página 23 ---
+ cuando sea aplicable, tomar acciones para adquirir la competencia necesaria y
+evaluar la eficacia de las acciones tomadas.
+NOTA: Las acciones aplicables pueden incluir, por ejemplo, la formación, la tutoría o
+la reasignación de las personas empleadas actualmente; o la contratación de
+personas competentes.
+La organización debe conservar la información documentada apropiada, como
+evidencia de la competencia.
+7.3 Toma de conciencia
+Las personas que realizan el trabajo bajo el control de la organización deben tomar
+conciencia de:
+ la política ambiental;
+ los aspectos ambientales significativos y los impactos reales o potenciales
+relacionados, asociados con su trabajo;
+ su contribución a la eficacia del sistema de gestión ambiental, incluidos los
+beneficios de un mejor desempeño ambiental;
+ las implicaciones de no cumplir los requisitos del sistema de gestión ambiental,
+incluidas las obligaciones de cumplimiento.
+7.4 Comunicación
+7.4.1 Generalidades
+La organización debe planificar e implementar un proceso para las comunicaciones
+internas y externas pertinentes al sistema de gestión ambiental, que incluya:
+ qué comunicar;
+ cuándo comunicar;
+ a quién comunicar;
+ cómo comunicar.
+Cuando planifica su proceso de comunicaciones, la organización debe:
+ tener en cuenta sus obligaciones de cumplimiento;
+ asegurar que la información ambiental comunicada sea coherente con la
+información generada dentro del sistema de gestión ambiental, y que sea fiable.
+15
+
+--- Página 24 ---
+ La organización debe responder las comunicaciones pertinentes sobre su
+sistema de gestión ambiental.
+La organización debe conservar la información documentada como evidencia de sus
+comunicaciones, según corresponda.
+7.4.2 Comunicación interna
+Con relación al sistema de gestión ambiental, la organización debe:
+a) comunicar entre los diversos niveles y funciones de la organización, incluidos los
+cambios al sistema de gestión ambiental, según corresponda;
+b) asegurarse de que su proceso de comunicación posibilite que cualquier persona
+que trabaje bajo el control de la organización contribuya a la mejora continua.
+7.4.3 Comunicación externa
+La organización debe comunicar externamente la información pertinente al sistema de
+gestión ambiental, según se determine en su proceso de comunicación y como se
+requiera por sus obligaciones de cumplimiento.
+7.5 Información documentada
+7.5.1 Generalidades
+El sistema de gestión ambiental de la organización debe incluir:
+a) la información documentada requerida por esta Norma Internacional;
+b) la información documentada que la organización ha determinado que es
+necesaria para la eficacia del sistema de gestión ambiental.
+NOTA El alcance de la información documentada para un sistema de gestión
+ambiental puede ser diferente de una organización a otra, debido a:
+ el tamaño de la organización y a su tipo de actividades, procesos, productos y
+servicios;
+ la complejidad de los procesos y sus interacciones, y
+ la competencia de las personas.
+7.5.2 Creación y actualización
+Cuando se crea y actualiza información documentada, la organización debe asegurarse
+de que lo siguiente sea apropiado:
+16
+
+--- Página 25 ---
+ la identificación y descripción (por ejemplo, título, fecha, autor o número de
+referencia);
+ el formato (por ejemplo, idioma, versión del software, gráficos) y medios de
+soporte (por ejemplo, papel, electrónico);
+ la revisión y aprobación con respecto a la idoneidad y adecuación.
+7.5.3 Control de la información documentada
+La información documentada requerida por el sistema de gestión ambiental y por esta
+Norma Internacional se debe controlar para asegurarse de que:
+a) esté disponible y sea adecuada para su uso, dónde y cuándo se necesite;
+b) esté protegida adecuadamente (por ejemplo, contra pérdida de la
+confidencialidad, uso inadecuado, o pérdida de integridad).
+Para el control de la información documentada, la organización debe tratar las
+siguientes actividades, según sea aplicable:
+ distribución, acceso, recuperación y uso;
+ almacenamiento y preservación, incluida la preservación de la legibilidad;
+ control de cambios (por ejemplo, control de versiones);
+ retención y disposición.
+La información documentada de origen externo, que la organización ha determinado
+que es necesaria para la planificación y operación del sistema de gestión ambiental, se
+debe identificar y controlar, según sea adecuado.
+NOTA El acceso implica una decisión concerniente al permiso solamente para revisar
+la información documentada, o al permiso y la autoridad para consultar y modificar la
+información documentada, etc.
+8 OPERACIÓN
+8.1 Planificación y control operacional
+La organización debe planificar, implementar y controlar los procesos necesarios para
+cumplir los requisitos del sistema de gestión ambiental y para implementar las acciones
+determinadas en los apartados 6.1 y 6.2, mediante:
+ el establecimiento de criterios para los procesos;
+17
+
+--- Página 26 ---
+ la implementación del control de los procesos de acuerdo con los criterios y
+prevenir desviaciones de la política ambiental, de los objetivos ambientales y de
+las obligaciones de cumplimiento.
+NOTA Los controles pueden incluir controles de ingeniería, procedimientos,
+procedimientos documentados, etc. Se pueden implementar siguiendo una jerarquía
+(por ejemplo, de eliminación, de sustitución, administrativa) y se pueden usar solos
+o combinados.
+La organización debe controlar los cambios planificados y revisar las consecuencias
+de los cambios no previstos, tomando acciones para mitigar los efectos adversos,
+cuando sea necesario.
+La organización debe asegurarse de que los procesos contratados externamente
+estén controlados o que se tenga influencia sobre ellos. Dentro del sistema de
+gestión ambiental se debe definir el tipo y grado de control o influencia que se va a
+aplicar a estos procesos.
+De manera coherente con la perspectiva del ciclo de vida, la organización debe:
+a) determinar los requisitos ambientales para la compra de productos y
+servicios, según corresponda;
+b) establecer controles para asegurar que los requisitos ambientales se
+consideren en el proceso de diseño para el desarrollo, entrega, uso y
+tratamiento al finalizar la vida de sus productos y servicios, según
+corresponda;
+c) comunicar los requisitos ambientales pertinentes a los proveedores externos,
+incluidos los contratistas;
+d) durante la entrega de productos y servicios y durante el uso y tratamiento al
+finalizar la vida del producto, considerar la necesidad de suministrar
+información acerca de los impactos ambientales significativos potenciales.
+La organización debe mantener la información documentada necesaria para
+tener la confianza en que los procesos se han llevado a cabo según lo
+planificado.
+8.2 Preparación y respuesta ante emergencias
+La organización debe establecer e implementar un procedimiento que especifique
+cómo responder a las situaciones potenciales de emergencia ambiental y a los
+accidentes potenciales.
+La organización debe:
+a) responder a situaciones de emergencia y accidentes reales;
+18
+
+--- Página 27 ---
+b) emprender acciones para reducir las consecuencias de las situaciones de
+emergencia ambiental, apropiadas a la magnitud de la emergencia o accidente y
+al impacto ambiental potencial;
+c) emprender acciones para evitar que ocurran situaciones de emergencia y
+accidentes ambientales;
+d) periódicamente, poner a prueba el procedimiento donde sea posible;
+e) periódicamente, revisar, y donde sea necesario, actualizar el procedimiento, en
+particular, después de que hayan ocurrido accidentes, situaciones de
+emergencia o de que se hayan realizado pruebas.
+9 EVALUACIÓN DEL DESEMPEÑO
+9.1 Seguimiento, medición, análisis y evaluación
+9.1.1 Generalidades
+La organización debe determinar:
+ a qué es necesario hacer seguimiento y qué es necesario medir, en relación con:
+1) aquellas de sus operaciones que pueden tener un impacto ambiental
+significativo;
+2) sus obligaciones de cumplimiento;
+3) los controles operacionales;
+4) el progreso con relación a los objetivos ambientales de la organización,
+mediante el uso de indicadores;
+ los métodos de seguimiento, medición, análisis y evaluación, según sea
+aplicable, para asegurar resultados válidos;
+ los criterios contra los cuales la organización evaluará su desempeño ambiental,
+mediante el uso de indicadores apropiados;
+ cuándo se deben llevar a cabo el seguimiento y la medición;
+ cuándo se deben analizar y evaluar los resultados del seguimiento y la medición.
+La organización debe asegurarse de que se usan equipos de seguimiento y medición
+calibrados o verificados, y que reciben el mantenimiento apropiado.
+La organización debe evaluar su desempeño ambiental y proporcionar entradas para la
+revisión por la dirección (véase 9.3), para la evaluación de la eficacia del sistema de
+gestión ambiental.
+19
+
+--- Página 28 ---
+La organización debe conservar la información documentada adecuada como evidencia
+de los resultados del seguimiento, la medición, el análisis y la evaluación.
+La organización debe comunicar externa e internamente la información pertinente a su
+desempeño ambiental, según se determine en su proceso de comunicación y como se
+exija en sus obligaciones de cumplimiento.
+9.1.2 Evaluación del cumplimiento
+La organización debe planificar e implementar un proceso para evaluar la conformidad
+con sus obligaciones de cumplimiento.
+La organización debe:
+ determinar la frecuencia con la que se evaluará el cumplimiento;
+ evaluar el cumplimiento y emprender las acciones que sean necesarias;
+ mantener el conocimiento y la comprensión de su estado de conformidad con las
+obligaciones de cumplimiento.
+La organización debe conservar información documentada como evidencia de los
+resultados de la evaluación del cumplimiento.
+9.2 Auditoría interna
+9.2.1 Planificación de las auditorías
+La organización debe llevar a cabo auditorías internas a intervalos planificados, para
+proporcionar información acerca de si el sistema de gestión ambiental:
+a) cumple:
+ los propios requisitos de la organización para su sistema de gestión
+ambiental;
+ los requisitos de esta Norma Internacional;
+b) está implementado y mantenido eficazmente.
+9.2.2 Proceso de auditoría
+La organización debe:
+20
+
+--- Página 29 ---
+a) planificar, establecer, implementar y mantener uno o varios programas de
+auditoría que incluyan la frecuencia, los métodos, las responsabilidades, los
+requisitos de planificación, y la elaboración de informes. Los programas de
+auditoría deben tener en cuenta la importancia ambiental de los procesos
+involucrados, los riesgos asociados con amenazas y oportunidades, y los
+resultados de las auditorías previas.
+b) para cada auditoría, definir los criterios y el alcance de ésta;
+c) seleccionar los auditores y llevar a cabo auditorías para asegurarse de la
+objetividad y la imparcialidad del proceso de auditoría;
+d) asegurarse de que los resultados de las auditorías se informan a la dirección
+pertinente.
+La organización debe conservar información documentada como evidencia de la
+implementación del programa de auditoría y de los resultados de ésta.
+9.3 Revisión por la dirección
+La alta dirección debe revisar el sistema de gestión ambiental de la organización a
+intervalos planificados, para asegurarse de su conveniencia, adecuación y eficacia
+continuas.
+La revisión por la dirección debe incluir consideraciones sobre:
+a) el estado de las acciones desde anteriores revisiones por la dirección;
+b) los cambios en:
+ las cuestiones externas e internas que sean pertinentes al sistema de
+gestión ambiental;
+ las obligaciones de cumplimiento;
+ sus aspectos ambientales significativos y el riesgo asociado con amenazas y
+oportunidades;
+c) el grado en el cual se han cumplido los objetivos;
+d) la información sobre el desempeño ambiental de la organización, incluidas las
+tendencias relativas a:
+ no conformidades y acciones correctivas;
+ seguimiento y resultados de las mediciones;
+ conformidad con sus obligaciones de cumplimiento;
+21
+
+--- Página 30 ---
+ resultados de la auditoría;
+e) las comunicaciones de las partes interesadas externas;
+f) las oportunidades de mejora continua;
+g) la adecuación de los recursos necesarios para mantener un sistema de gestión
+ambiental eficaz
+Los elementos de salida de la revisión por la dirección deben incluir:
+ las conclusiones sobre la conveniencia, adecuación y eficacia continuas del
+sistema de gestión ambiental;
+ las decisiones relacionadas con las oportunidades de mejora continua;
+ cualquier necesidad de cambio en el sistema de gestión ambiental, incluidas las
+necesidades de recursos;
+ las acciones necesarias, cuando no se hayan cumplido los objetivos;
+ cualquier implicación para la dirección estratégica de la organización.
+La organización debe conservar información documentada como evidencia de los
+resultados de las revisiones por la dirección.
+10 MEJORA
+10.1 No conformidades y acciones correctivas
+Cuando ocurra una no conformidad, la organización debe:
+a) reaccionar ante la no conformidad, y según sea aplicable:
+ tomar acciones inmediatas para controlarla y corregirla;
+ mitigar los impactos ambientales adversos;
+ hacer frente a las consecuencias;
+b) evaluar la necesidad de acciones para eliminar las causas de la no conformidad,
+con el fin de que no vuelva a ocurrir en ese mismo lugar o en otro diferente,
+mediante:
+ la revisión de la no conformidad;
+ la determinación de las causas de la no conformidad;
+22
+
+--- Página 31 ---
+ la determinación de si existen no conformidades similares, o que
+potencialmente podrían ocurrir;
+c) determinar e implementar cualquier acción correctiva necesaria;
+d) revisar la eficacia de las acciones correctivas tomadas, y
+e) si es necesario hacer cambios al sistema de gestión ambiental.
+Las acciones correctivas deben ser adecuadas a la importancia de los efectos de
+las no conformidades encontradas, incluidos los impactos ambientales.
+La organización debe conservar información documentada adecuada, como
+evidencia de:
+ la naturaleza de las no conformidades y cualquier acción posterior tomada, y
+ los resultados de cualquier acción correctiva.
+10.2 Mejora continua
+La organización debe mejorar continuamente la idoneidad, adecuación y eficacia del
+sistema de gestión ambiental, para mejorar el desempeño ambiental
+23
+
+--- Página 32 ---
+ANEXO A (INFORMATIVO) GUÍA PARA EL USO DE ESTA NORMA
+INTERNACIONAL
+A.0 Generalidades
+Esta Norma Internacional esboza los requisitos de un sistema de gestión ambiental
+robusto, creíble y confiable. El texto adicional presentado en este anexo es
+estrictamente informativo, y está destinado a prevenir la interpretación errónea de los
+requisitos contenidos en esta Norma Internacional. Aunque esta información tiene en
+cuenta estos requisitos y es coherente con ellos, no está prevista para adicionarlos,
+eliminarlos o modificarlos de ninguna manera.
+El usuario no debería leer ninguna frase ni párrafo de esta Norma Internacional de
+forma aislada de los demás capítulos de la norma. Existe una interrelación entre los
+requisitos de algunos capítulos, con los requisitos de otros capítulos.
+A.1 Objeto y campo de aplicación
+Esta Norma Internacional no contiene información explicativa del capítulo 1.
+A.2 Referencias normativas
+Esta Norma Internacional no contiene información explicativa del capítulo 2.
+A.3 Términos y definiciones
+Los términos definidos en el capítulo 3 tienen un sentido técnico especializado y son
+normativos para su uso en esta Norma Internacional. Este apartado suministra
+explicación adicional de algunas palabras que son de uso común en las normas de
+sistemas de gestión, para ayudar a los usuarios a entender sus implicaciones y para
+ayudar a su traducción.
+ “Programa”: serie planificada de pasos, proyectos o actividades para llevar a
+cabo.
+ “Diseñar”: idear la forma, ajuste o función de algo.
+ “Propósito”: resultado anticipado (previsto o esperado) que orienta las acciones
+planificadas.
+ “Determinar”: Establecer o averiguar.
+ “Definir”: enunciar o describir exactamente la naturaleza, alcance o significado
+de lo que está en consideración.
+ Identificar: establecer la identidad de algo.
+24
+
+--- Página 33 ---
+Para evitar malentendidos, a continuación se presentan aclaraciones de los
+conceptos seleccionados.
+ Las “NOTAS” incluidas en los diferentes apartados de esta Norma Internacional
+son informativas.
+ “Continua” indica la duración que ocurre durante un periodo de tiempo, pero con
+intervalos de interrupción (a diferencia de “continuado”, que indica duración sin
+interrupción). Por tanto, “continua” es la palabra apropiada para uso en el
+contexto de la mejora.
+ La palabra “considerar” significa pensar en algo, con posibilidad de rechazarlo;
+“tener en cuenta” significa que es necesario pensar en algo, pero con posibilidad
+de rechazarlo.
+ Las palabras “apropiado” y “aplicable” no son intercambiables. “Apropiado”
+significa adecuado para algo, e implica algún grado de libertad, mientras que
+“aplicable” significa pertinente o que se puede aplicar, e implica que si se puede
+hacer algo, se debería hacer.
+ La palabra “asegurar” significa que la responsabilidad se puede delegar, pero no
+la obligación de rendir cuentas para cerciorarse de que se ejecuta.
+En esta Norma Internacional se usa nueva terminología. A continuación se
+presenta una breve explicación para ayudar a los usuarios y a quienes han
+usado ediciones anteriores de esta Norma Internacional.
+ “Información documentada” sustituye a los sustantivos “documentación” y
+“registro” usados en ediciones anteriores de esta Norma Internacional. Para
+diferenciar la intención del término genérico “información documentada”, en esta
+Norma Internacional se usa la frase “conservar información documentada como
+evidencia de…” para designar los registros, y “conservar información
+documentada” para designar documentación diferente de los registros. La frase
+“como evidencia de….” no es un requisito para cumplir requisitos probatorios
+legales; busca indicar solamente la evidencia objetiva que es necesario
+conservar.
+ El cambio de “identificar” a “determinar” busca lograr la armonización con la
+terminología normalizada para sistemas de gestión, no modificar la intención de
+la edición anterior de esta Norma Internacional. El término “determinar” implica
+un proceso de descubrimiento que da como resultado conocimiento.
+ El término “resultado previsto” significa lo que la organización prevé lograr
+mediante la implementación de su sistema de gestión ambiental, que incluye la
+mejora del desempeño ambiental, la conformidad con las obligaciones de
+cumplimiento y el logro de los objetivos ambientales. Estos son resultados
+esenciales mínimos, y las organizaciones pueden establecer resultados
+previstos adicionales, para su sistema de gestión ambiental.
+25
+
+--- Página 34 ---
+ La frase “obligaciones de cumplimiento” sustituye a la frase “requisitos legales y
+otros requisitos que la organización suscriba”, usada en ediciones anteriores de
+esta Norma Internacional. El cambio busca facilitar la comprensión, y no modifica
+la intención de la edición anterior de esta Norma Internacional.
+ El uso de la palabra “cualquiera” implica selección y opción.
+A.4 Contexto de la organización
+A.4.1 Comprensión del contexto de la organización
+La intención de 4.1 es permitir comprensión conceptual de alto nivel de las cuestiones
+importantes que pueden afectar, ya sea positiva o negativamente, a la forma en que la
+organización gestiona sus responsabilidades ambientales. Las cuestiones son los
+temas importantes para la organización, los problemas para debatir, y las
+circunstancias en discusión o cambiantes que pueden afectar a la capacidad de la
+organización para lograr los resultados previstos que establece para su sistema de
+gestión ambiental.
+Las cuestiones internas y externas pertinentes al contexto de la organización pueden
+incluir, entre otras:
+a) las condiciones ambientales relacionadas con el clima, la calidad del aire, la
+calidad del agua, el uso de la tierra, la contaminación existente, la disponibilidad
+de recursos naturales, la biodiversidad, etc., que pueden afectar el propósito de
+la organización o verse afectadas por sus aspectos ambientales.
+b) el contexto cultural, social, político, legal, reglamentario, financiero, tecnológico,
+económico, natural y competitivo externo, ya sea internacional, nacional,
+regional o local;
+c) las características o condiciones internas de la organización, tales como sus
+actividades, productos y servicios, dirección estratégica, cultura y capacidades
+(personas, conocimiento, procesos, sistemas).
+La comprensión de los resultados del contexto de una organización da como
+resultado el conocimiento que se usa para orientar sus esfuerzos al
+establecimiento, implementación, mantenimiento y mejora continua de su
+sistema de gestión ambiental (véase 4.4). Es necesario tener en cuenta (véase
+6.1.5) y gestionar (véanse 6.2, 8.1, 8.2 y 9.1) las cuestiones internas y externas
+que dan lugar al riesgo asociado con amenazas y oportunidades para la
+organización o para el sistema de gestión ambiental (véase 6.1.4).
+.
+La organización puede documentar su conocimiento del contexto de la
+organización, según corresponda.
+26
+
+--- Página 35 ---
+A.4.2 Comprensión de las necesidades y expectativas de las partes interesadas
+Se espera que una organización tenga una comprensión general (es decir, de alto
+nivel, no detallada) de las necesidades y expectativas expresadas por las partes
+interesadas internas y externas que se ha determinado que son pertinentes, de manera
+que el conocimiento adquirido se pueda considerar cuando se determinan sus
+obligaciones de cumplimiento.
+Se espera que la organización considere las necesidades y expectativas de las partes
+interesadas, para determinar las que son pertinentes. En el caso de que una parte
+interesada se perciba como afectada por las decisiones o actividades de la
+organización relacionadas con el desempeño ambiental, la organización considera las
+necesidades y expectativas pertinentes que dicha parte ha expresado o revelado de
+alguna manera a la organización.
+Los requisitos de las partes interesadas no son necesariamente requisitos de la
+organización. Algunos requisitos de las partes interesadas reflejan necesidades y
+expectativas que son obligatorias porque han sido incorporadas a las leyes,
+reglamentaciones, permisos y licencias por el gobierno, o incluso por decisión de un
+tribunal, y otros que la organización puede decidir acordar o adoptar voluntariamente
+(por ejemplo, establecer una relación contractual o suscribir una iniciativa voluntaria).
+Una vez que la organización los adopte, se convierten en requisitos de la organización,
+es decir, en obligaciones de cumplimiento, y se tienen en cuenta para la planificación
+del sistema de gestión ambiental (véase 4.4). En el apartado 6.1.3 se presenta un
+análisis más detallado de las obligaciones de cumplimiento.
+La organización puede documentar su conocimiento de los requisitos pertinentes de las
+partes interesadas, según corresponda.
+A.4.3 Alcance de un sistema de gestión ambiental
+El alcance de un sistema de gestión ambiental está previsto para aclarar los límites
+espaciales y de la organización a los que se aplicará el sistema de gestión ambiental,
+especialmente si ésta es parte de una organización más grande en un lugar dado. Una
+organización tiene la libertad y la flexibilidad para definir sus límites. Puede decidir
+implementar esta Norma Internacional en toda la organización, o en partes específicas
+de ella, en tanto la alta dirección de esa parte de la organización posea la autoridad
+para establecer un sistema de gestión ambiental.
+Al determinar el alcance, la credibilidad del sistema de gestión ambiental dependerá de
+la elección de los límites de la organización. La organización considera el grado de
+control o influencia que puede ejercer sobre sus actividades, productos y servicios
+desde una perspectiva de ciclo de vida. El alcance no se debería usar para excluir
+actividades, productos, servicios o instalaciones que tengan o puedan tener aspectos
+ambientales significativos, o para evadir sus obligaciones de cumplimiento. El alcance
+debería estar basado en hechos y debería ser representativo de las operaciones de la
+organización incluidas en los límites de su sistema de gestión ambiental, de manera
+que no induzca a error a las partes interesadas.
+27
+
+--- Página 36 ---
+Una vez que la organización afirme que cumple con esta Norma Internacional, el
+alcance se pone a disposición de las partes interesadas.
+A.4.4 Sistema de gestión ambiental
+La organización conserva la autoridad, la obligación de rendir cuentas y la autonomía
+para decidir cómo cumplirá los requisitos de esta Norma Internacional, incluido el nivel
+de detalle y grado en el que:
+ integrará los requisitos del sistema de gestión ambiental en las diversas
+funciones de negocio tales como diseño y desarrollo, compras, recursos
+humanos, ventas y marketing, etc.
+ incorporará las cuestiones asociadas con su contexto (véase 4.1) y los requisitos
+de las partes interesadas (véase 4.2) dentro de su sistema de gestión ambiental.
+Si esta Norma Internacional se implementa en partes específicas de una
+organización, las políticas y procedimientos desarrollados por otras partes de la
+organización se pueden usar para cumplir los requisitos de esta Norma
+Internacional, siempre y cuando sean aplicables a las partes específicas que
+estarán sujetas a ellos.
+A.5 Liderazgo
+A.5.1 Liderazgo y compromiso
+El compromiso y el apoyo activo, incluido el suministro de recursos suficientes por parte
+de la alta dirección de la organización, son críticos para el éxito del sistema de gestión
+ambiental.
+El apartado 5.1 especifica acciones que la alta dirección dirige y en las que está
+involucrada personalmente en la organización. Es posible que la alta dirección no
+ejecute todas las acciones por sí misma (por ejemplo, puede delegar la responsabilidad
+a otros) pero rinde cuentas con relación a asegurarse de que se ejecuten.
+Se espera que la alta dirección cree una cultura y un ambiente que estimule a las
+personas a asumir roles de liderazgo (no necesariamente cargos de dirección formales,
+por ejemplo, líderes de equipo) para trabajar activamente hacia la implementación de
+los requisitos del sistema de gestión ambiental y el cumplimiento de los objetivos
+ambientales.
+A.5.2 Política ambiental
+Una política ambiental es un conjunto de principios establecidos como compromisos,
+en los cuales la alta dirección de la organización establece la orientación a largo plazo
+para apoyar y mejorar su desempeño ambiental. La política ambiental posibilita que la
+organización establezca sus objetivos y emprenda acciones para lograr los resultados
+previstos del sistema de gestión ambiental.
+28
+
+--- Página 37 ---
+El apartado 5.2 especifica los tres compromisos básicos para la política ambiental:
+proteger el medio ambiente, cumplir con las obligaciones de cumplimiento de la
+organización y con la mejora continua. Estos compromisos se tienen en cuenta en
+requisitos específicos de otros apartados, para establecer, implementar, mantener y
+mejorar continuamente un sistema de gestión ambiental robusto, creíble y fiable.
+El compromiso de proteger el medio ambiente tiene como fin no solamente prevenir
+impactos ambientales adversos, sino proteger el entorno natural contra el daño y la
+degradación. Los compromisos específicos que aspira cumplir una organización
+deberían ser pertinentes a su contexto y deberían afectar positivamente a las
+condiciones ambientales locales o regionales. Estos compromisos pueden tener en
+cuenta la calidad del agua, el reciclaje o la calidad del aire, y pueden incluir
+oportunidades mucho mayores relacionadas con la mitigación y adaptación al cambio
+climático, la preservación de la biodiversidad y de los ecosistemas, y la restauración.
+Es importante comprender que los requisitos de esta Norma Internacional necesitan
+considerarse desde una perspectiva sistémica u holística. Esto significa que la
+organización necesita comprender la relación entre los compromisos de política y los
+requisitos que se especifican en otros apartados.
+Aunque todos los compromisos son importantes, a algunas partes interesadas les
+preocupa especialmente el compromiso de la organización para el cumplimiento de sus
+obligaciones de cumplimiento, particularmente la necesidad de cumplir los requisitos
+legales aplicables. A este respecto, es importante reconocer que esta Norma
+Internacional especifica varios requisitos interconectados relacionados con este
+compromiso. Esto incluye la necesidad de determinar las obligaciones de cumplimiento,
+para asegurar que las operaciones se lleven a cabo de acuerdo con estas obligaciones
+de cumplimiento, y para evaluar la conformidad con ellas.
+La reputación de la organización y la credibilidad de su sistema de gestión ambiental
+dependen de su éxito para cumplir los compromisos de política, y cuando sea posible,
+superarlos.
+A.5.3 Roles, responsabilidades y autoridades en la organización
+Las personas asignadas a estos roles por la alta dirección deberían tener acceso
+suficiente a la alta dirección, para asegurar la participación de ésta en caso de
+situaciones críticas relacionadas con el establecimiento, implementación,
+mantenimiento y mejora continua del sistema de gestión ambiental. El rol y la autoridad
+para informar sobre el desempeño del sistema de gestión ambiental se asignan con
+frecuencia a un representante de la dirección.
+A.6 Planificación
+A.6.1 Acciones para tratar riesgos asociados con amenazas y oportunidades
+A.6.1.1 Generalidades
+El contexto de la organización (véanse 4.1 y 4.2) proporciona un marco de referencia
+29
+
+--- Página 38 ---
+general para la evaluación del riesgo asociado con amenazas y oportunidades en 6.1.
+Proporciona una base para:
+a) identificar los aspectos ambientales y establecer los criterios con el fin de
+determinar los que puedan ser significativos;
+b) determinar las obligaciones de cumplimiento y comprender cómo se aplican a
+las actividades, productos y servicios de la organización; y
+c) establecer criterios para evaluar el riesgo asociado con las amenazas y
+oportunidades.
+Las cuestiones identificadas al considerar el contexto de la organización, sus
+aspectos ambientales significativos o sus obligaciones de cumplimiento y sus
+amenazas y oportunidades asociadas se han de tener en cuenta al establecer,
+implementar, mantener y mejorar continuamente el sistema de gestión ambiental
+de la organización.
+Depende de la organización determinar la naturaleza y nivel de detalle de la
+información documentada que desarrolla.
+A.6.1.2 Aspectos ambientales significativos
+El apartado A.6.1.2 expone los procesos que una organización debería usar
+para identificar sus aspectos ambientales e impactos asociados, y para
+determinar aquellas áreas significativas que deberían tenerse en cuenta como
+una prioridad por el sistema de gestión ambiental de la organización.
+Se denominan impactos ambientales los cambios en el medio ambiente, ya sean
+adversos o beneficiosos, que son el resultado total o parcial de aspectos
+ambientales. Un impacto ambiental puede ocurrir a escala local, regional y
+global, y puede ser de naturaleza directa, indirecta o acumulativa. La relación
+entre los aspectos ambientales y los impactos ambientales es de causa y efecto.
+En la identificación de los aspectos ambientales, la organización debería aplicar
+una perspectiva de ciclo de vida. Sin embargo, para esto no se requiere una
+evaluación de ciclo de vida detallada; es suficiente una simple consideración de
+las etapas del ciclo de vida que pueden estar bajo el control o influencia de la
+organización. Para este propósito, la organización puede obtener esta
+información directamente o solicitarla a sus proveedores de productos y
+servicios. En este proceso se puede usar la información ya desarrollada con
+fines de reglamentación u otros propósitos. Las etapas típicas del ciclo de vida
+de un producto pueden incluir, por ejemplo, la extracción de las materias primas,
+el diseño, la producción, el transporte, el uso y el tratamiento al finalizar la vida.
+Las etapas del ciclo de vida que son aplicables variarán dependiendo de la
+actividad, producto o servicio.
+Una organización debería identificar los aspectos ambientales que están dentro
+del alcance de su sistema de gestión ambiental, teniendo en cuenta las entradas
+30
+
+--- Página 39 ---
+y salidas (previstas e imprevistas) asociadas con sus actividades, productos y
+servicios actuales y pasados pertinentes, desarrollos planificados o nuevos, o
+actividades, productos y servicios nuevos o modificados.
+Una situación de emergencia se puede considerar como un evento indeseado
+que si no se trata, puede acarrear finalmente consecuencias adversas para la
+organización o el medio ambiente, según se determine y priorice durante la
+etapa de planificación del sistema de gestión ambiental. El proceso de
+identificación de los aspectos ambientales incluye la identificación de las
+condiciones de operación normales y anormales, las condiciones de apagado y
+de puesta en marcha, al igual que las situaciones de emergencia
+razonablemente previsibles. Se debería prestar atención especial a las
+situaciones de emergencia anteriores y a los resultados de las pruebas hechas a
+los procedimientos de respuesta ante emergencias.
+Cuando se pueden gestionar conjuntamente, no es necesario que las
+organizaciones consideren de forma individual cada producto, componente o
+materia prima; pueden seleccionar categorías de actividades, productos y
+servicios para identificar y evaluar sus aspectos ambientales.
+Aunque no hay un solo enfoque para la identificación de los aspectos
+ambientales, el enfoque seleccionado podría incluir, por ejemplo:
+a) las emisiones al aire;
+b) los vertidos al agua;
+c) las descargas al suelo;
+d) el uso de materias primas y recursos naturales;
+e) el uso de energía;
+f) la energía emitida, por ejemplo, calor, radiación, vibración (ruido) y luz;
+g) la generación de residuos o subproductos;
+h) los aspectos ambientales con impacto beneficioso.
+Además de los aspectos ambientales que una organización puede controlar
+directamente, la organización necesita determinar si hay aspectos ambientales
+en los que puede influir. Estos pueden estar relacionados con los productos y
+servicios usados por la organización y que son suministrados por otros, al igual
+que con los productos y servicios que suministra a otros fuera de la
+organización, incluidos los asociados con los procesos contratados
+externamente. Con respecto a los productos y servicios que la organización
+proporciona a otros, las organizaciones pueden tener influencia limitada sobre el
+uso y disposición final de sus productos una vez que salen de su control. Sin
+embargo, en todas las circunstancias es la organización la que determina el
+31
+
+--- Página 40 ---
+grado de control que está en capacidad de ejercer, los aspectos ambientales en
+los que puede influir y en qué medida decide ejercer alguna influencia.
+Se deberían considerar los aspectos ambientales relacionados con las
+actividades, productos y servicios de la organización, tales como:
+ el diseño y desarrollo de sus instalaciones, procesos, productos y
+servicios, incluido el desarrollo de productos y servicios con impacto
+ambiental negativo reducido;
+ el uso de materias primas y recursos naturales;
+ los procesos operativos o de fabricación, incluido el almacenamiento;
+ la operación y mantenimiento de las instalaciones, activos e
+infraestructura de la organización;
+ el desempeño ambiental y las prácticas de contratistas y proveedores;
+ la distribución de productos y la prestación de servicios, incluidos el
+embalaje y transporte;
+ el almacenamiento, uso y tratamiento al finalizar la vida de los productos;
+ la generación, gestión y disposición final de los residuos, incluidas la
+reutilización, la renovación y el reciclaje.
+No hay un método único para determinar los aspectos ambientales significativos.
+Sin embargo, el método y los criterios que se usen deberían arrojar resultados
+coherentes.
+Un aspecto ambiental puede provocar un impacto ambiental, que puede dar
+como resultado una amenaza u oportunidad que necesita tenerse en cuenta
+para asegurar que la organización puede lograr los resultados previstos del
+sistema de gestión ambiental. Un aspecto ambiental que tiene el potencial de
+causar un impacto adverso al medio ambiente se puede considerar como una
+“amenaza”, mientras que un aspecto ambiental que tiene el potencial de causar
+un impacto ambiental beneficioso se puede considerar como una “oportunidad”.
+A.6.1.3 Obligaciones de cumplimiento
+La organización necesita determinar a un nivel detallado las obligaciones de
+cumplimiento identificadas en 4.2 que son aplicables a sus aspectos ambientales
+y cómo se aplican a la organización. Las obligaciones de cumplimiento incluyen
+las obligaciones legales y otras obligaciones impuestas que la organización debe
+cumplir, y aquellas obligaciones sobre las cuales la organización tiene la
+discreción de adoptar o no.
+32
+
+--- Página 41 ---
+Las obligaciones legales son requisitos obligatorios que emanan de entidades
+gubernamentales o de otras autoridades pertinentes. Estas pueden incluir:
+ leyes y reglamentaciones;
+ permisos, licencias u otras formas de autorización;
+ órdenes, reglas o guías expedidas por los organismos de reglamentación;
+ sentencias de cortes o tribunales administrativos;
+ tratados, convenciones y protocolos.
+Las obligaciones de cumplimiento también incluyen otros requisitos de las partes
+interesadas relacionados con sus aspectos ambientales, que la organización
+decide adoptar. Estas pueden incluir, si es aplicable:
+a) acuerdos con comunidades u organizaciones no gubernamentales;
+b) acuerdos con autoridades públicas y clientes;
+c) requisitos de la organización;
+d) principios o códigos de práctica voluntarios;
+e) compromisos ambientales o de etiquetado voluntarios;
+f) obligaciones que surgen por acuerdos contractuales con la organización;
+g) normas pertinentes de la industria y de la organización.
+La diferencia principal entre un requisito legal y una obligación adquirida
+voluntariamente es que la organización decide asumir obligaciones en forma
+voluntaria. Sin embargo, una vez que se ha tomado la decisión, el cumplimiento
+se hace obligatorio, particularmente cuando se establecen acuerdos vinculantes.
+A.6.1.4 Riesgo asociado con amenazas y oportunidades
+El riesgo asociado con amenazas y oportunidades puede estar relacionado con
+uno o más aspectos ambientales significativos de una organización, obligaciones
+de cumplimiento u otras cuestiones, tales como las creadas por las condiciones
+ambientales externas, o por cualquier circunstancia interna. La organización
+determina el riesgo asociado con amenazas u oportunidades que pueden afectar
+a su capacidad para que su sistema de gestión ambiental logre el resultado
+deseado, para prevenir o reducir los efectos indeseados o para alcanzar la
+mejora continua, y por tanto es necesario tenerlo en cuenta. Una organización
+puede determinar el riesgo asociado con amenazas y oportunidades, por
+33
+
+--- Página 42 ---
+separado o en combinación, y puede integrar su enfoque con los análisis de los
+apartados previos (véanse 6.1.2 y 6.1.3).
+La organización selecciona el método mediante el cual se determina el riesgo
+asociado con amenazas y oportunidades. Este método puede involucrar un
+proceso cualitativo bastante sencillo o una evaluación cualitativa completa,
+dependiendo del contexto en el que opere la organización (por ejemplo, el
+tamaño de la organización, el sector tecnológico, el nivel de madurez del sistema
+de gestión ambiental).
+Los resultados de esta determinación son los elementos de entrada para
+planificar las acciones (véase 6.1.5) y para establecer los objetivos ambientales
+(véase 6.2).
+A.6.1.5 Planificación de acciones
+Algunas de estas amenazas y oportunidades, incluidas las creadas por otras
+cuestiones que afectan a la capacidad de la organización para lograr los
+resultados previstos del sistema de gestión ambiental, también pueden ser
+elementos de entrada importantes para otras partes del sistema de gestión, tales
+como soporte (véase el capítulo 7), operación (véase el capítulo 8), evaluación
+del desempeño (véase el capítulo 9) y mejora (véase el capítulo 10).
+La planificación puede tener en cuenta las acciones a través de una sola ruta o
+de una combinación de ellas dentro del sistema de gestión ambiental, que
+incluyan, por ejemplo, el establecimiento de objetivos, la planificación y el control
+operacionales, la preparación ante emergencias o el seguimiento y la medición.
+Algunas acciones se pueden tener en cuenta a través de otros procesos de
+negocio tales como los sistemas de gestión de salud y seguridad en el trabajo, o
+los sistemas de gestión de continuidad de negocio u otros procesos relacionados
+con gestión del riesgo, de recursos financieros o humanos.
+A.6.2 Objetivos ambientales y planificación para lograrlos
+Los objetivos ambientales los puede establecer la alta dirección a nivel
+estratégico, táctico u operacional. El nivel estratégico incluye los niveles más
+altos de la organización, mientras que los objetivos son aplicables a toda la
+organización. Los niveles táctico y operacional pueden incluir objetivos para
+unidades o funciones específicas dentro de la organización y deberían ser
+compatibles con su dirección estratégica. El concepto de “objetivo” usado en
+ediciones anteriores de esta Norma Internacional está contenido en la definición
+de “objetivo ambiental”.
+Aunque el requisito de “tener en cuenta los aspectos ambientales significativos”
+no significa que se deba establecer un objetivo para cada aspecto significativo,
+debería quedar claro que, al desarrollar los objetivos, los aspectos significativos
+tienen una mayor prioridad.
+34
+
+--- Página 43 ---
+“Coherente con la política ambiental” significa que es necesario alinear y
+armonizar ampliamente los objetivos ambientales con los compromisos hechos
+por la alta dirección en la política ambiental.
+Se seleccionan indicadores para medir el logro de los objetivos medibles. Al
+incluir la advertencia “donde sea posible” se reconoce que puede haber
+situaciones en las que es posible que no sea viable medir un objetivo. Se puede
+encontrar información adicional sobre el establecimiento de indicadores
+ambientales, en la Norma ISO 14031.
+A.7 Soporte
+A.7.1 Recursos
+Los recursos incluyen los recursos humanos, los recursos naturales, la infraestructura,
+la tecnología y los recursos financieros.
+Los recursos humanos incluyen habilidades y conocimiento especializados. La
+infraestructura incluye los edificios de la organización, sus sistemas de contención,
+bombas, etc.
+A.7.2 Competencia
+Este apartado se aplica a cualquier persona:
+a) cuyo trabajo tenga el potencial de provocar un impacto ambiental significativo;
+b) a la que se le hayan asignado responsabilidades relacionadas con la gestión
+ambiental, incluidas aquellas que:
+1) identifican y evalúan los impactos ambientales y las obligaciones de
+cumplimiento;
+2) contribuyen al logro de un objetivo ambiental;
+3) responden ante situaciones de emergencia;
+4) llevan a cabo auditorías internas;
+c) afectan de otra manera el desempeño ambiental.
+A.7.3 Toma de conciencia
+La toma de conciencia de la política ambiental no debería dar a entender que las
+personas que realizan trabajo para el control de la organización deban memorizar o
+tener una copia real y documentada de la política ambiental, sino que deberían conocer
+su existencia, su propósito y su rol para el cumplimiento de los compromisos.
+35
+
+--- Página 44 ---
+A.7.4 Comunicación
+La comunicación permite que la organización suministre y obtenga información
+pertinente para su sistema de gestión ambiental, incluidos sus aspectos ambientales
+significativos, el desempeño ambiental y las obligaciones de cumplimiento. El proceso
+de comunicación se considera un proceso en dos vías, hacia fuera y hacia adentro de
+la organización.
+La información que recibe la organización puede contener solicitudes de las partes
+interesadas concernientes a información específica relacionada con la gestión de sus
+aspectos ambientales, y también las impresiones u opiniones generales acerca de la
+forma en que la organización hace la gestión. Estas opiniones pueden ser positivas o
+negativas. En el último caso (por ejemplo, quejas), es importante que la organización
+dé una respuesta pronta y clara. Un análisis posterior de estas quejas puede brindar
+información valiosa para detectar oportunidades de mejora para el sistema de gestión
+ambiental.
+Al determinar la manera en que se comunicará, la organización debería considerar:
+a) los métodos, incluidos el verbal y el escrito;
+b) las herramientas, incluido internet, cartas, videos o informes;
+c) quién comunica.
+La comunicación debería ser:
+ transparente, de manera que la organización presente abiertamente la forma en
+que obtuvo la información que presenta;
+ apropiada, de manera que la información satisfaga las necesidades pertinentes
+de las partes interesadas, posibilitando su participación;
+ veraz y que no conduzca a engaño a quienes confían en la información
+presentada;
+ basada en hechos, exacta y fiable, lo cual se asegura mediante sistemas y
+procedimientos robustos;
+ completa en su propio contexto, sin excluir información pertinente;
+ clara y comprensible para las partes interesadas.
+Al hacer la planificación, se debería considerar la estructura organizacional
+interna, para asegurar la comunicación con los niveles y funciones más
+apropiados. Tal vez no sea necesario establecer comunicación con cada
+persona que trabaja bajo su control; un acercamiento simple a toda la
+organización puede ser adecuado para cumplir sus objetivos de comunicación.
+36
+
+--- Página 45 ---
+Para información adicional sobre la comunicación, véase la Norma ISO 14063.
+A.7.5 Información documentada
+El propósito del apartado 7.5 es asegurar que las organizaciones creen y mantengan
+información documentada que sea suficiente para implementar el sistema de gestión
+ambiental. Sin embargo, el enfoque principal de las organizaciones debería centrarse
+en la implementación eficaz del sistema de gestión ambiental y el desempeño
+ambiental, no en un complejo sistema de control de información documentada.
+Se puede usar información documentada creada originalmente para propósitos
+diferentes del sistema de gestión ambiental. La información documentada para el
+sistema de gestión ambiental se puede integrar con otros sistemas de gestión de la
+información implementados por la organización. No es necesario que sea un manual.
+A.8 Operación
+A.8.1 Planificación y control operacional
+Los tipos y grados de control operacional dependen de la naturaleza de las
+operaciones, de los aspectos ambientales significativos, de los riesgos asociados con
+amenazas y oportunidades, y de las obligaciones de cumplimiento. Una organización
+posee la flexibilidad para seleccionar los tipos de métodos de control operacional de
+forma individual o combinados, necesarios para asegurar que un proceso sea eficaz
+para el logro de los resultados deseados. Estos métodos pueden incluir:
+a) diseñar un proceso de manera que se prevengan errores y se aseguren
+resultados coherentes;
+b) usar tecnología para controlar los procesos y prevenir resultados adversos (es
+decir, controles diseñados técnicamente);
+c) usar personal competente para asegurar los resultados deseados;
+d) llevar a cabo el proceso de una manera especificada (es decir, utilizando un
+procedimiento);
+e) realizar el seguimiento o la medición del proceso para verificar los resultados;
+f) determinar el uso y la cantidad de información documentada necesaria.
+El trabajo que está “bajo el control de la organización” es aquel que se lleva a cabo
+dentro del alcance del sistema de gestión ambiental.
+La organización decide el alcance del control necesario dentro de sus propios procesos
+de negocio (por ejemplo, el proceso de compras) para controlar o influir en los procesos
+37
+
+--- Página 46 ---
+contratados externamente (véase la explicación que se da más abajo) o en los
+proveedores de productos y servicios, con base en factores tales como:
+ el conocimiento, la competencia y los recursos, que incluyen;
+ la competencia del proveedor para cumplir los requisitos del sistema de gestión
+ambiental de la organización;
+ la competencia técnica de la organización para definir los controles apropiados o
+evaluar la adecuación de los controles;
+ la importancia y el impacto potencial sobre la capacidad de la organización para
+suministrar productos y servicios que cumplan con los resultados previstos del
+sistema de gestión ambiental, incluido el riesgo de desviación con respecto a su
+política, objetivos y obligaciones de cumplimiento ambientales;
+ el grado en el que se comparte el control del proceso;
+ la capacidad de lograr el control necesario mediante la aplicación de su proceso
+general de compras;
+ las oportunidades disponibles.
+En el caso de trabajo realizado mediante procesos contratados externamente
+(véase la explicación más abajo) o productos y servicios suministrados, la
+capacidad de la organización para ejercer control variará, de control directo a
+limitado, o a ninguna influencia. Por ejemplo, un proceso contratado externamente
+en el sitio puede estar bajo el control directo de una organización más grande.
+Como alternativa, la capacidad de las organizaciones pequeñas y medianas para
+influir en un proceso o proveedor contratado externamente puede estar limitada por
+su tamaño relativo.
+Un proceso contratado externamente es aquel en el que:
+ la función o proceso es integral al funcionamiento de la organización;
+ la función o proceso son necesarios para que el sistema de gestión logre sus
+resultados previstos;
+ la organización conserva la responsabilidad por la función o proceso que
+cumple los requisitos; y
+ la organización y el proveedor externo tienen una relación integral, por
+ejemplo, una en la que las partes interesadas perciben que el proceso lo
+lleva a cabo la organización.
+38
+
+--- Página 47 ---
+A.8.2 Preparación y respuesta ante emergencias
+Esta Norma Internacional no contiene información explicativa del apartado 8.2.
+A.9 Evaluación del desempeño
+A.9.1 Seguimiento, medición, análisis y evaluación
+A.9.1.1 Generalidades
+Con el fin de asegurar que se cumplen la política ambiental y los objetivos ambientales,
+la organización debería asegurarse de que:
+a) los resultados del seguimiento y la medición son fiables, reproducibles y
+trazables;
+b) la forma en la que los datos resultantes del seguimiento y la medición se
+agrupan antes de cualquier análisis y evaluación se define claramente y es
+reproducible;
+c) se informa internamente de los hallazgos del análisis y la evaluación del
+desempeño ambiental a quienes tienen la responsabilidad y la autoridad para
+iniciar las acciones apropiadas;
+d) la información obtenida se comunica externamente de acuerdo con las
+obligaciones de cumplimiento.
+A.9.1.2 Evaluación del cumplimiento
+La frecuencia y oportunidad de las evaluaciones de conformidad pueden variar
+dependiendo de la importancia del requisito, de las variaciones en las condiciones de
+operación y del desempeño histórico de la organización; sin embargo, es necesario
+evaluar todas las obligaciones de cumplimiento.
+Una organización puede usar una variedad de métodos para mantener su conocimiento
+y comprensión de su estado de cumplimiento, que incluyen:
+a) recorridos por las instalaciones, o inspecciones a éstas;
+b) observaciones directas o entrevistas;
+c) revisiones de proyectos o trabajos;
+d) revisión de los análisis de muestras o resultados de ensayo, y comparación con
+los límites reglamentarios;
+e) muestreo o ensayos de verificación.
+39
+
+--- Página 48 ---
+En el caso de que los resultados indiquen incumplimiento de un requisito legal, la
+organización debería determinar e implementar las acciones necesarias para lograr su
+cumplimiento. Esto puede requerir la comunicación con un organismo reglamentario, y
+acordar una forma de proceder para restablecer el cumplimiento de los requisitos
+legales. Cuando ya existe un acuerdo al respecto, se convierte en una obligación de
+cumplimiento.
+Es posible evitar que una no conformidad se eleve a no conformidad del sistema si, por
+ejemplo, se identifica y corrige en los procesos del sistema de gestión ambiental.
+Además, las no conformidades del sistema relacionadas con el cumplimiento que se
+detecten, se deben corregir incluso si estas no conformidades no han resultado no
+conformidades reales con los requisitos legales.
+A.9.2 Auditoría interna
+La gestión y realización de las auditorías internas debería respetar los principios de
+integridad, presentación correcta, debida diligencia profesional, confidencialidad,
+independencia y un enfoque basado en evidencias.
+Siempre que sea factible, los auditores deberían tener independencia de la actividad
+que se audita, y en todos los casos deberían actuar libres de sesgo y conflicto de
+intereses.
+El alcance del programa de auditoría se debería basar en el tamaño y naturaleza de la
+organización, al igual que en la complejidad y nivel de madurez del sistema de gestión
+ambiental.
+Cuando se considera la importancia ambiental de los procesos involucrados en su
+programa de auditoría, la organización debería incluir:
+a) los planes hechos y las acciones tomadas para tener en cuenta los aspectos
+ambientales significativos de la organización y sus obligaciones de
+cumplimiento;
+b) los elementos de salida de sus procesos de seguimiento y medición;
+c) los accidentes o las situaciones de emergencia anteriores que hayan dado como
+resultado impactos ambientales, o que pudieran haber provocado impactos
+ambientales.
+Cuando se consideran los resultados de auditorías anteriores, la organización debería
+incluir:
+ las no conformidades identificadas previamente, y la eficacia de las acciones
+tomadas;
+ los resultados de las auditorías internas y externas.
+40
+
+--- Página 49 ---
+La Norma ISO 9011 proporciona orientación para el establecimiento de un programa de
+auditoría interna, la ejecución de las auditorías ambientales y la evaluación de la
+competencia del personal de la auditoría.
+A.9.3 Revisión por la dirección
+La revisión por la dirección debería ser de alto nivel, y no es necesario que sea una
+revisión detallada exhaustiva.
+No es necesario tener en cuenta de una sola vez todos los temas de revisión por la
+dirección; la revisión se puede llevar a cabo durante un periodo de tiempo.
+Se debería tener en cuenta que las comunicaciones de las partes interesadas externas
+incluyen las quejas. Por tanto, la información enviada para análisis a la alta dirección
+debería incluir las quejas pertinentes recibidas de las partes interesadas, las cuales
+pueden proporcionar información directa que permitirá a la alta dirección determinar las
+oportunidades de mejora.
+A.10 Mejora
+A.10.1 No conformidades y acciones correctivas
+La información documentada puede incluir la acción correctiva tomada, los resultados
+de la acción correctiva y la información sobre la revisión de la eficacia de estas
+acciones.
+Ya no existe un capítulo único con requisitos específicos para la “acción preventiva”,
+debido a que uno de los propósitos clave de un sistema de gestión ambiental es actuar
+como una herramienta preventiva. Este concepto se encuentra ahora en 4.1
+(conocimiento de la organización y de su contexto) y 6.1 (acciones para tratar riesgos
+asociados con amenazas y oportunidades). Estos dos grupos de requisitos se
+consideran en combinación para abarcar el concepto de acción preventiva.
+A.10.2 Mejora continua
+La organización determina la rapidez, el alcance y los tiempos de las acciones que
+apoyan la mejora continua. Aunque la mejora de los elementos del sistema puede tener
+valor en sí misma, el resultado previsto de las acciones planificadas y otros cambios en
+el sistema son una mejora en el desempeño ambiental de la organización.
+ANEXO B (INFORMATIVO) CORRESPONDENCIA ENTRE ISO 14001:2015 Y LA
+NORMA ISO 14001:2004
+LA TABLA B.1 ILUSTRA LA CORRESPONDENCIA ENTRE ISO 14001:2015 Y LA
+NORMA ISO 14001:2004.
+LA TABLA B.2 ILUSTRA LA CORRESPONDENCIA ENTRE LA NORMA ISO
+14001:2004 E ISO 14001:2015.
+41
+
+--- Página 50 ---
+TABLA B.1 — CORRESPONDENCIA ENTRE ISO 14001:2015 Y LA NORMA ISO 14001:2004
+ISO 14001:2015 ISO 14001:2004
+Contexto de la organización (título
+4
+únicamente)
+Conocimiento de la organización y su
+4.1
+contexto
+Comprensión de las necesidades y
+4.2
+expectativas de las partes interesadas
+Determinación del alcance del Sistema
+4.3 4.1 Requisitos generales
+de Gestión Ambiental
+Sistema de Gestión Ambiental 4.4 4.1 Requisitos generales
+Liderazgo (título únicamente) 5
+Liderazgo y compromiso 5.1
+Política ambiental 5.2 4.2 Política Ambiental
+Roles, responsabilidades y Recursos, funciones,
+5.3 4.4.1
+autoridades en la organización responsabilidades y autoridad
+Planificación (título únicamente) 6 4.3 Planificación (título únicamente)
+Acciones para tratar riesgos asociados
+con amenazas y oportunidades (título 6.1
+solamente
+Generalidades 6.1.1
+Aspectos ambientales significativos 6.1.2 4.3.1 Aspectos ambientales
+Obligaciones de cumplimiento 6.1.3 4.3.2 Requisitos legales y otros requisitos
+Riesgo asociado con amenazas y
+6.1.4
+oportunidades
+Planificación de acciones 6.1.5
+Objetivos ambientales y planificación
+6.2 4.3.3 Objetivos, metas y programa (s)
+para lograrlos (título únicamente)
+Objetivos ambientales 6.2.1 4.3.3 Objetivos, metas y programa (s)
+Planificación de acciones para cumplir
+6.2.2 4.3.3 Objetivos, metas y programa (s)
+los objetivos ambientales
+Implementación y operación (título
+Soporte (título únicamente) 7 4.4
+únicamente)
+Recursos, funciones,
+Recursos 7.1 4.4.1
+responsabilidades y autoridad
+Competencia, formación y toma de
+Competencia 7.2 4.4.2
+conciencia
+42
+
+--- Página 51 ---
+Competencia, formación y toma de
+Toma de decisiones 7.3 4.4.2
+conciencia
+Comunicación (título únicamente) 7.4 4.4.3 Comunicación
+Generalidades 7.4.1 4.4.3 Comunicación
+Comunicación interna 7.4.2 4.4.3 Comunicación
+Comunicación externa 7.4.3 4.4.3 Comunicación
+Información documentada (título
+7.5 4.4.4 Documentación
+únicamente)
+Generalidades 7.5.1 4.4.4 Documentación
+4.4.5 Control de documentos
+Creación y actualización 7.5.2
+4.5.4 Control de los registros
+Control de la información 4.4.5 Control de documentos
+7.5.3
+documentada
+4.5.4 Control de los registros
+Implementación y operación (título
+Operación (título únicamente) 8 4.4
+únicamente)
+Planificación y control operacional 8.1 4.4.6 Control operacional
+Preparación y respuesta ante Preparación y respuesta ante
+8.2 4.4.7
+emergencias emergencias
+Evaluación del desempeño (título
+9 4.5 Verificación (título únicamente)
+únicamente)
+Seguimiento, medición, análisis y
+9.1 4.5.1 Seguimiento y medición
+evaluación (título únicamente)
+Generalidades 9.1.1 4.5.1 Seguimiento y medición
+Evaluación del cumplimiento 9.1.2 4.5.2 Evaluación del cumplimiento legal
+Auditoría interna 9.2 4.5.5 Auditoría interna
+Revisión por la dirección 9.3 4.6 Revisión por la dirección
+Mejora (título únicamente) 10
+No conformidades y acciones No conformidades, acción
+10.1 4.5.3
+correctivas correctiva y acción preventiva
+Mejora continua 10.2
+43
+
+--- Página 52 ---
+TABLA B.2 —CORRESPONDENCIA ENTRE ISO 14001:2004 Y LA NORMA ISO 14001:2015
+ISO 14001:2004 ISO 14001:2015
+Introducción 0 0 Introducción
+Objeto y campo de aplicación 1 1 Objeto y campo de aplicación
+Normas para consulta 2 2 Normas para consulta
+Términos y definiciones 3 3 Términos y definiciones
+Requisitos del Sistema de Gestión
+4 4 Contexto de la organización
+Ambiental
+Conocimiento de la organización y
+4.1
+su contexto
+Comprensión de las necesidades y
+4.2 expectativas de las partes
+interesadas
+Determinación del alcancel del
+Requisitos generales 4.1 4.3
+Sistema de Gestión Ambiental
+4.4 Sistema de Gestión Ambiental
+10.2 Mejora continua
+Política ambiental 4.2 5.2 Política ambiental
+Planificación 4.3 6 Planificación
+Acciones para tratar riesgos
+6.1 asociados con amenazas y
+oportunidades
+Aspectos ambientales 4.3.1 6.1.1 Generalidades
+Riesgo asociado con amenazas y
+6.1.4
+oportunidades
+Requisitos legales y otros requisitos 4.3.2 6.1.3 Obligaciones de cumplimiento
+Objetivos ambientales y
+Objetivos, metas y programas 4.3.3 6.2
+planificación para lograrlos
+6.2.1 Objetivos ambientales
+Planificación de acciones para
+6.2.2
+cumplir los objetivos ambientales
+Implementación y operación 4.4 7 Soporte
+8 Operaciones
+5 Liderazgo
+Recursos, funciones, responsabilidad
+4.4.1 7.1 Recursos
+y autoridad
+44
+
+--- Página 53 ---
+Roles, responsabilidades y
+5.3
+autoridades en la organización
+5.1 Liderazgo y compromiso
+Competencia, formación y toma de
+4.4.2 7.2 Competencia
+conciencia
+7.3 Toma de conciencia
+Comunicación 4.4.3 7.4 Comunicación
+7.4.1 Generalidades
+7.4.2 Comunicación interna
+7.4.3 Comunicación externa
+Documentación 4.4.4 7.5 Información documentada
+7.5.1 Generalidades
+Control de documentos 4.4.5 7.5.2 Creación y actualización
+Control de la información
+7.5.3
+documentada
+Control operacional 4.4.6 8.1 Planificación y control operacional
+Preparación y respuesta ante Preparación y respuesta ante
+4.4.7 8.2
+emergencias emergencias
+Verificación 4.5 9 Evaluación del desempeño
+Seguimiento, medición, análisis y
+Seguimiento y medición 4.5.1 9.1
+evaluación
+9.1.1 Generalidades
+Evaluación del cumplimiento legal 4.5.2 9.1.2 Evaluación del cumplimiento
+No conformidad, acción correctiva y No conformidades y acciones
+4.5.3 10.1
+acción preventiva correctivas
+Control de la información
+Control de los registros 4.5.4 7.5.3
+documentada
+Auditoría interna 4.5.5 9.2 Auditoría interna
+Revisión por la dirección 4.6 9.3 Revisión por la dirección
+10 Mejora
+45
+
+--- Página 54 ---
+BIBLIOGRAFÍA
+ISO 14004, Sistemas de gestión ambiental — Directrices generales sobre principios,
+sistemas y técnicas de apoyo
+ISO 14031, Gestión ambiental — Evaluación del desempeño ambiental — Directrices
+ISO 14044, Gestión ambiental — Análisis de ciclo de vida — Requisitos y directrices
+ISO 14063, Gestión ambiental — Comunicación ambiental — Directrices y ejemplos
+ISO 19011, Directrices para la auditoría de los sistemas de gestión de la calidad y/o
+ambiental
+ISO/IEC Guide 73, Risk management. Vocabulary. Guidelines for use in standards
+46
