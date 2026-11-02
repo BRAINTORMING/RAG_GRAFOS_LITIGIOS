@@ -1,0 +1,912 @@
+--- Página 1 ---
+Cambio Climático: Bases Físicas
+GUÍA RESUMIDA DEL SEXTO INFORME DE EVALUACIÓN DEL IPCC
+GRUPO DE TRABAJO I
+oecc
+1
+Oficina Española de Cambio Climático
+
+--- Página 2 ---
+[Sin texto reconocible]
+
+--- Página 3 ---
+Cambio Climático: Bases Físicas
+GUÍA RESUMIDA DEL SEXTO INFORME DE EVALUACIÓN DEL IPCC
+GRUPO DE TRABAJO I
+oecc
+Oficina Española de Cambio Climático
+
+--- Página 4 ---
+Aviso Legal: los contenidos de esta publicación podrán ser reutilizados, citando Aviso Legal: los contenidos de esta publicación podrán ser reutilizados, citando Aviso Legal: los contenidos de esta publicación podrán ser reutilizados, citando
+la fuente y la fecha, en su caso, de la última actualización la fuente y la fecha, en su caso, de la última actualización la fuente y la fecha, en su caso, de la última actualización
+Autores: Autores: Autores: Agencia Estatal de Meteorología y Oficina Española de Cambio Climático Agencia Estatal de Meteorología y Oficina Española de Cambio Climático Agencia Estatal de Meteorología y Oficina Española de Cambio Climático
+Fecha: Fecha: Fecha: Noviembre 2021 Diciembre 2018 Diciembre 2018
+MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y RETO DEMOGRÁFICO MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA
+Edita: Edita: Edita:
+© Ministerio para la Transición Ecológica © Ministerio para la Transición Ecológica © Ministerio para la Transición Ecológica y Reto Demográfico
+Secretaría General Técnica Secretaría General Técnica Secretaría General Técnica
+Centro de Publicaciones Centro de Publicaciones Centro de Publicaciones
+Cambio Climático: Bases Físicas (Guía Resumida del Sexto Informe de Evaluación del IPCC, Grupo I)
+NIPO: NIPO: NIPO: 638-18-008-0 (papel) 638-18-008-0 (papel) 665-21-065-3
+NIPO: NIPO: Gratuita / Unitaria / Papel con gestión forestal certificada 638-18-009-6 (en línea) 638-18-009-6 (en línea)
+Depósito Legal: Depósito Legal: M-28535-2018 M-28535-2018
+Cambio Climático: Bases Físicas (Guía Resumida del Sexto Informe de Evaluación del IPCC, Grupo I)
+NIPO: 665-21-066-9
+Gratuita / Unitaria / En línea / pdf
+Catálogo de Publicaciones de la Administración General del Estado: Catálogo de Publicaciones de la Administración General del Estado:
+http://publicacionesoficiales.boe.es/ http://publicacionesoficiales.boe.es/
+Catálogo de Publicaciones de la Administración General del Estado:
+http://publicacionesoficiales.boe.es/
+Este informe debe citarse de la siguiente manera: Este informe debe citarse de la siguiente manera:
+AEMET y OECC 2018. Cambio Climático: Calentamiento Global de 1,5ºC. Agencia Estatal de Meteorología AEMET y OECC 2018. Cambio Climático: Calentamiento Global de 1,5ºC. Agencia Estatal de Meteorología
+y Oficina Española de Cambio Climático. Ministerio para la Transición Ecológica, Madrid. y Oficina Española de Cambio Climático. Ministerio para la Transición Ecológica, Madrid.
+Este informe debe citarse de la siguiente manera:
+Basado en materiales contenidos en el Basado en materiales contenidos en el IPCC special report on the impacts of global warming of 1.5ºC above IPCC special report on the impacts of global warming of 1.5ºC above
+AEMET y OECC 2021. Cambio Climático: Bases Físicas. Guía Resumida del Sexto Informe de Evaluación
+pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the
+del IPCC. Grupo de Trabajo I.
+global response to the threat of climate change, sustainable development, and efforts to eradicate poverty. global response to the threat of climate change, sustainable development, and efforts to eradicate poverty.
+Agencia Estatal de Meteorología y Oficina Española de Cambio Climático. Ministerio para la Transición
+Ecológica y Reto Demográfico, Madrid.
+Basado en materiales contenidos en el IPCC AR6 Climate Change 2021: The Physical Science Basis.
+
+--- Página 5 ---
+Cambio Climático: Bases Físicas
+GUÍA RESUMIDA DEL SEXTO INFORME DE EVALUACIÓN DEL IPCC
+GRUPO DE TRABAJO I
+1.- Introducción
+2.- Estado actual del clima
+3.- Nuestros posibles futuros climáticos
+4.- Información climática para evaluación de riesgos y adaptación regional
+5.- Limitando el futuro cambio climático
+6.- Glosario
+Cómo utilizar esta guía
+Esta guía presenta de forma resumida –y pensamos que asequible– la contribución
+del Grupo de Trabajo I (Bases Físicas del Clima) al Sexto Informe de Evaluación
+del IPCC, intentando permanecer fiel al espíritu del trabajo realizado por este
+panel de expertos. La guía se basa, principalmente, en los materiales contenidos
+en el resumen para responsables de políticas. Tanto los datos como las figuras
+proceden del IPCC, si bien, la responsabilidad última del rigor de esta guía y su
+difícil conjugación con la simplicidad corresponden a los autores.
+
+--- Página 6 ---
+Destinatarios Esta guía está pensada para un público no especia -
+lista y, por ello, se han simplificado el lenguaje, las
+figuras y las estructuras originales
+Figuras La mayor parte de las figuras proceden del Informe
+del Grupo de Trabajo I del IPPC, aprobado en 2021
+Glosario Se ha incluido un breve glosario de términos cientí -
+ficos. Para facilitar su identificación y lectura, dichos
+términos se han resaltado en azul a lo largo del texto
+Si quieres saber Se recomienda consultar, adicionalmente a esta guía
+más introductoria, los textos originales del IPCC y sus dis -
+tintos resúmenes, disponibles en:
+https://www.ipcc.ch/report/ar6/wg1/
+
+--- Página 7 ---
+1.- Introducción
+Los recientes cambios en el clima –sin precedentes
+en miles de años– son generalizados, rápidos
+y se están intensificando
+7
+
+--- Página 8 ---
+Esta Guía Resumida de las bases científicas físicas del cambio climático tiene como
+objetivo facilitar la comunicación y difusión del resumen para responsables de políticas
+( Summary for Policymakers , SPM, en sus siglas en inglés) que presenta los hallazgos
+clave de la contribución del Grupo de Trabajo I (WGI, en sus siglas en inglés) al Sexto
+Informe de Evaluación del IPCC (AR6, en sus siglas en inglés). El informe se apoya
+en los resultados del WGI del Quinto Informe de Evaluación (AR5) del IPCC, en los
+Informes Especiales del IPCC publicados en 2018 y 2019 e incorpora resultados
+posteriores de la ciencia del clima.
+Esta guía resume la comprensión del estado actual del clima, incluida la forma en que
+está cambiando y el papel de la influencia humana, el estado del conocimiento sobre
+posibles estados futuros del clima, información climática relevante para regiones
+y sectores, y cómo limitar el cambio climático inducido por el hombre. Si bien el
+documento original en el que se basa esta guía resumida utiliza un lenguaje calibrado,
+se ha preferido evitar los términos que describen el grado de confianza y probabilidad
+de los resultados incluyendo solamente aquellos a los que se atribuye alta confianza
+y probabilidad, para simplificar el lenguaje y facilitar la comunicación. Los detalles
+sobre estos resultados –incluido lenguaje calibrado– pueden consultarse y ampliarse
+en los documentos originales del IPCC (ver más arriba). La base científica de cada
+resultado clave se encuentra en las secciones de los capítulos correspondientes del
+Informe principal y en la síntesis integrada que se presenta en el resumen técnico
+(TS, en sus siglas inglés). Asimismo, este informe incorpora por primera vez un Atlas
+Interactivo que facilita la exploración de los resultados sintetizados clave e información
+complementaria sobre el cambio climático para todas las regiones de referencia
+( https://interactive-atlas.ipcc.ch ).
+8
+
+--- Página 9 ---
+Balance energético
+El sistema climático se encuentra en desequilibrio energético debido
+principalmente a cambios en la composición atmosférica de los gases
+de efecto invernadero , de forma que recibe más energía de la que emite.
+Este forzamiento radiativo se estima en aproximadamente 2,72 W/m 2 en
+2019 en relación con 1750, lo que se traduce en un almacenamiento de
+energía en sus distintas componentes.
+Clima estable: en equilibrio Momento actual: en desequilibrio
+Radiación solar Radiación solar
+entrante entrante
+Menos energía
+saliente debido a
+Energía saliente los gases de efecto
+invernadero
+Atmósfera 1%
+91% 5% Continentes
+Océanos
+3%
+Hielo
+El exceso de energía se acumula
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+9
+
+--- Página 10 ---
+2.- Estado actual del clima
+Es indiscutible que las actividades humanas están
+causando un cambio climático, haciendo que los
+eventos extremos, como olas de calor, lluvias
+torrenciales y sequías, sean más frecuentes y severos
+10
+
+--- Página 11 ---
+Cambio climático observado
+La temperatura media global de la superficie terrestre ha experimentado
+incrementos sucesivos en las últimas cuatro décadas, de forma que en
+2011-2020 fue aproximadamente 1.09 °C superior a la de 1850-1900.
+ºC
+2.0
+El calentamiento no tiene
+precedentes en más de 2.000 años
+1.5
+Periodo de varios siglos
+más cálido en más de 10.000 años
+1.0
+Observado
+0.5
+0.0
+Reconstruido
+-0.5
+-1
+1 500 1000 1500
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+11
+
+--- Página 12 ---
+Cambio climático observado
+Cambio climático observado
+El calentamiento global del planeta se observa de manera inequívoca, con
+cambios generalizados y rápidos en la atmósfera, el océano, la superficie
+El calentamiento global del planeta se observa de manera inequívoca, con terrestre, la criosfera y la biosfera, sin precedentes en siglos anteriores.
+cambios generalizados y rápidos en la atmósfera, el océano, la superficie
+terrestre, la criosfera y la biosfera, sin precedentes en siglos anteriores.
+Concentración Subida del Superficie de hielo Retroceso
+de CO nivel del mar marino ártico de glaciares
+2
+La más alta Los incrementos Nivel más bajo Sin precedentes
+en al menos más rápidos en al en al menos en al menos
+2 millones de años menos 3.000 años 1.000 años 2.000 años
+12
+
+--- Página 13 ---
+Cambio climático observado
+El nivel medio global del mar Reducción del área cubierta por
+AIRE
+aumentó en 0,20 m entre 1901 hielo marino en el Ártico del 40%
+y 2018, crecimiento superior en septiembre y del 10% en marzo
+al registrado en cualquier (entre 1979-1988 y 2010-2019).
+siglo anterior en al menos los
+últimos 3.000 años. Circulación atmosférica
+Temperatura Vapor
+del aire (en los de agua
+OCÉANO HIELO
+primeros km)
+Temperatura
+de la superficie
+Nivel del mar
+Superficie
+de permafrost
+Temperatura de Cambios en la Contenido
+la superficie distribución de calor Mantos Cobertura
+del mar de especies TIERRA de hielo de nieve
+Hielo marino
+ártico
+Acidificación
+del océano Glaciares
+Vegetación
+global
+Cambios en la Duración de
+La subida del nivel medio del distribución la estación Las zonas climáticas se han
+mar se debe a la expansión de especies de crecimiento desplazado hacia los polos en
+térmica del agua (50%), ambos hemisferios y la temporada
+pérdida de hielo de los de crecimiento vegetal se ha
+glaciares (22%), pérdida de prolongado en promedio hasta
+los mantos de hielo (20%) y dos días por década desde
+cambios en el almacenamiento Precipitación los años 1950 en la región
+de agua terrestre (8%). extratropical del hemisferio norte.
+Press Conference Slides
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+13
+
+--- Página 14 ---
+Influencia humana
+La influencia humana es la principal causa del calentamiento de la
+atmósfera, el océano y la superficie terrestre.
+ºC
+2.0
+1.5
+Observada
+Simulada:
+1.0 forzamiento
+humano y
+natural
+0.5
+Simulada:
+sólo forzamiento
+0.0
+natural (actividad
+solar y volcanes)
+-0.5
+1850 1900 1950 2000 2020
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+14
+
+--- Página 15 ---
+Influencia humana
+Calentamiento observado Contribuciones agregadas al
+b) Observed warming
+en 2010-2019 en relación calentamiento durante 2010-2019
+2010-2019 relative to
+a 1850-1900 en relación a 1850-1900, evaluadas
+1850-1900
+de los estudios de atribución
+ºC ºC
+2.0 2.0
+El calentamiento global
+observado ha sido
+principalmente causado
+1.5 1.5 por las emisiones de
+GEI procedentes de las
+actividades humanas.
+1.0 1.0
+0.5 0.5 Dicho efecto ha sido
+parcialmente contrarrestado
+por el enfriamiento debido a las
+emisiones de aerosoles .
+0.0 0.0
+-0.5 -0.5
+La contribución de los factores
+-1.0 Influencia humana total bien mezclados (principalmente CO Gases de efecto invernadero (principalmente aerosoles) Otros impulsores humanos Actividad solar y volcanes Variabilidad interna -1.0 naturales y de la variabilidad
+interna es inapreciable.
+2 )
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+15
+
+--- Página 16 ---
+Influencia humana Influencia humana
+La influencia humana es el principal impulsor de:
+La influencia humana es el principal impulsor de:
+• el retroceso de los glaciares desde la década de 1990.
+● • el retroceso de los glaciares desde la década de 1990. la subida del nivel del mar al menos desde 1971.
+● • la subida del nivel del mar al menos desde 1971. el calentamiento de la capa superior del océano desde la década de
+● el calentamiento de la capa superior del océano desde la década 1970.
+• la acidificación observada de la superficie del océano abierto.
+de 1970.
+● La influencia humana ha contribuido a la disminución de la cobertura de la acidificación observada de la superficie del océano abierto.
+nieve primaveral en el hemisferio norte desde 1950 y a la reducción, por
+La influencia humana ha contribuido a la disminución de la cobertura de derretimiento, de la superficie observada del manto de hielo de Groenlandia
+nieve primaveral en el hemisferio norte desde 1950 y a la reducción, por durante las últimas dos décadas.
+16
+derretimiento, de la superficie observada del manto de hielo de
+
+--- Página 17 ---
+Influencia humana
+El cambio climático antropogénico ha provocado el aumento de
+episodios extremos meteorológicos y climáticos tales como olas de calor,
+precipitaciones fuertes, sequías y ciclones tropicales desde la década de
+1950.
+La influencia humana ha aumentado la posibilidad de eventos extremos
+combinados, incluyendo la concurrencia de sequías y olas de calor, y las
+combinaciones de factores meteorológicos propicias para los incendios.
+17
+
+--- Página 18 ---
+3.- Nuestros posibles
+futuros climáticos
+No hay vuelta atrás en algunos cambios del sistema
+climático. Sin embargo, algunos cambios podrían
+desacelerarse y otros podrían detenerse limitando
+el calentamiento
+18
+
+--- Página 19 ---
+Modelos climáticos y simulaciones
+Las simulaciones climáticas, tanto pasadas como futuras, se realizan
+con ayuda de modelos que tratan de reproducir el comportamiento del
+sistema climático. Estos modelos climáticos son programas informáticos
+basados en las ecuaciones que describen la evolución de los distintos
+componentes del sistema climático (atmósfera, océano, hielos, biosfera…),
+sus interacciones y sus procesos de retroalimentación .
+19
+
+--- Página 20 ---
+Emisiones futuras: descripción
+SSP1
+Sostenibilidad SSP2 SSP5
+Intermedio SSP3 SSP4 Desarrollo basado en
+Rivalidad regional Desigualdad combustibles fósiles
+Mitigación
+Temperatura media global (°C)
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+Se evalúa la respuesta climática para cinco escenarios de emisión
+ilustrativos que cubren un amplio rango de evolución futura de impulsores
+antropogénicos del cambio climático. Los escenarios se denominan
+SSPx-y, donde x se refiere a la trayectoria socioeconómica compartida
+(SSP en sus siglas en inglés) e y al nivel aproximado de forzamiento
+radiativo alcanzado en el año 2100.
+Las emisiones varían entre escenarios según los supuestos
+socioeconómicos, los niveles de mitigación del cambio climático y
+los controles sobre la contaminación del aire debida a los aerosoles y
+precursores de ozono distintos del metano.
+20
+
+--- Página 21 ---
+Emisiones futuras: descripción
+Hoy
+Se alcanza el máximo de
+concentración de CO
+2
+Emisiones muy altas
+SSP5-8.5
+al año)
+2 Se dobla la concentración
+Se dobla la concentración de CO
+2
+de CO Emisiones altas
+2
+SSP3-7.0
+Se alcanza el máximo de Se alcanza el máximo de
+concentración de CO concentración de CO Disminuye a la mitad la
+2 2
+concentración de CO
+2
+(billones de toneladas de CO
+2
+CO máximo
+2
+Emisiones medias
+CO máximo
+SSP2-4.5
+2
+Emisiones de CO Emisiones bajas
+Absorción neta de CO SSP1-2.6
+2 Emisiones muy bajas
+SSP1-1.9
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+Las emisiones futuras causan un calentamiento adicional en el futuro,
+con el calentamiento total dominado por las emisiones de CO pasadas y
+2
+futuras.
+21
+
+--- Página 22 ---
+Emisiones futuras: traducción
+a niveles de calentamiento
+La temperatura media global de la superficie terrestre seguirá aumen -
+tando hasta al menos mediados de siglo XXI en todos los escenarios de
+emisiones considerados.
+Cambio en la temperatura global de la superficie en relación a 1850-1900
+°C
+5
+SSP5-8.5
+4 SSP3-7.0
+3
+SSP2-4.5
+2
+SSP1-2.6
+SSP1-1.9
+1
+0
+–1
+1950 2000 2015 2050 2100
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+22
+
+--- Página 23 ---
+Emisiones futuras: traducción
+a niveles de calentamiento
+El calentamiento de 1,5 °C y 2 °C se superará durante el siglo XXI a
+menos que se produzcan reducciones profundas de emisiones de GEI en
+las próximas décadas.
++5° C
+4,4
++4° C
+3,6
++3° C
+2,7
+2,4
+2,1
++2° C 2
+1,8
+1,7
+1,6 1,6
+1,5 1,5 1,5 1,5
+1,4
++1° C
+0
+2021-2040 2041-2060 2061-2100
+SSP1-1.9 SSP1-2.6 SSP2-4.5 SSP3-7.0 SSP5-8.5
+23
+
+--- Página 24 ---
+Proyecciones
+Cambio global medio del
+nivel del mar en 2300 en
+relación a 1900
+Las actividades humanas afectan a
+Bajo los escenarios de altas
+todos los componentes principales del
+emisiones podrían alcanzarse
+aumentos de hasta 15 m d
+sistema climático . Algunos responden
+durante décadas y otros durante siglos.
+9 m
+Superficie de hielo marino ártico en septiembre
+8 m
+10 6 km 2
+10
+8
+7 m
+6
+4
+SSP1-1.9
+2 SSP1-2.6
+Prácticamente libre 6 m
+SSP2-4.5
+de hielo marino SSP3-7.0
+0 SSP5-8.5
+1950 2000 2015 2050 2100
+pH de la superficie del océano global (medida de acidez) 5 m
+8.2 SSP5-8.5
+8.1
+SSP1-1.9
+8.0 SSP1-2.6
+7.9 Acidificación 4 m
+SSP2-4.5
+7.8 del océano
+SSP3-7.0
+7.7
+SSP5-8.5
+7.6
+1950 2000 2015 2050 2100 3 m
+Cambio global medio del nivel del mar en relación a 1900
+SSP1-2.6
+2 2 m
+1.5 Episodio de alto impacto y baja probabilidad,
+incluyendo los procesos de inestabilidad de
+los mantos de hielo, bajo el escenario SSP5-8.5
+1 SSP5-8.5 1 m
+SSP3-7.0
+SSP2-4.5
+SSP1-2.6
+0.5 SSP1-1.9
+0 0 m
+1950 2000 2020 2050 2100 2300
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+24
+
+--- Página 25 ---
+Proyecciones: diferencias regionales Proyecciones: diferencias regionales
+Con cada incremento del calentamiento global, aumentan los cambios en
+la temperatura media regional, la precipitación y la humedad del suelo. Con cada incremento del calentamiento global, aumentan los cambios en
+la temperatura media regional, la precipitación y la humedad del suelo.
+Patrones de cambio regional: el cambio climático es proporcional al nivel
+de calentamiento y no se distribuye de manera uniforme
+El calentamiento será más acusado en el Ártico, Las precipitaciones se incrementarán en las latitudes
+sobre tierra y en el Hemisferio Norte altas, los trópicos y las regiones del monzón y
+disminuirán en los subtrópicos
+Más cálido Más seco Más húmedo
+Nótese que, en zonas secas, un pequeño incremento de la precipitación en términos absolutos
+Nótese que, en zonas secas, un pequeño incremento de la precipitación en términos absolutos se
+se corresponderá con un aumento marcado en términos relativos.
+corresponderá con un aumento marcado en términos relativos.
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+25
+
+--- Página 26 ---
+Proyecciones: diferencias regionales Proyecciones: diferencias regionales
+Los cambios en los patrones de precipitación y en la humedad del suelo
+darán lugar a un aumento de las sequías en grandes regiones.
+Los cambios en los patrones de precipitación y en la humedad del suelo
+darán lugar a un aumento de las sequías en grandes regiones.
+Regiones del mundo para las que se proyecta un aumento de la sequía
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+26
+
+--- Página 27 ---
+Proyecciones: extremos
+Los cambios proyectados en los extremos son mayores en frecuencia e
+intensidad con cada incremento adicional del calentamiento global.
+Regiones del mundo para las que se proyecta un aumento de la sequía
+Muchos aspectos del sistema climático reaccionan rápidamente a los cambios de temperatura.
+A niveles gradualmente más altos de calentamiento global, se producen consecuencias más pronunciadas (rango mínimo/máximo
+mostrado)
++1.1°C +1.5°C +2°C +4°C
+Hoy
+Temperatura
+Día más cálido en una +1.9°C +2.6°C +5.1°C
+década (+ºC) (+1.5–1.9°C) (+2.0–2.8°C) (+4.6–5.6°C)
++1.2°C
+Sequía (+1.0–1.4°C)
+Una sequía que solía
+ocurrir una vez en una x2.4 x3.1 x5.1
+década ahora se produce (+1.4–4.1) (+1.5–4.8) (+2.0–8.2)
+x veces más x2
+(+1.2–3.1)
+Precipitación
+Lo que solía ser el día
+más húmedo en una x1.5 x1.8 x2.8
+década ahora ocurre (x1.5–1.6) (x1.7–1.9) (+2.5–3.2)
+x1.3
+x veces más
+(x1.3–1.4)
+Nieve
+Cambio en la cobertura -5% -9°C -25%
+de nieve (%) (-5 – -1) (-12 – -4) (-31 – -18)
+Ciclones tropicales
+Proporción de ciclones +10% +13% +30%
+tropicales intensos (%)
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+27
+
+--- Página 28 ---
+Pérdida de eficiencia de los
+sumideros naturales
+Los sumideros de carbono, oceánico y terrestre, serán menos eficientes
+para frenar la acumulación de CO en la atmósfera en los escenarios con
+2
+emisiones crecientes de CO .
+2
+GtCO ₂
+12.000
+Para escenarios con mayores
+niveles de emisiones acumuladas
+10.000 de CO .
+2
+8.000
+ATMÓSFERA
+6.000 …la cantidad de emisiones de CO
+2
+ATMÓSFERA absorbida por sumideros del
+océano y la tierra es mayor,
+4.000 ATMÓSFERA
+pero una mayor cantidad de las
+ATMÓSFERA OCÉANO emisiones de CO permanece en
+OCÉANO
+ATMÓSFERA 2
+2.000 OCÉANO la atmósfera.
+OCÉANO OCÉANO
+TIERRA TIERRA TIERRA TIERRA TIERRA
+0
+M Ó S F E R M Ó S F E R M Ó S F E R M Ó S F E R M Ó S F E R
+A T A A T A A T A A T A A T A …lo que significa que la proporción
+de emisiones de CO absorbidas
+2
+70% 65% 54% 44% 38% por los sumideros de la tierra y el
+TIERRA TIERRA TIERRA TIERRA TIERRA océano es menor en escenarios
+NO NO NO NO NO
+É A É A É A É A É A con mayores emisiones de CO .
+O C O C O C O C O C
+2
+SSP1-1.9 SSP1-2.6 SSP2-4.5 SSP3-7.0 SSP5-8.5
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+28
+
+--- Página 29 ---
+4.- Información climática
+para evaluación de riesgos
+y adaptación regional
+El cambio climático ya está afectando a todas
+las regiones del planeta, de múltiples formas.
+Los cambios que experimentamos aumentarán
+con un mayor calentamiento
+29
+
+--- Página 30 ---
+Efectos del cambio climático
+• Los cambios causados por el ser humano tanto en el clima medio,
+como en los fenómenos climáticos generadores de impactos , incluidos
+los extremos climáticos, se verán amplificados o atenuados por la
+variabilidad interna . Esta variabilidad podría ser responsable de un
+enfriamiento a corto plazo en un lugar concreto con respecto al clima
+actual y esto sería coherente con la tendencia general de aumento de
+la temperatura global de la superficie debido a la influencia humana.
+• Se prevé que con un mayor calentamiento global todas las regiones
+experimenten cada vez más cambios simultáneos y múltiples en los
+fenómenos climáticos generadores de impactos.
+• Todas las regiones experimentarán nuevos aumentos en los
+fenómenos cálidos y disminuciones en los fríos. Habrá nuevas
+disminuciones en la extensión del permafrost , nieve, glaciares y
+mantos de hielo , lagos y hielo marino Ártico. Estos cambios serían
+mayores con un calentamiento de 2 °C que de 1,5 °C.
+• Incluso con un calentamiento global de 1,5 °C, se prevé que las
+precipitaciones intensas y las inundaciones asociadas se intensifiquen
+y sean más frecuentes en la mayoría de las regiones. Además, se
+prevén sequías agrícolas y ecológicas más frecuentes y/o severas en
+algunas regiones de casi todos los continentes. Estos cambios serán
+mayores con calentamientos globales de 2 °C y superiores.
+30
+
+--- Página 31 ---
+Irreversibilidad y consecuencias
+a muy largo plazo
+Muchos cambios debidos a las emisiones pasadas y futuras de GEI son
+irreversibles en escalas de siglos o milenios.
+CO atmosférico (ppm) Reversible, pero en décadas
+2
+Concentración
+máxima de CO
+2
+Cambio de la
+superficie de
+permafrost
+(millones de km 2 )
+Reversible, pero en años Solo reversible en siglos o milenios
+Cambio de la
+temperatura global
+de la superficie
+Expansión
+térmica del
+océano (m)
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+31
+
+--- Página 32 ---
+Irreversibilidad y consecuencias
+a muy largo plazo
+El nivel medio del mar continuará aumentando durante siglos a milenios
+debido al continuo calentamiento de las capas profundas oceánicas y al
+derretimiento de los mantos de hielo.
+Consecuencias a largo plazo: subida del nivel del mar
++1.5°C +2°C +4°C
+A día de hoy, el nivel del mar se
+ha incrementado en 20 cm y se
+Subida en m. Subida en m. Subida en m.
+incrementará adicionalmente 33m
+entre 30 cm y 1 m en 2100
+dependiendo de las emisiones
+futuras.
+16m 19m
+El nivel del mar reacciona muy 13m
+lentamente al calentamiento
+7m 12m
+6m
+global por lo que su subida
+3m 8m
+continuará por miles de años. 6m
+2m 2m
+2.000 años 10.000 años 2.000 años 10.000 años 2.000 años 10.000 años
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+32
+
+--- Página 33 ---
+Fenómenos de baja frecuencia
+pero alto impacto
+No se pueden descartar los fenómenos de baja frecuencia pero alto impacto que
+son relevantes en la evaluación de riesgos. Entre estos fenómenos se incluyen los
+cambios abruptos e irreversibles (conocidos como tipping points ) tales como, p. ej., la
+fuerte elevación del nivel del mar por el colapso de los mantos de hielo o los cambios
+en la circulación oceánica por el colapso de la circulación meridional de retorno del
+Atlántico de la que la corriente del Golfo es una parte importante.
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+33
+
+--- Página 34 ---
+Información regional
+El Atlas Interactivo ( https://interactive-atlas.ipcc.ch/ ) permite un análisis
+flexible, tanto espacial como temporal, de variables climáticas esenciales,
+índices de extremos y fenómenos climáticos generadores de impactos.
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+34
+
+--- Página 35 ---
+Cambio climático en Europa
+A nivel regional europeo:
+• Las temperaturas continuarán subiendo a un ritmo superior al global.
+• Los eventos extremos cálidos aumentarán su frecuencia, al contrario
+que los eventos extremos fríos.
+• El nivel del mar continuará creciendo, excepto en el Báltico, a un
+ritmo similar al global.
+• Se prevé igualmente que disminuirá la extensión de glaciares,
+cobertura de nieve y permafrost.
+En la subregión mediterránea (que engloba toda España excepto
+Canarias):
+• Se prevé un incremento de la aridez y de incendios forestales.
+• Se prevé un aumento de las temperaturas extremas, disminución de
+precipitación y disminución de la cobertura de nieve.
+35
+
+--- Página 36 ---
+5.- Limitando el futuro
+cambio climático
+Limitar el calentamiento a 1,5 °C estará fuera
+de nuestro alcance a menos que tenga lugar
+una reducción de las emisiones de Gases
+de Efecto Invernadero (GEI) inmediata,
+rápida y a gran escala
+36
+
+--- Página 37 ---
+Limitando el futuro cambio climático
+Existe una relación casi lineal entre las emisiones antropogénicas acu -
+muladas de CO y el calentamiento global que provocan. Se estima que
+2
+cada 1000 Gt de emisiones acumuladas de CO a la atmósfera causan un
+2
+aumento de 0,45 °C en la temperatura media global de la superficie.
+Incremento global de la temperatura de la superficie desde el periodo 1850-1900 (ºC)
+en función de las emisiones acumuladas de CO (GtCO )
+2 2
+C
+3
+SSP5-8.5
+2.5 Relación casi lineal entre SSP3-7.0
+las emisiones acumuladas de
+CO y el calentamiento global SSP2-4.5
+2
+para 5 escenarios ilustrativos
+2 SSP1-2.6
+hasta el año 1850
+SSP1-1.9
+1.5
+1
+Calentamiento global
+histórico
+0.5
+Emisiones acumuladas de CO desde 1850
+2
+0
+1000 2000 3000 4000 4500 GtCO
+2
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+37
+
+--- Página 38 ---
+Limitando el futuro cambio climático
+Limitar el calentamiento global inducido por el ser humano a un nivel
+específico requiere limitar las emisiones acumuladas de GEI, en particular
+CO , lo que implica alcanzar al menos emisiones netas cero de CO ,
+2 2
+sumado a fuertes reducciones en las emisiones de otros gases de efecto
+invernadero.
+Emisiones históricas de GT CO (entre 1750 y 2019)
+2
+2.560
+GtCO
+2
+Emisiones futuras máximas para no alcanzar
+los niveles de calentamiento de 1.5°C y 2°C
+1.5°C 400 (500) GtCO
+2
+67% Probabilidad 50%
+2°C 1.150 (1.350) GtCO
+2
+GT= Mil Millones de toneladas
+Fuente: Informe Grupo de Trabajo I del IPCC (2021).
+La consecución de emisiones netas de CO cero requerirá además la
+2
+aplicación de técnicas de eliminación antropogénica de cantidades
+sustanciales de CO de la atmósfera. Estas técnicas consisten en capturar
+2
+CO de la atmósfera y almacenarlo de forma duradera.
+2
+38
+
+--- Página 39 ---
+6.- Glosario
+39
+
+--- Página 40 ---
+Aerosol
+Minúsculas partículas, sólidas o líquidas que se encuentran suspendidas en el aire y que
+pueden incidir sobre las características del clima. Su origen puede ser natural y humano.
+Antropogénico o antropógeno
+Término utilizado para hacer referencia a los efectos, procesos o materiales que son
+el resultado de actividades humanas a diferencia de los que tienen causas naturales, sin
+influencia humana.
+Circulación meridional de retorno del Atlántico
+Componente zonalmente integrado de las corrientes superficiales y profundas en el océano
+Atlántico. Se caracteriza por un flujo hacia el norte de agua cálida y salada en las capas
+superiores del Atlántico, y un flujo hacia el sur de aguas más frías y profundas que forman
+parte de la circulación termohalina. La corriente del Golfo es parte de esta circulación atlántica.
+Efecto invernadero
+Es el efecto de la radiación infrarroja debido a todos los gases y substancias presentes
+en la atmósfera capaces de absorber y emitir en la frecuencia infrarroja del espectro de
+radiación. Los denominados gases de efecto invernadero, las nubes y –en menor cuantía–
+los aerosoles absorben la radiación infrarroja emitida por la superficie de la Tierra y por otras
+partes de la atmósfera. Todas estas substancias emiten radiación en todas las direcciones
+pero la cantidad neta emitida al espacio es normalmente menor que la que se emitiría en
+ausencia de estas substancias absorbentes de radiación infrarroja debido a la disminución
+de la temperatura con la altitud en la troposfera y la consiguiente reducción de las emisiones.
+Un aumento en la concentración de los gases de efecto invernadero aumenta la magnitud
+de este efecto contribuyendo a un calentamiento de la temperatura del aire en la superficie
+y en la troposfera.
+Episodio extremo
+Un suceso meteorológico extremo es un suceso que es raro para un lugar determinado y una
+época del año. La definición de raro puede variar pero, en general, se refiere a un suceso
+que está por debajo/encima del percentil 10/90 de la correspondiente función de densidad
+de probabilidad estimada a partir de las observaciones. Cuando un suceso meteorológico
+extremo persiste durante un cierto tiempo puede clasificarse como suceso extremo climático,
+especialmente si da lugar a un valor promedio o total que a su vez es extremo.
+40
+
+--- Página 41 ---
+E scenario
+Descripción plausible, y generalmente simplificada, sobre cómo puede desarrollarse el futuro,
+basada en una serie de asunciones consistentes y coherentes entre sí. Conjunto de hipótesis
+de trabajo sobre cómo puede evolucionar la sociedad y qué puede suponer esa evolución
+para el clima.
+Fenómenos climáticos generadores de impactos
+Condiciones físicas del sistema climático (p.ej., medias, eventos, extremos) que afectan a un
+elemento de la sociedad o de los ecosistemas.
+Forzamiento radiativo
+Cambio (en relación con el año 1750, que es tomado como momento en que se inicia la
+revolución industrial) en la diferencia entre la cantidad de calor que entra en la atmósfera y
+la que sale de ella. Un forzamiento positivo tiende a calentar el planeta, mientras que uno
+negativo tiende a enfriarlo.
+Impulsor
+En el contexto de cambio climático se refiere a los factores causantes del mismo.
+Manto de hielo
+Formación de hielo de extensión continental (superior a 50.000 km 2 ) que se origina sobre
+la superficie terrestre por acumulación y compactación de la nieve durante miles de años.
+Permafrost
+Terreno (suelo o roca incluyendo hielo y material orgánico) que permanece por debajo de 0 ºC
+al menos durante dos años consecutivos.
+Proyección climática
+Es la respuesta simulada –generalmente mediante el uso de modelos climáticos– del
+sistema climático a un escenario de emisiones o concentraciones futuras de gases de efecto
+invernadero y aerosoles. Las proyecciones climáticas se distinguen de las predicciones por
+su dependencia del escenario de emisión o concentración considerado. Las proyecciones
+están por lo tanto condicionadas a las suposiciones relativas a los escenarios que pueden o
+no tener lugar.
+41
+
+--- Página 42 ---
+Retroalimentación
+Se dice que se produce una retroalimentación en el sistema climático cuando el resultado de
+un proceso inicial desencadena cambios en un segundo proceso que, a su vez, influyen en el
+primero. Una retroalimentación positiva es aquella en la cual el proceso original se intensifica
+como resultado de la interacción, mientras que en una negativa el proceso original se reduce.
+Sequías agrícolas y ecológicas
+Se refieren a periodos con un déficit anormal de contenido de agua en el suelo que resulta de
+la combinación de escasez de precipitación y exceso de evapotranspiración, y que durante la
+estación de crecimiento afecta a la producción de cosechas o a la función de los ecosistemas
+en general.
+Sistema climático
+Es el sistema altamente complejo que consta de los siguientes cinco componentes principales:
+atmósfera, hidrosfera, criosfera, litosfera y biosfera y de las interacciones que hay entre ellos.
+El sistema climático evoluciona con el tiempo bajo la influencia de su propia dinámica interna
+y de forzamientos externos tales como las erupciones volcánicas, las variaciones solares y
+forzamientos antropogénicos como el cambio de composición de la atmósfera y el cambio de
+uso de suelo.
+Tipping point
+Es un umbral crítico a partir del cual un sistema se reorganiza con frecuencia de forma abrupta
+y/o irreversible
+Variabilidad climática
+La variabilidad climática se refiere a las variaciones en el estado medio y otros estadísticos (p.e.,
+desviación estándar, ocurrencia de extremos, etc.) del clima en todas las escalas espaciales
+y temporales más allá de los sucesos individuales asociados con el tiempo. La variabilidad
+se produce por procesos internos naturales del sistema climático ( variabilidad interna ) o por
+variaciones en los forzamientos externos naturales o antropogénicos (variabilidad externa). Un
+ejemplo de variabilidad interna es El Niño-Oscilación del Sur (ENSO, de sus siglas en inglés)
+o la Oscilación del Atlántico norte (NAO, de sus siglas en inglés). Un ejemplo de variabilidad
+externa es el ciclo solar de aproximadamente 11 años.
+42
+
+--- Página 43 ---
+[Sin texto reconocible]
+
+--- Página 44 ---
+Cambio Climático: Bases Físicas
+GUÍA RESUMIDA DEL SEXTO INFORME DE EVALUACIÓN DEL IPCC
+GRUPO DE TRABAJO I
