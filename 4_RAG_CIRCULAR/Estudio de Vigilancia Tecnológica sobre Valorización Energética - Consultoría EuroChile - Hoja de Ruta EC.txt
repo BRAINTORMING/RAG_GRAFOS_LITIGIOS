@@ -1,0 +1,870 @@
+--- Página 1 ---
+Tecnologías de
+Conversión de Residuos
+en Energía
+“Waste to Energy” (WtE)
+Informe de Vigilancia Tecnológica
+VERSIÓN FINAL
+Julio 2020
+
+--- Página 2 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+AGENDA
+Antecedentes
+Análisis de Mercado
+Análisis Tecnológico
+Análisis Estratégico
+Elementos para la discusión
+2
+
+--- Página 3 ---
+INFORME AVANCE VIGILACIA TECNOLÓGICA WASTE TO ENERGY
+OBJETIVO DEL INFORME
+El presente trabajo ha sido desarrollado por Discovery & Watch bajo el alero del proyecto de elaboración de la Hoja
+de Ruta para Economía Circular de Chile .
+El objetivo es obtener una mirada general actualizada sobre el desarrollo de las tecnologías Waste to Energy
+(conversión de residuos en energía) identificando las tendencias en el desarrollo tecnológico , las tendencias del
+mercado y tendencias en investigación , entre otros puntos de interés .
+Dada la amplitud del tema en cuestión, es importante destacar que este informe no aborda elementos de
+prefactibilidad de proyectos WtE, así como tampoco aspectos ambientales, sociales y/o legales, los cuales si bien
+entendemos son muy relevantes en el marco del tema de estudio, no forman parte del alcance de este trabajo .
+3
+
+--- Página 4 ---
+INFORME AVANCE VIGILACIA TECNOLÓGICA WASTE TO ENERGY
+METODOLOGÍA
+Foco
+ Entregar una mirada general sobre las tecnologías Waste to Energy (conversión de residuos en energía)
+identificando las principales tendencias en el desarrollo tecnológico, las tendencias del mercado y tendencias
+de investigación, entre otros puntos de interés .
+Fuentes de información
+ Las principales fuentes de información utilizadas en este informe corresponden a bases de datos tecnológicas
+como EPO , que cubre patentes en más de 90 países y se actualiza semanalmente ; la base de datos científica ISI
+Web of Knowledge , y la base de datos de mercado EMIS , así como las herramientas de análisis Wizdom y
+Patentinspiration . Adicionalmente, se realizó una revisión de papers, documentos técnicos, web de empresas,
+organismos internacionales y portales especializados .
+Estrategias de búsqueda
+ Se llevó a cabo una búsqueda general de patentes y literatura científica para el período 2010 a 2020 (hasta
+junio), utilizando el código internacional Cooperative Patent Classification (CPC) en el caso de las patentes . En
+el caso de las publicaciones científicas se hizo a través de keywords con énfasis en título y abstract .
+Análisis de información
+ A partir de los datos recuperados se llevó a cabo un análisis cuantitativo y cualitativo apoyado con software de
+4
+data mining y la participación del equipo consultor .
+
+--- Página 5 ---
+ANTECEDENTES
+
+--- Página 6 ---
+INFORME AVANCE VIGILACIA TECNOLÓGICA WASTE TO ENERGY
+¿QUÉ ES WASTE TO ENERGY?
+Waste to Energy o tecnologías de conversión de
+residuos en energía (WtE) consisten en cualquier
+proceso de tratamiento de residuos que crea energía
+en forma de electricidad, calor o combustibles de
+transporte (por ejemplo, Diesel) de una fuente de
+desechos ( World Energy Council, 2013 ) .
+El alcance del término “Waste to Energy" es muy
+amplio, abarcando una amplia gama de tecnologías de
+diferentes escalas y complejidad como la incineración,
+coprocesamiento, digestión anaeróbica, recolección
+de gases de vertedero, pirólisis, gasificación, entre
+otras .
+Figura 1 . Render de NESS Energy Project, la nueva planta WtE en construcción
+Para cada una de estas tecnologías se aplica
+en Aberdeen, Escocia .
+diferentes tratamientos, procesos y manejos según
+el flujo de residuos, las características, necesidades y
+requerimiento específico .
+6
+
+--- Página 7 ---
+INFORME AVANCE VIGILACIA TECNOLÓGICA WASTE TO ENERGY
+¿CÓMO FUNCIONA?
+Una planta Waste to Energy (WtE),
+dependiendo de la tecnología utilizada y el
+tipo de residuo, realiza un tratamiento
+térmico, termoquímico o biológico de los
+residuos domésticos y similares que
+quedan después del proceso de
+clasificación de los residuos mediante
+reciclaje y reutilización .
+Figura 2 . Arriba se observa la representación del proceso en una planta WtE con tecnología de
+En una planta WtE, el proceso se puede gasificación .
+simplificar en 4 grandes etapas :
+ El tratamiento de los residuos
+ La recuperación de energía
+ La limpieza de gases
+ La utilización de la energía Figura 3 . A la izquierda una
+representación del proceso
+en una planta WtE con
+tecnología de incineración
+con recuperación de energía .
+7
+
+--- Página 8 ---
+INFORME AVANCE VIGILACIA TECNOLÓGICA WASTE TO ENERGY
+¿QUÉ TIPO DE ENERGÍA GENERA?
+Las plantas WtE generan energía principalmente en
+forma de calor, electricidad o agua caliente , y son
+capaces de generar determinados productos
+derivados del procesamiento de los residuos como
+gas, electricidad, vapor, syngas, carbón vegetal,
+hidrógeno, entre otros .
+ La electricidad se inyecta al sistema eléctrico del
+operador local .
+ El agua caliente, dependiendo de la infraestructura
+local, puede ser enviada a través de una red para
+calentar o refrigerar hogares, hospitales, oficinas,
+etc .
+ El vapor puede ser usado por la industria cercana a
+la planta en sus procesos de producción o para
+generar energía eléctrica .
+Figura 4 . Representación de la generación de vapor y energía eléctrica .
+8
+
+--- Página 9 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+TIPOS DE RESIDUOS SÓLIDOS URBANOS (RSU)
+En el uso de las tecnologías Waste to
+Energy, los residuos corresponden a la
+materia energética primaria , por lo que
+su correcta caracterización resulta
+fundamental para poder estimar de
+forma precisa la energía a generar por
+una planta .
+La eficiencia del proceso de conversión
+de los residuos en energía esta
+directamente relacionada con la
+composición de éstos, por lo que es uno
+de los factores a tener en consideración .
+Figura 5 . Composición de los residuos sólidos municipales en países en desarrollo (Banco Mundial 2018 ) .
+9
+
+--- Página 10 ---
+ANÁLISIS DEL MERCADO
+
+--- Página 11 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+TAMAÑO DEL MERCADO
+$27.700 US (Mn) ● El mercado global de Waste to Energy (WtE) fue
+6.1% valorado en $ 17 . 271 , 4 millones de dólares en
+2017 , y se proyecta que alcance los $ 27 . 700 , 8
+CAGR millones de dólares en 2025 , con un CAGR del
+6 , 1 % de 2018 a 2025 . En 2020 el tamaño de
+$17.271 US (Mn)
+mercado sería en torno a los USD $ 20 . 700
+millones de dólares .
+● El segmento térmico representa casi el 87 % del
+mercado en 2020 y la incineración con
+recuperación de energía ocupa casi 55 % del
+2450 Plantas segmento .
+368 millones ● Actualmente se estima que alrededor de 2 . 450
+de toneladas
+plantas WtE de diferente tecnología están
+2017 2025
+activas en todo el mundo con una capacidad de
+Tamaño de mercado (US$ Mn) del mercado global de Waste To
+alrededor de 368 millones de toneladas de
+Energy ((2018 - 2025)
+desechos por año .
+● Sólo en 2018 , se instalaron más de 60 nuevas
+plantas con una capacidad total de tratamiento
+de más de 14 millones de toneladas por año . 11
+Fuente: Allied Market Research. Global Waste to Energy Market. Opportunity Analysis and Industry Forecast . 2018 - 2025
+
+--- Página 12 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+CRECIMIENTO DEL MERCADO POR TECNOLOGÍA
+Se estima que el mercado mundial de WtE a través de la tecnología térmica (incineración, pirólisis y
+gasificación) fue de 14 . 987 , 7 millones de dólares en 2017 y se prevé que alcance los $ 23 . 926 , 1 millones de
+dólares a finales de 2025 .
+De igual forma la previsión del mercado de WtE a través de la tecnología biológica (digestión anaeróbica,
+composataje, landfill gas y fermentación) fue de $ 2 . 283 , 7 millones de dólares en 2017 y se prevé que
+alcance los 3 . 774 , 6 millones de dólares para 2025 , con una tasa de crecimiento anual promedio del 6 , 5 % .
+12
+Fuente: Allied Market Research. Global Waste to Energy Market. Opportunity Analysis and Industry Forecast . 2018 - 2025
+
+--- Página 13 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+CRECIMIENTO DEL MERCADO
+$32.2 Us
+Bn
+@ 5.9%
+$14.5 Us $21 Us Bn
+Bn @ 6.1%
+@ 5.7%
+$12.9 Us
+Bn
+@ 5.5%
+• Europa tiene la mayor cuota de mercado de WtE, siendo Alemania el mercado clave en esta región .
+• Los crecientes esfuerzos por reducir la huella de carbono y minimizar las emisiones de gases de efecto invernadero
+para controlar el calentamiento global (por ejemplo minimizando la generación de gas metano en rellenos
+sanitarios) influyen en el crecimiento del mercado de WtE .
+• La región Asia - Pacifico cuenta con la tasa de crecimiento más alta (CAGR 6 . 1 % ) y la mayor cantidad de nuevos
+proyectos .
+13
+Fuente: Allied Market Research. Global Waste to Energy Market. Opportunity Analysis and Industry Forecast . 2018 - 2025
+
+--- Página 14 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+DINÁMICA DEL MERCADO
+Drivers La región de Asia Pacífico dominó el mercado mundial, con la mayor
+parte de la demanda proveniente de China y Japón , y la apertura de
+⮚ Aumento de la demanda de consumo de electricidad
+nuevos mercados como Australia , Malasia y Vietnam entre otros .
+⮚ Carbono Neutral y Cero vertimientos
+⮚ Valor agregado a los desechos Las tecnologías térmicas avanzadas, como la gasificación y la pirólisis , y
+⮚ Prolongación de la vida útil de los rellenos los sistemas biológicos de digestión anaeróbica están entrando con
+⮚ Falta de espacio para construcción de nuevos rellenos fuerza y se espera que aumenten sus cuotas de mercado debido al
+⮚ Calentamiento Global interés global en el marco de gestión integrada de residuos en áreas
+⮚ Incentivos por uso de residuos sólidos en generación urbanas .
+de energía.
+Restricciones El mercado WtE térmico con incineración está restringido por el alto
+⮚ costo de los incineradores y la disminución de los precios de la energía,
+Altos costos CAPEX y OPEX
+⮚ Fuentes energéticas alternativas de menor costo en lo cual sumado a una baja en el volumen necesario de residuos podría
+CAPEX y OPEX dificultar la cobertura de los costos de operación .
+⮚ Altas barreras sociales a la “Quema de residuos”. Varios países europeos y Japón planean centrarse más en el reciclaje , lo
+⮚ Reciclaje disminuye el volumen de residuos que ahorra más energía y, por lo tanto, restringe el mercado WtE .
+disponibles como materia prima
+⮚ El reciclaje asegura la sostenibilidad económica
+Tendencias Se observa una tendencia en el desarrollo de marcos regulatorios cada
+vez más estrictos en relación a las emisiones y desechos, lo cual obliga a
+⮚ Predominancia de tecnologías térmicas, particularmente los proyectos, particularmente de incineración, a invertir en tecnologías
+incineración y gasificación con este fin .
+⮚ Crecimiento sostenido de tecnologías biológicas
+⮚ Nuevas tecnologías buscan mitigar la contaminación
+14
+Fuente: Elaboración y análisis Discovery & Watch 2020 a partir de múltiples fuentes.
+
+--- Página 15 ---
+ANÁLISIS TECNOLÓGICO
+
+--- Página 16 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+ESTRATEGIA DE BÚSQUEDA Y ANÁLISIS DE PATENTES
+Paso 1
+Paso 2
+Definición de Paso 3
+Tecnologías códigos CPC Construcción
+Paso 4
+WtE de algoritmos
+Extracción de
+de búsqueda información
+(matrices, Análisis
+Termoquímicas gráficos)
+Bioquímicas
+Insights
+Químicas
+Bioelectroquímicas
+Figura 7 . Esquema de la metodología para la búsqueda y análisis de patentes .
+16
+
+--- Página 17 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+TECNOLOGÍAS WtE
+El esquema muestra una clasificación
+Tecnologías maduras actualizada de las tecnologías WtE y productos
+Tecnologías emergentes
+derivados.
+Digestión anaeróbica Biogás
+Bioelectroquímicas
+Fermentación Bioetanol
+Celda de combustible Gas H2
+Bioquímicas Gas H2 biológica
+Fermentación Oscura
+Celda de electrolisis
+Gas H2, CH4, acetato
+Landfill Gas Gaste de vertedero microbiana
+Gas H2, CO2
+Procesos fotobiológicos
+Compostaje Compost
+Tecnologías WtE Incineración
+Calor /vapor /
+Co - combustión electricidad
+Pirolisis Char , bio - oil y syngas
+Torrefacción Char
+Termoquímicas
+Gasificación Syngas Esterificación Etanol, Biodisel
+De - polimerización Petróleo crudo ligero, Biodisel
+Transesterificación
+térmica Syngas
+Carbonización Bio - carbon
+hidrotermal Químicas
+Bio - aceite
+Licuefacción hidrotermal
+17
+Elaborado por Discovery & Watch en base a: Beyene , Werkneh , & Ambaye , 2018; Bosmans , Vanderreydt , Geysen , & Helsen , 2013; Jung, Lee, Park, & Kwon, 2020; Moya, Aldás, Jaramillo, Játiva, & Kaparaju , 2017; Nastro et al.,
+2017; Seiple , Skaggs , Fillmore , & Coleman, 2020; Sodhi , Tripathi , & Kundu , 2017; Trabold & Babbitt, 2018.
+
+--- Página 18 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+I+D ASOCIADA A WtE
+EVOLUCIÓN DE LA ACTIVIDAD PAÍSES QUE PATENTAN
+493
+474
+459
+413 427
+402 394
+380
+322
+300
+226
+217 220
+162 166
+175 150
+129
+153
+47
+El gráfico permite visualizar la evolución de la actividad de patentamiento para los últimos Respecto a los países líderes en desarrollo tecnológico, Estados unidos domina
+20 años a nivel mundial en tecnologías WtE, período en el que se generaron 5824 con 1794 registros ( 31 % ), seguido de lejos por China con 314 ( 5 . 4 % ), Corea del
+solicitudes, el 65 % en los últimos 10 años, con un peak en 2012 de 493 registros . sur con 181 ( 3 . 1 % ) y Japón con 174 ( 3 % ) en el tercer y cuarto puesto
+respectivamente, Reino Unido con 173 ( 2 . 97 % ), Dinamarca con 96 ( 1 . 6 % ) y
+No obstante esta importante actividad, se observa una caída sostenida en el desarrollo Francia con 93 ( 1 . 6 % ) entre otros países .
+tecnológico debido a la madurez que han alcanzado algunas tecnologías de amplio uso
+comercial como las de digestión anaeróbica, incineración, fermentación, pirólisis y A nivel latinoamericano, destaca Brasil con 14 registros y Chile con 1
+gasificación . (“ Producción de combustibles destilados a partir de un proceso integrado de
+18
+conversión de desechos sólidos municipales (triglicéridos)”) .
+Fuente: Discovery & Watch con datos EPO y Patentinspiration (Junio 2020)
+
+--- Página 19 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+I+D ASOCIADA A WtE
+EVOLUCIÓN DE LAS TECNOLOGÍAS PROBLEMAS A RESOLVER
+120
+100
+80
+60
+40
+20
+0
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Y02W10/00 - Tecnologías para el tratamiento de aguas residuales C12P19/00 Preparación de compuestos que contienen sacáridos
+C02F3/00 Tratamiento biológico de agua Y02W30/00 Gestión de residuos solidos
+C12P2201/00 pretratamiento de celulosa B09B3/00 Destrucción o transformación de residuos solidos
+C10G1/00 Producción de mezclas de hidrocarbon liquido C10L1/00 Combustibles liquido carbonosos
+En cuanto a la evolución en el tiempo para las principales clasificaciones tecnológicas Los desarrollos tecnológicos se enfocan en la solución de algunos problemas
+según su CPC (Cooperative Patent Clasification), se observa un interés por las puntuales, entre los que se encuentran : los problemas de polución , los problemas de
+tecnologías relacionadas con pretratamiento , tratamiento biológico , destrucción de disposición de residuos y el aspecto de viabilidad , específicamente la económica
+donde el proceso de generación de combustibles sintéticos debe encontrar un
+residuos solidos como la biomasa celulósica , producción de hidrocarburos y líquidos
+punto de equilibrio según la región donde se desarrolle el proyecto . 19
+carbonosos, entre otras .
+Fuente: Discovery & Watch con datos EPO y Patentinspiration (Junio 2020)
+
+--- Página 20 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+PATENTES MÁS VALIOSAS
+XYLECO INC/US7932065B2
+Processing biomass –
+163 citas y 142 miembros en la familia
+XYLECO INC/US7931784B2
+Processing biomass and petroleum
+containing materials –
+146 citas y 36 miembros en la familia
+KALE ANIKET /US8137555B2
+Methods of and Systems for Producing
+Biofuels –
+67 citas y 125 miembros en la familia
+El gráfico muestra la relación entre numero de citas eje Y (tamaño de la familia) de una patente, a través del tiempo eje X . Se observa un
+marcado interés por las patentes de la empresa Xyleco , especialmente por su fortaleza en el desarrollo en tecnologías de procesamiento de
+biomasa celulósica para la producción de biocombustibles . Estas patentes sirvieron de base para nuevos desarrollos tecnológicos en el área de
+WtE .
+20
+Fuente: Discovery & Watch con datos EPO y Patentinspiration (Junio 2020)
+
+--- Página 21 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+TENDENCIAS EN EL DESARROLLO TECNOLÓGICO
+21
+
+--- Página 22 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+TENDENCIAS EN EL DESARROLLO TECNOLÓGICO
+Diferentes configuraciones y modos de operación de plantas WtE, se destaca:
+•Ajuste de flujo de aire y precalentamiento del agua por medio de economizadores.
+•Aprovechamiento del calor de gases de chimenea en secado de residuos.
+1) Sistemas • Gasificador horizontal con transferencia lateral de calor para minimizar pérdidas.
+eficientes y limpios •Plantas compactas basadas en módulos con ensamble estándar.
+de incineración, •Manejo de residuos con un sistema de tratamiento simbiótico industrial acorde a la calidad sectorial de la basura
+en una ciudad.
+gasificación y
+•Método auto - catalítico in - situ para remoción de azufre y cloro.
+pirólisis de basura •Combinación de microondas y arco eléctrico/plasma para vitrificación de cenizas.
+y/o RDF •Planta WtE móvil para usarse cerca a la fuente o punto de recolección de basuras.
+•Integración de un gasificador con un gasificador plasma. En el primero se produce el gas de síntesis, en el
+segundo, se eliminan las sustancias peligrosas.
+•Calor reciclado de un incinerador es usado en un pirolizador .
+•Disposición alternativa de residuos en hornos de cemento y cocción de ladrillos
+2) Equipos de Etapas de procesamiento de basuras realizadas automáticamente y que consisten principalmente en: selección
+primaria, trituración, rompimiento de bolsas, tamizado, suspensión con aire(o agua) que hace que la basura se
+separación y
+expanda o desdoble y que al caer forme capas. La capa superior es de material menos húmedo y menos denso,
+clasificación mientras la inferior es la más húmeda. Cada capa se separa y se somete a tratamientos diferentes.
+automática de Es común el uso de separadores electrostáticos para retener los metales ferrosos. Se identificó una patente que
+propone la separación automática de materiales inorgánicos que no pirolizan y orgánicos como plásticos que
+residuos.
+contienen dioxinas. 22
+
+--- Página 23 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+TENDENCIAS EN EL DESARROLLO TECNOLÓGICO
+3) Reactores
+termoquímicos con
+Apropiados principalmente para aprovechamiento energético a partir de cauchos y plásticos .Los reactores de
+destrucción de oxicombustión, con corrientes cíclicas al interior y antorchas plasma, permiten la destrucción de dioxinas y furanos
+macromoléculas in - in - situ.
+situ .
+Los desarrollos en termo - valorización de residuos se están enfocando en:
+•Secadores de lecho fluidizado .
+•Conversión en hidrocarburos sintéticos como diésel y gasolina.
+4) Producción de
+•Producción de gas de síntesis con alto contenido de H2 mediante la reacción shift entre el agua y el CO catalizada
+combustibles con por microorganismos.
+alto poder •Deshidratación mecánica de basura por compresión y empuje. También se hace en piscinas tecnificadas con
+calorífico. incorporación de calentamiento y tubos de escape.
+•Producción de bio - oil a partir de MSW (Municipal Solid Waste ) mediante pirólisis.
+•Diferentes métodos para la preparación de RDF.
+•Producción de material carbonáceo. Conversión de residuos en coque o carbono puro.
+5) Dispositivos para Purificación de gases mediante dispositivos empleados en captura de material particulado fino, cracking de
+limpieza de gases. alquitranes, disminución de acidez, desulfurización, desodorización y remoción de dioxinas.
+23
+
+--- Página 24 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+TENDENCIAS EN EL DESARROLLO TECNOLÓGICO
+6) Robótica,
+•Reconocimiento y remoción de residuos no combustibles en una gran área usando aspas robóticas (controladas
+inteligencia
+por inteligencia artificial con reconocimiento de objetos). Por su inteligencia juzgan según el tamaño, dimensiones,
+artificial y color, brillo y resistencia a la tracción.
+protocolos de •Monitoreo de todas las corrientes de plantas de incineración con redes que usan un protocolo de comunicación
+de alto nivel ( ZigBee )
+comunicación .
+24
+
+--- Página 25 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+NUEVAS TECNOLOGÍAS WtE
+“hydrothermal liquefaction” “hydrothermal Carbonization” “Dark fermentation”
+123 patentes 657 patentes 47 patentes
+“ thermal depolymerization ” “Microbial fuel cell” “Microbial electrolysis cell”
+33 patentes 1421patentes 109 patentes
+25
+Fuente: Discovery & Watch con datos EPO y Patentinspiration (Junio 2020)
+
+--- Página 26 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+DESCRIPCIÓN NUEVAS TECNOLOGÍAS
+26
+Elaborado en base a: ( Dement’ev , Palankoev , Alekseeva , Babkin , & Maksimov , 2019; Mu, Liu , Lin , Shukla , & Luo , 2020; Nastro , Falcucci , Minutillo, & Jannelli , 2017; Shen , 2020; Zhang & Chen , 2018)
+
+--- Página 27 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+COMPARACIÓN TECNOLOGÍAS WtE
+TECNOLOGÍAS TERMOQUÍMICAS
+Tecnología Beneficios Limitaciones Producto primario Aplicación
+• Altos costos de capital, mantenimiento y
+• Adecuado para su alto poder calorífico • Generación,
+operación .
+Incineración • Reduce el volumen y la masa hasta 80 % y • Calor electricidad y vapor /
+• Produce contaminantes nocivos
+70 % respectivamente calor.
+• Genera residuos sólidos
+• Permite utilizar la infraestructura
+instalada
+• Costos de operación e incertidumbres sobre • Centrales térmicas,
+Co - combustión • Mejora los rendimientos y flexibiliza la • Calor
+el comportamiento de equipos hornos Clinker
+operación
+• Reduce las emisiones de NOx
+• Produce combustible de alta calidad .
+• Reduce el tratamiento de gases de
+• Electricidad,
+combustión . • Alta viscosidad de pirolisis . • Carbón vegetal, bio - oil
+Pirólisis producción de
+• Adecuado para residuos carbonosos • Alto costo CAPEX y OPEX y syngas
+químicos y solventes.
+• Disminuye el volumen de residuos hasta
+50 - 90 %
+• Se obtiene un producto sólido
+hidrofóbico, bio - resistente, fácil de
+triturar y que retiene entre 70 - 90 % del • Costos de adecuación de la biomasa • Calentadores
+poder calorífico de la biomasa sin tratar, • Requiere etapas de densificación domésticos, generación
+Torrefacción • Carbón vegetal
+en menos del 80 % de su peso ( peletización ), es un proceso especifico para de calor, Co -
+• Facilita el transporte y almacenamiento biomasa celulósica combustión
+de pellets o briquetas (mayor densidad de
+27
+energía)
+
+--- Página 28 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+COMPARACIÓN TECNOLOGÍAS WtE
+TECNOLOGÍAS TERMOQUÍMICAS
+Tecnología Beneficios Limitaciones Producto primario Aplicación
+• Producción de gas • Tecnologías inmaduras, inflexibles y • Generación de
+Gasificación combustible/petróleo, que puede menos competitivas . • Syngas electricidad y productos
+utilizarse para diversos fines . • Alto riesgo de falla . químicos
+• Facilita el tratamiento de desechos
+• Se requiere aplicar catalizadores
+De - polimerización plásticos difíciles de procesar a través de • Petróleo crudo ligero, • Electricidad, producción
+químicos que permitan el tratamiento
+térmica la acciones agentes hidrolíticos a altas Syngas de químicos
+de polímeros generados por adición
+temperaturas
+• Se obtiene un sólido hidrofóbico que
+retiene entre el 80 - 95 % del poder • Variabilidad de las características de los • Fotocatálisis,
+Carbonización calorífico del material original en productos finales, debido a las aplicaciones en
+• Bio - carbon
+hidrotermal aproximadamente 55 - 90 % de su peso condiciones del reactor y de la biomasa agricultura, adsorción,
+• Permite el tratamiento de un amplio tipo no pre tratada . secuestrador de CO2
+de biomasas, y no requiere adecuación .
+• Para mejorar su eficiencia requiere ser
+Licuefacción • Permite procesar biomasa húmeda de • Producción de gasolina y
+combinada con tratamientos previos y • Bio - aceite
+hidrotermal diferentes tipos diésel sintéticos drop - in.
+posteriores apropiados
+28
+
+--- Página 29 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+COMPARACIÓN TECNOLOGÍAS WtE
+TECNOLOGÍAS BIOQUÍMICAS
+Tecnología Beneficios Limitaciones Producto primario Aplicación
+• Permite la valorización de los residuos • Se requieren programas de • Compost • Abono, sustituto parcial
+orgánicos mediante la degradación y separación en la fuente, para la de fertilizantes químicos
+Compostaje
+estabilización del contenido de materia obtención de un producto de
+orgánica calidad
+• Se prefiere para biomasa con alto • No apto para desechos que
+• Electricidad, fertilizante
+contenido de agua . contienen menos materia orgánica .
+rico en nitrógeno
+Digestión anaeróbica • Mayor composición de metano (CH 4 ) y • La lignina puede persistir durante • Biogás
+• Biorefineríias agrícola y
+menor composición de dióxido de carbono períodos de tiempo muy largos para
+alimentaria.
+(CO 2 ) que el vertedero degradarse
+• No contribuye al aumento de las emisiones • Esta limitado a desechos solidos • Combustible, y
+Fermentación • Bioetanol
+de CO 2 . ricos en almidón/celulosa biorefineríias agrícolas
+• Utiliza una amplia gama de sustratos
+Fermentación biodegradables .
+• Gas H 2 • Bioelectricidad
+Oscura • Más factible para la producción en masa de
+H 2 , proceso independiente de la luz
+• Bajo costo, los recursos naturales se • Contaminación de suelos y aguas
+Landfill Gas • Gas de vertedero • Electricidad
+reciclan al suelo subterráneas .
+29
+
+--- Página 30 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+COMPARACIÓN TECNOLOGÍAS WtE
+TECNOLOGÍAS BIOELECTROQUÍMICAS
+Tecnología Beneficios Limitaciones Producto primario Aplicación
+Celda de combustible • Un método eficaz de generación de • No funciona a temperaturas muy • Gas H 2 • Electricidad, producción de
+biológica electricidad y eliminación de olores bajas porque las reacciones hidrógeno, tratamiento de
+de los residuos . Contribución cero a microbianas son lentas a bajas aguas residuales
+la emisión de GEI temperaturas .
+Celda de electrólisis • Mayor recuperación de producto • Efectos en el rendimiento por • Gas H 2 , CH 4 , acetato, • Utilizado para la
+microbiana (H 2 ) y degradación del sustrato que composición del sustrato peróxido de hidrógeno, y generación de electricidad
+la fermentación oscura y Celda de • Alta resistencia interna ácido fórmico y tratamiento inmediato de
+combustible biológica • Arquitectura densa aguas residuales
+• Alta eficiencia de generación de • Alto costo de capital
+hidrógeno
+• Bajo requerimiento de energía
+• Aplicabilidad a numerosos sustratos
+orgánicos .
+Procesos • Las bacterias fotosintéticas pueden • Las enzimas nitrogenadas se inhiben • Gas H 2 , CO 2 , ácidos • Electricidad
+fotobiológicos utilizar una amplia energía espectral en presencia de O 2 . La eficiencia de orgânicos
+conversión de luz es baja
+30
+
+--- Página 31 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+COMPARACIÓN TECNOLOGÍAS WtE
+TECNOLOGÍAS QUÍMICAS
+Tecnología Beneficios Limitaciones Producto primario Aplicación
+Transesterificación • Los parámetros del proceso son • La presencia de agua en las materias • Biodiesel • Combustible, electricidad
+fácilmente ajustable según la materia primas pueden generar alta
+prima saponificación, y bajo rendimiento
+• Es un proceso económico del biodiesel producto del proceso
+• Aspectos logísticos para la
+recuperación de materias primas
+como aceite vegetal crudo, aceite de
+cocina usado, grasa animal y otros
+Esterificación • La esterificación es un proceso • Se deben emplear mezclas de • Biodiesel • Combustible, electricidad
+industrialmente importante utilizado catalizadores ácidos para mejorar la
+para productos farmacéuticos, reacción, y poder hacer mas
+alimentos, sabores y biocombustibles eficiente el proceso a través de la
+(biodiesel) . recuperación de estos catalizadores
+para su reutilización
+31
+Elaborado por Discovery & Watch en base a: Beyene , Werkneh , & Ambaye , 2018; Bosmans , Vanderreydt , Geysen , & Helsen , 2013; Jung, Lee, Park, & Kwon, 2020; Moya, Aldás, Jaramillo, Játiva, & Kaparaju , 2017; Nastro et al.,
+2017; Seiple , Skaggs , Fillmore , & Coleman, 2020; Sodhi , Tripathi , & Kundu , 2017; Trabold & Babbitt, 2018.
+
+--- Página 32 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+COMPAÑÍAS DESTACADAS
+Desarrollo y comercialización de
+Desarrolla tecnología de uso
+tecnología para el tratamiento de
+propietario para la elaboración de Desarrolla tecnología de uso propietario
+residuos solidos municipales
+combustible celulósicos para la producción comercial de etanol
+(digestión anaeróbica, tratamiento
+celulósico, y de enzimas para la industria biológico)
+Cerca de 2700 patentes en toda su de biocombustibles
+Cerca de 200 patentes en toda su
+historia, y marcado interés por el
+historia, y marcado interés por los
+bio - etanol celulósico (Y02E50/16) Cerca de 12 mil patentes en toda su
+procesos de fermentación de
+historia y marcado interés por el bio - subproductos orgánicos
+etanol celulósico (Y02E50/16) y las (Y02E50/343)
+preparación que contienen enzimas
+(C11D3/386)
+Desarrollo y comercialización de Desarrolla soluciones energéticas uso
+tecnología para conversión de biomasa y propietario como Hidrogeno verde,
+carbón de baja calidad en productos energía eólica y WtE, y almacena y
+ambientales de alto valor y combustible comercializa esta energía.
+renovable Cuenta con 60 patentes en su historia
+pero cerca del 50% relacionadas con
+Cerca de 200 patentes en toda su WtE, con un marcado interés por
+historia, y marcado interés por los Tecnologías habilitadoras o tecnologías
+con una contribución potencial o indirecta
+procesos de gasificación de desechos
+a la mitigación de emisiones de GEI
+(C10j2300/0946)
+(Y02E50/343)
+32
+
+--- Página 33 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+TENDENCIAS EN INVESTIGACIÓN
+• Se identificó un total de 1434
+publicaciones científicas en el tema a
+nivel mundial para los últimos 10 años .
+• El 57 % de las publicaciones se concentra
+en los últimos 4 años, estando 2020 aún
+en desarrollo .
+• El año 2019 es el que presenta una mayor
+cantidad de publicaciones con un total de
+276 y una tasa de crecimiento del 28 . 3 %
+respecto a 2018 .
+El tema presenta un alto interés para investigadores de todo el mundo y se prevé que siga creciendo en torno a un 25 % anual .
+El número de investigadores interesados en la materia prácticamente se ha duplicado entre 2016 y 2019 pasando de 503 a 960
+a nivel mundial .
+33
+Fuente: Discovery & Watch con datos recopilados en Web of Science (Junio 2020)
+
+--- Página 34 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+PAÍSES LÍDERES EN INVESTIGACIÓN
+Se identificó un total de 95 países que investigan en el tema . Entre los 5 países líderes destacan Estados Unidos ( 15 % ), China ( 13 . 3 % ),
+Italia ( 10 . 7 % ), India ( 7 % ) y Alemania ( 5 . 1 % ) quienes en su conjunto concentran el 51 % del total mundial de las publicaciones científicas
+sobre esta materia . En América Latina destacan Brasil con 32 registros, Colombia con 10 , México con 6 , Chile con 4 y Perú con 3 .
+34
+Fuente: Discovery & Watch con datos recopilados en Web of Science (Junio 2020).
+
+--- Página 35 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+INSTITUCIONES LÍDERES EN INVESTIGACIÓN
+Se identificó un total de 1462 instituciones que investigan en el tema . Entre las 5 instituciones líderes destaca National University of Singapore (Singapur) con 37 registros,
+Sejon Univer sity ( Korea ) con 36 , Polytechnic University of Milan (Italia) con 28 , Indian Institute of Technology (India) con 23 , y Columbia University (EUA) con 21 registros .
+En Chile destacan la Universidad de Santiago y la Universidad de Concepción, con 2 registros cada una .
+35
+Fuente: Web of Science (Junio 2020). Fuente : UDIT Corfo – Elaboración con información de EPO
+
+--- Página 36 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+TEMAS DE INVESTIGACIÓN
+• El gráfico visualiza la distribución de las áreas
+temáticas de mayor interés de investigación
+para el período 2019 y 2020 donde es posible
+apreciar la predominancia de las ingenierías ,
+particularmente temas relacionados con
+ingeniería ambiental , termodinámica ,
+transferencia de calor y catálisis entre otras .
+• Otra área de importancia tiene que ver con las
+ciencias económicas , particularmente
+desarrollo sustentable , economía verde y
+energía .
+• De forma incipiente es posible observar temas
+nuevos como lo son inteligencia artificial y
+machine learning , así como química orgánica y
+nutrición .
+Machine learning e inteligencia artificial aparecen como nuevas áreas de investigación en el tema aplicables principalmente a la
+gestión de instalaciones y residuos, así como el monitoreo y optimización de procesos, entre otras opciones .
+36
+Fuente: Discovery & Watch con datos recopilados en Web of Science y Wizdom (Junio 2020).
+
+--- Página 37 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+TEMAS DE INVESTIGACIÓN
+Una mirada más profunda nos permite observar algunas de las siguientes tendencias :
+Tema Tendencia - casos
+Análisis Económico Determinación del potencial de adopción de tecnologías WtE a partir del análisis técnico económico teniendo en cuenta los sig uie ntes aspectos:
+retorno de la inversión, valor presente neto, margen de utilidad, tasa interna de retorno, análisis de sensibilidad, modelo d e f inanciación.
+Análisis de escenarios Identificación de las mejores alternativas de manejo integral de residuos sólidos bajo posibles escenarios que incorporan tec nol ogías WtE o
+biorrefinerías urbanas usando como herramienta el análisis de ciclo de vida. (emisiones de la combustión de la planta y de lo s v ehículos
+recolectores, redes inteligentes futuras de distribución de energía, promoción de estrategias 3Rs, mejoramiento de tecnología s y a instaladas,
+controles de polución, integración de basura a la economía del hidrógeno.
+Estrategias para el mejoramiento •Identificación con marcadores fluorescentes de acuerdo al tipo de polímero
+•Indicaciones sobre qué materiales reciclar y cuáles incinerar para mejorar las características deseables de los residuos sól ido s urbanos como
+del reciclaje
+combustibles.
+•Documentación de evolución de la selección en la fuente que ha facilitado el aprovechamiento de residuos sólidos urbanos sin pr etratamiento
+en plantas de cemento y generación de potencia (caso Norte de Italia).
+Simulaciones CFD Simulación con programas de fluido - dinámica comerciales, del proceso de recuperación de energía a partir de residuos con el fin de identificar
+retos para el mejoramiento de la tecnología desde el punto de vista de la transferencia de masa y calor.
+Recuperación de elementos y •Recuperación de acero, cobre y estaño de las cenizas de fondo en los incineradores.
+•Recuperación de TiO2 utilizado como pigmento en pinturas.
+compuestos
+•Proceso integrado de “landfill mining” e instalación WtE que permite recuperar metales ferrosos y no ferrosos de las cenizas .
+•Tratamiento con ácido y electrólisis(FLUREC)permite obtener Zn con pureza del 99,9%.
+•Recuperación de Pb, Cd, As, y Al en corrientes derivadas de una planta gasificación plasma a alta temperatura.
+Termo - valorización de combustibles •Creación de un combustible RDF para uso en plantas de cemento
+•Uso de plásticos (incluso PVC) y llantas en procesos pirolíticos.
+producidos con residuos
+•Comparación de emisiones del MSW y RDF/SRF.
+Mejoras tecnológicas del proceso •Aumento de la eficiencia en incineradores de parrilla viajera utilizando radiadores, mejorando la relación aire - combustible, pr evención de
+formación de contaminantes, descarga seca de cenizas de fondo.
+termoquímico
+•Separación in - situ de impurezas más densas mediante sistemas fluidizados rotativos.
+•Desarrollo en resistencia de materiales y tecnologías de revestimiento para reducir la corrosión en plantas WtE.
+37
+Fuente: Discovery & Watch con datos recopilados en Web of Science y Wizdom (Junio 2020).
+
+--- Página 38 ---
+ANÁLISIS ESTRATÉGICO
+
+--- Página 39 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+CADENA DE VALOR
+Principales empresas
+39
+Fuente: Adaptación Discovery & Watch / Allied Market Research 2018 / Navigant Research 2014
+
+--- Página 40 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+PRINCIPALES EMPRESAS
+HITECHI ZOSEN CORPORATION
+❖ Multinacional estadounidense con 150 años ❖ Proveedor de soluciones ambientales ❖ Multinacional japonesa especializada en
+de historia integradas en China. recuperación de energía a partir de
+❖ Portafolio de productos y servicios muy ❖ Más de 120 proyectos en China residuos.
+desarrollado ❖ Foco en energía ambiental, agua ❖ Presencia a nivel mundial con más de 500
+❖ Presencia fuerte a nivel mundial ambiental, construcción ambiental y plantas WtE.
+❖ Importante desarrollo de tecnologías tecnología ambiental. ❖ Foco en procesos térmicos y biológicos.
+ambientales ❖ Anualmente procesa casi 36.2 millones ❖ Completo portafolio de servicios
+❖ Actualmente desarrolla la planta más grande de toneladas de residuos relacionados
+del mundo en China
+40
+
+--- Página 41 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+TENDENCIAS A SER CONSIDERADAS
+ Dominio de las tecnologías WtE de base térmica
+ Crecimiento de los residuos sólidos municipales
+ Importante crecimiento de las tecnologías WtE biológicas
+ Aparición de nuevas tecnologías como carbonización hidrotermal
+ Importancia del marco regulatorio como driver o restrictor de WtE
+ Cuestionamiento ambiental e impacto negativo en la salud de las personas
+ Impacto financiero
+ Necesidad de establecer una estrategia que priorice la jerarquía de gestión de
+residuos (foco en fracción de rechazo).
+Figura 8 . desafíos para los países en vías de desarrollo
+definidos por UNEP .
+41
+
+--- Página 42 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+CONSIDERACIONES ONU
+El Programa Medioambiental de Naciones
+Unidas (UNEP por sus siglas en inglés)
+entrega algunas sugerencias para el
+desarrollo de políticas públicas relacionadas
+con la adopción de WtE , en un marco
+integrado de gestión de residuos .
+Se pueden resumir en 4 puntos centrales :
+1. Consideraciones preliminares
+2. Consideraciones técnicas
+3. Consideraciones habilitantes
+4. Consulta a los grupos de interés
+Se puede acceder al detalle de las
+recomendaciones en el siguiente link :
+https : //www . unenvironment . org/ietc/resourc
+es/publication/waste - energy - considerations -
+Figura 9 . Recomendadas de Naciones Unidas . (Fuente UNEP . Adaptación D&W) 42
+informed - decision - making
+
+--- Página 43 ---
+ELEMENTOS PARA LA DISCUSIÓN
+
+--- Página 44 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+COMPONENTE MERCADO
+⮚ El mercado WtE bordea los USD $20.7b y se proyecta que alcance los USD $27.7b en 2025, con un CAGR del 6,1% .
+⮚ El segmento térmico representa alrededor del 87% del mercado mundial con cerca de USD $18b y la incineración
+ocupa casi el 55,% de este segmento.
+⮚ El segmento biológico del mercado de WtE bordea los USD $2.8b y se prevé que alcance los USD $3.77b para 2025.
+⮚ Asia Pacífico lidera el crecimiento del mercado con China y Japón a la cabeza.
+⮚ Las tecnologías térmicas de gasificación y pirólisis , así como los sistemas biológicos de digestión anaeróbica están
+comenzando a entrar con fuerza y se espera un aumento sostenido de sus cuotas de mercado.
+⮚ El mercado WtE con incineración está restringido por el alto costo de los incineradores, particularmente a medida que
+los precios de la energía disminuyen y varias plantas no logran cubrir sus costos operativos.
+⮚ El desarrollo de marcos regulatorios cada vez más estrictos en relación a emisiones y mitigación de desechos, obliga a
+los proyectos, particularmente de incineración, a invertir en diversas tecnologías con este fin. 44
+
+--- Página 45 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+COMPONENTE TECNOLÓGICO
+⮚ Las tecnologías térmicas presentan la mayor madurez y participación en el mercado.
+⮚ Las tecnologías biológicas, como la digestión anaeróbica , presentan una alta madurez y crecimiento.
+⮚ Se identifican nuevas tecnologías alternativas de interés como por ejemplo: celdas de combustible biológico , celdas de
+electrólisis microbiana , procesos fotobiológicos , depolimerización térmica , carbonización hidrotermal y la licuefacción
+hidrotermal .
+⮚ Se observa un amplio desarrollo de tecnologías ambientales habilitadoras para la mitigación de emisiones de GEI y
+eliminación de diferentes contaminantes, como limpieza de gases de combustión, precipitadores electrostáticos, manejo
+de cenizas, control de mercurio, control de furanos, control de dioxinas, control de Nox y material particulado entre otras.
+⮚ No todas las tecnologías WtE tienen los mismos niveles de emisiones contaminantes por lo que se hace necesaria una
+revisión focalizada y caso a caso que permita contar con datos objetivos sobre el abanico de tecnologías disponibles.
+45
+
+--- Página 46 ---
+BIBLIOGRAFÍA
+
+--- Página 47 ---
+INFORME AVANCE VIGILANCIA TECNOLÓGICA WASTE TO ENERGY
+BIBLIOGRAFÍA
+Beyene , H. D., Werkneh , A. A., & Ambaye , T. G. (2018). Current updates on waste to energy (WtE) technologies : a review . Renewable Energy Focus , 24 , 1 – 11.
+https://doi.org/10.1016/j.ref.2017.11.001
+Bosmans , A., Vanderreydt , I., Geysen , D., & Helsen , L. (2013). The crucial role of Waste - to - Energy technologies in enhanced landfill mining : a technology review . Journal of Cleaner Production ,
+55 , 10 – 23. https://doi.org/10.1016/j.jclepro.2012.05.032
+Dement ’ ev , K. I., Palankoev , T. A., Alekseeva , O. A., Babkin , I. A., & Maksimov , A. L. (2019). Thermal depolymerization of polystyrene in highly aromatic hydrocarbon medium . Journal of
+Analytical and Applied Pyrolysis , 142 , 104612. https://doi.org/10.1016/j.jaap.2019.05.001
+Jung, S., Lee, J., Park, Y. - K., & Kwon, E. E. (2020). Bioelectrochemical systems for a circular bioeconomy . Bioresource Technology , 300 , 122748.
+https://doi.org/10.1016/j.biortech.2020.122748
+Moya, D., Aldás , C., Jaramillo, D., Játiva, E., & Kaparaju , P. (2017). Waste - To - Energy Technologies: an opportunity of energy recovery from Municipal Solid Waste, using Quito - Ecuador as
+case study . Energy Procedia , 134 , 327 – 336. https://doi.org/10.1016/j.egypro.2017.09.537
+Mu, D., Liu , H., Lin , W., Shukla , P., & Luo , J. (2020). Simultaneous biohydrogen production from dark fermentation of duckweed and waste utilization for microalgal lipid production .
+Bioresource Technology , 302 , 122879. https://doi.org/10.1016/j.biortech.2020.122879
+Nastro , R. A., Falcucci , G., Minutillo, M., & Jannelli , E. (2017). Microbial Fuel Cells in Solid Waste Valorization : Trends and Applications . In Modelling Trends in Solid and Hazardous Waste
+Management (pp. 159 – 171). Singapore : Springer Singapore . https://doi.org/10.1007/978 - 981 - 10 - 2410 - 8 _ 9
+Seiple , T. E., Skaggs , R. L., Fillmore , L., & Coleman, A. M. (2020). Municipal wastewater sludge as a renewable , cost - effective feedstock for transportation biofuels using hydrothermal
+liquefaction . Journal of Environmental Management , 270 , 110852. https://doi.org/10.1016/j.jenvman.2020.110852
+Shen , Y. (2020). A review on hydrothermal carbonization of biomass and plastic wastes to energy products . Biomass and Bioenergy , 134 , 105479.
+https://doi.org/10.1016/j.biombioe.2020.105479
+Sodhi , A. K., Tripathi , S., & Kundu , K. (2017). Biodiesel production using waste cooking oil : a waste to energy conversion strategy . Clean Technologies and Environmental Policy , 19 (6), 1799 –
+1807. https://doi.org/10.1007/s10098 - 017 - 1357 - 6
+Trabold , T. A., & Babbitt , C. W. (2018). Sustainable Food Waste - To - energy Systems . Elsevier . https://doi.org/10.1016/C2016 - 0 - 00715 - 5
+Zhang, Y., & Chen , W. - T. (2018). Hydrothermal liquefaction of protein - containing feedstocks . In Direct Thermochemical Liquefaction for Energy Applications (pp. 127 – 168). Elsevier .
+47
+https://doi.org/10.1016/B978 - 0 - 08 - 101029 - 7.00004 - 7
+
+--- Página 48 ---
+[Sin texto reconocible]
