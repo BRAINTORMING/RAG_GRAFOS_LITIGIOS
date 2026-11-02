@@ -1,0 +1,703 @@
+--- Página 1 ---
+E ans
+a
+Permiso Ambiental
+J
+Mixto GUÍA
+> DE PERMISOS AMBIENTALES SECTORIALES EN EL SEIA
+©
+LA
+PERMISO PARA LA CONSTRUCCIÓN DE
+CIERTAS OBRAS HIDRÁULICAS
+
+--- Página 2 ---
+Tabla de Contenidos
+1. DISPOSICIONES GENERALES 4
+1.1. INTRODUCCIÓN 4
+1.2. PERMISOS AMBIENTALES SECTORIALES 5
+1.2.1. Concepto 5
+1.2.2. Estructura 5
+1.2.3. Clasificación 6
+1.2.4. Guías trámite 7
+2. PERMISO AMBIENTAL SECTORIAL 7
+2.1. PERMISO 7
+2.2. NORMA FUNDANTE 8
+2.3. NORMAS RELACIONADAS 8
+3. OBJETO DE PROTECCIÓN AMBIENTAL 10
+4. REQUISITOS PARA SU OTORGAMIENTO 10
+5. APLICACIÓN DEL PERMISO 10
+5.1 CONCEPTOS 10
+5.1.1. Embalse 10
+5.1.2. Acueducto 12
+5.1.3. Sifón 13
+5.1.4. Canoa 14
+
+--- Página 3 ---
+5.2. CONSIDERACIONES 14
+5.3. DESCRIPCIÓN DE LAS ACCIONES Y OBRAS A LAS QUE
+APLICA EL PERMISO 14
+5.4. PRINCIPALES TIPOLOGÍAS DEL ARTÍCULO 10 DE LA LEY A
+LAS QUE APLICA 15
+6. CONTENIDOS TÉCNICOS Y FORMALES 15
+6.1. CONTENIDOS AMBIENTALES 15
+6.2. CONTENIDOS SECTORIALES 17
+7. OTORGAMIENTO DEL PAS 19
+8. ANEXOS 24
+8.1. DIAGRAMA DE FLUJO 24
+8.2. CUADRO DE CONTENIDOS AMBIENTALES 25
+8.3. DIRECCIÓN DE INTERNET DE DOCUMENTACIÓN RELACIONADA 26
+
+--- Página 4 ---
+1. Disposiciones Generales
+1.1. Introducción
+Luego de la entrada en vigencia de la Ley Nº 20.417, que crea el
+Ministerio, el Servicio de Evaluación Ambiental y la Superintendencia
+del Medio Ambiente, e introduce significativas modificaciones a la
+Ley Nº 19.300, sobre Bases Generales del Medio Ambiente (Ley Nº
+19.300), y en particular en lo referido al Sistema de Evaluación de
+Impacto Ambiental (SEIA), surgió la necesidad de formular un nuevo
+Reglamento del Sistema de Evaluación de Impacto Ambiental (Regla -
+mento), dictado mediante D.S. N° 40, de 30 de octubre de 2012, del
+Ministerio del Medio Ambiente.
+Construcción de ciertas obras hidráulicas
+•
+Con todo, la Ley Nº 19.300 establece el mecanismo de “ventanilla única”
+en el SEIA, señalando que: “Todos los permisos o pronunciamientos de
+carácter ambiental, que de acuerdo con la legislación vigente deban o
+puedan emitir los organismos del Estado, respecto de proyectos o acti -
+GUÍA TRÁMITE PAS vidades sometidos al sistema de evaluación, serán otorgados a través
+de dicho sistema (...)” 1 . En ese contexto, el artículo 13 de la norma
+legal dispone que el Reglamento debe contener, entre otros, la lista
+de los Permisos Ambientales Sectoriales (PAS), de los requisitos para
+su otorgamiento y de los contenidos técnicos y formales necesarios
+para acreditar su cumplimiento.
+En observancia a lo anterior, el Servicio de Evaluación Ambiental (SEA),
+en un trabajo conjunto con los órganos de la administración del Estado
+con competencia ambiental (OAECCA), ha efectuado una revisión de
+todos los permisos o autorizaciones que competen a dichos servicios, para
+identificar cuáles de ellos corresponden a PAS, con el fin de incorporar las
+modificaciones que resulten pertinenres en la dictación del Reglamento.
+A su vez, como parte del desarrollo de este trabajo, se determinó que,
+para cada uno de los PAS, debe existir una Guía Trámite asociada, de
+acuerdo a las competencias entregadas al SEA en el artículo 81 letra
+d) de la Ley Nº 19.300. Las guías tienen por finalidad servir de orien -
+tación y uniformar los criterios, requisitos, condiciones, antecedentes,
+trámites y exigencias técnicas para la obtención de los PAS, explicando
+paso a paso el procedimiento de tramitación de estos permisos.
+1 Artículo 8º inciso segundo de la Ley Nº 19.300.
+4
+
+--- Página 5 ---
+1.2. Permisos Ambientales Sectoriales
+1.2.1. Concepto
+Los PAS son aquellos permisos sectoriales que tienen un objeto de
+protección ambiental. Dichos permisos pueden tener más de un ob -
+jeto de protección y se puede dar el caso de PAS que además tienen
+objetos de protección sectoriales (no ambientales). En estos casos,
+solo se revisa dentro del SEIA el contenido que se enmarca dentro
+del(los) objeto(s) de protección ambiental.
+1.2.2. Estructura
+Cada PAS se estructura expresando:
+(i) El nombre del permiso.
+(ii) La norma sectorial en que se funda, esto es, el artículo y cuerpo
+normativo que crea el permiso.
+(iii) Los requisitos para su otorgamiento, que son aquellos criterios
+que permiten determinar si se resguarda el objeto de protección
+ambiental del permiso.
+(iv) Los contenidos técnicos y formales que deben presentarse para
+acreditar su cumplimiento. Corresponden a los antecedentes que
+el titular debe entregar para determinar si se da cumplimiento al
+requisito de otorgamiento. Un PAS puede tener solo contenidos de
+carácter ambiental, o contenidos de carácter ambiental y sectorial
+(no ambiental). En cualquier caso, los contenidos que se enumeran
+en el Reglamento son solo aquéllos de carácter ambiental, mien -
+tras que en la presente Guía se entrega un mayor detalle respecto
+de los contenidos ambientales, y se enuncian a modo informativo
+los sectoriales.
+5
+SERVICIO DE EVALUACIÓN AMBIENTAL
+
+--- Página 6 ---
+1.2.3. Clasificación
+Se ha definido la necesidad de clasificar los PAS en: (i) PAS de con -
+tenidos únicamente ambientales, que son aquellos que tienen solo
+contenidos de carácter ambiental y (ii) PAS mixtos, que son aquellos
+que tienen contenidos ambientales y no ambientales. El Reglamento
+trata los PAS en párrafos distintos según esta clasificación.
+a) PAS de contenidos únicamente ambientales.
+Se catalogan como de contenidos únicamente ambientales aquellos
+PAS que solo tienen contenidos de carácter ambiental. La relevancia
+de esta clasificación radica en que dichos PAS deben tramitarse com -
+Construcción de ciertas obras hidráulicas
+• pletamente dentro del SEIA, por lo que la Resolución de Calificación
+Ambiental (RCA) favorable dispone su otorgamiento por parte del
+OAECCA correspondiente, bajo las condiciones o exigencias que en
+ella misma se expresen.
+GUÍA TRÁMITE PAS Para estos efectos, el titular del proyecto o actividad debe exhibir la
+RCA favorable ante el órgano sectorial correspondiente, que procederá
+a otorgar el permiso sin más trámite.
+Por su parte, si la RCA es desfavorable, dichos órganos quedarán
+obligados a denegar tales permisos.
+b) PAS mixtos.
+Se catalogan como PAS mixtos, aquellos PAS que tienen contenidos
+ambientales y no ambientales.
+En este supuesto, se analizarán dentro del SEIA aquellos contenidos
+que son ambientales, correspondiendo al OAECCA en forma sectorial
+(fuera del SEIA), revisar los demás contenidos.
+Respecto de los contenidos ambientales, el titular debe presentar los
+antecedentes ambientales dentro del SEIA para su evaluación. En tal
+caso, una RCA favorable certifica que se da cumplimiento a los re -
+quisitos asociados, y los organismos competentes no podrán denegar
+los correspondientes permisos en razón de los referidos requisitos, ni
+imponer nuevas condiciones o exigencias de carácter ambiental que
+no sean las establecidas en la RCA.
+6
+
+--- Página 7 ---
+En cambio, si la RCA es desfavorable, dichos órganos quedarán obligados
+a denegar los correspondientes permisos, en razón de los requisitos
+ambientales, aunque se satisfagan los demás requisitos, en tanto no
+se les notifique de pronunciamiento en contrario.
+Para efectos de la tramitación sectorial del PAS y en caso que la le -
+gislación no lo prohíba, el titular puede presentar los antecedentes no
+ambientales ante el OAECCA de manera previa a la notificación de la
+RCA, indicando el proyecto o actividad que se encuentra en evaluación
+ambiental. Con todo y en virtud de lo dispuesto en el artículo 24 inci -
+sos 4° y 5° de la Ley Nº 19.300, el PAS podrá otorgarse solo una vez
+que el titular exhiba la RCA favorable, debiendo el órgano competente
+abstenerse de otorgar el permiso.
+1.2.4. Guías trámite
+Como se ha explicado, las guías tienen por finalidad servir de orienta -
+ción y uniformar los criterios, requisitos, condiciones, antecedentes,
+trámites y exigencias técnicas para la obtención de los PAS, explicando
+paso a paso el procedimiento de tramitación de estos permisos. A con -
+tinuación, se presenta la Guía trámite del Permiso Ambiental Sectorial
+para la construcción de ciertas obras hidráulicas, correspondiente al
+artículo 155 del Reglamento del SEIA.
+2. Permiso Ambiental Sectorial
+2.1. Permiso
+Permiso para la construcción de ciertas obras hidráulicas.
+El permiso para la construcción de ciertas obras hidráulicas corres -
+ponde a un PAS mixto.
+7
+SERVICIO DE EVALUACIÓN AMBIENTAL
+
+--- Página 8 ---
+2.2. Norma fundante
+El permiso se funda en el artículo 294º del D.F.L. Nº 1.122, de 1981,
+del Ministerio de Justicia, Código de Aguas, que dispone:
+“Requerirán la aprobación del Director General de Aguas, de acuerdo al
+procedimiento indicado en el Título I del Libro Segundo, la construcción
+de las siguientes Obras:
+a) Los embalses de capacidad superior a cincuenta mil metros cúbicos
+o cuyo muro tenga más de 5 m. de altura;
+b) Los acueductos que conduzcan más de dos metros cúbicos por
+Construcción de ciertas obras hidráulicas
+• segundo;
+c) Los acueductos que conduzcan más de medio metro cúbico por
+segundo, que se proyecten próximos a zonas urbanas, y cuya
+distancia al extremo más cercano del límite urbano sea inferior a
+GUÍA TRÁMITE PAS un kilómetro y la cota de fondo sea superior a 10 metros sobre la
+cota de dicho límite, y
+d) Los sifones y canoas que crucen cauces naturales
+Quedan exceptuadas de cumplir los trámites y requisitos a que se re -
+fiere este artículo, los Servicios dependientes del Ministerio de Obras
+Públicas, los cuales deberán remitir los proyectos de obras a la Direc -
+ción General de Aguas, para su conocimiento, informe e inclusión en
+el Catastro Público de Aguas”.
+2.3. Normas relacionadas
+Principales artículos relacionados del D.F.L. Nº 1.122, Código de Aguas:
+“Artículo 1º- Las aguas se dividen en marítimas y terrestres. Las
+disposiciones de este código sólo se aplican a las aguas terrestres” 2 .
+2 Este aspecto se aborda con mayor detalle en el apartado 5.2 Consideraciones.
+8
+
+--- Página 9 ---
+“Artículo 30°- Alveo o cauce natural de una corriente de uso público
+es el suelo que el agua ocupa y desocupa alternativamente en sus
+creces y bajas periódicas .
+Este suelo es de dominio público y no accede mientras tanto a las
+heredades contiguas, pero los propietarios riberanos podrán aprove -
+char y cultivar ese suelo en las épocas en que no estuviere ocupado
+por las aguas.
+Sin perjuicio de lo dispuesto en los incisos precedentes, las porciones
+de terrenos de un predio que, por avenida, inundación o cualquier
+causa quedaren separadas del mismo, pertenecerán siempre al dueño
+de éste y no formarán parte del cauce del río”. (Énfasis agregado).
+“Artículo 36°- Canal o cauce artificial es el acueducto construido por
+la mano del hombre. Forman parte de él las obras de captación,
+conducción, distribución y descarga del agua, tales como bocatomas,
+canoas, sifones, tuberías, marcos partidores y compuertas. Estas obras
+y canales son de dominio privado.
+Embalse es la obra artificial donde se acopian aguas”.
+“Artículo 295º- La Dirección General de Aguas otorgará la autorización
+una vez aprobado el proyecto definitivo y siempre que haya compro -
+bado que la obra no afectará la seguridad de terceros ni producirá la
+contaminación de las aguas.
+Un reglamento especial fijará las condiciones técnicas que deberán
+cumplirse en el proyecto, construcción y operación de dichas obras”.
+“Artículo 296º- La Dirección General de Aguas supervisará la construcción
+de dichas obras, pudiendo en cualquier momento, adoptar las medi -
+das tendientes a garantizar su fiel adaptación al proyecto autorizado.
+Las resoluciones que se dicten en conformidad a estas normas deberán
+ser fundadas y en contra de ellas procederán los recursos a que se
+refieren los artículos 136º y 137º, de este código, que en estos casos
+no suspenderán su cumplimiento”.
+9
+SERVICIO DE EVALUACIÓN AMBIENTAL
+
+--- Página 10 ---
+“Art. 297° - Los que construyan las obras de que trata este título de -
+berán constituir las garantías suficientes para financiar el costo de su
+eventual modificación o demolición, para que no constituyan peligro,
+si fueren abandonadas durante su construcción.
+La garantía se constituirá a favor del Fisco y será devuelta una vez
+recibida la obra por la Dirección General de Aguas. En el caso de que
+sea abandonada durante su construcción, se restituirá el saldo de la
+garantía no aplicada a la ejecución de las obras de modificación o
+demolición. Para reiniciar las obras, deberá constituirse la garantía a
+que se refiere el inciso primero.
+Construcción de ciertas obras hidráulicas
+• El Director General de Aguas podrá eximir de la obligación de constituir
+las garantías a que se refiere este artículo, tratándose de obras que
+ejecuten los Servicios Públicos o las Empresas del Estado, siempre
+que en el proyecto respectivo se contemplen las medidas tendientes
+a asegurar que en el caso de una eventual paralización de las obras
+GUÍA TRÁMITE PAS éstas no constituirán peligro”.
+3. Objeto de Protección Ambiental
+El objeto de protección ambiental de este permiso corresponde a la
+calidad de las aguas, y emana del artículo 295º del D.F.L. Nº 1.122,
+Código de Aguas.
+4. Requisitos para su Otorgamiento
+Los requisitos para su otorgamiento consisten en asegurar que no se
+producirá la contaminación de las aguas.
+5. Aplicación del Permiso
+5.1. Conceptos
+5.1.1. Embalse
+Embalse: El artículo 36 inciso 2º del Código de Aguas define embalse
+como “la obra artificial donde se acopian aguas”.
+10
+
+--- Página 11 ---
+Para efectos de este permiso, se entenderán por embalses de la letra
+a) del artículo 294° del Código de Aguas, a toda obra artificial ubica -
+da dentro o fuera de un cauce, donde se acopian aguas o elementos
+transportados mediante ella, sea que tenga o no un muro por sobre el
+nivel del terreno, con una capacidad superior a cincuenta mil metros
+cúbicos o cuyo muro tenga más de cinco metros de altura.
+En relación a la aplicabilidad del permiso, deberá tenerse presente lo siguiente:
+De acuerdo a la definición anterior, un embalse para efectos de este
+permiso puede acumular aguas puras, aguas alteradas 3 , contamina -
+das 4 , pulpas, riles, relaves 5 o cualquier sustancia que se acopie que
+contenga sólidos, siempre y cuando el contenido de sólidos de dicha
+sustancia sea inferior a 65% en peso al momento de ingresar a la
+obra, considerando dicho porcentaje como el que se alcanza en estado
+de régimen o en condiciones normales de operación. Dentro de esta
+categoría podrían encontrarse, por tanto, sistemas de tratamiento de
+aguas, depósitos de relaves y otras obras.
+Si se consideran las categorías de depósitos de relaves establecidas en
+el D.S. N° 248, de 2006, del Ministerio de Minería, Reglamento para la
+aprobación de proyectos de diseño, construcción, operación y cierre de los
+depósitos de relaves, el presente permiso no será aplicable a los depósitos
+de relaves filtrados y en pasta (su contenido de sólidos en peso es superior
+al 65%), mientras que sí será aplicable a tranques y embalses de relaves (su
+contenido de sólidos en peso es inferior al 65%). Para el caso de depósitos
+de relaves espesados y cualquier otra forma de depositación de relaves, se
+considerará aplicable el permiso siempre y cuando el contenido de sólidos
+del relave al momento de la depositación sea inferior al 65% en peso.
+3 Se debe tener presente que siempre que el acopio de aguas conlleve una
+posterior descarga, se consideran aguas alteradas aquellas que tengan ca -
+racterísticas físicas, químicas o biológicas diferentes a las del cuerpo receptor.
+4 Se debe tener presente que siempre que el acopio de aguas contaminadas
+conlleve una posterior descarga, dichas aguas deberán ser objeto de tratamien -
+to, para dar cumplimiento a las normas vigentes en la materia. En particular, se
+debe revisar la aplicabilidad de PAS asociados a descargas. En este contexto, se
+entenderá por “aguas contaminadas” a aquellos residuos líquidos que presen -
+ten algún potencial de afectación a los componentes agua y/o suelo.
+5 Véase apartado “5.2 Consideraciones”, de esta Guía.
+11
+SERVICIO DE EVALUACIÓN AMBIENTAL
+
+--- Página 12 ---
+En relación a ciertos aspectos técnicos, deberá tenerse presente lo siguiente:
+1. La capacidad de almacenamiento se considerará independientemente
+de que esta obra posea o no un muro sobre el nivel del terreno.
+Para determinar la capacidad de los embalses o tranques ubicados
+dentro de cauces naturales, se deberá calcular el volumen de al -
+macenamiento de la obra hasta el nivel de agua generado por la
+crecida de diseño, mientras que para los que se ubiquen fuera de un
+cauce, la capacidad se determinará hasta el nivel de coronamiento
+de estas obras.
+2. La altura de muro máxima será medida desde el punto más bajo
+del terreno natural sobre el cual se apoya(n) el(los) elemento(s)
+Construcción de ciertas obras hidráulicas
+• que conforma(n) la barrera y el punto más alto de la estructura
+resistente, sin tener en cuenta los escarpes, dentellones, pantallas
+de impermeabilización, rellenos de grietas u otros elementos seme -
+jantes. En el caso de embalses o tranques cuya configuración esté
+dada total o parcialmente por excavaciones, se considerará como
+GUÍA TRÁMITE PAS muro, a las estructuras situadas sobre el nivel de terreno natural.
+5.1.2. Acueducto
+Acueducto: Conducto artificial, sea este abovedado o no, por donde
+escurren aguas o elementos transportados mediante ella, ya sea con
+escurrimiento a superficie libre o en presión.
+Para efectos de este permiso, se entenderán por acueductos de la
+letra b) del artículo 294 del Código de Aguas, a aquellos que conduz -
+can más de dos metros cúbicos por segundo, ya sean en régimen de
+escurrimiento libre o en presión.
+De igual forma, se entenderán por acueductos de la letra c) del artículo
+294 del Código de Aguas, a aquellos que conduzcan más de medio
+metro cúbico por segundo, ya sean en régimen de escurrimiento libre
+o en presión, que consideran la conducción de aguas y elementos
+transportados por ella, y cumplan simultáneamente con los dos re -
+quisitos siguientes:
+12
+
+--- Página 13 ---
+(i) Localización próxima a zonas urbanas, esto es que la distancia del
+acueducto al extremo más cercano del límite urbano sea inferior
+a un kilómetro.
+(ii) Cota de fondo superior a 10 metros sobre la cota del límite urbano.
+En relación a la aplicabilidad del permiso, deberá tenerse presente lo
+siguiente:
+1. Se considerará aplicable el permiso a ciertas obras de transporte
+hidráulico de sólidos, como relaveductos, mineroductos y, en ge -
+neral, cualquier conducto para el transporte hidráulico de sólidos
+que utilice como fluido de transporte agua.
+2. No se consideran como obras asociadas a este permiso los ga -
+soductos, oleoductos u otros acueductos que utilicen como medio
+de transporte un fluido distinto al agua.
+En relación a ciertos aspectos técnicos, deberá tenerse presente lo
+siguiente:
+Se entenderá por zonas urbanas aquellas que son delimitadas por el
+respectivo plan regulador comunal o seccional. En caso de no existir
+dicho instrumento de planificación, la zona no se considerará urbana.
+5.1.3. Sifón
+Sifón: Estructura aérea o enterrada que posee un régimen de escurri -
+miento en presión y que forma parte de un acueducto con escurrimiento
+libre, destinada a permitir el atravieso de un cauce. Esta obra de arte
+se refiere solo a aquella singularidad del acueducto que materializa el
+cruce y cuyo régimen en presión se debe a la acción de la gravedad.
+Para efectos de este permiso, se entenderán por sifones de la le -
+tra d) del artículo 294 del Código de Aguas, a aquellos que crucen
+cauces naturales.
+13
+SERVICIO DE EVALUACIÓN AMBIENTAL
+
+--- Página 14 ---
+5.1.4. Canoa
+Canoa: Estructura aérea que forma parte de un acueducto, pudiendo
+ser éste abovedado o no, destinada a permitir el atravieso de un cauce,
+y que posee un régimen de escurrimiento libre.
+Para efectos de este permiso, se entenderán por canoas de la letra d) del
+artículo 294 del Código de Aguas, a aquellas que crucen cauces naturales.
+5.2. Consideraciones
+Este PAS será aplicable solamente a las aguas terrestres, tal como
+lo señala el artículo 1° del D.F.L. Nº 1.122, Código de Aguas 6 . Sin
+Construcción de ciertas obras hidráulicas
+• embargo, las aguas marinas que sean ingresadas al continente por
+sobre la línea de playa (línea de más alta marea), serán consideradas
+como aguas terrestres, y por tanto les será aplicable el PAS en las
+obras antes señaladas.
+GUÍA TRÁMITE PAS Este PAS no resulta aplicable a los Servicios dependientes del Ministerio
+de Obras Públicas, de acuerdo a lo dispuesto en el artículo 294º del
+D.F.L. Nº 1.122, de 1981, del Ministerio de Justicia, Código de Aguas 7 .
+5.3. Descripción de las acciones y obras a las que aplica el permiso
+El permiso aplica a las obras señaladas en el artículo 294º del D.F.L.
+Nº 1.122, Código de Aguas, véase:
+a) Los embalses de capacidad superior a cincuenta mil metros cúbicos
+o cuyo muro tenga más de 5 metros de altura;
+b) Los acueductos que conduzcan más de dos metros cúbicos por segundo;
+c) Los acueductos que conduzcan más de medio metro cúbico por
+segundo, que se proyecten próximos a zonas urbanas, y cuya
+distancia al extremo más cercano del límite urbano sea inferior a
+un kilómetro y la cota de fondo sea superior a 10 metros sobre la
+cota de dicho límite, y
+d) Los sifones y canoas que crucen cauces naturales.
+6 Dicho artículo señala que “Las aguas se dividen en marítimas y terrestre. Las
+disposiciones de este Código sólo se aplican a las aguas terrestres”.
+7 Ref. Oficio ORD. DGA N° 453, de 14 de junio de 2013.
+14
+
+--- Página 15 ---
+5.4. Principales tipologías del artículo 10 de la Ley a las que aplica
+Acueductos, embalses o tranques y sifones que deban someterse a la
+autorización establecida en el artículo 294° del Código de Aguas, presas,
+drenaje, desecación, dragado, defensa o alteración, significativos, de
+cuerpos o cursos naturales de aguas; (letra a), art. 10, Ley Nº 19.300).
+Sin perjuicio de lo anterior, este permiso será aplicable a las obras a
+las que se refiere el artículo 294º del D.F.L. Nº 1.122, de 1981, del
+Ministerio de Justicia, Código de Aguas, tal como se indica en las sec -
+ciones 5.1, 5.2 y 5.3 de esta guía. Estas obras pueden formar parte
+de una gran variedad de proyectos, asociados a diversas tipologías.
+6. Contenidos Técnicos y Formales
+6.1. Contenidos ambientales
+Los contenidos técnicos y formales que deben presentarse para acre -
+ditar su cumplimiento son los siguientes:
+a) Descripción de la obra.
+a.1. Plano de ubicación general de la obra, donde se muestren las
+principales componentes del proyecto en planta y que se señale
+la cuenca afluente a la obra.
+a.2. Descripción sistemática del flujo completo de agua, la cual con -
+tendrá a lo menos una descripción y un diagrama sinóptico del
+conjunto de las obras (captación, aducción, utilización, tratamien -
+to, descarga, etc.) estableciendo sus principales características.
+a.3. Descripción de la etapa de construcción, operación y cierre de
+la obra.
+15
+SERVICIO DE EVALUACIÓN AMBIENTAL
+
+--- Página 16 ---
+b)Estudios generales de topografía, geología, hidrología, hidro -
+geología, hidráulica fluvial, hidrodinámica y balance de aguas.
+b.1. Topografía: describir la forma en que se realizaron estos trabajos,
+incluyendo una memoria explicativa, los antecedentes o referencias,
+la metodología utilizada, los resultados y conclusiones. Indicar,
+además, la base o los puntos de referencia oficiales a los cuales
+se enlazó planimétricamente y altimétricamente el proyecto.
+b.2. Geología: realizar un estudio regional y local, en el cual se incluya
+mapas y perfiles geológicos, asociados al área de emplazamiento
+de la obra.
+Construcción de ciertas obras hidráulicas
+• b.3. Hidrología: se deberá incluir, al menos, el estudio de crecidas
+que permitan el dimensionamiento de las obras. Además, incluir
+el análisis y la estimación de los recursos hídricos, cuando co -
+rrespondan.
+GUÍA TRÁMITE PAS b.4. Hidrogeología: determinar los parámetros hidrogeológicos y ana -
+lizar la influencia que tienen en el diseño de las obras.
+b.5. Hidráulica Fluvial: caracterizar la hidráulica fluvial del cauce donde
+se implantarán las obras, de manera de determinar los aspectos
+que influyen en su diseño.
+b.6. Hidrodinámica: caracterizar los principales flujos de agua involucra -
+dos en el diseño de la obra y su relación con los flujos existentes
+en el emplazamiento.
+b.7. Balance de aguas: realizar un balance completo de aguas respecto
+de todas las obras involucradas (captación, aducción, utilización,
+tratamiento, descarga, etc.).
+c) Análisis del comportamiento de la calidad de las aguas en la
+situación sin proyecto y con proyecto.
+16
+
+--- Página 17 ---
+d) Medidas que eviten la contaminación o alteración de la ca -
+lidad de las aguas en las fases del proyecto 8 .
+e) Planes de seguimiento y contingencias, incluyendo planes
+de control y monitoreo ambiental aguas arriba y aguas abajo
+de la obra.
+Programa de seguimiento de la calidad del agua, indicando: pará -
+metros a medir, lugares de medición, frecuencia, metodología de
+muestreo y análisis de muestras y datos, frecuencia de informes.
+f) Planes de prevención, especificando los umbrales de referencia
+que activan los planes de acción.
+g) Planes de acción por riesgos ambientales relacionados a la obra
+considerando, por ejemplo, derrames, contención, lechadas de algún
+material contenedor, neutralizadores, etc.
+6.2. Contenidos sectoriales
+Las obras que se presenten en este ámbito, deberán ser aprobadas por
+la Dirección General de Aguas (DGA) en la respectiva instancia secto -
+rial, análisis en que se considerarán al menos los siguientes aspectos:
+a) La descripción sistemática del flujo completo del agua, la cual
+contendrá a lo menos una descripción y un diagrama sinóptico del
+conjunto de las obras (captación, aducción, utilización, tratamiento,
+descarga, etc.).
+8 Se debe evitar la impermeabilización de la superficie basal de la cubeta de los
+tranques de relaves, por cuanto puede dar origen a problemas de estabilidad
+física de la obra frente a sismos. En este sentido establece el artículo 56° del
+D.S. N° 248, de 2006, del Ministerio de Minería, que “El sistema de imper -
+meabilización del fondo de la cubeta de los tranques y embalses de relaves o
+del área donde se depositan los relaves espesados, de ser necesario, deberá
+contemplar un tratamiento previo del terreno utilizado, por ejemplo, recubri -
+mientos compactados compuestos con materiales del tipo arcillosos u otros
+con propiedades impermeabilizantes, o cualquier otro método (en el caso
+del Tranque de Relaves no es permitido el uso de una geomembrana) ,
+para impedir o minimizar filtraciones de agua contaminadas al exterior del
+depósito o infiltraciones a cursos de aguas subterráneas”. (Énfasis agregado).
+17
+SERVICIO DE EVALUACIÓN AMBIENTAL
+
+--- Página 18 ---
+b) La identificación de la población y/o la infraestructura potencial -
+mente afectada, en virtud de la ubicación y el área de influencia
+del proyecto, frente a una eventual falla o colapso de las obras.
+c) Un análisis de la seguridad de las obras con la finalidad de evitar que
+éstas afecten a terceros o al entorno. Para su elaboración se deberán
+tener en cuenta los criterios de diseño de las obras y las consideraciones
+derivadas de la respectiva evaluación ambiental. Lo anterior significa,
+a lo menos, identificar en un cuadro las eventuales fallas, indicando
+sus causas, modos y consecuencias, así como las medidas que se con -
+templan para prevenir dichas fallas y/o aminorar sus efectos; además,
+debe señalarse los puntos precisos de los diversos documentos del
+proyecto donde se tratan en profundidad estas materias.
+Construcción de ciertas obras hidráulicas
+•
+d) Descripción funcional del sistema de control y monitoreo, la cual además
+deberá incluir un diagrama de los dispositivos utilizados para evaluar
+el comportamiento de las obras y de su área de influencia, durante las
+fases de construcción, puesta en carga y operación, cuando corresponda.
+GUÍA TRÁMITE PAS
+Cuando un depósito de relaves, de aquellos a los que resulta aplicable
+el permiso, cuente con la aprobación del Servicio Nacional de Geología
+y Minería (SERNAGEOMIN), otorgada mediante la resolución respecti -
+va, la DGA tendrá por cumplida la exigencia establecida en el artículo
+295º del Código de Aguas, en lo referido a comprobar que la obra de
+embalse o tranque no afecta la seguridad de terceros y no aplicará a
+dicha obra las exigencias técnicas que se establezcan en el reglamento
+a que se refiere el artículo 295º del Código de Aguas.
+Sin perjuicio de lo anterior, el titular deberá presentar a la DGA los
+antecedentes técnicos del proyecto, para el pronunciamiento de este
+servicio respecto de la eventual afectación de derechos de aprovecha -
+miento de terceros, la evaluación de otras obras hidráulicas asociadas
+al proyecto y para determinar las garantías suficientes, en los términos
+del artículo 297º del Código de Aguas.
+Por último, respecto de depósito de relaves que no hayan sido aproba -
+dos por el SERNAGEOMIN y que constituyan obras identificadas en el
+artículo 294º del Código de Aguas, se le aplicará las exigencias técnicas
+establecidas en el reglamento a que se refiere el artículo 295º del Código
+de Aguas y sus antecedentes respectivos, a menos que, en cualquier
+momento, el titular acompañe la resolución antes mencionada.
+18
+
+--- Página 19 ---
+7. Otorgamiento del PAS
+En primer lugar, es necesario determinar si el permiso es aplicable
+en cuanto al tipo de obra considerada. Para ello, debe verificarse si
+el proyecto considera algunos de los cuatro tipos de obras hidráulicas
+señaladas en el artículo 294º del D.F.L. Nº 1.122, Código de Aguas
+(embalses, acueductos, sifones o canoas), de acuerdo a los conceptos
+entregados en el punto 5.1 de esta guía.
+a) En el caso de un embalse, se considerará como tal a toda obra
+artificial ubicada dentro o fuera de un cauce, donde se acopian
+aguas o elementos transportados mediante ella, sea que tenga o
+no un muro por sobre el nivel del terreno. Si las aguas alteradas,
+contaminadas, pulpas, riles, relaves o cualquier sustancia que se
+acopie contiene sólidos, se considerará aplicable el permiso siempre
+y cuando el contenido de sólidos de dicha sustancia sea inferior
+a 65% en peso al momento de ingresar a la obra, considerando
+dicho porcentaje como el que se alcanza en estado de régimen o
+en condiciones normales de operación. Dentro de esta categoría
+podrían encontrarse sistemas de tratamiento de aguas, depósitos
+de relaves y otras obras.
+Si la obra no cumple con dichas características, no se requiere
+obtener este PAS. Si la obra cumple con las características para
+ser considerada como un embalse, deben analizarse los atributos
+particulares de la obra identificados, que se indican a continuación:
+• Se requiere el PAS si el embalse tiene una capacidad superior
+a 50.000 m 3 (cincuenta mil metros cúbicos). Para determinar lo
+anterior, la capacidad de almacenamiento se considerará inde -
+pendientemente de que esta obra posea o no un muro sobre el
+nivel del terreno. Para determinar la capacidad de los embalses
+o tranques ubicados dentro de cauces naturales, se deberá cal -
+cular el volumen de almacenamiento de la obra hasta el nivel de
+agua generado por la crecida de diseño, mientras que para los
+que se ubiquen fuera de un cauce, la capacidad se determinará
+hasta el nivel de coronamiento de estas obras.
+19
+SERVICIO DE EVALUACIÓN AMBIENTAL
+
+--- Página 20 ---
+• Se requiere el PAS si el muro del embalse es superior a 5 metros
+de altura. Para determinar lo anterior, la altura de muro máxima
+será medida desde el punto más bajo del terreno natural sobre
+el cual se apoya(n) el(los) elemento(s) que conforma(n) la ba -
+rrera y el punto más alto de la estructura resistente, sin tener
+en cuenta los escarpes, dentellones, pantallas de impermeabili -
+zación, rellenos de grietas u otros elementos semejantes. En el
+caso de embalses o tranques cuya configuración esté dada total
+o parcialmente por excavaciones, se considerará como muro a
+las estructuras situadas sobre el nivel de terreno natural.
+b) En el caso de un acueducto, se considerará como tal a todo con -
+ducto artificial, sea este abovedado o no, por donde escurren aguas
+Construcción de ciertas obras hidráulicas
+• o elementos transportados mediante ella, ya sea con escurrimiento
+a superficie libre o en presión. El permiso se considera aplicable
+también a ciertas obras como relaveductos, mineroductos y, en
+general, cualquier conducto para el transporte hidráulico de sólidos
+que utilice agua como fluido de transporte.
+GUÍA TRÁMITE PAS
+Si la obra no cumple con dichas características, no se requiere
+obtener este PAS. Si la obra cumple con las características para
+ser considerada como un acueducto, deben analizarse los atributos
+particulares de la obra que se indican a continuación:
+• Se requiere el PAS si el acueducto conduce más de 2 m 3 /s (dos
+metros cúbicos por segundo).
+• Se requiere el PAS si el acueducto conduce más de 0,5 m 3 /s
+(medio metro cúbico por segundo), se encuentra próximo a
+una zona urbana, y su cota de fondo se encuentra a más de 10
+metros por sobre la cota del límite urbano.
+c) En el caso de un sifón, se considerará como tal a toda estructura
+aérea o enterrada que posee un régimen de escurrimiento en pre -
+sión y que forma parte de un acueducto con escurrimiento libre,
+destinada a permitir el atravieso de un cauce. Esta obra de arte se
+refiere solo a aquella singularidad del acueducto que materializa el
+cruce y cuyo régimen en presión se debe a la acción de la gravedad.
+20
+
+--- Página 21 ---
+Si la obra no cumple con dichas características, no se requiere
+obtener este PAS. Si la obra cumple con las características para
+ser considerada como un sifón, se requerirá el PAS solo en caso de
+que el sifón cruce un cauce natural.
+d) En el caso de una canoa, se considerará como tal a toda estructura
+aérea que forma parte de un acueducto, pudiendo ser éste abo -
+vedado o no, destinada a permitir el atravieso de un cauce, y que
+posee un régimen de escurrimiento libre.
+Si la obra no cumple con dichas características, no se requiere ob -
+tener este PAS. Si la obra cumple con las características para ser
+considerada como una canoa, se requerirá el PAS solo en caso de
+que la canoa cruce un cauce natural.
+Corresponderá a las Direcciones Regionales de Aguas, en caso de
+proyectos regionales, y a la DGA, en caso de proyectos interregio -
+nales, revisar los contenidos ambientales del PAS dentro del SEIA y
+pronunciarse al respecto.
+El proceso de evaluación concluirá con una RCA dictada por la Comisión
+de Evaluación o el Director Ejecutivo del SEA, según corresponda. Si
+la RCA es favorable certificará que se da cumplimiento a los requisitos
+ambientales del PAS. En tal caso, la DGA no podrá denegar el permiso
+en razón de los referidos requisitos, ni imponer nuevas condiciones o
+exigencias de carácter ambiental que no sean las establecidas en la
+RCA. Por su parte, si la RCA es desfavorable, la DGA quedará obligada
+a denegar el permiso, en razón de los requisitos ambientales, aunque
+se satisfagan los demás requisitos, en tanto no se le notifique de pro -
+nunciamiento en contrario.
+Fuera del SEIA, el Titular deberá entregar los contenidos sectoriales
+para aprobación de la DGA, que deberá pronunciarse respecto de la
+aprobación sectorial del permiso.
+21
+SERVICIO DE EVALUACIÓN AMBIENTAL
+
+--- Página 22 ---
+La DGA podrá otorgar el permiso (que incluye los aspectos ambientales
+y sectoriales) solo una vez que el titular exhiba la RCA favorable. En este
+caso solo podrá denegar el permiso en razón de requisitos sectoriales.
+Cabe hacer presente que los depósitos de relaves filtrados y en pasta
+(de acuerdo a la clasificación establecida en el D.S. N° 248, de 2006,
+del Ministerio de Minería, Reglamento para la aprobación de proyectos
+de diseño, construcción, operación y cierre de los depósitos de relaves)
+no requieren de la autorización sectorial de la DGA.
+Construcción de ciertas obras hidráulicas
+•
+GUÍA TRÁMITE PAS
+22
+
+--- Página 23 ---
+8. Anexos 8.1 Diagrama de flujo
+23
+SERVICIO DE EVALUACIÓN AMBIENTAL
+
+--- Página 24 ---
+8.2. Cuadro de contenidos ambientales
+Construcción de ciertas obras hidráulicas
+•
+GUÍA TRÁMITE PAS
+24
+
+--- Página 25 ---
+8.3. Dirección de internet de documentación relacionada
+• D.F.L. Nº 1.122, de 1981, del Ministerio de Justicia, Código de Aguas.
+http://www.leychile.cl/Navegar?idNorma=5605&r=1
+25
+SERVICIO DE EVALUACIÓN AMBIENTAL
+
+--- Página 26 ---
+PERMISO PARA LA CONSTRUCCIÓN DE
+CIERTAS OBRAS HIDRÁULICAS
