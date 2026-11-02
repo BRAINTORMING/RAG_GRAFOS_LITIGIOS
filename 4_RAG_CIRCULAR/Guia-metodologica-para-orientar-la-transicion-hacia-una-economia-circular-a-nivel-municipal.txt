@@ -1,0 +1,2217 @@
+--- Página 1 ---
+Guía metodológica para
+orientar la transición hacia
+una economía circular
+a nivel municipal
+
+--- Página 2 ---
+Guía metodológica para orientar la transición
+hacia una economía circular a nivel municipal
+Documento elaborado por el Centro de Investigación para la Sustentabilidad de la Universidad Andrés Bello como
+ejecutor de consultoría «Guía metodológica para orientar la transición hacia una economía circular a nivel municipal»
+(ID 608897-51-LE22) del Ministerio del Medio Ambiente .
+Agradecimientos
+A los equipos municipales, los Gobiernos Regionales, las Secretarías Regionales Ministeriales de
+Medio Ambiente, la Subsecretaría de Desarrollo Regional y Administrativo y sus unidades regionales
+y todas las personas que participaron de los hitos de consulta y colaboraron con antecedentes para
+la configuración de esta guía.
+Fotografías y diagramas
+Todas las fotografías y diagramas fueron adquiridas o producidas por Universidad Andrés Bello para los
+objetivos de esta guía, con la excepción de los casos donde se señala su autoría de origen.
+Se autoriza la reproducción parcial de los contenidos de la presente publicación para los efectos de Cita:
+su utilización a título de cita o con fines de enseñanza e investigación, siempre citando la fuente MMA, 2023. Guía metodológica para orientar la transición hacia una economía circular a nivel municipal.
+correspondiente, título y autor. Gobierno de Chile, Ministerio del Medio Ambiente. Santiago, Chile.
+2
+
+--- Página 3 ---
+«Guía metodológica para
+orientar la transición hacia
+una economía circular a
+nivel municipal»
+3
+
+--- Página 4 ---
+Resumen Ejecutivo
+La presente guía responde a la necesidad identificada por el Ministerio del Medio Ambiente de tener un En el mismo sentido, la experiencia de distintas municipalidades a lo largo de todo Chile puede ser vital
+instrumento de apoyo a los municipios que deseen iniciar el proceso de transición hacia una economía para iniciar el camino hacia la implementación de diversas estrategias de economía circular, por ello la
+circular. En efecto, la Hoja de Ruta para un Chile Circular al 2040, junto a otros instrumentos relacionados, guía también recoge variados ejemplos, en los que se ha tenido especial cuidado en contar con iniciati-
+como lo son la Estrategia Nacional de Residuos Orgánicos, la Hoja de Ruta de Residuos de Construcción vas de todo el país, considerando municipios urbanos y rurales, de diferente tamaño y realidad geográ-
+y Demolición y Economía Circular en la Construcción, entre otros, establecen una serie de acciones que fica. Es así como se podrá encontrar ejemplos de inclusión de la economía circular en la planificación
+deberán ser desarrolladas e implementadas a nivel municipal. local, compras circulares, difusión de hábitos circulares en la sociedad en general y especialmente en las
+comunidades escolares, la implementación de sistemas de aseo con tarificación solidaria, procesos de
+Es en este escenario que la presente guía se ha estructurado considerando la necesidad de acercar a participación ciudadana, inclusión de recicladoras y recicladores de base, incentivos para la separación
+las entidades edilicias y sus equipos técnicos, un marco estratégico y conceptual que facilite el reco- en origen y de infraestructura para la economía circular.
+nocimiento que poseen los territorios locales con la imprescindible transición a una economía circular,
+el vínculo de ello con los Objetivos del Desarrollo Sostenible (Agenda 2030), los beneficios asociados Se espera que este instrumento sea útil para cada municipalidad del país, y que, a través de él, las au-
+a la circularidad a nivel comunal, y de manera central, el impacto que la economía circular tiene como toridades locales, con el apoyo de sus equipos técnicos y profesionales, recojan los elementos que le
+estrategia en la mitigación de gases de efecto invernadero, pero también como herramienta para la sean de mayor interés. Lo importante es iniciar, cuanto antes, el proceso de transición hacia la econo-
+adaptación al cambio climático. mía circular y reconocer que son los propios municipios los que tienen la capacidad de llegar a cada
+una de las personas que habitan nuestro país, que finalmente serán los beneficiarios y beneficiarias de
+Se reconoce, además, que la transición hacia una economía circular dependerá de la realidad de cada un territorio con menor consumo y explotación de recursos naturales y menor generación de residuos.
+comuna, por tanto, es imprescindible que cada municipio pueda iniciar un proceso de elaboración de su
+propia estrategia local. Dicha estrategia debe estar basada en los principios de transición socioecoló-
+gica justa, autonomía municipal, progresividad y pertinencia. En otras palabras, debe asegurarse que la
+transición a mayores niveles de circularidad local no deje a nadie atrás, en particular a los grupos más
+vulnerables; que debe ser el propio municipio el que defina el foco de acción en torno a la economía cir-
+cular, que si bien debe hacerlo de manera decidida hacia el horizonte definido por la Hoja de Ruta para
+un Chile Circular al 2040, podrá establecer su propia velocidad.
+Resumen Ejecutivo Guía metodológica para orientar la transición hacia una economía circular a nivel municipal 4
+
+--- Página 5 ---
+Índice de contenidos
+Sección 1: Marco estratégico y conceptual de la Economía Circular ...............................................................................................................................8
+1.1 Economía circular y desarrollo local ........................................................................................................................................................................................................................9
+1.2 ¿Qué es la economía circular? ...................................................................................................................................................................................................................................11
+1.3 Beneficios de la economía circular para el desarrollo local ..................................................................................................................................................................17
+1.4 Hoja de Ruta para un Chile Circular .......................................................................................................................................................................................................................19
+1.5 Los municipios como actores claves de la transición a una economía circular .......................................................................................................................21
+1.6 Principios de la guía .........................................................................................................................................................................................................................................................23
+Sección 2: Economía Circular y cambio climático ....................................................................................................................................................................................24
+Sección 3: ¿Cómo diseñar una Estrategia Local para la Transición hacia una Economía Circular? .................................29
+3.1 Paso 1 Definir los actores claves ...................................................................................................................................................................................................................32
+3.2 Paso 2 Identificar base de inicio ....................................................................................................................................................................................................................34
+3.3 Paso 3 Priorizar áreas o sectores objetivos ............................................................................................................................................................................................36
+3.4 Paso 4 Visualizar el futuro ..................................................................................................................................................................................................................................37
+3.5 Paso 5 Planificar la acción circular ...............................................................................................................................................................................................................40
+3.6 Paso 6 Determinar capacidad instalada ...................................................................................................................................................................................................42
+3.7 Paso 7 Establecer la gobernanza ...................................................................................................................................................................................................................44
+3.8 Paso 8 Definir el marco de monitoreo y evaluación .........................................................................................................................................................................45
+3.9 Paso 9 Estructurar regulaciones y normativas .....................................................................................................................................................................................47
+3.10 Paso 10 Reconocer las vías de financiamiento ........................................................................................................................................................................................48
+Í ndice de contenidos Guía metodológica para orientar la transición hacia una economía circular a nivel municipal 5
+
+--- Página 6 ---
+Sección 4: Experiencias de Economía Circular a nivel municipal ......................................................................................................................................50
+4.1 Incorporar el enfoque circular en la planificación comunal ...............................................................................................................................................................51
+4.2 Compras públicas circulares ....................................................................................................................................................................................................................................53
+4.3 Difusión de hábitos y prácticas circulares ......................................................................................................................................................................................................55
+4.4 Economía circular en la comunidad escolar ..................................................................................................................................................................................................57
+4.5 Tarifa solidaria por el servicio de aseo ..............................................................................................................................................................................................................60
+4.6 Fortalecimiento de la fiscalización de la disposición inadecuada de residuos ......................................................................................................................62
+4.7 Provisión de espacios y canales de encuentro y participación para la transición ................................................................................................................64
+4.8 Reconocimiento e inclusión de las recicladoras y los recicladores de base ............................................................................................................................66
+4.9 Infraestructura y equipamiento local para la economía circular ....................................................................................................................................................68
+4.9.1 Residuos de alimentos.................................................................................................................................................................................................................................68
+4.9.2 Residuos de parques y jardines ..............................................................................................................................................................................................................70
+4.9.3 Residuos de construcción ..........................................................................................................................................................................................................................71
+4.9.4 Residuos eléctricos y electrónicos ......................................................................................................................................................................................................72
+4.9.5 Residuos envases y embalajes ...............................................................................................................................................................................................................74
+4.10 Incentivos e información para la separación de residuos en origen..............................................................................................................................................75
+Sección 5: Caja de herramientas .........................................................................................................................................................................................................................................77
+A. Catastro de experiencias circulares ....................................................................................................................................................................................................................78
+B. Selección de sectores económicos prioritarios (sectores SII) ............................................................................................................................................................79
+C. Selección de sectores económicos prioritarios (sectores generales) ...........................................................................................................................................80
+D. Identificación de acciones circulares .................................................................................................................................................................................................................81
+E. Priorización de acciones circulares......................................................................................................................................................................................................................82
+F. Acciones a planificar .....................................................................................................................................................................................................................................................84
+G. Identificación de capacidad instalada ...............................................................................................................................................................................................................85
+Í ndice de contenidos Guía metodológica para orientar la transición hacia una economía circular a nivel municipal 6
+
+--- Página 7 ---
+Índice de Figuras
+Figura 1 Funciones privativas y compartidas en la gestión municipal en Chile ..........................................................................................................................................................................................10
+Figura 2 Representación esquemática del despliegue de estrategias para avanzar hacia una economía circular .............................................................................................................12
+Figura 3 Jerarquía de las estrategias de economía circular .....................................................................................................................................................................................................................................14
+Figura 4 Diagrama de ciclos técnicos y biológicos del sistema de economía circular ...........................................................................................................................................................................16
+Figura 5 ODS promovidos por la economía circular implementada a nivel local .......................................................................................................................................................................................18
+Figura 6 Estructura base de la Hoja de Ruta para un Chile Circular 2040 .......................................................................................................................................................................................................20
+Figura 7 Clasificación de estrategias municipales para la transición hacia una economía circular y su relación con la Hoja de Ruta ..................................................................22
+Figura 8 Estrategias de economía circular desplegadas a lo largo del ciclo de vida de un producto o servicio ...................................................................................................................27
+Figura 9 Diez pasos para la elaboración de estrategia local para la transición a una economía circular ..................................................................................................................................31
+Figura 10 Gobernanza para la economía circular a nivel municipal ......................................................................................................................................................................................................................32
+Figura 11 Cuatro elementos para establecer el punto de partida de la circularidad .................................................................................................................................................................................35
+Figura 12 Relación estratégica y operativa de la planificación de la economía circular .........................................................................................................................................................................37
+Figura 13 Tipos de competencias y acciones requeridas ..............................................................................................................................................................................................................................................42
+Figura 14 Flujos de entrada y salida, y procesos circulares. ........................................................................................................................................................................................................................................46
+Figura 15 Vías de financiamiento para acciones circulares municipales. ...........................................................................................................................................................................................................48
+Índice de Tablas
+Tabla 1 Ejemplo definición de visión estratégica circular, metas y objetivos ............................................................................................................................................................................................38
+Tabla 2 Ejemplos de acciones y su contribución según jerarquía de la circularidad .............................................................................................................................................................................41
+Í ndice de contenidos Guía metodológica para orientar la transición hacia una economía circular a nivel municipal 7
+
+--- Página 8 ---
+SECCIÓN 1
+Marco estratégico
+y conceptual de la
+Economía Circular
+8
+
+--- Página 9 ---
+1.1 Economía circular y desarrollo local
+En Chile, la expansión urbana, la industrialización, los cambios de usos del suelo y el avance tecnológico En este sentido, se ve con interés asumir el paradigma del desarrollo local , que es aquel que permi-
+posibilitan crecientes intervenciones del sistema natural del territorio. Además, la lógica centro-periferia te organizar el territorio, los factores económicos, sociales, políticos, institucionales y culturales, en el
+con la cual son configuradas las decisiones institucionales, no siempre ha conseguido controlar los ámbito público, privado y sociedad civil, permitiendo acoger y trabajar desde la diversidad, como eje
+efectos ambientales, económicos y sociales que aquello genera. Todo esto, ha incrementado los riesgos conductor de dichos procesos. El desarrollo local es, por lo tanto, una estrategia que se basa en la me-
+de romper el equilibrio dinámico del medio natural y de las estructuras territoriales, con imprevisibles jora continua de los recursos disponibles y particularmente de los recursos naturales y del patrimonio
+consecuencias. histórico y cultural, ya que con ello se contribuye a aumentar la ventaja competitiva del territorio y el
+bienestar de la población.
+Quizás el efecto más evidente de este escenario es la realidad de los sitios de disposición final. A ellos
+llegan todos los materiales que producto de la dinámica de consumo y las actividades económicas se Cada vez más, los actores locales presentes en el territorio, por medio de diferentes instrumentos
+desechan. Hoy en Chile, un 92% 1 de los residuos sólidos municipales que llegan a disposición final, lo o programas de desarrollo, están exigiendo la provisión de bienes y servicios que involucren el cui-
+hacen de manera segura y controlada en rellenos sanitarios, no obstante, los impactos ambientales que dado del medio ambiente, y por tal razón, ejercen presión sobre la institucionalidad local, regional
+ellos pudieran generar, y por tanto los conflictos socioambientales potenciales, señalan con mucha cla- y nacional, para que se involucren activamente en liderar dicho proceso, lo cual genera múltiples
+ridad que es necesario un camino alternativo . desafíos para un uso sustentable de los recursos naturales, garantizando un desarrollo justo
+e inclusivo .
+En países en desarrollo, donde los recursos son escasos, la atención y el compromiso político a nivel
+nacional, regional, pero, sobre todo comunal o local, son vitales para asegurar una buena toma de de- Dentro de múltiples objetivos, la economía circular busca desacoplar el crecimiento económico del
+cisiones relacionadas a la sustentabilidad de los territorios. Para esto, es importante considerar facto- uso de recursos naturales y energía. Para poder avanzar hacia una economía circular, es fundamental
+res como su competitividad, generación de conocimiento y fenómenos ambientales globales, como el que productores, proveedores de servicios y consumidores, incorporen cambios en sus patrones de pro-
+cambio climático y la crisis hídrica 2 . ducción y consumo. Esto implica varias acciones enfocadas a minimizar el consumo de recursos, cerrar
+ciclos, diseñar productos eficientes y duraderos, consumir productos y servicios que garanticen mayores
+estándares de sustentabilidad, entre otras acciones que serán abordadas en esta Guía. En tal sentido,
+1 Ministerio del Medio Ambiente (2022). Reporte del Estado del Medio Ambiente 2022. Gobierno de Chile, Santiago, Chile. durante las próximas páginas se presentarán distintas opciones, que las municipalidades pueden utilizar
+2 Franchi-Arzola, I., Martín-Vide, J., & Henriquez, C. (2018). Sustainability assessment in development planning in sub-national para fomentar el desarrollo de la economía circular en sus comunas.
+territories: regional development strategies in Chile. Sustainability, 10(5), 1938.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 9
+
+--- Página 10 ---
+En síntesis, la economía circular y desarrollo local nacen bajo un contexto de crisis y cambios socio ins-
+FUNCIONES PRIVATIVAS FUNCIONES COMPARTIDAS
+titucionales con la finalidad de generar nuevos procesos de desarrollo. En el caso de la economía circu-
+lar, con el objetivo ambiental de aumentar la eficiencia en el uso de los recursos y regenerar el capital
+Art. 3 Ley Nº 18.695 Art. 4 Ley Nº 18.695
+natural, mientras que el desarrollo local, con el objetivo de asegurar estándares de vida para toda la
+población que habita una comuna 3 .
+Son funciones que la municipalidad pue-
+Son funciones privativas aquellas que sólo pueden
+de ejercer de forma directa o con otros
+ser cumplidas y desarrolladas por la municipalidad
+En efecto, los municipios chilenos son las entidades de mayor pertinencia para la implementación de órganos de la administración del Estado
+estrategias de economía circular vinculadas a sus propios territorios. No obstante, producto de sus fun-
+ciones y competencias que les asigna la ley, algunas de ellas le son privativas, mientras que otras pue-
+· La educación y la cultura
+den ejecutarlas de manera compartida 4 . Si bien el caso de las funciones asociadas a planificación del · La salud pública y la protección del
+desarrollo comunal, el aseo y ornato 5 , la educación o el fomento productivo, tienen relación directa con medio ambiente
+· Elaborar, aprobar y modificar el Plan Comunal
+· El fomento productivo, la capacita-
+la economía circular a nivel local, no es menos cierto que es en toda su gestión, donde los municipios de Desarrollo
+ción y promoción del empleo
+pueden ejecutar acciones para garantizar la transición (Figura 1). · La planificación y regulación de la comuna,
+· El turismo, el deporte y la recreación
+y la confección del Plan Regulador Comunal
+· La urbanización y la vialidad urbana
+· La promoción del desarrollo comunitario
+y rural
+· Aplicar disposiciones sobre construcción
+· La construcción de viviendas sociales
+y urbanización
+e infraestructura sanitaria
+· Aplicar disposiciones sobre transporte
+· El transporte y tránsito públicos
+y transporte público
+· La gestión del riesgo de desastres
+· Recolección, transporte y disposición de los
+· Promoción de igualdad de oportuni-
+residuos (aseo y ornato)
+dades entre hombres y mujeres
+· Desarrollo de actividades de interés
+común en el ámbito local
+3 Calisto, M., Vermeulen, W., & Salomone, R. (2020). A typology of circular economy discourses: navigating the diverse visions of
+a contested paradigm. Resource, Conservation & Recycling, 161(1), 104917.
+4 Ministerio del Interior (2006). DFL 1 Fija texto refundido, coordinado y sistematizado de la Ley N°18.695, orgánica constitu-
+cional de municipalidades. Gobierno de Chile, Santiago, Chile.
+5 La función privativa de aseo y ornato de los municipios, además de lo establecido en la Ley N°18.695, también es señalada en Figura 1
+el Código Sanitario. Funciones privativas y compartidas en la gestión municipal en Chile.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 10
+
+--- Página 11 ---
+1.2 ¿Qué es la economía circular?
+Está bien documentado que las ciudades son responsables en promedio del 75% del consumo de re- ambientales de los productos a lo largo de su ciclo de vida, para generar desarrollo económico, crear
+cursos y energía del planeta, del 80% de las emisiones globales de CO y del 50% de los residuos de empleo, y desacoplar el desarrollo económico mundial de la extracción y uso de recursos naturales 10 .
+2
+todo el mundo 6 . Estos valores de representación global son correspondientes con los valores que inves- Para lograr esto, la economía circular plantea principios y estrategias claves. El primer principio se
+tigaciones recientes han estimado para algunas ciudades de Chile 7 . La principal causa del consumo de basa en la eliminación de residuos y contaminantes . Los residuos son un problema de diseño, que se
+recursos y generación de contaminantes de las ciudades está dada por el sistema económico mundial, genera por la ineficiencia de los sistemas productivos, así como la preferencia y hábitos de los consumi-
+basado en el modelo de « tomar-hacer-desechar » que representa la economía lineal tradicional. Este dores. Eliminar los residuos y contaminantes requiere de un cambio de mentalidad, y de nuevas formas
+sistema se enfrenta a múltiples problemas derivados de la presión que el crecimiento demográfico, la de diseño y gestión de los materiales y energía que circulan en la economía. La materia y energía de
+urbanización y el desarrollo industrial ha ejercido sobre los recursos naturales y la naturaleza. Por este productos pueden optimizarse al compartirlos (por ejemplo, el automóvil, bicicletas, etc.), reutilizarlos,
+motivo, los gobiernos han tomado medidas en el ámbito de la sustentabilidad, y la economía circular repararlos, renovarlos, o reciclarlos, una vez finalizada su vida útil. Esto requiere que los productos sean
+es un modelo que se ha estado impulsando con mayor fuerza los últimos años 8 . diseñados considerando estos elementos.
+La economía circular es un concepto global que ha surgido de la integración de disciplinas que van des- El segundo principio consiste en hacer circular los productos y materiales a su máximo valor . Esto
+de la economía hasta las ciencias naturales 9 . En los últimos años, la economía circular ha sido amplia- significa mantener los materiales en uso, ya sea como producto o, cuando éste ya no pueda utilizarse,
+mente aceptada por gobiernos e industrias como una herramienta política para minimizar los impactos como componentes o materias primas de otros productos. De este modo, no se generan residuos y se
+conserva el valor intrínseco de los productos y materiales. El tercer principio de la economía circular
+se basa en regenerar la naturaleza . Para ello, es posible aplicar prácticas agrícolas que permiten a la
+6 MacArthur, E. (2021). Completing the picture. How the circular economy tackles climate change. Material Economics. Ellen naturaleza regenerar los suelos y aumentar la biodiversidad, así como devolver los materiales biológi-
+MacArthur Foundation. cos y nutrientes al suelo. En la actualidad, la mayoría de los materiales se pierden tras su uso y el suelo
+7 López-Eccher, C., Garrido-Ramírez, E., Franchi-Arzola, I., & Muñoz, E. (2021). Life cycle assessment of households in Santiago, utilizado para cultivarlos se queda sin nutrientes.
+Chile: Environmental hotspots and policy analysis, Sustainability, 13(5), 2525.
+8 Petit-Boix, A. & Leipold, S. (2018). Circular economy in cities. Reviewing how environmental research aligns with local practi-
+ces. Journal Cleaner Production, 195, 1270–1281.
+9 Prieto-Sandoval, V., Jaca, C., & Ormazabal, M. (2018). Towards a consensus on the circular economy. Journal Cleaner Produc- 10 Muñoz, E. & Navia, R. (2021). Circular economy in urban systems: How to measure the impact? Waste Management Resource,
+tion. 179, 605-615. 39(2), 197-198.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 11
+
+--- Página 12 ---
+En síntesis, la economía circular busca cerrar ciclos de materiales y energía, lo que implica disminuir la extracción de re- Figura 2
+cursos naturales, los residuos y, por lo tanto, los impactos ambientales. En la Figura 2 es posible observar una representa- Representación esquemática del des-
+ción esquemática del despliegue de estrategias de economía circular a lo largo del ciclo de vida de un producto o servicio. pliegue de estrategias para avanzar
+hacia una economía circular 11 .
+ECONOMÍA LINEAL DESPLIEGUE DE ESTRATÉGIAS DE ECONOMÍA CIRCULAR ECONOMÍA CIRCULAR
+MEDIO AMBIENTE / IMPORTACIONES MEDIO AMBIENTE / IMPORTACIONES MEDIO AMBIENTE / IMPORTACIONES
+Extracción
+Extracción
+Producción
+Extracción Reducir Repensar
+Producción
+Reciclar Producción
+Reutilizar
+FASE DE Reparar FASE DE
+USO USO
+Reusar
+Restaurar
+Reducir
+Fin de vida
+FASE DE
+Remanufacturar Fin de vida
+USO
+Fin de vida
+Eliminación Eliminación
+11 Adaptado de Potting, J., Hekkert, M.,
+Rechazar Worrell, E., & Hanemaaijer, A. (2017).
+Circular economy: measuring inno-
+MEDIO AMBIENTE / EXPORTACIONES MEDIO AMBIENTE / IMPORTACIONES MEDIO AMBIENTE / EXPORTACIONES
+vation in the product chain. Policy
+TRANSICIÓN HACIA UNA ECONOMÍA CIRCULAR Report. PBL Netherlands Environ-
+mental Assessment Agency.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 12
+
+--- Página 13 ---
+Como se aprecia, existen diferentes estrategias que podrían ser desarrolladas para consumir menos
+recursos y materiales en el ciclo de vida de un producto, de manera de hacer la economía más circu-
+lar. De manera general, las distintas estrategias pueden agruparse en función de su nivel de aplicación.
+Estas estrategias responden a una clasificación jerárquica de acuerdo con su potencial de circularidad,
+cuya regla general indica que mayor nivel de circularidad es sinónimo de menor consumo de recursos y
+menor presión ambiental. Esta clasificación se conoce como la jerarquía de la economía circular 12 (Fi-
+gura 3), donde a medida que se sube en los niveles (desde abajo hacia arriba) resulta una estrategia de
+mayor circularidad.
+Un primer grupo lo representan las estrategias centradas en la recuperación de recursos desde produc-
+tos una vez finalizada su vida útil. El reciclaje y la recuperación energética de residuos a través de pro-
+cesos biológicos (bioenergía, como metano y bioetanol) representan un ejemplo de estas estrategias.
+Otro grupo de estrategias están asociadas a la recuperación del producto o parte de este para su uso
+en productos equivalentes o nuevos productos. En este grupo se encuentran el reuso, la reparación , la
+restauración , la remanufactura y la reutilización . Un último grupo se relaciona con el diseño y uso de
+los productos inteligentes y eficientes; es decir, productos que desde su diseño minimicen el consumo
+de materiales y energía a lo largo de todo su ciclo de vida. Acá se incluyen las estrategias de reducir ,
+repensar y rechazar .
+Precisamente estas estrategias pueden clasificarse a nivel jerárquico. Esta propuesta ideada por Jac-
+queline Marian Cramer, ex Ministra de Vivienda, Planificación y Medio Ambiente del Gobierno de Países
+Bajos, ha sido complementada por diferentes autores e instituciones técnicas del sector de la economía
+circular, siendo a la fecha la principal referencia en la materia. En la Figura 3, se presenta una adaptación
+para el caso nacional.
+12 Se utiliza esta clasificación como una invitación a repensar la visión tradicional de la jerarquía de residuos sólidos, elemento
+tradicional en la gestión ambiental local. No obstante, esta es sólo una de las varias representaciones de las estrategias de
+economía circular disponible en el desarrollo institucional y técnico en la materia.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 13
+
+--- Página 14 ---
+Figura 3
+Ofrecer un prodcuto radicalmente diferente para reemplazar
+R0 Rechazar
+o abandonar la funcionalidad de otro. Jerarquía de las estrategias de econo-
+mía circular 13 .
+USO Y FABRICACIÓN
+ECONOMÍA CIRCULAR Hacer un producto más intensivo en uso (por ejemplo, mediante el
+DE PRODUCTOS R1 Repensar
+desarrollo de alternativas de multifuncionalidad o uso compartido).
+MÁS INTELIGENTES
+Incrementar la eficiencia de un producto, mediante una menor
+R2 Reducir
+demanda de recursos naturales y materiales.
+Reuso de un producto desechado por otro consumidor, el cual sigue
+R3 Reusar
+en buen estado y cumple con su función principal.
+Reparar y mantener un producto defectuoso, para que pueda seguir
+R4 Reparar
+siendo usado para la misma función.
+REGLA GENERAL:
+Un mayor nivel de
+EXTENDER LA
+circularidad = menor VIDA ÚTIL DE Restaurar un producto antiguo para que pueda ser usado
+R5 Restaurar
+consumo de recursos LOS PRODUCTOS nuevamente.
+y m e n o r p r e s i ó n Y SUS PARTES
+ambiental
+Usar un producto o partes de un producto desechado, en un nuevo
+R6 Remanufacturar
+producto con las mismas funciones. 13 Esta clasificación y representación
+gráfica fue validada en proceso
+Usar un producto o partes de un producto desechado, en un nuevo participativo con actores claves
+R7 Reutilizar
+producto con diferentes funciones. vinculados a la economía circu-
+lar a nivel local. La representación
+Procesar un material de un producto desechado para obtener gráfica se encuentra adaptada de
+R8 Reciclar
+un material con menor o igual calidad. Kirchherr, J., Reike, D., & Hekkert, M.
+USO Y APLICACIÓN
+ECONOMÍA LINEAL (2017). Conceptualizing the circular
+DE MATERIALES
+economy: an analysis of 114 defini-
+R9 Recuperar Obtención de energía a partir de procesos biológicos.
+tions. Resource, Conservation and
+Recycling, 127, 221-232.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 14
+
+--- Página 15 ---
+Si bien la jerarquía de la economía circular permite la identificación de aquellas estrategias de mayor
+contribución a la circularidad, el menor consumo de recursos y menor presión ambiental, es útil tam-
+bién reconocer que la economía circular ofrece múltiples mecanismos de creación de valor, tanto
+en el ciclo técnico como el ciclo biológico 14 . En la Figura 4 se muestra otra manera de representar las
+estrategias de economía circular, donde se diferencian las propias del ciclo técnico y ciclo biológico.
+En el ciclo técnico, por ejemplo, las tecnologías y los nuevos modelos circulares maximizan el valor ex-
+traído de los recursos y residuos. En el ciclo biológico, se fomenta la gestión biológica para la recupera-
+ción de nutrientes, materiales y energía, de manera de no superar la capacidad de carga de los sistemas
+naturales. En este sentido, los recursos se regeneran en el ciclo biológico, y se recuperan y restauran en
+el ciclo técnico. Para lograr esto, la ya mencionada jerarquía de la economía circular juega un rol funda-
+mental en las distintas escalas de un sistema económico local diverso y complejo. El reciclaje, la repa-
+ración, el reuso, la restauración, entre otros, son pilares de modelos de mayor circularidad y referencias
+para el desarrollo de innovaciones en territorios locales. De esta manera, la economía circular puede crear
+una serie de oportunidades económicas, al tiempo que genera beneficios medioambientales y sociales.
+14 Ellen MacArthur Foundation (2015). Delivering the circular economy a toolkit for policymarkers. United Kingdom.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 15
+
+--- Página 16 ---
+DIAGRAMA DEL SISTEMA DE ECONOMÍA CIRCULAR Figura 4
+Diagrama de ciclos técnicos y biológi-
+cos del sistema de economía circular 15 .
+RENOVABLES MATERIALES FINITOS
+GESTIÓN DE FLUJO DE RECURSOS GESTIÓN DEL STOCK
+RENOVABLES
+RECOLECCIÓN AGRÍCOLA 1
+FABRICANTES DE PIEZAS
+MATERIA PRIMA
+BIOQUÍMICA FABRICANTE DE PRODUCTOS
+REGENERACIÓN BIOSFERA RECICLAR
+PRESTADOR DE SERVICIO
+REACONDICIONAR/REMANUFACTURAR
+COMPARTIR
+REUTILIZAR/REDISTRIBUIR
+BIOGÁS
+CASCADAS MANTENER/PROLONGAR
+DIGESTIÓN ANAEROBIA
+RECOLECCIÓN RECOLECCIÓN
+(CONSUMIDOR) (USUARIO)
+EXTRACCIÓN DE MATERIA
+PRIMA BIOQUÍMICA 2
+15 Se puede consultar más detalle de
+1 Cazar y pescar
+2 Puede usar el residuo o poscosecha los conceptos, visión sistémica y
+o posconsumo como insumo aplicaciones de los ciclos técnicos
+y biológicos en Ellen MacArthur
+FUENTE
+Fundación Ellen MacArthur Foundation (2019). Economía circu-
+Diagrama de sistemas de economía circular (Febrero de 2019)
+MINIMIZAR LAS FUGAS DEL lar. United Kingdom. Link: http://bit.
+www. ellenmacarthurfoundation.org SISTEMA Y EXTERNALIDADES
+Ilustración basada en Braungart & McDonough, Cradle to Cradle (C2C). NEGATIVAS ly/3KUCLFM.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 16
+
+--- Página 17 ---
+1.3 Beneficios de la economía circular
+para el desarrollo local
+Poder visualizar los beneficios de la economía circular en el desarrollo local, supone realizar cambios en próximos a los lugares de consumo, principalmente de población en situación de vulnerabilidad (ODS
+las organizaciones privadas y públicas que forman parte de la dinámica del territorio. Esto incluye hacer 2); reducir los riesgos sanitarios producto de generación de contaminantes sólidos, líquidos y gaseo-
+explícita su voluntad de adoptar estrategias para concretar las oportunidades que ofrece la circularidad. sos en la población local (ODS 3) y disminuir el consumo de agua y la presión que ello genera sobre
+los ecosistemas locales (ODS 6).
+En el caso de las municipalidades, como entidad pública, su foco está en la provisión de servicios de valor
+público para la población de un territorio acotado, por lo tanto, en la estrategia de economía circular que
+se aplique, debe tener un alto protagonismo el componente social. Desde dicha mirada, los municipios en
+su deber de administrar y gestionar la comuna se ven involucrados con actores económicos que operan
+en sus territorios. Estos últimos, han diseñado e implementado diversas estrategias en su cadena de valor,
+que incluyen acciones y herramientas que le permitan operar sus actividades primarias y de apoyo, desde
+el abastecimiento de la materia prima, la entrega del producto al cliente, hasta gestionar su fin de vida.
+Utilizando la perspectiva de los Objetivos de Desarrollo Sostenible (ODS) de las Naciones Unidas (Figu-
+ra 5), la economía circular alcanza un objetivo relacionado con el consumo (12: Producción y consumo
+responsables), pero que determina una serie de beneficios en otros objetivos. En este sentido, es clave
+definir aquellos recursos tangibles e intangibles para transmitir de manera objetiva y directa las venta-
+jas que la economía circular puede aportar a los habitantes de espacios locales. En aquello, radica uno
+de los beneficios importantes, dado que permite el despliegue de esfuerzos para generar nuevas formas
+de recursos, materiales, humanos, financieros y tecnológicos, permitiendo surgir y desarrollar capaci-
+dades propias, endógenas, inherentes al territorio, que aumenten sus ventajas competitivas (ODS 17).
+Siguiendo con la perspectiva de los ODS, la implementación de estrategias para la transición hacia la
+economía circular a nivel municipal, podría: contribuir a generar mayor cantidad y mejor calidad de
+los empleos (ODS 1); contribuir a la seguridad alimentaria a través de la producción de alimentos
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 17
+
+--- Página 18 ---
+De la misma forma, los municipios cuyas acciones contribuyan a la circularidad local
+podrían tener impacto sobre la accesibilidad a fuentes de energía menos intensiva en
+emisiones (ODS 7); fortalecer la seguridad laboral de trabajadores informales en ciclo
+de vida de los materiales y los residuos, dinamizando y diversificando la economía local
+(ODS 8); promover la innovación en el sector productivo local , en particular en micro y
+pequeños productos, que pueden incorporarse a nuevas actividades y servicios (ODS 9).
+Por otro lado, la reducción de la extracción de recursos y la emisión de residuos sóli-
+dos, líquidos y gaseosos, generará beneficios sobre los ecosistemas urbanos, haciendo
+de ellos espacios de mayor habitabilidad y acceso a servicios (ODS 11); reducción de
+las emisiones de gases efecto invernadero y su potencial de calentamiento global,
+pero también el fortalecimiento de la capacidad de adaptación de las comunidades
+locales a la variabilidad climática (ODS 13); la protección de los ecosistemas acuáti-
+cos y terrestres , reduciendo la presión ambiental sobre ellos, asegurando el equilibrio
+ecológico y las poblaciones que en ellas habitan (ODS 14 y 15).
+Figura 5
+ODS promovidos por la economía circular implementada a nivel local.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 18
+
+--- Página 19 ---
+1.4 Hoja de Ruta
+HOJA DE RUTA PARA UN CHILE CIRCULAR AL 2040
+Ministerio del Medio Ambiente
+para un Chile Circular
+La Hoja de Ruta para un Chile Circular al 2040 (en adelante, Hoja de Ruta) fue publicada el año 2021. Es un instrumen-
+HOJA DE RUTA to de planificación estratégica que fue diseñado a través de un amplio proceso participativo, transformándose en
+PARA UN la política pública rectora en la materia y, a través de la cual, se busca guiar el tránsito del país a una economía con
+mayores niveles de circularidad y sustentabilidad. En la Figura 6 se muestra la estructura base de la Hoja de Ruta; la
+CHILE CIRCULAR
+definición estratégica establecida en sus metas y visión, determinan los elementos operativos establecidos en cuatro
+AL 2040
+ejes, los que a su vez consideran una serie de iniciativas específicas.
+Es en el marco del eje de territorios circulares, donde se reconoce la necesidad de abordar la transición hacia la eco-
+nomía circular desde los territorios locales, considerando su heterogeneidad geográfica, social, económica, productiva
+y ambiental. No obstante, de manera complementaria los espacios subnacionales pueden aportar desde su gestión
+a iniciativas consideradas en todos los ejes de la Hoja de Ruta.
+Como se presenta aquí, la Hoja de Ruta establece una dirección nítida para la transición hacia mayores niveles de
+circularidad de la economía nacional . En dos de las metas presentes en ella, la gestión municipal es imprescindible:
+la disminución de la generación de residuos sólidos municipales por habitante y el aumento de la tasa de reciclaje de
+los residuos sólidos municipales. No obstante, en todas, su contribución directa o indirecta es necesaria, y por tanto
+es menester establecer un marco estratégico y operativo que muestre el camino a seguir por las entidades locales.
+| 1
+Sección 1 Marco estratégico y conceptual de la Economía Circular 19
+
+--- Página 20 ---
+INDICADOR META 2030 META 2040
+Generación de empleos 100.000 nuevos empleos verdes 180.000 nuevos empleos verdes
+Generación de residuos sólidos municipales por habitante Disminución del 10% Disminución del 25%
+Generación total de residuos por PIB Disminución del 15% Disminución del 30%
+METAS
+Productividad material Aumento de 30% Aumento de 60%
+Tasa general de reciclaje Aumento al 40% Aumento al 75%
+Tasa de reciclaje de residuos municipales Aumento al 30% Aumento al 65%
+Recuperación de sitios afectados por la disposición legal Recuperación del 50% Recuperación del 90%
+La visión de la Hoja de Ruta es que al año 2040, la economía circular regenerativa impulse a Chile hacia un desarrollo sostenible , justo y participativo que ponga el bien-
+VISIÓN estar de las personas al centro; esto, a través del cuidado de la naturaleza y sus seres vivos, la gestión responsable y eficiente de los recursos naturales, y una sociedad que
+usa, consume y produce de manera sostenible y consciente, fomentando la creación de empleos verdes y oportunidades para personas y organizaciones a lo largo del país.
+INNOVACIÓN CIRCULAR CULTURA CIRCULAR
+· Empresas cero residuos
+· Promoción de modelos circulares · Difusión de hábitos y prácticas circulares
+· Investigación y desarrollo para la economía circular · Economía circular en la comunidad escolar
+· Colaboración estratégica para soluciones de economía circular de alto impacto · Habilidades para la economía circular
+· Escalamiento de soluciones circulares de alto potencial · Sistema de ecoetiquetado para Chile
+· Sistemas de información para la modelación del impacto ambiental local de bienes y servicios · Transparencia y trazabilidad para la economía circular
+· Normas técnicas para la economía circular · Seguimiento del progreso hacia una economía circular
+· Compras públicas circulares
+EJES E INICIATIVAS
+REGULACIÓN CIRCULAR TERRITORIOS CIRCULARES
+· Ampliar la gama de productos prioritarios sujetos a la responsabilidad extendida · Economía circular para la reactivación de los territorios
+del productor · Provisión de espacios y canales de encuentro y participación para
+· Actualización del marco regulatorio de la gestión de residuos para facilitar el reúso la transición
+y la valorización · Reconocimiento e inclusión de las recicladoras y los recicladores
+· Incentivos e información para la separación de residuos en origen de base
+· Tarifa solidaria por el servicio de aseo · Sistemas de producción regenerativos
+Figura 6 · Estándar de los productos en la economía circular · Infraestructura y equipamiento local para la economía circular
+· Fortalecimiento de la fiscalización de la disposición inadecuada de residuos · Incorporar el enfoque circular en la planificación del desarrollo
+Estructura base de la Hoja de Ruta para
+· Fortalecer el impulso de la economía circular a nivel internacional regional y comunal
+un Chile Circular al 2040.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 20
+
+--- Página 21 ---
+1.5 Los municipios como actores claves
+de la transición a una economía circular
+La Hoja de Ruta para un Chile Circular al 2040 posee un total de 27 iniciativas asociadas a sus cuatro
+ejes. Los municipios chilenos pueden desarrollar una serie de acciones para la transición hacia una eco-
+nomía circular, pero algunas de ellas pueden contribuir directa o indirectamente a las iniciativas de la
+Hoja de Ruta. Por tanto, los municipios se transforman en actores claves para el despliegue de estra-
+tegias para mayor circularidad.
+Como se muestra en la Figura 7, un municipio en su calidad de institución pública puede ejecutar ac-
+ciones de gestión interna y externa para transitar hacia la economía circular . Sin embargo, las prin-
+cipales acciones están asociadas a estrategias en su gestión externa o territorial. Además, siempre la
+acción municipal podrá contribuir en mayor o menor medida a la economía circular, para lo cual resulta
+conveniente reconocer la correspondencia con la jerarquía de las estrategias de circularidad presenta-
+da en la Figura 3. En efecto, más adelante, cuando se presenten ejemplos nacionales de experiencias de
+economía circular a nivel municipal, se indicará dicha relación.
+En el caso de la gestión interna, algunas de las acciones que pudiera desplegar la entidad edilicia
+son: compras públicas circulares y la incorporación del enfoque circular en la planificación comunal.
+Mientras que en el caso de la gestión externa o territorial, el municipio puede contribuir a las metas
+de la Hoja de Ruta, a través de estrategias asociadas a las iniciativas: difusión de hábitos y prácticas
+circulares, difusión de la economía circular en la comunidad escolar, tarifa solidaria por el servicio de
+aseo, fortalecimiento de la fiscalización de la disposición inadecuada de residuos, provisión de es-
+pacios y canales de encuentro y participación para la transición, reconocimiento e inclusión de las
+recicladoras y recicladores de base, infraestructura y equipamiento local para la economía circular, e
+incentivos para la separación de residuos en origen.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 21
+
+--- Página 22 ---
+Incorporar el enfoque circular en Estrategias que forman parte de este grupo son aquellas que buscan integrar estrategias de cir-
+la planificación comunal cularidad en políticas públicas y de planificación del desarrollo comunal y de planificación urbana.
+GESTIÓN INTERNA
+O INSTITUCIONAL
+Estas estrategias consideran la utilización del poder de compra del municipio para promover
+prácticas circulares en sus proveedores. Pueden existir dos vías: 1) reemplazar adquisición de
+Compras públicas circulares
+productos tradicionales, por otros que eviten el uso de materiales primarios, y 2) exigencia de
+criterios de circularidad en proveedores de servicios municipales.
+Estas estrategias consideran el fomento de una cultura local que busque, tanto evitar los im-
+Difusión de hábitos y prácticas circulares pactos de la economía lineal, como sensibilizar sobre hábitos y prácticas circulares y estilos de
+vida más sostenibles.
+Este tipo de estrategias corresponden a la difusión de conocimientos sobre economía circular
+Economía circular en la comunidad escolar
+y hábitos y prácticas más circulares en la comunidad escolar.
+Estas estrategias consideran aquellas que establezcan una correlación entre la tarifa de aseo
+Tarifa solidaria por el servicio de aseo
+y las tasas de generación y/o valorización.
+Este tipo de estrategias corresponden a todas las que permitan controlar la disposición inade-
+Fortalecimiento de la fiscalización de
+cuada de residuos en el territorio comunal, especialmente a través de la incorporación de nue-
+la disposición inadecuada de residuos
+vas tecnologías.
+GESTIÓN EXTERNA
+O TERRITORIAL Estas estrategias tienen por objetivo la inclusión de vecinas y vecinos para la construcción co-
+Provisión de espacios y canales de encuentro
+munitaria de programas y proyectos que fomenten la circularidad, con particular interés en los
+y participación para la transición
+espacios barriales.
+Estas estrategias tienen como característica el reconocimiento del trabajo de las recicladoras
+Reconocimiento e inclusión de las
+y los recicladores de base, como también su integración a los modelos de circularidad a nivel
+recicladoras y los recicladores de base
+municipal.
+Este tipo de estrategias reconoce la provisión y existencia de infraestructura, equipamiento y
+Infraestructura y equipamiento local servicios a escala comunal, para optimizar los procesos de máxima circularidad, ello incluye
+para la economía circular puntos de recepción, centros de acopio, centros de distribución, plantas de reciclaje y/o com-
+Figura 7 postaje y banco de materiales.
+Clasificación de estrategias municipa-
+les para la transición hacia una econo- Estas estrategias corresponden a incentivos generados desde el municipio para promover la
+Incentivos e información para la
+separación de residuos en su origen. Estos incentivos pueden ser regulatorios, operativos, eco-
+mía circular y su relación con la Hoja separación de residuos en origen
+nómicos o sociales.
+de Ruta.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 22
+
+--- Página 23 ---
+1.6 Principios de la guía
+La presente guía se basa en cuatro principios claves, que determinan la forma de abordaje de su conte-
+nido. Esos principios son los siguientes:
+TRANSICIÓN SOCIOECOLÓGICA JUSTA
+Esta guía está diseñada considerando la necesidad de la transición hacia una economía circular a nivel
+local, que reduzca el consumo de recursos y materiales, y que minimice la generación de residuos; pero
+siempre asegurando que las estrategias y acciones propuestas garanticen la inclusión social y la equidad
+territorial. La economía circular debe llegar a todos los sectores y personas.
+INDEPENDENCIA O AUTONOMÍA MUNICIPAL
+Esta guía reconoce que la transición a una economía circular requiere de colaboración institucional con
+los espacios regionales y nacionales. No obstante, se debe resguardar que serán los propios municipios
+y los territorios bajo su administración, los que deben definir la dirección, la velocidad y los objetivos
+de dicha transición.
+PROGRESIVIDAD
+Esta guía se formula considerando que la transición hacia una economía circular será progresiva, ya sea
+en la magnitud de las estrategias, como también en su cobertura territorial. Serán los municipios los que
+definirán si les resulta adecuado un enfoque estratégico, para luego pasar al operativo, o bien, comen-
+zar a partir de pequeñas iniciativas operativas, desde las cuales escalará a otras de mayor complejidad.
+PERTINENCIA
+Esta guía busca abarcar la mayor cantidad de realidades territoriales posibles. La diversidad geográfica,
+económica, social, cultural y ambiental de las comunas y sus municipios, tiene incidencia directa sobre
+los tipos de acciones y/o estrategias, por tanto, las páginas siguientes buscan abordar esas realidades.
+S ección 1 Marco estratégico y conceptual de la Economía C ircular 23
+
+--- Página 24 ---
+SECCIÓN 2
+Economía Circular
+y cambio climático
+24
+
+--- Página 25 ---
+De acuerdo con el Panel Intergubernamental sobre Cambio Climático (IPCC, por sus siglas en inglés), el residuos orgánicos. Por su parte, el N O se genera principalmente en la agricultura por el uso de ferti-
+2
+cambio climático es un cambio en el estado del clima que puede ser identificado por cambios en la lizantes nitrogenados. Los procesos biológicos del suelo transforman el nitrógeno que no es utilizado
+variabilidad de sus propiedades, y que persiste durante períodos prolongados, normalmente décadas o por los cultivos en N O.
+2
+más 16 . El cambio climático puede ser atribuido a procesos internos naturales o a forzamientos externos,
+como modificaciones de los ciclos solares, erupciones volcánicas y cambios antropogénicos (por ac- Los GEI son aquellos componentes gaseosos de la atmósfera, tanto naturales como antropogénicos, que
+ción humana) persistentes en la composición de la atmósfera o en el uso del suelo. En relación con esta absorben y emiten radiación. Esta propiedad provoca el efecto invernadero. El vapor de agua (H O), el dió-
+2
+última, existe un consenso científico que este fenómeno es causado por la acción humana, detonada a xido de carbono (CO ), el óxido nitroso (N O), el metano (CH ) y el ozono (O ) son los principales GEI de la
+2 2 4 3
+través de las excesivas emisiones de gases de efecto invernadero (GEI). atmósfera terrestre. Además, hay una serie de GEI de origen totalmente humano en la atmósfera, como
+los halocarbonos y otras sustancias que contienen cloro y bromo. En general, existe una amplia lista de
+Los GEI se generan en múltiples procesos productivos, principalmente asociados al consumo de energía GEI y precursores de estos 18 . Sin embargo, y de manera general, el dióxido de carbono (CO ), metano (CH ),
+2 4
+y procesos biológicos. El dióxido de carbono se genera principalmente por la combustión de combus- y óxido nitroso (N O), son los GEI que mayor control de emisiones requieren. De acuerdo con el reporte del
+2
+tibles fósiles. En el proceso de combustión también se general CH y N O, pero en menores cantidades. IPCC el CH y N O tienen un potencial de impacto sobre el cambio climático (potencial de calentamiento
+4 2 4 2
+El consumo eléctrico, también está asociado a la emisión de CO . Sin embargo, su emisión depende global) de 27 y 273 veces más, respectivamente, que el CO . Esto significa, que los distintos GEI pueden
+2 2
+del aporte de los combustibles fósiles a la matriz eléctrica de cada país. Para el caso de Chile, el fac- transformarse en indicadores comunes que representen el impacto sobre el cambio climático . Dicho
+tor de emisión de dióxido de carbono para el 2021 fue de 0,39 kg CO /kWh de electricidad 17 . El CH y indicador es expresado en términos de kg CO equivalente , y es ampliamente conocido como huella
+2 4 2
+N O se generan principalmente debido a procesos biológicos. Para el caso del metano, sus principales de carbono . Cada GEI tiene un potencial aporte a la huella de carbono. Por ejemplo, como se indicó an-
+2
+fuentes son la fermentación entérica de la ganadería bovina, y la descomposición anaeróbica de los teriormente, la liberación de 1 kg de N O generará una huella de carbono de 273 kg de CO equivalente.
+2 2
+16 IPCC (2022). Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Sixth As-
+sessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press. Cambridge University Press, 18 IPCC (2021). Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment
+Cambridge, UK and New York, NY, USA, 3056 pp. Report of the Intergovernmental Panel on Climate Change. Cambridge University Press, Cambridge, United Kingdom and New
+17 Comisión Nacional de Energía (2023). Energía Abierta. Factores de Emisión. Link: http://bit.ly/3mvos0h. York, NY, USA, 2391 pp.
+S ección 2 Economía C ircular y cambio climático 25
+
+--- Página 26 ---
+para ayudar a cumplir con las contribuciones determinadas a nivel nacional (NDC, por sus siglas en inglés).
+RESIDUOS ORGÁNICOS Y CAMBIO CLIMÁTICO En esta línea, un número cada vez mayor de países en desarrollo ha reconocido el papel potencial de la
+El 4% de los GEI emitidos por Chile provienen de la actual disposición final de los residuos EC en la consecución de sus compromisos de mitigación de GEI 20 , entre ellos Chile 21 . Junto a esto, varios
+sólidos y, por cierto, la degradación anaeróbica a la que se ve expuesto el material orgánico estudios científicos han investigado la relación entre la EC y la reducción de las emisiones de GEI 22, 23, 24 .
+es uno de los principales procesos que aportan a ello. Se estima que de evitarse la disposición
+de residuos orgánicos en vertederos y/o rellenos sanitarios, es posible reducir entre un 70- Como se observa en la Figura 8, son múltiples las estrategias de economía circular que pueden ser apli-
+80% de las emisiones que actualmente generan. Ello no contabiliza la mitigación de GEI que cadas a lo largo del ciclo de vida de un producto o servicio. La estrategia de reducir por diseño minimiza
+podría generarse por la reducción de la recolección y transporte, o el secuestro de carbono la extracción de recursos naturales a través del incremento de la eficiencia de producción, así como del
+producido por la aplicación de compost en el suelo; aplicación que además, constituye una diseño de productos y servicios que utilizan menos materiales y energía. Junto a esto, el repensar los
+mejora del suelo y por tanto una medida de adaptación. productos permite incrementar la intensidad de su uso, así como su multifuncionalidad (ej. teléfonos
+smartphone, impresoras multifuncionales, etc.), lo que genera menor consumo de materiales y ener-
+gía. Los combustibles fósiles son la principal fuente de energía en la etapa de extracción de recursos
+El cambio climático presenta una serie de efectos. Algunos de ellos están asociados a sequías, eventos
+climáticos extremos, pérdida de biodiversidad, reducción de recursos hídricos, incremento de enferme-
+dades, inundaciones, efectos sobre la infraestructura, entre otros que destaca el reporte del IPCC. Todos
+estos efectos tienen costosas repercusiones en los servicios básicos, las infraestructuras, la vivienda,
+los medios de subsistencia y la salud de las ciudades. Al mismo tiempo, las ciudades contribuyen deci-
+sivamente al cambio climático, ya que, como se ha mencionado anteriormente, las actividades urbanas
+son fuentes importantes de emisiones de gases de efecto invernadero. Por lo tanto, las ciudades tienen
+un doble desafío. Por un lado, mitigar las emisiones de GEI que contribuyen al cambio climático, y por 20 Serrano, T., Aparcana, S., Bakhtiari, F., Laurent, A., (2021). Contribution of circular economy strategies to climate change mitiga-
+otro, adaptarse a los efectos que el cambio climático impone sobre ellas. tion: Generic assessment methodology with focus on developing countries. Journal of Industrial Ecology. 25, 1382–1397
+21 Gobierno de Chile (2020). Contribución determinada a nivel nacional (NDC). Actualización 2020. Santiago, Chile.
+La economía circular (EC) ha sido reconocida como una estrategia para mitigar los efectos del cambio 22 Gallego-Schmid, A., Chen, H.M., Sharmina, M., Mendoza, J.M.F., (2020). Links between circular economy and climate change
+climático 19 . De hecho, se ha planteado la aplicación de estrategias de EC como una posible herramienta mitigation in the built environment. J ournal of Cleaner Production. 260, 121115.
+23 Cantzler, J., Creutzig, F., Ayargarnchanakul, E., Javaid, A., Wong, L., & Haas, W. (2020). Saving resources and the climate? A systema-
+tic review of the circular economy and its mitigation potential. Environmental Research Letters, 15(12), 123001.
+19 IPCC, (2022). Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment 24 Pauliuk, S., Fishman, T., Heeren, N., Berrill, P., Tu, Q., Wolfram, P., & Hertwich, E. G. (2020). Linking service provision to material cycles:
+Report of the Intergovernmental Panel on Climate Change. Cambridge University Press, Cambridge, UK and New York, NY, USA. A new framework for studying the resource efficiency–climate change (RECC) nexus. Journal of Industrial Ecology, 25, 1–14.
+S ección 2 Economía C ircular y cambio climático 26
+
+--- Página 27 ---
+MEDIO AMBIENTE / IMPORTACIONES y procesos productivos, por lo tanto, al incrementar la eficiencia y minimizar el consumo de recursos,
+es posible disminuir las emisiones de GEI. Además, productos más eficientes, con menor cantidad de
+envases y embalajes, minimizan el consumo de combustibles para su transporte, de la etapa de uso,
+y de la gestión de sus residuos una vez finalizada su vida útil. Por lo tanto, existe una disminución de
+GEI a lo largo de todo el ciclo de vida de un producto o servicio, lo que implica una disminución de los
+impactos sobre el calentamiento global.
+Reducir por diseño En la fase de uso, reducir implica que las personas modifiquen sus patrones de consumo para satisfacer
+Extracción
+Repensar sus necesidades con un impacto mínimo sobre el medio ambiente. Para esto, los consumidores deben
+optar por productos eficientes y más duraderos. Al usar productos más eficientes (ej. con eficiencia
+Producción
+Reciclar energética), y de mayor vida útil, se minimizan los requerimientos de materiales y energía, así como la
+generación de residuos, con la consecuente minimización de los GEI . De igual manera, rechazar pro-
+Reutilizar Reparar
+ductos redundantes o abandonar su uso debido a que realmente no son necesarios, aporta a eliminarlos
+del mercado, lo que implica evitar la generación de GEI de su producción (ej. bombillas de refrescos, en-
+Reusar
+vases de plásticos y cajas en frutas, etc.). Entender la vida útil de los productos o sus partes mediante la
+Restaurar
+reparación , el reuso , la restauración , la reutilización o el reciclado evita la extracción de materiales,
+Reducir
+Reprocesar FASE DE así como su procesamiento, lo que implica menores emisiones de GEI.
+USO
+En síntesis, las estrategias de economía circular son un efectivo medio para minimizar los GEI. Las estra-
+Fin de vida
+tegias de economía circular pueden reducir las emisiones de carbono de las industrias, la generación de
+residuos, el uso de energía, el consumo de recursos en la construcción de edificios, el transporte, miti-
+Rechazar
+gando así el calentamiento global. Además, las estrategias de economía circular tienen diversos efectos
+sobre emisiones de contaminantes, agotamiento de recursos, uso del suelo, calidad del agua, entre otros
+factores que influyen sobre la sustentabilidad de un país.
+Desde el punto de vista de la adaptación , las ciudades tienen un gran desafío. La adaptación al cam-
+bio climático consiste en iniciativas y medidas para reducir la vulnerabilidad de los sistemas naturales
+MEDIO AMBIENTE / IMPORTACIONES
+y humanos frente a los efectos reales o previstos del cambio climático. Las ciudades han aplicado una
+Figura 8 gran variedad de medidas como, por ejemplo, la construcción de muros de defensa contra inundacio-
+Estrategias de economía circular desplegadas a lo largo del ciclo de vida de un producto o servicio. nes o el establecimiento de infraestructuras verdes. Lamentablemente, muchas de estas medidas de
+S ección 2 Economía C ircular y cambio climático 27
+
+--- Página 28 ---
+adaptación suponen por sí mismas un aumento del consumo de materiales y recursos, lo que en última
+instancia incrementa las emisiones de GEI. A medida que evolucione la variabilidad y sean más recu-
+rrentes las amenazas climáticas, será cada vez más necesario asegurar que las acciones de adaptación
+no signifiquen mayor presión sobre la demanda de materiales y recursos.
+La adaptación también puede aprovechar las oportunidades del cambio climático en lugar de sólo verlas
+como una amenaza, lo que puede influir en distintos sectores de la economía. Aquí la economía circular
+puede jugar un rol fundamental mediante la implementación de sus estrategias asociadas a las distintas
+iniciativas y medidas de adaptación al cambio climático. Por ejemplo, el tratamiento y reutilización de
+aguas residuales puede proporcionar acceso al agua en tiempos de escasez hídrica. Cambios o adapta-
+ciones en infraestructuras, típicamente demandantes en materiales, pueden utilizar el avance e inno-
+vación de materiales reciclados , así como el diseño de infraestructura multifuncional. La optimización
+y reducción de las pérdidas y desperdicios de alimentos, así como el fomento de la agricultura urbana
+pueden mitigar los efectos de escasez de alimentos. Claramente, existen muchas oportunidades para
+desplegar estrategias de economía circular en las distintas iniciativas de adaptación. En consecuencia,
+la economía circular puede ayudar a las ciudades a ser más resilientes al cambio climático, al mismo
+tiempo que contribuye a minimizar los GEI.
+S ección 2 Economía C ircular y cambio climático 28
+
+--- Página 29 ---
+SECCIÓN 3
+¿Cómo diseñar una
+Estrategia Local
+para la Transición
+hacia una Economía
+Circular?
+29
+
+--- Página 30 ---
+La transición a la economía circular en los espacios locales puede iniciarse a través de pequeñas inter-
+venciones, tanto en su gestión interna, como en su gestión territorial o externa: un ciclo de formación
+en establecimientos educacionales para crear competencias ciudadanas para mayor circularidad, un
+taller de reparación de textiles con una junta vecinal o el apoyo a la certificación de recicladoras y re-
+cicladores de base, pueden ser iniciativas que aporten en dicho proceso. No obstante, tarde o temprano,
+siempre es conveniente planificar de manera adecuada el camino de la transición de una comuna
+a mayores niveles de circularidad .
+Tener una estrategia local para la transición hacia una economía circular (de ahora en adelante indis-
+tintamente se señalará como «la estrategia») exige antes que cualquier cosa, voluntad política e ins-
+titucional del municipio y sus autoridades; en ningún caso puede ser un proceso en el que sólo estén
+convencidos algunos directores o algunos funcionarios. Sin compromiso de las máximas autoridades
+de la comuna: alcaldes, alcaldesas y el concejo municipal, el proceso de planificación no tendrá el
+impacto requerido.
+Para diseñar la estrategia, se recomienda la ejecución de diez pasos (Figura 9), todos ellos igual de im-
+portantes y que se estructuran con un sentido lógico, para abordar los diferentes elementos que ga-
+ranticen contar con un instrumento que sea la base consensuada para el tránsito de un territorio local
+hacia mayores niveles de circularidad. Se recomienda siempre la ejecución de cada uno de estos pasos,
+no obstante, será cada municipio el que deberá evaluar la profundidad y detalle del desarrollo de cada
+uno de ellos, de modo de conseguir un instrumento pertinente a su propia realidad.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 30
+
+--- Página 31 ---
+PASO 1. Definir los actores claves Involucrar a todas las partes interesadas relevantes en el territorio comu-
+¿Quién podría estar interesado o beneficiado por el proceso nal desde el inicio del proceso de planificación es vital para dar forma a
+de transición? una estrategia que incluya un compromiso de largo plazo.
+PASO 2. Identificar base de inicio Es crucial entender donde se encuentra la comuna respecto a estrategias
+¿Cuál es el punto de partida de la comuna para la transición? de circularidad y reconocer las potenciales que existan.
+PASO 3. Priorizar áreas o sectores objetivo Habiendo reconocido el punto de partida para la transición, junto a los acto-
+¿En qué sectores deberían concentrarse los esfuerzos para res claves, es necesario reconocer los sectores con el mayor potencial para
+la transición? la acción circular u otras donde sea necesario empujar la acción.
+PASO 4. Visualizar el futuro Cada sector poseerá una futuro deseable sobre el cuál corresponderá
+¿Cuáles son las metas y objetivos de la transición? desencadenar la planificación de las acciones para la transición hacia
+una economía circular.
+PASO 5. Planificar la acción circular Esta es la clave de la transición. Las acciones deben planificarse considerando
+¿Qué acciones son requeridas para alcanzar las metas los elementos críticos de cada sector objetivo, con especial atención a hacerse
+y objetivos de la transición? cargo de las barreras para el cumplimiento de las metas establecidas.
+PASO 6. Determinar capacidad instalada El municipio jugará un rol importante en la transición hacia una economía
+¿Qué recursos humanos se encuentran disponibles para circular y debe reconocer las característica de sus equipos, sus compe-
+la transición? tencias y requerimientos para ello.
+PASO 7. Establecer la gobernanza Todos los actores claves de la comuna o con vínculo en ella deben asumir
+¿Quién lidera, administra o ejecuta las acciones planificadas las responsabilidades para la cooperación e integración para ejecutar las
+para la transición? acciones planificadas.
+PASO 8. Definir el marco de monitoreo y evaluación Además de considerar los indicadores de la Hoja de Ruta para un Chile
+¿Qué indicadores se utilizarán para monitorear la transición? Circular al 2040, es imprescindible establecer indicadores que permitan
+medir el impacto y progreso de las acciones, y la relación con las metas.
+PASO 9. Estructurar regulaciones y normativas locales Cada comuna de acuerdo a su complejidad requerirá de un marco regula-
+¿Cómo se promueve e incentiva el comportamiento para torio para promover, incentivas y controlar el comportamientos de todos
+la transición? los sectores de la sociedad.
+Figura 9 PASO 10. Identificar mecanismos de financiamiento Siempre será necesario la identificación de mecanismos de financiamiento
+¿Cómo se financiará y de dónde provendrá el financiamiento de las acciones planificadas.
+Diez pasos para la elaboración de estrategia local
+para la transición?
+para la transición a una economía circular.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 31
+
+--- Página 32 ---
+PASO 1 3.1
+Definir los actores claves
+La creación de la estrategia necesita de la participación de diferentes actores interesados, tan-
+to en el proceso de planificación, como en la implementación de las acciones circulares. Contar PROPUESTA DE GOBERNANZA PARA LA ECONOMÍA CIRCULAR A NIVEL MUNICIPAL
+con todos los actores claves garantiza que el modelo de transición hacia una economía circular
+sea reconocido por toda la sociedad y cuyos beneficios sean compartidos entre todos: ciudada-
+Responsabilidad Actores asociados
+nía, actores económicos y el propio municipio. Esto permitirá enfrentar la resistencia al cambio
+y promover una cultura colaborativa.
+Actores interesados
+Invitar a participar a la comunidad interesada debe reconocer lo relevante de los conocimientos
+Coordinación
+locales, la promoción de soluciones creativas y el intercambio de ideas, lo que ayudará a conseguir Estrategia
+Ciudadanía Expertos
+una estrategia más eficaz. Los actores claves o comunidad interesada se pueden reconocer en tres técnicos Local para la
+dimensiones, que a su vez constituyen el pilar del proceso participativo: un equipo municipal para Transparencia Equipo municipal Transición a
+la economía circular, un líder comunal circular ciudadano y los actores sociales o territoriales. To- la Economía
+dos ellos formarán el equipo de gobernanza para la economía circular a nivel municipal, y basarán Circular
+Líder circular
+su función en los principios de responsabilidad (de las decisiones que se tomen en el proceso),
+transparencia (en comunicar las decisiones de manera simple y asequible a toda la población) y Iniciativas Actividades
+circulares económicos
+participación (generando la máxima inclusión de todos los actores de la comunidad) (Figura 10).
+Participación
+Gobierno Regional
+El equipo municipal para la economía circular debe reconocer que se requiere un equipo SEREMIS
+transdisciplinar para la elaboración de la estrategia. Es recomendable que en este equipo par-
+ticipe la Secretaría Comunal de Planificación (incluyendo el equipo de urbanismo), la Dirección
+de Desarrollo Comunitario, las Direcciones, Departamentos o Unidades de Medio Ambiente,
+Aseo y Ornato, Fomento Productivo y Empleo. Una alternativa es establecer una responsabilidad
+exclusiva para que algún miembro del equipo o parte del equipo coordine la elaboración de la Figura 10
+estrategia, y también posteriormente su implementación y monitoreo. Gobernanza para la economía circular a nivel municipal.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 32
+
+--- Página 33 ---
+PASO 1 Contar con un líder comunal circular resulta recomendable para visualizar en una persona la posibili-
+dad tangible de liderar la transición. Este liderazgo debe estar asociado a un desempeño ya existente CASO DE DALCAHUE
+en materia de circularidad (un microempresario, una recicladora o un reciclador de base, una dirigente Esta comuna de la Provincia de Chiloé en el marco del Sistema de Certificación Ambiental Mu-
+vecinal o un miembro de agrupación ecológica) que convoque a toda la comunidad a ser parte del pro- nicipal ha constituido el Comité Ambiental Comunal (CAC) y ha sido este espacio orgánico el que
+ceso de elaboración y posterior implementación de la estrategia. fue reconocido como idóneo para liderar el proceso de elaboración de estrategia local para la
+transición a la economía circular. El CAC de Dalcahue cuenta con la participación de represen-
+Y por supuesto, los actores sociales y territoriales también deben estar presentes. Sólo la diversidad tantes de organizaciones ambientales territoriales y juntas de vecinos, representantes de los
+económica, productiva, vecinal y organizacional permitirá el alineamiento y pertinencia de las acciones sectores económicos, microempresarios con iniciativas de circularidad y representantes de la
+a planificar. La comunidad interesada puede estar representada por los siguientes grupos de actores: comunidad escolar. Este es un ejemplo de cómo procesos y gobernanzas existentes en un terri-
+torio local, pueden ser aprovechados para iniciar el proceso de transición.
+· La ciudadanía debe participar desde los primeros pasos de la planificación, cumpliendo el rol de
+actores claves y de beneficiarios.
+· Los responsables de iniciativas circulares ya existentes en la comuna son vitales para reconocer
+experiencias, dificultades y aprendizajes.
+· Los representantes de las actividades económicas principales de la comuna, los cuales se verán
+enfrentados a un cambio de paradigma y tendrán que transitar hacia la circularidad de manera
+conjunta al resto de la comunidad.
+· Los miembros de la academia o expertos técnicos quienes pueden poner a disposición experien-
+cias y conocimientos en el proceso de diseño e implementación de la estrategia. Este rol también
+pueden cumplirlo profesores de establecimientos educacionales de la comuna.
+La primera labor de este grupo de trabajo será la creación de un programa de comunicación que acompa-
+ñe la elaboración de la estrategia. Este programa debe identificar claramente los momentos en los cuáles
+existirá vínculo entre el equipo de gestión y la comunidad en general, siendo medios para ello las reuniones
+territoriales, sectoriales, procesos de consulta, difusión radial y televisión local.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 33
+
+--- Página 34 ---
+PASO 2 3.2
+Identificar base de inicio
+Antes de iniciar el proceso de planificación, cada comuna debe comprender dónde se encuentran ac-
+tualmente en términos de circularidad: la línea de base de la circularidad. Esto permitirá a las actores
+claves y comunidad interesada, identificar las principales oportunidades y desafíos para avanzar en la
+economía circular. Para esta evaluación, es importante considerar el desarrollo de un perfil socioeco-
+nómico, la evaluación de las iniciativas circulares ya existentes, el análisis del metabolismo comunal
+y sus impactos ambientales, y la identificación de capacidad inactiva (Figura 11).
+Si bien el análisis de uso y flujo de recursos y materiales es de alta importancia para establecer una
+métrica que caracterice el punto de partida, igual de importante es la caracterización de las iniciati-
+vas ya existentes en la comuna. Para ello resulta clave saber ¿qué acciones considera la experiencia?
+¿qué ha motivado el impulso de dichas acciones? ¿quiénes participan de la experiencia? o ¿qué re-
+sultados se han obtenido? Con ello es posible determinar, a través del juicio de los actores claves, si
+la experiencia posee o no potencial de replicabilidad (Caja de herramientas A).
+Junto con todo lo anterior, deberá incluir como parte de los antecedentes de base las restricciones o
+marco normativo que le sea aplicable al momento de iniciar el proceso de planificación de la estrate-
+gia. En tal sentido, resulta conveniente reconocer las definiciones que ya posean los instrumentos de
+planificación territorial de carácter normativo (Planes Reguladores Comunales, Planes Reguladores In-
+tercomunales y Plantes Reguladores Metropolitanos), como también los Planes Regionales de Ordena-
+miento Territorial, que tendrán la capacidad de definir zonas para la instalación de infraestructura para
+el tratamiento, valorización y disposición de residuos.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 34
+
+--- Página 35 ---
+PASO 2
+Desarrollar perfil socioeconómico comunal
+Gran parte de los Planes de Desarrollo Comunal poseen un perfil socioeconómico de sus comunas, por tanto es probable que este insumo ya exista y se pueda avanzar
+rápidamente a los siguientes componentes de este paso metodológico. En caso contrario será necesario identificar los sectores económicos y productivos principales
+(ganadería, minería, turismo, servicios públicos, manufactura, etc) e infraestructura pública (educación, salud, administración o seguridad). Asociado a ellos es necesario
+reconocer fuerza laboral asociada, tamaño del sector en términos financieros y de empleo, crecimiento esperado o proyectado. 25 Existen diferentes respaldos me-
+todológicos para la realización de
+análisis de flujo de materiales (MFA).
+Evaluar acciones circulares ya existentes en la comuna Analizar el metabolismo comunal y sus impactos ambientales
+Su uso está muy extendido en todas
+las metodologías de economía cir-
+A partir del perfil socioeconómico del territorio comunal, deben evaluarse el cular a nivel internacional, no obs-
+Es necesario reconocer las iniciativas o acciones circulares que algunos actores o
+uso y flujo de recursos y materiales. Para ello el análisis de flujo de materiales tante, requiere una gran cantidad
+sectores ya se encuentran ejecutando, y aprender de los enfoques utilizados, fuentes
+(MFA) es el método más adecuado para detectar los elementos más relevantes: de información para su aplicación.
+de financiamiento, planes de crecimiento y dificultades enfrentadas. Así mismo hay
+entradas de materiales y recursos al territorio comunal, procesos de transfor- Una base conceptual de MFA puede
+que recoger información cuantitativa de las experiencias, que permitan proyectar
+mación, salidas (emisiones y residuos). También es posible centrarse en indica- encontrarse en Ministerio del Me-
+su comportamiento futuro. Por ejemplo, si en un territorio comunal existen expe-
+dores específicos por sector: suministros de energía (renovable y no renovable), dio Ambiente (2018). Experiencia
+riencias de compostaje a nivel vecinal o comunitario, es probable que proyectar el
+adiciones al stock en forma de infraestructura comunal, emisiones de gases chilena: cuenta ambiental flujo de
+crecimiento de estas iniciativas sea un buen punto de partida.
+efecto invernadero, generación y tratamiento de residuos.
+materiales. Unidad de Indicadores
+y Cuentas Ambientales, Departa-
+mento de Información Ambiental,
+Identificar capacidad inactiva
+Gobierno de Chile, Santiago, Chile
+(disponible en bit.ly/3XzUaXy), y
+Todos las comunas poseen espacio físico que podría ser utilizado para acompañar el proceso de transición. Una oficina municipal, un sector de una escuela, un terreno una aplicación a nivel subnacional
+sin uso, una terraza, un sector de un parque o una plaza; cualquiera de estos espacio podría ser útil para promover la circularidad. Por ejemplo, es posible aprovechar un en Ruggerio A., Tapia J., & Caprile D.
+pequeño sector de una plaza de armas para instalar un panel informativo de los beneficios de una menor generación de residuos 25 . (2015). El flujo de materiales en la
+gestión de residuos de la Región del
+Gran Buenos Aires (RGBA). Ediciones
+Figura 11 UNGS, Buenos Aires, Argentina (dis-
+Cuatro elementos para establecer el punto de partida de la circularidad. ponible en bit.ly/3GQYOcD).
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 35
+
+--- Página 36 ---
+PASO 3 3.3
+Priorizar áreas o sectores objetivos
+Una forma sencilla de poder identificar sectores productivos o económicos con potencial de desarrollo EXISTENCIA DE UN CLÚSTER O ASOCIACIÓN DE EMPRESAS
+de circularidad es reconocer si existen algunas de estas características: uso intensivo de recursos, alta La existencia de una agrupación de entidades de un sector representa la oportunidad de abordar la tran-
+generación de residuos, impactos ambientales evidentes, existencia de un clúster o asociación de em- sición con estrategias de gran magnitud.
+presas, iniciativas vigentes de circularidad y dependencia de la comuna del sector económico. Para ello
+pueden utilizarse los rubros económicos caracterizados por el Servicios de Impuestos Internos (Caja INICIATIVAS VIGENTES DE CIRCULARIDAD
+de herramientas B) o bien a sectores más generales con los que habitualmente pudiera relacionarse la La presencia de iniciativas vigentes muestra una señal que el sector o área productiva o de administra-
+economía circular a nivel local (Caja de herramientas C). A mayor presencia de estas características, el ción, posee una vocación con el proceso de transición a mayores niveles de circularidad local.
+rubro presentará mayor potencialidad para la circularidad.
+DEPENDENCIA DE LA COMUNA DEL SECTOR ECONÓMICO
+USO INTENSIVO DE RECURSOS O MATERIALES Cuando una comuna depende de uno o varios sectores productivos o económicos (en producción o em-
+Los sectores que son intensivos en uso de recursos o materiales poseen una gran oportunidad de inter- pleo), demanda de una transición planificada 26 , pues cualquier otro camino podría traer consecuencias
+vención para hacer más eficientes sus procesos o prestación de servicios. no deseadas.
+GENERACIÓN ALTA DE RESIDUOS
+Los rubros con mayor generación de residuos poseen oportunidades para el uso de ellos en aplicación
+material, a través de la recuperación, el reciclaje o reutilización.
+IMPACTOS AMBIENTALES
+Los sectores para los cuales exista evidencia de impactos ambientales, no sólo poseen la oportunidad,
+si no la necesidad de modificar su desempeño para disminuir sus impactos implementando diversas
+estrategias de circularidad. 26 Se entiende por transición planificada aquella que responde a la consecución de un objetivo de transformación (en este caso,
+hacia una economía circular) a partir de un proceso que ha considerado tanto sus efectos positivos, como también el control
+y resguardo de aquellos efectos no deseados. Esto en contraposición a procesos de transición, donde la ausencia de planifica-
+ción puede tener consecuencias sobre el comportamiento social o económico, de un sector o un territorio.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 36
+
+--- Página 37 ---
+PASO 4 3.4
+Visualizar el futuro
+Habitualmente se considera que el proceso de planificación de la transición hacia una
+economía circular tiene como eje prioritario los indicadores. Sobre ellos la discusión es
+amplia y en los pasos siguientes se aborda con precisión. No obstante, lo fundamental
+del proceso de planificación radica en el reconocimiento de los valores fundamentales ÁMBITO CONCEPTUAL O TEÓRICO ÁMBITO OPERATIVO O PRÁCTICO
+que sustentan la gestión municipal y, por tanto, como ellos determinan una visión es-
+tratégica de lo que se busca transformar con mayores niveles de circularidad en el te-
+Objetivos
+rritorio local (Figura 12).
+específicos
+Generalmente los valores fundamentales se pueden reconocer en el Plan de Desarrollo
+Comunal (PLADECO). Estos valores representan el alma de la comuna: una comuna tu- Valores
+Principios Metas Objetivos
+rística, una comuna cultural, una comuna productiva, una comuna sustentable, una Fundamentales
+comuna verde, o una combinación de ellas, dará luces para configurar una visión
+estratégica específica . En cualquier caso, dicha visión estratégica, debe permitir que
+Directrices Indicadores Umbrales
+toda la comunidad interesada se reconozca en ella, por eso el trabajo de consenso es
+muy importante. Para conseguir aquello y que además viabilice los objetivos y metas
+–de carácter operativo- debe ser una visión estratégica inspiradora, holística, de largo
+plazo y de fácil comprensión.
+Sólo cuando se haya definido la visión estratégica es conveniente la definición de las
+metas y objetivos (generales y/o específicos). Las metas suelen considerar el enuncia-
+do de un indicador, mientras que el objetivo incluye el umbral que debe conseguirse de
+dicho indicador (ver ejemplo en Tabla 1).
+Figura 12
+Relación estratégica y operativa de la planificación de la economía circular.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 37
+
+--- Página 38 ---
+PASO 4
+VALORES FUNDAMENTALES Definido en el PLADECO:
+«Se espera que al año 2030 la comuna se transforme en el polo turístico de
+Representan el comportamiento deseado que tendrá el territorio comunal la provincia, con servicios comunales de alto estándar, mejorando la calidad
+en un horizonte temporal determinado. de vida de sus vecinas y vecinos, y garantizando el desarrollo sustentable».
+VISIÓN ESTRATÉGICA CIRCULAR Definido por actores y comunidad interesada:
+«Al 2030 la comuna ha logrado que el desarrollo de la actividad turística y
+Es la expresión pragmática de los valores, dando una instrucción clara del la propia gestión municipal -tanto interna como a nivel territorial- haya al-
+curso de las acciones para la transición hacia una economía circular. Si dichas canzado niveles de circularidad en el uso de agua y energía, y en el manejo
+instrucciones requieren ser más precisas, se puede recurrir a las directrices. de residuos».
+Meta 1: El sector turismo reducirá el consumo de recursos naturales, au-
+METAS
+mentando su eficiencia y reduciendo su impacto ambiental
+Corresponden al enunciado de aquello que se desea alcanzar (un estado o
+Meta 2: La gestión municipal de residuos orgánicos se alineará con las metas
+escenario futuro de largo plazo).
+de la Estrategia Nacional de Residuos Orgánicos.
+Ejemplos objetivos asociados a la Meta 1:
+El consumo de agua por turista y día de pernoctación se reducirá al 2025 en
+OBJETIVOS
+un 10%., y al 2030 alcanzará una reducción del 20%.
+Estos pueden ser generales o específicos, y se expresan como elementos
+Ejemplos objetivo asociado a la Meta 2:
+cuantitativos, incorporando magnitudes y temporalidad.
+La valorización de residuos municipales al 2030 será de un 30%, garanti-
+zando que al 2025 se haya alcanzado al menos un 10%. Tabla 1
+Ejemplo definición de visión estratégi-
+ca circular, metas y objetivos.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 38
+
+--- Página 39 ---
+Fotos Municipalidad de Santa Juana
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 39
+
+--- Página 40 ---
+PASO 5 3.5
+Planificar la acción circular
+Las acciones para la transición a la economía circular están determinadas por las metas y objetivos priorización. Siendo incluso recomendable un procedimiento de consulta pública, sobre todo cuando
+ya definidos. Por ejemplo, respecto al objetivo enunciado en el Paso 4 «La valorización de residuos las acciones responderán a definiciones de la propia entidad municipal (Caja de herramientas E).
+municipales al 2030 deberá ser de un 30%, garantizando que al 2025 se haya alcanzado al menos un Una vez se hayan priorizado las acciones y seleccionado aquellas que efectivamente permitirán cum-
+10%», podría reconocerse como acción la implementación de un sistema de recolección selectiva para plir con las metas y objetivos para la transición hacia una economía circular, estas deben caracterizarse
+residuos orgánicos de los comercios de la comuna o la incorporación de al menos 3.000 viviendas a y programarse de manera tal que se asegure -con la mayor certeza posible- la viabilidad ambiental,
+un programa de compostaje comunitario en una zona específica del territorio local. económica y social para su implementación. Para ello resulta necesario reconocer los responsables de
+la ejecución (institución técnica e institución financiera), los indicadores que controlarán su implemen-
+Para llevar a cabo el proceso de reconocimiento de acciones de circularidad, se recomienda la creación tación, las regulaciones o normativas necesarias, los recursos financieros comprometidos y la relación
+de una lista de acciones para cada meta u objetivo. De esta forma, todos los actores claves o comunidad con otras acciones de la estrategia local de economía circular (Caja de herramientas F).
+interesada podrán proponer acciones que de manera individual o colectiva permitan cumplir con las
+definiciones establecidas en el paso previo. Se recomienda que, para la propuesta de acciones exista
+una estructura única, que además de la acción específica se reconozcan los plazos, hitos, existencia
+de presupuesto o financiamiento, y responsables (Caja de herramientas D). Además, es recomendable
+reconocer con cuál de las estrategias jerárquicas de la circularidad se relaciona cada acción y a cuál
+de las iniciativas de la Hoja de Ruta para un Chile Circular al 2040 tributarán.
+Más adelante en este documento se presentan ejemplos planificados, en diseño y/o en ejecución por
+algún municipio del país, que pueden ser empleados como modelos a considerar en la elaboración de
+la estrategia. A continuación, también encontrará enunciados algunos ejemplos asociados a sectores
+de habitual intervención a través de la estrategia (Tabla 2).
+No es conveniente que todas las acciones sean incluidas en la estrategia, siempre es recomendable
+priorizar acciones, tanto por su impacto como por su viabilidad. Para ello es posible a través de un
+proceso de discusión entre los actores claves y comunidad interesada, establecer un proceso de
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 40
+
+--- Página 41 ---
+PASO 5
+SECTORES ACCIONES JERARQUÍA DE LA CIRCULARIDAD
+Recuperación de predios urbanos degradados y transformación en espacio público Reducir (R2) Reusar (R3)
+Medio construido (espacio urbano) Recuperación de infraestructura pública en desuso y asignación a actividades circulares Reducir (R2) Reusar (R3)
+Creación de barrios circulares (intervención pública focalizada) o en nuevos barrios de vivienda social Repensar (R1)
+Centros de reparación e intercambio de productos de segunda mano Reusar (R3) Reparar (R4) Restaurar (R5)
+Bienes de consumo (textiles, eléctricos,
+electrónicos, muebles u otros)
+Red de comercio local para la promoción de la circularidad Repensar (R1)
+Recuperación y redistribución de frutas y verduras desde ferias, mercados o almacenes de barrio Reusar (R3) 27
+Alimentos (producción,
+Creación de huertos urbanos para producción de alimentos de demanda local Repensar (R1)
+venta y consumo)
+Red de comercio local con venta a granel Reducir (R2)
+Plataforma de intercambio de materiales (simbiosis industrial) Remanufacturar (R6) Reutilizar (R7) Reciclar (R8)
+Manufactura (micro, pequeña,
+mediana o gran empresa)
+Red de MiPyMES por rubro de circularidad (economía de escala) Remanufacturar (R6) Reutilizar (R7) Reciclar (R8)
+Plataforma local para uso compartido del automóvil y/o bicicleta Reducir (R2)
+Movilidad
+y transporte Reconversión o renovación de flota vehicular pública (transporte público y vehículos municipales) eléctricos
+Reducir (R2)
+o combustible bajo en emisiones
+Implementación de sistema puerta a puerta de recolección de envases Reciclar (R8)
+Gestión de residuos
+Sistema de compostaje domiciliario y comunitario, y/o compostaje a escala comunal Reciclar (R8)
+y materiales
+Construcción de infraestructura para el acopio de envases para su posterior valorización Reciclar (R8)
+Captación de agua lluvia para uso en riego de espacio público (desde techumbres o bajo zonas de parque) Reducir (R2)
+Gestión de agua potable
+y aguas residuales
+Reutilización de aguas grises en instalaciones municipales Reciclar (R8)
+Tabla 2 27 En este caso, reuso implica un uso alternativo a la ven-
+Ejemplos de acciones y su contribución según jerarquía de la circularidad. ta comercial de un alimento en particular.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 41
+
+--- Página 42 ---
+PASO 6 3.6
+Determinar capacidad instalada
+La implementación de la estrategia requiere reconocer los recursos humanos disponibles en el equipo
+municipal; esto como paso previo a la configuración de la gobernanza. Es necesario reconocer las com- COMPETENCIAS ACCIONES REQUERIDAS
+petencias requeridas para la promoción de las acciones planificadas, como también la magnitud de de-
+dicación temporal a dichas tareas.
+Gestión de equipos multidisciplinarios o coordinación
+Dirección
+de acciones
+Es por ello que será necesario frente a cada acción planificada reconocer el tipo de competencias y el
+área de trabajo requerido. Las competencias pueden ser de dirección, planificación, técnica, control,
+Diseño de estrategias o preparación y evaluación
+operación o gestión. En la Figura 13 se muestran algunos ejemplos de acciones que requerirán de una Planificación
+de proyectos
+u otra competencia. Podría suceder -y es lo habitual que así sea- que una misma acción demande de
+varias competencias, lo que puede ser abordado por alguna persona o grupo de ellas que se consideren
+Técnica Ingeniería, arquitectura, construcción, o similar
+adecuadas para ello.
+Independiente de lo anterior, y si se cuenta o no con la capacidad instalada, se deben implementar ac- Fiscalización, supervisión de obras, supervisión
+Control
+de contratos u otros
+ciones que busquen abordar dicha realidad: primero, evaluar la posibilidad de contratación de nuevo
+personal, y segundo, fortalecer el equipo actual a través de acciones de capacitación o formación.
+Asociado a vehículos, equipos, equipamiento
+Operación
+o trabajo de obras
+Con todo lo anterior, resulta pertinente que frente a cada acción planificada se realice un diagnóstico
+de la capacidad instalada y se registre la forma en que se abordará la situación en caso de que el equi-
+Preparación de licitaciones, contratos o especificaciones
+po municipal no cuente con ella. Esto no sólo dependerá del tipo de competencias, sino también del Gestión
+técnicas, u otras labores administrativas
+área técnica a la que se vincule la acción circular: residuos (domiciliarios, comerciales, institucionales,
+orgánicos, recuperables, u otro), agua, energía o movilidad y transporte; como también de la magnitud
+de la carga laboral que implicará asumir una u otra acción (Caja de herramientas G).
+Figura 13
+Tipos de competencias y acciones requeridas.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 42
+
+--- Página 43 ---
+Fotos Municipalidad de Providencia
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 43
+
+--- Página 44 ---
+PASO 7 3.7
+Establecer la gobernanza
+En el Paso 1, se plantea cómo estructurar la gobernanza para la elaboración de la estrategia. Es preci- económicas o academia, que son reconocidos por su compromiso con la economía circular a nivel local,
+samente dicha estructura la que debe profundizarse de cara a la ejecución de las acciones circulares. y que por tanto pueden establecer vínculos entre diferentes espacios estratégicos y territoriales para
+La gobernanza juega un papel crucial en la implementación de las acciones para la transición hacia la implementación de la estrategia.
+una economía circular y debe abordarse con mecanismos que garanticen tanto la gestión de arriba
+hacia abajo, particularmente por la necesidad de liderazgo político-institucional del municipio, como Los habilitadores son los actores que sin ser los responsables directos de alguna acción pudieran co-
+también -y de manera aún más importante- de abajo hacia arriba, donde la comunidad organizada laborar con desarrollar o generar condiciones propicias para la transición a la economía circular. Son
+pueda promover, participar, gestionar y liderar procesos y acciones de transición. habilitadores los encargados de programas de financiamiento, de regulación y normativa, de capa-
+citación y/o innovación. Por último, los ejecutores serán los actores que se limitan a ejecutar alguna
+Durante la implementación de la estrategia, se deben distinguir cuatro roles fundamentales de la go- de las acciones planificadas y por tanto son responsables directos de ellas.
+bernanza: promotores, facilitadores, habilitadores y ejecutores . Siguiendo la nomenclatura plan-
+teada al inicio de esta sección, tanto el equipo municipal, líder comunal, ciudadanía, responsables
+de iniciativas circulares, representantes de las actividades económicas y miembros de la academia
+o expertos técnicos, puede tomar alguno o varios de los roles necesarios para la implementación de
+la estrategia local.
+Los promotores , generalmente corresponden a quienes lideran la ejecución de la estrategia, son los
+responsables administrativos y políticos de ella. Tienen como función principal liderar con el ejemplo,
+promover una cultura de la circularidad y aumentar el nivel de confianza de los otros actores y toda
+la comunidad en los beneficios de la economía circular a escala local. Generalmente, los promotores
+pueden coincidir con el equipo municipal y el líder comunal, no obstante, pudiera jugar un rol promo-
+tor algún representante de actividades económicas, cuyo sector sea de alta relevancia.
+El resto de los roles generalmente están asignados a los responsables principales o colaboradores de las
+acciones circulares. En el caso de los facilitadores , estos son actores claves ciudadanos, de actividades
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 44
+
+--- Página 45 ---
+PASO 8 3.8
+Definir el marco de monitoreo y evaluación
+Cada una de las acciones para la transición a la circularidad definidas en el Paso 5, poseen sus propios INDICADORES DE DESEMPEÑO
+indicadores de seguimiento. Ejemplo de ellos también se pueden encontrar en la siguiente sección de Estos indicadores son útiles para evaluar el rendimiento o progreso hacia un indicador principal o un
+este documento, donde se identifican algunos indicadores para las iniciativas destacadas a lo largo de resultado intermedio. Proporcionan información para la mejora continua a nivel estratégico y opera-
+Chile y su relación con iniciativas de la Hoja de Ruta para un Chile Circular al 2040. tivo, permitiendo facilitar la toma de decisiones de los responsables principales o colaboradores de
+cada acción circular. Algunos ejemplos pueden ser:
+Al respecto es recomendable considerar que no todos los indicadores permiten medir los mismos ele-
+mentos de la circularidad. Una forma de clasificarlos es la siguiente: · Tasa de residuos generados por unidad de producción.
+· Tasa de consumo de materiales (primarios o secundarios) por unidad de producción.
+INDICADORES PRINCIPALES · Tasa de valorización de residuos por unidad de tiempo.
+Estos indicadores, que generalmente se desprenden de las metas y objetivos, reportan sobre el estado · Tasa de consumo de materia prima/agua/energía por unidad de producción.
+de la circularidad de un sistema (puede ser toda la gestión municipal o un sector específico). Su consi-
+deración facilitará reconocer el nivel de progreso de la estrategia local o de cada una de sus acciones. INDICADORES DE ADMINISTRACIÓN
+Algunos ejemplos pueden ser: Estos indicadores permiten medir las acciones facilitadoras para la implementación de las estrategias
+de circularidad. Por lo general, se refieren a elementos de gobernanza, tecnología, características so-
+· Cantidad de materiales recuperados o recirculados por unidad de tiempo. cioeconómicas, gasto (principalmente público), entre otros. Algunos ejemplos:
+· Autosuficiencia de material o energía por unidad de tiempo (cuánto material proviene dentro del
+mismo territorio). · Número de contratos con proveedores con dimensión de circularidad incorporada.
+· Generación total de residuos sólidos o agua residual por unidad de tiempo (puede emplearse para · Porcentaje de presupuesto municipal anual destinado a acciones circulares.
+una tipología específica, como por ejemplo, residuos de alimentos). · Número de puestos de trabajo creados producto de acciones circulares.
+· Número de empleos por cantidad de residuos recuperada por unidad de tiempo. · Inversión anual ejecutada en infraestructura para la circularidad.
+· Número de personas capacitadas en conductas de consumo circular.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 45
+
+--- Página 46 ---
+PASO 8 INDICADORES DE IMPACTO
+Estos indicadores permiten cuantificar el impacto social, económico o ambiental de las
+diferentes acciones circulares. Pueden aplicarse a nivel institucional, productivo o incluso
+en todo el territorio comunal. Algunos ejemplos son: Proceso circular
+Consumo total de energía
+· Huella de material o cantidad de materiales por unidad funcional (habitantes, masa Consumo total de agua
+de un producto o servicios). Autoproducción de energía
+· Huella de carbono o cantidad de gases de efecto invernadero emitidos por unidad Autoabastecimiento de agua
+Tasa de reutilización de materiales/residuos
+funcional (habitantes, masa de un producto o servicios).
+Producción de compost/vermicompost
+· Superficie de suelo ocupado por unidad de tiempo para disposición final de residuos.
+Cualquier sea el tipo de indicador, ya sea a nivel general de la estrategia o asociado a
+alguna acción específica, es recomendable siempre considerar indicadores que permi-
+tan medir y monitorear los flujos de entrada, los procesos circulares (incluyendo los de
+gestión administrativa) y los flujos de salida (Figura 14).
+Entradas Gestión circular Salidas
+Por otro lado, los indicadores deben poseer ciertas características de acuerdo a su rela-
+Consumo total de materiales Contratación pública circular Generación total de residuos sólidos
+ción con la estrategia o las acciones circulares: Huella de materiales Generación total de materiales secundarios
+Empleo total en sectores circulares
+Tasa de entrada de material secundario Número de iniciativas de economía circular Generación total de aguas residuales
+Tasa de entrada de energía renovable Número de personas u organizaciones que Emisiones totales de gases de efecto invernadero
+PODER DE COMUNICACIÓN Tasa de entrada de agua participan de acciones circulares
+Los indicadores deben ser comprensibles para la comunidad interesada y beneficiada,
+tanto en su significado como en los datos que lo sustentarán.
+PODER DE REPRESENTACIÓN
+Los indicadores deben verificarse siempre de acuerdo a si representan lo que realmente
+se quiere medir; hay que asegurar que representa el objetivo de la acción.
+PODER DE LOS DATOS Figura 14
+Los indicadores deben estar sustentados en datos coherentes, transparentes y oportunos. Flujos de entrada y salida, y procesos circulares.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 46
+
+--- Página 47 ---
+PASO 9 3.9
+Estructurar regulaciones y normativas
+Al ser la transición hacia una economía circular un proceso continuo y donde el comportamiento de los esperado de la población, el que debe quedar vinculado a elementos punitivos (multas) cuando dicho
+actores individuales o colectivos resulta clave para la consecución de los objetivos, es imprescindible el comportamiento no se ajuste al esperado, pero también, y sin el cual el anterior no tiene sentido, debe
+establecimiento de regulaciones y normativas, que determinen la conducta esperada para cumplir con existir reconocimiento cuando el comportamiento se ajuste a él o incluso vaya más allá del objetivo
+las metas y objetivos, y los fines de cada una de las acciones circulares planificadas en la estrategia local. deseado (tasa de pago justa de recolección es un buen ejemplo).
+Es cierto que las competencias municipales poseen ciertas limitaciones, no obstante, existen algunas
+áreas de gestión que pudieran ser gestionadas a través de autorregulación institucional (cómo se deben
+ejecutar procesos internos o cómo se deben prestar ciertos servicios). Es el caso de los procesos de ORDENANZA BASURA CERO 28
+compra pública de todas las reparticiones municipales, las fuentes de energía para establecimientos La Alianza Basura Cero, red de organizaciones y personas naturales, que tiene el fin de pro-
+de administración municipal, incluyendo educación y salud (por ejemplo, autogeneración a partir de mover, impulsar y trabajar por el manejo sustentable de residuos, publicó el año 2020 una
+paneles fotovoltaicos), las fuentes de energía para el alumbrado público (por ejemplo, uso de postes propuesta de ordenanza basura cero. Su primer artículo deja claro cuál es su objetivo «reducir
+en plazas o parques con autogeneración energética eólica o fotovoltaica), o la propia integración de al máximo la disposición y generación de residuos sólidos domiciliarios y asimilables a nivel
+procesos circulares en los procesos de planificación: del desarrollo comunal (PLADECO) y reguladoras comunal». Un objetivo completamente deseable en el marco de la transición a la economía
+del espacio urbano (Plan Regulador Comunal). circular. La Ordenanza posee cuatro secciones: 1) Objetivos, principios y definiciones, 2) Dis-
+posiciones, 3) Inclusión efectiva de recicladores de base y 4) Financiamiento y/o promoción
+Existe también la posibilidad de establecer regulaciones contractuales a prestadores de servicios, para de iniciativas que aporten al cumplimento de los objetivos de la ordenanza. Algunos muni-
+garantizar la ejecución de acciones que sean pertinentes a las definiciones estratégicas municipales. cipios que han considerado algunas de las recomendaciones han sido Loncoche y Melipilla.
+En el caso del manejo de áreas verdes, a través de la exigencia de someter a compostaje el material
+de poda, césped y hojas; o en la prestación de servicios de recolección de residuos y otros vehículos,
+la exigencia de que la flota sea la más eficiente posible, en el consumo de combustible o bien direc-
+tamente una proporción de vehículos eléctricos.
+Por otro lado, para la transición a una economía circular, un instrumento de alto valor normativo para la
+gestión local son las ordenanzas. Una ordenanza debe basarse en la existencia de un comportamiento 28 Alianza Basura Cero (2022). Propuesta de Ordenanza Basura Cero. Link: bit.ly/3Zf8VA2.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 47
+
+--- Página 48 ---
+PASO 10 3.10
+Reconocer las vías de financiamiento
+Cada acción circular podrá ser ejecutada en la medida en que se identifiquen de manera adecuada
+Fondo Vías de solicitud de financiamiento
+los requerimientos financieros que se demanden. Aquello debe quedar claramente especificado en el
+proceso de planificación. En general las acciones requieren de alguna inversión inicial y de una ope- Sistema Nacional de Sistema Nacional de
+ración futura. Cuando la iniciativa comprometida es de responsabilidad privada, es posible recurrir a Desarrollo Regional Inversiones Circular 33
+(SNI) (SNI)
+financiación de capital, subvenciones, inversión directa, e incluso a través de procesos de crowfunding , Gobiernos
+o economías colaborativas. Regionales
+Fondo Regional de
+Según instructivos de
+Iniciativa Local
+cada Gobierno Regional
+No obstante, cuando la acción posee como responsable al propio municipio, si bien puede recurrir a presu- (FRIL)
+puesto propio, lo cierto es que será habitual la necesidad de acceso a financiamiento de otras instituciones
+Fondo de Apoyo a la Vinculado a la solicitud de
+públicas. En materia de economía circular, lo central es reconocer el flujo objetivo: residuos, agua o ener-
+Contingencia Regional financiamiento del municipio
+gía. Frente a ello el entramado institucional que podría dar acceso a financiamiento es variado (Figura 15). (FACR) al Gobierno Regional
+SUBDERE
+La presencia y participación de la Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE), y
+Programa de Mejoramiento
+Acción Concurrente
+los respectivos Gobiernos Regionales (GORE), dentro de la gobernanza para la economía circular, podría de Barrios (PMB)
+facilitar reconocer adecuadamente las vías de financiamiento para las acciones circulares a planificar.
+Una fuente de financiamiento que podría fortalecer la ejecución de estas acciones, es el Fondo de Apoyo
+a la Contingencia Regional, que a través de diferentes programas podría proporcionar presupuesto para Ministerio
+Según convocatoria
+acciones que consideren la gestión de residuos, agua y/o energía. Fondo para el Reciclaje
+del Medio anual del Ministerio del
+(FPR)
+Ambiente Medio Ambiente
+Serán los propios Gobiernos Regionales los que reconocerán si recurren a dicho fondo o proporcionan
+financiamiento propio. En ambos casos, los municipios pueden acceder a dicho financiamiento a través
+del Fondo Nacional de Desarrollo Regional (FNDR) o vía Circular 33. Una alternativa adicional, para ac-
+ciones de menor envergadura, podría ser el Programa de Mejoramiento de Barrios (PMB), Programa de Figura 15
+Mejoramiento Urbano (PMU), o el Programa Lidera (asociaciones municipales), todos administrados por Vías de financiamiento para acciones circulares municipales.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 48
+
+--- Página 49 ---
+PASO 10 SUBDERE. También es posible recurrir a recursos directos del Gobierno Regional, como lo es el Fondo
+Regional de Iniciativa Local o el FNDR 6%-7%-8% (lo define cada GORE), en particular, cuando existe CASO PROYECTO LUXEMBURGO
+la línea Medio Ambiente. Otra alternativa puede ser la colaboración internacional a nivel institucional o nivel guber-
+namental. Un muy buen ejemplo en esta línea puede ser el caso del Proyecto Luxemburgo
+El Ministerio del Medio Ambiente también posee alternativas de financiamiento a los que pueden acce- Chiloé, donde el Gran Ducado de Luxemburgo se comprometió con un aporte de 1,4 millo-
+der los municipios, como es el Fondo para el Reciclaje, o para organizaciones de la sociedad civil, como nes de dólares para desarrollar una estrategia integrada de residuos sólidos domiciliarios
+lo es el Fondo de Protección Ambiental. en la provincia de Chiloé. A través de esta iniciativa se consiguió entre otros productos, la
+elaboración de una Estrategia Provincial de Gestión de Residuos, y el diseño de 10 Planes
+No obstante, existen una serie de otros instrumentos de financiamiento para la sociedad civil, que es Municipales de Gestión de Residuos. Junto con ello, 3.000 familias recibieron equipamiento
+recomendable que cada entidad municipal reconozca y proponga a la comunidad interesada. Lo mismo para reciclaje orgánico e inorgánico, y 5.000 habitantes del archipiélago serán capacitados
+se puede realizar con instituciones privadas, particularmente con micro, pequeñas y medianas empresas, en manejo responsable de los residuos.
+que a través de los diversos programas de Corporación de Fomento de la Producción (CORFO), Servicio
+de Cooperación Técnica (SERCOTEC) o el Ministerio de Agricultura y sus servicios asociados, pudieran
+abordar algún requerimiento que incentive su propia transición a la circularidad.
+CASO DE CABO DE HORNOS
+En esta comuna de la Región de Magallanes y Antártica Chilena, se ejecuta proceso de com-
+postaje bajo invernadero de los residuos de alimentos de aproximadamente 80 familias,
+mayoritariamente agricultores asociados al Programa de Desarrollo Local (PRODESAL). La
+iniciativa, cofinanciada con recursos del Instituto de Desarrollo Agropecuario (INDAP) y apoyo
+técnico municipal, permite la obtención de compost homogéneo de alta calidad que puede
+ser aplicado directamente en cultivos. Se considera que durante la duración de esta acción
+circular se han transformado en compost cerca de 10 toneladas de residuos. La operación de
+esta instalación está a cargo de beneficiarios de la Oficina de Inserción Laboral Municipal.
+S ección 3 ¿Cómo diseñar una Estrategia L ocal para la T ransición hacia una Economía C ircular? 49
+
+--- Página 50 ---
+SECCIÓN 4
+Experiencias de
+Economía Circular
+a nivel municipal
+Considerando como estructura lógica las iniciativas presentes en la Hoja de Ruta
+para un Chile Circular al 2040, a continuación, se presentan algunos ejemplos y
+experiencias municipales asociadas a ellas.
+Fotos Municipalidad de Peñaflor 50
+
+--- Página 51 ---
+4.1 Incorporar el enfoque circular en la
+planificación comunal
+Las iniciativas que forman parte de este grupo son aquellas que buscan integrar estrategias de circu- · Las Municipalidades de Temuco 31 y Maipú 32 , incluyeron en su Plan de Desarrollo Comunal (PLADE-
+laridad en políticas públicas y planificación del desarrollo comunal y de planificación urbana, algunos CO) acciones circulares, que buscan promover la recuperación de residuos eléctricos y electrónicos,
+ejemplos de ellos son los siguientes: la integración de recicladoras(es) de base en la recolección puerta a puerta, reducción de los con-
+sumos y generación de residuos institucionales. La iniciativa contribuye al reciclaje (R8), reutilizar
+· Las Municipalidades del Gran Santiago 29 , reconocen zonas en las cuales estarán permitidas in- (R7) y reusar (R3).
+fraestructuras dedicadas al reciclaje y el compostaje de residuos sólidos, promoviendo un enfoque
+circular mencionado en el Plan Regulador Metropolitano, y que posteriormente, deberán incluirse
+en la planificación urbana municipal. La iniciativa contribuye principalmente al reciclaje (R8) y re-
+utilizar (R7).
+· La Municipalidad de Copiapó 30 incluyó un eje estratégico de desarrollo ambiental dentro del Plan
+de Desarrollo Comunal (PLADECO), el que hace referencia a las problemáticas ambientales, plan-
+teando áreas de intervención para afrontar estas dificultades mediante la planificación territorial,
+la gestión de residuos, el arbolado urbano, y la protección y conservación de la biodiversidad. La
+iniciativa contribuye principalmente al reciclaje (R8) y reusar (R3).
+29 SEREMI Vivienda y Urbanismo Región Metropolitana (2019) Texto Refundido y Sistematizado. Ordenanza Plan Regulador Me-
+tropolitano de Santiago. 31 Municipalidad de Temuco (2020). Plan de Desarrollo Comunal Temuco 2020 – 2024. Link: https://bit.ly/3ZnkMMl.
+30 Municipalidad de Copiapó (2022). Plan de Desarrollo Comunal Copiapó – 2030. Link: http://bit.ly/3IVxHy3. 32 Municipalidad de Maipú (2019). Plan de Desarrollo Comunal 2019 – 2024. Link: https://bit.ly/3Yj0Vgc.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 51
+
+--- Página 52 ---
+A continuación, se entrega mayor detalle del ejemplo realizado por la Municipalidad de Temuco:
+IMPLEMENTACIÓN EJE AMBIENTAL EN EL PLAN DE DESARROLLO COMUNAL: CASO TEMUCO
+Comuna: Temuco
+Año: 2020
+Tipo R: Reciclaje (R8), Reutilizar (R7) y Reusar (R3).
+Descripción de la experiencia
+La Municipalidad de Temuco incluyó en su Plan de Desarrollo Comunal (PLADECO) acciones circulares y de sus-
+tentabilidad, que buscan promover, por ejemplo, la recuperación de residuos eléctricos y electrónicos, la inte-
+gración de recicladoras y recicladores de base en la recolección puerta a puerta, reducción de los consumos de
+electricidad y energía térmica y disminuir la generación de residuos institucionales.
+Esta iniciativa contribuye al enfoque circular en la planificación comunal de Temuco, abordando diferentes ejes
+en un plazo del 2020 al 2024.
+Impacto de la iniciativa
+Cada vez más se utilizan espacios para incluir criterios circulares en la planificación del territorio, planificación urbana y las políticas públicas, siendo una iniciativa que promueve el enfoque circular a una
+visión de mediano y largo plazo, para asegurar su cumplimiento a nivel municipal.
+Algunos indicadores para medir el impacto
+· kg residuos reciclados / kg residuos generados
+· kg residuos orgánicos compostados / kg residuos orgánicos generados
+· kg de residuos evitados / año
+· kg de materiales o energía evitada / año
+· Nº kits de compostajes entregados a los/as habitantes
+Relación con otros instrumentos
+Relacionado al Plan de Desarrollo Comunal (PLADECO).
+S ección 4 Experiencias de Economía C ircular a nivel municipal 52
+
+--- Página 53 ---
+4.2 Compras públicas circulares
+Estas iniciativas consideran la utilización del poder de compra del municipio para promover prácticas · La Municipalidad de San Javier 35 , desarrolló un protocolo de compras sustentables que da prefe-
+circulares en sus proveedores. Pueden existir dos vías: 1) reemplazar adquisición de productos tradicio- rencia a proveedores que en sus productos no tengan sustancias peligrosas, genere menos residuos,
+nales, por otros que eviten el uso de materiales primarios, y 2) exigencia de criterios de circularidad en de características reciclados, reciclables y/o reutilizable, con certificaciones, entre otros; partiendo
+proveedores de servicios municipales. con materiales de oficina, equipos informáticos y servicios de cóctel y catering. La iniciativa con-
+tribuye a reutilizar (R7), reciclaje (R8), reusar (R3), reducir (R2) y rechazar (R0).
+· La Municipalidad de Chañaral 33 generó un programa piloto de sustentabilidad interna 3R, el cual
+busca implementar y fomentar incluir la variable ambiental en el sistema de compras, partiendo con · La Municipalidad de Copiapó 36 , desarrolló una guía interna de compras públicas sustentables,
+los materiales de oficina y equipos informáticos de menores efectos ambientales que se generan en que apoya al cumplimiento de las políticas y programas nacionales en materia de sustentabilidad.
+el consumo de productos. La iniciativa contribuye al reciclaje (R8), reducir (R2) y rechazar (R0). Entre sus desafíos y objetivos está reducir las emisiones de gases efecto invernadero, consumo de
+energía, la prevención, reutilización y reciclaje de residuos, entre otras. La iniciativa contribuye al
+· La Dirección de Administración y Finanzas (DAF) de la Municipalidad de Yungay , diseñó un pro- reciclaje (R8), reducir (R2) y rechazar (R0).
+tocolo de compras sustentables, el cual busca incorporar criterios ambientales en la adquisición
+de los productos en las compras, tomando decisiones económicas que resulten en huellas ecoló- · La Municipalidad de Alto del Carmen 37 , estableció un protocolo de compras sustentables con
+gicas más bajas con mayores beneficios sociales. La iniciativa contribuye al reciclaje (R8), reducir criterios ambientales como: reducir las compras, incorporar buenas prácticas en la etapa de uso,
+(R2) y rechazar (R0) 34 . preferir materiales reciclados, reciclables y de menor toxicidad, de menor consumo de energía y
+agua, menos residuos, reducción de empaque, reutilización, entre otros.
+33 Municipalidad de Chañaral (2021). Programa piloto de sustentabilidad interna 3R. Link: https://bit.ly/41ZUMbU. 35 Municipalidad de San Javier (2022). Criterios de compras sustentables. Link: https://bit.ly/41IaEQ9.
+34 Municipalidad de Yungay (2020). Informe 2: Proceso de Certificación Ambiental Municipal de Yungay. Link: https://bit.ly/3F0g- 36 Municipalidad de Copiapó (2022). Guía interna de compras públicas sustentables. Link: https://bit.ly/3yfdIWh.
+4Mm. 37 Municipalidad de Alto del Carmen (2019). Protocolo de compras sustentables. Link: https://bit.ly/3IT7iRB.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 53
+
+--- Página 54 ---
+A continuación, se presenta en mayor detalle el caso de la Municipalidad de Alto del Carmen:
+PROTOCOLO DE COMPRAS SUSTENTABLES
+Comuna: Alto del Carmen
+Año: 2019
+Tipo R: Reutilizar (R7), Reciclaje (R8), Reusar (R3), Reducir (R2) y Rechazar (R0)
+Descripción de la experiencia
+Se estableció un protocolo de compras sustentables que incluye prácticas circulares a los procesos de licitación o compra di-
+recta. Los productos y servicios considerados en la primera etapa son: materiales de oficina; papel de oficina; tintas de impre-
+sión; equipos informáticos; productos de limpieza y adquisición de productos químicos; servicios de construcción y mantención.
+Algunos criterios considerados fueron: reducir las compras, incorporar buenas prácticas en la etapa de uso, preferir materiales
+reciclados, reciclables y de menor toxicidad, optimizar transporte, de menor consumo de energía y agua, generación de menos
+residuos, reducción de empaque, reutilización del producto, entre otros, contribuyendo directamente a la economía circular.
+Impacto de la iniciativa
+Este tipo de iniciativas fomentan el desarrollo sustentable local, generando incentivos para las empresas que trabajan con la municipalidad en desarrollar políticas internas en materias involucradas en el
+protocolo. Alcanzar ahorros a medianos y largo plazo por reducción de consumo de materiales y generar menos residuos. Y a la vez, demostrar ante la ciudadanía que el municipio se encuentra comprometido
+con el cuidado del medio ambiente.
+Algunos indicadores para medir el impacto
+· % compras con criterios ambientales con respecto al total
+· N° de proveedores con criterios ambientales
+· $ ahorrados por disminución de consumo de materiales / año
+· kg de residuos evitados por disminución de consumo de materiales / año
+Relación con otros instrumentos
+La iniciativa se desarrolla en el contexto del Sistema de Certificación Ambiental Municipal (SCAM), entregando la oportunidad de generar acciones de este tipo.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 54
+
+--- Página 55 ---
+4.3 Difusión de hábitos y prácticas circulares
+Estas iniciativas consideran el fomento de una cultura local que busca, tanto evitar los impactos de la · La Municipalidad de Independencia 40 diseñó el Manual de Buenas Prácticas Ambientales, junto al
+economía lineal, como sensibilizar sobre hábitos y prácticas circulares y estilos de vida más sustentables. Centro de Prácticas Ambientales, que desarrollaron talleres sobre cambio climático, huertos, me-
+Algunos ejemplos de municipios que incorporan esta iniciativa son: dicina natural, energía y ahorro hídrico, además de ferias ambientales que contribuyeron a generar
+conciencia sobre la responsabilidad individual respecto de los patrones de consumo. La iniciativa
+· La Municipalidad de Cerro Navia 38 , posee el Fondo Ambiental Municipal, que busca que organiza- contribuye al reusar (R3), reducir (R2) y rechazar (R0).
+ciones sociales accedan a recursos para el desarrollo de prácticas de reciclaje de residuos orgánicos,
+o reducción del consumo de agua y consumo de energía. La iniciativa contribuye principalmente al · La Municipalidad de Santo Domingo posee un Mercado Circular que fomenta prácticas y hábi-
+reciclaje (R8) y reducir (R2). tos de intercambio de productos de segunda mano, como lo son: televisores, equipos de música,
+computadores, impresoras y textiles. La iniciativa contribuye a reutilizar (R7), reusar (R3), reducir
+· La Municipalidad de Melipilla 39 cuenta con la Unidad de Sensibilización Ambiental, la cual tiene (R2) y rechazar (R0).
+como función la difusión, sensibilización de prácticas sustentables, como por ejemplo fomentar la
+reutilización del agua y su cuidado, capacitaciones de educación ambiental a estudiantes y veci-
+nos/as. La iniciativa contribuye al recuperar (R9), reciclaje (R8), reutilizar (R7), remanufacturar (R6),
+restaurar (R5), reparar (R4), reusar (R3), reducir (R2), repensar (R1) y rechazar (R0).
+38 Municipalidad de Cerro Navia (2022). Fondo Ambiental Municipal. Link: http://bit.ly/3ZBw7sg.
+39 Municipalidad de Melipilla (2015). Decreto N°001 (17.08.2015), crea Dirección de Gestión Ambiental. Link: https://bit.ly/3ydx-
+TUA. 40 Municipalidad de Independencia (2020). Memoria Gestión 2017 – 2020. Link: https://bit.ly/41MTBfK.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 55
+
+--- Página 56 ---
+A continuación, se muestra en detalle el ejemplo de la Municipalidad de Santo Domingo:
+MERCADO CIRCULAR SANTO DOMINGO 41
+Comuna: Santo Domingo
+Año: 2022
+Tipo R: Desde Reutilizar (R7) a Rechazar (R0)
+Descripción de la experiencia
+La Municipalidad de Santo Domingo dentro de su estrategia de reducción de los residuos generados en la
+comuna, y buscando prolongar la vida útil de artículos que se encuentran en buena condición, ha diseñado
+la presente actividad, denominada «Mercado Circular Santo Domingo», que tiene como objetivo generar un
+espacio para que vecinas y vecinos de la comuna de Santo Domingo, puedan realizar la venta y/o intercam-
+bio de productos y artículos que se encuentren en su domicilio en desuso y que estén en buenas condiciones.
+Impacto de la iniciativa
+Cada día se vuelve imprescindible el evitar la compra de productos y/o artículos que se encuentren en el hogar, siendo importante antes de eliminar los productos y/o ar-
+tículos (que se encuentren en buenas condiciones) poder intercambiarlos por otros que pueden ser útiles, creando una sinergia de reutilización de productos y/o artículos
+en una comunidad.
+Algunos indicadores para medir el impacto
+· N° de artefactos intercambiados / persona
+· N° de artefactos evitados / año
+· N° mercados realizados / año
+· N° de participantes / año
+41 Municipalidad de Santo Domingo
+Relación con otros instrumentos (2022). Bases de postulación Mer-
+Se desarrolla dentro de un programa municipal. cado Circular Santo Domingo. Link:
+https://bit.ly/3moJiyd.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 56
+
+--- Página 57 ---
+4.4 Economía circular en la comunidad escolar
+Este tipo de iniciativas corresponden a la difusión de conocimientos sobre economía circular, hábitos · La Asociación de Municipalidades de la Provincia de Llanquihue 44 es organizadora de la feria
+y prácticas más circulares en la comunidad escolar. anual escolar de reciclaje en la provincia denominada Ecoferia, evento que propicia a través de los
+niños y niñas, el transmitir a los mayores el mensaje de responsabilidad ambiental, y de manejo
+· En la Municipalidad de Achao 42 en conjunto con estudiantes de la Universidad de Los Lagos, ca- adecuado de sus residuos. La iniciativa contribuye principalmente al reciclaje (R8) y reusar (R3).
+pacitaron a estudiantes de establecimientos de educación municipal en enseñanza básica y media,
+sobre la importancia del reciclaje de los aparatos eléctricos y electrónicos, por medio del reacon- · La Corporación Municipal de Melipilla 45 , lanzó el programa «La Ciencia al servicio del cuidado
+dicionamiento de artefactos informáticos en mal estado. Esta iniciativa contribuye principalmente del Medio Ambiente y la Sustentabilidad», que involucra la participación de los establecimientos
+a reparar (R4), remanufactura (R6) y reutilizar (R7). educacionales mediante la presentación de proyectos y participación en actividades científicas,
+que fomenten el cuidado por el medio ambiente, uso de puntos limpios y cultura del reciclaje. La
+· La Municipalidad de El Bosque 43 en conjunto a la Escuela Municipal Básica José Martí, a través del iniciativa contribuye al reciclaje (R8) y reusar (R3).
+proyecto «Hasta la última gota», se han implementado captadores de aguas lluvias con el objetivo
+de reducir el consumo primario de agua potable en el riego del huerto en la escuela, y realiza un sis- · La Municipalidad de Independencia 46 en conjunto al trabajo colaborativo con la Escuela de Párvulos
+tema de lombricompostaje. La iniciativa contribuye principalmente al reciclaje (R8) y rechazar (R0). Antu-Huilen, implementó un proyecto que fomenta la variable ambiental y circular en la educación
+escolar, como son prácticas de compostaje, huertos, invernaderos, y la reutilización de aguas grises.
+La iniciativa contribuye principalmente al reciclaje (R8), reusar (R3) y rechazar (R0).
+44 Ministerio del Medio Ambiente (2015). VI Ecoferia Provincial se realizó en la comuna de Llanquihue. Link: http://bit.ly/3JiQepM
+45 Corporación Municipal de Melipilla (2022). X Feria Científica y de Medio Ambiente que organiza Melipilla. Link: https://bit.
+42 Universidad de Los Lagos (2022). Fomentan la Economía Circular en la comuna de Achao. Link: http://bit.ly/3EZXjci. ly/41SJW7h.
+43 Ministerio del Medio Ambiente (2018). Experiencias de Educación Ambiental: iniciativas de educadores en la Región Metropo- 46 Municipalidad de Independencia (2022). Escuela de Párvulos Antu-Huilén implementa importante proyecto en favor del me-
+litana. Link: https://bit.ly/3ZnnD85 dio ambiente y la sustentabilidad. Link: http://bit.ly/3JiK5tJ.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 57
+
+--- Página 58 ---
+· La Municipalidad de Pudahuel 47 apoya a la Escuela 331 Lo Boza en su proyecto educativo, que
+busca fortalecer las prácticas ambientales en todos los niveles y cursos de la comunidad educativa,
+mediante talleres de ecología, eficiencia energética, paisajismo y forestación, e implementar po-
+líticas institucionales que garanticen la gestión y continuidad al proyecto ecológico de la escuela.
+La iniciativa contribuye principalmente a repensar (R1) y rechazar (R0).
+· En la Municipalidad de Cisnes 48 en conjunto con la Escuela Municipal Eusebio Ibar Schepeler, se
+cuenta con un Plan de Mejoramiento Educativo que busca reducir la cantidad de papel blanco,
+fomentando el uso de las nuevas tecnologías y el material digital, cambiar el sistema de calefac-
+ción a leña hacia una calefacción a pellet y disminuir el consumo eléctrico. La iniciativa contribuye
+principalmente a reducir (R2) y rechazar (R0).
+· En la Municipalidad de Paillaco 49 se instaló la Red de Huertos Escolares, iniciativa que articula un
+trabajo para organizar huertos a nivel escolar, y compartir las experiencias exitosas.
+47 Servicio Local de Educación Pública Barrancas (2022). Proyecto Educativo Institucional: Escuela 331 Lo Boza. Link: https://bit.
+ly/3kXZLZI.
+48 Municipalidad de Cisnes (2022). Proyecto Educativo Institucional: Eusebio Ibar Schepeler. Link: https://bit.ly/3L40V0v.
+49 Municipalidad de Paillaco (2022). Red de huertos escolares de Paillaco realizó primer intercambio de semillas. Link: http://bit. Fotos Municipalidad de Paillaco
+ly/3ZIIZfX.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 58
+
+--- Página 59 ---
+A continuación, se entrega mayor detalle del ejemplo de la Municipalidad de Paillaco:
+HUERTOS ESCOLARES
+Comuna: Paillaco
+Año: 2019
+Tipo R: Desde Reutilizar(R7) a Rechazar (R0)
+Descripción de la experiencia
+En conjunto con el municipio se instaló la Red de Huertos Escolares, iniciativa que nace de la necesidad de poder arti-
+cular un trabajo para organizar huertos a nivel escolar, y compartir las experiencias exitosas en este ámbito entre las
+escuelas involucradas, fomentando la economía circular en el ámbito de los huertos en las comunidades escolares.
+Impacto de la iniciativa
+La economía circular en la comunidad escolar conlleva un impacto positivo para contribuir en variadas R's, logrando encuentros interescolares sobre diferentes temáticas y compartiendo experiencias signifi-
+cativas para estudiantes, apoderados y docentes de los establecimientos educacionales.
+Algunos indicadores para medir el impacto
+· N° de asignaturas con contenidos ambientales / año
+· N° de estudiantes involucrados / iniciativa
+· N° establecimientos participantes / año
+· N° establecimiento que cuenten con el Sistema Nacional de Certificación Ambiental de Establecimientos Educacionales (SNCAE) / año
+Relación con otros instrumentos
+La iniciativa se desarrolla en el contexto del Sistema de Certificación Ambiental Municipal, Sistema Nacional de Certificación Ambiental de Establecimientos Educacionales y los propios proyectos educativos de
+los establecimientos.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 59
+
+--- Página 60 ---
+4.5 Tarifa solidaria por el servicio de aseo
+Esta iniciativa considera aquellas que establezcan una correlación entre la tarifa de aseo y las tasas de · La Municipalidad de San Antonio 52 cuenta con la experiencia de otorgar beneficios hacia la ciu-
+generación y/o valorización. A continuación, se entrega el ejemplo de un municipio: dadanía si es que se participa activamente en el programa de reciclaje municipal.
+· La Municipalidad de Puerto Varas 50 , en la Ordenanza Local General de Medio Ambiente, plantea
+el principio de «quien contamina paga» en relación a la generación de residuos sólidos, el cual pro-
+pone que quienes generen mayor cantidad de residuos sólidos que lo reglamentado, deberán in-
+ternalizar los costos que conlleva dicha generación, cobrando tarifas trimestrales por el aumento
+en la generación de residuos sólidos. Esta iniciativa busca reducir (R2) y rechazar (R0).
+· La Municipalidad de Independencia 51 estableció un Decreto que fija las tarifas de los derechos de
+aseo, donde se incorporó un mecanismo de cobro diferenciado, mediante el cual se estableció una
+rebaja del 50% de los derechos de aseo, a las copropiedades inmobiliarias y a las ferias libres que
+establezcan programas de reciclaje, previamente certificados por el Departamento de Medioam-
+biente Municipal. Esta iniciativa busca reciclar (R8) y rechazar (R0).
+50 Municipalidad de Puerto Varas (2021). Decreto N° 4679 (26.11.2021) que modifica ordenanza local general de medio ambien-
+te. Link: https://bit.ly/3SRD7Pi.
+51 Municipalidad de Independencia (2019). Decreto N° 4951 (05.11.2019) fija tarifa de aseo y modifica ordenanza de de- 52 Municipalidad de San Antonio (2022). Ordenanza N°2 (15.11.2022) deja sin efecto ordenanza N°2 del 25.10.2018 y sus modi-
+rechos municipal por concesiones, permisos y servicios. Link: https://bit.ly/3ITkA0r. ficaciones y dicta nueva ordenanza para determinar tarifa de aseo, cobro y exenciones. Link: http://bit.ly/3ZGrY6b.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 60
+
+--- Página 61 ---
+Se entrega mayor detalle del ejemplo de la Municipalidad de San Antonio:
+EXENCIÓN DE COBRO DE ASEOS CON CRITERIOS AMBIENTALES
+Comuna: San Antonio
+Año: 2018
+Tipo R: Reciclar (R8) y Rechazar (R0)
+Descripción de la experiencia
+Otorga beneficios hacia la ciudadanía de hasta un 50% en la tarifa de aseo si es que participa activamente en el programa de re-
+ciclaje municipal, el cual se realiza considerando el nivel de participación que es informado por los trabajadores del sistema de
+recolección diferenciada de residuos.
+El programa cuenta con la participación de 5.000 viviendas, y se ha logrado el reciclaje del 4% de los residuos, siendo una inicia-
+tiva que busca captar mayor interés en la participación de la ciudadanía en el sistema de recolección selectiva a través del uso de
+incentivos monetarios (exenciones de pago).
+Además, cuentan con exenciones parciales de acuerdo con criterios socioeconómicos, adultos mayores, o bien si pueden acreditar
+enfermedades catastróficas o discapacidad.
+Impacto de la iniciativa
+La relación del descuento en los cobros de aseo junto con programas de separación en origen y/o reciclaje, pueden traer consigo exitosos resultados, motivación e interés de los y las habitantes de la comuna,
+logrando mayor participación en la transición hacia la economía circular.
+Algunos indicadores para medir el impacto
+· $ / año de compensación
+· N° personas con beneficio en tarifa / año
+· kg de residuos separados en origen / año
+· $ / kg de residuos separados en origen
+Relación con otros instrumentos
+La iniciativa involucra al Programa Comunal de Reciclaje, sobre separación de los residuos sólidos domiciliarios.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 61
+
+--- Página 62 ---
+4.6 Fortalecimiento de la fiscalización de la
+disposición inadecuada de residuos
+Este tipo de iniciativa corresponde a todas las que permitan controlar la disposición inadecuada de · La Municipalidad de Salamanca 55 realizó un catastro de los microbasurales mediante georrefe-
+residuos en el territorio comunal, especialmente a través de la incorporación de nuevas tecnologías. renciación, de esta forma, planificar las jornadas de limpieza para detener el problema de gene-
+ración de microbasurales.
+· La Municipalidad de Futaleufú 53 ha aumentado las sanciones en la fiscalización frente a dispo-
+sición inadecuada de los residuos sólidos, mediante ordenanza municipal que busca promover el
+cumplimiento de evitar mal uso de los contenedores, arrojar colillas de cigarros al suelo, botar
+residuos de demolición, neumáticos, hasta incluir residuos peligrosos como baterías de auto. Esta
+iniciativa contribuye a repensar (R1).
+· La Municipalidad de Paillaco 54 promulgó una nueva ordenanza sobre microbasurales que tiene
+como objetivo regular diversos ámbitos sobre la incorrecta disposición de residuos sólidos, el cual
+sanciona de manera monetaria el transporte de residuos hacia vertederos ilegales. Además, posee
+letreros en la comuna, con advertencias de no disponer residuos, y un código QR que abre un portal
+de denuncias de este tipo. Esta iniciativa contribuye a repensar (R1).
+53 GAIA (2021). Sistema integral de manejo de residuos: La experiencia de Futaleufú. Link: https://bit.ly/3Zr3UEy.
+54 Municipalidad de Paillaco (2016). Decreto N°1646 (30.11.2016) aprueba ordenanza sobre microbasurales. Link: https://bit.
+ly/3L4bBMC. 55 Municipalidad de Salamanca (2021). Catastro de microbasurales comuna de Salamanca. Link: https://bit.ly/3YxzuQ0.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 62
+
+--- Página 63 ---
+A continuación, se entrega mayor detalle del ejemplo llevado a cabo por la Municipalidad de Salamanca:
+JORNADAS DE LIMPIEZA DE MICROBASURALES
+Comuna: Salamanca
+Año: 2021
+Tipo R: Reducir (R2) y Repensar (R1).
+Descripción de la experiencia
+Se realizó un catastro de los microbasurales mediante la georreferenciación de estos, siguiendo una metodología de
+levantamiento de la información mediante Google Pro Earth, o Google Street View, el cual muestrea el terreno con un
+análisis descriptivo de la información, como la tipología de los residuos, o la morfología del microbasural; de esta forma
+planifican las jornadas de limpieza para detener el problema de generación de microbasurales.
+Se realizaron 3 jornadas de limpiezas, en Borde Río Zapallar, Sector Los Muros-Tahuinco y en quebrada «El Consuelo», en
+conjunto con Oficina de Cultura y Turismo, Oficina del Deporte, liderado por la Oficina de Gestión Ambiental del municipio.
+El financiamiento de este ejemplo es completamente municipal. En cuanto a recursos humanos, en cada jornada se
+requiere entre 10 a 30 funcionarios, además de voluntarios externos.
+Impacto de la iniciativa
+Usar tecnologías para la georreferenciación u otras aplicaciones tecnológicas para la identificación de los microbasurales, son de ayuda para enfrentar, en primera instancia, la disposición inadecuada de los residuos que
+potencialmente se pueden convertir en vertederos ilegales, y de esta forma, dar paso a la recuperación del sitio. Sin embargo, estos problemas se deben solucionar con acciones de prevención y hábitos circulares de parte
+de todos los actores claves del territorio, asegurando la mínima disposición de los residuos.
+Algunos indicadores para medir el impacto
+· m 2 de superficie con disposición inadecuada
+· m 2 de superficie recuperada / jornada de limpieza
+· $ / año por recuperación de espacios con disposición inadecuada
+· % de disposición inadecuada del total recolectado
+Relación con otros instrumentos
+Se relacionan con ordenanzas municipales en capítulos de fiscalización, y ordenanzas específicas de microbasurales u otros de disposición inadecuada.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 63
+
+--- Página 64 ---
+4.7 Provisión de espacios y canales de encuentro
+y participación para la transición
+Esta iniciativa tiene por objetivo la inclusión de vecinas y vecinos para la construcción comunitaria de
+programas y proyectos que fomenten la circularidad, con particular interés en los espacios barriales.
+Algunos municipios que implementan esta iniciativa son:
+· Las Municipalidades de Quintero, Puchuncaví, Freirina, Hualaihué y La Pintana , a través de
+estudio de la Subsecretaría de Desarrollo Regional y Administrativo 56 , han desarrollado procesos
+participativos con la ciudadanía para la formulación de proyectos, incluyendo las metas que se
+mencionan en la Hoja de Ruta para un Chile Circular al 2040, y la Estrategia Nacional de Residuos
+Orgánicos (ENRO). Se aplica desde rechazar (R0) a recuperar (R9).
+· Las 10 Municipalidades de la provincia de Chiloé 57 , a través de sus alcaldes y alcaldesas, gene-
+raron un acuerdo de cooperación, para –entre otros objetivos– constituir mesas territoriales parti-
+cipativas a nivel comunal y/o provincial.
+56 SUBDERE (2023). Casos aplicados de la metodología para la formulación y evaluación social de proyectos para el manejo o
+gestión de residuos sólidos domiciliarios y asimilables. Link: http://bit.ly/3ZEQqok.
+57 Chiloé REDUCE (2021). Acuerdo marco de cooperación interinstitucional para el manejo sustentable de los residuos sólidos de
+gestión municipal en la provincia de Chiloé. Link: https://bit.ly/3SSeuly.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 64
+
+--- Página 65 ---
+A continuación, se entrega mayor detalle del ejemplo de las Municipalidades de la provincia de Chiloé:
+JORNADAS DE PARTICIPACIÓN CIUDADANA ENTORNO A LA ECONOMÍA CIRCULAR PARA LA GESTIÓN DE RESIDUOS SÓLIDOS DOMICILIARIOS
+Comuna: 10 comunas de la provincia de Chiloé
+Año: 2022
+Tipo R: Desde Reutilizar (R7) a Rechazar (R0)
+Descripción de la experiencia
+Las 10 municipalidades de la provincia de Chiloé, a través de sus alcaldes y alcaldesas, generaron un acuerdo de coopera-
+ción, para -entre otros objetivos- constituir mesas territoriales participativas a nivel comunal y/o provincial, con el fin de
+involucrar a la sociedad civil organizada y a comunidades indígenas, en el proceso de planificación e implementación de
+las alternativas técnicas para la gestión de las 3 fracciones de los residuos sólidos domiciliarios.
+La mesa territorial proviene de la continuidad del programa de «Fortalecimiento de la participación ciudadana en torno a
+la economía circular para la provincia de Chiloé», que ejecutó más de 40 encuentros ciudadanos en toda la provincia. Ac-
+tualmente, con apoyo municipal se encuentran en proceso de conformación todos los Comité Ambiental Comunal (CAC),
+a partir de los cuales se espera que se constituya una instancia de trabajo provincial.
+Impacto de la iniciativa
+La participación ciudadana e involucramiento ciudadano cada vez toma más espacio en las construcción y aplicación de las políticas públicas, estrategias y/o toma de decisiones territoriales, siendo un pilar
+fundamental para asegurar el éxito en la transición a la economía circular a nivel municipal.
+Algunos indicadores para medir el impacto
+· N° de participantes (ciudadanía y organizaciones) / taller
+· N° de acuerdos con actores claves / año
+· N° de talleres y/o reuniones de trabajo / año
+Relación con otros instrumentos
+La iniciativa se desarrolla en el marco de la campaña Chiloé Reduce con el Fondo Nacional de Desarrollo Regional (FNDR) de Los Lagos.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 65
+
+--- Página 66 ---
+4.8 Reconocimiento e inclusión de las recicladoras
+y los recicladores de base
+Esta iniciativa tiene como característica el reconocimiento del trabajo de las recicladoras y los recicla- · La Municipalidad de Cabo de Hornos 60 , aprobó un convenio entre el municipio y el reciclador de base
+dores de base, como también su integración a los modelos de circularidad a nivel municipal. de la comuna, para que éste impulsará la economía circular dentro de la comuna, en base a la educa-
+ción ambiental, la reutilización y la elaboración de nuevos productos con los residuos reciclables de
+· La Municipalidad de Carahue 58 , ha integrado a la recuperación de materiales en punto limpio, un la comuna. Esta iniciativa contribuye a reducir (R2), reusar (R3), reciclar (R8) y recuperar (R9).
+sistema de recolección puerta a puerta operado por recicladoras y recicladores de base. Esta ini-
+ciativa contribuye a reducir (R2), reusar (R3), reciclar (R8) y recuperar (R9). · En la Municipalidad de Copiapó 61 , existe un proyecto para la construcción de un centro de acopio
+de residuos operado por recicladores de base, quienes fomentarán la sensibilización ciudadana para
+· La Municipalidad de El Monte 59 , en el marco de su Estrategia Comunal de Reciclaje, ha facilitado aumentar la separación en origen de este tipo de residuos.
+la acreditación de recicladoras y recicladores, maximizando su presencia en la red de recuperación
+de materiales en el territorio comunal. Esta iniciativa contribuye a reducir (R2), reusar (R3), reciclar
+(R8) y recuperar (R9).
+60 Municipalidad de Cabo de Hornos (2022). Decreto N°347 (16.08.2022). Aprueba convenio entre el reciclador de base don Igor
+58 Municipalidad de Carahue (2021). Carahue avanza en reciclaje de la basura. Link: http://bit.ly/3F28h0V. Bely y la Ilustre Municipalidad de Cabo de Hornos. Link: https://bit.ly/3ZoaDiM.
+59 Ministerio del Medio Ambiente (2019). Comuna El Monte: Una experiencia exitosa municipal en el manejo de los residuos. Link: 61 Municipalidad de Copiapó (2021). Copiapó tendrá su primer centro municipal de acopio de residuos reciclables. Link: http://bit.
+http://bit.ly/3ZAXEdc. ly/3Zob1Og.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 66
+
+--- Página 67 ---
+A continuación, se entrega mayor detalle del ejemplo de la Municipalidad de Copiapó:
+CENTRO DE ACOPIO MUNICIPAL CON OPERACIÓN DE RECICLADORES DE BASE
+Comuna: Copiapó
+Año: 2021
+Tipo R: Reducir (R2), Reusar (R3), Reciclar (R8) y Recuperar (R9)
+Descripción de la experiencia
+En este municipio existe un proyecto para la construcción de un centro de acopio de residuos operado por recicladores de base,
+los cuales contarán con equipamiento para el pretratamiento de residuos de envases y embalajes, y fomentarán la sensibiliza-
+ción ciudadana para aumentar la separación en origen de este tipo de residuos, mediante el retiro puerta a puerta.
+Impacto de la iniciativa
+Recolección de residuos sólidos de 1.365 viviendas de la comuna, entregando fuentes de trabajo e inclusión a los recicladores de base de la comuna.
+Algunos indicadores para medir el impacto
+· N° de recicladores(as) de bases activos(as) / año
+· kg de residuos recolectados / año
+· $ / kg ingreso por kg comercializado
+Relación con otros instrumentos
+La iniciativa se desarrolla en el marco del Fondo para el Reciclaje Exequiel Estay - Recicladores de Base del año 2020, en el marco de la implementación de la Ley 20.920.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 67
+
+--- Página 68 ---
+4.9 Infraestructura y equipamiento local
+para la economía circular
+Este tipo de iniciativa reconoce la provisión y existencia de infraestructura, equipamiento y servicios a escala · La Municipalidad de Cochrane 67 , actualmente inició proceso de licitación y construcción de una
+comunal, para optimizar los procesos de máxima circularidad, ello incluye puntos de recepción, centros de planta de compostaje en reactores tipo túneles, contribuyendo así a reducir (R2) y reciclar (R8).
+acopio, centros de distribución, plantas de reciclaje y/o compostaje y bancos de alimentos y materiales.
+· La Municipalidad de Concepción 68 , ha implementado iniciativas para el compostaje comunitario,
+4.9.1 RESIDUOS DE ALIMENTOS donde, a través de un espacio urbano reducido, es posible procesar los residuos de alimentos para su
+Los ejemplos para residuos de alimentos son variados y dependen de su configuración y escala. El com- transformación en un material estabilizado. Esta iniciativa contribuye a reducir (R2) y reciclar (R8).
+postaje domiciliario, se encuentra bastante extendido y existen experiencias en diversas comunas del
+país, se detallan algunas experiencias a continuación: · La Municipalidad de Ñuñoa 69 , a partir de un punto de almacenamiento móvil (que pasa un día de la
+semana en específico), permite la recepción de residuos orgánicos generados en los restaurantes,
+· La Municipalidad de La Pintana 62 , de Santa Juana 63, 64, 65 y Futaleufú 66 han implementado plantas los cuales son transportados a planta de compostaje privada. Esta iniciativa contribuye a reducir
+de compostaje con volteo manual, contribuyendo así a reducir (R2) y reciclar (R8). (R2) y reciclar (R8).
+· La Municipalidad de Cerro Navia 70 cuenta con un «Banco de Alimentos» que permite la entrega
+de los alimentos a vecinos y vecinas más vulnerables de la comuna.
+62 Municipalidad de La Pintana (2020). La Pintana Líder Nacional en Reciclaje. Link: http://bit.ly/3JhVzNV.
+63 Ilustre Municipalidad de Santa Juana (2019). Planta de manejo de residuos domiciliarios. Link: http://bit.ly/3msX3fh.
+64 Diario Concepción (2022). Compostaje en Santa Juana: reduce un 58% de basura orgánica de sus vecinos. Link: http://bit. 67 Ministerio de Desarrollo Social (2023). Construcción Centro de Gestión de Residuos Sólidos Cochrane - Tortel (BIP 30392925-0).
+ly/3mwnoJz. 68 Diario Concepción (2021). Parque Cerro Caracol trabajará junto a vecinos en la nueva compostera comunitaria. Link: http://bit.
+65 Se puede consultar proceso de consultoría de diseño de Centro de Gestión de Residuos (incluyendo planta de compostaje) en ly/3ZHMAen.
+ID 3947-239-LE17 de Mercado Público. En tanto la construcción de obras de dicha infraestructura puede consultarse en ID 69 Municipalidad de Ñuñoa (2023). Municipalidad de Ñuñoa traslada residuos orgánicos de restaurantes a planta de tratamiento.
+3947-194-LR16 de Mercado Público. Link: https://bit.ly/3SQc8Ul.
+66 GAIA (2021). Sistema integral de manejo de residuos: La experiencia de Futaleufú. Link: https://bit.ly/3Zr3UEy. 70 Municipalidad de Cerro Navia (2022). Banco de alimentos. Link: http://bit.ly/420PRYe.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 68
+
+--- Página 69 ---
+A continuación, se entrega mayor detalle de la experiencia de la Municipalidad de Cerro Navia:
+MANEJO DE PÉRDIDAS Y DESPERDICIOS DEL MERCADO LO VALLEDOR
+Comuna: Cerro Navia
+Año: 2021
+Tipo R: Reducir (R2) y Reciclar (R8)
+Descripción de la experiencia
+El municipio cuenta con un «Banco de Alimentos», el cual sistematiza la búsqueda de proveedores gratuitos de produc-
+tos, para recolectarlos, almacenarlos, y hacer la entrega a vecinos y vecinas más vulnerables de la comuna. Los alimen-
+tos que no son aptos para el consumo humano se donan a huertos comunitarios o a granjas para el consumo animal.
+Impacto de la iniciativa
+Se han recuperado 574.073 kg en 2020, entregando 3.827.153 raciones de comida, beneficiando a familias de escasos recursos, personas en situación de calle, niños, niñas y adolescentes y adultos mayores.
+Además, se realizaron ollas comunes para las familias afectadas económicamente a consecuencia de la pandemia.
+El Programa de Materia Orgánica para Alimento Animal, mensualmente permite evitar que 400 toneladas de residuos lleguen a disposición final. Esto equivale aproximadamente a 20.000 fardos de alimento
+para animales.
+Algunos indicadores para medir el impacto
+· kg / año de alimentos evitados a disposición final
+· kg /año de residuos de alimentos recuperados / reciclados / compostados
+Relación con otros instrumentos
+Se realiza en conjunto con la Fundación Banco de Alimentos Lo Valledor y empresa MegAmbiente, los cuales colaboran con el Programa de Residuos Orgánicos del municipio y Programa de Materia Orgánica
+para Alimento Animal.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 69
+
+--- Página 70 ---
+4.9.2 RESIDUOS DE PARQUES Y JARDINES CENTRO DE COMPOSTAJE EN VIÑA DEL MAR
+En todos los casos mencionados en el punto anterior, también existe integración de
+Comuna: Viña del Mar
+residuos de parques y jardines, que permite lograr un proceso de compostaje mucho
+más estable y un resultado material de mejor calidad.
+Año: 2019
+· En las Municipalidades de Quintero 71 y Viña del Mar 72 , el proceso de compos-
+taje de este tipo de residuos es prioritario, siendo exigible que los residuos ge- Tipo R: Reducir (R2) y Reciclar (R8)
+nerados sean sometidos a procesos de valorización. Esta iniciativa contribuye a
+reducir (R2) y reciclar (R8).
+Descripción de la experiencia
+A continuación, se detalla la experiencia de la Municipalidad de Viña del Mar: Anualmente ingresan 196 toneladas de material vegetal leñoso resul-
+tante de la poda invernal de las especies arbóreas de la comuna, el cual
+es triturado mediante una máquina chipeadora.
+El proceso de compostaje se realiza en pilas estáticas con volteo ma-
+nual. Cada pila de compostaje recibe un riego semanal uniforme de 0,5
+m 3 , por lo que la producción de lixiviados es mínima. En total existen 65
+pilas de compost con un promedio de maduración entre 6 y 12 meses.
+Impacto de la iniciativa
+El compost maduro es usado como sustrato en plantas producidas en el vivero municipal y también para mejorar sue-
+los de las distintas plazas con mantención municipal. La producción total de compost es de aproximadamente 400 m3
+y permite al municipio un ahorro total estimado de $104 millones de pesos al año.
+Algunos indicadores para medir el impacto
+· kg / año de residuos de parques y jardines evitados a disposición final
+· kg / año de residuos de parques y jardines reciclados / compostados
+Relación con otros instrumentos
+71 Municipalidad de Quintero (2021). Programa de compostaje Municipal. Link: https://bit.ly/3mx3AFE.
+Se desarrolla dentro del marco del Programa de Compostaje Comunal.
+72 Municipalidad de Viña del Mar (2021). Centro de compostaje comunal. Revista Sentidos Comunes. Pag.
+10. Link: https://bit.ly/3YrZagy.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 70
+
+--- Página 71 ---
+4.9.3 RESIDUOS DE CONSTRUCCIÓN RESIDUOS DE CONSTRUCCIÓN EN EL RELLENO SANITARIO DE LA MUNICIPALIDAD DE CALDERA
+En esta tipología de residuos se busca establecer sitios de disposición final que sean
+de uso exclusivo para estos residuos. Comuna: Caldera
+· La Municipalidad de Caldera tiene en sus instalaciones de disposición final, Año: No hay fecha de inicio de la instalación, en
+73, 74
+2022 comienza a regir la ordenanza de cobro por
+un lugar en particular para los residuos inertes voluminosos relacionados a resi-
+disposición.
+duos de la construcción, evitando la generación de vertederos ilegales de estos.
+Tipo R: Reducir (R2)
+A continuación, se entrega mayor detalle de la experiencia de la Municipalidad de
+Caldera:
+Descripción de la experiencia
+El municipio en sus instalaciones de disposición fi-
+nal, cuenta con un sector de disposición de residuos
+inertes voluminosos relacionados a residuos de la
+construcción, de esta forma, se evita la generación
+de vertederos ilegales para la disposición de los re-
+siduos de construcción particularmente.
+Impacto de la iniciativa
+Los residuos de construcción y demolición contribuyen al problema de los vertederos o microbasurales en los territo-
+rios, siendo difícil de controlar y fiscalizar, por lo que iniciar con el mínimo control de éste, es un punto de partida para
+la mejora en su gestión y valorización en el tiempo.
+Algunos indicadores para medir el impacto
+· kg / año de residuos de la construcción evitados a disposición final
+· kg / año de residuos de reconstrucción reciclados / reutilizados
+73 Municipalidad de Caldera (2022). Ordenanza de cobros por permisos, concesiones y servicios munici-
+pales. Link: https://bit.ly/3SQQtvk. Relación con otros instrumentos
+Programas de reciclaje y recolección de residuos municipales.
+74 Servicio de Evaluación Ambiental (2012). Resolución de Calificación Ambienta N°128 (14.06.2012).
+Link: https://bit.ly/3Foow8L.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 71
+
+--- Página 72 ---
+4.9.4 RESIDUOS ELÉCTRICOS Y ELECTRÓNICOS · En la Municipalidad de Melipilla 77 , existe un convenio con la Fundación Chilenter, donde la mu-
+En estos residuos se reconoce la provisión de infraestructura, equipamiento y servicios para optimizar nicipalidad hará entrega periódicamente de aparatos eléctricos y electrónicos, como computa-
+los procesos de máxima circularidad de residuos eléctricos y electrónicos. dores o impresoras, para que se realicen reacondicionamiento o valorización según su estado de
+conservación o nivel tecnológico. Esta iniciativa contribuye a reducir (R2), remanufacturar (R6),
+· La Municipalidad de San Fernando 75 , en colaboración con la Fundación Recyclápolis, entrega reutilizar (R7) y reciclar (R8).
+equipamiento para la recepción de este tipo de residuos, a distintas instituciones públicas muni-
+cipales, como la Biblioteca Municipal, el CESFAM, Corporación Municipal, DIDECO, o el Polidepor- · Las Municipalidades de Recoleta, Quilicura, Pudahuel y Huechuraba 78 , en conjunto con Pañiwe,
+tivo. Esta iniciativa contribuye a reducir (R2), remanufacturar (R6), reutilizar (R7) y reciclar (R8). empresa de reciclaje y gestión de residuos eléctricos y electrónicos, han implementado campanas
+de recepción de estos aparatos, para que, posteriormente sean procesados en las instalaciones
+· La Municipalidad de Peñalolén 76 , realizó un Operativo de Reciclaje de Aparatos Eléctricos y Elec- de la empresa. Esta iniciativa contribuye a reducir (R2), remanufacturar (R6), reutilizar (R7) y re-
+trónicos, donde se instalaron 5 puntos de reciclaje para este tipo de residuos, mientras que para apa- ciclar (R8).
+ratos con mayor voluminosidad, se instauró el retiro domiciliario de estos. Esta iniciativa contribuye
+a reducir (R2), remanufacturar (R6), reutilizar (R7) y reciclar (R8).
+75 Diario VI Región (2017). Fundación Recyclápolis y Entel lanzan campaña de reciclaje electrónico en San Fernando. Link: http:// 77 Municipalidad de Melipilla (2022). Decreto N°153 (25.01.20229) que aprueba convenio de colaboración que indica. Link:
+bit.ly/3ZOMi5z. http://bit.ly/3ZtvzF8.
+76 Municipalidad de Peñalolén (2021). Exitoso operativo de reciclaje fomenta el emprendimiento y el combate al cambio climá- 78 Municipalidad de Quilicura (2021). Inauguramos una nueva campaña de reciclaje para residuos eléctricos y electrónicos. Link:
+tico. Link: https://bit.ly/3ygWhEM. http://bit.ly/3ZoVmOD.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 72
+
+--- Página 73 ---
+A continuación, se detalla la experiencia de la Municipalidad de Quilicura:
+RECICLAJE DE APARATOS ELÉCTRICOS Y ELECTRÓNICOS EN LA MUNICIPALIDAD DE QUILICURA
+Comuna: Quilicura
+Año: 2022
+Tipo R: Reducir (R2), Remanufacturar (R6), Reutilizar (R7) y Reciclar (R8).
+Descripción de la experiencia
+Quilicura es la cuarta comuna en inaugurar una campana para residuos eléctricos y electrónicos. Además, se capacitará a los y las recicladores de base de
+la comuna para la incorporación de este método y fomentar la transición hacia la economía circular.
+En cuanto al financiamiento, costos y personal, según fuentes municipales se indica que, al tener un convenio con un particular, el municipio solo facilita
+espacios para las instalaciones de las campanas de recolección y almacenamiento de los residuos eléctricos y electrónicos.
+Impacto de la iniciativa
+Los residuos eléctricos y electrónicos cada vez toman mayor interés por ser reconocido como producto prioritario en la Ley 20.920, además de lograr contribuir al cumplimiento de diferentes Rs de la econo-
+mía circular.
+Algunos indicadores para medir el impacto
+· kg de residuos de aparatos eléctricos y electrónicos (RAEE) recolectados/año
+· kg / año de RAEE evitados a disposición final
+· kg / año de RAEE reciclados / reutilizados / remanufacturados
+Relación con otros instrumentos
+La iniciativa se relaciona con una cooperación mediante convenio.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 73
+
+--- Página 74 ---
+4.9.5 RESIDUOS DE ENVASES Y EMBALAJES PLANTA DE RECICLAJE Y TRATAMIENTO DE RESIDUOS EN LA COMUNA DE SANTA JUANA
+Ejemplos de recuperación de este tipo de residuos es variada, ya que existen múl- Comuna: Santa Juana
+tiples experiencias locales de puntos limpios que permiten almacenar y pretratar
+Año: 2019
+diferentes tipos de envases y embalajes, ya sea con inversión pública o a través de
+asociación con privados. Tipo R: Reducir (R2) y Reciclar (R8)
+Descripción de la experiencia
+· Las Municipalidades de El Monte 79 , Gorbea 80 y Maipú 81 cuentan con un sistema
+La municipalidad logró la instalación de una planta de reciclaje
+donde la recolección puerta a puerta la realizan las recicladoras y los recicladores y compostaje, ubicada a sólo 10 km al este del centro urbano de
+de base. Estas iniciativas contribuyen a reducir (R2) y reciclar (R8). Santa Juana, entregando contenedores al 70% de las viviendas
+de la comuna.
+· La Municipalidad de Santa Juana 82 , a través de recolección puerta a puerta, ha La planta fue diseñada para recibir el 50% de los residuos ge-
+conseguido altas tasas de recolección selectiva, instaló una planta de reciclaje nerados en la comuna. Cuenta con una báscula al ingreso para
+poder realizar el pesaje de los residuos recolectados. Una vez
+y compostaje, diseñada para recibir el 50% de los residuos generados en la co-
+pesados, son transportados al galpón de acopio y tratamiento
+muna. de envases y embalajes.
+Los residuos reciclables son segregados manualmente por un
+A continuación, se presenta mayor detalle de la experiencia en la Municipalidad de
+equipo de entre dos y cuatro personas, según categoría. El plás-
+Santa Juana: tico se separa según tipo, entre PET, otros plásticos reciclables y
+otros plásticos descartables. El proceso de separación por tipo
+demora entre tres a cuatro días, para luego proceder al enfarda-
+do, que demora tres días.
+Impacto de la iniciativa
+Se destaca esta experiencia, ya que la gestión de residuos de envases y embalajes se realiza de manera integrada en
+79 Ministerio del Medio Ambiente (2019). Comuna El Monte: Una experiencia exitosa municipal en el manejo
+un espacio físico que, además, incluye el proceso de compostaje de residuos orgánicos.
+de los residuos. Link: https://bit.ly/3ZAXEdc.
+80 Municipalidad de Gorbea (2020). Estrategia ambiental comunal de Gorbea 2020-2021. Link: https://bit. Algunos indicadores para medir el impacto
+· kg / año de residuos de envases y embalajes evitados a disposición final
+ly/3yd83jE.
+· kg / año de residuos de envases y embalajes reciclados
+81 Ministerio del Medio Ambiente (2021). En Maipú lanzan proyecto del Fondo para el Reciclaje que per-
+mitirá a los Recicladores de la comuna capacitar a sus vecinos y fortalecer su gestión. Link: http://bit.
+Relación con otros instrumentos
+ly/3L0ULOT.
+Se relaciona y financia con el Fondo Nacional de Desarrollo Regional (FNDR).
+82 GAIA (2021). Estudio de caso: Estrategia Basura Cero en Santa Juana. Link: https://bit.ly/3mrpudA.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 74
+
+--- Página 75 ---
+4.10 Incentivos e información para la separación
+de residuos en origen
+Esta iniciativa corresponde a incentivos generados desde el municipio para promover la separación de re- · La Municipalidad de Futaleufú 85 , cuenta con una ordenanza municipal para que los habitantes
+siduos en su origen. Estos incentivos pueden ser regulatorios, operativos, económicos o sociales. Algunos realicen la separación de sus residuos domiciliarios, existiendo fiscalizadores con rutas estratégi-
+ejemplos son la entrega de equipamiento domiciliario: composteras, vermicomposteras o contenedores cas para acompañar en la recolección semanal y para promover el cumplimiento de la separación
+de almacenamiento de residuos. en origen. El incumplimiento reiterado, o el mal uso de los contenedores, lleva a multas que son
+calificadas de leves a gravísimas. La iniciativa contribuye principalmente a reciclar (R8).
+· La Municipalidad de Ancud 83 , a través de una ordenanza municipal, establece la prohibición que
+cartones voluminosos de origen comercial sean destinados a disposición final, debiendo ser entre-
+gados a recicladores de base para su recuperación, los cuales hacen entrega de una certificación · La Municipalidad de Cabo de Hornos 86 , realizó la entrega de 200 composteras a domicilios de la
+al comercio que comprueba el cumplimiento de la separación en origen y su posterior manejo. La ciudad de Puerto Williams, entregando información sobre el proceso y los tipos de residuos orgá-
+iniciativa contribuye principalmente al reciclaje (R8). nicos que deben ser separados. Adicionalmente, se cuenta con composteras en el invernadero de
+la maestranza municipal, donde se dispondrá precompost, para realizar el tratamiento final. La ini-
+· La Municipalidad de Ñuñoa 84 deja exento de permiso al transporte de los residuos que sean des- ciativa contribuye principalmente a reciclar (R8).
+tinados a puntos limpios, o lugar habilitado para el reciclaje doméstico, tales como: botellas plás-
+ticas, latas de aluminio, botellas de vidrio, cartones o papel, siempre que estos sean transportados · La Municipalidad de Vallenar presentó el proyecto «Programa piloto de separación en origen y
+en vehículos motorizados para el transporte particular de personas, de esta forma, fomentar la retiro selectivo con la inclusión de recicladores de base para potenciar el reciclaje en la comuna
+separación en origen. La iniciativa contribuye principalmente a reciclar (R8). de Vallenar».
+83 Municipalidad de Ancud (2019). Decreto 4302 (31.12.2019) modifica ordenanza sobre medio ambiente, aseo y ornato comu-
+nal. Link: https://bit.ly/3KXTbgD. 85 GAIA (2021). Sistema integral de manejo de residuos: La experiencia de Futaleufú. Link: https://bit.ly/3Zr3UEy.
+84 Municipalidad de Ñuñoa (2016). Decreto 1817 (01.12.2016) aprueba ordenanza municipal N°38 que regula la autorización 86 Municipalidad de Cabo de Hornos (2019). Informe proyecto de compostaje y reciclaje para la ciudad de Puerto Williams. Link:
+para el transporte de basuras, desechos, escombros o residuos de cualquier tipo. Link: https://bit.ly/3Zq3RZM. https://bit.ly/3mxci76.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 75
+
+--- Página 76 ---
+A continuación, se detalla la experiencia de la Municipalidad de Vallenar:
+PROGRAMA PILOTO DE SEPARACIÓN EN ORIGEN Y RETIRO SELECTIVO CON LA INCLUSIÓN DE RECICLADORES DE BASE 87
+Comuna: Vallenar
+Año: 2022
+Tipo R: Reciclar (R8)
+Descripción de la experiencia
+Se ejecutó el proyecto «Programa piloto de separación en origen y retiro selectivo con la
+inclusión de recicladores de base para potenciar el reciclaje en la comuna de Vallenar», el
+cual consiste en mejorar el sistema de reciclaje comunal. Incluye la entrega de kits de reci-
+claje para residuos inorgánicos como plástico, papel, cartón, entre otros, y de composteras
+para residuos orgánicos, y de esta forma fomentar y promover la separación de los tipos de
+residuos en origen.
+El programa abarcó una cobertura de 50 hogares de la Villa Pablo Neruda, de Vallenar, con la
+inclusión de recicladores de base que actuarán como monitores para educar y sensibilizar a
+la comunidad, lo que amplía el impacto de varios actores claves de la comuna.
+Impacto de la iniciativa
+La separación en origen es fundamental para asegurar el éxito del reciclaje o gestión posterior del residuo, incluyendo a la ciudadanía en el proceso de educación, uso correcto
+de los diferentes contenedores, y cumplimiento de los horarios, rutas o tipos de residuos recolectados en la estrategia comunal.
+Algunos indicadores para medir el impacto
+· kg de residuos de envases y embalajes evitados de disposición / año
+· kg de residuos de envases y embalajes reciclados / año
+87 Ministerio del Medio Ambiente
+· kg de residuos recolectados por tipo de material / año
+(2022). 25 millones de pesos para
+proyecto de reciclaje que incluye
+Relación con otros instrumentos a recicladores y recicladoras de
+Se relaciona con el Fondo para el Reciclaje 2022 Exequiel Estay.
+base de Vallenar. Link: http://bit.
+ly/3kOxc0Q.
+S ección 4 Experiencias de Economía C ircular a nivel municipal 76
+
+--- Página 77 ---
+SECCIÓN 5
+Caja de
+herramientas
+77
+
+--- Página 78 ---
+A. CATASTRO DE EXPERIENCIAS CIRCULARES 1. Nombre de la experiencia
+Use la siguiente herramienta para la caracterización de
+experiencias circulares vigentes en la comuna. Es im-
+portante tener la mayor claridad posible de cada ítem,
+para reconocer si la experiencia puede ser replicada o 2. ¿Qué acciones considera la experiencia?
+ampliada, o incluso servir de ejemplo para otras accio-
+nes circulares a planificar. Considere la aplicación de la
+herramienta considerando información primaria del res-
+ponsable o promotor de la iniciativa. 3. ¿Qué ha motivado el impulso de esta acción?
+4. ¿Hacia dónde se dirige la Circularidad municipal Circularidad productiva Circularidad ciudadana
+experiencia?
+5. ¿Quiénes son…? Los impulsores Los colaboradores Los destinatarios
+6. ¿Qué barreras y dificultades hay/hubo en el proceso? ¿Cómo se han resuelto?
+7. ¿Qué resultados se han obtenido? (datos cualitativos y cuantitativos)
+8. Nivel de replicabilidad Alto Medio Bajo
+S ección 5 Caja de herramientas 78
+
+--- Página 79 ---
+¿Qué sectores económicos tienen más peso en la economía local?
+(tamaño de ventas y número de empleos/puesto de trabajo)
+B. SELECCIÓN DE SECTORES ECONÓMICOS
+PRIORITARIOS (SECTORES SII) ¿Qué sectores económicos de la comuna tienen un mayor potencial de circularidad?
+(señale con una X las características que describan cada sector)
+Utilice esta herramienta para reconocer los sectores
+1. Uso intensivo de recursos
+económicos de mayor potencial de circularidad en la 2. Generación alta de residuos
+comuna. Es recomendable que su uso este acompañado 3. Impactos ambientales evidentes
+4. Existencia de un clúster o asociación de empresas
+por la participación de la mayor cantidad de actores
+5. Presentan iniciativas vigentes de circularidad
+clave y comunidad interesada. Considere establecer 6. Comuna posee dependencia económica del sector
+un consenso antes de dar por finalizada la selección
+Actividad 1 2 3 4 5 6
+respectiva. Esta herramienta es recomendada de manera
+Agricultura, ganadería, silvicultura y pesca
+particular, cuando en la comuna exista un nivel de
+Explotación de minas y canteras
+desarrollo productivo claramente reconocible o bien
+Industria manufacturera
+cuando exista una diversidad de sector económicos. No
+Suministro de electricidad, gas, vapor y aire acondicionado
+obstante, si aquello no es el caso, es recomendable usar
+Suministro de agua, evacuación de aguas residuales, gestión de desechos y descontaminación
+la herramienta siguiente.
+Construcción
+Comercio al por mayor y al por menor, reparación de vehículos automotores y motocicletas
+Transporte y almacenamiento
+Actividades de alojamiento y de servicio de comidas
+Información y comunicaciones
+Actividades financieras y de seguros
+Actividades inmobiliarias
+Actividades profesionales, científicas y técnicas
+Actividades de servicios administrativos y de apoyo
+Administración pública y defensa, planes de seguridad social de afiliación obligatoria
+Enseñanza
+Actividades de atención de la salud humana y de asistencia social
+Actividades artísticas, de entretenimiento y recreativas
+Otras actividades de servicios
+Actividades de los hogares como empleadores, actividades no diferenciadas de los hogares
+Actividades de organizaciones y órganos extraterritoriales
+Indique la cantidad de actividades que considera cada una de las características
+S ección 5 Caja de herramientas 79
+
+--- Página 80 ---
+¿Qué sectores económicos tienen más peso en la economía local?
+(tamaño de ventas y número de empleos/puesto de trabajo)
+C. SELECCIÓN DE SECTORES ECONÓMICOS
+PRIORITARIOS (SECTORES GENERALES)
+Utilice esta herramienta para determinar los sectores
+claves de la circularidad que pudieran tener mayores
+potencialidades para la transición. Puede usar de manera
+¿Qué sectores económicos de la comuna tienen un mayor potencial de circularidad?
+alternativa esta herramienta, o bien de manera combi-
+(señale con una X las características que describan cada sector)
+nada con la de la sección previa. Es recomendable que
+1. Uso intensivo de recursos
+su uso este acompañado por la participación de la mayor
+2. Generación alta de residuos
+cantidad de actores claves y comunidad interesada. Con-
+3. Impactos ambientales evidentes
+sidere establecer un consenso antes de dar por finalizada
+4. Existencia de un clúster o asociación de empresas
+la selección respectiva. 5. Presentan iniciativas vigentes de circularidad
+6. Comuna posee dependencia económica del sector
+Actividad 1 2 3 4 5 5
+Medio construido (espacio urbano)
+Bienes de consumo (textiles, eléctricos, electrónicos, muebles u otros)
+Alimentos (producción, venta y consumo)
+Manufactura (micro, pequeña, mediana o gran empresa)
+Movilidad y transporte
+Gestión de residuos y materiales
+Gestión de agua potable y aguas residuales
+Otros:
+Indique la cantidad de actividades que considera cada una de las características
+S ección 5 Caja de herramientas 80
+
+--- Página 81 ---
+D. IDENTIFICACIÓN DE ACCIONES CIRCULARES 1. Acción N°
+Use esta ficha para identificar las acciones circulares
+que propondrán los diversos actores participantes del
+diseño de la estrategia local. Considere que este conte-
+2. Nombre de la acción
+nido será el respaldo que permitirá el proceso de prio-
+rización posterior.
+3. Proponente de la acción
+4. Explicación de la acción
+5. ¿A qué metas y objetivos contribuye?
+6. ¿Contribuye a las iniciativas de la Hoja de Ruta para un Chile Circular al 2040? ¿A cuál de ellas?
+7. ¿Existe financiamiento 8. ¿Qué plazos considera 9. ¿Qué hitos tendría la 10. ¿Quiénes serían los
+asociado? ¿Cuánto estima se la acción? acción? responsables de
+requiere? su ejecución?
+S ección 5 Caja de herramientas 81
+
+--- Página 82 ---
+E. PRIORIZACIÓN DE ACCIONES CIRCULARES Nombre de la Impacto sobre las Nivel de jerarquía de Contribución Nivel de Existencia de
+Emplee esta herramienta para catastrar todas las acciones acción metas/objetivos la circularidad iniciativa de la integración de presupuesto
+Hoja de Ruta para actores (público,
+circulares que puedan surgir durante la planificación. La
+un Chile Circular privado y
+valoración de cada ítem debe ser propuesta por el actor al 2040 sociedad civil)
+que proponga la acción, para luego consensuarlo con el
+resto de los actores claves y comunidad interesada. Una Acción N°
+Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo
+vez realizada la valoración, aplique la puntuación señalada
+al final de la herramienta. Especial atención se debe tener
+para asegurar que las acciones seleccionadas permitan Acción N°
+cubrir el total de las metas y objetivos de la estrategia, Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo
+en caso contrario, se deberá proponer nuevas acciones
+hasta conseguir asegurar su cobertura. Acción N°
+Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo
+Acción N°
+Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo
+Acción N°
+Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo
+Acción N°
+Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo
+Acción N°
+Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo
+Acción N°
+Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo Alto Medio Bajo
+S ección 5 Caja de herramientas 82
+
+--- Página 83 ---
+Nivel de valoración Impacto sobre las metas/ Nivel de jerarquía de la Contribución iniciativa Nivel de integración de Existencia de presupuesto
+objetivos circularidad de la Hoja de Ruta para actores (público, privado
+un Chile Circular al 2040 y sociedad civil)
+La acción contribuye a un La acción contribuye al La acción considera la
+La acción contribuye a La acción tiene
+Alto cumplimiento igual o cumplimiento de más de integración de los tres tipos
+R0, R1 o R2 presupuesto total
+superior al 70% una iniciativa de actores
+La acción contribuye a un La acción contribuye al La acción considera la
+La acción contribuye a La acción tiene
+Medio cumplimiento menor a 70% cumplimiento de integración de dos tipos
+R3, R4, R5, R6 o R7 presupuesto parcial
+o mayor o igual al 40% una iniciativa de actores
+La acción contribuye La acción no contribuye al La acción considera la
+La acción contribuye a La acción debe gestionar
+Bajo a un cumplimiento cumplimiento de integración de un tipo
+R8 o R9 presupuesto con terceros
+menor del 40% una iniciativa de actor
+Cada ítem con valoración «Alto» recibirá tres (3) puntos, con valoración «Medio» recibirá dos (2) puntos, y con valoración «Bajo» recibirá un (1) punto. Al sumar la puntuación total de los cinco ítems
+se obtendrá el total para cada acción, lo que permitirá establecer un ranking. Este ranking debe ser compartido con los actores claves y comunidad interesada, e incluso de ser necesario sometido
+a discusión/consulta pública, para seleccionar sólo aquellas acciones que sean viables de ejecutar.
+S ección 5 Caja de herramientas 83
+
+--- Página 84 ---
+1. Nombre de la acción 2. Duración (inicio y término)
+Título o nombre referencial de la acción a planificar Mes y año estimado de inicio y término (si es que tuviese)
+F. ACCIONES A PLANIFICAR
+Emplee esta herramienta para reconocer todas las ca-
+3. Responsable principal 4. Responsable secundario o colaborador
+racterísticas de las acciones circulares priorizadas. Se
+Institución o empresa responsable de la acción, idealmente individualizando Institución o empresa colaboradora de la acción, idealmente individuali-
+debe ser absolutamente consciente que lo que aquí se
+cargo o persona zando cargo o persona
+establezca determinará la viabilidad de la iniciativa, como
+también su efectividad respecto a los objetivos y metas
+5. Institución técnica 6. Institución financiera
+planteadas en la estrategia.
+Institución o empresa que dirigirá técnicamente la acción Institución o empresa que aportará el financiamiento para la acción
+7. Aporte a meta u objetivo
+Identificación de la meta u objetivo de la estrategia local con la que se vincula la acción
+8. Recursos financieros
+Identificación de los recursos financieros necesarios para la acción (tangibles e intangibles). De ser necesario se requerirá la programación año a año, tanto de
+inversión, como operación/mantención.
+9. Regulaciones, normativas o trámites administrativos de dependencia
+Identificación de regulaciones a considerar y/o a crear de manera complementaria para asegurar viabilidad de la acción. Se incluye también la identificación de
+trámites administrativos que serán necesarios para la ejecución efectiva de la acción.
+10. Barreras para su implementación
+Identificación de barreras que pudieran dificultar la ejecución de la acción planificada (mercado, financieras, recursos humanos, políticas, territoriales, sociales,
+entre otras). Se debe incluir formas de abordaje para su control.
+11. Indicadores de evaluación y seguimiento
+Se debe plantear indicadores que permitan el seguimiento y control de cada acción planificada. Se deben plantear siempre indicadores que permitan cubrir las
+dimensiones económicas, ambientales y sociales.
+12. Relación con otras acciones
+Identificar relación de colaboración o dependencia con otras acciones planificadas.
+S ección 5 Caja de herramientas 84
+
+--- Página 85 ---
+G. IDENTIFICACIÓN DE CAPACIDAD INSTALADA 1. Nombre de la acción
+Use esta herramienta para analizar la capacidad insta-
+lada municipal que asegure la ejecución de las acciones
+circulares planificadas. Considere que una adecuada de-
+cisión en este sentido asegurará contar con el equipo y
+2. Identificación de competencias requeridas
+competencias adecuadas para el éxito de la estrategia.
+Se recomienda la aplicación de esta herramienta con la
+Tipo de competencia Acción requerida Área del requerimiento ¿Existe la competencia en ¿Es posible que asuma la
+participación y/o validación de las direcciones municipales (marcar con una X todas (residuos, agua, energía, el municipio? (identificar responsabilidad requeri-
+respectivas, quienes -en último caso- poseen la infor- las que sean necesarias) transporte, otro) cargo, funcionario/a y nú- da? ¿Por qué?
+mero de ellos)
+mación suficiente para determinar la existencia o no de
+las competencias y requerimientos que se establezcan.
+Dirección
+Planificación
+Técnica
+Control
+Operación
+Gestión
+3. ¿Qué acciones de contratación o formación serán necesarias para abordar los requerimientos identificados?
+S ección 5 Caja de herramientas 85
+
+--- Página 86 ---
+Ministerio del
+Medio
+Ambiente
+Goblemo de Chile
