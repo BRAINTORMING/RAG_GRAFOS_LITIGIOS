@@ -1,0 +1,2362 @@
+--- Página 1 ---
+“ Consultoría para construir una Hoja de Ruta
+de Economía Circular en Chile”
+I nforme de avance N°4:
+VISIÓN COMPARTIDA ESTRATÉGICA
+Ministerio de Medio Ambiente
+Licitación ID: 608897-71-LP19
+Revisión: 19 de agosto 2020
+
+--- Página 2 ---
+2
+
+--- Página 3 ---
+Abreviaciones y acrónimos
+ASCC Agencia de Sustentabilidad y Cambio Climático
+APL Acuerdo de Producción Limpia
+CORFO Corporación de Fomento de la Producción
+DMC Consumo Interno de Materiales (por sus siglas en inglés )
+EC Economía Circular
+ERNC Energía Renovable No Convencional
+FOAR Fortalezas, Oportunidades, Aspiraciones, Resultados
+GEI Gas de Efecto Invernadero
+KPIs Key Performance Indicator (Indicador de desempeño clave)
+REP Responsabilidad Extendida del Productor
+MMA Ministerio de Medio Ambiente
+NDC Nationally Determined Contributions (Contribuciones Determinadas a Nivel
+Nacional)
+ONG Organización No Gubernamental
+PIB Producto Interno Bruto
+RME Extracción Equivalente de Material (RME, por sus siglas en inglés)
+RRNN Recursos Naturales
+SINADER Sistema Nacional de Declaración de Residuos
+WtE Waste to Energy (Valorización energética)
+3
+
+--- Página 4 ---
+4
+
+--- Página 5 ---
+Contenidos
+I. Introducción ................................................................................................ ......................... 7
+A. Objetivos ................................................................................................ ......................... 7
+B. Definiciones ................................................................................................ ..................... 7
+II. Visión estratégica ................................................................................................ ................ 9
+A. Metodología ................................................................................................ .................... 9
+B. Resultados del taller 1 y redacción de la Visión Estratégica de la EC en Chile .................. 11
+C. Resultados del análisis FOAR (taller 2) ............................................................................ 13
+a. Foco “Obtención de recursos” ........................................................................................................ 13
+b. Foco “Producción” .......................................................................................................................... 14
+c. Foco “Consumo y servicios” ............................................................................................................ 16
+d. Foco “Gestión de residuos” ............................................................................................................ 18
+D. Conclusión de los talleres de construcción de la Visión Estratégica ................................. 20
+III. Indicadores y metas ........................................................................................................... 21
+A. Antecedentes para la definición de indicadores y metas................................................. 21
+B. Propuesta ...................................................................................................................... 24
+IV. Actividades ejecutadas a la fecha para la concreción de la Hoja de Ruta ............................ 31
+A. Encuesta ciudadana........................................................................................................ 31
+B. Reunión de revisión de la visión con Ladeja Godina ........................................................ 32
+C. Mesas temáticas ............................................................................................................ 33
+D. Estudio de Vigilancia Tecnológica ................................................................................... 35
+E. Taller de Paisaje Estratégico ........................................................................................... 38
+V. Conclusiones ...................................................................................................................... 42
+VI. Bibliografía ........................................................................................................................ 43
+VII. ANEXO ................................ ................................ ................................ ............................... 44
+A. Agendas de los talleres de visión 1 y 2 ............................................................................ 44
+B. Encuesta ciudadana........................................................................................................ 57
+C. Estudio de Vigilancia Tecnológica ................................................................................... 75
+
+--- Página 6 ---
+6
+[OCR omitido: la página tardó demasiado en leerse]
+
+--- Página 7 ---
+I. Introducción
+El presente documento corresponde al cuarto informe de la “Consultoría para construir una Hoja
+de Ruta de Economía Circular en Chile”, proyecto ejecutado por la Fundación Empresarial Eurochile
+para el Ministerio de Medio Ambiente (MMA). Esta introducción presenta el objetivo específico de
+este informe y define algunos conceptos que permiten entender mejor lo solicitado.
+A. Objetivos
+El objetivo general de la consultoría es construir una Hoja de Ruta de Economía Circular para Chile,
+que forme parte de la estrategia para adoptar un modelo de desarrollo sostenible en el país.
+Para alcanzar este objetivo, se han definidos los siguientes objetivos específicos:
+1) Identificar y caracterizar brechas y oportunidades, para adoptar la Economía Circular (EC).
+2) Construir la visión compartida de la Estrategia.
+3) Co-diseñar una hoja de ruta para alcanzar la visión compartida.
+4) Elaborar Plan de Acción para la implementación de la Hoja de Ruta.
+5) Elaborar Plan de Monitoreo de la implementación de la Hoja de Ruta.
+De acuerdo con las bases administrativas y técnicas de esta consultoría, este cuarto informe
+corresponde al objetivo 2, la construcción de la visión compartida de la Hoja de Ruta de Economía
+Circular (EC) para Chile.
+B. Definiciones
+Según las bases técnicas de la consultoría, la visión compartida se refiere a una mirada de futuro
+para Chile respecto de la EC, construida de forma consensuada por el Comité Estratégico.
+De forma más general, el concepto de visión estratégica hace referencia a la capacidad de percibir
+la realidad futura, componente de visión, para tratar de mejorarla. A esta visión se le debe sumar
+un plan de acción, componente de estrategia, para cumplir los objetivos visualizados.
+Según John Kotter (1988), una visión efectiva debiera contar con las siguientes 6 características:
+- Visualizable : que las personas puedan tener una imagen mental de cómo será el futuro
+- Deseable : genera motivación e interés en las personas que van a participar de ella
+- Alcanzable : abarca objetivos realistas y aplicables
+- Enfocada : suficientemente clara y explícita como para proporcionar orientación en la toma
+de decisiones
+- Flexible : suficientemente general como para permitir la existencia de alternativas y uso del
+criterio e iniciativa de los líderes a la luz de condiciones cambiantes
+- Comunicable : que sea fácil de transmitir; se puede explicar con éxito en 5 minutos
+7
+
+--- Página 8 ---
+En base a la visión estratégica se puede fijar fines a mediano y largo plazo y, en base a ellos, trazar
+un diseño de acción o, en este caso, una Hoja de Ruta, en base a los recursos con que se cuenta y el
+contexto socio-económico, político y tecnológico.
+En el marco de la Hoja de Ruta de EC, la co-construcción de una visión estratégica permite definir
+una suerte de brújula para apoyar la posterior identificación de las estrategias e iniciativas que
+tienen que conformar la Hoja de Ruta y Plan de Acción y, por lo tanto, es un elemento esencial del
+proceso.
+8
+
+--- Página 9 ---
+II. Visión estratégica
+Como se indicó previamente, la visión estratégica es la articulación entre el contexto actual, la
+percepción de una realidad futura y la definición de cómo queremos un futuro, siendo esta visión
+estratégica el elemento que da inicio a la Hoja de Ruta. A continuación, se presenta la metodología
+aplicada para y los resultados de la construcción de una visión estratégica de la Hoja de Ruta de EC
+para Chile, que sea compartida y consensuada entre los diversos actores que participan de su
+desarrollo y que permite entregar una guía para el futuro de la EC en Chile.
+A. Metodología
+Para la construcción compartida de la visión y adecuando la propuesta inicial a un formato que se
+adapte a su ejecución por vías digitales, se realizaron talleres mediante la plataforma Zoom que
+permitió la organización y realización de las reuniones programadas y la implementación de Miró,
+un tablero o pizarra virtual que facilita la recolección y organización de ideas de manera gráfica y
+didáctica. Se planificó dos talleres de una duración de 3 horas cada uno que fueron validados por el
+equipo del MMA en forma y contenido. Los talleres fueron realizados los días martes 9 y 16 de junio,
+con la asistencia de 29 participantes (todos miembros del Comité Estratégico), además del
+facilitador del taller, que estuvo encargado de dictar el taller, y de 6 facilitadores grupales, que
+fueron entrenados en las plataformas digitales y permitieron la coordinación de los trabajos en
+subgrupos.
+Con los dos talleres de visión, se busca construir, de forma compartida y consensuada, una Visión
+Estratégica que represente los distintos actores que forman parte del Comité Estratégico. Las
+agendas de ambas jornadas están disponibles en el Anexo A.
+La primera jornada se organizó en torno a 3 actividades grupales, según la secuencia de la figura 1.
+Se conformaron 6 grupos de 4/5 integrantes más un facilitador por grupo.
+- Actividad 1 (etapas 2 y 3 de la secuencia): Se pide a cada integrante del grupo contar una
+“historia personal de transformación positiva”. En base a cada historia y a una discusión con
+el resto del grupo, se identifican “conceptos claves de transformación” que se anotan en el
+tablero virtual.
+- Actividad 2 (etapa 4 de la secuencia): Se invita a todos los integrantes del grupo imaginar
+cuales son los "principales temas que la EC habrá resuelto en el mundo” al 2040, los cuales
+se anotan en el tablero virtual.
+- Actividad 3 (etapa 5 de la secuencia): En base a los “conceptos claves de transformación” y
+a los "principales temas que la EC habrá resuelto en el mundo”, todos los integrantes
+contribuyen a la redacción de dos frases que incorporan varios de los conceptos más
+importantes, según el grupo, que debieran aparecer en la visión.
+Al terminar esas 3 actividades y antes de cerrar la jornada, todos los grupos se volvieron a encontrar
+en el plenario y se expusieron todas las frases generadas, obteniendo un total de 12 frases. Estas
+frases se sometieron a votación por la totalidad de los presentes (miembros del comité estratégico
+y suplentes), donde se invitó a cada persona a votar por las 3 frases de su preferencia.
+9
+
+--- Página 10 ---
+Figura 1. Secuencia de trabajo en jornada 1 de la construcción de la Visión Estratégica. Fuente: Elaboración
+propia
+Al inicio de la segunda jornada, se presentó la redacción inicial de la Visión, elaborada en base a las
+12 frases generadas en la jornada anterior, para obtener retroalimentación del Comité Estratégico
+y recolectar observaciones.
+La actividad principal del segundo taller fue la realización de un análisis FOAR (Fortalezas,
+Oportunidades, Aspiraciones, Resultados) en tableros virtuales, según la secuencia que se observa
+en la figura 2. Para ese análisis, se dividieron los participantes en 6 grupos, en torno a los 4 focos de
+la Hoja de Ruta: obtención de recursos (1 grupo), producción (2 grupos), consumo y servicios (1
+grupo) y gestión de residuos (2 grupos).
+Un análisis FOAR es una adaptación de la conocida técnica FODA (Fortalezas, Oportunidades,
+Debilidades, Amenazas), con una variación de los conceptos:
+ Fortalezas, análisis presente e interno, el núcleo positivo, nuestros recursos, lo que
+hacemos bien, nuestras buenas prácticas, a lo que “podemos echar mano” para abordar los
+desafíos, aquello con lo que contamos para alcanzar nuestros objetivos.
+ Oportunidades , análisis presente y externo, problemas vistos como oportunidades de
+mejora, de revisión, desarrollo, innovación, optimización, etc. también responde a la
+pregunta ¿Qué están planteando las partes involucradas?
+ Aspiraciones , análisis futuro e interno, cuáles son nuestras aspiraciones, cuáles son las
+oportunidades que tomaremos, cuál es la visión de lo que queremos lograr, cuál es nuestro
+“estado deseado”, qué queremos que pase, cuál es nuestro sueño colectivo.
+ Resultados , análisis futuro y externo, Qué resultados esperamos, cuál será la medida de
+nuestro logro, qué datos necesitamos para estar seguros, cómo convertimos estos
+resultados en data para la toma de decisiones.
+10
+
+--- Página 11 ---
+Figura 2. Secuencia de trabajo en jornada 2 de la construcción de la Visión Estratégica. Fuente: Elaboración
+propia.
+En una etapa posterior a la jornada, se consolidaron los resultados obtenidos de los distintos análisis
+FOAR.
+A continuación, se presentan los resultados obtenidos en los talleres y luego del trabajo de
+consolidación de esos resultados.
+B. Resultados del taller 1 y redacción de la Visión Estratégica de la
+EC en Chile
+Como resultado final del taller 1, se obtuvieron 12 frases que identifican varios conceptos relevantes
+para la implementación de la EC en Chile, según los distintos grupos y que debieran quedar
+plasmados en la visión.
+A continuación, se presentan las frases por orden de votación (la primera siendo la frase que más
+votos obtuvo):
+1. Generar un cambio profundo, integrador y descentralizado que permita hacer un uso
+eficiente de los recursos para lograr un bienestar social y ambiental.
+2. Chile ha adoptado la EC generando un modelo competitivo y sustentable, con
+oportunidades y accesible para todos sin dejar a nadie atrás.
+3. El Estado, la industria y la ciudadanía se articulan exitosamente para disminuir residuos,
+racionalizar el uso de RRNN y impulsar la producción y consumo responsable.
+4. Educación, como clave para redefinir valor y alcanzar el equilibrio social-económico y
+ambiental en la administración de los recursos finitos y renovables
+5. La EC es una condición para alcanzar el desarrollo sostenible e inclusivo, la innovación y la
+generación de empleo digno.
+11
+
+--- Página 12 ---
+6. Se ha instalado un modelo cultural colaborativo de prevención, estandarización y
+racionalización basado en la ciencia.
+7. Con conciencia, voluntad y colaboración conseguimos una sociedad enfocada en el bien
+común y la regeneración.
+8. Los sistemas de transporte, consumo y producción han migrado a modelos regenerativos
+que habilitan la economía local, colaborativa y de ciclos cortos.
+9. La ética, la colaboración y el compromiso con las generaciones futuras, han permitido
+adoptar el modelo de EC, siendo más efectivos en el uso de los recursos con una mirada
+integral del ciclo de vida y la cadena de valor, contando con una población preparada y
+empoderada para asumir el desafío.
+10. Consumo inteligente, relacionado con personas empoderadas en elegir libremente e
+informadas, en conocimiento de que están pagando por los costos ambientales.
+11. Que todo lo que se diseñe y produzca debe ser circular, a través de la innovación, los
+residuos son error de diseño.
+12. Contar con una comunidad consciente y preocupada por el medio ambiente que utilice sus
+recursos de forma sustentable para un desarrollo económico basado en la circularidad de
+sus procesos, generando bienestar a todos sus habitantes (por error, no fue incluida en la
+votación ).
+A partir de estas 12 frases, se realizó un trabajo de consolidación para finalmente obtener una
+primera versión redactada de la Visión Estratégica, como sigue:
+“En el 2040, Chile es un país cuyo desarrollo sostenible está basado en un modelo de EC,
+caracterizado por la consciencia y responsabilidad en sus procesos productivos y hábitos de
+consumo.
+El país ha logrado equilibrar en todo su territorio, el uso efectivo y regenerativo de sus recursos
+naturales, con el bienestar social y económico de sus habitantes actuales y las futuras generaciones.
+La innovación constante ha dotado de inteligencia a todas las fases del proceso económico, desde
+la obtención de materias primas y la producción de bienes y servicios, hasta su posterior uso o
+consumo; privilegiando el ecodiseño, la sustentabilidad de los procesos y la eficiencia a lo largo de
+la cadena de generación de valor y reduciendo al mínimo los residuos no reciclables.
+Esto ha permitido a Chile mejorar su competitividad en los mercados globales, fortalecer las
+economías locales, crear fuentes de trabajo digno en diversas nuevas industrias y dar amplio acceso
+a oportunidades de inclusión social.
+El país ha alcanzado un nivel de educación socio-ambiental que empodera a la ciudadanía como un
+actor relevante que participa activamente en cada decisión adoptada.
+Estos cambios profundos son el fruto del compromiso y la colaboración entre el Estado, la sociedad
+civil, el sector privado y la academia.”
+12
+
+--- Página 13 ---
+C. Resultados del análisis FOAR (taller 2)
+Con el objetivo de rescatar los principales conceptos asociados a fortalezas actuales, oportunidades
+de avance, aspiraciones actuales y resultados esperados, se realizó durante la segunda jornada, un
+análisis FOAR en torno a los 4 focos de la Hoja de Ruta: Obtención de recursos, Producción, Consumo
+y servicios y Gestión de residuos. Como se describe en la metodología, los miembros de cada grupo
+de trabajo presentaron sus conceptos y fueron incorporados en torno a los focos asignados. Los
+resultados consolidados por foco se presentan a continuación, y pretenden servir como
+antecedentes para la construcción de las iniciativas impulsadas por esta hoja de ruta.
+a. Foco “Obtención de recursos”
+Fortalezas :
+ Existen indicios de avance hacia “minería urbana”.
+ Se aprecia cada vez más consciencia sobre la relevancia de los Recursos Naturales (RRNN)
+como base operativa para agricultura, silvicultura, etc.
+ En Energía hay muchos recursos renovables en todo el territorio y los estamos empezando
+a aprovechar.
+ Protocolos y estándares cada vez más exigentes (agricultura, compras sostenibles, cadena
+de valor, etc.).
+ Más consciencia ciudadana, más presión social sobre el uso de recursos y mayor incidencia
+política.
+ Ministerio de Ciencia y Tecnología visibiliza estos temas.
+ Más carreras y formación educacional enfocada en sostenibilidad, RRNN, etc. está
+generando profesionales más preparados para estos temas.
+ Creciente transparencia de las empresas (reportes de sustentabilidad) que dan cuenta de
+gestión de recursos, de residuos, etc.
+Oportunidades :
+ Aprender a aprovechar recursos renovables de manera sustentable ($$, RRNN,
+comunidades). Residuos secundarios como fuente de recursos.
+ Nuevas tendencias de consumo es oportunidad de mejorar desempeño ambiental. Existe
+alta atención mediática sobre la crisis climática.
+ Mayores requerimientos y protocolos más claros de mercados de alimentos incentivan
+avanzar hacia la sustentabilidad.
+ La posibilidad de potenciar transferencia tecnológica, en todos sentidos (academia a
+productores, entre países, etc.).
+ Oportunidad de mejorar comunicaciones con la ciudadanía. “Bajada” más social de
+información técnica.
+ Construir confianzas para que la transferencia tecnológica fluya mejor.
+ Identificación de modelos y tecnologías que sirven para avanzar en obtención de recursos
+más adecuada.
+ Aprender de los errores del pasado en la obtención de RRNN.
+ Aprovechar nuevos posibles avances en tecnología y ciencia. Que la ciencia contribuya a
+darle robustez a los sistemas productivos.
+ Mayor eficiencia energética y una transición justa y sustentable (hacerlo bien, hacerse cargo
+de pasivos ambientales en el camino).
+13
+
+--- Página 14 ---
+ Generación de oportunidades de emprendimiento en torno a la obtención de RRNN de
+manera sostenible.
+ Ordenamiento territorial que permita potenciar desarrollo en territorios.
+ Energías renovables en aplicaciones eléctricas.
+Aspiraciones
+ Se ha transitado hacia prácticas extractivas más respetuosas del medioambiente y
+comunidades.
+ Toda la energía de la matriz eléctrica 100% renovable al 2040 y, en consecuencia, es
+utilizada en todos los procesos productivos.
+ Existe una alta inversión pública y privada en medio ambiente y ciencia para estos temas.
+ Nos tomamos el tiempo para repensar la forma en que obtenemos los recursos que
+necesitamos.
+ La obtención de recursos naturales es más equilibrada, se usan de manera eficiente y con
+visión de largo plazo.
+ Se cuenta con líneas base e indicadores para entender dónde estamos y qué es lo óptimo.
+Resultados
+El grupo de trabajo no alcanzó a hacer una propuesta de resultados esperados, sin embargo, algunos
+de ellos pueden deducirse de las aspiraciones planteadas.
+Desde el análisis FOAR para el foco Obtención de resursos, llama la atención la importancia a la
+inversión en ciencia y la transferencia de nuevos conocimientos, tanto a la empresa, para la
+implementación de nuevas tecnologías, como a la ciudadanía, la que se muestra ejerciendo una
+presión producto de su mayor involucramiento en las temáticas de obtención de recursos.
+b. Foco “Producción”
+Fortalezas
+ Empresas de nivel mundial en magnitud de producción y exportación (minería,
+salmonicultura, forestal y construcción).
+ Ecosistema emprendedor bien posicionado en la región (hay una masa crítica) y las nuevas
+startups incorporan nuevas tecnologías y EC.
+ Ecosistema de innovación (emprendedores y academia), vinculándose cada vez con más con
+la actividad productiva.
+ Democratización de las tecnologías 4.0 (son más baratas que antes). Su adopción ya es más
+común.
+ Potente estrategia energética. Existe un alto desarrollo de las ERNC. Además, Chile cuenta
+con las industrias que permitirán la descarbonización de la economía.
+ La EC tiene aceptación en la industria. Se reconoce su valor y existe un gran potencial de
+producción renovable.
+ La sustentabilidad se está transformando en un atributo de valor (desde la Propuesta de
+Valor de la demanda y oferta).
+ El Estado está comprometido con la EC, por ejemplo, existe un fuerte apoyo de Corfo a la
+EC y se aprecia colaboración y alineación ministerial para temas “verdes”. Además, existe
+estabilidad institucional.
+14
+
+--- Página 15 ---
+ Nuevas políticas de fondos de inversión (canalizando hacia inversiones triple impacto
+positivo: socio-económico-ambiental).
+ Compromisos internacionales y metas País claras (NDC, Ley CC, Ley REP, carbono
+neutralidad) traccionan a la industria.
+ Varios acuerdos voluntarios público-privados como los APL (Acuerdos de Producción
+Limpia) que han ido preparando el camino hacia la circularidad.
+ Industrias tractoras (agroindustria, minería, entre otras) que permiten generar un nuevo
+modelo productivo y que están conscientes de su rol en estos desafíos.
+ Efecto “bola de cristal”, ya que tenemos la ventaja para ver qué es lo que funciona en otros
+países que han avanzado más rápido que nosotros, cuáles son las buenas prácticas, etc.
+Oportunidades
+ Propiciar el conocimiento y la generación de nuevos modelos de negocio circulares.
+ Desarrollo de cadenas de valor circulares en las industrias.
+ “Glocalización”: Incorporarse a cadenas de valor circulares globales y re-localizarlas cadenas
+de valor locales (necesidad exacerbada por la pandemia de Covid-19).
+ Posibilidad de diversificar y circularizar la industria chilena (por ejemplo, la industria
+minera).
+ Subir a Chile a la 4ª revolución industrial, incorporando tecnología y conocimiento (por
+ejemplo, avanzar en digitalización para la EC).
+ Establecer instrumentos y estándares de medición y reporte de la circularidad del sector
+productivo, por ejemplo, masificar el uso del Análisis de Ciclo de Vida.
+ Desarrollar y fortalecer regulaciones e incentivos para la producción circular, tales como
+impuestos a productos/procesos no circulares e incentivos económicos a elementos
+circulares (por ejemplo, eliminar IVA a servicios circulares).
+ Fomentar la inversión de impacto y el desarrollo de financiamiento verde ( venturecapital ).
+ Sinergia ente eficiencia productiva y circularidad entre distintos sectores
+ Generar simbiosis industrial (por ejemplo, energético-cementero, riles-insumos).
+ Gran espacio para generar normas y estándares de circularidad.
+ Traccionar la circularidad subiendo el costo de disposición final de residuos.
+ Implementación y ampliación de la Ley REP.
+ La EC es una vía principal de mitigación del cambio climático.
+ EC como fuente de creación de empleos de calidad accesibles.
+Aspiraciones
+ Chile se ha convertido en líder regional de producción circular.
+ La actividad productiva al volverse circular ha fortalecido la confianza de la ciudadanía en
+ella.
+ Cada sector ha seguido su propia hoja de ruta hacia la EC y ha alcanzado sus objetivos.
+ Las inversiones en tecnologías y conocimiento para la circularidad se han multiplicado. Por
+ejemplo, instituciones financieras como el Banco Estado proporcionan financiamiento para
+proyectos verdes.
+ El Estado impulsa iniciativas circulares de nuevos mercados con desafíos y subsidios.
+ Se han construido clusters industriales de EC, articulando población, territorio, academia e
+industria.
+ Se han desarrollado industrias de servicios circulares en torno a las industrias “tractoras” y
+ha habido un incremento significativo del número de “empresas B”.
+15
+
+--- Página 16 ---
+ Existe atracción y desarrollo de empresas circulares en regiones/territorios específicos
+(descentralización).
+ La mayoría de los nuevos emprendimientos circulares son sustentables en el tiempo.
+ La creación de mercados para productos/servicios circulares ha generado mayor tracción
+de la demanda para la producción de estos.
+ La EC genera muchos empleos formales y de calidad.
+ Se ha logrado la carbono-neutralidad y los residuos en producción tienden a cero.
+Resultados
+ Aumento significativo del porcentaje del PIB nacional generado por “empresas B” circulares.
+ Incremento del 5% anual de la inversión de actividades circulares de aquí al 2025 con amplia
+aceptación por parte de la industria. Así, también, que exista un porcentaje significativo de
+instituciones financieras con líneas dedicadas a este tipo de financiamiento.
+ Velar para que los emprendimientos circulares tengan modelos de negocios sustentables
+económicamente.
+ 300.000 nuevos empleos formales vinculados a la EC.
+ Formalización y profesionalización de la totalidad de los recicladores de base.
+ Exportación importante de servicios circulares (equivalente a porcentaje del PIB
+correspondiente servicios financieros).
+ Al 2024 totalidad de industrias “tractoras” cuentan con un plan de EC.
+ Al 2025 al menos 3 clusters circulares en distintos lugares del territorio nacional.
+ Producción cero residuos al 2030.
+ 100% energías renovables para la producción al 2030.
+ Porcentaje significativo de empresas circulares localizadas en regiones.
+ Sistema robusto de ecoetiquetado y amplia adopción por parte de la industria.
+ Cumplir con la NDC (carbono-neutral en 2050).
+El trabajo de análisis FOAR para el foco Producción da cuenta, en todos sus aspectos, de lo relevante
+que es para la economía, tanto a nivel mundial como nacional, cualquier nueva medida que se
+implemente en la industria, especialmente en los sectores y cadenas de valor de la minería,
+salmonicultura, forestal y construcción. Estas industrias muestran un acercamiento significativo a
+las temáticas de EC y su buena disposición a incorporar mejoras sustentables en sus procesos
+productivos facilita la tarea de hacer realidad sus aspiraciones, concretando los resultados que
+describen. Este foco exige la incorporación de diferentes aproximaciones para abordar sus
+aspiraciones y resultados desde una mirada integral, incorporando aspectos territoriales, de
+incentivos a empresas y ciudadanía, desarrollo de mercados, escalamiento de innovación e industria
+4.0, y educación y cultura.
+c. Foco “Consumo y servicios”
+Fortalezas
+ Alta tasa de emprendimiento relacionados con servicios circulares a la comunidad.
+ Creciente nivel de preocupación de los consumidores por contar con servicios circulares.
+ Mayor poder de acción, voz y voto de consumidores.
+ Creciente nivel de entusiasmo de empresas de servicios circulares dado el aumento en la
+demanda de este tipo de servicios.
+16
+
+--- Página 17 ---
+ Existe experiencia previa con sellos de eficiencia energética en productos.
+ Concepto de reciclaje ya internalizado en la sociedad como primer acercamiento a la EC.
+Oportunidades
+ La complejidad geográfica de Chile exige innovación permanente en términos logísticos y
+operativos, así como el desarrollo de estrategias locales que aprovechen las condiciones
+territoriales.
+ Generación de conexiones entre empresas de servicios locales.
+ Fortalecimiento de un turismo de nicho, más sustentable con protocolos circulares
+implementados.
+ Utilización del capital humano experimentado y avanzado en el desarrollo de I+D+i.
+ Situación actual (pandemia Covid-19) genera mayor apertura mental a nuevas metodologías
+y nuevos hábitos de consumo.
+ Desarrollo de estrategias de empresas de servicios bajo la lógica de EC.
+Aspiraciones
+ Existe información sobre circularidad de productos y servicios. Ésta es verídica,
+estandarizada y de fácil acceso al consumidor.
+ Los consumidores tienen un mayor nivel de consciencia y hábitos de consumo sustentable,
+por lo que demandan productos y servicios circulares.
+ Se cuenta con un sello de EC para servicios y productos.
+ La EC está incorporada a mallas curriculares en todos los niveles educacionales (preescolar,
+escolar, pregrado, postgrado).
+ Existe un trabajo asociativo y colaborativo que facilita la acción de todos los actores de la
+cadena de valor circular.
+ La EC es lo “lógico de hacer”. Las normativas la incentivan, es económicamente rentable,
+etc.
+Resultados
+ Proveedores de productos y servicios que cumplen los estándares sustentables.
+ Existencia de una plataforma que reúne proveedores de productos y servicios que cumplen
+estándares de sustentabilidad.
+ Proveedores de productos y servicios son capacitados con herramientas para que se sumen
+a la circularidad.
+ El Estado incentiva y acompaña financieramente la transición a la EC.
+ Cambios estructurales con normas y regulaciones que modelen el cambio hacia la EC.
+Estos resultados muestran al sector de Consumo y servicios, como un foco en rápido y creciente
+desarrollo hacia una EC, donde la alta tasa de emprendimientos e iniciativas comerciales más
+circulares empieza a enfrentar la necesidad de visibilizarse y conectarse con todos los actores de la
+cadena productiva de manera de fortalecer sus competencias a través de un trabajo asociativo y
+colaborativo. Proveedores de productos y servicios buscan validarse frente al consumidor y obtener
+reconocimiento de sus esfuerzos para ser más sustentables mediante, por ejemplo, sellos circulares
+que permitan al consumidor optar por ellos informadamente.
+17
+
+--- Página 18 ---
+d. Foco “Gestión de residuos”
+Fortalezas
+ Chile tiene “vocación ambiental”
+ Existe un interés por parte de las empresas e incentivos por parte del Estado para la gestión
+de residuos.
+ Hay un marco regulatorio bien definido, por ejemplo, la Ley Marco para la Gestión de
+Residuos, Responsabilidad Extendida del Productor y Fomento al Reciclaje (Ley 20.920)
+ Estructura orgánica del Estado funciona para acceder a recursos informativos.
+ Capacidad de organización y visión sistémica del mundo empresarial para mejorar la gestión
+de residuos.
+ Existe material de estudio. Tenemos datos confiables. Existe información disponible de
+residuos sólidos.
+ La gente quiere participar (se puede apreciar en la voluntad de la ciudadanía para reciclar,
+por ejemplo).
+ Existen buenas capacidades en los recicladores de base y una gran cantidad de ONGs que
+participan del tema de gestión de residuos.
+ Existe logística de transporte para la gestión de residuos.
+ El 80% de los residuos sólidos van a rellenos sanitarios y hay más proyectos de rellenos
+sanitarios en marcha.
+ Existe experiencia en gestión de recursos por parte de gobiernos locales y asociaciones
+civiles (por ejemplo, experiencias exitosas en recolección segregada y modelos de gestión
+mixta, así como experiencias asociativas).
+ Existencia de un ecosistema de innovación incipiente.
+ Existen datos sobre residuos de la construcción.
+Oportunidades
+ La crisis originada por el Covid-19 representa la oportunidad de replantear el modelo actual
+y la forma en cómo se han hecho las cosas.
+ Orientar acciones a realizar en base a experiencias de otros países que ya han avanzado en
+el tema, por ejemplo, vinculando la agenda climática con gestión de residuos.
+ Integración colaborativa de los distintos actores, para empujar modelo de EC.
+ La implementación de la Ley REP es en sí una fuente de oportunidades, por ejemplo, de
+elevar estándares para un empresariado más “verde” y de dar oportunidades de
+formalización e inclusión social y laboral a recicladores de base.
+ Mayor eficiencia para las empresas (reducción de costos al recuperar y reincorporar
+residuos, por ejemplo).
+ Utilización de la ciencia e innovación para incentivar la circularidad.
+ Ministerio de Ciencia, Tecnología, Conocimiento e Innovación con capacidad para reunir y
+compartir la información obtenida de universidades, municipalidades, empresas, etc.
+ Mercado financiero con crecientes exigencias ambientales.
+ Mitigación de la escasez hídrica (por ejemplo, a través del tratamiento de aguas grises).
+ Introducción de nuevo concepto de tratamiento integral de residuos domiciliarios.
+ Mejorar la gestión de residuos municipales (y licitaciones vinculadas) con requisitos
+ambientales.
+ Desarrollo del sector turístico como traccionante de una EC.
+18
+
+--- Página 19 ---
+ Hoja de Ruta de EC para orientar la planificación de Regiones.
+Aspiraciones
+ Existe pleno cumplimiento de las metas del reglamento de la Ley REP.
+ Hay un cumplimiento al 100% la normativa medioambiental para el depósito de desechos
+sólidos. No existen basurales a cielo abierto y los rellenos sanitarios son parte de la EC como
+centros integrales de procesado de residuos.
+ Descentralización y conectividad de todos los territorios, con gobernanza regional para la
+gestión de residuos.
+ Economías locales están dinamizadas por la EC.
+ Academia y tecnología están involucradas en generar conocimiento en EC.
+ Se cuenta con un ecosistema desarrollado de gestión de residuos con inclusión de
+recicladores de base.
+ Se desarrollan e importan productos con ciclo de vida extendido. Los productos no tienen
+obsolescencia programada.
+ Existe un sistema de innovación en torno a los materiales susceptibles de reciclar.
+ Todos los productos pueden ser desmontados y reincorporados en ciclos biológicos o
+técnicos.
+ Existe un marco regulatorio en la gestión de residuos de la construcción.
+ La gestión de riesgos en el manejo de residuos ha mejorado.
+ Se aplica la jerarquía establecida por ley en la gestión de residuos.
+ Hay un cambio positivo en patrones de consumo de las personas
+(Reutilización/Reparación/Reciclaje).
+ Existe una recolección selectiva de residuos puerta a puerta en todo el país.
+ Los ciudadanos son informados y considerados en las decisiones de Estado en materia de
+gestión de residuos.
+Resultados
+ Métricas establecidas (KPIs) para la medición del impacto de la EC, particularmente, la
+valoración de residuos en las economías locales.
+ Contar con una evaluación dinámica durante la implementación de Hoja de Ruta.
+ Al 2040 metas REP cumplidas.
+ Existencia de un mercado de material reciclado.
+ Contar con centros de tratamiento de residuos cercanos a la comunidad.
+ Meta concreta de reducción de disposición final de residuos (propuesta: sólo el 10% de
+residuos sólidos en rellenos sanitarios, el 90% restante es reutilizado o reciclado).
+ Cero basurales fuera de norma.
+ Existencia de una legislación que regule la materia de ciclo de vida de productos. Fin a la
+obsolescencia programada y se asegura el derecho a reparar (incluso recicladores de base
+también reparan).
+ Existencia de infraestructura suficiente e inversión pública en materia de gestión de
+residuos y EC.
+ Recicladores de base formalizados como rubro empresarial a nivel nacional.
+ Se cuenta con suficientes profesionales dedicados a los distintos ámbitos de la EC.
+Desde los resultados del análisis FOAR de este foco, se observa que la gestión de residuos presenta
+un importante avance desde la implementación de normativas, incentivos para empresas,
+19
+
+--- Página 20 ---
+participación ciudadana, con un sistema de recolección en vías de formalización, y la Ley REP como
+primer paso impulsor para dar cumplimiento a las aspiraciones que se plantean. El foco cuenta con
+información cuantitativa clara que permite medir la eficacia de sus medidas acercándose a los
+resultados que se esperan de manera dinámica. El foco visualiza a la EC como una herramienta para
+descentralizar la economía del pais, conectando territorios locales a través del desarrollo de
+mercados que incentiven una gestión de residuos mas sustentable.
+D. Conclusión de los talleres de construcción de la Visión Estratégica
+Ambas jornadas se caracterizaron por una activa participación de los asistentes, destacándose el
+intercambio respetuoso de ideas, la actitud de apertura a opiniones diversas y un ánimo
+constructivo que permitió elaborar consensuadamente una Visión Estratégica para la EC de Chile al
+2040, como análisis de fortalezas, oportunidades, aspiraciones y resultados para los 4 focos
+temáticos propuestos: Adquisición de Recursos, Producción, Consumo y Servicios, y Gestión de
+Residuos.
+Los resultados del FOAR servirán para alimentar la Visión Estratégica, que, si bien ya se cuenta con
+una primera versión, estará en constante iteración hasta el final de construcción de la Hoja de Ruta
+de la EC, esto debido a que el proceso debe ser suficientemente flexible para poder incorporar todos
+los elementos relevantes que se irán identificando a lo largo del proceso.
+Es relevante señalar que, en los resultados obtenidos en el FOAR, en los distintos focos, hay
+elementos que se repiten, por lo que se puede decir que son transversales a la Hoja de Ruta de EC.
+Estos elementos son:
+ Uso de energías renovables no convencionales para descarbonizar el consumo de energía;
+ Implementación de modelos de negocio circulares, que permitan una nueva forma de
+producción y consumo, afectando todos los focos;
+ Desarrollo tecnológico y fomento a la ciencia como motor para nuevas formas de
+producción y consumo circulares, afectando todos los focos;
+ Importancia del empoderamiento de la ciudadanía con respecto a temas ambientales y su
+influencia en la oferta de productos y servicios;
+ Necesidad de contar con un marco normativo acorde, que contenga incentivos y
+desincentivos donde corresponda, para potenciar la sustentabilidad y la EC;
+ Importancia del sector empresarial para poder traccionar la EC;
+ La EC como oportunidad de mejora para la competitividad de las empresas, por mayor
+eficiencia de producción, implementación de innovaciones, etc.;
+ Contexto de la pandemia por Covid-19 como oportunidad para repensar el sistema de
+producción y consumo, en favor de la EC.
+20
+
+--- Página 21 ---
+III. Indicadores y metas
+En el marco del desarrollo de la Hoja de Ruta de EC, se hace necesario fijar metas de largo plazo,
+que podrían ser definidas al año 2030 y/o al año 2040. Estas metas se miden con indicadores, que
+también tienen que ser definidos de acuerdo con su idoneidad. A la fecha de este informe, se está
+trabajando una propuesta de indicadores, a partir de la cual se definirán metas, que deben ser
+validadas por el Comité Estratégico.
+A. Antecedentes para la definición de indicadores y metas
+El objetivo de las metas de largo plazo de la Hoja de Ruta de EC es dar señales con respecto al alcance
+y potencial de la estrategia desarrollada, en las áreas en donde se espera que tenga mayores
+impactos.
+Como referencia se revisaron las estrategias y hojas de ruta de varios otros países, como Francia,
+España y Colombia, cuyas metas se presentan a continuación.
+ Metas de la Hoja de Ruta de EC de Francia, 2018
+Objetivos
+ Reducir el uso de recursos naturales relacionados con el consumo francés:
+reducción del 30% en el consumo de recursos en relación con el PIB entre 2010 y
+2030.
+ Una reducción del 50% en la cantidad de residuos no peligrosos enviados a
+disposición final para 2025, en comparación con 2010.
+ Apuntar hacia el reciclaje de 100% de los plásticos para 2025.
+ Reducir las emisiones de gases de efecto invernadero: evitar la emisión de 8
+millones de toneladas adicionales de CO cada año gracias al reciclaje de plásticos .
+2
+ Crear hasta 300.000 puestos de trabajo adicionales, incluso en nuevas profesiones.
+21
+
+--- Página 22 ---
+ Metas de la Estrategia de Economía Circular de Colombia, 2018
+Objetivos
+1. Acero
+Incremento de recuperaci ó n de chatarra met á li ca. 20% para el a ñ o 2021 .
+2. Materiales de construcción
+Incremento del aprovechamiento de residuos de construcci ó n y demolici ó n . 10% para el a ñ o 2022 .
+3. Materiales de aparatos el é ctricos y electr ó nicos
+ Toneladas reutilizadas de refrigerantes controlados por el Protocolo de Montreal. 30 Toneladas
+m é tricas de refrigerantes reu tilizados (3 , 87 toneladas de Potencial de Agotamiento de Ozono)
+(2021) .
+ Numero de refrigeradores ineficientes, reciclados adecuadamente. Reciclaje adecuado de
+100.000 refrigeradores viejos (2021).
+ Toneladas m é tricas de refrig erantes controlados por el Protocolo de Montreal, reutilizadas. 68
+toneladas m é t ricas de refrigerantes reutilizadas. (232 . 560 toneladas de equivalente de CO )
+2
+ Toneladas de CO reducidas por el sector de refrigeraci ó n dom é stica. 18 , 70 toneladas de CO
+2 2
+reducidas por el sector de refrigeraci ó n d om é stica.
+ Toneladas de pl á s tico provenientes de RAEE aprovechadas. 1.500 toneladas de pl á s ticos son
+gestionados con MTD y MPA (2021).
+4. Gesti ó n posconsumo de residuos peligrosos y especiales
+ Incremento en l a recuperaci ó n de residuos posconsumo. Gestionar aproximadamente 93.000
+TN al a ñ o 2021.
+ Incremento de puntos limpios en 6 ciudades y en municipios de m á s de 1.000.000 de habitantes
+con recursos de PGIRs seg ú n lo propuesto en pol í t ica crecimiento verde . 6 puntos limpios
+creados en las principales ciudades al a ñ o 2020 para corrientes de residuos regulados REP. Al
+menos 1 punto limpio creado por cada municipio de m á s de 1.000.000 de habitantes a 2022.
+5. Materiales de envases y empaques
+ Porcentaje de a provechamiento de residuos de envases y empaques. 10% de aprovechamiento
+de residuos de residuos de envases y empaques para el a ñ o 2021.
+ Porcentaje de aprovechamiento de residuos de envases y empaques. 30% de aprovechamiento
+de residuos de envases y empaq ues para el a ñ o 2030.
+6. Optimizaci ó n y aprovechamiento de b iomasa
+ % de aprovechamiento de residuos de biomasa en un programa de conservaci ó n , restauraci ó n
+de suelos y agricultura sostenible. 10% para el a ñ o 2030.
+ Aumento en % de la generaci ó n de en e rg í a a partir de biomasa residual con una participaci ó n
+entre la capacidad instalada nacional de generaci ó n de energ í a. Entre el 0, 5 y el 1% de la
+capacidad instalada nacional para el a ñ o 2030.
+7. Circulaci ó n del Agua
+8. Fuentes y aprovechamiento de energ í a
+9. Consumo de materiales en centros urbanos
+22
+
+--- Página 23 ---
+ Metas de la Estrategia de Economía Circular de España, 2020
+Objetivos al año 2030
+ Reducir en un 30% el consumo nacional de materiales en relación con el PIB,
+tomando como año de referencia el 2010.
+ Reducir la generación de residuos un 15% respecto de lo generado en 2010.
+ Reducir la generación de residuos de alimentos en toda cadena alimentaria: 50%
+de reducción per cápita a nivel de hogar y consumo minorita y un 20% en las
+cadenas de producción y suministro a partir del año 2020, contribuyendo así al
+ODS.
+ Incrementar la reutilización y preparación para la reutilización hasta llegar al 10%
+de los residuos municipales generados.
+ Reducir la emisión de gases de efecto invernadero por debajo de los 10 millones
+de toneladas de CO eq.
+2
+ Mejorar un 10% la eficiencia en el uso del agua .
+Por otro lado, es importante mencionar que el desarrollo de la Hoja de Ruta de EC forma parte de
+los compromisos adquiridos por Chile con la comunidad internacional en la actualización de sus NDC
+(Contribuciones Determinada a nivel Nacional, por sus siglas en inglés), por lo cual es relevante
+considerar algunas de las metas que emanan de esa actualización (Gobierno de Chile, 2020) :
+ Al 2030, llegar a un máximo de 95 MtCO2eq de emisiones absolutas de GEI (sin considerar
+sector forestal), lo cual implica un presupuesto de carbono de 1.100 MtCO2eq en 2020-
+2030, alcanzando un peak de emisiones anuales al año 2025.
+ Al 2030, reducir en al menos un 25% las emisiones de carbono negro, con base 2016.
+ Al 2025, dar estatus de área protegida a al menos 20 humedales costeros, y agregar otros
+10 al 2030.
+ Al 2030, forestar 200.000 hectáreas, de las cuales al menos 100.000 hectáreas
+corresponden a cubierta forestal permanente, con al menos 70.000 hectáreas de especies
+nativas.
+ Reducir las emisiones del sector forestal por degradación y deforestación del bosque nativo
+en un 25% al 2030, considerando las emisiones promedio entre el periodo 2001-2013.
+ Al 2030, incorporar 1.000.000 hectáreas a un proceso de escala nacional de restauración de
+paisajes, priorizando en aquellos con mayor vulnerabilidad social, económica y ambiental.
+ Generar e implementar, al 2022, métricas e indicadores de circularidad, para monitorear los
+avances del país en materia de EC e identificar su contribución a la mitigación y adaptación
+del cambio climático.
+23
+
+--- Página 24 ---
+El último compromiso mencionado es especialmente relevante para el proceso de definición de las
+metas de largo plazo de la Hoja de Ruta de EC, ya que implica que las metas establecidas en el marco
+de esta estrategia pasarán a ser parte del sistema de indicadores para la EC que, según el
+compromiso, Chile deberá desarrollar y así representan un primer desarrollo de la definición de los
+indicadores de circularidad de Chile.
+B. Propuesta
+Para la Hoja de Ruta de la EC se propone establecer entre 5 a 10 metas de largo plazo, cuantitativas,
+que permitan evaluar, de forma concreta, los avances hacia la Visión Compartida.
+Para la definición de las metas, se propone un trabajo en dos etapas: una primera etapa de selección
+de los indicadores, en base a los cuales se establecerán las metas; y una segunda etapa en que se
+fijen las metas de la estrategia, en base a estos indicadores.
+Para la elección de indicadores, se proponen los siguientes criterios:
+ Pertinencia : Solo se deberán escoger indicadores que las estrategias e iniciativas que se
+proponen en esta Hoja de Ruta puedan impactar en el largo plazo.
+ Cobertura : El conjunto de indicadores que se escoja deberá, como mínimo, abarcar los
+cuatro focos de la Hoja de Ruta, además de temas transversales a ellos.
+Para la fijación de las metas en base a estos indicadores, se proponen los siguientes criterios:
+ Ambición : La fijación de las metas deberá atender a un nivel de ambición acorde a la
+urgencia de los desafíos de desarrollo sostenible que enfrenta el país.
+ Realismo : A su vez, se deberá evitar fijar metas poco realistas, pues estas no son capaces
+de movilizar realmente la acción de los actores relevantes.
+En base a los criterios anteriores, se ha pre-seleccionado un grupo de 10 indicadores sobre los cuales
+se propone establecer metas.
+ Generación de Residuos Municipales per Cápita
+Este indicador mide la cantidad promedio de residuos municipales que genera cada uno de los
+habitantes del país. Es un excelente indicador de cambios hacia tendencias de uso y consumo más
+circulares, que se debieran ver directamente reflejadas en una disminución de la cantidad de
+residuos que generan las personas cada año, que en Chile alcanzan a más de un kilogramo por
+habitante por día, como se puede ver a continuación (gráfica tomada de la plataforma online del
+Sistema Nacional de Declaración de Residuos - SINADER):
+24
+
+--- Página 25 ---
+Figura 3. Residuos municipales totales per cápita por año. Fuente: (MMA, 2017)
+ Tasa de Valorización General de Residuos Municipales
+Este indicador mide el porcentaje de los residuos municipales que se valorizan en el país,
+considerando todos los tipos de valorización aceptados por SINADER. Los últimos datos disponibles
+muestran lo bajo de este indicador, que a 2017 no llegaba a alzarse por sobre el 2%:
+500 5,00%
+450
+400 4,00%
+350
+300 3,00%
+250
+200 2,00%
+150
+100 1,00%
+50
+0 0,00%
+2015 2016 2017
+Residuos municipales totales generados per cápita Tasa de valorización
+Figura 4. Tasa de Valorización General de Residuos Municipales. Fuente: (MMA, 2017)
+25
+
+--- Página 26 ---
+ Generación Anual de Residuos no Domiciliarios
+Este indicador mide el total anual de residuos no domiciliarios (industriales, de la agricultura, etc.)
+generados en el país. Los últimos datos disponibles, en de acuerdo a la base de datos de
+destinatarios de SINADER, muestran lo siguiente:
+18.000.000
+16.000.000
+14.000.000
+12.000.000
+10.000.000
+8.000.000
+Toneladas Anuales 6.000.000
+4.000.000
+2.000.000
+-
+2014 2015 2016 2017 2018
+Año
+Figura 5. Generación Anual de Residuos no Domiciliarios. Fuente: (MMA, 2017)
+Es importante tener en consideración que estos datos tienen limitaciones importantes. Hay sectores
+en Chile, entre ellos importantes generadores de residuos como el sector de la construcción, que
+declaran muy poco en SINADER, generando importantes brechas de información que deben tenerse
+a la vista.
+ Tasa de Valorización General de Residuos no Domiciliarios
+Este indicador mide el porcentaje de los residuos no domiciliarios que se valorizan en el país,
+considerando todos los tipos de valorización aceptados por SINADER. Los últimos datos disponibles,
+en base a la base de datos de destinatarios de SINADER, muestran una tendencia al alza de este
+indicador, que sin embargo puede llegar a niveles mucho más elevados:
+26
+
+--- Página 27 ---
+Figura 6. Tasa de Valorización General de Residuos Industriales. Fuente: (MMA, 2018)
+ Tasa de Uso de Material Circular
+La tasa de uso de material circular es un indicador que mide el porcentaje de residuos que son
+convertidos en materias primas secundarias que se reincorporan a la economía, disminuyendo la
+necesidad de utilizar materias primas vírgenes.
+En Chile no se tiene actualmente una línea base para este indicador. Sin embargo, si existe línea
+base para algunos países a nivel internacional, puesto que el indicador es parte del marco europeo
+para el monitoreo de la EC. Se observan valores muy altos, como el de Holanda que en 2017 llega a
+un 30%, y valores muy bajos, como el de Grecia que apenas alcanza el 2,5% en el mismo año.
+27
+
+--- Página 28 ---
+Figura 7. Tasa de Uso de Material Circular para algunos territorios de la Unión Europea, año 2017. Fuente:
+(Eurostat, 2017)
+ Emisión de Gases de Efecto Invernadero del Sector Residuos
+Este indicador mide la cantidad de GEI que emite el sector residuos cada año. Según la información
+del Quinto Reporte del Estado del Medio Ambiente, la tendencia de este indicador en los últimos
+años es la siguiente:
+28
+
+--- Página 29 ---
+Figura 8. Emisiones de GEI del Sector Residuos. Fuente: (MMA, 2019)
+Estas emisiones están fundamentalmente asociadas a los GEI producidos por la descomposición de
+residuos orgánicos, área de gran potencial de impacto para esta hoja de ruta y para la Estrategia
+Nacional de Residuos Orgánicos.
+ Huella Material
+El indicador Huella Material o Extracción Equivalente de Material (RME, por sus siglas en inglés)
+mide la cantidad total de materias primas necesarias para producir los bienes utilizados por la
+economía. La huella de material expresada per cápita describe el nivel promedio de uso por
+habitante.
+El indicador de huella material es similar al indicador de Consumo Interno de Materiales (Domestic
+Material Consumption, por sus siglas en inglés), que mide la cantidad total de materias primas que
+usa la economía al año, pero, a diferencia de este último, corrige este cálculo en base a factores de
+extracción e importación y exportación equivalente, de forma que factores estructurales de nuestra
+economía como la importancia del sector minero de exportación, no se reflejen en un indicador que
+busca más bien medir el impacto per cápita del consumo interno del país.
+29
+
+--- Página 30 ---
+Figura 9. Huella Material por PIB y per cápita. Fuente: (SINiA, 2018)
+ Empleo Generado por la Economía Circular
+Este indicador se refiere a la cantidad de empleo generado por sectores asociados a la EC al 2030 y
+2040. Actualmente, no se cuenta con una línea base para él.
+ Mitigación del Cambio Climático a partir de la Economía Circular
+Este indicador se refiere a la cantidad de GEI que son mitigadas anualmente debido a la transición
+a la C. Actualmente, no se cuenta con una línea base para este indicador.
+A la fecha de la elaboración de este informe, la propuesta de metas e indicadores para la Hoja de
+Ruta de EC se encuentra en proceso de desarrollo y posterior validación por el Comité Estratégico y
+otros actores relevantes.
+30
+
+--- Página 31 ---
+IV. Actividades ejecutadas a la fecha para la concreción de la Hoja de Ruta
+Además de los talleres de visión, se han realizado distintas actividades a la fecha para avanzar con
+la construcción de la Hoja de Ruta de EC, específicamente la Hoja de Ruta y Plan de Acción, que se
+detallan a continuación.
+A. Encuesta ciudadana
+Como parte del trabajo encargado, se solicita identificar los perfiles de consumidores en Chile y los
+patrones de consumo. Para cumplir con ese requerimiento y considerando que, en una cadena
+productiva, los consumidores juegan un rol desequilibrante en la oferta de productos y servicios del
+mercado, se realizó una encuesta especialmente dirigida a la ciudadanía en su rol de consumidor,
+de manera de tener una idea más clara de su relación con conceptos de sustentabilidad, identificar
+su percepción de las medidas actuales que buscan fomentar una transición hacia la EC y cómo las
+iniciativas nacidas de esta Hoja de Ruta podrían ser recibidas.
+Se estableció como objetivo entender el perfil que describe mayormente al consumidor a través de
+preguntas relacionadas a sus decisiones al momento de optar por productos y servicios y se planteó
+identificar su percepción del impacto que causan sus decisiones en la oferta del mercado. Un
+segundo objetivo propuso caracterizar el patrón de consumo de los encuestados y, por último,
+identificar su disposición a implementar medidas circulares. Así, se evaluó el interés del encuestado
+en incorporar hábitos más circulares a sus decisiones diarias, las trabas que ellos identifican y su
+disposición a recibir educación en temáticas de EC.
+Los resultados y análisis completo de la encuesta están disponibles en el Anexo B. Las principales
+conclusiones se presentan a continuación:
+1. De acuerdo con las tendencias observadas, el consumidor es consciente de que sus
+decisiones pueden ser desequilibrantes en las dinámicas de mercado, exigen nuevos
+productos que incorporen conceptos sustentables tanto a nivel de diseño como a nivel
+informativo.
+2. El consumidor demuestra reconocer el impacto de sus decisiones en el medio ambiente, por
+lo que hace un esfuerzo en cumplir con las medidas propuestas a nivel local, sin embargo,
+exige una mejor gestión a nivel de recolección de residuos, más transparencia, y la
+optimización de su esfuerzo de manera de sumar eficiencia al sistema.
+3. Los encuestados, en su rol de consumidor, declaran desear sumarse a la transición de una
+económica más circular, pero la falta de información que le permita optar por productos y
+servicios más sustentables se convierte frecuentemente en una traba. Así, el consumidor
+identifica a la empresa como responsable de visibilizar grados de sustentabilidad mediante
+sellos circulares, por ejemplo.
+4. La implementación de medidas más circulares y el ofrecimiento de productos amigables con
+el medio ambiente posee diferentes grados de aceptación para el consumidor, los que
+pueden explorarse generando más instancias consultivas, de manera de afinar las
+expectativas del consumidor y las capacidades de la oferta del mercado.
+5. La aplicación de la encuesta permitió ofrecer una ventana al encuestado para expresar sus
+opiniones en temas de brechas de infraestructura, operativa, información, educación e
+incentivos que desde su perspectiva como consumidor afectan la transición hacia una EC.
+31
+
+--- Página 32 ---
+6. El desarrollo de más instancias consultivas con foco regional sería de gran valor para abordar
+la descentralización del avance de la EC a nivel nacional.
+Se espera que la información obtenida a partir de este análisis contribuya al diseño efectivo de
+iniciativas circulares que sean factibles de adoptar por el consumidor, de manera de que sean
+dirigidas adecuadamente de acuerdo con sus hábitos, necesidades y aspiraciones.
+B. Reunión de revisión de la visión con Ladeja Godina
+Si bien se redactó una primera versión de una visión para la Hoja de Ruta de EC de Chile al 2040, a
+raíz de su presentación al Comité Estratégico y su revisión con miembros del Comité Ejecutivo, se
+identificó la necesidad de profundizar ciertos aspectos de la redacción de la visión.
+A modo de apoyo en esta tarea, se organizó una reunión con Ladeja Godina, asesora del equipo
+consultor, quien tiene una extensa trayectoria en el desarrollo de estrategias y hojas de ruta de EC
+a nivel internacional, y con varios de los miembros del equipo de trabajo de la Hoja de Ruta. Para
+preparar la reunión, se mandó a Ladeja los resultados del taller de visión y la visión redactada.
+A continuación, se resumen las observaciones y conclusiones que se levantaron en la reunión:
+ A modo general, la visión necesita ser más inspiradora, incorporar ideas y conceptos
+más ambiciosos, creativos y fuera de la caja. Al momento de desarrollar una visión hay
+que tener claro que no se tiene que seguir haciendo las cosas de la misma manera que
+antes, hay un permiso para soñar;
+ También hace falta incorporar aspectos específicos de Chile y su territorio, haciendo
+énfasis en las diferencias geográficas debido a largo y delgado que es el país, para que
+la visión no sea tan genérica;
+ Se recomienda que, en temas de producción, se haga mayor énfasis en nuevos modelos
+de negocios basados en el uso, la reparación, etc.;
+ Se recomienda abordar el incremento de la competitividad desde el punto de vista del
+aumento de la calidad de vida, del mejor uso de productos y servicios, de la resiliencia;
+ Hace falta incorporar conceptos de asequibilidad y accesibilidad;
+ Para una real transición a una EC, no se trata simplemente de traspasar conocimiento y
+educar, sino también de crear un nuevo ecosistema que tenga la capacidad de evaluar
+y reinventar el sistema actual;
+ Para ello, es clave poner énfasis en transparencia y confianza;
+ También se menciona la necesidad de que la visión sea atractiva, tanto en el fondo como
+en la forma;
+ En relación a la pregunta ¿Cómo hacer la visión nuestra (que la ciudadanía se apropie
+de ella)?, se propone aprovechar y jugar con la geografía lineal del país y el desarrollo
+de una mentalidad circular.
+Como conclusión, se confirma la necesidad de empezar una nueva iteración de la visión,
+considerando los elementos claves que se han identificado en las diversas instancias de trabajo con
+el Comité Estratégico y el resultado de los talleres de visión y que se detallan en la figura 3.
+32
+
+--- Página 33 ---
+Colaboración
+se ha beneficiado de la
+Equilibrio ha transformado la Cultura
+ha contribuido al
+Al 2040, la
+Economía
+Circular
+ha fomentado la ha generado
+ha sido fuente de
+Innovación
+Descentralización Oportunidades
+Figura 10. Elementos clave de la visión. Fuente: Elaboración propia
+Este trabajo iterativo es necesario considerando que la construcción de la Hoja de Ruta es un
+proceso dinámico, donde tiene que haber suficiente flexibilidad para poder incorporar nuevas ideas
+y conceptos en los distintos productos de la Hoja de Ruta, aunque estos formen parte de hitos
+anteriores.
+C. Mesas temáticas
+De manera de fortalecer la construcción de la Hoja de Ruta de EC, el MMA junto con el Comité
+Ejecutivo, decidió ampliar el proceso participativo a través de la conformación de mesas temáticas.
+El proceso de constitución de las mesas pasó por varias etapas, incorporando sugerencias de las
+temáticas más relevantes según el Comité Estratégico, seguido por un trabajo de consolidación por
+el Comité Ejecutivo y, finalmente, la validación por el Comité Estratégico, resultando en la decisión
+de constituir las siguientes 11 mesas temáticas:
+ Territorios Circulares y Economías Locales
+ Prevención
+ Ecodiseño
+ Reúso y Reparación
+ Valorización Energética
+ Desarrollo de Mercados
+33
+
+--- Página 34 ---
+ Escalamiento de la Innovación e Industria 4.0
+ Barr eras Regulatorias
+ Incentivos y Desincentivos a las Empresas
+ Incentivos y Desincentivos a la Ciudadanía
+ Educación y Cultura
+Respecto de la elección de los integrantes, se recibieron sugerencias por parte del Comité
+Estratégico, Comité Ejecutivo, y contrapartes regionales de las Direcciones Regionales de CORFO y
+las SEREMIS del Medio Ambiente para cada una de las mesas. De esta forma, se levantaron más de
+250 nombres, que se sumaron a los miembros del Comité Estratégico, Comité Ejecutivo, y equipos
+de apoyo del MMA, para llegar a una lista de más de 320 posibles integrantes, para llenar con ellos
+el total de 143 cupos disponibles en las mesas. La constitución final de las mesas fue definida por el
+Comité Ejecutivo en base a la lista recién mencionada, y siguiendo los siguientes criterios:
+ Máximo de integrantes – Se definió un máximo de 12 integrantes para cada mesa, además
+del/de la facilitador/a.
+ Preferencia a Comité Estratégico – Todas/os las/os integrantes del Comité Estratégico
+disponibles para participar fueron asignados a alguna mesa, en lo posible a la mesa de su
+preferencia.
+ Diversidad de estamentos – Se buscó que las mesas fueran diversas en cuanto a estamentos
+(sector público, sector privado, sociedad civil, academia, etc.).
+ Diversidad de organizaciones – Se buscó evitar invitar a más de una persona de la misma
+organización a la misma mesa.
+ Experiencia en las temáticas – Se buscó integrar personas con experiencia relevante para la
+temática de la mesa.
+ Regiones – Se buscó integrar a representantes regionales a todas las mesas en que esto
+fuera posible.
+La facilitación de las mesas se repartió entre el equipo de apoyo del MMA y miembros del Comité
+Ejecutivo. Las primeras reuniones de las distintas mesas temáticas se realizaron la semana del 6 al
+10 de julio 2020, con la intención de reunirse una vez a la semana, por una extensión de 6 semanas.
+El objetivo de cada mesa es generar insumos para el proceso de elaboración de la Hoja de Ruta,
+específicamente, identificar y elaborar iniciativas específicas a las temáticas de cada mesa, que
+alimente la metodología de elaboración de hoja de ruta y se sume a las iniciativas generadas en los
+talleres de Paisaje Estratégico y de Selectividad - talleres que forman parte la metodología antes
+mencionada.
+Como miembro del Comité Ejecutivo, Eurochile se propuso para la facilitación de una de las mesas
+temáticas, y fue asignada la mesa de Territorios Circulares y Economías Locales. A la fecha, esta
+mesa se ha reunido 4 veces y se encuentra entre la etapa de levantamiento de antecedentes y la
+etapa de definición de iniciativas. La mesa cuenta con 10 participantes activos, pero la participación
+ha ido variando en cada reunión. A raíz de cada reunión, se prepara una minuta que se valida con
+los miembros de la mesa antes de volverse pública.
+34
+
+--- Página 35 ---
+Como resultado de la mesa, se espera levantar un mínimo de 3 iniciativas específicas, en torno a las
+Municipalidades y cómo fortalecerlas para que promuevan un desarrollo productivo circular en sus
+comunas y territorios; los Gobiernos Regionales (GORE), las articulaciones e instrumentos que
+pueden impulsar el desarrollo de iniciativas circulares en las regiones; y la Simbiosis Industrial y
+cómo fomentar el desarrollo de sinergias territoriales y superar las barreras actuales (culturales,
+normativas, de acceso a información, etc.). Las iniciativas finales de la mesa se presentarán la
+semana del 17 de agosto 2020.
+D. Estudio de Vigilancia Tecnológica
+La propuesta inicial de la consultoría contemplaba la elaboración de un estudio de Vigilancia
+Tecnológica, para agregar valor al trabajo por realizar y abordar alguna brecha de información. Tal
+estudio se basa en el análisis de grandes volúmenes de datos tecnológicos (patentes) y científicos
+(publicaciones de alto impacto) que permitan aportar capacidad prospectiva y de anticipación ante
+las principales innovaciones y tendencias globales, con focos en nuevas tecnologías de reciclaje,
+energía y materiales.
+Luego de someterlo a consulta y votación del Comité Ejecutivo, se definió realizar el estudio sobre
+tecnologías de Valorización Energética, de forma de aportar información técnica para apoyar la
+conversación sobre el rol de la valorización energética en la transición a una EC.
+El informe completo se encuentra disponible en el Anexo C. Sin embargo, a continuación, se
+presentan algunos de los resultados y conclusiones más relevantes del estudio.
+Figura 4 presenta una clasificación actualizada de las tecnologías de valorización energética o
+“ Waste to Energy (WtE )”, y sus productos derivados.
+35
+
+--- Página 36 ---
+Digestión anaeróbica Biogás
+Bioelectroquímicas
+Fermentación Bioetanol
+Celda de combustible Gas H2
+Bioquímicas Fermentación Oscura Gas H2 biológica
+Celda de electrolisis
+Gas H2, CH4, acetato
+Landfill Gas Gaste de vertedero microbiana
+Gas H2, CO2
+Procesos fotobiológicos
+Compostaje Compost
+Tecnologías WtE Incineración
+Calor /vapor /
+Co-combustión electricidad
+Pirolisis Char, bio-oil y syngas
+Torrefacción Char
+Termoquímicas
+Gasificación Syngas Esterificación Etanol, Biodisel
+De-polimerización Petróleo crudo ligero,
+Transesterificación Biodisel
+térmica Syngas
+Carbonización Bio-carbon
+hidrotermal Químicas
+Bio-aceite
+Licuefacción hidrotermal
+Tecnologías maduras
+Tecnologías emergentes
+Figura 11. Esquema de clasificación actualizada de las tecnologías WtE y productos derivados. Fuente: elaboración propia en base a (Beyene, Werkneh, &
+Ambaye, 2018; Bosmans, Vanderreydt, Geysen, & Helsen, 2013; Jung, Lee, Park, & Kwon, 2020; Moya, Aldás, Jaramillo, Játiva, & Kaparaju, 2017; Nastro,
+Falcucci, Minutillo, & Jannelli, 2017; Seiple, Skaggs, Fillmore, & Coleman, 2020; Sodhi, Tripathi, & Kundu, 2017; Trabold & Babbitt, 2018)
+
+--- Página 37 ---
+Si bien existe una gran cantidad de tecnologías distintas para la valorización energética de los
+residuos, su implementación y aplicación de una u otra tecnología depende de varios factores y
+tendencias a ser consideradas:
+ Dominio de las tecnologías WtE de base térmica.
+ Crecimiento de los residuos sólidos municipales.
+ Importante crecimiento de las tecnologías WtE biológicas.
+ Aparición de nuevas tecnologías como carbonización hidrotermal.
+ Importancia del marco regulatorio como driver o restrictor de WtE.
+ Cuestionamiento ambiental e impacto negativo en la salud de las personas.
+ Impacto financiero.
+ Necesidad de establecer una estrategia que priorice la jerarquía de gestión de residuos
+(foco en fracción de rechazo).
+En su conclusión, desde un punto de vista de mercado, el informe destaca los siguientes aspectos:
+ El mercado WtE bordea los USD $20.7b y se proyecta que alcance los USD $27.7b en 2025,
+con un CAGR del 6,1%.
+ El segmento térmico representa alrededor del 87% del mercado mundial con cerca de USD
+$18b y la incineración ocupa casi el 55% de este segmento.
+ El segmento biológico del mercado de WtE bordea los USD $2.8b y se prevé que alcance los
+USD $3.77b para 2025.
+ Asia Pacífico lidera el crecimiento del mercado con China y Japón a la cabeza.
+ Las tecnologías térmicas de gasificación y pirolisis, así como los sistemas biológicos de
+digestión anaeróbica, están comenzando a entrar con fuerza y se espera un aumento
+sostenido de sus cuotas de mercado.
+ El mercado WtE con incineración está restringido por el alto costo de los incineradores,
+particularmente a medida que los precios de la energía disminuyen y varias plantas no
+logran cubrir sus costos operativos.
+ El desarrollo de marcos regulatorios cada vez más estrictos, en relación a emisiones y
+mitigación de desechos, obliga a los proyectos, particularmente de incineración, a invertir
+en diversas tecnologías con este fin.
+En relación con el componente tecnológico, se evidencia lo siguiente:
+ Las tecnologías térmicas presentan la mayor madurez y participación en el mercado.
+ Las tecnologías biológicas, como la digestión anaeróbica, presentan una alta madurez y
+crecimiento.
+ Se identifican nuevas tecnologías alternativas de interés como, por ejemplo: celdas de
+combustible biológico, celdas de electrólisis microbiana, procesos fotobiológicos,
+depolimerización térmica, carbonización hidrotermal y licuefacción hidrotermal.
+
+--- Página 38 ---
+ Se observa un amplio desarrollo de tecnologías ambientales habilitadoras para la mitigación
+de emisiones de GEI y eliminación de diferentes contaminantes, como limpieza de gases de
+combustión, precipitadores electrostáticos, manejo de cenizas, control de mercurio, control
+de furanos, control de dioxinas, control de No y material particulado, entre otras.
+x
+ No todas las tecnologías WtE tienen los mismos niveles de emisiones contaminantes, por lo
+que se hace necesaria una revisión focalizada y caso a caso que permita contar con datos
+objetivos sobre el abanico de tecnologías disponibles.
+E. Taller de Paisaje Estratégico
+El Taller de Paisaje Estratégico o “Taller S” se basa en una metodología que establece un marco de
+acción multidimensional que considera 3 capas: Drivers o factores traccionantes, Iniciativas, y
+Recursos o habilitadores, considerando además la dimensión temporal que puede ser corto plazo
+(1 a 2 años), mediano plazo (3 a 10 años) y largo plazo (10 a 20 años), que permite responder a las
+siguientes preguntas: ¿Dónde estamos? (diagnóstico y línea base), ¿Dónde queremos llegar? (visión
+estratégica), ¿Qué debemos hacer para llegar donde queremos llegar? (iniciativas).
+La capa Drivers tiene las siguientes subcapas: político, económico/de mercado, tecnológico, social y
+demográfico, legal, ambiental y otros. La capa Recursos tiene las subcapas: tecnología, capital
+humano, información, redes/alianzas, normativa/regulación, acceso a financiamiento y otros.
+Las preguntas fundamentales para responder a través de la metodología son: ¿Por qué actuamos?,
+¿Qué haremos?, ¿Cómo lo haremos?
+ Taller S
+El 22 de julio, se realizó el Taller S por Zoom y se utilizó el tablero virtual Miró. Al taller asistieron 41
+personas del Comité Estratégico (titulares y suplentes) además de un facilitador principal y 8
+cofacilitadores grupales. Para realizar el taller, se separó a los asistentes en 8 grupos, 2 grupos por
+cada foco: Obtención de recursos, Producción, Consumo y servicios y Gestión de residuos.
+El trabajo se realizó avanzando capa por capa, dedicando 45 minutos para la capa Drivers, 45
+minutos para la capa Iniciativas y 30 minutos para la capa Recursos, guiado por el facilitador grupal,
+que fue guiando la dinámica, explicando la metodología y asegurando el cumplimiento de la agenda
+y tiempos asignados. Las ideas generadas se fueron anotando en la plataforma Miró, que permite
+emular el trabajo en un tablero y el uso de post-it , identificando la temporalidad en cada una de
+estas capas.
+En las capas Drivers e Iniciativas, antes de pasar a la siguiente capa, se pidió a los integrantes de
+cada grupo votar por las 5 ideas registradas en el tablero que según ellos eran las más importantes.
+Fue clave para el desarrollo de la dinámica, el poder establecer un diálogo constructivo que se
+enmarcara en el foco y capa correspondiente, e identificando ideas en las distintas temporalidades.
+Para finalizar la dinámica, se reunió a todos los participantes en el plenario, donde un representante
+por grupo presentó los aspectos más relevantes que fueron conversados y levantados en su grupo
+respectivo, en las distintas capas.
+38
+
+--- Página 39 ---
+A modo de ejemplo para visualizar el trabajo, se presenta en figura 5 uno de los tableros que resultó
+de la jornada:
+(a)
+(b)
+39
+
+--- Página 40 ---
+(c)
+Figura 12. Tablero de unos de los grupos, del foco Producción, con las ideas identificadas por capa: (a)
+Drivers , (b) Iniciativas y (c) Resultados y en las distintas temporalidades. Fuente: Elaboración propia
+ Consolidación de la información
+En una sesión posterior a la realización del Taller S, se realizó un taller de consolidación de los
+resultados obtenidos en el taller S, con todos los facilitadores que participaron de la primera
+jornada.
+Para lograr una efectiva consolidación, previo a este taller, se crearon cuatro nuevos tableros, uno
+por foco, donde se traspasaron los elementos identificados en el Taller S que contaran con al menos
+un voto, manteniendo las capas Drivers , Iniciativas y Recursos. De esa forma, se juntaron en un
+mismo tablero las ideas más importantes identificadas en los dos grupos que trabajaron en un
+mismo foco en el Taller S.
+El trabajo consistió en:
+ revisar que todos los elementos estuvieran en la subcapa correspondiente, y en la
+temporalidad adecuada;
+ agrupar o fusionar los elementos que estuvieran repetidos o muy similares bajo un concepto
+más amplio;
+ conectar las iniciativas con los drivers que las inspiran y con los recursos necesarios para
+llevar a cabo esas iniciativas.
+Cada facilitador trabajó con su par que facilitó el grupo con el mismo foco el día del Taller S.
+40
+
+--- Página 41 ---
+Para finalizar el taller de consolidación, luego de que se completara el trabajo en los grupos focales,
+cada grupo expuso en el plenario los resultados de su análisis para el resto del equipo de facilitación.
+El resultado final de ese ejercicio es la obtención de una seria de drivers , iniciativas y recursos, en
+torno a los 4 focos de la Hoja de Ruta, que empiezan a dar cuenta de algunas líneas de acción para
+la Hoja de Ruta de EC.
+41
+
+--- Página 42 ---
+V. Conclusiones
+A la fecha, se cuenta con una propuesta inicial de una visión para la Hoja de Ruta de EC para Chile.
+Sin embargo, a raíz de su presentación a diversos actores que están participando del proceso, se
+identifica la necesidad de afinarla, incorporando algunos conceptos adicionales, levantados en
+instancias posteriores.
+La construcción de una hoja de ruta pasa por un proceso iterativo, desde instancias de divergencia,
+donde se fomenta el levantamiento de una multitud de ideas y conceptos generales y a veces
+borrosos, con pocas restricciones, muchas necesidades y suposiciones, hacia un proceso de
+convergencia que apoya la priorización de las iniciativas y recursos necesarios que formarán parte
+del plan de acción final.
+Además, si bien existe un marco lógico para el desarrollo de la hoja de ruta, ese proceso tiene que
+ser flexible, entendiendo que en cualquier etapa puede surgir una idea o un concepto que no se
+había levantado previamente, pero que es considerado como clave y que tiene que ser incorporado
+en la construcción de la estrategia. En ese sentido, la información y resultados presentados en este
+informe son insumos para las etapas posteriores y podrían llegar a ser modificados,
+específicamente, la Visión Estratégica. Esta tiene que ser madurada y eventualmente alimentada
+con los resultados que vayan saliendo de los talleres de hoja de ruta y de las mesas temáticas para
+luego ser validada por el Comité Estratégico, considerando también que podría sufrir modificaciones
+hasta la validación de la versión final de la Hoja de Ruta de EC.
+Los meses de junio, julio y agosto son meses clave del proceso participativo y, a pesar del contexto
+de la pandemia, hasta ahora, las actividades se han realizadas de forma exitosa, con niveles
+participativos muy satisfactorios. En los próximos meses, el trabajo se va a enfocar en la
+consolidación y análisis de toda la información levantada para el diseño (en forma y fondo) de la
+hoja de ruta y su plan de acción, para su revisión y validación inicial por el Comité Estratégico y
+publicación a consulta pública.
+42
+
+--- Página 43 ---
+VI. Bibliografía
+Beyene, H. D., Werkneh, A. A., & Ambaye, T. G. (Marzo de 2018). Current updates on waste to energy
+(WtE) technologies: a review. Renewable Energy Focus, 24 , 1 - 11.
+Bosmans, A., Vanderreydt, I., Geysen, D., & Helsen, L. (2013). The crucial role of Waste-to-Energy
+technologies in enhanced landfill mining: a technology review. Journal of Cleaner Production, 55 ,
+10–23.
+Eurostat. (2017). Circular material use rate . Obtenido de
+https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=cei_srm03
+0&plugin=1
+Gobierno de Chile. (2020). Contribución Determinada a Nivel Nacional (NDC) de Chile - Actualización
+2020.
+Jung, S., Lee, J., Park, Y.-K., & Kwon, E. (2020). Bioelectrochemical systems for a circular bioeconomy.
+Bioresource Technology , 300.
+Kotter, J. P. (1988). Leading Change: An Action Plan from the World's Foremost Expert on Business
+Leadership.
+MMA. (2017). Disposición a suelo . Obtenido de RETC: https://retc.mma.gob.cl/disposicion-a-suelo/
+MMA. (2018). Disposición a suelo . Obtenido de https://retc.mma.gob.cl/disposicion-a-suelo/
+MMA. (2019). Quinto Reporte del Estado del Medio Ambiente.
+Moya, D., Aldás, C., Jaramillo, D., Játiva, E., & Kaparaju, P. (2017). Waste - To - Energy Technologies: an
+opportunity of energy recovery from Municipal Solid Waste, using Quito - Ecuador as case study.
+Energy Procedia, 134 , 327 – 336.
+Nastro, R. A., Falcucci, G., Minutillo, M., & Jannelli, E. (2017). Microbial Fuel Cells in Soli d Waste
+Valorization: Trends and Applications. Modelling Trends in Solid and Hazardous Waste
+Management , 159 – 171.
+Seiple, T. E., Skaggs, R. L., Fillmore, L., & Coleman, A. M. (2020). Municipal wastewater sludge as a
+renewable, cost - effective feedstock for transportation biofuels using hydrothermal liquefaction.
+Journal of Environmental Management , 270.
+SINiA. (2018). ODS 8.4.1. y 12.2.1 HUELLA MATERIAL PER CÁPITA Y HUELLA MATERIAL POR PIB . Obtenido
+de Estado del Medio Ambiente: http://sistemaintegrador.mma.gob.cl/mma-centralizador-
+publico/indicador/vistaIndicador.jsf?id=5CA823CB-896F-239C-AF3B-E55D2BE9D1D9&subtema=1
+Sodhi, A. K., Tripathi, S., & Kundu, K. (2017). Biodiesel production us ing waste cooking oil: a waste to
+energy conversion strategy. Clean Technologies and Environmental Policy, 19 (6), 1799 – 1807.
+Trabold, T. A., & Babbitt, C. W. (2018). Sustainable Food Waste-To-energy Systems. Elsevier .
+43
+
+--- Página 44 ---
+VII. ANEXO
+A. Agendas de los talleres de visión 1 y 2
+Hoja de Ruta Economía Circular
+Taller de visión
+Fecha: 9 de junio, 9:30-12:30
+Agenda Detallada
+Actualizada 04 junio 2020
+Objetivos de la Reunión
+ Levantar insumos para poder generar una visión compartida y consensuada para la hoja de ruta
+de EC
+Plataforma para la reunión
+ Zoom
+Roles (las siguientes personas serán ‘co-hosts’ de la reunión)
+ Héctor Vega – Facilitador.
+ Guillermo González – Dueño de casa
+ Tomás Saieg – . Co-facilitador
+ Linnet Solway - Co-facilitadora .
+ Betsy Fierman – Co-facilitadora .
+ Javier Mora – Co-facilitador .
+ Andrea Garcés – Co-facilitadora .
+ Julián Acosta - Co-facilitador
+ Tania – Apoyo tecnológico
+44
+
+--- Página 45 ---
+Agenda (detalle)
+Hora Actividad Roles, Objetivos y Flujo Detalles, Tecnología y Materiales Requeridos
+9:00 – 9:30 Llegada equipo Objetivo Linnet es host; ingresa las encuestas durante este
+ Asegurarse de que todo está claro y funcionando. periodo.
+Flujo: Héctor, Tomás, Betsy, Andrea, Javier, Julián son co-
+1. Equipo organizador llega, asegura que funciona su hosts.
+audio/video, prueba PPTs, etc.
+2. Se hace un repaso de esta agenda.
+9:30 – 9:50 Llegada del Objetivos
+público,  Abrir la reunión.
+tecnología y  Asegurar que todos sepan usar los features de
+encuestas zoom que necesitarán.
+ Romper el hielo y tomar el pulso del grupo.
+Flujo:
+1. Guillermo saluda a participantes mientras ingresan
+a la reunión. Reitera sugerencias enviadas por
+correo:
+o Mostrar video, de ser posible.
+o Silenciar micrófono cuando no se está
+hablando.
+o Cambiar nombre (nombre, apellido,
+organización).
+2. Después de unos 2 minutos, Guillermo explica que
+estamos pronto a empezar.
+3. Guillermo pide a Linnet explicar (1 min) los 1. Linnet muestra lámina instrucciones zoom ,
+aspectos claves de zoom : desde su computador. Luego deja de compartir
+o Cómo levantar la mano su pantalla.
+o Cómo reaccionar
+o Indica que le pueden escribir por chat,
+correo o whatsapp para ayuda con
+45
+
+--- Página 46 ---
+problemas de tecnología.
+o Mientras Linnet habla, Tomás ingresa en
+el chat las mismas instrucciones.
+o Linnet pasa palabra a Guillermo .
+4. Guillermo menciona que antes de partir, el VP de 1. Tomás muestra video de VP CORFO desde su
+CORFO, Pablo Terrazas quiso hacer un saludo al computador luego deja de mostrar su pantalla.
+comité a través de un video.
+5. Guillermo menciona que llegaron varios
+comentarios al diagnóstico, agradece los
+comentarios y que el equipo los está procesando
+para ver la mejor forma de incorporarlos en la Hoja
+de Ruta.
+6. Guillermo también agradece todas las propuestas 2. Tomás muestra pantalla con lámina de
+que llegaron para las mesas temáticas que fueron propuesta de mesas hasta ahora. (POR
+muchas e insiste en que se deben mandar las CONFIRMAR)
+propuestas antes del final del día . También pide
+que se propongan nombres para cada mesa. Esta
+semana se trabajará una propuesta consolidada
+para ser presentada y validada por el comité
+estratégico.
+7. Guillermo señala que antes de empezar, es 3. Tomás muestra pantalla con laminas sobre
+necesario consensuar reglas simples de regla de Chatham House
+comunicación respecto de lo que se conversa en el
+comité y explica que, al consultar con algunos de
+los miembros del comité, se ha llegado a una
+propuesta que Guillermo presenta con un par de
+slides. Pide que todos validen con un Thumbs up o
+Thumbs down con la mano.
+8. Antes de dar inicio al taller, Guillermo explica que
+muy pronto se va a lanzar una encuesta para
+empresas para complementar la encuesta
+ciudadana.
+46
+
+--- Página 47 ---
+9:50 – 10:10 Presentación del Objetivos
+Taller e  Presentar e introducir el taller y preparar
+introducción emocional y mentalmente a los participantes.
+Flujo
+1. Guillermo pasa la palabra a Héctor, presentándolo
+como psicólogo, con un magister en psicología
+organizacional y en innovación y que ha
+participado en la construcción de la visión de la
+estrategia de cambio climático para varias
+regiones.
+2. Héctor hace su presentación  Héctor muestra presentación de introducción
+3. Héctor pregunta si hay dudas (max. 3min) desde su computador
+4. Héctor explica que a continuación las actividades
+se van a realizar en grupos, y que cada grupo  Linnet separa los participantes en 6 breakout
+tendrá un facilitador que guiará cada actividad. Da rooms de 6-7 personas (grupos predefinidos),
+la palabra a Linnet para que recuerde cómo asegurándose de que cada grupo tenga un
+funcionan los breakout rooms. facilitador.
+Facilitador General:
+ Héctor
+Facilitadores Grupales :
+ Tomás, Betsy, Linnet, Javier, Andrea, Julián
+Antes de irse a su breakout room, Linnet hace Host
+principal a Tania.
+10:10 – 10:55 Trabajo en Objetivos
+Breakout rooms –  Que cada participante se involucre con el trabajo y
+Experiencias escuche a los demás
+personales  Generar conjunto agrupado de post-its con
+(max. 30 min.) conceptos clave
+- Conceptos de la
+Transformación Flujo
+(máximo 15 min.) 1. Facilitador pide que cada persona cuente UNA Aquí no se comparte pantalla .
+experiencia personal específica de transformación
+positiva (3 - 4 min/persona). Para eso, contestan 3
+47
+
+--- Página 48 ---
+preguntas:
+o ¿De qué se trató? (a qué te enfrentabas,
+en qué contexto)
+o ¿Cómo lo enfrentaste (recursos
+personales, de otras personas, etc.)?
+o ¿Qué aprendiste para tu vida?
+2. Entre cada historia, se puede generar una pequeña  Facilitador va recopilando los conceptos que
+discusión respecto de los conceptos facilitadores salen en esta etapa, ingresandolos en el
+de transformación, pero no es necesario cada vez. Tablero en Miró (pero sin compartir pantalla)
+3. Una vez que todos los participantes hayan contado  Facilitador comparte su pantalla con el Tablero
+su historia, el Facilitador inicia un intercambio para en Miró, mostrando los conceptos ya
+identificar los conceptos facilitadores de la recopilados y va llenando a medida que surgen
+transformación que destacan de las experiencias nuevos conceptos de transformación. Luego va
+personales y los recopila en Miró . Una vez agrupando los post - its en el Tablero .
+identificados, se agrupan los conceptos
+relacionados.
+10:55 – 11:00 BREAK 5 min  Facilitador deja de compartir pantalla
+11:00 – 11:25 Trabajo en Objetivos
+Breakout rooms -  Identificar los temas que se espera que la EC
+Viaje al 2040 resuelva en el futuro
+Flujo
+1. El facilitador pide que los participantes se  Facilitador da 30 segundos para que los
+proyecten en el tiempo al 2040 y vean las mejores participantes se imaginen el futuro.
+transformaciones que la EC a provocado en el
+mundo. Y que contesten la pregunta: ¿Cuáles son
+los principales temas resueltos?
+2. El facilitador comparte su pantalla y va agregando
+en Miró post-its con las ideas generadas. Una vez  Facilitador comparte pantalla con Tablero en
+levantadas la mayoría de las ideas, pide que se Miró y va agregando post - it a medida que los
+agrupen los temas relacionados. miembros del grupo identifican ideas. Luego va
+agrupando los post - its en el Tablero .
+48
+
+--- Página 49 ---
+11:25-11:50 Trabajo en Objetivos
+Breakout Rooms  Generar 2 frases por grupo para empezar a
+– elaboración de construir la visión en base a los conceptos
+visión inicial facilitadores de transformación y los principales
+temas a resolver
+Flujo
+1. El Facilitador explica el objetivo de esta actividad y  Facilitador sigue compartiendo pantalla con
+vuelve a la parte del Tablero en Miró dónde Miró y va moviendo post-its y redactando las
+aparece los resultados de las actividades frases definidas por el grupo.
+anteriores. Pide que los participantes identifiquen
+los conceptos de transformación y los temas
+resueltos más importantes para la construcción de
+la visión de un Chile Circular. Mueve los post-its a
+la parte del Tablero que corresponde a esta
+actividad.
+2. Luego el Facilitador pide que los participantes
+empiecen a armar frases para construir la visión.
+Pide que sean creativos y va redactando frases en
+Miró a medida que surgen .
+3. Antes del final de la sesión, se seleccionan las dos
+frases que más reflejan la visión del grupo. El
+facilitador se asegura de que al menos una de las
+dos frases sea específica pero explica que no se
+preocupen si no están reflejados todos los
+conceptos de EC ya que todos los demás grupos
+también están generando frases.
+4. Obtenidas las 2 frases, el facilitador se asegura que  Facilitador deja de compartir pantalla
+el grupo defina quién será su vocero en el plenario
+y luego da un break de 5 minutos.
+11:50-11:55 BREAK 5 min  Tania trae a todos de vuelta durante el break y
+vuelve a asignar el rol de host a Linnet.
+1. Host trae a todos de vuelta  Los facilitadores aprovechan el break para
+enviar a Tomás las frases de su grupo por el
+whatsapp.
+49
+
+--- Página 50 ---
+11:55-12:25 Objetivos
+ Presentar las frases preparadas por cada grupo  Poner tiempo para la intervención de cada
+ Votar por las tres frases que más le hace sentido a vocero: 4min
+cada participante
+ Mientras los participantes presentan sus frases,
+Flujo Tomás escribe en Menti todas las frases.
+1. Héctor continúa con la facilitación del plenario
+2. El vocero de cada grupo presenta las frases de su  Betsy o Linnet escribe en el chat la dirección de
+grupo y comenta brevemente respecto del proceso la pagina web y el código para entrar a Menti
+(máx. 3 min por vocero)
+3. Después de que cada grupo haya presentado,  Linnet pone en el chat las frases de todos los
+Héctor explica a los participantes que van a tener grupos
+que votar por las 3 frases que más resuenan con
+ellos. Para eso, tienen que entrar a menti.com y
+entrar el código que aparece en el chat y en la
+pantalla, d e preferencia desde el celular. Aclarar
+que no deben salirse de Zoom y que si alguien
+tiene un problema para entrar, se puede contactar
+con un miembro del equipo facilitador que tomará
+su voto.
+4. Héctor anuncia cómo seguirá la redacción que se
+presentará en la siguiente jornada, junto con el
+trabajo que se hará en los focos.
+12:25 – 12:30 Cierre y próximos Objetivos
+pasos  Cerrar la reunión.
+Flujo
+1. Guillermo retoma moderación del taller, recuerda
+los próximos pasos más inmediatos del Comité
+(mesas temáticas, fecha próximo taller).
+2. Guillermo dice que nos despediremos con una  Linnet muestra Encuesta Final
+encuesta final. Pide a Linnet que muestre 1. ¿ Que me parecen los resultados de este
+encuestas. Comenta. taller?
+3. Guillermo despide a todos y cierra la reunión. o Genial, vamos hacia una visión
+inspiradora.
+o Me gustaron las frases, pero falta
+50
+
+--- Página 51 ---
+afinar/profundizar.
+o No me convencen tanto, faltan
+aspectos claves.
+o Me preocupa la dirección en la cual
+vamos.
+o Estoy decepcionado/a…
+Hoja de Ruta Economía Circular
+Taller de visión
+Fecha: 16 de junio, 9:30-12:30
+Agenda Detallada
+Actualizada 10 de junio 2020
+Objetivos de la Reunión
+ Levantar insumos para poder generar una visión compartida y consensuada para la hoja de ruta de EC
+Plataforma para la reunión
+ Zoom
+Roles (las siguientes personas serán ‘hosts’ de la reunión)
+ Héctor Vega – Facilitador. Es quien lleva el ritmo de la reunión, marcando las transiciones, y pasando la palabra a quien corresponda. El
+facilitador no tiene la responsabilidad de mirar el chat. Si debe estar atento a la lista de participantes por si alguien levanta la mano, en los
+momentos designados para interacción con los participantes.
+ Guillermo González – Facilitador.
+ Tomás Saieg – Apoyo Tecnológico y Monitor del Chat . Tiene la responsabilidad de revisar permanentemente el chat y responder consultas
+por ese medio, y a responder a problemas tecnológicos. El facilitador puede recurrir a Tomás para preguntar si hay comentarios en el chat
+que haya que compartir, para darse un respiro, para solicitar complementar algo, etc. Es además el back-up por si se cae la conexión del
+facilitador.
+51
+
+--- Página 52 ---
+ Linnet Solway - Co-facilitadora . Tiene la responsabilidad de dar las instrucciones técnicas del uso de la plataforma al comienzo, y resolver
+dudas al respecto si las hubiera. Además, es la persona encargada de cargar y mostrar las encuestas. Tiene además la responsabilidad de
+revisar la lista de participantes y silenciar a quienes no tengan silenciado el micrófono. Responsabilidad de bajar las manos. Encargada de
+dejar a la gente del waiting room entrar.
+ Betsy Fierman – Retroalimentación (canal interno) . Tiene la responsabilidad de retroalimentar al equipo a través del canal interno
+(whatsapp) que se armará para ello, si esto fuese necesario. Tiene además la responsabilidad de retroalimentar al equipo al final de la
+reunión. También sacará screenshots de las encuestas, y estará lista para apoyar con cualquier otra tarea que se requiera (mostrar pantalla,
+monitorear chat, etc.).
+ Javier Mora – Notas . Tiene la responsabilidad de tomar notas y elaborar la minuta post-reunión.
+ Andrea Garcés – Notas . Tiene la responsabilidad de tomar notas y elaborar la minuta post-reunión.
+Agenda (detalle)
+Hora Actividad Roles, Objetivos y Flujo Detalles, Tecnología y Materiales Requeridos
+9:00 – 9:30 Llegada equipo Objetivo Linnet es host; ingresa las encuestas durante este
+ Asegurarse de que todo está claro y funcionando. periodo.
+Flujo: Guillermo, Héctor, Tomás, Betsy, Javier, Andrea y Jaime
+3. Equipo organizador llega, asegura que funciona su son co-hosts.
+audio/video, prueba PPTs, etc.
+4. Se hace un repaso de esta agenda.
+9:30 – 9:35 Llegada del Objetivos
+público,  Abrir la reunión.
+tecnología y  Asegurar que todos sepan usar los features de
+encuestas zoom que necesitarán.
+ Romper el hielo y tomar el pulso del grupo.
+Flujo:
+9. Guillermo saluda a participantes mientras ingresan  No se comparte pantalla.
+a la reunión. Reitera sugerencias enviadas por
+correo:
+o Mostrar video, de ser posible.
+52
+
+--- Página 53 ---
+o Silenciar micrófono cuando no se está
+hablando.
+o Cambiar nombre (nombre, apellido,
+organización).
+10. Después de unos 2-3 minutos, Guillermo explica
+que estamos pronto a empezar.
+11. Guillermo recuerda que al finalizar la ultima
+reunión, 73% del comité dijo que faltaba
+profundizar la visión y 26% dijo que íbamos hacia
+una visión inspiradora.
+9:35 - 9:50 Presentar Objetivos
+resultado de  Explicar el proceso de validación y creación de las
+agrupación de mesas temáticas
+mesas temáticas
+Flujo
+1. Guillermo explica que antes de partir con el taller,
+se va a presentar el proceso de validación y
+creación de las mesas temáticas.
+2. Guillermo explica, mostrando slides, el protocolo  Guillermo muestra presentación de mesas
+de creación de mesas: mecanismo de definición de temáticas desde su computador y luego deja de
+las mesas finales, quienes participan y como se compartir pantalla para recibir reacciones.
+definen, productos esperados, etc.
+3. Explica que los miembros del comité tienen hasta
+el miércoles 17 en la tarde para inscribirse en una o
+más mesas (tanto el titular como el suplente). La
+inscripción en una mesa significa un compromiso y
+participación activa en todo el proceso.
+4. Guillermo deja un espacio para resolver dudas y
+recibir comentarios (10 min.). También se pueden
+hacer por chat.
+9:50 - 10:10 Presentar la Objetivos
+visión e  Presentar la visión
+introducir el  Introducir el taller y la metodología
+53
+
+--- Página 54 ---
+taller y su
+metodología Flujo
+1. Guillermo explica que, antes de dar la palabra a  Linnet muestra desde su pantalla el video de
+Hector para que presente el resultado del taller Ladeja.
+anterior, se va a mostrar un video de Ladeja
+Godina, fundadora y CEO de Circular Change,
+quienes desarrollaron la hoja de ruta de Eslovenia y
+Presidenta del European CE Stakeholder Platform,
+quien forma parte del equipo consultor de
+Eurochile para el proyecto de la hoja de ruta.
+Ladeja preparó unas palabras para el comité.
+2. Guillermo pasa la palabra a Héctor quien presenta
+la visión desarrollada en base a las frases  Héctor muestra presentación de la visión desde
+generadas por los distintos grupos en la sesión su computador y luego deja de compartir su
+pasada. Explica que se mandará a todos para que pantalla
+puedan leerlo y mandar comentarios respecto del
+contenido más que de la redacción. El plazo para  Linnet lanza la encuesta:
+mandar comentarios es el miércoles 24 de junio. Qué me parece la visión?
+Sin embargo, se va a hacer una encuesta para 1. Muy inspiradora!
+tomar la temperatura. 2. Me gusta, aunque falta unos conceptos
+3. Héctor deja unos minutos para que todos puedan
+importantes.
+leer la visión y luego pide a Linnet lanzar la
+3. No me convence.
+encuesta.
+4. Esta visión no me representa.
+4. Héctor lee la pregunta de la encuesta y comenta
+sobre los resultados y luego da un espacio breve
+para comentarios (3 min)
+5. Héctor hace su presentación sobre el taller de hoy
+y los focos.
+6. Héctor pregunta si hay dudas (max. 3min)
+7. Héctor explica que a continuación las  Héctor muestra presentación de introducción
+actividades se van a realizar en grupos, y que cada del taller desde su computador y luego deja de
+grupo tendrá un facilitador que guiará cada compartir su pantalla.
+actividad. Da la palabra a Linnet para que
+recuerde cómo funcionan los breakout rooms.  Linnet separa los participantes en
+6 breakout rooms divididos por foco (1 obtención
+de recursos, 2 de producción, 1 de consumo y
+54
+
+--- Página 55 ---
+servicios, 2 de gestión de residuos), asegurándose
+de que cada grupo tenga un facilitador.
+Facilitador General:
+ Héctor
+Facilitadores Grupales:
+ Tomás, Betsy, Linnet, Javier, Andrea, Julián o
+Jaime?
+Antes de irse a su breakout room, Linnet hace Host
+principal a Tania.
+10:10 - 11:30 FOAR Objetivos
+ Levantar un análisis FOAR del foco del grupo
+Flujo  Facilitador comparte su pantalla con el Tablero
+1. El Facilitador acompaña con preguntas y en Miró y va llenando a medida que surgen
+orientaciones la construcción del FOAR, anotando conceptos de Fortalezas, Oportunidades,
+en Miró los conceptos que van saliendo. Aspiraciones y Resultados.
+Dar un break de 5min alrededor de las 10.30-10.45hrs Al elegir el vocero, el facilitador explica que la idea es
+resumir el proceso y las ideas principales
+ Facilitador deja de compartir pantalla
+11:30 – 11:35 BREAK  Tania trae a todos de vuelta durante el
+break y vuelve a asignar el rol de host a Linnet.
+11:35-12:15 Plenario con Objetivos
+presentación del  Presentación del trabajo de cada grupo
+trabajo en grupo
+Flujo
+1. Héctor continúa con la facilitación del plenario
+2. Pide al vocero de cada grupo presentar los  Linnet comparte su pantalla y va mostrando el
+aspectos más importantes o relevantes que se tablero en Miró de cada grupo mientras
+levantaron en el desarrolló del FOAR (máx. 3min presentan y pone el timer (3min)
+por vocero).
+55
+
+--- Página 56 ---
+3. Héctor explica que vamos a tener un tiempo para
+conversar un poco respecto de los resultados de
+los FOAR
+4. Luego explica cómo se va a trabajar la información
+del FOAR
+5. Héctor recuerda que cada miembro del comité
+tiene que validar la visión y explica nuevamente
+cómo.
+12:15 – 12:25 Cierre y próximos Objetivos
+pasos  Cerrar la reunión.
+Flujo
+4. Guillermo recuerda cuáles son los próximos pasos
+más inmediatos del Comité (comentarios a la visión
+(24/06), mesas de trabajo (17/06)).
+5. Antes de despedirse, Guillermo menciona que Bill  Linnet muestra video de Bill desde su
+McDonough, miembro del comité asesor computador
+internacional, va a participar de un webinar
+organizado por Triciclos el viernes y como teaser
+trailer aquí les vamos a mostrar un video de lo que
+se va a conversar en el webinar.
+6. Guillermo dice que nos despediremos con una  Linnet muestra Encuesta Final
+encuesta final. Pide a Linnet que muestre A estas alturas del proceso, como me siento sobre esta
+encuesta. Comenta. iniciativa?
+7. Guillermo despide a todos y cierra la reunión. 1. Motivado/a! Estamos construyendo algo
+genial.
+2. Me ha gustado.
+3. Me gustaría más diálogo y deliberación en
+base a datos.
+4. Quisiera más tiempo para conocer a los
+demás miembros del Comité.
+5. Tengo dudas sobre su valor.
+6. Echo de menos el café y galletas de las
+reunions presenciales.
+56
+
+--- Página 57 ---
+B. Encuesta ciudadana
+I. Objetivos de la Encuesta realizada a la ciudanía
+La definición de las preguntas que constituyeron la encuesta estuvo orientada a abordar tres objetivos
+específicos:
+1. Identificación del perfil del consumidor . El objetivo busca identificar las características generales
+de los encuestados al actuar como consumidores, a través de preguntas relacionadas a sus
+decisiones al momento de optar por productos y servicios que se ofrecen actualmente en el
+mercado. De la misma manera, se plantea identificar su percepción del impacto que causan sus
+decisiones en la oferta del mercado.
+2. Caracterización del patrón de consumo . Este objetivo persigue identificar la existencia de
+tendencias o patrones de consumo de los encuestados, asociados a rango etario, nivel educacional
+o ubicación geográfica.
+3. Identificar la disposición del consumidor a implementar medidas circulares . Este objetivo evalúa
+el interés del encuestado en incorporar hábitos más circulares a sus decisiones diarias, las trabas
+que ellos identifican al implementar medidas circulares y su disposición a recibir educación en
+temáticas de EC. El análisis busca identificar si la disposición a cambiar hábitos esta asociada a
+alguno de los rangos etarios caracterizados o a un territorio en particular.
+Así, se propone que la información obtenida a partir de este análisis contribuya al diseño efectivo de
+medidas circulares desde el mercado y que sean factibles de adoptar por el consumidor, de manera de
+que sean dirigidas adecuadamente de acuerdo con sus hábitos, necesidades y aspiraciones.
+II. Metodología
+La encuesta fue diseñada con preguntas en su mayoría de selección múltiple con una aproximación
+cuantitativa y cualitativa de manera de desarrollar los objetivos planteados. Tanto el MMA como Eurochile
+participaron de su formulación y el diseño de las respuestas alternativas.
+Además de las preguntas planteadas, se habilitó un espacio para recoger los comentarios y opiniones de
+los encuestados, los que fueron recolectados para su incorporación dentro del análisis general.
+La encuesta fue difundida a través de una plataforma digital a la base de contactos de Eurochile y por RRSS
+de Eurochile, el MMA, la ASCC y CORFO. La encuesta estuvo disponible online desde 09 al 30 de abril 2020.
+Las respuestas fueron analizadas según los siguientes criterios:
+- Descripción de la Muestra: Se caracterizó el universo de los encuestados según género, localización
+geográfica, edad y nivel educacional.
+- Resultados: Se analizó las respuestas a las preguntas, estableciéndose conclusiones directas que
+permitieron definir perfiles y patrones de consumo. Además, se analizó las correlaciones de mayor
+57
+
+--- Página 58 ---
+interés que pudieran responder la disposición del consumidor a implementar medidas más
+sustentables en sus hábitos de consumo.
+- Sección Comentarios: Se extrajo los conceptos más frecuentes dentro de los comentarios aportados
+por los encuestados, se representaron en una nube de palabras y se incorporaron en el análisis de las
+respuestas a la encuesta.
+III. Descripción de la muestra
+La descripción de la muestra permite entender el alcance de la encuesta, la representatividad de sus
+resultados y la repercusión de sus conclusiones.
+El total de respuestas recibidas por la plataforma durante el periodo en que estuvo disponible la encuesta
+permitió consolidar una muestra de 3.444 encuestados, los que fueron caracterizados según la
+información indicada sobre género, ubicación geográfica, rango etario y nivel educacional.
+a) Distribución de encuestados por género. Según lo indicado por los encuestados, un 58% se siente
+representado por el género masculino, mientras que un 41% por el femenino. Solo un 1% prefirió
+no decirlo u optó por la opción de “otro” (figura 1).
+Figura 1. Distribución de encuestados por género.
+b) Distribución de encuestados por territorio. La figura 2 da cuenta de que existió participación de
+todas las regiones del territorio nacional y que además se registró un 4% de encuestados
+provenientes de regiones fuera de Chile. El 49% de los encuestados indicó pertenecer a la Región
+Metropolitana, seguido de un 9% perteneciente a la V región y otro 9% de la VIII región de la
+Araucanía, 5% de la VI región y un 4% de la región de Los Lagos. Mientras la región de Arica y
+Parinacota participó con un 0,3% el resto de las regiones participó con un 2 y 3% de los
+encuestados.
+58
+
+--- Página 59 ---
+1800 1678
+1600
+1400
+1200
+1000
+800
+600
+400 326 297
+11
+173 143 145
+200 68 71 76 109 71
+54 50 59 49 64
+0
+Figura 2. Distribución de encuestados por territorio.
+c) Distribución de encuestados por edad. Según la caracterización del universo de encuestados
+según edad, la encuesta obtuvo respuestas en todos los segmentos definidos. La figura 3
+muestra la distribución de los encuestados de acuerdo con la edad señalada. Dentro del
+universo de los encuestados, el 41% indicó tener entre 27 y 39 años seguido de un 30,4% que
+indicó pertenecer al grupo de 40 y 55 años. El segmento de 17 a 26 años fue representado por
+un 18,5% seguido de un 8,8% correspondiente a encuestados que declararon tener entre 56 y
+70 años. Los rangos etarios con menor representación fueron aquellos encuestados
+pertenecientes a la edad entre 0 y 16 años y más de 70 años.
+59
+
+--- Página 60 ---
+1600
+1400
+1411
+1200
+1000
+1047
+800
+600
+636
+Número de encuestados 400
+200 304
+15 31
+0
+0-16 años 17-26 años 27-39 años 40-55 años 56-70 años más de 70
+años
+Figura 3. Distribución de encuestados por rango etario. El número indicado sobre cada barra representa el
+número de encuestados según rango etario
+d) Distribución de encuestados por nivel educacional. La figura 4 grafica la distribución de los
+encuestados según el nivel de educación indicado. Así, se observa una mayoría de 58% con
+formación universitaria, seguido de un 28% con estudios de postgrado y un 14% para los niveles
+de básica, media y “prefiero no decirlo”.
+1% 0% 5%
+8% E. Básica
+28%
+E. Media
+E. Técnica
+Universitario
+Postgrado
+58%
+Prefiero no decirlo
+Figura 4. Distribución de encuestados por nivel educacional.
+Según la descripción de la muestra, es posible indicar que el universo de los encuestados contiene
+representantes de todas las regiones de Chile, en distintas proporciones, y una fracción del extranjero,
+60
+
+--- Página 61 ---
+posee en su mayoría entre 27 y 55 años, y un 86% posee un nivel educacional universitario o más alto.
+Por otro lado, el acceso a la encuesta fue limitado al grupo de personas con conectividad digital.
+Respecto del interés de los participantes en temáticas de EC previo a esta encuesta, éste fue estimado
+a partir de las repuestas graficadas en la figura 18, de manera que según ellas se sugiere que el universo
+posee participantes que declaran que no conocen el concepto, tanto como participantes conocedores
+de la temática.
+IV. Resultados
+A continuación, se presentan los resultados obtenidos a cada pregunta y sus conclusiones:
+¿Separa y recicla sus residuos ¿Qué tipos de residuos recicla?
+domiciliarios?
+3000
+2500
+25% 2000
+1500
+1000
+500
+0
+Número de respuestas
+75%
+Si No
+Figura 5 Figura 6
+Como se muestra en la figura 5, ante la pregunta ¿Separa y recicla sus residuos domiciliarios? , el 75% de
+los encuestados declara reciclar sus residuos domiciliarios, dentro de los que en su mayoría destacan
+botellas plásticas, vidrios, seguidos por cartón y papel y latas (figura 6). Es interesante notar que los
+residuos orgánicos fueron considerados casi al mismo nivel que “otros plásticos” y “Tetrapack”, por lo
+que sugiere tener un alto potencial de desarrollo.
+Para tener una idea de las principales causas que dificultan el reciclaje a nivel domiciliario, se formuló
+la siguiente pregunta ¿En el caso de que recicle, qué le dificulta reciclar?, ¿Si no recicla, qué se lo impide?
+Dentro de las opciones ofrecidas, la “lejanía de los puntos limpios” recibió la mayor parte de las
+votaciones, con un 28% de las respuestas (figura 7). Este resultado se observa también en la recopilación
+de los comentarios de los encuestados, donde la falta de puntos limpios y la poca accesibilidad a ellos
+se presenta como un tema recurrente al momento de querer reciclar (figura 21). En la misma línea los
+encuestados sugieren mayor visibilidad de los puntos limpios existentes mediante plataformas que los
+geolocalicen e indiquen su especificidad de recepción de residuos. Por otro lado, se observan
+comentarios que dan cuenta de malas experiencias debido a la gestión ineficiente de los puntos limpios,
+donde muchas veces sobrepasan su capacidad de contención sin ser retirados en los tiempos
+adecuados, y donde la disposición de material para reciclaje no se realiza apropiadamente, siendo foco
+de malos olores e infección
+61
+
+--- Página 62 ---
+La segunda causa identificada por los encuestados corresponde a “Falta de espacio en mi casa”, con un
+19%, mientras que la tercera causa recae en “Desconfío de que lo que llevo al punto limpio realmente
+se recicle”, con un 17% de las votaciones. Solo un 12% declaró no tener problemas para reciclar,
+mientras que “Me falta información”, “No tengo tiempo” y “Me complica preparar lo que voy a reciclar”
+tuvieron, 10%, 5% y 9% de las respuestas, respectivamente.
+¿En el caso de que recicle, qué le dificulta reciclar? ¿Si no recicla, qué se lo impide?
+2000
+1800
+1600
+1649
+1400
+1200
+1000 1139
+800 998
+600 713
+Número de respuestas 400 563 510
+200 266 14
+0
+El punto Falta Me falta No tengo Me Desconfío No me No tengo
+limpio me espacio en información tiempo complica de que lo interesa dificultades
+queda lejos mi casa preparar lo que llevo al reciclar para reciclar
+que voy a punto
+reciclar limpio
+realmente
+se recicle
+Figura 7
+Al analizar las causales que desincentivan el reciclaje domiciliario, tenemos que las dos primeras mayorías
+“Lejanía del punto limpio” y “Falta de espacio” (e incluso la causal “no tengo tiempo”) pueden abordarse
+desde el mejoramiento de la logística y operativa del sistema de gestión de residuos, donde claramente
+existe una brecha reconocida por el consumidor interesado en reciclar. Así mismo, desde las iniciativas
+recogidas en la sección de comentarios de la encuesta encontramos:
+- incrementar el número de puntos limpios especialmente en regiones,
+- mapeo de la ubicación de los puntos limpios y del tipo de materiales que reciben;
+- implementar servicios municipales de recolección de reciclados a domicilio de manera
+programada de acuerdo con material (especialmente dirigido a edificios para evitar su
+acumulación),
+- ampliar los horarios de funcionamiento de los puntos limpios;
+- ampliar la variedad de tipos de materiales que reciben los puntos limpios (por ejemplo, aceite,
+pilas, otros tipos de plástico).
+Por otro lado, las causales “Desconfío de la eficiencia del sistema de gestión de residuos”, “me falta
+información” y “No me interesa reciclar” son problemáticas factibles de abordar desde una estrategia
+eficiente de difusión al corto plazo, donde la desconfianza pierda fuerza gracias a la transparencia del
+sistema, que visualice sus fortalezas y oportunidades de mejora ante el usuario. De la misma manera, una
+62
+
+--- Página 63 ---
+estrategia educativa permitiría revertir estas tendencias al mediano y largo plazo. Dentro de las iniciativas
+sugeridas por los encuestados encontramos:
+- Informe mensual sobre la valorización de los residuos de las industrias
+- Eco-etiquetado
+- Transparencia de los procesos de gestión de residuos
+- Material educativo a disposición del público a través de RRSS, colegios y municipalidades
+Respecto de la dificultad que señalan los encuestados de “complicación con preparar el material a
+reciclar”, puede responderse desde dos aspectos: 1) a la falta de conceptos de ecodiseño en los productos
+que permitan el reciclaje de los productos más eficientemente, por ejemplo, la mezcla de materialidades
+con distintas potencialidades de reciclaje. Sin bien, el concepto de ecodiseño busca evitar el último eslabón
+de la escala de las Rs de EC, cuando hablamos de causales que impiden reciclar, un producto diseñado sin
+el aspecto sustentable frena la circularidad que se espera, y 2) a la falta de información clara para el
+consumidor, donde se especifique en qué condiciones un residuo debe ser dispuesto, por ejemplo, lavado,
+seco, etc.
+De manera de examinar los patrones de consumo de los encuestados y la importancia que estos dan a
+ciertos aspectos de los productos ofrecidos en el mercado, se evaluó la relevancia de conceptos como
+“producción local”, “producción orgánica”, “capacidad de reutilización”, “eficiencia energética” y “uso de
+envasado y embalado” y la facilidad para informarse sobre estas características al adquirir un producto.
+Los resultados indicaron que más del 95% de los encuestados considera altamente relevante y relevante
+la eficiencia energética (figura 8), lo que va de la mano de la facilidad para acceder a esta información
+indicada por un 70% de los encuestados, mientras que un 23% señaló que era difícil encontrar esa
+información (figura 9). El concepto de reutilizabilidad fue declarado relevante y altamente relevante por
+casi un 90%, sin embargo, un 46% de los encuestados señalo que este tipo de información era de difícil
+acceso, un 44% señalo que es de fácil acceso y casi un 10% indicó no saber. Respecto de las ventajas de la
+producción local de un producto, casi el 30% de los encuestados considera que es poco relevante o
+irrelevante, mientras que el 57% señala tener fácil acceso a esa información, identificando una brecha
+informativa a abordar. Un 74 % de los encuestados señalaron que la producción orgánica es altamente
+relevante y relevante, mientras que un 24% indicó que era poco relevante e irrelevante, y este tipo de
+información resultaba de fácil acceso para el 49% de los encuestados. Un 79 % de los encuestados señaló
+que el uso excesivo de embalaje y envasado era altamente relevante y relevante y un 54% indicó que esta
+información era de fácil acceso.
+63
+
+--- Página 64 ---
+A la hora de elegir que comprar, ¿qué tan relevante ¿Qué tan fácil es para usted informarse sobre
+es para usted cada una de las siguientes cada una de estas características al momento
+características? de comprar un producto?
+Uso excesivo de envases y Exceso de envasado
+embalajes y embalado
+Producción orgánica (sin Altamente
+uso de agroquímicos y relevante
+Producción orgánica
+otras prácticas
+Relevante
+sustentables)
+Fácil
+Poco
+Producción local
+relevante
+(productos nacionales o de Producción local Dificil
+la región vs importados) Irrelevante
+No sabe
+Capacidad de ser
+No sabe
+reutilizado (aplica a pilas
+recargables vs desechables, Reutilizabilidad
+botellas retornables vs
+desechables,
+Eficiencia energética
+Eficiencia energética
+(aplica a lavadoras, micro
+ondas, etc)
+0% 50% 100%
+0% 50% 100%
+Figura 8 Figura 9
+Otro aspecto del patrón de consumo a analizar fue la tendencia a deshacerse de determinados productos
+por desuso (a pesar de ser aún funcional) y el modo de hacerlo, es decir, vender, regalar, botar o guardar.
+Considerando que la naturaleza del producto puede arrojar resultados diferentes, por ejemplo, un
+electrónico, un mueble o ropa, se seleccionó ejemplos representativos de productos para cada caso y se
+preguntó ¿Si en su hogar deja de usar alguno de los siguientes productos, usted? , ofreciéndole respuestas
+como: lo vende, lo regala, lo guarda, lo bota y ninguna de las anteriores.
+Algunos ejemplos que es posible extraer desde la figura 10 indican que el 31,5% de los encuestados señala
+botar artículos electrónicos pequeños que deja de usar (como un hervidor), mientras que más del 60%
+considera regalar zapatillas y jeans. Respecto de muebles, más del 50% de los encuestados señala botar o
+regalarlos en caso de desuso.
+Si bien cada tipo de producto usado en esta pregunta puede representar un comportamiento muy
+diferente del consumidor, es interesante extrapolar que en general, cuando el producto posee poco valor
+económico o es fácilmente reemplazable, la posibilidad de retenerlo para dar una segunda utilidad o
+reusar el producto es muy baja, teniendo como tope máximo un 11% correspondiente al ejemplo del
+librero de madera, mientras que el ejemplo del sillón de dos plazas llega al mínimo de 4%. El abordar
+brechas relativas a información, podrían ofrecer al consumidor alternativas para fomentar estas prácticas
+sustentables.
+64
+
+--- Página 65 ---
+¿Si en su hogar deja de usar alguno de los siguientes productos, usted?:
+Sillón dos plazas
+Lo vende
+Librero de madera
+Par de zapatillas
+Lo guarda
+Pantalón mezclilla (jeans)
+Computador portátil Lo regala
+Teléfono celular (smartphone)
+Lo bota
+Hervidor de agua
+Microondas
+Ninguna de las
+Lavadora anteriores
+Bicicleta
+0% 20% 40% 60% 80% 100%
+Figura 10
+De manera de evaluar la disposición de los consumidores a implementar medidas más circulares, como
+por ejemplo arrendar en lugar de comprar, se definió productos ejemplo como ropa, lavadora, teléfono
+celular, automóvil, muebles, artículos de bebe y maquinarias menores como cortadora de pasto, estufa,
+AC o impresora. Las respuestas se muestran en la figura 11 a continuación:
+¿Estaría dispuesto a arrendar, en lugar de comprar, los siguientes productos?
+2500
+2000
+1979
+1500
+1000 1172
+1097
+876
+500 653
+Número de respuestas 534
+390 452
+0
+Ropa Lavadora Celular Auto Muebles de Artículos de Maquinarias Ninguno
+la casa guagua menores
+Figura 11
+Desde las respuestas entregadas por el universo de encuestados, se revela que el arriendo de maquinarias
+menores, auto y lavadora se perfilaron como los ítems más aceptables para arrendar, siendo consistente
+con la disponibilidad de estos servicios en el mercado actual.
+Por otro lado, mientras el 34% de los encuestados señala no estar dispuesto a arrendar ninguno de los
+productos presentados, si existe un 58% de respuestas que señalan disposición a arrendar ropa y artículos
+de guagua, celular y muebles de casa.
+65
+
+--- Página 66 ---
+Para entender si existe una correlación entre estas tendencias y los grupos etarios de los encuestados se
+analizaron las respuestas de acuerdo con la edad indicada. La figura 12 muestras el universo de los
+encuestados, mientras que la figura 13 muestra un ejemplo de como productos como “ropa” y “celular”
+pueden presentar patrones completamente inversos de comportamiento.
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+71 o mas años
+5% 56-70 años
+40-55 años
+0%
+27-39 años
+17-26 años
+0-16 años
+Figura 12. Correlación de disposición a arrendar productos ejemplos vs rango de edad del encuestado.
+14%
+12%
+10%
+71 o mas años
+8%
+56-70 años
+6% 40-55 años
+4% 27-39 años
+2% 17-26 años
+0% 0-16 años
+Ropa
+Celular
+Figura 13. Correlación de disposición a arrendar “ropa” y “celular” vs rango de edad del encuestado.
+66
+
+--- Página 67 ---
+Estos resultados sugieren que la implementación de medidas circulares en el mercado, como la
+servitilización, es decir el reemplazo de la venta de un producto por el servicio de arriendo, podrían ser
+recibidas de buena o mala forma, dependiendo del público objetivo y de la naturaleza del producto. Por
+ejemplo, se observa claramente como el arriendo de maquinarias menores es aceptado por gran parte de
+los encuestados sin distinguir su rango etario (figura 12), sin embargo, ítems como “ropa” y celular”
+presentan tendencias opuestas, donde para el caso de “ropa” a más edad indicada por el consumidor
+menos probable es que decida arrendar ropa en lugar de comprarla, y por otro lado, para el caso de
+“celular”, a más edad indicada por el consumidor incrementan las posibilidades de arrendarlo vs
+comprarlo.
+Respecto a la influencia del nivel educacional y la distribución territorial sobre los patrones de consumo
+de los encuestados, no se identificó diferencias significativas respecto del análisis del universo total.
+Un aspecto importante a considerar al momento de presentar nuevos productos al consumidor, es la
+preconcepción que tienen de ellos en cuando a calidad y precio. Así, para entender la percepción que
+existe respecto de un producto hecho con materiales vírgenes (o estándar) y un producto hecho con
+materiales reciclados o reutilizados, se diseñó la pregunta “¿Cuánto estaría dispuesto/a a pagar por un
+producto hecho con materiales reciclados o componentes reutilizados?”, ofreciendo iguales garantías de
+calidad. Dentro del las alternativas de respuestas se ofreció considerar a un producto estándar de mayor
+costo, de igual o de menor costo que uno hecho con componentes reutilizados o reciclados como sigue:
+a) Hasta un 50% del precio del producto estándar, b) hasta un 70% del precio del producto estándar, c) el
+mismo precio que el producto estándar, d) hasta un 30% más del precio del producto estándar, e) hasta
+un 50% más del precio del producto estándar, f) no compraría un producto hecho con materiales reciclados
+o reutilizados y g) no sabe.
+¿Cuánto estaría dispuesto/a a pagar por un producto hecho con materiales reciclados o
+componentes reutilizados?
+Hasta un 50% del precio del producto
+Sillón dos plazas estándar
+Librero de madera
+Hasta un 70% del precio del producto
+estándar
+Par de zapatillas
+Pantalón mezclilla (jeans) El mismo precio que el producto estándar
+Computador portátil
+Hasta un 30% más del producto estándar
+Teléfono celular (smartphone)
+Hervidor de agua Hasta un 50% más del producto estándar
+Microondas
+No compraría este producto si estuviera
+Lavadora hecho con materiales reciclados o
+reutilizados
+Bicicleta
+No sabe
+0% 20% 40% 60% 80% 100%
+Figura 14
+Sin importar el tipo de producto reciclado, más de un 25% de los encuestados señaló que pagaría el mismo
+precio por un producto estándar vs uno reciclado, mientras que aproximadamente otro 25% indicó que
+67
+
+--- Página 68 ---
+solo pagaría el 50% del precio de un producto estándar, indicando una desvalorización del producto
+reciclado a pesar de presentarlo con las mismas garantías de calidad. Este resultado evidencia una brecha
+informativa que, con su resolución, podría fomentar que este 25% de encuestados reconsidere el valor de
+un producto fabricado con materiales reutilizados o reciclados. Interesantemente, las respuestas
+identificaron un aproximado de 15% de encuestados que estaría dispuesto a pagar más por un producto
+reciclado que uno fabricado con materiales vírgenes o estándar.
+Respecto a aquellos encuestados que indicaron no estar dispuestos a comprar los productos ejemplos si
+estos fueran fabricados de materiales reutilizados o reciclados, se encontró que el ítem “zapatillas” recibió
+un 10,8%, seguido del ítem “hervidor de agua” y “microondas”, con un 9,6 y 7,9 % de las respuestas,
+respectivamente.
+Como una manera de entender la percepción que tiene el consumidor de si mismo, respecto de su
+responsabilidad en la diversidad de ofertas del mercado, se preguntó ¿Piensa que sus decisiones al
+momento de comprar influyen en los productos que se ofrecen en el mercado?, donde el resultado indicó
+que un 74% de los encuestados piensa que si, y un 26% no lo cree (figura 15). Respecto de la disposición a
+recibir información o ser educado en cómo consumir de manera más amigable con el medio ambiente, un
+87% de los encuestados indicó que si le gustaría versus un 13% que se declaró sin interés (figura 16). Por
+otro, frente a la pregunta “ ¿Es más probable que compre un producto o servicio amigable con el medio
+ambiente?” , un 92% declara que si, un 7% que no y un 1% no sabe.
+¿Piensa que sus decisiones al ¿Le gustaría recibir un curso o ¿Es más probable que compre un
+momento de comprar información sobre cómo producto o servicio amigable con
+influyen en los productos que consumir de forma más el medio ambiente?
+se ofrecen en el mercado? amigable con el medio
+ambiente?
+No sabe
+1%
+No No
+No 13%
+7%
+26%
+Si
+74% Si Si
+87% 92%
+Figura 15 Figura 16 Figura 17
+Los resultados obtenidos a partir de estas preguntas y de los comentarios recibidos en la plataforma de la
+encuesta dan cuenta que los encuestados, en su rol de consumidor, se reconocen como factor
+desequilibrante en las dinámicas de mercado, donde la oferta de nuevos productos o servicios más
+circulares, el acceso a información y la valorización justa de los residuos y su gestión, son temas que
+pasarán de ser “de interés” a ser exigidos por la comunidad. Por lo tanto, la buena disposición de la gente
+a implementar medidas circulares y a ser educados en temas de circularidad, son una oportunidad que
+debe aprovecharse hoy.
+68
+
+--- Página 69 ---
+Con el propósito de comprender más en profundidad el perfil del consumidor y su cercanía al concepto de
+EC, se preguntó, si sabían de EC, si desconocían el término o si lo habían escuchado, pero no sabían del
+todo de que se trataba. La figura 18 indica que un 62% de los encuestados declaró conocer la temática, un
+21% indicó solo haberla escuchado y un 17% declaró no conocer el término (figura 18). Estos resultados
+fueron analizados para: 1. Entender cómo es el perfil del grupo de encuestados que declara no conocer de
+EC y 2. Estimar la representatividad del universo trabajado sobre la realidad nacional.
+Interesantemente, al analizar al grupo de encuestados que declara no saber de EC (579 encuestados) y
+observar sus respuestas respecto de si separan y reciclan sus residuos domiciliarios, encontramos un 58%
+que responde que si recicla vs un 42% que indicó no reciclar (figura 19).
+¿Había escuchado del concepto EC?, ¿sabe lo que Al grupo que declara no conocer de EC se le
+significa? pregunta: ¿Separa y recicla sus residuos
+domiciliarios?
+Si sé lo que es la EC
+Si No
+No, no lo había escuchado
+Lo había escuchado, pero no se bien de qué se trata
+21%
+42%
+58%
+17%
+62%
+Figura 18 Figura 19
+Por lo tanto, se sugiere que a pesar de declarar que no conoce el concepto de EC, el 58% de estos
+encuestados asegura separar y reciclar sus residuos domiciliarios, lo que podría ser una señal de la
+efectividad de campañas de difusión a nivel municipal en materias de reciclaje y gestión de residuos, el
+alcance operativo de sus sistemas de reciclaje a los ciudadanos y/o por la existencia de una conciencia
+instintiva del impacto de la disposición de residuos en el medio ambiente. Cualquiera sea el motivo de este
+comportamiento, se sugiere considerarlo como una oportunidad para promover los hábitos de reciclaje,
+incentivar sus esfuerzos y facilitar operativamente sus acciones.
+Con el objetivo de estimar la representatividad de nuestra encuesta en términos de que sus respuestas
+estuvieran dadas mayormente por personas relacionadas a las temáticas de EC, se analizó las tendencias
+observadas en este subgrupo y fueron comparadas con las tendencias del universo total, de manera de
+comprender el alcance de las conclusiones de esta encuesta. Como ejemplo, se presentan las respuestas
+a la pregunta de “¿En caso de que recicle, qué le dificulta reciclar?, si no recicla, qué se lo impide? (figura
+20).
+69
+
+--- Página 70 ---
+En caso de que recicle, qué le dificulta reciclar?, si no recicla, qué se lo impide?
+60
+50
+40
+30
+% encuestados 20
+10
+-
+El punto Falta Me falta No tengo Me complica Desconfío No me No tengo
+limpio me espacio en información tiempo preparar lo de que lo interesa dificultades
+queda lejos; mi casa que voy a que llevo al reciclar para reciclar
+reciclar punto limpio
+realmente
+se recicle
+Deconoce el concepto de EC Total encuestados
+Figura 20
+De acuerdo con lo observado en la figura 20, en general, las causales que dificultan el reciclaje muestran
+una tendencia semejante tanto para el universo total de encuestados como para el subgrupo que indica
+no conocer de EC. A pesar de eso, se aprecia una diferencia de casi un 50% más de encuestados que
+declaran desconfiar de la gestión de residuos que pertenecen a la población conocedora del concepto de
+EC respecto de los que desconocen el tema.
+Un segundo ejemplo para estimar que tan semejantes son ambos grupos, fue la comparación de las
+respuestas a la pregunta “Comparado con un producto estándar, piensa que los productos hechos con
+materiales reciclados son: a) de la misma calidad b) de mejor calidad o c) de igual calidad” (figura 21).
+Comparado con un producto estándar, piensa que los productos hechos con materiales reciclados
+son:
+80%
+70%
+60%
+50%
+40% Desconoce el concepto de EC
+30% Total de encuestados
+% encuestados 20%
+10%
+0%
+De la misma calidad De mejor calidad De menor calidad
+Figura 21
+En general, se observa que cerca del 80% de los encuestados piensa que los productos fabricados a partir
+de materiales reciclados son mejor o de la misma calidad que un producto estándar fabricado con
+70
+
+--- Página 71 ---
+materiales vírgenes si es que el producto exhibe un sello de calidad para el consumidor. A nivel de
+comparación entre ambos grupos, las tendencias se alinean en gran medida, dejando solo espacio para
+brechas de información que permitan eliminar el prejuicio de la baja calidad con el uso de materiales
+reciclados.
+V. Sección Comentarios
+A continuación, se presentan los conceptos más frecuentemente utilizados en los comentarios entregados
+por los encuestados (Figura 22).
+Figura 22
+Como se observa, el concepto “producto” y EC es ampliamente mencionado, debido principalmente a que
+la encuesta fue dirigida a comprender como los consumidores se relacionan con el mercado de productos
+y servicios, y su cercanía a las temáticas de EC. La predominancia del concepto de “reciclaje” evidencia que
+es la aproximación principal usada por los encuestados hacia la EC, donde incluso la población que indica
+desconocer el tema incorpora hábitos de reciclaje en su vida diaria. La “falta de puntos limpios”, sobre
+todo a nivel de regiones, fue frecuentemente observado entre los comentarios. Se destacan palabras como
+“educación” indicada como brecha, y aparece la palabra “empresa”, asociada a su responsabilidad en la
+oferta de productos y servicios más sustentables y en la transparencia de información.
+En las siguientes tablas se presenta un extracto de las brechas identificadas por los encuestados desde su
+perspectiva y las iniciativas sugeridas para abordarlas:
+71
+
+--- Página 72 ---
+Brechas
+Infraestructura Informativa Operativa Educativa Incentivos Normativas
+No hay puntos de Servicios privados de Puntos de reciclaje con Inclusión de EC, en Descuentos por Falta una política de
+reciclaje en mi comuna. reciclaje no entregan horarios poco amigables programas consumir productos reciclaje en los
+información de que universitarios amigables con el medio municipios
+Se desconoce donde hacen luego con los Falta de espacio para ambiente
+están los puntos verdes. productos. acumular reciclables Reutilización del recurso En Chile no hay
+hídrico a nivel Financiamiento para I+D empresas que reciclen
+Disposición de pilas y Información de cómo Poca oferta de domiciliario productos en grandes
+baterías y electrónicos reciclar un residuo de productos sustentables Apoyo para cantidades como el
+es engorrosa. más de un tipo de en el mercado Faltan clases de emprendimientos poliestireno y plástico 7
+material packaging amigable con circulares
+No se pueden reciclar Deficiente sistema de el medio ambiente Consideración a los
+todos los plásticos o Destino que tiene el recolección domiciliaria Convenio Marco, gestores de residuos
+residuos en los puntos reciclaje Sobreconsumo Compra Express para el ámbito privado
+limpios EC podría tener un
+Ninguna referencia componente social al Empresas alimentarias
+Las principales respecto a la incluir en su cadena de producen envases que
+dificultades se disponibilidad de puntos valor a los grupos no los reciben en ningún
+presentan en las limpios, o retiro vulnerables de la lado (pvc, mixtos,
+alternativas de reciclaje segregado, o impuestos. sociedad poliestirenos y otros).
+de residuos orgánicos,
+inexistencia de En el camión de la Etiquetado
+infraestructura basura se va todo junto
+comunitaria en y revuelto Gobernanza de la hoja
+comparación a los de ruta no transciende a
+inorgánicos. los gobiernos
+En Antofagasta no se
+puede reciclar tetra
+pack, vidrio, bolsa
+plástico reciclable
+Recolectora de residuos
+a nivel comunal
+72
+
+--- Página 73 ---
+Iniciativas
+Infraestructura Informativa Operativa Educativa Incentivos Normativas
+Que se abran Sellos de Subsidio estatal para productos Enseñar desde el colegio, Precios similares con Leyes que obliguen a los productores y
+empresas a nivel sustentabilidad reciclados de producción más cara no solo a reciclar si no que productos consumidores a utilizar productos verdes.
+comunal para productos también las ventajas de la reciclados/upcycled vs
+relacionadas al y servicios. Trabajo en red con regiones reducción y las productos estándard. Norma que transparente el ciclo de vida de
+reciclaje de RAEE nuevas, interconectados y desventajas de los productos y su impacto en el medio
+Sello de comunicados eficientemente sobreconsumo Modificación al Iva de ambiente.
+ecodiseño . entre servicios públicos y productos eficientes
+privados. Educación a la comunidad energéticamente, Política pública la EC.
+locales y recliclados
+Plataforma donde uno pudiera Cursos o talleres gratuitos Debería exigirse a las empresas la
+acceder a la oferta de productos para la comunidad Incentivar la economía reparación y/o circulación de productos
+reciclados y orgánicos. local y lograr bajar los
+Corfo vuelva a realizar costos de los productos Legislen para reciclar orgánicos; es la mitad
+Que los recolectores de basura capacitación en Líderes eco-friendly de la basura
+recogieran distintos tipos, en para el cambio EC, ojalá
+diferentes días en Regiones u online. Política de Estado Que las empresas busquen un envasado
+amigable con el medio ambiente
+El Estado debiera Curso o diplomado en Reciclaje obligatorio
+fomentar/financiar en parte este tema para la Región para el retail Se debería normar sobre los embalajes
+espacios como una Biblioteca de de Atacama
+la Cosas (library of things en UK) Incorporar aspectos Dar por Ley facilidades a los intermediarios
+donde es posible arrendar Enviar encuesta a colegios sustentables como de reciclaje ya que la Ley REP incluye a los
+elementos de camping, requisito para el generadores y los destinatarios finales.
+aspiradora, máquinas para Falta información y una financiamiento de
+cocinar, parlantes y muchos otros. campaña que provoque proyectos. Plataforma con negocios circulares locales
+convicción y conciencia a
+Potenciar el auto abastecimiento los que no reciclan para Castigar con impuestos a los productos en
+de materiales abordar la desconfianza que se compruebe obsolecencia
+en el sistema de gestión programada
+Fortalecer la relación de estos de residuos.
+temas con los Departamentos de Exigir el Ecodiseño de los productos y una
+Medio Ambiente de las meta de recuperación de materiales en
+Municipalidades, Organizaciones porcentaje en peso
+de la sociedad civil e Instituciones
+de Educación Superior. Eliminar el impuesto a materiales
+reutilizados en zonas francas
+73
+
+--- Página 74 ---
+VI. Conclusiones
+ De acuerdo con las tendencias observadas, el consumidor es consciente de que sus decisiones
+pueden ser desequilibrantes en las dinámicas de mercado, exigen nuevos productos que
+incorporen conceptos sustentables tanto a nivel de diseño como a nivel informativo.
+ El consumidor demuestra reconocer el impacto de sus decisiones en el medio ambiente, por lo
+que hace un esfuerzo en cumplir con las medidas propuestas a nivel local, sin embargo, exige una
+mejor gestión a nivel de recolección de residuos, más transparencia, y la optimización de su
+esfuerzo de manera de sumar eficiencia al sistema.
+ Los encuestados, en su rol de consumidor, declaran desear sumarse a la transición de una
+económica más circular, pero la falta de información que le permita optar por productos y servicios
+más sustentables se convierte frecuentemente en una traba. Así, el consumidor identifica a la
+empresa como responsable de visibilizar grados de sustentabilidad mediante sellos circulares, por
+ejemplo.
+ La implementación de medidas más circulares y el ofrecimiento de productos amigables con el
+medio ambiente posee diferentes grados de aceptación para el consumidor, los que pueden
+explorarse generando más instancias consultivas, de manera de afinar las expectativas del
+consumidor y las capacidades de la oferta del mercado.
+ La aplicación de la encuesta permitió ofrecer una ventana al encuestado para expresar sus
+opiniones en temas de brechas de infraestructura, operativa, información, educación e incentivos
+que desde su perspectiva como consumidor afectan la transición hacia una EC.
+ El desarrollo de más instancias consultivas con foco regional sería de gran valor para abordar la
+descentralización del avance de la EC a nivel nacional.
+74
+
+--- Página 75 ---
+C. Estudio de Vigilancia Tecnológica
+Ver Presentación Powerpoint adjunta al informe.
+75
