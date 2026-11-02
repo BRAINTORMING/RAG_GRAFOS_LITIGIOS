@@ -1,0 +1,2478 @@
+--- Página 1 ---
+1
+2020
+Guía Paso a Paso para
+Facilitar la Transición
+de los Gobiernos Locales
+Hacia una Economía
+Circular:
+Caso de Costa Rica
+Autores: Leida Mercado y
+Diana Rivera
+
+--- Página 2 ---
+2
+
+--- Página 3 ---
+3
+INDICE
+ACRÓNIMOS 5
+INTRODUCCIÓN 6
+1. LA ECONOMÍA CIRCULAR 9
+El concepto de la Economía Circular 9
+Una definición de Economía Circular para los gobiernos locales 12
+Beneficios de la Economía Circular 12
+Vinculación de la Economía Circular con los Objetivos de Desarrollo Sostenible (ODS) 15
+Ambiente habilitante para transitar hacia una Economía Circular 16
+Factores de éxito 16
+Retos y barreras 17
+La importancia de dar seguimiento y evaluar el avance hacia la Economía Circular 18
+ECONOMÍA CIRCULAR Y LOS GOBIERNOS LOCALES 20
+Beneficios de la Economía Circular para los entes locales 20
+El papel de los entes locales en el impulso de la Economía Circular 20
+2. DEL CONCEPTO A LA ACCIÓN: LOS GOBIERNOS LOCALES
+TRANSITANDO HACIA UNA ECONOMÍA LOCAL CIRCULAR 23
+PASO 1: ANÁLISIS DEL CONTEXTO 26
+ACTIVIDAD 1.1. Revisar el marco legal y documentos de política estratégica 26
+ACTIVIDAD 1.2. Recopilar datos estadísticos actuales e históricos, principalmente de tipo social,
+económico y ambiental 27
+ACTIVIDAD 1.3. Mapear e identificar experiencias existentes en economía circular y actores 28
+ACTIVIDAD 1.4. Identificar elementos clave del territorio 29
+PASO 2: DESARROLLO DE UNA VISIÓN Y OBJETIVOS LOCALES ALINEADOS CON LA ECONOMÍA
+CIRCULAR PARA GUIAR LA PRIORIZACIÓN DE SECTORES DE ENFOQUE 29
+ACTIVIDAD 2.1. Realizar el balance o diagnóstico de circularidad 30
+ACTIVIDAD 2.2. Desarrollar la visión y determinar los objetivos a alcanzar en materia de Economía
+Circular 31
+ACTIVIDAD 2.3. Identificar el nivel de ambición deseado 33
+ACTIVIDAD 2.4. Identificar sectores de enfoque 33
+PASO 3. IDENTIFICACIÓN DE OPORTUNIDADES CIRCULARES EN CADA SECTOR DE ENFOQUE 34
+ACTIVIDAD 3.1. Mapear oportunidades de Economía Circular en cada sector de enfoque 35
+ACTIVIDAD 3.2. Priorizar y evaluar las oportunidades de Economía Circular identificadas en cada sector
+priorizado 37
+
+--- Página 4 ---
+4
+ACTIVIDAD 3.3. Identificar barreras 40
+PASO 4. DETERMINAR OPCIONES DE POLÍTICAS PARA APOYAR LAS OPORTUNIDADES DE EC 40
+ACTIVIDAD 4.1. Mapear opciones de políticas específicas por sector 41
+ACTIVIDAD 4.2. Priorizar, empaquetar y secuenciar opciones de política 41
+PASO 5. DESARROLLAR UNA HOJA DE RUTA PARA IMPLEMENTACIÓN 42
+ACTIVIDAD 5.1. Descripción de las iniciativas y línea de tiempo 42
+ACTIVIDAD 5.2. Determinar el modelo de negocios, la inversión y otros aspectos requeridos para
+desarrollar cada oportunidad priorizada 42
+ACTIVIDAD 5.3. Considerar las barreras, las estrategias u opciones de política para superarlas y los
+agentes a involucrar 43
+ACTIVIDAD 5.4. Dar seguimiento y evaluar progreso (M&E) 43
+Producto Final de la Aplicación de la Guía Paso a Paso 47
+6. Elementos que facilitan la aplicación de la guía por parte de los gobiernos locales de Costa Rica
+47
+ANEXOS 49
+Anexo 1. Huella de carbono y Biocapacidad de Costa Rica en el período 1961-2015 49
+Anexo 2. Resultado de la Consulta de Validación de la Guía Paso a Paso 50
+Anexo 3. Instrumentos legales y políticas relacionadas con el cambio climático, la gestión de residuos y las
+municipalidades 53
+Anexo 4. Competencias municipales relacionadas con la gestión de residuos 56
+REFERENCIAS 61
+
+--- Página 5 ---
+5
+ACRÓNIMOS
+AFM Análisis de Flujo de Materiales
+CAF Corporación Andina de Fomento
+CATIE Centro Agronómico Tropical de Investigación y Enseñanza
+CDM Consumo Doméstico de Materiales
+CEGESTI Fundación Centro de Gestión Tecnológica e Informática Industrial
+CMI Consumo Material Interior
+CGR Contraloría General de la República
+CSCP The Collaborating Centre on Sustainable Consumption and Production | Centro de
+Producción y Consumo Sostenible
+CTCN Climate Technology Centre and Network | Centro y Red de Tecnología y Clima
+DCC Dirección de Cambio Climático
+EC Economía Circular
+ENCC Estrategia Nacional de Cambio Climático
+FEMP Federación Española de Municipios y Provincias
+FEM Fundación Ellen MacArthur
+GEI Gases de Efecto Invernadero
+GHA Global hectare/Hectárea global
+GAM Gran Área Metropolitana
+IFAM Instituto de Fomento y Asesoría Municipal
+INDC Contribuciones Previstas y Determinadas a Nivel Nacional
+LAC Latinoamérica y el Caribe
+MINAE Ministerio de Ambiente y Energía
+OCDE Organización de Cooperación y Desarrollo Económico
+ODS Objetivos de Desarrollo Sostenible
+PIB Producto Interno Bruto
+PNGIR Política Nacional para la Gestión Integral de Residuos
+PGAI Programa de Gestión Ambiental Institucional
+ReSOLVE Regenerate, Share, Optimise, Loop, Virtualise and Exchange | Regenerar, Compartir,
+Optimizar, Enlazar, Virtualizar e Intercambiar
+SEPLASA Secretaría de Planificación Sectorial de Ambiente
+UFRISE Unit for Research, Innovation and a Circular Economy | Unidad de Investigación,
+Innovación y Economía Circular
+UE Unión Europea
+
+--- Página 6 ---
+6
+INTRODUCCIÓN
+Cuando se analiza la dinámica de la huella ecológica de Costa Rica para el período 1961 –
+2015, encontramos que el país pasó de contar con un excedente ecológico de 3,7 hectáreas
+globales (gha, por sus siglas en inglés)/per cápita, a presentar un déficit ecológico de 1,1
+gha/per cápita. En sólo cinco décadas, la huella ecológica del país aumentó de 2,3 a 2,7
+gha/per cápita, mientras que la biocapacidad se redujo de 6,0 a 1,6 gha/per cápita (Anexo
+1. Huella de carbono y Biocapacidad de Costa Rica en el período 1961-2015 ) (Ecological
+Footprint Explorer, 2020). La huella ecológica de Costa Rica, en el 2015, fue menor que la
+huella promedio mundial de 2,78 gha/per cápita. Sin embargo, el consumo de recursos
+superó la capacidad de regeneración de los ecosistemas.
+Esta situación ocurre a pesar de los avances que ha experimentado el país en materia
+ambiental al conservar la biodiversidad, manejar de forma sostenible los ecosistemas y
+desarrollar una matriz energética basada, casi en su totalidad, en energía renovable. En este
+contexto, una forma apropiada de abordar el reto del déficit ecológico de Costa Rica es
+transitar hacia una Economía Circular (EC).
+La EC es un enfoque sistémico del desarrollo económico y ambiental que, en contraste con
+la economía lineal (caracterizada por tomar, hacer y deshacer), es restauradora y
+regenerativa por diseño; además, tiene como objetivo desacoplar el crecimiento del
+consumo de recursos finitos. De acuerdo con la Fundación Ellen MacArthur (2019a), la
+aplicación de los tres principios de la EC consiste en: (i) eliminar los desechos y la
+contaminación desde el diseño, (ii) mantener en uso los productos y materiales, y (iii)
+regenerar los sistemas naturales. La EC conlleva cambios, no solo a nivel de la producción,
+sino también a nivel del consumo; lo cual reduce la presión sobre los ecosistemas y permite
+una mejora de estos. Transitar hacia una EC ayudaría a reducir el actual déficit ecológico de
+Costa Rica.
+Para transitar hacia una EC se requiere de la participación de múltiples actores, entre ellos
+los gobiernos locales. Dichos gobiernos tienden a tener un rol clave catalizando este tipo de
+procesos de transformación, debido a que gran parte de las medidas y acciones se deben
+implementar y ejecutar a nivel local, y a la proximidad que estos tienen a los ciudadanos.
+El presente documento tiene como objetivo difundir el enfoque de EC y proveer, tanto a los
+gobiernos como a otros actores del ámbito local, pautas prácticas sobre cómo materializar
+su interés de transitar hacia una economía local circular a través de acciones a diferentes
+niveles. Tales niveles incluyen el ámbito de la propia administración pública, así como el
+ámbito social y empresarial.
+Una vez que los gobiernos locales comprendan los beneficios de la aplicación de un enfoque
+de EC, conozcan las experiencias exitosas de otros gobiernos locales y dispongan de
+herramientas, como la Guía Paso a Paso presentada en este documento, estarán en mejores
+
+--- Página 7 ---
+7
+condiciones para liderar la transformación que se requiere para alcanzar el desarrollo
+sostenible y reducir la huella ecológica en sus territorios.
+¿Cómo está estructurado este documento?
+La Guía Paso a Paso está estructura en dos bloques. Bloque 1: Este bloque contiene aspectos
+teóricos de la EC incluyendo (i) definición, principios y beneficios de la EC, (ii) análisis de los
+vínculos de la EC con los Objetivos de Desarrollo Sostenible (ODS), (iii) análisis del ambiente
+habilitante y los retos más frecuentes para implementar la EC a nivel local, (iv) importancia
+de dar seguimiento y evaluar los avances, y (v) el papel que tienen los actores locales en la
+promoción y adopción de la EC. Bloque 2: En este bloque se incluyen aspectos prácticos que
+buscan habilitar la acción de los gobiernos locales en torno a la EC, (vi) pasos sugeridos a los
+gobiernos locales para transitar hacia una EC, e (vii) ideas para facilitar el uso de la Guía
+Paso a Paso. Es importante acotar que esta guía puede ser usada en conjunto con los
+siguientes documentos: “Estado del Arte de la Economía Circular y los Gobiernos Locales” 1
+e “Instrumentos de Planificación Comúnmente Utilizados por los Gobiernos Locales para
+Transitar Hacia una Economía Circular” 2 . Este último presenta un resumen sistematizado de
+17 experiencias desarrolladas por ciudades, municipios y grupos de municipios en su
+tránsito hacia una EC.
+¿Cómo nace y a quién va dirigida esta Guía Paso a Paso?
+Esta Guía nace del interés expresado por la Alcaldía de Turrialba de Costa Rica en apoyar
+procesos de EC a nivel del Cantón de Turrialba. Dicho interés fue avalado por el Ministerio
+de Ambiente y Energía (MINAE), pues este se alinea con el cumplimiento de la hoja de ruta
+desarrollada como parte del proceso de incorporación de Costa Rica a la Organización para
+la Cooperación y Desarrollo Económico (OCDE). La solicitud también fue apoyada por el
+Instituto de Fomento y Asesoría Municipal (IFAM) en su afán de generar capacidades en los
+gobiernos locales. La Guía fue financiada por el Centro y Red de Tecnología y Clima (CTCN
+por sus siglas en inglés) y elaborada por el CATIE. Si bien la Guía Paso a Paso fue elaborada
+a solicitud del gobierno local de Turrialba, en Costa Rica, esta ha sido preparada de forma
+tal que pueda ser utilizada por otros gobiernos locales interesados en avanzar hacia una EC.
+¿Cómo se elaboró la Guía Paso a Paso?
+Esta Guía se desarrolló con base en una investigación documental que permitió el estudio
+del conocimiento acumulado o “estado del arte” en materia de EC y gobiernos locales, para
+el período 2016 – 2020. Con el fin de garantizar que la Guía responda a las necesidades de
+los gobiernos locales, esta fue sometida a un proceso de consulta y validación en el que
+1 https://www.dropbox.com/s/845bjy26sbmr6tp/Estado%20del%20arte%20Hacia%20una%20Econom%C3%
+ADa%20Circular%20en%20los%20Gobiernos%20Locales%2027_10_2020.docx?dl=0
+2 https://www.dropbox.com/s/lfreumbxvqv8wcn/Instrumentos%20de%20Planificaci%C3%B3n%20Com%C3
+%BAnmente%20Utilizados%20por%20los%20Gobiernos%20locales%20para%20Transitar%20Hacia%20una%
+20Econom%C3%ADa%20Circular.docx?dl=0
+
+--- Página 8 ---
+8
+participaron representantes de instituciones gubernamentales a nivel local y nacional, así
+como expertos en el tema.
+Estado del arte en materia de EC y gobiernos locales
+El estado del arte fue el resultado de una revisión sistemática de literatura que siguió el
+Protocolo de Revisiones Sistemáticas y Metaanálisis: Declaración PRISMA-P 2015, el cual es
+sugerido para conducir este tipo de revisiones.
+La literatura se obtuvo a través de búsquedas en bases de datos de literatura científica
+como: Science Direct, Google Scholar y EBSCO, así como en bases de datos de “literatura
+gris”, sitios web de organizaciones generadoras de conocimiento en materia de economía
+circular e instituciones gubernamentales. La búsqueda en las bases de datos se realizó
+usando como palabras clave: “economía circular”, en combinación con “municipalidad”,
+“gobierno local” y “ciudades”, “cambio climático”, “empleo” y “bioeconomía”.
+Adicionalmente, se exploraron búsquedas con los términos “eco innovación”, “economía
+regenerativa”, y “economía restaurativa”. Finalmente, los estudios fueron seleccionados y
+revisados de acuerdo con criterios de elegibilidad previamente establecidos en el protocolo
+PRISMA, los cuales incluyeron estudios enfocados en los principios de la EC, experiencias
+exitosas en EC y el uso de incentivos para promover patrones de consumo y producción
+sostenibles en un municipio o ciudad, entre otros.
+La revisión sistemática produjo, inicialmente, un total de 208 artículos académicos y 67
+publicaciones no académicas relevantes para conocer el estado del arte en EC y los
+gobiernos locales. Luego del descarte de trabajos duplicados, el número de artículos se
+redujo a 178. Con base en los criterios previos de elegibilidad, se revisaron los títulos y
+resúmenes de estos 178 artículos seleccionados, se redujo su número a 73 documentos, los
+cuales fueron leídos en su totalidad. Se descartaron, finalmente, seis de ellos y quedaron
+67 artículos, los cuales fueron analizados detalladamente, utilizando un formulario que
+facilitó la identificación, extracción y análisis de la información. Posteriormente, los
+resultados de la revisión de los 67 artículos fueron plasmados en un documento sobre el
+“estado del arte”, el cual sirvió de base para la redacción de la Guía aquí presentada.
+Proceso de consulta y validación de la Guía Paso a Paso
+Los días 6 y 7 de octubre de 2020, se realizó una consulta virtual con el fin de validar la Guía
+Paso a Paso. En la consulta participaron 23 representantes de Municipalidades de Costa
+Rica, representantes de la Unión Nacional de Gobiernos Locales (UNGL), de la Dirección de
+Cambio Climático (DCC), de la Secretaría de Planificación Sectorial de Ambiente (SEPLASA)
+del Ministerio del Ambiente Energía (MINAE), del Instituto de Fomento y Asesoría Municipal
+(IFAM) y del Instituto Nacional de Estadística y Censos (INEC). La consulta fue facilitada por
+personal del Centro Agronómico Tropical de Investigación y Enseñanza (CATIE). En el
+
+--- Página 9 ---
+9
+Anexo 2. Resultado de la Consulta de Validación de la Guía Paso a Paso , se presentan
+los resultados de dicha consulta.
+
+--- Página 10 ---
+10
+1. LA ECONOMÍA CIRCULAR
+El concepto de la Economía Circular
+Aun cuando, en los últimos años, el concepto/enfoque 3 de la Economía Circular (EC) ha
+captado el interés de los diferentes sectores de la sociedad, incluyendo el sector público,
+privado y el académico; en la actualidad, no se cuenta con una definición única. Este hecho
+ha sido destacado como un reto a los esfuerzos para promover un uso más amplio del
+concepto.
+A través de la revisión de literatura realizada para la elaboración de esta guía, se encontró
+un número importante de definiciones. La Figura 1 muestra una representación visual de la
+frecuencia de las palabras más frecuentemente utilizadas en dichas definiciones.
+Figura 1. Nube de palabras contenidas en las definiciones de economía circular encontradas
+en los 67 documentos revisados en el análisis sistemático.
+Del análisis del gran número de definiciones encontradas, se desprende que estas tienen
+en común el destacar alguno de los principios y/o estrategias subyacentes de la EC (Figura
+2). La palabra más frecuentemente encontrada fue recursos, la cual se alinea con la
+prioridad del concepto de “desvincular el crecimiento económico del consumo de recursos
+finitos y crear capital económico natural y social sustentado por una transición hacia fuentes
+de energía renovables y un mayor uso de materiales renovables ” (Ellen MacArthur
+Foundation, 2020) . Las palabras producto y materiales también fueron continuamente
+3 En la literatura, se hace referencia a la EC desde la perspectiva de concepto, así como de enfoque. En el
+presente documento ambos términos se usarán indistintamente.
+
+--- Página 11 ---
+11
+COMPLETANDO LA IMAGEN
+CÓMO LA ECONOMÍA CIRCULAR
+19
+AYUDA A AFRONTAR EL CAMBIO CLIMÁTICO
+citadas en las definiciones y estas corresponden con el Principio 2: “Mantener ELLEN MACARTHUR FOUNDATION (2019) productos y
+materiales en uso”. Las palabras residuos y diseño , cuya frecuencia fue elevada,
+corresponden con el Principio 1: “Eliminar los residuos y la polución desde el diseño” .
+es de la Fundación Se basa en tres principios:
+do que en Europa,
+circular podría reducir
+2% y 44% en el 2050, Principio 1: Eliminar los residuos y la polución desde el
+e desarrollo actual, Eliminar residuos y
+diseño.
+s como el entorno polución desde el
+ntos, productos diseño Estrategias claves:
+• Eliminar residuos y polución desde el diseño.
+iones de GEI, una • Diseñar para la circularidad.
+na amplia gama • Sustituir materiales.
+a. Presenta una Mantener productos y
+varios billones de materiales en uso
+mejor acceso a Principio 2: Mantener productos, servicios y materiales en
+onectividad, y menor
+uso
+este modo, responde
+nuestra era, incluida Estrategias claves:
+, escasez de recursos,
+• Reutilizar productos y sus componentes.
+or lo tanto, actúa Regenerar sistemas
+cución para varios naturales • Recircular materiales.
+tenible (ODS) de la • Servicios multimodales dominados por servicios
+r con un consumo y
+DS12) y desarrollar públicos o compartidos vs servicios privados.
+entes frente a los El modelo distingue entre ciclos biológicos y
+ular contribuye con técnicos (Ver la Figura 3). En ciclos biológicos,
+los materiales biológicos o alimenticios (por Principio 3: Regenerar los sistemas naturales
+os descritos en la
+rollo Sostenible de la ejemplo, algodón o madera) vuelven al sistema Estrategias claves
+mediante procesos como el compostaje y la
+• Agricultura regenerativa.
+digestión anaerobia. Estos ciclos regeneran
+los sistemas vivos (como el suelo), lo que • Uso eficiente y sostenible de recursos naturales,
+ONOMÍA proporciona recursos renovables para la
+ecosistemas y los servicios que estos proveen.
+economía. Los ciclos técnicos recuperan
+y restauran productos, componentes y • Restauración ecológica .
+enfoque a nivel materiales a través de estrategias que incluyen
+llo económico la reutilización, reparación, remanufactura
+mpresas, la sociedad Figura 2. Principios que rigen el concepto de la EC y las estrategias clave asociadas a este. o (en última instancia) el reciclaje. La
+conomía circular tecnología digital tiene el poder de respaldar
+miento económico la transición a una economía circular al
+itos y a crear Fuente: Modificado de Fundación Ellen MacArthur (2019a)
+incrementar radicalmente la virtualización,
+y social. Sustentado desmaterialización, transparencia e inteligencia
+ntes de energía basada en la retroalimentación.
+de materiales Consumo fue otra de las palabras repetidamente incluida en las definiciones. El consumo
+onoce la importancia
+es un aspecto de gran relevancia dentro del enfoque de la EC, puesto que este busca
+e eficazmente en
+fica que cuenta “mantener los productos y materiales en uso por el mayor tiempo posible, reutilizando los
+ación activas entre
+productos y sus componentes y recirculando materiales” (Principio 2). Esto exige un cambio
+nde porte, y desde
+unidades locales y en los patrones de consumo actuales, que tienden a favorecer el uso y descarte de los
+ía distribuida, diversa
+mejor para crear productos de una manera lineal.
+e una economía
+Otro elemento que se desprende de las definiciones analizadas es que estas, claramente,
+se redactan contraponiéndose al modelo actual de la economía lineal, caracterizado por
+producir-consumir-desechar (Figura 3).
+or Ellen MacArthur Foundation para Europa, India y China. Estos informes no solo analizaron
+cular que reducen la demanda de materiales, sino que también consideraron aquellas que reducen
+gía y promovieron el uso de recursos renovables. Ellen MacArthur Foundation, SUN y McKinsey Center
+owth within: a circular economy vision for a competitive Europe (2015); Ellen MacArthur Foundation,
+ing growth for long-term prosperity (2016); Ellen MacArthur Foundation y Arup, The circular economy En las definiciones de EC, también se incluyen con frecuencia las palabras siguientes:
+ial innovation in China (2018)
+reutilizar, reducir, mantener, eficiencia, ciclo de vida. Estas palabras ilustran el carácter de
+la EC como restauradora y regenerativa, lo cual tiene como objetivo desacoplar el
+crecimiento del consumo de recursos finitos (Figura 4).
+
+--- Página 12 ---
+Fundación Ellen MacArthur, organización líder en la 2.2. EL CONCEPTO: LA ECONOMÍA
+apuesta por una economía más circular, asegura que “el CIRCULAR
+modelo lineal está llevando a unos niveles de escasez,
+de volatilidad e incremento de precios que nuestra 12
+economía no puede asumir”. La Economía Circular pretende instaurar un nuevo
+paradigma en la manera que producimos y consumimos,
+La Economía Circular se presenta como una alternativa para encontrar un modelo económico más sostenible
+a este modelo actual de producción y consumo, con y responsable con el medio ambiente y el entorno.
+el potencial de resolver retos medioambientales, al Esto supone dejar atrás el modelo de economía lineal,
+mismo tiempo que abre oportunidades de negocio y sustituyéndolo por uno nuevo de sociedad implicada en
+crecimiento económico. optimizar los flujos de recursos materiales, incluido el
+“ agua, la energía y los residuos.
+La Economía Circular permitirá En resumen, es una economía cuyo objetivo es que
+alcanzar una gestión más eficiente de los el valor de los productos, materiales y recursos se
+mantenga en la economía durante el mayor tiempo
+recursos a la vez que generará nuevas
+” posible y que se reduzca al mínimo la generación de
+oportunidades laborales. residuos no aprovechables. Se actúa así a favor de la
+durabilidad y aumento de la vida útil de los materiales y
+productos, de la reparación, reutilización y del reciclado
+Figura 3. Ciclo de la economía lineal. de los residuos.
+Fuente: Ihobe (2019)
+FIGURA 2. Posibles estrategias de Economía Circular durante la Cadena de Valor
+ENTORNO
+Ecodiseño y ecoinnovación
+Nuevos modelos de negocio
+Reciclaje
+MATERIAS PRIMAS
+Simbiosis industrial
+FABRICACIÓN
+Materiales, Componentes Remanufactura
+Productos
+Reutilización
+Redistribución
+VENTA Y PRESTACIÓN
+DE SERVICIOS Consumo
+colaborativo
+USOS Mantenimiento
+Reparación
+Valorización
+RESIDUO Energética
+ECONOMÍA CIRCULAR
+ENTORNO
+Figura 4. Ciclo de la economía circular
+Fuente: Adaptación del diagrama del sistema de economía circular de Ellen MacArthur Foundation, Diputación de Barcelona.
+Fuente: Ihobe (2019)
+::::::: 7
+
+--- Página 13 ---
+13
+Una definición de Economía Circular para los gobiernos locales
+Dado que no existe una definición única de la Economía Circular (EC) y con el fin facilitar el
+entendimiento y uso del enfoque por parte de los gobiernos locales, es importante adoptar
+una definición que integre los elementos claves, los principios y estrategias vinculadas a
+esta, y que, al mismo tiempo, se ajuste a las prioridades y realidad socioeconómica del país
+y de los gobiernos locales. Con ese fin, se presentan cinco definiciones de EC, de forma que
+cada municipalidad adopte la que mejor se ajuste a sus prioridades y su realidad.
+1. La EC se puede definir como aquella que es restaurativa y regenerativa por diseño. Su
+objetivo es mantener los productos componentes y materiales en su mayor utilidad y valor
+en todo momento distinguiendo entre los ciclos de materiales técnicos y biológicos. El
+enfoque busca finalmente desacoplar el desarrollo económico del consumo de recursos
+finitos y eliminar las externalidades negativas de la economía (Fundación Ellen MacArthur y
+CE100 Brasil Network, 2017) .
+2. En el nuevo modelo circular el valor de los productos y materiales se mantiene durante el
+mayor tiempo posible, los residuos se reducen al mínimo y se reintroducen repetidamente
+en el ciclo productivo creando valor cuando los bienes llegan al final de su vida útil
+(Departamento de Medio Ambiente del País Vasco, 2019) .
+3. La EC se puede definir como un sistema industrial que es restaurativo o regenerativo. Su
+intención es cerrar el ciclo de vida lineal del producto sustituyendo el concepto de fin de vida
+con el de restauración (Sassanelli, Rosa, Rocca, & Terzi, 2019) .
+4. La EC se puede definir como una alternativa atractiva al modelo económico lineal de
+“extraer-producir- desechar”. La misma busca redefinir qué es el crecimiento, con énfasis en
+los beneficios para toda la sociedad. Esto implica disociar la actividad económica del
+consumo de recursos finitos y eliminar los residuos del sistema desde el diseño. Respaldada
+por una transición a fuentes renovables de energía, el modelo circular crea capital
+económico, natural y social y se basa en tres principios: Eliminar residuos y contaminación
+desde el diseño, Mantener productos y materiales en uso y Regenerar sistemas naturales
+(Ellen MacArthur Foundation, 2020) .
+5. La EC se puede definir como un enfoque sistémico del desarrollo económico diseñado para
+beneficiar a las empresas, la sociedad y el medio ambiente. En contraste con la economía
+lineal caracterizada por tomar, hacer y deshacerse, una EC es restauradora y regenerativa
+por diseño y tiene como objetivo desacoplar el crecimiento del consumo de recursos finitos.
+Se basa en tres principios, eliminar los desechos y la contaminación desde el diseño,
+mantener los productos y materiales en uso y regenerar los sistemas naturales. El concepto
+distingue entre ciclos técnicos y biológicos y reconoce la importancia de que la economía
+funcione eficazmente en todas las escalas. Esto significa que cuenta con la participación y
+colaboración activas entre pequeñas y grandes empresas, tiene un alcance nacional y local
+incluyendo ciudades y comunidades locales y sus habitantes (CSCP, 2019) .
+Beneficios de la Economía Circular
+
+--- Página 14 ---
+14
+La Economía Circular (EC) genera beneficios de tipo ambiental, económico y social. La
+totalidad de publicaciones analizadas en la revisión bibliográfica de literatura destaca
+beneficios de tipo ambiental, especialmente los relacionados con la disminución de
+emisiones de gases de efecto invernadero y el uso eficiente de recursos. En términos de los
+beneficios económicos, destacan la reducción de costos y el desarrollo de nuevos modelos
+de negocios y, en términos de beneficios sociales, destacan la generación de empleos y la
+mejora de la movilidad ( Figura 5 ). En la Tabla 1 , Tabla 2 y Tabla 3 se presentan los beneficios
+más frecuentemente citados en la literatura.
+Mejorar la movilidad 5%
+Añadir valor a las empresas e innovación 9%
+Reducci ón de precios 9%
+Mayores ingresos y crecimiento económico 31%
+Generación de empleo 40%
+Nuevos modelos de negocio 42%
+Reducci ón de costos 42%
+Disminución y uso efici ente de recursos 55%
+Disminución de emisiones 62%
+Figura 5. Beneficios de la economía circular identificados en la revisión sistemática de
+literatura.
+Fuente: Elaborado con base en información proveniente de 67 estudios sobre EC.
+Tabla 1. Beneficios ambientales de la economía circular
+Beneficios ambientales
+§ Disminuir el uso de recursos y energía.
+§ Reducir la producción de residuos y vertido de sustancias tóxicas.
+§ Limitar las emisiones de gases de efecto invernadero a la atmósfera.
+§ Abordar el cambio climático.
+§ Preservar el capital natural y aumento de la biodiversidad.
+§ Aumentar la capacidad de recuperación en los sistemas vivos y en la economía.
+§ Aliviar la presión sobre los recursos hídricos, los materiales y hábitats vírgenes.
+§ Mejorar la calidad del agua.
+§ Limitar la contaminación del aire, los suelos y los cursos de agua.
+§ Aminorar el desperdicio en la cadena de valor de los alimentos.
+Fuente: Adaptado de Fundación Ellen MacArthur y CE100 Brasil Network (2017), Fundación Ellen MacArthur
+(2015b, 2015a), Scottish Government (2016) y Departamento de Medio Ambiente del País Vasco (2019)
+
+--- Página 15 ---
+15
+Tabla 2. Beneficios económicos de la economía circular
+Beneficios económicos
+§ Promover el crecimiento económico.
+§ Frenar la deslocalización de empresas y puestos de trabajo.
+§ Retener valor en la economía.
+§ Disminuir el consumo de materiales, el costo de transporte de residuos y su disposición final.
+§ Ayudar a las empresas a emplear sus recursos naturales y energéticos más eficientemente.
+§ Reducir la exposición a la volatilidad de los precios por un menor uso de materias vírgenes y un
+mayor uso de insumos reciclados.
+§ Aumentar la productividad de la tierra, aumento de su valor y menor incidencia de plagas.
+§ Reducir costos de producción.
+§ Crear nuevos negocios por la demanda de nuevos servicios empresariales como la logística inversa
+y reacondicionamiento de productos.
+§ Ayudar a las empresas a cumplir con la legislación ambiental, los ODS y el Acuerdo de París.
+§ Incrementar la renta disponible de las familias al reducir costos de los productos y servicios.
+§ Generar ahorros a los usuarios por el mantenimiento, almacenamiento y reparación de productos.
+§ Mejorar los índices de innovación empresarial al lanzar un nuevo producto, un nuevo proceso de
+producción, un nuevo método organizativo o un nuevo método de comercialización, los cuales
+son indicadores para medir el impacto de la innovación.
+Fuente: Adaptado de Fundación Ellen MacArthur y CE100 Brasil Network (2017), Departamento de Medio
+Ambiente del País Vasco (2019), Scottish Government (2016), Fundación Ellen MacArthur (2015b),
+(Ferronato et al. (2019), Fundación EU-LAC (2018) y OECD/European Communities (2005).
+Tabla 3. Beneficios sociales de la economía circular
+Beneficios sociales
+§ Crear empleos en áreas como el reciclaje, reparación y logística de alta calidad.
+§ Mejorar las condiciones de trabajo para los trabajadores, a través de una exposición reducida a
+pesticidas tóxicos y no biodegradables.
+§ Reducir los costos relacionados con la gestión de la contaminación, así como los costos
+relacionados con efectos negativos en la salud.
+§ Mejorar la calidad de vida al reducir la contaminación del aire y el tiempo invertido en
+congestión vial.
+Fuente: Adaptado de World Economic Forum (2018) y Fundación Ellen MacArthur (2015a).
+Beneficiarios de la Economía Circular
+La EC produce beneficios para múltiples beneficiarios incluyendo los ciudadanos, las
+empresas, y los gobiernos locales y nacionales. En la
+Ciudadanos 75%
+Empresas 64%
+Gobiernos locales 45%
+Gobiernos nacionales 22%
+
+--- Página 16 ---
+16
+Figura 6, se presenta un resumen de los beneficiarios identificados en los 67 estudios
+analizados como parte de la revisión sistemática de literatura.
+Ciudadanos 75%
+Empresas 64%
+Gobiernos locales 45%
+Gobiernos nacionales 22%
+Figura 6. Beneficiarios de la economía circular identificados en la revisión sistemática de
+literatura
+Fuente: Elaborado con base en información proveniente de 67 estudios sobre EC.
+Vinculación de la Economía Circular con los Objetivos de Desarrollo Sostenible (ODS)
+Un análisis comparativo de literatura realizado en 2020 con el fin de identificar la relación
+entre la Economía Circular (EC) y los ODS, encontró que las prácticas vinculadas a la EC
+podrían potencialmente contribuir de forma directa al logro de varios de los ODS. El estudio
+indica que las relaciones más fuertes existen con los objetivos del ODS 6 (agua limpia y
+saneamiento), ODS 7 (energía asequible y limpia), ODS 8 (trabajo decente y crecimiento
+económico), ODS 12 (consumo y producción responsables) y ODS 15 (vida de los
+ecosistemas terrestres) (Padilla-Rivera et al., 2020).
+La revisión realizada para el desarrollo de esta guía confirma de manera parcial los
+resultados anteriores. De los estudios que establecen vínculos con los ODS, la mayoría (85
+%) establece vínculos con el ODS 12 (producción y consumo responsables). También se
+encontraron vínculos con el ODS 8 (trabajo decente y crecimiento económico) y ODS 13
+(acción por el clima). Sin embargo, un 55 % establece vínculos con el ODS 11 (lograr que las
+ciudades sean más inclusivas, seguras, resilientes y sostenibles), vínculo que no que no fue
+citado por Padilla-Rivera et al., (2020). Esto, seguramente, se debe a que en la presente
+revisión sistemática se enfatizó la relación de la EC con gobiernos locales, incluyendo
+
+--- Página 17 ---
+17
+ciudades y municipalidades (
+ODS17
+ODS15
+ODS13
+ODS11
+ODS9
+ODS7
+ODS5
+Objetivo de desarrollo sostenible ODS3
+ODS1
+0 5 10 15 20 25 30
+%
+Figura 7).
+ODS17
+ODS15
+ODS13
+ODS11
+ODS9
+ODS7
+ODS5
+Objetivo de desarrollo sostenible ODS3
+ODS1
+0 5 10 15 20 25 30
+%
+Figura 7. Vinculación de la economía circular y los Objetivos de Desarrollo Sostenible
+identificados en la revisión sistemática de literatura.
+Fuente: Elaborado con base en información proveniente de 67 estudios sobre EC.
+Un estudio reciente, realizado en países de la Unión Europea (UE) y de Latinoamérica y el
+Caribe (LAC), documentó casos de buenas prácticas y enseñanzas extraídas en relación con
+modelos empresariales de EC que integran los ODS en sus estrategias. El estudio encontró
+que los modelos empresariales de EC incorporaban los siguientes ODS en sus estrategias:
+ODS 1: Fin a la pobreza, ODS 8: Trabajo decente y crecimiento económico, ODS 9: Industria,
+innovación e infraestructura, ODS 10: Reducción de las desigualdades, ODS 12: Producción
+
+--- Página 18 ---
+18
+y consumo responsables, ODS 13: Acción por el clima y ODS 17: Alianzas para lograr los
+objetivos (Fundación EU-LAC, 2018).
+Ambiente habilitante para transitar hacia una Economía Circular
+Con el fin de orientar a los actores locales sobre cómo crear un ambiente habilitante para
+transitar hacia una EC, se analizaron los factores de éxito y las barreras que limitan avanzar
+hacia una EC.
+Factores de éxito
+Se identificaron los siguientes son factores de éxito:
+• Metas claras y alineadas con los ODS.
+• Financiamiento y presupuesto. En la mayoría de los estudios revisados, no se
+incluyó el costo de implementación, lo cual se contradice con el énfasis que hacen
+los expertos en la importancia de establecer fondos y de financiar las iniciativas
+circulares. De acuerdo con la Fundación Ellen MacArthur (2019), los costos de la
+transición hacia una EC pueden comprender inversiones en nuevas infraestructuras
+digitales, investigación y desarrollo, formación y capacitación, asistencia para
+promover la penetración de los nuevos productos a los mercados y apoyo transitorio
+a los sectores. Los presupuestos encontrados varían según el tipo y tamaño de la
+estrategia. En el caso de la Estrategia de EC 2030 del País Vasco, el presupuesto 2020
+asciende a 2.040.000 EUR. (Departamento de Medio Ambiente del País Vasco,
+2019).
+• I nformación y sensibilización para que las personas hagan un mejor uso de los
+recursos.
+• Tecnología para identificar servicios, oportunidades y negocios circulares, así como
+para comunicar y recibir retroalimentación de los ciudadanos.
+• Esquemas colaborativos que fomenten la innovación y el intercambio de
+conocimiento, así como la colaboración entre los sectores y las partes involucradas.
+• Políticas, procesos de planificación y regulaciones para incentivar actividades
+circulares y desalentar las lineales, por ejemplo mediante precios; así como una
+evaluación continua de los mecanismos regulatorios para implementar los cambios
+requeridos rápidamente (Ellen MacArthur Foundation, 2019d). Esto incluye políticas
+de contratación o compras públicas con énfasis en la EC.
+• Sistemas para el monitoreo efectivo del desempeño y los impactos.
+Retos y barreras
+Se argumenta que una de las razones por las cuales un enfoque tan atractivo como el de la
+EC ha sido poco adoptado tiene que ver con las múltiples barreras que este enfrenta. Esto
+se relaciona con el carácter multidimensional del concepto y con el hecho de que transitar
+
+--- Página 19 ---
+19
+hacia la EC requiere de cambios sistémicos y el desarrollo de acciones en diferentes ámbitos
+incluyendo el regulatorio, cultural, económico, tecnológico, entre otros (van Eijk, 2015). En
+el reporte de van Eijk (2015) sobre barreras y los factores que impulsan la EC, se argumenta
+que existe una amplia gama de barreras que obstaculizan la transición y las agrupa en cuatro
+grandes categorías ( Tabla 4 ).
+Tabla 4. Barreras de la economía circular
+Barreras Definición Ejemplos
+Políticas y de Se refiere a falta de apoyo y Estructuras reguladoras complicadas o inflexibles.
+regulación de estímulos por parte de los Falta de políticas de impuestos e incentivos efectivos.
+gobiernos. Existencia de incentivos perversos.
+Programas obsoletos.
+Regulación ambiental poco efectiva.
+Aplicación de enfoques no sistémicos, favoreciendo el
+trabajo en silos.
+Falta de adaptación al contexto territorial específico.
+No hay oficinas públicas que fomenten, apoyen e
+impulsen el emprendimiento circular.
+Culturales Alude al desconocimiento del Falta de conciencia sobre la necesidad y beneficios de
+enfoque de EC y sus reducir el consumo, reutilizar, recuperar y/o reciclar
+beneficios, así como a la falta productos.
+de conciencia ambiental de Los consumidores carecen de información en cuanto a los
+productores y consumidores. orígenes y recursos utilizados en la fabricación de los
+productos que consumen.
+Aversión al riesgo vinculado a adoptar nuevos enfoques y
+tecnologías.
+Las personas están acostumbradas a "comprar" para
+poseer un producto, no al "uso” como un servicio.
+No se realiza la separación de materiales. La falta de un
+sistema de recogida selectiva hace que sea difícil
+recuperar materiales para darles un nuevo uso.
+De acceso al Se refiere al costo de adoptar Falta de herramientas y métodos para medir los
+financiamien nuevos modelos tecnológicos, beneficios de proyectos de EC.
+to y sobre todo costos de Falta de herramientas y métodos para medir los
+económicas inversión y transición y al beneficios.
+acceso limitado al Falta de incentivos económicos.
+financiamiento para cubrirlos; Las inversiones para la transición y la innovación de las
+así como a la ausencia de empresas ya operativas son elevadas.
+mercados para productos y Falta de modelos de financiación alternativos para las
+servicios circulares. empresas circulares.
+Tecnológicas Alude a la falta de Muchos gobiernos y PYMES carecen de las capacidades de
+y de competencias, conocimientos identificar oportunidades e incorporar el enfoque de la
+infraestructu y habilidades técnicas para EC.
+ra incorporar el modelo de la EC. Falta de tecnologías y habilidades técnicas.
+Falta de métricas para medir la circularidad.
+Ausencia de simbiosis industrial. Las empresas trabajan
+individualmente y no se interrelacionan para buscar
+alternativas rentables para la reutilización de residuos de
+producción.
+
+--- Página 20 ---
+20
+Falta de información técnica para comprender mejor los
+nuevos modelos de negocios propuestos por la EC y los
+beneficios de su implementación a largo plazo.
+Fuente: modificado de van Eijk (2015); Britez (2020)
+La importancia de dar seguimiento y evaluar el avance hacia la Economía Circular
+Es necesario realizar un seguimiento y evaluación de los resultados, efectos e impactos de
+las estrategias, planes, hojas de ruta, entre otros, de la Economía Circular (EC). Con ese fin,
+es necesario identificar o desarrollar indicadores clave que faciliten dicho seguimiento y
+evaluación. Los indicadores más comunes incluyen: tasas de incineración, tasas de reciclaje,
+emisiones de GEI, calidad del aire, agua y suelo, número de puestos de trabajo generados,
+patentes de diseños y empresas circulares. (Ellen MacArthur Foundation, 2019b).
+Según la literatura revisada, las categorías en las que se agrupan los indicadores de EC son:
+producción y consumo, gestión de residuos, materias primas secundarias, competitividad e
+innovación, energía y emisiones de GEI, culturales y de personas, medidas fiscales y
+circularidad en las compras públicas ( Figura 8 ). En el documento “Instrumentos de
+Planificación Comúnmente Utilizados por los Gobiernos locales para Transitar Hacia una
+Economía Circular” 4 , se presenta una tabla resumen con los indicadores que fueron
+utilizados en estrategias y hojas de rutas de EC.
+Circularidad en las compras públicas 2%
+Medidas fiscales (impuestos) 2%
+Materias primas secundarias 6%
+Energía y emisiones de GEI 9%
+Competitividad e innovación 13%
+Culturales y de personas 15%
+Producción y consumo 19%
+Gestión de residuos 34%
+Figura 8. Porcentaje de indicadores de EC identificados en la revisión sistemática según
+categoría.
+Fuente: Elaborado con base en información proveniente de 67 estudios sobre EC.
+4 https://www.dropbox.com/s/lfreumbxvqv8wcn/Instrumentos%20de%20Planificaci%C3%B3n%20Com%C3
+%BAnmente%20Utilizados%20por%20los%20Gobiernos%20locales%20para%20Transitar%20Hacia%20una%
+20Econom%C3%ADa%20Circular.docx?dl=0
+
+--- Página 21 ---
+21
+ECONOMÍA CIRCULAR Y LOS GOBIERNOS LOCALES
+A continuación, se presentan aspectos clave sobre la EC y los gobiernos locales,
+específicamente en lo relativo a los beneficios y el papel que estos pueden jugar facilitando
+la transición hacia una EC.
+Beneficios de la Economía Circular para los entes locales
+De acuerdo con el Banco Mundial (2019), la gestión eficaz de los residuos es costosa y suele
+representar entre el 20 % y el 50 % de los presupuestos municipales. El que las
+municipalidades promuevan la circularidad de los materiales y la generación de desechos
+bajo procesos circulares, disminuiría la carga sobre los sistemas para el manejo de desechos
+y liberaría recursos que los gobiernos locales podrían dedicar a la provisión de otros bienes
+y servicios estratégicos para el desarrollo de sus territorios (Stagno, 2020). En el estudio
+“Avances y desafíos para el reciclaje inclusivo: Evaluación de 12 ciudades de América Latina
+y el Caribe”, realizado por Economist Intelligence Unit, se argumenta que la EC podría
+contribuir en la reducción de las emisiones de carbono de entre 70 % y 85 % en América
+Latina y el Caribe (The Economist Intelligence Unit (EIU), 2017).
+Algunos de los beneficios que los gobiernos locales podrían derivar de transitar hacia una
+EC incluyen:
+• Aumento de la recaudación de impuestos y puestos de trabajo producto del
+crecimiento económico por el surgimiento de nuevas empresas.
+• El desarrollo de nuevos modelos de negocios destaca en términos de la generación
+de nuevas oportunidades de empleo a nivel local; un aspecto muy relevante,
+especialmente, en la situación generada por la pandemia del COVID-19.
+• Reducción de costos. Los gobiernos locales experimentan y a menudo gestionan las
+consecuencias negativas de la actual economía lineal de “extraer-producir-
+desechar”, debido a que tienen que asignar fondos públicos a la gestión de residuos
+sólidos, la limpieza de las vías públicas. El enfoque de la EC podría reducir dichos
+costos.
+• Mejora en el cumplimiento de la Leyes y estándares que regulan a los gobiernos
+locales. Por ejemplo, en el caso de Costa Rica, se facilitaría el cumplimiento de la Ley
+de Gestión Integral de Residuos y los Planes Municipales de Gestión Integral de
+Residuos.
+• Mejora de la percepción de la comunidad acerca del desempeño del gobierno local.
+El papel de los entes locales en el impulso de la Economía Circular
+Los desafíos de una economía lineal de extraer-producir-desechar se concentran en lo local,
+pero este ámbito a su vez ofrece oportunidades para el cambio. Los gobiernos locales,
+
+--- Página 22 ---
+22
+incluyendo los de las ciudades, pueden catalizar una transformación amplia del sistema
+económico (Fundación Ellen MacArthur, 2019b).
+La transición hacia la EC requiere un cambio de visión tanto a nivel empresarial como
+territorial e individual, repensando la manera de producir, gobernar y consumir. Dicha
+transformación afecta a toda la cadena de valor (diseño, provisión de materias primas y
+energía, fabricación, distribución, consumo, gestión de residuos, etc.) y debería estar
+acompañada de un marco legal habilitante. En este sentido, el papel de la administración
+pública en general, y en especial de los gobiernos locales, es fundamental para facilitar e
+impulsar el cambio que solo se puede alcanzar con el concurso de una amplia gama de
+actores (Fundación Ellen MacArthur, 2015a).
+Los municipios están bien posicionados para apoyar y dirigir este cambio de visión. El
+mandato municipal abarca la formulación de políticas públicas que están directamente
+relacionadas con actividades de la EC; como lo son, por ejemplo, la gestión de residuos, la
+zonificación y la planificación urbana, así como el apoyo a la economía local al fomentar y
+consolidar redes y sistemas de innovación.
+GUÍA PARA LA PROMOCIÓN DE LA ECONOMÍA CIRCULAR DESDE EL ÁMBITO LOCAL
+Debido a que no es un hecho que la circularidad genere efectos sociales positivos de forma
+automática, los gobiernos tienen la responsabilidad pública de crear las condiciones que
+permitan maximizar los beneficios de la circularidad para la sociedad. En este sentido, los
+Entre las competencias locales encontramos la gestión Además, se tiene que considerar que uno de los
+municipios pueden emplear una serie de instrumentos regulatorios, económicos y blandos de políticas para un desarrollo sostenible, el cual afecta problemas actuales para la gestión eficiente de la
+transversalmente el resto de competencias municipales, sostenibilidad y la Economía Circular es la fragmentación
+que conduzcan, por ejemplo, a generar empleo (Circle Economy, 2019). que en conjunto deben perseguir promover el territorio, en la gestión de recursos claves (agua, energía,
+los hábitos de sus habitantes, las empresas y las residuos, movilidad, etc.). La capacidad de generar
+actividades que tienen lugar. sinergias entre distintos entes y territorios se convertirá
+“ en un factor decisivo para establecer mayores impactos.
+Con el fin de facilitar la actuación de los entes locales en torno al impulso de la EC, la Red Para simplificar la actuación de los entes locales en
+La administración local puede torno al impulso de la Economía Circular, podemos
+Vasca de Municipios Sostenibles identifica tres ejes potenciales de actuación. Dichos ejes promover la Economía Circular a través diferenciar tres ejes principales (figura 11).
+de la aplicación de sus competencias,
+son: (1) Aplicando la EC dentro de la administración, (2) Fomentando modelos de consumo La tabla siguiente presenta una visión o explicación
+tanto a nivel interno, como fomentando general de los ejemplos de la anterior figura 11.
+circulares dentro del tejido social y (3) Impulsando la EC dentro del tejido productivo (Ihobe, modelos de producción y consumo más
+”
+circulares.
+2019) ( Figura 9 ).
+FIGURA 11. Ejes para promover la Economía Circular por parte de los entes locales
+LOS 3 POTENCIALES EJES
+DE ACTUACION
+DE LOS ENTES LOCALES
+3 2
+1
+IMPULSANDO LA ECONOMÍA FOMENTANDO MODELOS
+CIRCULAR DENTRO APLICANDO LA ECONOMÍA DE CONSUMO CIRCULARES
+DEL TEJIDO PRODUCTIVO CIRCULAR DENTRO DE LA DENTRO DEL TEJIDO SOCIAL
+ADMINISTRACIÓN
+Tercero, puede dinamizar y promover el Segundo, puede fomentar modelos de
+concepto entre el tejido productivo , consumo circulares entre el tejido
+Primero, la administración local puede
+favoreciendo un clima de confianza, social , a través, por ejemplo, de la
+tener un papel activo promoviendo
+colaboración, cooperación y integración del concepto en la
+internamente la Economía Circular a
+transparencia que promueva las educación y campañas de
+través de sus competencias.
+condiciones adecuadas para la sensibilización o también mediante
+• Gestión de residuos
+promoción de la Economía Circular. plataformas de colaboración. Se trata
+• Gestión del agua de predicar con el ejemplo y
+• Plataformas de colaboración
+• Gestión de equipamientos sensibilizar.
+• Esquemas de soporte al negocio
+• Compra pública
+• Fomento emprendimiento verde y circular • Plataformas de colaboración
+• Estrategia energética y de cambio
+• Comunicación y sensibilización • Educación, información y sensibilización
+climático del territorio
+• Impulso iniciativas ciudadanas
+• Infraestructuras
+• Organización de eventos, etc.
+Fuente: Elaboración propia.
+
+--- Página 23 ---
+23
+Figura 9. Guía promoción desde gobiernos locales.
+Fuente: Ihobe (2019).
+A continuación, se presentan ejemplos de actuación de los gobiernos locales para cada uno
+de los ejes identificados anteriormente:
+EJE 1 . Aplicando la EC dentro de su propia administración. Los gobiernos locales están en
+la capacidad de fomentar el uso de la EC dentro de su administración. Por ejemplo, en sus
+procesos de licitación de adquisiciones, pueden establecer criterios que desafíen al
+mercado para que este desarrolle soluciones de productos innovadores que abarcan desde
+aumentar la durabilidad de un producto hasta asegurarse que los materiales utilizados son
+inocuos, reparables y reutilizables. En el caso del gobierno de la ciudad San Francisco,
+California, este ha incorporado dicho enfoque en los criterios de adquisiciones para
+proyectos de construcción. Otro aspecto en el que los gobiernos locales pueden apoyar la
+transición hacia la EC es haciendo un uso más productivo de los activos que son propiedad
+de la ciudad, como los edificios y terrenos municipales, lo que a su vez puede generar
+ahorros. En Seúl, el gobierno local inició un programa de instalaciones públicas compartidas.
+En el marco de este, se abrió el sótano de la municipalidad al público para que se use como
+área de reuniones y para organizar eventos. También se abrieron para uso público oficinas
+de centros comunitarios, escuelas y centros religiosos (Kim, 2017).
+EJE 2. Fomentando modelos de consumo circulares dentro del tejido social. Los gobiernos
+locales se pueden comprometer a incentivar, gestionar y establecer un marco regulatorio
+que cree condiciones habilitantes para la EC. Al incorporar los principios de la EC en los
+instrumentos de política, se pueden provocar cambios en el uso y la gestión de materiales;
+también se pueden tratar las prioridades urbanas respecto al acceso a la vivienda, movilidad
+y el desarrollo económico, de tal forma que brinde apoyo a la prosperidad, a la creación de
+trabajos y a la mejora de la salud (FEMP, 2019).
+EJE 3 . Impulsando la EC dentro del tejido productivo . Las municipalidades tienen la
+capacidad de crear mercados para productos y servicios circulares a través de la
+contratación y las compras públicas. También pueden desempeñar un papel importante
+apoyando a las empresas a superar barreras de tipo no financieras, dentro de estas se
+incluyen las consecuencias no deseadas de regulaciones existentes, como las definiciones
+de desechos que obstaculizan el comercio y el transporte de estos para la re-manufactura.
+Asimismo, pueden abordar fallas del mercado, como información imperfecta y la falta de
+experiencia entre las empresas para detectar y capturar oportunidades de la EC (Fundación
+Ellen MacArthur, 2015a).
+En general, los gobiernos locales pueden contribuir a crear condiciones propicias,
+estableciendo la dirección para una transición hacia la EC.
+
+--- Página 24 ---
+24
+2. DEL CONCEPTO A LA ACCIÓN: LOS GOBIERNOS LOCALES
+TRANSITANDO HACIA UNA ECONOMÍA LOCAL CIRCULAR
+Los gobiernos locales y las ciudades avanzan de formas diversas hacia la EC. Como resultado
+de la revisión sistemática de literatura realizada, se identificaron 17 experiencias en donde
+se documentan distintos instrumentos de apoyo a la planificación. Los instrumentos más
+utilizados son las guías, estrategias, los planes y las hojas de ruta.
+Con el fin de ilustrar la forma cómo distintos gobiernos locales y ciudades avanzan hacia la
+EC, en el documento “Instrumentos de Planificación Comúnmente Utilizados por los
+Gobiernos locales para Transitar Hacia una Economía Circular” 5 se presenta el resumen de
+los estudios analizados, incluyendo guías, planes, estrategias y herramientas citadas en la
+¡Error! No se encuentra el origen de la referencia. ¡Error! No se encuentra el origen de la
+referencia. y en la Tabla 10 , así como casos de EC de Costa Rica.
+Tipo Nombre
+Guía Promoción desde lo local Guía
+Guidebook para ciudades
+Oportunidades contratación EC
+Agenda
+Agenda EC Navarra
+Estrategia EC España 12% 17%
+Local EC España - FEMP Estrategia
+EC País Vasco
+18% 6%
+Escocia Plan
+Plan París
+Peterborough 6% Hoja de Ruta
+Hoja de Ruta Londres 23%
+6%
+Programa Rotterdam
+12% Programa
+Caso Bruselas
+Glasgow
+Toronto Caso
+Caja de Metas para una EC
+Herramientas Para creadores de políticas
+Tabla 5. Instrumentos y herramientas de Figura 10. Marcos de planificación y herramientas
+planificación más utilizados por los sobre el enfoque de economía circular más
+gobiernos locales para avanzar hacia la EC. utilizadas.
+Fuente: Elaborado con base en información proveniente de 67 estudios sobre EC.
+5 https://www.dropbox.com/s/lfreumbxvqv8wcn/Instrumentos%20de%20Planificaci%C3%B3n%20Com%C3
+%BAnmente%20Utilizados%20por%20los%20Gobiernos%20locales%20para%20Transitar%20Hacia%20una%
+20Econom%C3%ADa%20Circular.docx?dl=0
+
+--- Página 25 ---
+25
+PASOS SUGERIDOS A LOS GOBIERNOS LOCALES PARA TRANSITAR HACIA
+UNA EC
+A continuación, se proponen cinco pasos que podrían seguir los gobiernos locales,
+incluyendo los de Costa Rica, con el fin de avanzar hacia una EC. Para cada paso, se presenta
+de la siguiente información:
+1. Una descripción general del paso, indicando el resultado esperado de este.
+2. Una descripción detallada de las actividades que conforma cada paso.
+3. El producto final resultante, el cual constituye el insumo inicial para el paso
+siguiente.
+4. Ejemplos de cómo la actividad ha sido abordada en experiencias previas. Los
+ejemplos se presentan en cuadros de texto.
+5. En caso de que existan herramientas que puedan ser utilizadas para facilitar la
+ejecución de la actividad, estas son referenciadas. Es importante resaltar que solo
+se presentan aquellas herramientas que son específicas para la EC.
+En la Figura 11 , se presentan los pasos sugeridos para que los gobiernos locales, incluyendo
+el de Costa Rica, inicien su transición hacia una EC. Junto a cada paso se presentan las
+actividades y el producto resultante de cada uno.
+PASO 1. Analizar el contexto. Este está conformado por cuatro actividades.
+PASO 2. Determinar el nivel de ambición y sectores en los que se enfocarán los
+esfuerzos. Este está conformado por tres actividades.
+PASO 3. Identificar oportunidades de la EC en los sectores de enfoque. Este está
+conformado por tres actividades.
+PASO 4. Determinar opciones de política para apoyar las oportunidades. Este está
+conformado por dos actividades.
+PASO 5. Desarrollar hoja de ruta para la implementación. Este está conformado por
+cuatro actividades.
+
+--- Página 26 ---
+26
+Figura 11. Pasos sugeridos para que los gobiernos locales avancen hacia una economía circular.
+
+--- Página 27 ---
+27
+PASO 1: ANÁLISIS DEL CONTEXTO
+Este paso consiste en recopilar y analizar información clave existente, que pueda ser
+utilizada en el Paso 2 al momento de realizar el diagnóstico de circularidad y de determinar
+el nivel de alcance y los objetivos que se esperan alcanzar; esto con el fin de avanzar hacia
+una economía circular. Entre la información para recopilar y analizar, se tienen marcos
+legales y documentos de política, datos socioeconómicos y ambientales, series históricas,
+así como el mapeo de actores y de iniciativas de EC. Estas últimas pueden incluir iniciativas
+que no sean llamadas de esa manera, pero que incorporen los principios de este enfoque
+(PRINCIPIO 1: eliminar los residuos y la polución desde el diseño, PRINCIPIO 2: mantener
+productos, servicios y materiales en uso y PRINCIPIO 3: regenerar sistemas naturales). Un
+aspecto clave que se debe determinar en este paso y que puede ayudar a orientar todo el
+proceso, es el de identificar elementos clave de la municipalidad o territorio, elementos que
+representen ventajas comparativas o que diferencien a la municipalidad o el territorio de
+otros.
+Producto Esperado 1 . El producto esperado es un informe que incluye: (i) la información
+clave disponible y posibles vacíos de información, así como objetivos y metas en términos
+de desarrollo económico y sostenibilidad, especialmente, en aquellas materias relacionadas
+con la EC; (ii) los sectores con mayor contribución a la economía y en dónde están las
+oportunidades de empleo, (iii) un listado de actores clave, (iv) un listado de iniciativas que
+incorporan principios de la EC y los sectores de la economía a los que pertenecen, y (v) los
+elementos diferenciadores de la municipalidad o territorio.
+ACTIVIDAD 1.1. Revisar el marco legal y documentos de política estratégica
+Esta actividad tiene como objetivo extraer prioridades, objetivos y metas en términos de
+desarrollo económico y sostenibilidad, especialmente, en aquellas materias relacionadas
+con la EC. En la Tabla 6 , se provee un listado de los instrumentos legales y de política
+relevantes para Costa Rica y que se sugiere que sean revisados. En el Anexo 3. Instrumentos
+legales y políticas relacionadas con el cambio climático, la gestión de residuos y las
+municipalidades , se presenta con mayor detalle cada instrumento y un enlace para acceder
+a los documentos.
+Tabla 6. Instrumentos legales y políticas relacionadas con la economía circular en Costa Rica
+sugeridos a ser revisados
+Ámbito Instrumento
+Internacional • Decreto Ejecutivo 40203 sobre los Objetivos de Desarrollo Sostenible (ODS).
+• Contribuciones Previstas y Determinadas a Nivel Nacional (INDC).
+• Decreto N° 37983-COMEX-MP sobre la incorporación a la Organización de
+Cooperación y Desarrollo Económico (OCDE).
+
+--- Página 28 ---
+28
+Nacional Leyes: Ley 8839 de Gestión Integral de Residuos, Ley 4240 de Planificación Urbana, Ley
+7494 de Contratación Administrativa y la Ley 8131 de Administración Financiera de la
+República y Presupuestos Públicos.
+Reglamentos: Reglamento 37567-S-MINAET-H a la Ley para la Gestión Integral de
+Residuos, Reglamento 36093-S sobre el Manejo de Residuos Sólidos Ordinarios.
+Planes: Plan Nacional de Descarbonización 2018-2050, Plan Nacional de Energía 2015-2030
+y el Plan Nacional para la Gestión Integral de los Residuos 2016-2021.
+Estrategias: Estrategia Nacional de Separación, Recuperación y Valorización de Residuos
+2016-2021, Estrategia Nacional de Cambio Climático (ENCC), Estrategia Nacional para la
+Sustitución de Plásticos de un Solo Uso 2017-2021 y Estrategia Nacional de Bioeconomía
+2020- 2030.
+Políticas: Política Nacional de Adaptación al Cambio Climático 2018-2030, Política Nacional
+para la Gestión Integral de Residuos (PNGIR) 2010-2021, Política Nacional de Desarrollo
+Urbano 2018-2030, Política Nacional de Producción y Consumo Sostenibles 2018 -2030 y
+Política Nacional de Saneamiento en Aguas Residuales 2016-2045.
+Programas: Programa País Carbono Neutralidad y Programa Nacional de Etiquetado
+Ambiental y Energético.
+Municipales • Ley 7794 Código Municipal.
+• Ley General 8801 de Transferencia de Competencias del Poder Ejecutivo a
+Municipalidades.
+Fuente: Elaboración propia.
+ACTIVIDAD 1.2. Recopilar datos estadísticos actuales e históricos, principalmente de tipo
+social, económico y ambiental
+El objetivo es recopilar información que permita determinar:
+i. Los sectores con mayor contribución a la economía (local y nacional). Las
+contribuciones pueden ser expresadas en términos de su aporte al Producto Interno
+Bruto (PIB) nacional o local.
+ii. Dónde están las oportunidades de empleo. La idea es identificar aquellos sectores
+que generan o que, potencialmente, podrían generar el mayor número de empleos.
+iii. Las tasas de reciclaje/reutilización (totales y por sector prioritario).
+Cualquier dato estadístico que esté incompleto o que no alcance el nivel de detalle deseado
+podría complementarse con información obtenida directamente de organismos públicos o
+empresas específicas durante el proceso de recopilación de información.
+EJEMPLO ACTIVIDAD 1.2. RECOPILAR DATOS
+En la Agenda de EC del Gobierno de Navarra (2019) se recopilaron datos estadísticos para entender el
+contexto, la situación actual de la ciudad y posibles avances en EC. Se consideró:
+• La evolución de la actividad económica medida por la tasa de variación del PIB.
+
+--- Página 29 ---
+29
+• El consumo energético: tendencia del consumo y avances en eficiencia energética y
+oportunidades para avanzar en esta área.
+• La producción y el consumo de energías renovables.
+• Las emisiones de GEI segregadas por los sectores industrial, transporte, primario, residencial y
+servicios.
+• El flujos de Residuos. Se analizó la evolución de la generación de residuos de los sectores:
+o Industrial.
+o Construcción y demolición.
+o Residuos municipales biodegradables.
+o Doméstico y comercial.
+o Vehículos, aceites, acumuladores.
+o Lodos de aguas residuales.
+o Residuos agropecuarios.
+o Residuos sanitarios.
+• El porcentaje de valorización de los residuos generados.
+• La evolución de la recogida selectiva de materia orgánica y de la reutilización del agua.
+ACTIVIDAD 1.3. Mapear e identificar experiencias existentes en economía circular y actores
+A. 1.3.1 Experiencias existentes en economía circular y actividades que la fomentan
+En este punto, lo que se busca es identificar si existen experiencias y actividades en EC. Es
+importante resaltar que muchas de estas actividades no, necesariamente, se relacionan
+directamente con la EC, pero siguen sus principios.
+EJEMPLO ACTIVIDAD 1.3.1 – MAPEO DE EXPERIENCIAS EXISTENTES
+Con el fin de identificar actividades que fomentan la EC, en el desarrollo de la Agenda del Gobierno de
+Navarra (2019), se formularon las siguientes preguntas:
+• ¿Qué se hace en Navarra para fomentar la Economía Circular?
+• ¿Se integra la economía Circular en las Políticas públicas del Gobierno de Navarra?
+• ¿Se dispone de Normativa para el impulso de la EC?
+• ¿Se dispone de capacidad de liderazgo y de recursos en relación con?
+o El Sistema de Innovación
+o La oferta formativa relacionada con la EC
+o Instrumentos financieros
+A 1.3.2 Mapear actores clave e involucrarlos desde el inicio del proceso
+La transición hacia la EC afecta a toda la cadena de valor (diseño, provisión de materias
+primas y energía, fabricación, distribución, consumo, gestión de residuos, etc.). En este
+sentido, el cambio solo puede ser alcanzado con la participación de una amplia gama de
+actores. Los gobiernos locales están muy bien posicionados para fomentar dicha
+participación. Como en cualquier iniciativa estratégica, en este paso, se deben mapear los
+actores o partes claves interesadas e involucrarlas desde el inicio del proceso.
+EJEMPLO ACTIVIDAD 1.3.2 – ACTORES CLAVE INVOLUCRADOS
+
+--- Página 30 ---
+30
+En el Programa Regional de EC de Bruselas, se han involucrado, a nivel de coordinación, cuatro agencias y
+tres departamentos gubernamentales. A nivel de implementación, se ha designado un equipo central de
+15 coordinadores en las diferentes administraciones regionales. Junto al equipo central, hay cerca de 200
+personas de más de 90 organizaciones públicas, privadas y sin fines de lucro diferentes, las cuales
+representan múltiples sectores. Estos participantes actúan como coordinadores temáticos, líderes, socios
+y expertos en áreas particulares. Este enfoque inclusivo ha creado un fuerte sentido de pertenencia y ha
+ayudado a garantizar que la iniciativa sea resistente y sistémica (Ellen MacArthur Foundation, 2019a).
+ACTIVIDAD 1.4. Identificar elementos clave del territorio
+Con fin de avanzar hacia la EC es necesario tomar en cuenta las particularidades,
+características y retos que cada región o territorio posee. También es importante identificar
+dónde están las mayores oportunidades. El objetivo, en este paso, es identificar los espacios
+con fortalezas naturales o económicas, así como activos importantes que podría tener el
+territorio (infraestructura valiosa, ubicación geográfica estratégica o presencia de redes
+organizacionales relevantes) y que podrían representar el “valor agregado” o “punto de
+venta” de este.
+EJEMPLO ACTIVIDAD 1.4 - ELEMENTOS CLAVE DEL TERRITORIO
+El Programa de EC de Rotterdam toma en cuenta los siguientes elementos claves de su ciudad: la industria
+manufacturera, el ser un centro logístico, el contar con importantes servicios municipales, el ser una
+importante fuente de empleos y el tener uno de los puertos más grandes del mundo. Según el Programa,
+la ciudad y el puerto de Rotterdam funciona bajo una economía lineal que depende en gran medida de las
+materias primas y tiene una fuerte industria de la construcción. De acuerdo con el Programa, la ciudad se
+enfrenta al desafío de una continua sensibilización, de reconocer y aprovechar las oportunidades,
+encontrar otras formas de trabajar y nuevos modelos de negocio, tomando en cuenta por lo que Rotterdam
+es famosa y aprovechándolo a su favor (Roterdam Circulair, 2019).
+PASO 2: DESARROLLO DE UNA VISIÓN Y OBJETIVOS LOCALES ALINEADOS CON LA
+ECONOMÍA CIRCULAR PARA GUIAR LA PRIORIZACIÓN DE SECTORES DE ENFOQUE
+Para completar este paso se utiliza como insumo el informe de contexto elaborado en el
+PASO 1. Esta información facilitará el desarrollo del autodiagnóstico de circularidad, el cual
+constituye la línea base o punto de partida. Una vez se conoce el punto de partida, los
+objetivos y prioridades de la agenda local en los temas relacionados con la EC, se procede a
+desarrollar la visión y determinar los objetivos que se quieren alcanzar en materia de EC,
+así como el nivel de ambición deseado. Finalmente, se priorizan los sectores de la economía
+local en los que se desarrollarán acciones de EC. Este es un proceso participativo, en donde
+es importante la contribución de actores vinculados a los sectores clave de la economía y
+sus cadenas de valor.
+Producto Esperado : El producto esperado de este paso es un listado de los sectores
+priorizados.
+
+--- Página 31 ---
+31
+ACTIVIDAD 2.1. Realizar el balance o diagnóstico de circularidad
+El objetivo de esta actividad es comprender el punto de partida o línea base, antes de
+decidir a dónde ir. Para llevar adelante el balance de circularidad, se utilizará la información
+recopilada en el Paso 1. El producto final es la evaluación del nivel de circularidad del
+municipio, en comparación con la de otros municipios y/o con la del país. El diagnóstico
+debe retomar el análisis de políticas desde la perspectiva de la EC y proveer una
+comprensión amplia del panorama de las políticas existentes, en relación con la EC. El
+balance de circularidad debe permitir detectar los ámbitos prioritarios de actuación, tanto
+dentro de la municipalidad, como a nivel de los sectores económicos del municipio.
+HERRAMIENTA: DIAGNÓSTICO DE CIRCULARIDAD
+El autodiagnóstico ofrece un panorama del estado de la EC a nivel local, utilizando una metodología de
+evaluación cualitativa, determinada por la presencia o ausencia de actuaciones.
+En el caso del Autodiagnóstico propuesto por la FEMP (2019), los ejes estratégicos se dividen en medidas
+y estas, a su vez, en grupos de preguntas (actuaciones). Por ejemplo:
+Medida N°16: Fomento de la reutilización de residuos derivados de la gestión del agua
+¿Se impulsa el empleo de los residuos derivados de la gestión del agua por la propia Sí / No
+entidad local?
+¿Se sensibiliza e informa a los ciudadanos sobre la prevención de la contaminación de las Sí / No
+aguas residuales en origen y, en consecuencia, de los lodos de depuración?
+¿Se controla el cumplimiento de los límites establecidos en contenido de metales pesados Sí / No
+en los lodos, así como de las distancias mínimas de aplicación o la existencia de zonas
+vulnerables a la contaminación de nitratos de origen agrario?
+Número de respuestas afirmativas
+Según la FEMP (2019), se deben agrupar los resultados de cada una de las medidas de acuerdo con el eje
+estratégico. Por ejemplo:
+RESUMEN DE AUTODIAGNÓSTICO DE LA ENTIDAD LOCAL
+EJE ESTRATÉGICO: GESTIÓN DEL CONSUMO DE AGUA
+MEDIDA DE CIRCULARIDAD GRADO DE IMPLANTACIÓN
+Bajo Moderado Alto Muy alto
+Optimización de la red de abastecimiento y
+saneamiento
+Incremento de la eficacia y el ahorro del consumo de
+agua
+Fomento de la reutilización del agua
+Promoción de la gestión sostenible del agua pluvial
+Fomento de la reutilización de residuos derivados de la
+gestión del agua
+Total número
+Para facilitar una rápida visualización, se hace un análisis cuantitativo; sumando previamente las respuestas
+afirmativas a las actuaciones, aplicando la siguiente escala:
+
+--- Página 32 ---
+32
+Escala de valores para evaluar la contribución a la circularidad de cada medida
+Circularidad baja 0-1 actuaciones
+Circularidad moderada 2-3 actuaciones
+Circularidad alta 4-5 actuaciones
+Circularidad muy alta 6-7 actuaciones
+Finalmente, si se agrupan en una misma tabla los resultados de la totalidad de medidas, se obtiene una
+representación gráfica del estado de la implantación de la EC en el ámbito local.
+ACTIVIDAD 2.2. Desarrollar la visión y determinar los objetivos a alcanzar en materia de
+Economía Circular
+Avanzar hacia una EC requiere que exista una visión clara que sea implementada por un
+liderazgo fuerte e inspirador. En este punto, el objetivo es crear una visión general para
+luego determinar objetivos locales alineados con la EC.
+Se argumenta que es importante comprender los objetivos y prioridades de la agenda local
+en aquellas materias relacionadas con la EC; es decir, cuáles serían los programas de EC a
+desarrollar en los ámbitos de actuación a nivel de competencias municipales (por ejemplo,
+promoción económica, medio ambiente, servicios municipales, gestión y prevención de
+residuos, apoyo a la industria o el comercio).
+Una vez que están claros los ámbitos de actuación a nivel de competencias municipales, se
+identifican los objetivos de EC y se alinean con dichas competencias. La guía de EC para
+gobiernos locales propone una tabla para mapear los objetivos locales de EC y alinearlos
+con las competencias municipales (Ihobe, 2019). En dicha tabla los objetivos de EC se
+organizan de acuerdo con los tres pilares del desarrollo sostenible: sociedad, economía y
+medio ambiente; tomando en cuenta las competencias municipales, y el tejido social y
+productivo. La Tabla 7 presenta un ejemplo de cómo podrían lucir los objetivos de EC
+alineados con las áreas de actuación de las municipalidades de Costa Rica. En la Tabla 8 , se
+presentan los marcos legales y de política que rigen las competencias de las alcaldías en
+Costa Rica.
+Tabla 7. Ejemplo de objetivos de EC alineados con las áreas de actuación según las
+competencias municipales en Costa Rica
+OBJETIVOS COMPETENCIAS MUNICIPALES EN COSTA RICA
+Promoción Gestión Planificación Desarrollo
+económica y ambiental económico
+social local
+
+--- Página 33 ---
+33
+SOCIEDAD
+Crear grupos de trabajo entre las empresas y la
+administración para fomentar/impulsar la EC.
+Aplicar sistemas de EC en la gestión del
+gobierno local: compras y servicios, manejo de
+residuos, huella hídrica.
+ECONOMÍA
+Impulsar el comercio verde, en red y el
+producto local, conservando y dándole valor al
+patrimonio y los recursos locales.
+Utilizar recursos locales para consumo
+energético.
+MEDIO AMBIENTE
+Dirigir hacia la generación cero de residuos.
+Cierre de flujos materiales y disminución del
+consumo y desperdicio.
+Fomentar el compostaje comunitario e
+individual.
+Fuente: Modificado de Ihobe (2019).
+Tabla 8. Ámbito de actuación de las Alcaldías de Costa Rica
+En el caso de Costa Rica, las competencias municipales están tipificadas, principalmente, en el Código
+Municipal 7794, la Ley 8839 de Gestión Integral de Residuos y en el Informe de Auditoría Operativa acerca
+de la Gestión de las Municipalidades para Garantizar la Prestación Eficaz y Eficiente del Servicio de
+Recolección de Residuos Ordinarios, emitido por la Contraloría General de la República (CGR) (Anexo 4.
+Competencias municipales relacionadas con la gestión de residuos ).
+El Código Municipal establece la atribución de administrar y prestar los servicios públicos municipales, así
+como velar por su vigilancia y control (Asamblea Legislativa, 1998). La Ley de Gestión Integral de Residuos
+determina las funciones de las municipalidades. Entre ellas, se encuentra garantizar que en su territorio se
+provea del servicio de recolección de residuos en forma selectiva, accesible, periódica y eficiente para todos
+los habitantes, así como de centros de recuperación de materiales para la posterior valorización.
+Igualmente, deben proveer de los servicios de limpieza de caños, acequias, alcantarillas, vías, espacios
+públicos, ríos y playas cuando corresponda (Asamblea Legislativa, 2010).
+Finalmente, el Informe de Auditoría de la CGR emite la disposición obligatoria, dirigida a los alcaldes o
+alcaldesas municipales de la totalidad de gobiernos locales, de realizar un análisis de la gestión del servicio
+de recolección de residuos ordinarios. Esto con el fin de establecer las acciones de mejora necesarias para
+corregir las debilidades y limitaciones asociadas a la gestión de este servicio en el respectivo gobierno local,
+según lo comentado en este informe. Además de acciones de mejora plasmadas en objetivos, metas
+cuantificables, indicadores para las metas, plazos estimados y cualquier otro detalle relativo a los recursos
+humanos y financieros necesarios para su implementación (CGR, 2016).
+Con el fin de identificar los objetivos de EC, se recomienda adelantar grupos de trabajo entre
+el personal técnico de las entidades locales de los ámbitos de planificación, gestión
+ambiental, promoción económica y social, desarrollo económico local, entre otros. Una vez
+identificados los objetivos locales alineados con la EC, se procede a identificar los sectores
+prioritarios de actuación.
+
+--- Página 34 ---
+34
+ACTIVIDAD 2.3. Identificar el nivel de ambición deseado
+En este paso se busca identificar el nivel de ambición o avance deseado para los objetivos
+antes identificados. La idea es alinear a los actores o partes interesadas en una dirección
+común para, posteriormente, enfocarse en los sectores prioritarios. El producto final es un
+nivel de ambición claro y cuantificado. Se recomienda expresar el nivel de ambición en
+términos cuantitativos y/o cualitativos, ya sea usando métricas ya existentes o
+desarrollando nuevas.
+EJEMPLO ACTIVIDAD 2.3 – NIVEL DE AMBICIÓN
+Según la Caja de Herramientas para Tomadores de Decisión de la Ellen MacArthur Foundation (2015), los
+objetivos se pueden establecer utilizando indicadores existentes o desarrollando nuevas métricas. Estas
+métricas pueden inspirar a las municipalidades a establecer su nivel de ambición.
+• Un ejemplo de nivel de ambición, utilizando métrica cuantitativa, es el volumen de residuos
+municipales generados per cápita.
+• Un ejemplo de nivel de ambición, utilizando métrica cualitativa, es ser el mejor municipio
+promocionando negocios circulares.
+En el caso de la Estrategia del Departamento de Medio Ambiente del País Vasco (2019):
+• Crear más de 3.000 empleos en el ámbito de la EC.
+• Duplicar la tasa de uso de material circular.
+• Reducir en un 40% la tasa de generación de residuos por unidad de PIB.
+ACTIVIDAD 2.4. Identificar sectores de enfoque
+El objetivo central es la exploración de oportunidades de EC en los sectores más relevantes
+de la economía local, con el fin de concentrarse posteriormente en la evaluación de dichas
+oportunidades. El resultado final es un conjunto de sectores de enfoque que fueron
+priorizados con base en una matriz que mapea dichos sectores tomando en cuenta su "rol
+en la economía local/nacional" y el "potencial de circularidad”, aspectos para los que se
+identificó información clave en los pasos anteriores.
+Un buen punto de partida para la priorización es iniciar con los sectores productivos, ya que
+estos suelen tener la mayor huella de uso de materiales. Esto reduce el alcance del ejercicio.
+También puede ser útil observar aquellos sectores no productores, pero que son grandes
+consumidores de recursos.
+EJEMPLO ACTIVIDAD 2.4 - EXPLORAR Y PRIORIZAR SECTORES DE ENFOQUE
+Según la Caja de Herramientas para Tomadores de Decisión de la Ellen MacArthur Foundation (2015), las
+dos dimensiones naturales para priorizar sectores en una iniciativa de economía circular son el papel o rol
+de los sectores en la economía local/nacional y su potencial de circularidad. Estos se pueden dividir en
+varias subdimensiones, por ejemplo:
+• Papel en la economía nacional: tamaño (y crecimiento) medido por la participación en el VAB (valor
+agregado bruto), contribución al empleo (y crecimiento) y competitividad.
+
+--- Página 35 ---
+35
+• Potencial de circularidad: intensidad en el uso de materiales y energía, volumen de residuos
+generados, porcentaje de residuos vertidos / incinerados y estimación de alto nivel de alcance para
+mejorar la circularidad.
+Esta lista no pretende ser exhaustiva y puede adaptarse en función, por ejemplo, de la disponibilidad de
+datos y las prioridades locales y nacionales.
+En el caso de Glasgow, después de analizar las actividades y las prioridades políticas y económicas, se
+identificaron tres sectores clave que, combinados, representaban casi el 30 % de la fuerza laboral y el 27 %
+de la economía. Además, se analizó el flujo de materiales de estos sectores para mapear cómo se obtienen,
+utilizan y descartan los materiales y la energía, y dónde se encuentran las oportunidades para generar
+cambios hacia una economía circular (Ellen MacArthur Foundation, 2019c).
+La selección de los sectores de enfoque es un paso clave en la metodología, ya que
+determina la dirección para el resto de la iniciativa, no solo en términos de análisis sino
+también en términos de participación. Una gran parte del análisis de las oportunidades
+circulares es específica del sector, ya que los obstáculos y las opciones de política suelen
+diferir significativamente entre sectores En ese sentido, los actores clave o partes
+interesadas de los sectores seleccionados (y sus cadenas de valor más amplias) deben
+participar activamente en el análisis específico del sector.
+El producto final de este paso es el listado de los sectores de enfoque seleccionados.
+PASO 3. IDENTIFICACIÓN DE OPORTUNIDADES CIRCULARES EN CADA SECTOR DE
+ENFOQUE
+Una vez que se han seleccionado los sectores de enfoque, se realiza la evaluación específica
+de cada uno con el objetivo de identificar las oportunidades más relevantes de EC. Estas
+deben ser mapeadas y posteriormente priorizadas. Para las oportunidades priorizadas, se
+debe evaluar el impacto económico específico, así como las barreras que podrían limitar su
+alcance (Ellen MacArthur Foundation, 2015). Este paso puede llevarse a cabo en grupos de
+trabajo paralelos por sector de enfoque y depende, en gran medida, de la participación de
+las empresas, así como actores clave del gobierno local, organizaciones de sociedad civil,
+academia, entre otros con el fin de:
+• Obtener información y conocimientos para identificar las oportunidades y barreras
+más relevantes para la EC en cada sector de enfoque.
+• Crear una alineación temprana de los actores en una dirección común para el
+territorio/municipio o ciudad, y para los sectores de enfoque.
+• Demostrar los beneficios de la EC para las empresas y fortalecer sus capacidades.
+Producto esperado 3 . El producto esperado de este paso es un listado de oportunidades o
+acciones en EC a ser desarrolladas dentro de cada sector de enfoque, junto con las posibles
+barreras que se enfrentarán al momento de implementar dichas acciones.
+
+--- Página 36 ---
+36
+ACTIVIDAD 3.1. Mapear oportunidades de Economía Circular en cada sector de enfoque
+03. DEL CONCEPTO A LA ACCIÓN: APLICACIÓN DE LA ECONOMÍA CIRCULAR EN LOS MUNICIPIOS
+Una vez que se tienen los sectores de enfoque, se realiza la evaluación específica de cada
+uno con el fin de mapear las oportunidades de EC más relevantes. El objetivo es detectar
+las posibles oportunidades de EC en cada sector para, posteriormente, seleccionar las que
+presenten el mayor potencial de éxito. En este punto, también se identifican los agentes e 03
+Cabe destacar también que no solamente la detección diferentes sectores es el marco ReSOLVE desarrollado
+instrumentos clave para llevar a cabo dichas oportunidades.
+de sectores sino la detección de ámbitos de actuación por la Fundación Ellen MacArthur y McKinsey.
+dentro de estos, ayuda a proporcionar una mejor
+visión para el mapeo o estrategia circular y a la hora de A lo largo del documento, y especialmente en el
+Para completar esta fase se recomienda (i) realizar un diagnóstico detallado del sector de clasificar las oportunidades circulares. Tanto el paquete apartado del papel que juegan los entes locales en la
+europeo como la Estrategia de Economía Circular 2030 Economía Circular, se ha visto que las entidades locales
+enfoque seleccionado, (ii) analizar las buenas prácticas de EC relacionadas con el sector de de Euskadi, relacionan estos ámbitos de actuación con y comarcales son un grupo de interés clave a la hora
+toda la cadena de valor de un producto o servicio, de detectar oportunidades o iniciativas circulares a
+enfoque y (iii) llevar a cabo sesiones de trabajo con agentes clave del territorio para dando como resultado 4 ámbitos a tener en cuenta impulsar en los municipios y comarcas.
+(figura 15).
+identificar oportunidades circulares. Se recomienda usar el marco ReSOLVE A continuación, se exponen algunos ejemplos de 6 , el cual fue
+oportunidades o iniciativas circulares a implementar a
+desarrollado por McKinsey y la FEM. Este marco toma los principios básicos de circularidad Detectar oportunidades circulares
+nivel local, detectadas durante las sesiones del grupo de
+Economía Circular de Udalsarea 2030.
+y los aplica a seis acciones: regenerar, compartir, optimizar, enlazar, virtualizar e
+Un recurso útil para facilitar la identificación y
+clasificación de oportunidades circulares en los
+intercambiar ( Figura 12. Marco ReSOLVE).
+FIGURA 16. El Marco ReSOLVE, desarrollado por McKinsey y Ellen MacArthur Foundation
+REGENERATE REGENERAR
+SHARE COMPARTIR
+Marco ReSOLVE
+OPTIMISE OPTIMIZAR
+Desarrollado por McKinsey y
+Fundación Ellen MacArthur, el
+marco toma los principos básicos
+de la circularidad y los clasifica en LOOP CERRAR
+6 tipos de ACCIONES
+VIRUTALISE VIRTUALIZAR
+"Desarrollado por McKinsey y
+Fundación Ellen McArthur.”
+EXCHANGE INTERCAMBIAR
+Fuente: Elaboración propia con iconos de Dave Gandy, Darius Dan y Freepik-Flaticon.
+REgenerate Cambiar a energías y materiales renovables. Recuperar, retener y regenerar la salud de
+“
+(Regenerar) Mediante una dinámica con el grupo de trabajo de Economía Circular de Udalsarea 2030, los ecosistemas y devolver los recursos biológicos recuperados a la biosfera.
+Share personal técnico municipal ha propuesto posibles oportunidades circulares a aplicar a nivel Maximizar la utilización de los productos compartiéndolos entre diferentes usuarios,
+(Compartir) local y comarcal, dentro de los sectores prioritarios y ámbitos de actuación. Se han detectado y reutilizándolos y prolongando su vida útil mediante el mantenimiento, la reparación y
+”
+el diseñando para una mayor durabilidad como medida contra la obsolescencia clasificado con la ayuda del marco ReSOLVE.
+programada.
+Optimise Incrementar el desempeño / eficiencia de un producto, eliminar residuos en la cadena
+(Optimizar) de producción y suministro, automatización, internet, Big Data.
+Loop Mantener los componentes y materiales en circuitos cerrados y dar prioridad a circuitos
+(enlazar) internos para materiales finitos. Implica, remanufactura de productos o componentes y
+reciclar materiales.
+Virtualise Desmaterializar el uso de recursos, proveyéndolos virtualmente. Por ejemplo, libros o
+24 :::::::
+(Virtualizar) música; compras en línea, oficinas virtuales.
+6 Marco ReSOLVE:
+https://www.ellenmacarthurfoundation.org/assets/downloads/publications/EllenMacArthurFoundation_PolicymakerTo
+olkit.pdf
+
+--- Página 37 ---
+37
+Exchange Reemplazar materiales viejos con materiales no renovables avanzados y demandar
+(Intercambiar) nuevos productos; trabajar en red, intercambiar materias primas,desarrollar mercados
+de segunda mano.
+Figura 12. Marco ReSOLVE.
+Fuente: Ihobe (2019) y Ellen MacArthur Foundation (2015).
+EJEMPLO ACTIVIDAD 3.1 – MAPEAR Y DETECTAR OPORTUNIDADES
+El marco ReSOLVE ofrece una estructura para el mapeo sistemático de oportunidades por cada sector
+priorizado utilizando información existente. También, se recomienda comunicarse con las partes
+interesadas y los expertos del sector para garantizar que el mapeo cubra las oportunidades más relevantes.
+Para la selección de oportunidades, se puede utilizar un mecanismo de puntuación cualitativo que permita
+clasificar las diferentes oportunidades de la EC. En el Piloto de Dinamarca, mencionado en la Caja de
+Herramientas para Responsables de Políticas de la Ellen MacArthur Foundation (2015), se utilizó una
+clasificación cualitativa para priorizar oportunidades en el sector de la construcción. El análisis contiene los
+6 elementos del marco ReSOLVE, las oportunidades identificadas y una escala que va de “bajo potencial” a
+“alto potencial”. Detallar los sectores consiste en determinar una parte específica del sector o algunos
+productos específicos, dentro de una cadena de valor. Por ejemplo, en el Piloto de Dinamarca, el análisis
+en el sector de la maquinaria se centró en dos de sus productos clave: bombas y turbinas eólicas.
+En la Tabla 9, se presenta un ejemplo del uso del Marco ReSOLVE para identificar
+oportunidades de economía circular para una ciudad. Las oportunidades y acciones pueden
+ser propuestas e impulsadas siguiendo diferentes procesos participativos: “top-down”
+(impulsados desde las administraciones) y “bottom-up” (impulsados por la comunidad y los
+ciudadanos).
+Tabla 9. Acciones desarrolladas en diferentes ámbitos de la sociedad con el fin de transitar
+hacia una ciudad circular - adaptado del marco ReSOLVE
+Principio de una ciudad circular Acciones Top-down Acciones Bottom-up
+(Marco ReSOLVE)
+Regenerar (Regenerate)
+Reclamar, retener y restablecer la Desarrollar espacios verdes para Practicar la agricultura urbana
+salud de los ecosistemas. la biodiversidad urbana. por medio de huertas.
+Compartir (Share)
+Compartir activos. Promover la economía Compartir los vehículos,
+colaborativa e incentivar el “ carpooling”.
+Reutilizar. intercambio de bienes y el diseño Participar en el mercado de
+sostenible. segunda mano.
+Prolongar la vida útil. Mantener en uso los
+productos por el mayor
+tiempo posible, combatiendo
+la obsolescencia programada.
+Optimizar (Optimise)
+Incrementar el rendimiento y la Instalación de iluminación LED en Utilizar iluminación LED en los
+eficiencia del producto. los espacios públicos. hogares y utensilios eléctricos
+eficientes.
+Reacondicionamiento de edificios
+antiguos para aumentar su
+eficiencia energética.
+
+--- Página 38 ---
+38
+Eliminar los residuos de la Incluir el servicio de recolección Hacer compostaje en el hogar.
+producción y de la cadena de de residuos orgánicos en hogares
+suministro. y comercios.
+Enlazar (Loop)
+Reciclar materiales. Formular e implementar políticas Iniciativas de reciclaje a nivel
+e incentivos para promover la de hogar y/o comunitario.
+Compostar residuos orgánicos. separación y reciclaje de residuos Iniciativas de reciclaje y
+y reducir el desperdicio de biodigestores comunitarios.
+comida.
+Virtualizar (Virtualise)
+Desmaterializar directamente. Digitalización de las bibliotecas Plataformas digitales
+públicas, archivos, información lideradas por la comunidad
+legal y trámites. para monitorear clima y
+biodiversidad.
+Desmaterializar indirectamente. Compras públicas digitales. Compras privadas en línea.
+Intercambiar (Exchange)
+Sustituir materias viejas con Materiales y procesos circulares Realizar la compra de
+materias avanzadas no de construcción/demolición. alimentos en mercados
+renovables. orgánicos y de origen local.
+Aplicar nuevas tecnologías. Fomentar el transporte eléctrico a
+través de la instalación de puntos
+de recarga.
+Elegir nuevos productos y Adquisición de muebles de oficina
+servicios. reparados mediante procesos
+circulares.
+Fuente: Prendeville, Cherim, & Bocken (2018)
+ACTIVIDAD 3.2. Priorizar y evaluar las oportunidades de Economía Circular identificadas en
+cada sector priorizado
+El mapeo sistemático de oportunidades descritas en la ACTIVIDAD 3.1 puede resultar en un
+número importante de posibles oportunidades para cada sector de enfoque. Por lo tanto,
+es importante priorizar dichas oportunidades con el fin de seleccionar aquellas con mayor
+potencial de éxito. El producto final es un conjunto de (uno a tres) oportunidades
+priorizadas y detalladas por sector de enfoque. Esta fase, junto con las siguientes fases de
+identificación de barreras y de opciones de política, son probablemente las que demandan
+una mayor participación por parte de actores claves, especialmente del sector empresarial.
+Si bien se pueden hacer propuestas con base en la revisión de la literatura y las mejores
+prácticas internacionales, en este paso se le debe dar prioridad a la participación de los
+actores citados, dado que estos pueden proporcionar información basada en la realidad
+empresarial local.
+Con el fin de priorizar las oportunidades de EC que fueron mapeadas, se pueden utilizar
+diferentes metodologías. Por ejemplo, se puede usar un mecanismo de puntuación
+cualitativa simple, basado en el impacto en la economía y en el uso de los recursos. En la
+Tabla 10 , se presenta dicha evaluación para 20 actividades económicas prioritarias de
+Europa. Este tipo de análisis puede proveer una primera indicación para guiar el trabajo de
+priorización.
+
+--- Página 39 ---
+39
+Otro ejemplo es la clasificación cualitativa de cinco niveles para priorizar hasta tres
+oportunidades por sector de enfoque, el cual fue utilizado en Dinamarca. La Tabla 11 ,
+muestra la priorización desarrollada para el sector de la Construcción e Inmobiliario en el
+piloto de Dinamarca.
+Una vez que se han priorizado las oportunidades de EC, se procede a evaluar las cuatro de
+mayor prioridad por sector. Con este fin, se sugiere realizar una evaluación multicriterio 7 en
+función de la viabilidad económica, técnica y medioambiental de cada oportunidad. Otros
+aspectos que también juegan un papel clave y que pueden complementar la evaluación de
+las oportunidades identificadas son el impacto social potencial, el nivel de apoyo que tienen
+de los actores clave, su potencial de escalabilidad y el cronograma estimado de
+implementación. También se puede indicar los resultados que se esperan alcanzar con cada
+oportunidad con el fin de evaluar su impacto potencial. La información necesaria para
+completar este paso puede ser recolectada en las sesiones de trabajo. Seguidamente, esas
+ideas podrían ser organizadas y evaluadas por el equipo técnico y complementadas con
+entrevistas adicionales, si fuera necesario (Sánchez et al., 2020).
+Como producto final se tiene un listado de un máximo de cuatro oportunidades por sector
+de enfoque. Estas constituyen el insumo inicial para elaborar la hoja de ruta que representa
+el último paso.
+7 En términos generales, la evaluación o análisis multicriterio es una herramienta de apoyo a la toma de
+decisiones que permite evaluar e integrar diversas variables de acuerdo con la opinión de diferentes actores
+en un solo marco de análisis; esto con el fin de dar una visión integral durante el proceso de planificación.
+CEPAL. Evaluación Social de Proyectos y ESRI, Análisis Multicriterio.
+https://www.cepal.org/ilpes/noticias/paginas/7/35117/ev_social_ILPES_2009_4_multicriterio.pdf y
+https://www.arcgis.com/apps/Cascade/index.html?appid=5874bf9388024486bd33e734c6db60b9
+
+--- Página 40 ---
+40
+Tabla 10. Priorización cualitativa de 20 sectores clave en Europa, siguiendo la clasificación
+del marco ReSOLVE.
+Fuente: Ellen MacArthur Foundation (2015).
+Tabla 11. Evaluación cualitativa del potencial de oportunidades para los sectores de la
+construcción e inmobiliario en el piloto de Dinamarca.
+REgenerate • Uso de elementos biológicos en la arquitectura (por ejemplo,
+(Regenerar) "techos vivos" que purifican el agua).
+• Retorno de material de construcción orgánico a la biosfera.
+58 • DELIVERING THE CIRCULAR ECONOMY – A TOOLKIT FOR POLICYMAKERS
+Share • Compartir el espacio reduciendo la demanda por nuevos
+(Compartir) edificios.
+Real Estate sector in the Denmark pilot Figure 13: Qualitative assessment of potential of opportunities for the Construction &
+SOURCE: Ellen MacArthur Foundation circular economy team
+XCHANGE • Compartir espacios residenciales (por ejemplo, Airbnb)).
+58 • DELIVERING THE CIRCULAR ECONOMY – A TOOLKIT FOR POLICYMAKERS • Compartir espacio de oficina (por ejemplo, Liquidspace).
+• Mayor uso de edificios subutilizados.
+Optimise • Coordinación de todas las partes interesadas a lo largo de la Real Estate sector in the Denmark pilot Figure 13: Qualitative assessment of potential of opportunities for the Con
+SOURCE: Ellen MacArthur Foundation circular economy team
+(Optimizar) XCHANGE cadena de valor para reducir los residuos.
+• Optimización del uso de energía a través de viviendas de bajo
+consumo energético y hogares inteligentes.
+Loop • Mayor reutilización y reciclaje de componentes y materiales
+(Enlazar) de construcción de alto valor, por ejemplo, edificios
+QUALITATIVE ASSESSMENT OF POTENTIAL
+diseñados para ser desmontados.
+Virtualise
+(Virtualizar) • Aumentar el teletrabajo para reducir la necesidad de espacio
+QUALITATIVE ASSESSMENT OF POTENTIAL
+en la oficina.
+Exchange • Producción modular fuera del sitio para un montaje rápido
+(Intercambiar) • Impresión 3D de componentes de construcción en el sitio.
+3D printing of building compone Modular production o Increased teleworking to reduce • • • • • • •
+Increased reuse and high-valu Energy use optimisation thro Coordination of all stakeholde Increased use of under-utilise Sharing of floor space reducin Return of organic constructio Use of biological elements in
+• • • • • • •
+Building passports/sign New business models (e Designing buildings for Re-purposing of buildin Multi-purposing of o Shared o Shared residential floor
+3D printing of build Modular production Increased telework • • • • • • •
+Increased reuse Energy use optim Coordination of Increased use of Sharing of floor Return of organi Use of biological
+ffi
+• • • • • • •
+ce space (e.g
+ff Building pa New busine Designing Re-purpos Multi-purp Shared o Shared res
+-site for r
+ffi
+c ffi
+
+--- Página 41 ---
+41
+Fuente: Modificado de Ellen MacArthur Foundation (2015).
+ACTIVIDAD 3.3. Identificar barreras
+El objetivo es comprender las barreras que se podrían interponer en el camino de las
+oportunidades de la EC priorizadas en cada sector de enfoque. Esto se hace con el fin de
+diseñar opciones de política específicas. Las barreras que se busca superar pueden ser
+identificadas en áreas como la economía, el comportamiento del mercado, las regulaciones
+o factores sociales. El producto final es la descripción de las barreras para cada oportunidad.
+EJEMPLO ACTIVIDAD 3.3 – IDENTIFICAR BARRERAS
+De acuerdo con la Guía de Promoción de la EC desde lo Local de Ihobe (2019), los posibles tipos de barreras
+para implementar la EC pueden ser económicas (no hay rentabilidad o el período de retorno es muy alto),
+de mercado (infraestructura pública insuficiente), regulatorias (marco legal que impide el desarrollo de
+iniciativas) y sociales (carencia de capacidades).
+En la Hoja de Ruta de la Ciudad Circular de Peterborough de la Ellen MacArthur Foundation (2019d), las
+barreras y desafíos se segregaron según sector priorizado, las más significativas son de compromiso y
+colaboración: ¿cómo involucrar a los tomadores de decisiones clave y lograr la colaboración necesaria para
+la EC?; técnicas: ¿cómo aumentar los niveles de conciencia, conocimiento y habilidades para la innovación
+circular?; financieras: ¿qué apoyo hay disponible y dónde podemos encontrarlo? y de simbiosis
+empresarial: ¿cómo estimular y facilitar la colaboración entre empresas?
+En el caso del Diagnóstico de la EC en la Industria del País Vasco, se identificaron barreras específicas para
+este sector: Innovación (conocimiento insuficiente en tecnologías y sobrecostes); Inversiones y nuevos
+negocios (dificultad para poner en el mercado soluciones novedosas); y Nuevos mercados y requerimientos
+de los clientes (información de los consumidores y poca disposición del mercado a valorar el producto más
+sostenible) (Ihobe, 2018).
+PASO 4. DETERMINAR OPCIONES DE POLÍTICAS PARA APOYAR LAS
+OPORTUNIDADES DE EC
+Una vez completados los pasos anteriores, se analizan las implicaciones vinculadas a las
+oportunidades identificadas, así como los instrumentos de política y los grupos de interés a
+ser involucrados a fin de superar las barreras y llevar a cabo las oportunidades circulares.
+Producto Esperado 4 . El producto esperado de este paso es un documento con un listado
+o “paquete” de políticas a ser implementadas por las municipalidades, con el fin de facilitar
+la realización de las oportunidades en EC que fueron priorizadas dentro de cada sector de
+enfoque.
+
+--- Página 42 ---
+42
+ACTIVIDAD 4.1. Mapear opciones de políticas específicas por sector
+El objetivo es establecer todas las opciones Posibles opciones de política:
+• Información y sensibilización.
+de políticas disponibles relevantes para
+• Plataformas de colaboración.
+abordar las barreras identificadas,
+• Esquemas de apoyo empresarial.
+anteriormente, en el Paso 3. El producto • Contratación pública e infraestructura.
+final es una lista de opciones de política • Marcos regulatorios.
+para cada barrera por oportunidad. • Marcos fiscales.
+ACTIVIDAD 4.2. Priorizar, empaquetar y secuenciar opciones de política
+Una vez que se han evaluado las oportunidades de EC específicas por sector, estas se
+pueden consolidar con el fin de analizar las barreras que pueden limitar su alcance, e
+identificar las políticas que podrían ayudar a remover dichas barreras. Las opciones de
+política que se podrían identificar a nivel del sector podrían agruparse en paquetes de
+políticas. La Caja de Herramientas de la Fundación MacArthur hace una propuesta de cómo
+identificar las opciones de política, haciendo énfasis en el tipo de efecto que estas pueden
+tener removiendo barreras, así como en el costo de implementación. Sin embardo, dicha
+propuesta se hace para iniciativas a nivel nacional, por lo que esta tendría que ser adaptada
+para ser usada a nivel local.
+Esta actividad, generalmente, es liderada por un grupo de formuladores de políticas; dentro
+de los que se incluyen expertos en economía, y en el cual participan representantes de
+múltiples agencias gubernamentales.
+EJEMPLO ACTIVIDAD 4.2 – PRIORIZAR OPCIONES DE POLÍTICA
+Según el documento “Implementando la Economía Circular. Un Juego de Herramientas para Tomadores de
+Decisiones” de la Ellen MacArthur Foundation (2015), para priorizar políticas puede ser útil evaluar los
+posibles efectos y el costo de su implementación. También se puede tener en cuenta otros factores como
+el tiempo de implementación, el tiempo que llevará obtener resultados y los efectos distributivos que las
+políticas pueden tener.
+Un ejemplo de un ejercicio de priorización de este tipo se realizó en el Piloto de Dinamarca para
+biorrefinerías donde se organizaron las políticas según el impacto esperado (alto y bajo). Para estructurar
+la priorización, se puede desglosar el impacto esperado y el costo de implementación. Por ejemplo, el
+impacto de una opción de política puede ser medido de acuerdo con:
+i. La importancia de la barrera que pretende superar, esto se logra asignando un peso a la barrera
+(crítico / muy importante / importante).
+ii. La efectividad de las opciones políticas identificadas para superar la barrera.
+iii. El costo de implementar una opción de política, incluyendo los costos administrativos y de
+transacción, así como los costos económicos.
+Una vez que se determina un conjunto priorizado de opciones de políticas potenciales, el siguiente paso es
+estructurarlas en paquetes. Para secuenciar las políticas se puede utilizar una escala de corto, mediano y
+largo plazo. Se recomienda comenzar con victorias rápidas para dar impulso, generar proyectos piloto antes
+que programas definitivos, dedicar esfuerzos a rastrear el progreso de la implementación a lo largo del
+tiempo y ajustar las intervenciones de política para garantizar que se cumplan los objetivos iniciales.
+
+--- Página 43 ---
+43
+PASO 5. DESARROLLAR UNA HOJA DE RUTA PARA IMPLEMENTACIÓN
+El objetivo final de esta guía es apoyar a los gobiernos locales en la elaboración de un plan
+o estrategia para avanzar hacia la EC. Por lo tanto, el objetivo del último paso es desarrollar
+una hoja de ruta que facilite la implementación de las acciones que la administración local
+pretende llevar adelante.
+Las oportunidades de EC previamente priorizadas en cada sector de enfoque, junto con las
+acciones de política y otros aspectos claves que se necesitarán para hacerlas realidad se
+debe desarrollar una hoja de ruta para su implementación. La hoja de ruta deberá incluir
+recursos, tiempo, tipo de apoyo de agentes claves a ser involucrados, entre otros.
+Producto Esperado 5 . Este producto es una hoja de ruta que incluye las dos o tres
+oportunidades priorizadas por sector de enfoque, el modelo de negocios para estas, junto
+a los requerimientos para su implementación. También incluye las barreras que
+posiblemente se enfrentarán y las estrategias para superarlas. Igualmente, identifica los
+socios que potencialmente participarían en la implementación, así como posibles sinergias
+con otras iniciativas de la EC. Finalmente, contiene la forma y los indicadores a través de los
+cuales se dará seguimiento con el fin de identificar el impacto a nivel local.
+ACTIVIDAD 5.1. Descripción de las iniciativas y línea de tiempo
+Las oportunidades previamente priorizadas en cada sector de enfoque deben estar
+descritas en la hoja de ruta, así como lo que se necesitará para hacerlas realidad en términos
+de tiempo y apoyo de los agentes involucrados. Se debe especificar los pasos estratégicos
+a tomar para implementar plenamente las iniciativas, junto con una línea de tiempo o
+cronograma estimado para la implementación de la hoja de ruta. Se podrían definir
+escenarios a corto y largo plazo con una descripción completa del desarrollo esperado en
+términos de tecnologías, cambios en el comportamiento del consumidor y/o marco legal
+requerido (Sánchez et al., 2020).
+ACTIVIDAD 5.2. Determinar el modelo de negocios, la inversión y otros aspectos requeridos
+para desarrollar cada oportunidad priorizada
+Un paso clave es el describir un modelo de negocios para cada oportunidad priorizada. Esto
+incluiría, por ejemplo, potencial para generar valor y crear empleos. Modelos usados en
+otras experiencias incluyen el lienzo del modelo de negocios de triple capa (Joyce & Paquin,
+2016) y la categorización de los arquetipos de modelo de negocios sostenibles (Bocken et
+al., 2014). En este punto, también se deben determinar los requerimientos tanto de tipo
+financiero, como la inversión requerida y el tiempo de retorno esperado para cada
+oportunidad. Por ejemplo, el tipo de conocimiento en torno a la EC, el apoyo a la
+investigación e innovación para el desarrollo de ideas, el apoyo a la incubación de estas, el
+
+--- Página 44 ---
+44
+asesoramiento para las pequeñas y medianas empresas y la creación de alianzas
+estratégicas público-privadas con la participación del centro de investigación.
+ACTIVIDAD 5.3. Considerar las barreras, las estrategias u opciones de política para superarlas
+y los agentes a involucrar
+Las barreras para la implementación de las oportunidades de EC priorizadas por sector de
+enfoque, y que fueron analizadas en la Actividad 3.4, deben considerarse en este punto con
+el fin de identificar opciones de políticas para abordarlas. Dichas acciones deben ser
+incorporadas en la hoja de ruta. En este punto también es muy importante utilizar la
+información y el análisis realizado en la Actividad 1.1.
+Otro componente muy significativo de la hoja de ruta es el de especificar los agentes que
+estarían involucrados a este nivel. Para esto, es importante tomar en cuenta los agentes
+relevantes que han participado en los pasos y actividades anteriores, y que ya han mostrado
+su interés en las oportunidades de EC. Adicionalmente, habría que especificar otros agentes
+cuyo apoyo sería necesario para llevar a cabo las opciones seleccionadas para superar las
+barreras. Incluso podría ser interesante identificar posibles colaboraciones o alianzas con
+otros proyectos específicos, así como los agentes que deberían encargarse de gestionarlos.
+En este punto es importante tener en cuenta las iniciativas existentes en EC y que fueron
+mapeadas en la Actividad 1.3.
+ACTIVIDAD 5.4. Dar seguimiento y evaluar progreso (M&E)
+Con el fin de dar seguimiento a los resultados y posibles impactos que se generarán en el
+contexto local a partir de la implementación de la hoja de ruta, es importante establecer la
+entidad o entidades encargadas, especialmente a partir de esquemas de monitoreo ya
+existentes. Por ejemplo, en el caso de la Agenda de EC de Navarra, la entidad encargada del
+M&E es Dirección General de Medio Ambiente del Gobierno de Navarra (ejemplo 5.4).
+EJEMPLO ACTIVIDAD 5.4 – SEGUIMIENTO Y EVALUACIÓN DEL PROGRESO
+La Agenda de EC del Gobierno de Navarra (2019) establece el organismo que la lidera, la Dirección General
+de Medio Ambiente. También define que el seguimiento de resultados se realizará a través de indicadores
+con objetivos cuantificables, siguiendo el Marco de Seguimiento Europeo para la EC y el marco de
+indicadores de la Estrategia de EC de España. La Estrategia de España fue creada para avanzar hacia una EC
+a través de la puesta en marcha de distintos planes de acción. Conforme se van ejecutando las diferentes
+acciones, se evalúan sus efectos y, de ser necesario, se realizarían ajustes para conseguir los objetivos al
+2030. En el caso del Programa Regional de EC de Bruselas, el progreso se discute en reuniones trimestrales
+entre todos los coordinadores temáticos y, cada 18 meses, el Comité Directivo de Be Circular revisa el
+progreso junto con el presupuesto. Además, establece que se pondrá a disposición del público un informe
+de evaluación y que los coordinadores de Be Circular desarrollarán indicadores que informen sobre los
+resultados económicos, ambientales y sociales más amplios (Ellen MacArthur Foundation, 2019a).
+También es necesario identificar e incluir indicadores cuantitativos y/o cualitativos que
+pueden ser de tipo económico, social y/o ambiental. En el caso de los gobiernos locales de
+
+--- Página 45 ---
+45
+Costa Rica, las municipalidades ya miden indicadores que pueden ser usados para ilustrar
+una transición hacia la EC. Dichas métricas son calculadas por los gobiernos locales con el
+fin de cumplir con regulaciones del Ministerio de Salud y del Ministerio de Ambiente y
+Energía para el Programa de Gestión Ambiental Institucional (PGAI) y con el índice de
+Gestión Municipal de la CGR. Por lo tanto, se sugiere utilizar varios de dichos indicadores
+( Tabla 12 ).
+Tabla 12. Indicadores relacionados con EC que actualmente miden los gobiernos locales de
+Costa Rica
+Tipo de
+Categoría Indicador indicador
+Residuos recolectados por año (toneladas métricas).
+Residuos ordinarios recolectados por año (toneladas métricas).
+Residuos valorizables recolectados por año (toneladas métricas).
+Residuos orgánicos recolectados por año (toneladas métricas).
+Materiales peligrosos recuperados por año (porcentaje).
+Residuos destinados al reciclaje y compostaje recuperados (porcentaje).
+Costo por tonelada métrica de residuos recolectados (colones).
+Ingresos y gastos del servicio de recolección de residuos (colones).
+Distancia de traslado de los residuos desde la municipalidad hasta su
+disposición final (km).
+Morosidad por el servicio de recolección de residuos (porcentaje).
+Sostenibilidad del servicio de recolección de residuos (porcentaje).
+Recursos destinados al desarrollo del servicio de recolección (porcentaje).
+Unidades habitacionales atendidas en el servicio de recolección de
+residuos (número).
+Total de unidades habitacionales del municipio (número).
+Cobertura del servicio de recolección de residuos (porcentaje).
+Gestión de Programas de reciclaje para la ciudadanía que incluya la clasificación de los
+residuos (número). Cuantitativo
+residuos
+Iniciativas en educación ambiental (número).
+Cantidad de centros de acopio (número).
+Residuos depositados y tratados (toneladas métricas).
+Costo por tonelada métrica de residuos depositados y tratados (colones).
+Ingresos y gastos del servicio de depósito y tratamiento de residuos
+(colones).
+Sostenibilidad del servicio de depósito y tratamiento de residuos
+(porcentaje).
+Recursos destinados al desarrollo del servicio de disposición y tratamiento
+de residuos (porcentaje).
+Ingresos y gastos por el servicio de aseo de vías y sitios públicos (colones).
+Sostenibilidad del servicio de aseo de vías y sitios públicos (porcentaje).
+Recursos destinados al desarrollo del servicio de aseo de vías y sitios
+públicos (porcentaje).
+Espacio atendido en el servicio de aseo de vías y sitios públicos (metros
+lineales).
+Totalidad de espacio que debe ser atendido en el servicio de aseo de vías y
+sitios públicos (metros lineales).
+
+--- Página 46 ---
+46
+Cobertura del servicio de aseo de vías y sitios públicos (porcentaje).
+Calidad de las aguas superficiales (varios).
+Existencia de comisiones municipales para la atención de la gestión
+ambiental (sí o no).
+Existencia, en la municipalidad, de reglamentación sobre los mecanismos
+de participación ciudadana (sí o no).
+Existencia, en la municipalidad, de un registro actualizado de las
+Culturales y de organizaciones comunales activas (sí o no).
+Cuantitativo
+personas Realización de instrumentos de participación ciudadana durante el año
+evaluado.
+Denuncias o quejas ambientales (número).
+Cantidad de grupos organizados o estructuras organizacionales (número).
+Existencia de reglamentos para promover las compras verdes a nivel
+Circularidad en municipal (sí o no).
+Cuantitativo
+las compras Existencia de políticas para la producción y consumo sostenible a nivel
+públicas municipal (sí o no).
+Empleo generado de la recolección, separación y valorización de residuos
+(porcentaje).
+Cantidad de emprendimientos cantonales formalizados (número).
+Cantidad de proyectos que se coordinan con la empresa privada (número).
+Competitividad Existencia de alianzas con sectores productivos para la generación de
+Cuantitativo
+e innovación empleo local (sí o no).
+Requisitos para generar nuevos emprendimientos (número).
+Proyectos cantonales destinados a generar o fortalecer emprendimientos
+(número).
+Recursos municipales destinados a emprendimientos (porcentaje).
+Existencia de reglamentos para promover las compras verdes a nivel
+Circularidad en municipal (sí o no).
+Cuantitativo
+las compras Existencia de políticas para la producción y consumo sostenible a nivel
+públicas municipal (sí o no).
+Fuente: adaptado de la CGR (2018) y de consultas a municipalidades de Costa Rica.
+Muchos otros indicadores han sido utilizados en diferentes hojas de ruta en ciudades y
+países a nivel mundial (
+Tabla 13). En el caso de Costa Rica, como parte del cumplimiento de los OSD, se da
+seguimiento a algunos de los indicadores relacionados con producción y consumo. Dentro
+de estos se incluye la proporción de energía renovable en el consumo final total de energía,
+la intensidad energética, la capacidad instalada de generación de energía renovable y las
+emisiones de CO por unidad de valor añadido. Otras métricas como la huella de material y
+2
+el consumo material interno, el índice de pérdidas y desperdicio de alimentos están
+pendientes de calcular, pues dependen de la cuenta de flujo de materiales que se publicará
+a finales del 2020. Sin embargo, estas mediciones son nacionales y no están disponibles a
+nivel de regiones ni cantones.
+Tabla 13. Indicadores utilizados para evaluar circularidad encontrados en la revisión
+sistemática de literatura
+
+--- Página 47 ---
+47
+Categoría de Indicador Tipo de
+indicador indicador
+Producción y Nivel de autosuficiencia de materias primas (porcentaje).
+consumo Consumo de Materiales Domésticos (toneladas por habitante).
+Productividad material (colones por kg).
+Productividad energética (miles de colones).
+Flujo de materiales per cápita (toneladas por habitante).
+Cuantitativo
+Huella material en términos absolutos y huella material por PIB.
+Consumo Nacional de Materiales (toneladas).
+Gasto nacional en protección ambiental sobre el PIB (porcentaje).
+Ratio de producción de bienes y servicios ambientales (porcentaje).
+Gestión de Tasa de reciclaje (porcentaje).
+residuos Tasa de reciclaje de residuos municipales (porcentaje).
+Tasas de reciclaje de flujos de residuos específicos.
+Ratio de reciclaje (porcentaje).
+Tasa de vertido de residuos (porcentaje).
+Generación de residuos evitados (toneladas).
+Contribución de materiales reciclados en la demanda de materias primas.
+Residuos alimentarios (kg per cápita).
+Generación de residuos por unidad de CDM (porcentaje). Cuantitativo
+Generación de residuos por unidad de PIB (kg por dólar).
+Generación de residuos municipales (kg per cápita).
+Volumen de residuos no municipales.
+Tratamiento de residuos totales (toneladas por habitante).
+Porcentaje del gasto del hogar en reparación de prendas de vestir y
+electrodomésticos (dólares y porcentaje).
+Volumen de agua utilizada.
+Aumento porcentual en la recuperación de materiales y la recuperación
+orgánica (toneladas).
+Materias primas Comercio de materias primas reciclables (millones de dólares o de
+secundarias toneladas).
+Tasa de entrada de reciclaje al final de su vida útil (porcentaje).
+Tasa de uso de material circular (porcentaje). Cuantitativo
+Energía y Contribución de las energías renovables en el consumo total de energía.
+emisiones de Porcentaje del transporte con energías renovables.
+GEI Emisiones de GEI por producción de PIB toneladas CO2e / millones de
+colones.
+Calidad de aire y de agua.
+Culturales y de Número de escuelas que incluyen economía circular en su plan de
+personas estudios.
+Conciencia de la economía circular entre los ciudadanos y empresas. Cualitativo
+Número de instalaciones de intercambio de recursos en la ciudad Cuantitativo
+(ejemplo bibliotecas de las cosas).
+Medidas de bienestar y calidad de vida.
+Medida de equidad dentro de la economía local. Cualitativo
+Número de empresas que publican informes sobre sostenibilidad. Cuantitativo
+Número de conjuntos de datos de toda la ciudad disponibles para su uso.
+Porcentaje de empresas que innovan por motivos circulares.
+
+--- Página 48 ---
+48
+Número de patentes relacionadas con el reciclaje y las materias primas
+secundarias.
+Número de personas empleadas en los sectores de economía circular.
+Inversión bruta en bienes tangibles relacionados con sectores de Cuantitativo
+Competitividad
+e innovación economía circular (porcentaje).
+Valor bruto agregado al coste de los factores en los sectores de economía
+circular (porcentaje).
+Gasto público en I+d+i relacionado con la economía circular.
+Medidas fiscales Ratio de impuestos ambientales sobre el total de impuestos (porcentaje). Cuantitativo
+(impuestos)
+Circularidad en Número de contrataciones públicas que incluyen requisitos de economía Cuantitativo
+las compras circular.
+públicas
+Fuente: elaborado con base en información proveniente de 17 planes de EC.
+Producto Final de la Aplicación de la Guía Paso a Paso
+El producto esperado de la aplicación de los cinco pasos es la hoja de ruta. Dicha hoja
+incluye:
+• Los pasos estratégicos para implementar plenamente las iniciativas, junto con una
+línea de tiempo o cronograma estimado para la implementación de la hoja de ruta.
+• Las iniciativas; es decir, las dos o tres oportunidades de EC priorizadas por sector de
+enfoque. Estas serán presentadas incluyendo el modelo de negocios y
+requerimientos para su implementación de tipo financiero, de innovación-
+desarrollo y de fortalecimiento de capacidades.
+• Las barreras que, posiblemente, se enfrentarán al momento de implementar las
+oportunidades, así como las estrategias requeridas para superarlas y los socios que
+potencialmente participarían en la implementación. También se incluyen posibles
+sinergias con otras iniciativas existentes de la EC.
+• La metodología y los indicadores a través de los cuales se dará seguimiento a la hoja
+de ruta con el fin de identificar el impacto a nivel local.
+6. Elementos que facilitan la aplicación de la guía por parte de los gobiernos
+locales de Costa Rica
+A continuación, se identifican elementos y se presentan recomendaciones que podrían
+facilitar la aplicación de la Guía Paso a Paso por parte de los gobiernos locales de Costa Rica.
+Varios de estos elementos fueron identificados durante el proceso de consulta y validación
+de la guía.
+Programas de Gestión Ambiental Institucional (PGAI)
+Las municipalidades de Costa Rica cuentan con una guía para la elaboración de los
+Programas de Gestión Ambiental Institucional (PGAI). Los PGAI son un instrumento de
+planificación que parten de un diagnóstico ambiental del quehacer institucional. A partir de
+
+--- Página 49 ---
+49
+este, se priorizan y establecen medidas de prevención, mitigación, compensación o
+restauración de impactos ambientales negativos. Los componentes del PGAI son la gestión
+de la calidad ambiental, la energía y el cambio climático. Sus componentes transversales
+son la sensibilización, capacitación y comunicación, adquisición de bienes y métricas
+(MINAE, 2011). Algunos de los pasos para crear un PGAI son complementarios a los
+propuestos en esta Guía Paso a Paso. En consecuencia, una municipalidad que tiene en
+marcha un PGAI, ya cuenta con información y avances para iniciar su transición hacia una
+EC. Algunas de las actividades comunes son la definición de objetivos e indicadores, la
+elaboración de un diagnóstico, la definición del alcance y de medidas, la implementación y
+el seguimiento y control. La diferencia consiste en que los PGAI promueven una mejora
+continua en la calidad ambiental a nivel institucional; mientras que las hojas de ruta, para
+transitar hacia una EC, están más relacionadas con un enfoque de desarrollo económico y
+ambiental, incluyendo tanto el ámbito de la propia municipalidad, como el social y
+empresarial. Lo anterior, con el objetivo máximo de desacoplar el crecimiento económico
+del consumo de recursos finitos.
+Programa Bandera Azul Ecológica
+En Costa Rica, algunos gobiernos locales ya fomentan dentro de su administración
+actividades ambientales para ser parte del Programa Bandera Azul Ecológica. Las
+municipalidades reportan métricas que pueden ser de gran utilidad y una base sólida para
+conocer el contexto alrededor de la EC y diagnosticar el grado de circularidad de su
+institución y de su cantón.
+Utilizar la Guía Paso a Paso para guiar procesos de planificación que ya realizan las
+municipalidades
+La Guía Paso a Paso puede utilizarse para facilitar la integración del enfoque de la EC en los
+procesos de planificación que los municipios ya realizan como parte del cumplimiento de
+sus obligaciones o agendas. Esto incluye, por ejemplo, el Plan Municipal de Gestión Integral
+de Residuos Sólidos (PMGIRS), los planes de compras públicas o acciones relacionadas con
+el cumplimiento del Plan Nacional de Descarbonización, del Programa Nacional de
+Corredores Biológicos (PNCB), o del Plan Nacional de Adaptación al Cambio Climático, entre
+otros.
+
+--- Página 50 ---
+50
+ANEXOS
+Anexo 1. Huella de carbono y Biocapacidad de Costa Rica en el período 1961-2015
+Biocapacidad Huella ecológica Biocapacidad
+Año déficit o reserva Población (millones)
+(gha/percapita)* (gha/percápita)* (gha/percápita)*
+1961 6.0 2.3 3.7 1,4
+2015 1.6 2.7 −1.1 4.8
+FUNTE: Ecological Footprint and Biocapacity from 1961 to 2016 http://data.footprintnetwork.org/#/
+(*) gha = global hectárea
+
+--- Página 51 ---
+51
+Anexo 2. Resultado de la Consulta de Validación de la Guía Paso a Paso
+Los días 6 y 7 de octubre de 2020, se realizó una consulta virtual con el fin de validar la Guía
+Paso a Paso para Facilitar la Transición de los Gobiernos Locales hacia un Economía Circular
+(EC). En la consulta, participaron 23 representantes de las Municipalidades de: Puriscal,
+Escazú, La Unión, Turrialba, Belén, Osa, Oreamuno, Montes de Oca, Coto Brus, Moravia y
+Curridabat. También participaron representantes de la Unión Nacional de Gobiernos
+Locales (UNGL), de la Dirección de Cambio Climático (DCC) y la Secretaría de Planificación
+Sectorial de Ambiente (SEPLASA) del MINAE, del Instituto de Fomento y Asesoría Municipal
+(IFAM) y del Instituto Nacional de Estadística y Censo (INEC). La consulta fue facilitada por
+personal del Centro Agronómico Tropical de Investigación y Enseñanza (CATIE).
+Conocimiento sobre Economía Circular
+La consulta inició con la explicación del proceso de formulación de la Guía, la metodología
+y los resultados del Estado del Arte. Seguidamente, se consultó a las municipalidades si
+conocían el concepto de la EC y un 91 % respondió afirmativamente. Se les preguntó cuáles
+palabras representan la EC para ellos, a lo que los asistentes contestaron: sostenibilidad,
+ambiente, reutilización, residuos, aprovechamiento, protección, eficiencia, empleo,
+oportunidad, diferenciador, inversión, innovación, ahorro, relaciones, desarrollo, bienestar,
+igualdad, equidad, aprendizaje, generación, comunidad, cooperación y colaboración.
+Beneficios de la Economía Circular
+El 100 % de los asistentes cree que su cantón y municipalidad se pueden beneficiar al poner
+en práctica el enfoque de EC. Los beneficios potenciales mencionados en materia ambiental
+son la disminución de impactos negativos en el ambiente, de las emisiones de GEI y de la
+generación de residuos sólidos. También se citaron como beneficios, lograr una reducción
+en la extracción y uso de recursos, y la recuperación de materiales útiles. Desde el punto de
+vista económico y social, indicaron la generación de nuevas oportunidades de empleo verde
+y con enfoque de género, la reducción de precios, la reactivación económica, el ahorro de
+activos, un mejor rendimiento de la materia prima y una mejora en el bienestar de la
+ciudadanía.
+Papel de los Gobiernos Locales para una Economía Circular
+Luego de explicar la definición de la EC, sus beneficios y su vinculación con los ODS, se le
+consultó a los participantes su opinión acerca del papel de los gobiernos locales en la
+transición hacia una EC. Los participantes identificaron varios roles, entre estos se incluían:
+• Promover el enfoque debido a su cercanía con la población.
+• Fomentar la gestión integral de residuos.
+• Concientizar acerca del uso de materiales amigables con el ambiente.
+• Brindar información y capacitación tanto a la comunidad como al sector
+empresarial.
+
+--- Página 52 ---
+52
+• Facilitar el proceso, apoyar la creación de alianzas estratégicas, unir voluntades
+con actores sociales, articular a los actores en el territorio, servir de enlace entre el
+sector público y privado, y trabajar de la mano con los diferentes sectores.
+• Apoyar encadenamientos para la generación de empleo verde.
+• Incentivar la apropiación de la EC por parte de la población y de los sectores
+productivos.
+• Ser un ejemplo implementando el enfoque en su administración, por ejemplo, en
+la gestión integral de residuos.
+• Generar un ambiente habilitante a través de la creación de incentivos, dictando
+políticas y normativas a nivel local para implementar y facilitar la aplicación de la
+EC.
+Para cerrar con esta sección de la presentación se expuso el rol de los gobiernos locales,
+según lo encontrado en la revisión sistemática de literatura.
+Oportunidades de la Economía Circular
+Se explicaron los cinco pasos de la Guía y sus respectivas actividades. El 100 % de los
+participantes mencionó que cree que en su cantón y municipalidad hay oportunidades para
+aplicar la EC. A nivel de cantón, identificaron que habría oportunidades para negocios
+circulares en el sector industrial, PYMES, comercio, turismo sostenible y rural, agropecuario,
+ASADAS y recurso hídrico, y gestión de residuos. A nivel interno de la alcaldía, identificaron
+que los sectores que podrían priorizarse para emprender iniciativas de EC son: residuos
+incluyendo los orgánicos, recuperación de residuos valorizables, compras públicas, recurso
+hídrico y energía.
+Retos y barreras para una Economía Circular
+Según las municipalidades presentes, los factores o condiciones existentes en su municipio
+que limitan la aplicación de la EC son: falta de conocimiento, información y asesoría; falta
+de recurso humano y tiempo; falta de interés, voluntad política y compromiso; coordinación
+interna, apoyo interinstitucional y articulación; financiamiento y presupuesto; un cambio
+de paradigma y cultural; así como la distancia de la Gran Área Metropolitana, cómo integrar
+la EC a la planificación y otras prioridades dada la pandemia por el COVID-19.
+Percepción sobre la Guía Paso a Paso
+Se consultó a los participantes su percepción sobre los cinco pasos de la Guía y sus
+respectivas actividades. Un 75 % de los participantes considera que los pasos y actividades
+son adecuados y que, tomando en cuenta la realidad de sus municipalidades, es factible la
+aplicación de la Guía. Un 17 % expresó que los pasos son excesivos y difíciles de aplicar y un
+8 % consideró que son insuficientes. El 25 % de los asistentes considera que, tomando en
+cuenta la realidad de su municipalidad, no es factible aplicar la guía.
+
+--- Página 53 ---
+53
+Las razones dadas sobre la percepción sobre la factibilidad del uso de la guía son: que en
+algunas municipalidades no hay capacidad operativa para trabajar la guía eficientemente y
+en muchas ocasiones solo hay un funcionario en la unidad de gestión ambiental. Asimismo,
+se requiere de un esfuerzo de coordinación para lograr la colaboración de diferentes
+departamentos de la municipalidad, se necesita liderazgo, voluntad política y compromiso
+por parte de los jerarcas. También se requiere acompañamiento técnico y el desarrollo de
+proyectos piloto en las municipalidades que muestren interés en aplicar la guía. Finalmente,
+hay municipios pequeños con recursos limitados que pueden requerir una inversión o
+financiamiento externo.
+Ambiente habilitante para una Economía Circular
+Las acciones que, según las municipalidades, podrían facilitar el uso de la Guía Paso a Paso
+son: acompañamiento técnico, un trabajo de información estratégica para los alcaldes y
+concejos municipales; integración del enfoque de EC en la planificación del municipio y
+conectar la guía con el cumplimiento de otras obligaciones o agendas. Ejemplos de estas
+son: el Plan Municipal de Gestión Integral de Residuos Sólidos (PMGIRS), PGAI, Plan
+Nacional de Descarbonización, Programa Nacional de Corredores Biológicos (PNCB), Plan
+Nacional de Adaptación al Cambio Climático, entre otros. Otras acciones que, también se
+pueden realizar son: trabajar de manera interinstitucional dada la falta de recursos, crear
+alianzas estratégicas con actores clave, hacer más ejercicios con otros sectores o de manera
+interinstitucional para generar ideas conjuntas y formar un equipo de trabajo donde los
+esfuerzos no sean solo de las municipalidades.
+
+--- Página 54 ---
+54
+Anexo 3. Instrumentos legales y políticas relacionadas con el cambio climático, la gestión de residuos y las municipalidades
+Nombre Objeto Enlace
+Internacionales
+Decreto Ejecutivo 40203 sobre los Objetivos Tiene como objetivo establecer una estructura organizacional para planificar, [1]
+de Desarrollo Sostenible (ODS) implementar y dar seguimiento en Costa Rica a los 17 ODS y sus 169 metas conexas, y a
+la Agenda 2030 para el Desarrollo Sostenible de las Naciones Unidas.
+Contribuciones Previstas y Determinadas a Las INDC representan el aporte que cada país estaría en capacidad de hacer a un nuevo [2]
+Nivel Nacional (INDC) régimen climático global, de acuerdo con sus capacidades y realidades.
+Decreto N° 37983-COMEX-MP sobre la Se declaran de interés público las acciones, actividades e iniciativas desarrolladas en el [3]
+incorporación a la Organización de marco del proceso de ingreso de Costa Rica a la OCDE. La OCDE es un foro en el que los
+Cooperación y Desarrollo Económico gobiernos trabajan conjuntamente para compartir experiencias y buscar soluciones a los
+(OCDE) problemas comunes de los países, entre ellos los ambientales.
+Nacionales
+Leyes
+Ley 8839 de Gestión Integral de Residuos Tiene por objeto regular la gestión integral de residuos y el uso eficiente de los recursos, [4]
+mediante la planificación y ejecución de acciones regulatorias, operativas, financieras,
+administrativas, educativas, ambientales y saludables de monitoreo y evaluación.
+Ley 4240 de Planificación Urbana Establece las funciones que requiere la Planificación Urbana, nacional o regional, a fin de [5]
+promover la expansión ordenada de los centros urbanos, el equilibrio satisfactorio entre
+el desenvolvimiento urbano y el rural, el desarrollo eficiente de las áreas urbanas y la
+orientada inversión en mejoras públicas.
+Ley 8131 de Administración Financiera de la Regula el régimen económico y financiero de los órganos y entes administradores o [6]
+República y Presupuestos Públicos custodios de los fondos públicos, entre ellas las municipalidades.
+Ley 7494 de Contratación Administrativa Rige la actividad de contratación desplegada por los órganos del Poder Ejecutivo, el Poder [7]
+Judicial, el Poder Legislativo, el Tribunal Supremo de Elecciones, la Contraloría General
+de la República, la Defensoría de los Habitantes, el sector descentralizado territorial e
+institucional, los entes públicos no estatales y las empresas públicas.
+Reglamentos
+Reglamento General a la Ley para la Gestión Tiene como objetivo regular la gestión de los residuos a nivel nacional, reglamentando [8]
+Integral de Residuos para ello, en forma general, la Ley 8839 para la Gestión Integral de Residuos.
+N° 37567-S-MINAET-H
+
+--- Página 55 ---
+55
+Nombre Objeto Enlace
+Reglamento sobre el Manejo de Residuos Tiene como objetivo la protección de la salud pública y del ambiente, por medio de la [9]
+Sólidos Ordinarios gestión integral de los residuos sólidos ordinarios.
+N° 36093-S
+Planes
+Plan de Descarbonización 2018-2050 Está compuesto por 10 ejes que trazan rutas de cambio en las áreas claves para revertir [10]
+el crecimiento de emisiones de GEI, así como fomentar la modernización y dinamización
+de la economía bajo una visión de crecimiento verde.
+Plan Nacional de Energía 2015-2030 Establece la política energética nacional, mediante una programación de acciones [11]
+estratégicas orientadas a satisfacer las necesidades energéticas del país, respetando los
+principios de desarrollo sostenible al equilibrar los objetivos económicos, ambientales y
+sociales.
+Plan Nacional para la Gestión Integral de los Esta herramienta tiene como fin la ejecución de las actividades estratégicas definidas en [12]
+Residuos 2016-2021 la Ley de Gestión Integral de Residuos y su Reglamento.
+Estrategias
+Estrategia Nacional de Separación, Tiene como objetivo desarrollar un modelo inclusivo para la gestión integral de los [13]
+Recuperación y Valorización de Residuos residuos sólidos que permita el fortalecimiento de las capacidades entre el sector
+2016-2021 público, sector privado y sociedad civil.
+Estrategia Nacional de Cambio Climático Persigue responder a la problemática mundial del cambio climático y comprende dos [14]
+(ENCC) agendas complementarias: la Nacional y la Internacional.
+Estrategia Nacional para la Sustitución de Pretende contribuir a la solución del problema de contaminación que generan los [15]
+Plásticos de un Solo Uso 2017-2021 plásticos en las cuencas hidrográficas de la GAM, así como sus efectos en el pacífico
+costarricense.
+Estrategia Nacional de Bioeconomía 2020- Define la bioeconomía como la producción, utilización, conservación y regeneración de [16]
+2030 recursos biológicos; incluyendo los conocimientos, la ciencia, la tecnología y la
+innovación relacionados con dichos recursos. Esto para proporcionar información,
+productos, procesos y servicios a todos los sectores económicos, con el propósito de
+avanzar hacia una economía sostenible.
+Políticas
+Política Nacional de Adaptación al Cambio Se plantea como marco rector para orientar las acciones del país en materia de [17]
+Climático 2018-2030 adaptación.
+Política Nacional para la Gestión Integral de Contiene las estrategias para guiar a las instituciones públicas, sector privado, junto con [18]
+Residuos (PNGIR) 2010-2021 las organizaciones sociales y la comunidad, en el tema de residuos.
+
+--- Página 56 ---
+56
+Nombre Objeto Enlace
+Política Nacional de Desarrollo Urbano Promueve el ordenamiento de las ciudades a través de un enfoque de desarrollo urbano [19]
+2018-2030 sostenible y pretende dar una orientación política con acciones, que le permitirán al país
+atender el compromiso de implementar la Nueva Agenda Urbana, acordada en la
+Conferencia de la ONU Hábitat III, y contribuir a alcanzar las metas de los ODS de la
+Agenda 2030.
+Política Nacional de Producción y Consumo Tiene por objetivo adoptar gradualmente patrones de producción y consumo sostenibles [20]
+Sostenibles 2018 -2030 que contribuyan al bienestar de la población en general y de las generaciones futuras,
+mediante la articulación de los instrumentos de planificación nacional en un marco de
+coordinación interinstitucional e intersectorial.
+Política Nacional de Saneamiento en Aguas Constituye en la propuesta de intervención del Estado y sus instituciones que orienta, [21]
+Residuales 2016-2045 propone e implementa un conjunto de acciones para asegurar el desarrollo pleno y la
+calidad de vida de los habitantes del país, procurando resolver problemas públicos
+relevantes, como es el saneamiento de las aguas residuales.
+Programas
+Programa País Carbono Neutralidad Es un mecanismo voluntario para el reporte de inventarios de GEI y la demostración de [22]
+acciones de reducción y remoción de emisiones, así como la carbono neutralidad.
+Programa Nacional de Etiquetado Tiene como objetivo promover en todo el territorio nacional el etiquetado ambiental y [23]
+Ambiental y Energético energético; poner a disposición de los interesados un instrumento que ayude a los
+consumidores, las empresas e instituciones de la Administración Pública en la selección
+de productos o servicios con un mejor desempeño ambiental y energético, entre otros.
+Municipales
+Ley 7794 Código Municipal Establece que la municipalidad posee la autonomía política, administrativa y financiera [24]
+que le confiere la Constitución Política con atribuciones como administrar y prestar los
+servicios públicos municipales, así como velar por su vigilancia y control.
+Ley General 8801 de Transferencia de Tiene como objeto transferir recursos del presupuesto de ingresos y gastos de la [25]
+Competencias del Poder Ejecutivo a las República y la titularidad de competencias administrativas del Poder Ejecutivo a los
+Municipalidades gobiernos locales, para contribuir al proceso de descentralización territorial del Estado
+costarricense.
+
+--- Página 57 ---
+57
+Anexo 4. Competencias municipales relacionadas con la gestión de residuos
+Ley 7794 Código Municipal (Asamblea Legislativa, 1998)
+Artículo 4.- La municipalidad posee la autonomía política, administrativa y financiera que le
+confiere la Constitución Política. Dentro de sus atribuciones, se incluyen las siguientes:
+a) Dictar los reglamentos autónomos de organización y de servicio, así como cualquier
+otra disposición que autorice el ordenamiento jurídico.
+b) Acordar sus presupuestos y ejecutarlos.
+c) Administrar y prestar los servicios públicos municipales, así como velar por su
+vigilancia y control.
+d) Aprobar las tasas, los precios y las contribuciones municipales, así como proponer
+los proyectos de tarifas de impuestos municipales.
+Artículo 5. - Las municipalidades fomentarán la participación activa, consciente y
+democrática del pueblo en las decisiones del gobierno local.
+Artículo 83.- Por los servicios que preste, la municipalidad cobrará tasas y precios que se
+fijarán tomando en consideración su costo más un diez por ciento (10 %) de utilidad para
+desarrollarlos. Una vez fijados, entrarán en vigencia treinta días después de su publicación
+en La Gaceta.
+Los usuarios deberán pagar por los servicios de alumbrado público, limpieza de vías
+públicas, recolección separada, transporte, valorización, tratamiento y disposición final
+adecuada de los residuos ordinarios, mantenimiento de parques y zonas verdes, servicio de
+policía municipal y cualquier otro servicio municipal urbano o no urbano que se establezca
+por ley, en tanto se presten, aunque ellos no demuestren interés en tales servicios.
+En el caso específico de residuos ordinarios, se autoriza a las municipalidades a establecer
+el modelo tarifario que mejor se ajuste a la realidad de su cantón, siempre que este incluya
+los costos, así como las inversiones futuras necesarias para lograr una gestión integral de
+residuos en el municipio y cumplir las obligaciones establecidas en la Ley para la gestión
+integral de residuos, más un diez por ciento (10 %) de utilidad para su desarrollo. Se faculta
+a las municipalidades para establecer sistemas de tarifas diferenciadas, recargos u otros
+mecanismos de incentivos y sanciones, con el fin de promover que las personas usuarias
+separen, clasifiquen y entreguen adecuadamente sus residuos ordinarios; de conformidad
+con lo dispuesto en el artículo 39 de la Ley para la gestión integral de residuos.
+Además, se cobrarán tasas por servicios y mantenimiento de parques, zonas verdes y sus
+respectivos servicios. El cálculo anual deberá considerar el costo efectivo invertido, más el
+costo de la seguridad que desarrolle la municipalidad en dicha área y que permita el disfrute
+efectivo. Dicho monto se incrementará en un diez por ciento (10 %) de utilidad para su
+desarrollo; tal suma se cobrará proporcionalmente entre los contribuyentes del distrito,
+según el valor de la propiedad.
+
+--- Página 58 ---
+58
+La municipalidad calculará cada tasa de forma anual y las cobrará en tractos trimestrales
+sobre saldo vencido. La municipalidad queda autorizada para emanar el reglamento
+correspondiente, que norme de qué forma se procederá para organizar y cobrar cada tasa.
+La municipalidad podrá ejercer la modalidad de vigilancia electrónica dentro de su
+territorio, el cual podrá organizar según los requerimientos del cantón. Para ello, debe
+procurarse el uso de tecnologías compatibles que permitan lograr, entre los cuerpos
+policiales, la mayor coordinación en la prevención, investigación y el combate de la
+criminalidad. Serán de interés público los videos, las señales, los audios y cualquier otra
+información captada por los sistemas de vigilancia electrónica. Por esto, deberán ser
+puestos a disposición de las autoridades competentes, para los efectos investigativos y
+probatorios pertinentes, en caso de requerirse.
+Ley 8839 para la Gestión Integral de Residuos (Asamblea Legislativa, 2010)
+La Ley 8839 tiene por objeto “regular la gestión integral de residuos y el uso eficiente de los
+recursos, mediante la planificación y ejecución de acciones regulatorias, operativas,
+financieras, administrativas, educativas, ambientales y saludables de monitoreo y
+evaluación” . Asimismo, en el Artículo 2 inciso i) se establece “ Promover la gestión integral
+de residuos en el ámbito municipal y local, fomentando las soluciones regionales .”
+Artículo 8.- Las municipalidades serán responsables de la gestión integral de los residuos
+generados en su cantón; para ello deberán:
+a) Establecer y aplicar el plan municipal para la gestión integral de residuos en
+concordancia con la política y el Plan Nacional.
+b) Dictar los reglamentos en el cantón para la clasificación, recolección selectiva y
+disposición final de residuos, los cuales deberán responder a los objetivos de esta
+Ley y su Reglamento.
+c) Promover la creación de una unidad de gestión ambiental, bajo cuya
+responsabilidad se encuentre el proceso de la gestión integral de residuos, con su
+respectivo presupuesto y personal.
+d) Garantizar que en su territorio se provea del servicio de recolección de residuos en
+forma selectiva, accesible, periódica y eficiente para todos los habitantes, así como
+de centros de recuperación de materiales, con especial énfasis en los de pequeña y
+mediana escala para la posterior valorización.
+e) Proveer de los servicios de limpieza de caños, acequias, alcantarillas, vías, espacios
+públicos, ríos y playas cuando corresponda, así como del manejo sanitario de
+animales muertos en la vía pública.
+f) Prevenir y eliminar los vertederos en el cantón y el acopio no autorizado de
+residuos.
+g) Impulsar sistemas alternativos para la recolección selectiva de residuos valorizables
+como contenedores o receptores, entre otros.
+h) Fijar las tasas para los servicios de manejo de residuos que incluyan los costos para
+realizar una gestión integral de estos, de conformidad con el plan municipal para la
+
+--- Página 59 ---
+59
+gestión integral de residuos, esta Ley y su Reglamento; y en proporción con la
+cantidad y la calidad de los residuos generados, asegurando el fortalecimiento de la
+infraestructura necesaria para brindar dichos servicios y garantizando su
+autofinanciamiento.
+i) Coordinar el cumplimiento de esta Ley y su Reglamento, la política y el Plan Nacional
+y cualquier otro reglamento técnico sobre gestión integral de residuos dentro del
+municipio.
+j) Promover la capacitación y realizar campañas educativas de sensibilización de los
+habitantes del cantón respectivo para fomentar la cultura de recolección separada,
+de limpieza de los espacios públicos y de gestión integral de residuos.
+k) Establecer convenios con microempresas, cooperativas, organizaciones de mujeres
+y otras organizaciones y/o empresas locales, para que participen en el proceso de
+gestión de los residuos, especialmente en las comunidades que se ubican lejos de la
+cabecera del cantón.
+Se autoriza a las municipalidades para que desarrollen tecnologías alternativas para el
+tratamiento de residuos, siempre y cuando sean menos contaminantes. Para tal fin, podrán
+utilizar los instrumentos de planificación y gestión previstos en el Código Municipal, entre
+ellos los mecanismos de integración asociativa y empresarial. Se autoriza, además, a
+establecer tasas diferenciadas, según el tipo y la cantidad de residuos, a aquellos que
+separen en la fuente u otra forma de incentivo fiscal para el generador o el gestor, que
+contribuya en el cantón a la gestión integral de residuos.
+Artículo 12.- El plan municipal de gestión integral de residuos es el instrumento que
+orientará las acciones de las municipalidades para la gestión integral de residuos en el
+cantón. Se elaborará a partir de los lineamientos dictados en el Plan Nacional y el
+Reglamento de esta Ley. Este plan podrá ser formulado en forma mancomunada con otras
+municipalidades.
+La municipalidad convocará a una audiencia pública conforme lo establecerá el Reglamento
+de esta Ley, en coordinación con el Ministerio de Salud, a fin de presentar formalmente a
+la comunidad y a los interesados los alcances del plan municipal de gestión integral de
+residuos.
+Los planes municipales serán presentados ante el Ministerio de Salud para su registro,
+seguimiento y monitoreo.
+Artículo 23. - El Ministerio de Salud y las municipalidades, en el marco de sus competencias,
+promoverán la participación de todas las personas en forma activa, consciente, informada
+y organizada en la gestión integral de residuos.
+Artículo 27.- Las instituciones de la Administración Pública, empresas públicas y
+municipalidades podrán incluir en sus planes anuales operativos, y en sus presupuestos,
+las partidas anuales para establecer e implementar sus respectivos planes de gestión
+integral de residuos.
+
+--- Página 60 ---
+60
+Artículo 29.- Autorizase a las instituciones de la Administración Pública, empresas públicas
+y municipalidades para que promuevan la compra y la utilización de materiales reutilizables,
+reciclables, biodegradables y valorizables. Igualmente, de productos fabricados con
+material reciclado bajo procesos ambientalmente amigables que cumplan las
+especificaciones técnicas requeridas por la Administración Pública; dicha condición podrá
+comprobarse por medio de certificaciones ambientales y otro mecanismo válido
+establecido vía reglamento.
+Para ello, en la valoración de las licitaciones y compras directas concursables, deberán dar
+un veinte por ciento (20 %) adicional a los oferentes que, en igualdad de condiciones,
+demuestren que los productos ofrecidos incorporan criterios de la gestión integral de
+residuos, así como la gestión del residuo una vez terminada su vida útil. En el caso de las
+compras directas, deberán incorporarse criterios que promuevan la gestión integral de
+residuos.
+Las dependencias correspondientes de las instituciones de la Administración Pública,
+empresas públicas y municipalidades encargadas de elaborar los carteles de licitación o de
+compra directa establecerán criterios ambientales y de ciclo de vida de los productos para
+evaluar las licitaciones, de conformidad con los criterios establecidos en el Reglamento de
+esta Ley.
+Artículo 39.- Los generadores de residuos ordinarios estarán obligados a separarlos,
+clasificarlos y entregarlos a las municipalidades para su valorización o disposición final, en
+las condiciones en que determinen los reglamentos respectivos.
+Informe de Auditoría Operativa acerca de la Gestión de las Municipalidades para
+Garantizar la Prestación Eficaz y Eficiente del Servicio de Recolección de Residuos
+Ordinarios (CGR, 2016)
+La CGR estableció el INFORME N° DFOE-DL-IF-00001-2016, en el cual se examinó la gestión
+llevada a cabo por 81 gobiernos locales en cuanto a la prestación accesible, selectiva,
+periódica y eficiente del servicio de recolección de residuos ordinarios. El período objeto de
+análisis fue el comprendido entre el 01 de enero de 2014 y el 31 de diciembre de 2014.
+Según dicho informe, a partir del año 2010, con la emisión de la Ley para la Gestión Integral
+de Residuos N.° 8839, el servicio de recolección de residuos sufre una transformación
+significativa; pues ya no solo es suficiente que se recolecten los residuos
+indiscriminadamente y se envíen a los sitios de disposición final, sino que las
+municipalidades deben garantizar que, en su territorio, dicho servicio se brinde en forma
+selectiva, accesible, periódica y eficiente para todos los habitantes. En la medida en que los
+gobiernos locales garanticen esas características que definen el servicio de recolección de
+residuos ordinarios, se logrará avanzar hacia una mejor calidad ambiental en los cantones,
+comunidades más limpias, una ciudadanía mejor educada en materia de residuos, el
+
+--- Página 61 ---
+61
+desarrollo de oportunidades de negocio en la valorización de los residuos ordinarios, una
+disminución en la cantidad de residuos que se envían a rellenos y vertederos, y un servicio
+de recolección de residuos financieramente sostenible.
+
+--- Página 62 ---
+62
+REFERENCIAS
+C. C. for S. C. and P. (2019) Circular Economy Guidebook for Cities . Recuperado de
+https://www.scp-centre.org/wp-
+content/uploads/2019/03/Circular_Cities_Publication.pdf
+F. E. de M. y P. (2019) Estrategia Local de Economía Circular . Recuperado de
+http://www.femp.es/sites/default/files/multimedia/estrategia_local_ec_170x240_de
+finitiva_compressed.pdf
+Asamblea Legislativa. (1998) Código Municipal .
+Asamblea Legislativa. (2010) Ley para la Gestión Integral de Residuos .
+Banco Mundial. (2019) Solid Waste Management. Recuperado el 29 de setiembre del
+2020, de la página del Banco Mundial:
+https://www.worldbank.org/en/topic/urbandevelopment/brief/solid-waste-
+management
+Bocken, N.M.P., Short, S.W., Rana, P., Evans, S., (2014) A literature and practice review
+to develop sustainable business model archetypes. J. Clean. Prod. 65, 42e56.
+https://doi.org/10.1016/j.jclepro.2013.11.039.
+Britez, F. (2020) Perspectivas para la Economía Circular en Paraguay y las Américas.
+Plataforma Economía Circular . Recpeurado de https://www.pec-
+americas.com/single-post/2020/03/26/Perspectivas-para-la-Economía-Circular-en-
+Paraguay-y-las-Américas
+Circle Economy. (2019) The Role of Municipal Policy in the Circular Economy. Investment,
+jobs and social capital in circular cities . Recuperado de
+https://circulareconomy.europa.eu/platform/en/knowledge/role-municipal-policy-
+circular-economy-investment-jobs-and-social-capital
+Contraloría General de la República (CGR). (2016) Informe de Auditoría Operativa acerca
+de la Gestión de las Municipalidades para Garantizar la Prestación Eficaz y Eficiente
+del Servicio de Recolección de Residuos Ordinarios .
+Contraloría General de la República (CGR). (2018) Sistema Integrado de Información
+Municipal Índice de Gestión Municipal (IGM2018). Recuperado el 02 de octubre del
+2020, de
+https://cgrweb.cgr.go.cr/apex/f?p=142:77:::NO:77:P77_SECTOR,P77_VERSION,P77_
+MODO_CONSULTA:SIM,IGM18,SI
+Departamento de Medio Ambiente del País Vasco. (2019) Estrategia de Economía Circular
+del País Vasco 2030 . Recuperado de
+https://www.euskadi.eus/contenidos/documentacion/economia_circular/es_def/adj
+untos/EstrategiaEconomiaCircular2030.pdf
+Ecological Footprint Explorer. (2020) Costa Rica. Recuperado el 18 de julio del 2020 de la
+página del Ecological Footprint Explorer: https://data.footprintnetwork.org/#/
+Ellen MacArthur Foundation. (2015) Delivering the Circular Economy a Toolkit for
+Policymakers . Recuperado de
+https://www.ellenmacarthurfoundation.org/publications/delivering-the-circular-
+economy-a-toolkit-for-policymakers
+Ellen MacArthur Foundation. (2019a) Brussels Regional Programme for a Circular
+
+--- Página 63 ---
+63
+Economy . Recuperado de
+https://www.ellenmacarthurfoundation.org/assets/downloads/Brussels_Case-
+Study_Mar19.pdf
+Ellen MacArthur Foundation. (2019b) City Governments and their Role in Enabling a
+Circular Economy Transition . Recuperado de
+https://www.ellenmacarthurfoundation.org/assets/downloads/CE-in-Cities_Policy-
+Levers_Mar19.pdf
+Ellen MacArthur Foundation. (2019c) Glasgow the Business Community Kickstarting
+Circular Cities and Regions in Scotland . Recuperado de
+https://www.ellenmacarthurfoundation.org/assets/downloads/Glasgow_-Case-
+Study_Mar19.pdf
+Ellen MacArthur Foundation. (2019d) Peterborough Developing a Measurement
+Framework for the City and Local Businesses . Recuperado de
+https://www.ellenmacarthurfoundation.org/assets/downloads/Peterborough_-Case-
+Study_Mar19.pdf
+Ellen MacArthur Foundation. (2020) Economía Circular. Recuperado el 10 de julio del
+2020, de la página de la Fundación Ellen MacArthur:
+https://www.ellenmacarthurfoundation.org/es/economia-circular/concepto
+Federación Española de Municipios y Provincias (FEMP). (2019) Estrategia Local de
+Economía Circular . Recuperado de
+http://www.femp.es/sites/default/files/multimedia/estrategia_local_ec_170x240_de
+finitiva_compressed.pdf
+Ferronato, N., Rada, E. C., Gorritty Portillo, M. A., Cioca, L. I., Ragazzi, M., & Torretta, V.
+(2019) Introduction of the circular economy within developing regions: A
+comparative analysis of advantages and opportunities for waste valorization. Journal
+of Environmental Management , 230 , 366–378.
+https://doi.org/https://doi.org/10.1016/j.jenvman.2018.09.095
+Fundación Ellen MacArthur. (2015a) Delivering the Circular Economy a Toolkit for
+Policymakers . Recuperado de
+https://www.ellenmacarthurfoundation.org/publications/delivering-the-circular-
+economy-a-toolkit-for-policymakers
+Fundación Ellen MacArthur. (2015b) Hacia Una Economía Circular : Motivos Económicos
+Para Una Transicion Acelerada .
+Fundación Ellen MacArthur. (2019a) Completando la Imagen Cómo la Economía Circular
+ayuda a Afrontar el Cambio Climático . Recuperado de
+https://www.ellenmacarthurfoundation.org/assets/downloads/Completando-la-
+Imagen.pdf
+Fundación Ellen MacArthur. (2019b) Gobiernos de Ciudades y su Función para Habilitar
+una Transición hacia una Economía Cicular . Recuperado de
+https://www.ellenmacarthurfoundation.org/assets/downloads/Instrumentos-de-
+políticas-públicas.pdf
+Fundación Ellen MacArthur y CE100 Brasil Network. (2017) A Circular Economy in Brazil:
+An initial exploration . Recuperado de
+https://www.ellenmacarthurfoundation.org/assets/downloads/A-Circular-Economy-
+
+--- Página 64 ---
+64
+in-Brazil-An-initial-exploration.pdf
+Fundación EU-LAC. (2018) Estudios de caso sobre modelos de Economía Circular e
+integración de los Objetivos de Desarrollo Sostenible en estrategias empresariales en
+la UE y ALC . Recuperado de
+https://eulacfoundation.org/es/system/files/economia_circular_ods.pdf
+Gobierno de Navarra. (2019) Agenda para el desarrollo de la Economía Circular en
+Navarra . Recuperado de
+https://gobiernoabierto.navarra.es/es/participacion/procesos/agenda-para-
+desarrollo-economia-circular-navarra
+Ihobe, S. P. de G. A. D. de A. y P. T. (2018) Economía circular en la industria del País Vasco.
+Diagnóstico . Recuperado de https://www.ihobe.eus/mediateca/economia-circular-
+en-industria-pais-vasco-diagnostico
+Ihobe, S. P. de G. A. D. de A. y P. T. (2019) Guía para la promoción de la economía circular
+desde el ámbito local . Recuperado de
+http://www.udalsarea21.net/Publicaciones/Ficha.aspx?IdMenu=892e375d-03bd-
+44a5-a281-f37a7cbf95dc&Cod=b7cf5f19-dbfd-4c8a-8e12-b14efae5e185&Idioma=es-
+ES&Tipo
+Joyce, A., & Paquin, R. L. (2016) The triple layered business model canvas: A tool to design
+more sustainable business models. Journal of Cleaner Production , 135 , 1474–1486.
+https://doi.org/10.1016/j.jclepro.2016.06.067
+Kim, N. (2017) [Inclusive Growth] Sharing City Seoul Project. Recuperado el 30 de
+setiembre del 2020, de la página de Seoul Solution:
+https://www.seoulsolution.kr/en/node/6876
+Ministerio del Ambiente y Energía (MINAE). (2011) Guía para la elaboración de Programas
+de Gestión Ambiental Institucional (PGAI) en el sector público de Costa Rica .
+Recuperado de
+http://www.digeca.go.cr/sites/default/files/documentos/guia_elaboracion_program
+as_gestion_ambiental_institucional.pdf
+OECD/European Communities. (2005) Manual de Oslo. Guía para la recogida e
+interpretación de datos sobre innovación . Recuperado de
+http://www.itq.edu.mx/convocatorias/manualdeoslo.pdf
+Padilla-Rivera, A., Russo-Garrido, S., & Merveille, N. (2020) Addressing the Social Aspects
+of a Circular Economy: A Systematic Literature Review. Sustainability , 12 (19), 7912.
+https://doi.org/10.3390/su12197912
+Prendeville, S., Cherim, E., & Bocken, N. (2018) Circular Cities: Mapping Six Cities in
+Transition. Environmental Innovation and Societal Transitions .
+https://doi.org/10.1016/j.eist.2017.03.002
+Roterdam Circulair. (2019). From trash to treasure. Rotterdam Circularity Programme .
+Recuperado de https://rotterdamcirculair.nl/wp-
+content/uploads/2019/05/Rotterdam_Circularity_Programme_2019-2023.pdf
+Sánchez, A., Gasol, C. M., Martínez-Blanco, J., Durany, X. G., Lehmann, M., & Gaya, R. F.
+(2020) Methodological framework for the implementation of circular economy in
+urban systems. Journal of Cleaner Production , 248 , 119227.
+https://doi.org/https://doi.org/10.1016/j.jclepro.2019.119227
+
+--- Página 65 ---
+65
+Sassanelli, C., Rosa, P., Rocca, R., & Terzi, S. (2019) Circular economy performance
+assessment methods: A systematic literature review. Journal of Cleaner Production ,
+229 , 440–453. https://doi.org/10.1016/j.jclepro.2019.05.019
+Scottish Government. (2016) Making Things Last: a circular economy strategy for
+Scotland . Recuperado de
+https://www.gov.scot/binaries/content/documents/govscot/publications/strategy-
+plan/2016/02/making-things-last-circular-economy-strategy-
+scotland/documents/00494471-pdf/00494471-
+pdf/govscot%3Adocument/00494471.pdf?forceDownload=true
+Stagno, D. (2020) Economía circular, ciudades circulares: una alternativa sostenible para
+América Latina y el Caribe. Banco Interamericano de Desarrollo (BID) . Recuperado de
+https://blogs.iadb.org/ciudades-sostenibles/es/ciudades-circulares-economia-
+circular-sostenibilidad-urbelac-europa-america-latina-caribe/
+The Economist Intelligence Unit (EIU) (2017) Avances y desafíos para el reciclaje inclusivo:
+Evaluación de 12 ciudades de América Latina y el Caribe . Recuperado de
+https://reciclajeinclusivo.org/wp-content/uploads/2017/05/EIU_Inclusive-
+Recycling_report-SPANISH.pdf
+van Eijk, F. (2015) Barriers & Drivers towards a Circular Economy . Recuperado de
+https://circulareconomy.europa.eu/platform/sites/default/files/e00e8643951aef8ad
+de612123e824493.pdf
+World Economic Forum. (2018) Circular Economy in Cities Evolving the model for a
+sustainable urban future . Recuperado de
+http://www3.weforum.org/docs/White_paper_Circular_Economy_in_Cities_report_
+2018.pdf
+
+--- Página 66 ---
+66
+[OCR omitido: la página tardó demasiado en leerse]
