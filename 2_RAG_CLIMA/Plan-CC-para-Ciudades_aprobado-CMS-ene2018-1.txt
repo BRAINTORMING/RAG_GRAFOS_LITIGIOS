@@ -1,0 +1,2865 @@
+--- Página 1 ---
+PLAN DE ADAPTACIÓN AL CAMBIO
+CLIMÁTICO PARA CIUDADES
+2018 ‐ 2022
+Aprobado por el Consejo de Ministros para la Sustentabilidad el 22 de Enero de 2018
+1
+
+--- Página 2 ---
+Coordinación
+Ministerio del Medio Ambiente
+Revisión de contenidos
+Ministerio de Vivienda y Urbanismo
+Instituciones colaboradoras
+Corporación Nacional Forestal
+Ministerio de Desarrollo Social
+Ministerio de Medio Ambiente
+Ministerio de Energía
+Ministerio de Transportes y Telecomunicaciones
+Ministerio de Obras Públicas
+Ministerio de Salud
+Ministerio de Vivienda y Urbanismo
+Oficina Nacional de Emergencias
+Subsecretaría de Desarrollo Regional y Administrativo
+2
+
+--- Página 3 ---
+Contenido
+1. PRESENTACION ........................................................................................................................................................ 4
+2. INTRODUCCIÓN ....................................................................................................................................................... 5
+2.1 ¿Por qué se requiere un plan de adaptación al cambio climático para ciudades? ................................................ 5
+3. ANTECEDENTES ........................................................................................................................................................ 8
+3.1 La vulnerabilidad del país frente al cambio climático ............................................................................................. 8
+3.2 Las ciudades y el cambio climático ....................................................................................................................... 12
+3.3 Vulnerabilidad de las ciudades chilenas al cambio climático ............................................................................... 17
+3.4 El marco institucional del plan de adaptación al cambio climático para ciudades. ..................................... 24
+3.5 La gobernanza de las ciudades y el territorio frente al cambio climático .................................................... 27
+3.6 Alcances de la Política Nacional de Desarrollo Urbano y de Ordenamiento Territorial sobre cambio
+climático y el Plan para ciudades. ............................................................................................................................... 28
+4. COMPONENTES DEL PLAN ..................................................................................................................................... 31
+4.1 Objetivo general ........................................................................................................................................... 31
+4.2 Objetivos específicos .................................................................................................................................... 31
+4.3 Ejes estratégicos .................................................................................................................................................... 31
+4.3.1. Eje 1: Planificación urbana y ordenamiento territorial .................................................................................... 32
+4.3.1.1 Línea de acción 1: Instrumentos de planificación territorial y normas urbanas ............................................ 32
+4.3.1.2 Línea de acción 2: Movilidad urbana .............................................................................................................. 33
+4.3.2 Eje 2: Infraestructura y construcción sostenible ............................................................................................... 33
+4.3.2.1 Línea de acción 3: Inversión en infraestructura ............................................................................................. 34
+4.3.2.2. Línea de acción 4: Espacio público ................................................................................................................. 34
+4.3.2.2 Línea de acción 5: Edificios públicos ............................................................................................................... 35
+4.3.2.3 Línea de acción 6: Viviendas ........................................................................................................................... 35
+4.3.3 Eje 3: Reducción y gestión del riesgo de desastres asociados al cambio climático .......................................... 35
+4.3.3.1 Línea de acción 7: Reducción de riesgo de desastres y manejo de impactos ................................................ 36
+4.3.4 Eje 4: Gestión local y colaboración interinstitucional ........................................................................................ 36
+4.3.4.1 Línea de acción 8: Generación de capacidades y colaboración ..................................................................... 36
+4.3.4.2. Línea de acción 9: Gestión ............................................................................................................................. 37
+4.3.5 Eje 5: Difusión..................................................................................................................................................... 37
+4.3.5.1 Línea de acción 10: Acciones de Difusión ....................................................................................................... 38
+5. EVALUACIÓN Y MONITOREO DEL PLAN DE CIUDADES ......................................................................................... 39
+6. MEDIDAS Y ACCIONES ............................................................................................................................................ 40
+7. BIBLIOGRAFÍA ......................................................................................................................................................... 91
+3
+
+--- Página 4 ---
+1. PRESENTACIÓN
+En el marco de la revisión de antecedentes preparatorios para la elaboración del Plan Nacional
+de Adaptación al Cambio Climático, el año 2012, se definió la necesidad de incorporar dos
+nuevos sectores sobre los que era necesario generar un marco de adaptación, sumando, a los
+ya definidos por el Plan de Acción Nacional de Cambio Climático 2008 ‐ 2012, el Plan de
+Adaptación al Cambio Climático para el Sector Turismo, y el Plan de Adaptación al Cambio
+Climático para Ciudades.
+En ese contexto en el año 2016 se inició, a través del Equipo Técnico Interministerial de
+Cambio Climático, un proceso de discusión que sentó las bases para la formulación del
+presente Plan para ciudades, definiendo la hoja de ruta para su elaboración, las líneas de
+acciones relevantes, y las contribuciones sectoriales.
+El presente Plan para ciudades, a ser implementado en un periodo de vigencia de cinco años,
+es el resultado de este proceso, el que además de la discusión interministerial, ha atendido un
+conjunto de observaciones ciudadanas propias del proceso de consulta al que fue sometido,
+las que finalmente contribuyeron al enriquecimiento de la propuesta final.
+Las medidas de acción que se proponen, dado el carácter sistémico de las ciudades,
+trascienden los límites de la administración sectorial, proponiendo en muchos casos, medidas
+de gestión y acción de carácter integral, que demandan para su implementación un alto nivel
+de coordinación pública, tanto desde el punto de vista de la administración central de carácter
+sectorial, como de los distintos niveles territoriales que dependen de la administración del
+Estado.
+Su objetivo es entregar lineamientos de adaptación al cambio climático para las distintas
+ciudades del país, presentando acciones que, esencialmente desde el sector público, se están
+impulsando, y que suponen avances significativos para definir un camino en materia de
+adaptación, con sus respectivas relaciones sinérgicas en el ámbito de la mitigación. Se espera,
+asimismo, que el presente Plan motive la definición de nuevas acciones y marcos estratégicos
+para responder al cambio climático desde las ciudades, en sus distintas escalas, apostando a
+que sean los niveles de la administración regional y local, los protagonistas de este impulso,
+atendiendo las particularidades que este desafío plantea para cada territorio.
+4
+
+--- Página 5 ---
+2. INTRODUCCIÓN
+2.1 ¿Por qué se requiere un plan de adaptación al cambio climático para ciudades?
+Las ciudades como centros de bienestar y prosperidad para el desarrollo humano, han
+generado una tendencia de urbanización continua en el tiempo, que se ha visto acelerada
+durante las últimas décadas. Si al año 1950 el 30% de la población era urbana, hoy esa
+proporción aumentó a la mitad de la población mundial, proyectándose para el año 2050, que
+cerca del 70% de la población mundial se concentrará en ciudades 1 . En el caso de Chile
+actualmente cerca del 90% 2 de la población es urbana, presentando uno de los niveles de
+urbanización más altos del mundo. Esta rápida urbanización genera impactos y desequilibrios
+medioambientales de distinto alcance, los que se están vinculados al consumo cada vez mayor
+de energía, de recursos naturales, suelo urbano y readecuación de los sistemas de transporte,
+equipamientos e infraestructuras, los que, junto con una creciente cantidad de residuos, han
+involucrado una huella antropogénica con una proporción cada vez mayor de emisiones de
+gases de efecto invernadero (GEI), contribuyendo al cambio climático.
+El cambio climático está alterando las condiciones meteorológicas normales, produciendo
+modificaciones graduales en el clima, que impondrán sobre las ciudades y los sistemas
+socioecológicos, especiales desafíos de acuerdo a su ubicación. La sucesión de eventos
+climáticos extremos como las lluvias torrenciales y los efectos hidrometeorológicos asociados,
+serán cada vez más frecuentes y de mayor magnitud. El aumento de la temperatura media, y
+respectiva reducción de la masa glaciar, está teniendo, además del cambio en los patrones y
+formas de precipitación, consecuencias sobre la prolongación de los períodos de sequías, junto
+con la extensión espacial de sus efectos, planteando importantes retos para los sistemas
+productivos, el funcionamiento de los servicios, la disponibilidad del recurso hídrico, entre
+otros aspectos relevantes para la sostenibilidad de las ciudades.
+Con todo, las proyecciones del clima global para el siglo XXI, aunque se reduzcan los actuales
+niveles de emisión de GEI, son pesimistas. Desde la década de 1950, muchos de los cambios
+observados no tienen precedentes. El IPCC señala en su Quinto Informe de Evaluación (AR5),
+una larga lista de estos cambios observados en el mundo, y un aumento promedio de la
+temperatura global de 0,85°C desde mediados del siglo XIX, atribuyendo directa
+responsabilidad al aumento en la concentración de GEI originada por la actividad humana. En
+esta proyección, bajo los distintos escenarios de emisión, la temperatura promedio podría
+aumentar entre 2,6°C y 4,8°C para el año 2100.
+De esta forma, el cambio climático advierte un espacial desafío para la gestión y planificación
+de las ciudades, sobre las que el Estado, atendiendo el concepto de equidad territorial, debe
+1 Banco Mundial, 2011
+2 Compendio Estadístico 2016, INE.
+5
+
+--- Página 6 ---
+garantizar el acceso de todos los sectores de la ciudadanía, a los servicios básicos, las
+infraestructuras, los espacios públicos, las viviendas, y en definitiva, al conjunto de bienes
+públicos que constituyen el bienestar de la sociedad y la calidad de vida de las personas.
+Relevar la importancia de la adaptación al cambio climático desde la perspectiva de las
+ciudades y los asentamientos humanos, radica en la comprensión de al menos cuatro factores
+ligados tanto al clima, como a la capacidad de las ciudades para responder a sus distintas
+manifestaciones. Estos factores pueden identificarse de la siguiente manera:
+● Alcance de los eventos extremos: Según el IPCC (AR5, 2013/14), el cambio climático
+se manifiesta a través de una mayor frecuencia y magnitud de los episodios climáticos
+extremos.
+● Exposición a nuevas amenazas y cambios irreversibles: A esta categoría pertenecen las
+amenazas tales como el aumento del nivel del mar, la exposición de enfermedades
+causadas por acción de vectores previamente inexistentes y los cambios irreversibles
+en las tendencias de temperaturas y precipitaciones, incluyendo cambios en sus
+patrones estacionales.
+● Capacidad limitada de infraestructuras y servicios urbanos: Muchas ciudades en la
+actualidad han superado su capacidad para proporcionar servicios básicos e
+infraestructuras (transporte, salud, energía, recurso hídrico). Este escenario se agrava
+durante situaciones climáticas extremas, afectando la vida de las personas y bienes
+materiales.
+● Agravamiento de las deficiencias actuales: Las deficiencias actuales se agravan por la
+presión demográfica y continuo aumento de la población urbana, generando muchas
+veces un crecimiento urbano forzado, detonante de procesos de urbanización
+incompletos y defectuosos, carentes de infraestructuras y servicios de calidad.
+La combinación de estos elementos, de acuerdo a los distintos niveles de exposición de las
+ciudades, define su vulnerabilidad, situando la temática del cambio climático y las ciudades
+como un ámbito relevante de la atención pública. Esto involucra desafíos sobre las estructuras
+de gobernanza de las ciudades guiadas principalmente por la necesidad de fortalecer acciones
+multisectoriales conducidas bajo principios comunes y con un alto nivel de coordinación.
+6
+
+--- Página 7 ---
+Cabe destacar que las ciudades, además de ser los espacios más vulnerables al cambio
+climático, son también las responsables de generar cerca del 70% de las emisiones de GEI a
+nivel global 3 . Por esta razón, cualquier estrategia para enfrentar los desafíos del cambio
+climático presentes y futuros a nivel de ciudades, debe compatibilizar los esfuerzos en el
+fortalecimiento de la capacidad de adaptación, con aquellos en materia de mitigación,
+generando sinergias entre las dos dimensiones de un mismo problema.
+Bajo este contexto, para Chile existen razones imperativas para contar con un Plan de
+Adaptación al Cambio Climático para Ciudades, entre las que se señalan como principales las
+siguientes a continuación:
+● Alrededor del 90% de los chilenos vive en ciudades.
+● Chile es un país altamente vulnerable al cambio climático, según la clasificación de
+amenazas de la Convención Marco de las Naciones Unidas sobre Cambio Climático
+(CMNUCC).
+● El cambio climático afecta las posibilidades de sostener los niveles de desarrollo
+alcanzados.
+● Los problemas de desigualdad territorial de las ciudades chilenas se agravan debido a
+las amenazas del cambio climático, que se expresan en desastres socionaturales.
+● La elaboración e implementación de un plan para ciudades cumple con los
+compromisos nacionales e internacionales de la política chilena en materia de cambio
+climático.
+3
+Cifras entregadas durante la Conferencia de Habitat III celebrada en Quito (2016)
+7
+
+--- Página 8 ---
+3. ANTECEDENTES
+3.1 La vulnerabilidad del país frente al cambio climático
+La ubicación geográfica determina las condiciones climáticas a las que los sistemas
+socioecológicos están expuestos. Esto quiere decir que los efectos del cambio climático varían
+según diversas condiciones locales, como son, la latitud, altitud, influencia oceánica, la
+topografía, entre otros aspectos propios del emplazamiento y la zona. En este contexto, se ha
+detectado por ejemplo, que debido a las diferencias en la proporción de superficie oceánica,
+zonas geográficas del hemisferio norte han presentado durante las últimas década, un
+calentamiento más pronunciado que en el hemisferio sur 4 . Los centros urbanos situados en las
+regiones costeras, por su parte, están particularmente expuestos al aumento del nivel del mar
+y marejadas. Si bien las zonas urbanas costeras poco elevadas (menos de 10 metros sobre el
+nivel del mar) representan apenas el 2% de la superficie terrestre, estas contienen el 13% de la
+población urbana a nivel mundial.
+Otro aspecto específico del riesgo climático, desde el punto de vista geográfico, es el
+progresivo aumento en la escasez de agua, problema que afectará particularmente a las
+ciudades situadas en las regiones áridas y semiáridas. En la medida en que los glaciares de
+Sudamérica retroceden, muchas de las ciudades andinas se enfrentarán a una escasez de agua
+cada vez mayor durante la temporada seca.
+Chile, como se ha dicho, es reconocido como un país vulnerable al cambio climático, pues en él
+coexisten la mayoría de las condiciones de vulnerabilidad que estableció la Convención Marco
+de las Naciones Unidas sobre Cambio Climático (CMNUCC), cumpliendo su territorio con seis
+de las nueve características definidas en dicha Convención, esto es, presenta zonas costeras
+bajas; zonas áridas y semiáridas; áreas propensas a los desastres de origen natural; zonas
+expuestas a sequías y desertificación; alta contaminación atmosférica en áreas urbanas; y
+zonas con ecosistemas frágiles, incluidos los montañosos (ver Figura N°1).
+4 Garreaud, R., 2011.
+8
+
+--- Página 9 ---
+Figura 1: Condiciones de vulnerabilidad presentes en Chile, según establece la CMNUCC. Fuente MINVU,
+2017.
+En cuanto a los futuros escenarios climáticos en el contexto nacional, éstos no difieren de lo
+planteado a nivel global. De acuerdo a los modelos de escenarios de emisiones y
+concentraciones de Gases de Efecto Invernadero (GEI) denominados “ Representative
+Concentration Pathways ” (RCP) del IPCC (AR5), la Figura N°2 expone proyecciones de
+temperaturas y precipitaciones para el periodo 2031 ‐ 2050, sobre la base de dos escenarios
+extremos de concentración de GEI. El escenario RCP2.6 considera una fuerte reducción en las
+emisiones de los GEI, y el RCP8.5, escenario más probable que supone mayores
+concentraciones de CO2, plantea, en términos de temperaturas, un aumento generalizado a
+nivel nacional con gradiente de norte a sur, el que alcanzaría los 2°C de aumento en la zona
+cordillerana del norte grande de Chile hacia 2050. (RCP 8.5).
+En el caso de las precipitaciones, las tendencias del escenario de emisiones más pesimista, que
+involucraría la ausencia de las políticas de mitigación (RCP 8.5), indica que el período 2031 ‐
+2050 sería en la zona central del país, más seco en comparación con la media histórica,
+proyectando una disminución de entre un 5% y 15% de precipitaciones para la zona
+comprendida entre las cuencas de los ríos Copiapó y Aisén. En las zonas extremas del norte
+9
+
+--- Página 10 ---
+grande y al sur de Magallanes por su parte, el escenario plantea un leve aumento en la
+cantidad de precipitaciones 5 .
+Figura 2. Escenarios de temperatura (dos mapas de la izquierda) y de precipitación (mapas a la derecha).
+Modelo de escenario RCP y SRES A1B (GCM y RCM) para el periodo 2031 – 2050 con respecto al periodo
+1961 – 1990. Fuente: Rojas, 2012
+Estos cambios en las precipitaciones y temperaturas, están modificando los modelos
+productivos del país. La Figura N°3, refleja en forma esquemática, diferentes impactos que el
+cambio climático estaría teniendo para distintas macro zonas, identificando las principales
+tendencias y sectores afectados. Si bien estos impactos son abordados desde una perspectiva
+económica sectorial, también representan parte de los desafíos que están enfrentando las
+ciudades.
+5
+Para obtener mayor información sobre los futuros cambios en temperatura y precipitación revisar estudio de
+INFODEP (2016) (p 27, fig.7)
+10
+
+--- Página 11 ---
+Figura 3: Impactos del Cambio Climático en Chile. CEPAL,2012.
+Además de los cambios ya detallados, se prevé un cambio en la frecuencia e intensidad de los
+eventos climáticos extremos. La Figura N° 4 da cuenta que, desde los años 60´, el conjunto de
+fenómenos climáticos extremos, incluyendo los incendios forestales como consecuencia de las
+sequías, altas temperaturas y escasez de precipitaciones, han adquirido una importancia cada
+vez más preponderante.
+Figura 4: Sucesión de eventos catastróficos en Chile en periodo 1960 ‐ 2017. Fuente: Centro Nacional de
+Investigación para la Gestión Integrada de Desastres Naturales CIGIDEN.
+11
+
+--- Página 12 ---
+Complementariamente, La Figura N°5 esquematiza, a partir de las declaratorias de catástrofe 6
+identificadas en el periodo 1990 ‐ 2016, las tipologías de impactos extremos asociados al clima
+por región, permitiendo identificar la diversidad territorial de estas catástrofes a lo largo del
+país.
+Figura 5: catástrofes asociadas al clima en el periodo 1990 – 2016. Fuente: MINVU, 2016.
+3.2 Las ciudades y el cambio climático
+La acelerada urbanización junto con los efectos del cambio climático generan una relación que
+es preocupante para las ciudades. Éstas, aunque representan menos del 2% de la superficie de
+la tierra, son las que más contribuyen al cambio climático, dado que en ellas se consume el
+78% de la energía mundial, y se genera cerca del 70% de las emisiones de GEI a nivel global 7 .
+Se prevé que los eventos climáticos extremos seguirán aumentando, tanto en frecuencia como
+en magnitud (IPCC, AR5) y sus impactos profundizarán las consecuencias negativas tanto en
+términos materiales, como sanitarios, afectando la calidad de vida de las personas,
+especialmente en el caso de la población más vulnerable.
+6 Se utiliza como fuente principal de información, la declaración de zonas de catástrofe que promulga el Ministerio
+del Interior, de acuerdo a lo que establece el D.S. N° 104, del 25 de junio de 1977, que coordina y sistematiza el
+Título I de la Ley N° 16.282 (1965), sobre disposiciones permanentes para casos de sismos o catástrofes y sus
+modificaciones posteriores.
+7 HABITAT, 2011.
+12
+
+--- Página 13 ---
+La vulnerabilidad a los efectos del cambio climático varía en función de factores sociales. En
+primer lugar, la pobreza y la marginalidad contribuyen en gran medida a la vulnerabilidad,
+sobre todo para los asentamientos informales carentes de infraestructura urbana y las
+comunidades que viven en lugares más expuestos a las áreas de riesgo, sin los recursos
+necesarios para mejorar su situación. La edad es otro factor de vulnerabilidad, que influye
+significativamente desde la perspectiva del cambio climático. Los niños son más sensibles a las
+enfermedades que provoca un saneamiento deficiente o que se propagan mediante vectores.
+Las personas de mayor edad, a su vez, se ven particularmente afectadas por las olas de calor
+en las ciudades de clima templado, especialmente al carecer de estándares térmicos, diseño y
+materialidad en viviendas y construcciones, que impiden soportar temperaturas extremas de
+forma permanente 8 . Es importante, asimismo, mencionar el factor de género, pues en
+condiciones de pobreza, son las mujeres las más expuestas a los efectos adversos del cambio
+climático, principalmente en consideración de las respuestas ante eventos climáticos
+extremos 9 .
+Las presiones no climáticas, reforzadas por un acelerado crecimiento de la población urbana,
+están acompañadas en muchos casos, como se ha señalado, por un elevado índice de pobreza,
+lo que resulta, entre otros aspectos:
+● En la construcción y localización informal de viviendas, ocupando áreas con riesgos de
+remociones en masa, incendios, entre otros, que, sumado a las condiciones de
+precariedad habitacional, determina en ellas una mayor vulnerabilidad a eventos
+climáticos extremos, arriesgando la vida de sus habitantes.
+● El crecimiento y ocupación de áreas urbanas al margen de la normativa establecida por
+los instrumentos de planificación territorial, promocionados por acciones individuales
+ilegales o la lógica de la especulación inmobiliaria del suelo.
+● La destrucción o degradación de ecosistemas, en muchos casos, como consecuencia
+del factor anterior, debido a una creciente demanda de ocupación de suelo para la
+construcción de nuevas viviendas u otros usos, degradando ambientes naturales y la
+capacidad que estos tienen para mitigar impactos climáticos adversos.
+● El aumento constante en la demanda de energía y agua, amenazando tanto la
+provisión de los servicios como la eficiencia en su distribución.
+La figura N° 6 señala que el efecto combinado de los diferentes tipos de impactos y presiones
+sobre la ciudad (climáticos y no climáticos), genera distintos niveles de vulnerabilidad,
+8 A modo de ejemplo: más de 70.000 muertes adicionales en Europa se atribuyeron a la ola de calor que azotó el
+continente en 2003 (OMS, 2016).
+9 https://unhabitat.org/wp ‐ content/uploads/2012/06/GRHS2011ThematicStudyGender.pdf
+13
+
+--- Página 14 ---
+afectando los soportes de infraestructura, servicios, la calidad de vida de la población y la
+capacidad de adaptación de las ciudades.
+Figura 6: Sistema de interacciones que define la capacidad de adaptación y el nivel de resiliencia en el
+ámbito de la ciudad. Fuente: MMA, Departamento de Adaptación al Cambio Climático y Desarrollo de
+Capacidades.
+Hoy, la transcendencia del cambio climático como tema es tal, que a nivel global se cuenta con
+más y mejor información técnico y científica sobre sus distintos impactos en las ciudades y las
+medidas de adaptación 10 , además de la promoción de un conjunto de compromisos de
+cooperación entre ciudades de todo el mundo para enfrentar sus efectos 11 . A pesar de estos
+avances, persiste una escasez de datos a nivel local que permitan advertir con mayor certeza y
+profundidad la manifestación urbana de este fenómeno.
+10 World Bank (2011), Habitat (2011), IPCC (AR5, 2014)).
+11 Por ejemplo, ICLEI, C40.
+14
+
+--- Página 15 ---
+Esto ha permitido que, luego de celebrada la Conferencia de las Partes N° 21 (COP 21), de la
+Convención Marco de las Naciones Unidas sobre Cambio Climático el año 2015 en París, el
+IPCC haya anunciado que concentrará su atención sobre las ciudades, comprometiendo un
+informe especial a publicar en el sexto Informe de Evaluación (AR6), entre los años 2021 y
+2022 12 . Lo anterior, debido a que las ciudades, además de reflejar una diversidad de impactos
+de cambio climático, representan también oportunidades únicas para la adaptación y la
+mitigación de sus efectos.
+Conscientes de esta realidad, es que el Estado de Chile ha suscrito diversos acuerdos
+internacionales que comprometen acciones concretas para aplicar en el país y que permean
+las políticas nacionales relacionadas con esta materia.
+En el marco de las Contribuciones Nacionalmente Determinadas (NDC, por su sigla en inglés)
+del acuerdo de París, (ratificado por Chile el 27 de enero de 2017), nuestro país ha
+comprometido la reducción de emisiones de GEI mediante acciones dirigidas a diversos
+sectores y ámbitos, como son los relacionados con el desarrollo energético, los procesos
+industriales, la utilización de solventes, producción agrícola, el uso de la tierra, y gestión de
+residuos. Se compromete asimismo, a la adopción de medidas de adaptación y de generación
+de capacidades, y a contar con una estrategia de transferencia tecnológica y de financiamiento
+para avanzar en esta materia 13 .
+Por su parte, la Nueva Agenda Urbana, plantea entre sus principios, el propósito de no dejar a
+nadie fuera de los procesos de desarrollo, impulsando las economías urbanas guiadas por un
+eje sostenible e inclusivo de desarrollo. Chile, en esta línea, tras la celebración en Quito de la
+Conferencia de las Naciones Unidas sobre la Vivienda y el Desarrollo Urbano Sostenible
+(Hábitat III), fue parte de las 167 naciones que confirmaron su compromiso de incrementar el
+número de ciudades y asentamientos humanos que adopten e implementen planes y políticas
+hacia la inclusión, la eficiencia de los recursos, la mitigación, la adaptación al cambio climático
+y la resiliencia frente a los desastres, 14 integrándose así a los preceptos del Acuerdo de París
+(COP 21), de la Conferencia Mundial de las Naciones Unidas para la Reducción de Desastres de
+2015 (Sendai, Japón), de las Contribuciones Nacionales (NDC), y de los Objetivos de Desarrollo
+Sostenible (ODS).
+12 43ª sesión del IPCC, 11 ‐ 13 abril de 2016, Nairobi, Kenya.
+13 NDC Chile, p.11 (2015).
+14 Foro Nueva Agenda Urbana, Desafíos y Compromisos de Chile en Habitat III (2017) MAVI, Santiago de Chile.
+15
+
+--- Página 16 ---
+3.3 Sinergias entre mitigación y adaptación
+Como se señaló precedentemente, el cambio climático tiene una expresión geográfica y social
+diferenciada, que obliga a implementar distintas estrategias de acuerdo a los alcances
+territoriales, poniendo especial énfasis en las respuestas sinérgicas entre acciones de
+adaptación y de mitigación.
+Una de las principales razones para buscar sinergias entre medidas de adaptación y medidas
+de reducción de emisiones o mitigación en las ciudades, es que éstas, a la vez que son
+vulnerables al cambio climático, son las principales responsables de la generación de
+emisiones de CO2. Si bien las medidas de adaptación son oportunas en el corto y mediano
+plazo, las medidas de mitigación aportarán en frenar las emisiones de GEI y el consecuente
+calentamiento global en el largo plazo. Sin embargo, cada acción de adaptación debe
+considerar en su implementación, cuando corresponda, la reducción de emisiones,
+promoviendo mayor resiliencia de las ciudades, mejorando las capacidades de respuesta,
+aminorando así la magnitud de sus impactos negativos.
+En este contexto y en términos generales, se puede establecer también que cada medida que
+aporte a la mitigación, reduce asimismo en el mediano o largo plazo, la necesidad de
+adaptación a los efectos adversos del cambio climático. Esto, porque la mitigación y la
+adaptación resultan complementarias y no excluyentes, involucrando una compensación
+donde un mayor esfuerzo en mitigación, reduciría los requerimientos económicos en materia
+de adaptación (IPCC, AR5, 2014).
+Así también, las acciones públicas sectoriales pueden generar sinergias entre ellas,
+fortaleciendo la mirada de desarrollo integral para la formulación de medidas de adaptación.
+En este caso, por ejemplo, las sinergias entre calidad del aire y salud, contribuirían en mejorar
+la salud de las personas por efecto de políticas restrictivas para las emisiones de GEI
+provenientes de procesos industriales o del transporte motorizado, reduciendo patologías
+asociadas y por ende los costos en salud pública. Por su parte, impulsar planes de
+infraestructura verde o de prevención de la deforestación en zonas urbanas, permitiría, entre
+otros efectos beneficiosos, aumentar los niveles de captura de CO2, de infiltración de aguas
+previniendo posibles inundaciones, control de laderas e incluso atenuar el efecto de islas de
+calor, mitigando en definitiva la ocurrencia de eventos extremos en la ciudad, mejorando
+asimismo la salud de las personas. En cuanto a las sinergias entre la utilización de recursos
+hídricos y mayor eficiencia de los procesos productivos, la reducción de la dependencia del
+recurso entre plantas generadoras de energía tradicional (termoeléctricas, hidroeléctricas),
+favorecería el uso de fuentes alternativas (energía fotovoltaica y eólica), reduciendo las
+emisiones de GEI, mejorando a la vez la adaptación de las ciudades ante la escasez de agua.
+16
+
+--- Página 17 ---
+Por último, avanzar en el mejoramiento de estándares de aislamiento térmico de las viviendas,
+además de reducir las emisiones de GEI, permitiría reducir o evitar la necesidad de utilizar
+sistemas complementarios para la climatización, reduciendo los costos de operación de las
+viviendas, reduciendo también la manifestación de enfermedades respiratorias entre la
+población.
+3.4 Vulnerabilidad de las ciudades chilenas al cambio climático
+El contexto de diversidad climática y heterogeneidad territorial del país, junto con los distintos
+niveles de vulnerabilidad y exposición de los asentamientos al cambio climático, implica
+avanzar en el desarrollo de nuevos análisis, y reconocer los hallazgos de los estudios
+específicos que se hayan realizado para las ciudades del país. En ese sentido, entre los años
+2010 y 2016 se han formulado diversos estudios orientados a fortalecer el diagnóstico de los
+impactos del cambio climático en el territorio, de los cuales es posible identificar elementos
+que son importantes de relevar para el análisis de las ciudades, y las respectivas propuestas
+tendientes a la formulación de medidas de adaptación. Los estudios existentes dan cuenta del
+énfasis que se ha puesto durante los últimos años en la generación de información necesaria
+para conocer los efectos del cambio climático en el territorio, buscando cómo responder a sus
+amenazas.
+A continuación, se describen los principales estudios realizados este último tiempo,
+identificando sus resultados:
+El estudio “Vulnerability Index to climate change in the Latin American and Caribbean Region”
+o “Índice de Vulnerabilidad al cambio climático en América Latina y el Caribe”, del Banco de
+Desarrollo de Latinoamérica (CAF) del año 2014, es uno de los estudios internacionales que
+permite comparar el nivel de vulnerabilidad de las ciudades latinoamericanas, incluyendo en
+su universo a las 15 capitales regionales chilenas 15 . De éste estudio se desprende que, si bien
+Chile no es el país más expuesto al cambio climático en la Región, el Fenómeno del Niño
+(ENOS), representa un importante factor de la variabilidad climática interanual, teniendo como
+efecto la estimulación de lluvias extremas, y sus respectivos impactos en el territorio.
+15 CAF (Development Bank of Latin America, 2014) Vulnerability Index to climate change in the Latin American and
+Caribbean Region.
+17
+
+--- Página 18 ---
+La Tabla N° 1 expone los resultados del estudio para las 15 capitales regionales de Chile.
+Mientras menores son los valores de la tabla, más alta es la vulnerabilidad, exposición y
+sensibilidad, según sea el caso 16 .
+Tabla 1: Índices de vulnerabilidad, exposición y sensibilidad al Cambio Climático en Chile.
+Fuente: Development Bank of Latin America, 2014
+En el ámbito nacional, el primer proyecto para identificar medidas de adaptación al cambio
+climático a nivel de ciudades, fue la propuesta “Plan de Adaptación al Cambio Climático para la
+Región Metropolitana de Santiago de Chile” Plan CAS (por sus siglas en inglés “Climate
+Adaptation Santiago” ). 17 Éste se desarrolló durante los años 2010 al 2012 en un marco
+participativo entre el Gobierno Regional, la Secretaría Regional Ministerial del Ministerio del
+Medio Ambiente y distintos actores locales. Las medidas de adaptación propuestas en este
+plan, dado el diagnóstico de la Región, estuvieron principalmente dirigidas al problema de la
+escasez hídrica, las alzas en las temperaturas y olas de calor extremo; y las altas probabilidades
+16 El documento completo se puede descargar del siguiente enlace: http://scioteca.caf.com/handle/123456789/509
+17 Climate Adaptation Santiago – Krellenberg, K. & Hans ‐ jürgens, B. (2014)
+18
+
+--- Página 19 ---
+de inundaciones que afectarían a determinados territorios de la región, puestas en una
+perspectiva temporal hacia el año 2050.
+“Adaptación Urbana al Cambio Climático. Propuesta para la Adaptación Urbana al Cambio
+Climático en Capitales Regionales de Chile” 18 , encargado por el Ministerio del Medio Ambiente
+en el año 2014, permitió definir un conjunto de medidas de adaptación al cambio climático. En
+él se analizaron diferentes impactos climáticos observados en 13 capitales regionales
+chilenas 19 . El estudio recopila información sobre eventos climáticos extremos, y analiza el
+comportamiento reciente de indicadores de temperatura y precipitación, consultando a los
+organismos públicos correspondientes para la definición de medidas de adaptación en estas
+capitales. Si bien los registros de información meteorológica no son suficientes para
+determinar modificaciones en las tendencias climáticas de las ciudades, la revisión de eventos
+climáticos extremos permite observar que su frecuencia ha aumentado, siendo principalmente
+los temporales de lluvia y las sequías, los eventos más recurrentes encontrados. La
+sistematización de los eventos identificados en el estudio, refleja que los temporales, así como
+también las inundaciones, corresponden a una tipología de eventos que es transversal al
+territorio nacional, aunque con mayor presencia entre las regiones de Valparaíso y de Los
+Lagos. El análisis de las sequías, por su parte, permite observar que éstas se han desarrollado
+principalmente en la zona central, entre las regiones de Atacama y el Maule. El estudio además
+permite relevar la importancia creciente que han tenido los incendios forestales y las
+necesarias medidas de adaptación para contrarrestarlos, ya que, si bien son de origen
+antrópico, los fuertes vientos y condiciones de sequedad permiten propagarlos rápidamente
+desencadenando eventos catastróficos y extensivos que en muchos casos afectan las áreas
+urbanas, especialmente aquellos sectores habitados bajo condiciones de vulnerabilidad social.
+Las medidas de adaptación propuestas en este estudio constituyen una base importante para
+la elaboración de las medidas del presente Plan para Ciudades.
+Otro estudio relevante para el sector, corresponde a la “Propuesta de un Portafolio de
+Medidas para elaborar el Plan de Adaptación al Cambio Climático para la infraestructura” 20 . En
+él, además de analizar los distintos modelos climáticos, señalando las limitaciones específicas
+para determinar escenarios en Chile, se permite reconocer las principales amenazas en
+términos del funcionamiento de los servicios de infraestructura. Así, por ejemplo, además del
+aumento de temperatura que afectaría a toda la zona central del país (alrededor de 2°C), se
+advierten también los siguientes escenarios e impactos:
+18 Adaptación Urbana al Cambio Climático. Propuesta para la Adaptación Urbana al Cambio Climático en Capitales
+Regionales de Chile. CEDEUS; Adapt Chile; Centro UC Cambio Global. 2014.
+19 Las regiones Metropolitana de Santiago y de Los Ríos no fueron incluidas ya que a esa fecha contaban con sus
+propios análisis.
+20 Centro Cambio Global UC, PUC, 2014.
+19
+
+--- Página 20 ---
+● Cambio en el patrón de precipitaciones, las que pese a disminuir, aumentarían en
+intensidad.
+● Inundaciones fluviales, no sólo supeditadas a factores meteorológicos, sino reforzadas
+por causas antrópicas.
+● Impactos costeros, sobre los que se presentan dificultades para modelar casos
+específicos de proyectos de infraestructura litoral, en el sentido de comprobar su
+eficacia para contrarrestar los impactos, debido principalmente al comportamiento
+anormal de variables oceánicas.
+Vinculado con las áreas costeras e infraestructura, el estudio “Asesoría en evaluación de
+riesgos de infraestructura costera en un contexto de Cambio Climático”, mandatado por la
+Dirección de Obras Portuarias (DOP) del MOP 21 , clasifica los efectos generales del cambio
+climático en las zonas costeras de la siguiente manera:
+● Inundación de las zonas costeras.
+● Pérdida de territorios deltaicos.
+● Desaparición de humedales.
+● Erosión costera en playas y acantilados.
+● Efectos en la dinámica de las dunas, playas y acantilados.
+● Efectos en la hidrodinámica y morfodinámica de estuarios.
+● Efectos sobre el comportamiento operacional y estructural de obras marítimas.
+● Aumento del daño durante inundaciones y tormentas.
+● Intrusión salina en acuíferos y subida del nivel de la capa freática.
+Este estudio se enfoca especialmente en el aumento en la intensidad de las marejadas que
+afectan la infraestructura de borde costero del país, para ello se analizaron variables
+oceanográficas, marítimas y climáticas que han desencadenado los eventos de marejadas
+intensas en años recientes, planteando criterios de diseño para la consideración de estos
+aspectos en las nuevas obras de infraestructura costera generadas por la DOP. El estudio,
+entre los antecedentes, recaba y analiza la información de temporales en Chile desde 1827 a
+2015, permitiendo identificar 117 marejadas en el período que tuvieron algún tipo de impacto
+adverso. De ellos se destaca que los daños derivados de las marejadas se concentran
+principalmente en la zona centro sur del país, siendo la región de Valparaíso la que ha
+presentado los mayores costos asociados a la reparación de la infraestructura (paseos costeros
+y obras portuarias), las que sólo el año 2015, involucraron casi 7 mil millones de pesos, cifra
+que representó un 12% de lo invertido el año 2014 por la DOP.
+21 Asesoría en evaluación de riesgos de infraestructura costera en un contexto de Cambio Climática. Winckler. P., et
+al. Dirección de Obras Portuarias, 2015.
+20
+
+--- Página 21 ---
+La “Evaluación Económica del Plan de Acción Nacional de Cambio Climático” 22 , del año 2015,
+dimensiona las posibles pérdidas económicas bajo la consideración de ciertos escenarios y la
+necesidad de contar con sistemas de monitoreo de alerta temprana. Tal evaluación, en lo
+referido al aumento del nivel del mar, estima que, en el caso particular del puerto de la ciudad
+de Valparaíso, las pérdidas alcanzarían entre 36 a más de 100 millones de dólares por día de
+inactividad, considerando escenarios de aumento de la temperatura entre 2°C y 4°C y sus
+respectivas consecuencias. El mismo estudio, y con respecto al sector Salud, contempla la
+necesidad de implementar sistemas de monitoreo y alerta temprana para prevenir el impacto
+ante situaciones de olas de calor, evitando impactos negativos sobre la salud. Se determinó,
+asimismo, en una proyección hacia fines del presente siglo, que bajo un escenario IPCC “A2”, la
+Región Metropolitana tendría una mortalidad entre 4.000 a 14.000 personas al año, como
+causa directa e indirecta de las temperaturas elevadas.
+El estudio “Elaboración de una base digital del clima comunal de Chile: línea base (1980 ‐ 2010)
+y proyección al año 2050” 23 , encargado por el Ministerio del Medio Ambiente, y cuyos
+resultados fueron presentados el año 2016, analiza los futuros impactos del cambio climático
+en Chile, y las diferentes magnitudes que este puede tener en el territorio nacional. Este
+permitió dimensionar los alcances de este fenómeno en un mediano plazo, con un nivel de
+desagregación que considera a las unidades administrativas del territorio nacional, como son
+las Provincias y las Comunas.
+El estudio involucró la compilación, validación y procesamiento de una importante cantidad de
+información climática, generando una base sólida para caracterizar el clima de cada comuna
+del país. Paralelamente, se realizó un análisis topoclimático en cada una de las comunas,
+estableciendo zonas o territorios homogéneos a partir de las unidades comunales. Este
+proceso implicó la subdivisión de 342 comunas en distintas zonas, según características de
+relieve y altitud. De esta forma, se separaron subsectores comunales como: litoral, serranías,
+valle central, serranía y valles interiores, precordillera y cordillera. Una vez hecha esta
+zonificación en 840 unidades sub ‐ comunales, se establecieron las variables del clima para cada
+una de ellas, caracterizándolas a una resolución espacial de 1km², con una línea base 1980 ‐
+2010, y proyección climática al año 2050, aplicando el escenario IPCC: RCP 8.5.
+La Figura N° 7 muestra cambios relativos y absolutos en temperatura y precipitación,
+proyectados al 2050.
+22 Estudio ejecutado por E2 BIZ para Subsecretaría de Medio Ambiente, Diciembre 2015
+23 INFODEP 2016, estudio realizado en el marco del Proyecto PNUD Nº 75688 “Actividades de Apoyo para la
+Preparación de la Tercera Comunicación Nacional (TCN) de Chile ante la Convención Marco de las Naciones Unidas
+sobre Cambio Climático” (año 2016).
+21
+
+--- Página 22 ---
+Figura 7: Cambios relativos y absolutos en precipitación y temperatura para el período 2031 ‐ 2050 en comparación
+con línea base (1980 ‐ 2010); Fuente: MMA
+La importancia y aporte de este estudio es que a partir de él es posible identificar de manera
+detallada los efectos del cambio climático a mediano plazo (2050) en relación a la línea base
+1980 ‐ 2010. El análisis de los datos climáticos permite advertir, bajo el modelamiento del
+escenario más adverso (RCP8.5), que las precipitaciones anuales máximas disminuirán durante
+las siguientes décadas, especialmente entre las regiones de Valparaíso y del Biobío. La
+excepción corresponde a la región de Magallanes, en donde al contrario de la tendencia
+nacional, éstas aumentarían, sobre todo hacia la vertiente occidental de la cordillera de los
+Andes. En cuanto a las temperaturas máximas de verano, se prevé el aumento en torno a los
+2,2°C como promedio nacional. Este aumento sería más intenso en las regiones del norte y
+centro del país, principalmente hacia las zonas interiores del territorio nacional, disminuyendo
+gradualmente hacia las zonas que están bajo la influencia oceánica.
+La Tabla N° 2 muestra a modo de síntesis, los resultados de estos estudios para las 15 capitales
+regionales del país. Los cambios en temperatura y precipitación al año 2050, indican la
+diferencia, en términos absolutos y relativos, entre los valores de la línea base (1980 ‐ 2010) y
+los valores estimados para un escenario RCP 8.5 al año 2050 para las ciudades. Cambios
+absolutos en precipitación menor de 5 mm/año se consideran como “0”.
+22
+
+--- Página 23 ---
+Tabla 2. Síntesis de riesgos por impactos climáticos, y cambios en temperatura y precipitación al año 2050, según
+escenario RCP 8.5 para las capitales regionales. Fuente: INFODEP 2016, y MINVU 2016.
+El análisis de los estudios descritos permite concluir que el cambio climático configurará una
+modificación del actual paisaje, involucrando una transformación gradual en los patrones de
+uso del suelo. La respuesta al cambio climático, desde este punto de vista, exige, por un lado,
+la consideración de los escenarios proyectados en la planificación pública de forma
+prospectiva, y por otro, de una gestión de las ciudades orientada fuertemente a la reducción
+del riesgo.
+La menor disponibilidad de agua, el avance de las zonas áridas hacia el sur, las olas de calor
+agravadas por las islas de calor en zonas urbanas, las marejadas y posibles alzas del nivel del
+mar, entre otros impactos, presionarán la necesaria adaptación de los sectores productivos y
+las infraestructuras que dan soporte a las actividades, involucrando eventualmente
+desplazamientos forzados de población.
+Estos impactos advierten también, que las ciudades, y el territorio en general, requerirá, junto
+a una mayor capacidad de innovación sobre los sistemas productivos, de un replanteamiento
+de los modelos económicos, tendiendo hacia una mayor sostenibilidad, y el fortaleciendo la
+resiliencia del territorio.
+Las presiones en la transformación de los usos del suelo, requerirá por estas razones de
+modelos de planificación más armónicos, y una modernización de las estructuras de
+gobernanza que permita avanzar hacia una planificación integrada multisectorial y multinivel,
+consensuada entre los distintos actores que convergen en las ciudades.
+23
+
+--- Página 24 ---
+Adicionalmente, se requerirá una mejor gestión de riesgos de desastres como respuesta a las
+amenazas presentes y futuras, implementando sistemas de monitoreo y una revisión de las
+medidas de gestión para prevenir los impactos. Ante el aumento de la altitud de la isoterma
+0°C, por ejemplo, la precipitación invernal caerá más en forma de agua que de nieve,
+implicando un mayor escurrimiento de aguas, e intempestivas crecidas fluviales, efectos que
+hoy ya se visualizan con una mayor frecuencia de eventos hidrometeorológicos extremos. Así
+también, las marejadas más frecuentes, en un contexto de cambios probables positivos en el
+nivel del mar, requerirán de tanto de medidas más eficaces para la protección zonas costeras,
+como de la implementación de nuevos estándares de inversión en infraestructura, mejorando
+la respuesta de estas áreas, a la vez que se reduce el riesgo de desastres.
+3.5 El marco institucional del Plan de adaptación al cambio climático para ciudades.
+La política chilena en materia de Cambio Climático se inició mediante la ratificación nacional a
+la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC) en 1994, y
+al Protocolo de Kioto en 2002. Lo anterior se oficializó por primera vez mediante la definición
+de una Estrategia Nacional de Cambio Climático, en 2006, y su puesta en marcha mediante el
+Plan de Acción Nacional de Cambio Climático 2008 ‐ 2012 (PANCC I). Adicionalmente Chile
+ratifica el Acuerdo de Paris el 27 de enero de 2017, y confirma, en el marco de Habitat III, su
+compromiso ante la comunidad internacional, de elaborar planes en materia de ciudades y
+asentamientos humanos.
+El Plan de Acción Nacional de Cambio Climático 2017 ‐ 2022 (PANCC II), es el instrumento
+articulador de la Política Nacional de Cambio Climático para los próximos 5 años en el país,
+considerando cuatro ejes estratégicos para su cumplimiento: Adaptación, Mitigación, Medios
+de implementación, y Gestión del Cambio Climático Regional y Comunal. El Plan Nacional de
+Adaptación al Cambio Climático, elaborado el año 2014 (PNACC, 2014), es parte de este nuevo
+Plan de Acción, definiendo los sectores que deben elaborar planes de adaptación por la
+importancia y carácter estratégico que éstos representan para el país frente a su
+vulnerabilidad al cambio climático, estableciendo una estructura operativa para su
+implementación (Figura N°8).
+24
+
+--- Página 25 ---
+Figura 8: Estructura operativa para la implementación de Planes de Adaptación al Cambio Climático
+La coordinación a nivel político le corresponde a la instancia de más alto nivel, esto es, el
+Consejo de Ministros para la Sustentabilidad. La coordinación multisectorial a nivel técnico,
+necesaria para implementar las acciones definidas en los planes nacionales y sectoriales de
+cambio climático, corresponde, en el nivel nacional, al Equipo Técnico Interministerial de
+Cambio Climático (ETICC), cuyos integrantes son los Puntos Focales de Cambio Climático de los
+25
+
+--- Página 26 ---
+Ministerios correspondientes. A nivel regional por su parte, esta labor corresponderá a los
+Comités Regionales de Cambio Climático (CORECC), cuyos integrantes son los Gobiernos
+Regionales, las SEREMIs, los Municipios, la sociedad civil y el sector privado.
+A diciembre de 2017, 13 regiones cuentan con CORECCs conformados. Estos tendrán una
+importancia relevante en los procesos de priorización, puesta en marcha y actualización de
+lineamientos para la adaptación al cambio climático sugerido por el presente Plan en el
+contexto regional, sobre todo si se considera el efecto de las acciones legales relativas a la
+transferencia de mayores competencias a las regiones y las atribuciones de estas en materia
+de ordenamiento territorial. En términos del desarrollo de propuestas de adaptación para las
+ciudades, los CORECC tendrán un rol significativo en la identificación de posibles fuentes de
+financiamiento, la ejecución y el seguimiento de las medidas que se propongan, evaluando
+asimismo su implementación.
+En este sentido, un buen nivel de coordinación entre los distintos sectores y niveles de
+gobierno, debiera resultar en sinergias y co ‐ beneficios, evitando la duplicidad de esfuerzos y
+recursos. Esto reconoce el carácter multisectorial y multinivel de los procesos de decisión y de
+gestión para la implementación de las medidas de adaptación al cambio climático, tanto en el
+marco de los planes sectoriales de adaptación establecidos por el PNACC, como en lo referido
+a las medidas transversales e intersectoriales establecidas en el PANCC.
+La implementación del Plan de adaptación al cambio climático para ciudades implica un
+particular desafío. A diferencia de otros planes sectoriales de adaptación, en las ciudades
+participan múltiples organismos, con distintos focos o ámbitos de gestión. La OCDE advierte
+sobre este hecho y lo releva como una oportunidad para la gestión integrada, señalando que la
+gestión de las ciudades “podría constituir modelos potencialmente útiles para analizar las
+interacciones entre los sectores estancos” 24 . Las interacciones necesarias para promover un
+desarrollo urbano que pueda adaptarse al cambio climático, mejorando la resiliencia de las
+ciudades y a la vez considerando la necesaria mitigación de los GEI, requieren de procesos de
+definición de una visión territorial de desarrollo, que se traduzca en instrumentos y apropiadas
+estructuras de gobernanza para llevar a cabo su implementación. De esta manera, un plan de
+adaptación para ciudades requiere de acciones multisectoriales integradas y coordinadas,
+considerando la participación de los sectores de gobierno, la sociedad civil, la academia y el
+mundo empresarial.
+24 OCDE, 2016.
+26
+
+--- Página 27 ---
+3.6 La gobernanza de las ciudades y el territorio frente al cambio climático
+Las ciudades y el desarrollo urbano en general, está supeditado a un amplio y fragmentado
+marco institucional y diversidad normativa; con distintos rangos constitucionales, leyes y
+decretos, que en conjunto agrupan una abundante regulación con distintos niveles de
+incidencia, no exclusivamente urbanos, sino de carácter territorial. Este escenario contribuye
+en una diversidad de políticas sectoriales no necesariamente integradas en su dimensión
+espacial, dificultando un desarrollo armónico y sistémico territorial. (Ver Figura N°9).
+Figura 9: Ejemplo de la estructura de gobernanza de ciudades chilenas. Fuente: MINVU, 2017.
+La Ley General de Urbanismo y Construcciones (LGUC), y su Ordenanza (OGUC), son los
+instrumentos que rigen el desarrollo urbano a nivel nacional. A su vez, en el nivel de los
+Gobiernos Regionales se coordina la elaboración y aprobación de los Instrumentos de
+Planificación Territorial de carácter intercomunal y/o metropolitanos, mientras que los
+Municipios, de acuerdo a lo establecido por la OGUC, tienen como función privativa, la
+elaboración de los Planes Reguladores Comunales, con instancias específicas de participación
+ciudadana establecidas por la Ley y el Reglamento.
+La Figura N°10 también señala los componentes de la gobernanza urbana (Ministerios,
+Gobierno Regional, Municipios, Sociedad Civil y sector Privado) y establece el vínculo entre los
+diferentes niveles de planificación pública en materia de cambio climático. También se
+señalan los cuatro ejes principales del Plan de Acción Nacional de Cambio Climático (PANCC
+27
+
+--- Página 28 ---
+2017 ‐ 2022) (mitigación, adaptación, medios de implementación y gestión del Cambio
+Climático a nivel regional y comunal), junto con las líneas de acción más relevantes en el
+ámbito de Ciudades. En este sentido, cabe señalar que varias medidas propuestas en el PANCC
+2017 ‐ 2022, están incorporadas, dado su alcance, en el presente Plan para Ciudades.
+Figura 10: El Plan para Ciudades en el marco de los componentes de la gobernanza, y complementariedad con otros
+Planes. Fuente: MMA.
+3.7 Alcances de la Política Nacional de Desarrollo Urbano y de Ordenamiento Territorial
+sobre cambio climático y el Plan para ciudades.
+Si bien el cambio climático visibiliza los impactos de mayor magnitud a nivel de ciudades, el
+origen de estos impactos en muchos casos trasciende esta escala, siendo insuficientes las
+respuestas acotadas únicamente a un nivel local. El desafío institucional de integrar las
+decisiones de los distintos niveles de la administración pública con efectos sobre el territorio,
+constituye parte de los propósitos centrales de la Política Nacional de Desarrollo Urbano
+(PNDU) y de la Política Nacional de Ordenamiento Territorial (PNOT).
+28
+
+--- Página 29 ---
+La Política Nacional de Desarrollo Urbano (PNDU), constituye un marco político orientador del
+desarrollo urbano, relevante para la consideración de los objetivos del presente Plan. Esto,
+sobre todo en consideración de los lineamientos ambientales, y los ámbitos referidos a la
+necesaria modernización del marco institucional para avanzar hacia una mejor coordinación
+entre los entes de la administración pública.
+Complementariamente a su objetivo central 25 , la PNDU define un conjunto de principios
+rectores, destacándose, dada su correspondencia con los lineamientos de adaptación al
+cambio climático, el principio de adaptabilidad, que busca fortalecer la capacidad de las
+ciudades de adecuarse oportunamente a los cambios (entre otros) medioambientales; el de
+resiliencia, referido a la capacidad de las ciudades y centros poblados para sobreponerse a
+adversidades de distinta naturaleza; y el de descentralización, referido a la necesidad de contar
+con un nuevo marco institucional, que en el contexto del cambio climático, particularmente en
+lo referido al cumplimiento de acciones integrales definidas en el presente Plan, supone
+mayores facultades a los territorios a la hora de diseñar estrategias propias frente a este
+desafío.
+Si bien este Plan deberá implementarse bajo el marco institucional vigente, la PNDU propone
+avanzar en mejorar la organización institucional y legal vigente, dando paso a un sistema
+integrado y descentralizado en la toma de decisiones en lo referido a planificación y gestión de
+las ciudades.
+El ajuste progresivo y gradual de la estructura normativa, legal e institucional en miras a
+consolidar este sistema, involucra, en términos de la PNOT y PNDU, una necesaria coherencia
+y articulación de la institucionalidad del Estado en términos decisionales en sus diferentes
+niveles político ‐ administrativos y escalas de planificación e intervención en el territorio, esto
+es, la coordinación de los PROT, IPT y otros instrumentos y herramientas con incidencia
+territorial, así como los, sistemas de financiamiento y decisiones de inversión.
+En este sentido, actualmente ha concluido la elaboración de la Política Nacional de
+Ordenamiento Territorial (PNOT) 26 , la que otorgará al Estado la potestad para planificar el
+territorio y conducir su desarrollo armónico, mediante una mayor vinculación entre los
+objetivos de desarrollo urbano, productivo, y sustentabilidad medioambiental. La definición de
+una estrategia de ordenamiento territorial sobre la base de las potencialidades y
+singularidades territoriales que contribuyan a un desarrollo sustentable y bajo en emisiones 27 ,
+constituye el objetivo principal de la PNOT, reforzándose la necesidad de articular las
+25 Referido a lograr mejorar las condiciones de vida en las ciudades, tendiendo a un desarrollo socialmente
+integrado, económicamente competitivo, y ambientalmente equilibrado
+26 Aprobada por la Comisión de Ciudad, Vivienda y Territorio (COMICIVYT), el 11 de diciembre de 2017.
+27 Texto final de proyecto PNOT.
+29
+
+--- Página 30 ---
+directrices de los distintos órganos del Estado, y de consolidar este nuevo sistema para la toma
+de decisiones, en consonancia con la agenda de descentralización nacional 28 .
+La elaboración de los instrumentos operativos de ordenamiento territorial de nivel regional
+(los Planes Regionales de Ordenamiento Territorial – PROT), generará directrices y
+zonificaciones para resguardar el desarrollo sostenible, involucrando, entre otros factores, y
+según su escala, las consideraciones y perspectivas definidas en los planes nacionales y
+sectoriales de cambio climático, buscando un equilibrio entre la ocupación del territorio y la
+preservación de los ecosistemas como mecanismo clave del ordenamiento territorial 29 .
+Adicionalmente, el procedimiento de Evaluación Ambiental Estratégica (EAE) 30 , aplicado entre
+otros, a los PROT e Instrumentos de Planificación Territorial, cumplirá un rol relevante en estos
+procesos de formulación, pues el cambio climático deberá ser considerado entre las
+dimensiones y evaluación de las alternativas de desarrollo sostenible del territorio.
+28 Agenda impulsada por la SUBDERE. Para mayor información, consultar Boletín N°7963 ‐ 06, que formula Indicación
+Sustitutiva al Proyecto de Ley que introduce modificaciones a la ley N°19.175 (LOGCAR), 2015.
+29 Objetivo estratégico N° 3, PNOT, 2017.
+30 Procedimiento introducido mediante la Ley 20.417/2010, que modifica la Ley de Bases Generales Sobre el Medio
+Ambiente (Ley 19.300).
+30
+
+--- Página 31 ---
+4. COMPONENTES DEL PLAN
+4.1 Objetivo general
+El objetivo del presente Plan es proponer lineamientos de adaptación para las ciudades
+frente al cambio climático, fortaleciendo, con una mirada prospectiva, la capacidad de
+respuesta y la de sus habitantes frente a sus diferentes impactos, propendiendo mejorar el
+nivel de equidad territorial.
+4.2 Objetivos específicos
+1. Abordar el cambio climático desde un enfoque territorial prospectivo, a través de
+la planificación urbana y el ordenamiento territorial.
+2. Generar inversiones y proyectos que consideren los efectos del cambio climático,
+mejorando la capacidad de adaptación de las ciudades.
+3. Desarrollar las capacidades para prevenir los impactos del cambio climático y los
+mecanismos de respuesta para responder a sus efectos en las áreas urbanas.
+4. Promover las instancias de coordinación y cooperación para enfrentar los distintos
+efectos del cambio climático en las ciudades.
+5. Fortalecer instancias de capacitación, desarrollo de estudios y difusión, necesarios
+para implementar acciones en materia de adaptación al cambio climático.
+Por medio de este Plan, se busca que las ciudades cuenten con un documento de referencia
+que consolide y exponga las distintas acciones que desde el ámbito público se están
+impulsando para responder a la adaptación al cambio climático, ilustrando temáticas y
+contenidos que vistos desde una perspectiva nacional, pueden motivar y orientar el desarrollo
+de planes o acciones específicas desde los niveles de la administración regional y local,
+permitiendo atender los distintos retos y especificidad de posibles respuestas frente al cambio
+climático en consideración a la diversidad territorial del país.
+4.3 Ejes estratégicos
+31
+
+--- Página 32 ---
+A partir de los elementos de diagnóstico sobre los impactos del cambio climático en las
+ciudades, y para cumplir con los objetivos planteados, es necesario definir los componentes
+básicos que, desde una perspectiva de política pública, permitirán responder y adecuarse a los
+efectos del cambio climático. Dada la dificultad de abordar la complejidad de las ciudades con
+medidas y acciones dependientes de un sólo sector o escala, muchos de estos componentes
+requieren de la colaboración y coordinación de distintos actores para su implementación. En
+ese sentido, se toman como base los lineamientos de la Política Nacional de Ordenamiento
+Territorial, la Política Nacional de Desarrollo Urbano, y la Política Nacional para la Gestión del
+Riesgo de Desastres, instrumentos que comparten el diagnóstico sobre la necesidad de contar
+con una institucionalidad que propicie la visión integral y convergencia de los organismos con
+competencias en el territorio, conciliando una mirada que tenga como eje central, el bien
+común.
+De acuerdo a lo anterior, se establecen los siguientes ejes estratégicos:
+1. Planificación urbana y ordenamiento territorial.
+2. Infraestructura y construcción sostenible.
+3. Reducción y gestión del riesgo de desastres asociados al cambio climático.
+4. Gestión local y colaboración interinstitucional.
+5. Difusión.
+A partir de cada eje estratégico se desprenden líneas de acción, que a su vez contienen
+medidas con sus respectivas acciones. A continuación, se señalan los Ejes, sus respectivas
+Líneas de Acción, listando las medidas asociadas a cada Línea.
+4.3.1. Eje 1: Planificación urbana y ordenamiento territorial
+La adaptación de las ciudades al cambio climático requiere una visión prospectiva del territorio
+en sus distintas escalas, promoviendo el desarrollo sostenible, en consonancia con sus
+capacidades y vocación. En este sentido, la planificación urbana y el ordenamiento territorial
+cumplen un rol esencial para avanzar hacia el fortalecimiento de la capacidad de adaptación de
+las ciudades y territorio frente al cambio climático, pudiendo responder a los desafíos
+presentes y futuros que este fenómeno plantea en sus distintos niveles.
+4.3.1.1 Línea de acción 1: Instrumentos de planificación territorial y normas urbanas
+Los instrumentos de planificación territorial incorporan elementos clave que influyen en cómo
+las ciudades pueden enfrentar o verse afectadas por el cambio climático, definiendo los usos
+de suelo, sus capacidades, y definición de las áreas de crecimiento de la ciudad. Las normas
+urbanísticas, complementariamente, constituyen una herramienta que puede contribuir en la
+32
+
+--- Página 33 ---
+definición de estándares de diseño urbano, y establecimiento de exigencias para abordar el
+riesgo en las ciudades, fortaleciendo su capacidad adaptativa.
+Medidas:
+1. Perfeccionar la identificación del riesgo en las distintas escalas de planificación
+territorial.
+2. Mejorar la identificación y protección de áreas de valor ambiental relevantes para las
+ciudades.
+3. Avanzar en la definición de estándares de planificación y urbanización para evitar
+lesiones o pérdida de vidas, medios de subsistencia y bienes ante impactos climáticos.
+4.3.1.2 Línea de acción 2: Movilidad urbana
+Para contribuir a la adaptación de las ciudades al cambio climático es necesario pasar de una
+visión centrada en el desplazamiento de vehículos a una de movilidad urbana sostenible. De
+esta forma, se pueden incorporar elementos a la planificación del territorio que permitan
+reducir la cantidad de viajes y fomentar modos de transporte colectivos y no motorizados.
+Para ello, es necesario integrar de mejor manera la movilidad urbana a la planificación,
+fomentando atributos urbanos que pueden contribuir a la sostenibilidad de los
+desplazamientos, la mixtura de usos de suelo, o la densificación armónica y de calidad.
+Medidas:
+4. Avanzar hacia una planificación urbana integrada, incorporando elementos de
+movilidad urbana.
+5. Fomentar la intermodalidad, incorporando modos colectivos y no motorizados.
+6. Mejorar el sistema de transporte público de las ciudades.
+4.3.2 Eje 2: Infraestructura y construcción sostenible
+La inversión pública en infraestructura y espacio público, así como la construcción sostenible,
+juegan un rol fundamental en la consecución de ciudades mejor adaptadas al cambio
+climático. El espacio público y la infraestructura son el soporte de las ciudades, que, junto con
+aportar en un mayor acceso a bienes públicos y calidad de vida de las personas, pueden
+fortalecer también la capacidad de resiliencia de las ciudades.
+En este sentido, el diseño y construcción de infraestructuras y espacios públicos, pueden ser
+instrumentos que permitan avanzar en una mayor adaptación al cambio climático, reduciendo
+tanto el alcance y magnitud de eventos climáticos extremos, como las consecuencias que se
+33
+
+--- Página 34 ---
+manifiestan gradualmente en las ciudades. Asimismo, las edificaciones, según su ubicación y
+zona geográfica, pueden abordarse en función de la mejor adaptación a las condiciones
+climáticas, contribuyendo en la habitabilidad y en menores costos de operación.
+4.3.2.1 Línea de acción 3: Inversión en infraestructura
+La infraestructura provee el soporte de las actividades y servicios de la ciudad, muchos de
+estos claves para la preservación de la salud de las personas, los bienes y modos de
+subsistencia. Es fundamental asegurar su funcionamiento a pesar del cambio climático,
+incorporando criterios de inversión pública que consideren sus efectos.
+Medidas:
+7. Fortalecer la adaptación al cambio climático desde la perspectiva de la infraestructura
+pública.
+8. Impulsar la gestión del agua frente a los impactos del cambio climático.
+9. Incorporar el cambio climático en la evaluación social de proyectos de ciudad.
+10. Impulsar proyectos de infraestructura verde en ciudades.
+4.3.2.2. Línea de acción 4: Espacios públicos
+El espacio público puede contribuir no sólo en una mejor calidad de vida urbana y mejor
+acceso a bienes públicos urbanos, sino también puede fortalecer la adaptación de las ciudades
+frente a los efectos del cambio climático. Para esto, los elementos de diseño del espacio
+público pueden incorporar soluciones desde la materialidad, el consumo energético, la
+disposición de áreas verdes o cobertura arbórea, entre otros aspectos que, abordados de
+manera armónica con el entorno del espacio público y pertinencia geográfica de las
+intervenciones, permitiría responder no sólo a sus funciones tradicionales, sino también a los
+retos que el cambio climático impone para la ciudad.
+Medidas:
+11. Avanzar hacia una concepción de espacio público como soporte para la adaptación al
+cambio climático.
+12. Reducir el consumo de energía en el espacio público
+13. Fomentar la utilización eficiente del recurso hídrico en el espacio público.
+34
+
+--- Página 35 ---
+4.3.2.3 Línea de acción 5: Edificios públicos
+El impulso del diseño pasivo y eficiencia energética en edificios de uso público e
+infraestructura pública sustentable, busca consolidar un diseño arquitectónico que contribuya
+a la eficiencia energética y confort ambiental de acuerdo a las tipologías de edificios y
+diversidad geográfica del país, con el ahorro de recursos que esto conlleva.
+Medidas:
+14. Desarrollar edificación pública sustentable.
+15. Reducir el consumo de energía en el Sector Público.
+16. Mejorar la eficiencia energética de equipamientos 31 .
+4.3.2.4 Línea de acción 6: Viviendas
+La construcción de viviendas con estándares de sostenibilidad, el mejoramiento de su
+eficiencia energética y la utilización de energías menos contaminantes, son aspectos que
+contribuyen a adaptar el parque habitacional frente a las exigencias y retos que el cambio
+climático supone para las ciudades, mejorando el confort de las personas, y generando ahorros
+en los costos de operación en el largo plazo.
+Medidas:
+17. Reducir la demanda energética en calefacción para nuevas viviendas.
+18. Adecuar el acondicionamiento térmico de viviendas existentes.
+19. Impulsar la calificación de la eficiencia energética de las viviendas
+4.3.3 Eje 3: Reducción y gestión del riesgo de desastres asociados al cambio climático
+Este eje responde a un enfoque transversal con el que fue elaborado el presente Plan, que
+corresponde relevar mediante medidas específicas. La gestión de riesgo de desastres se
+aborda multidimensionalmente, es por ello que algunas de esas dimensiones ya están
+abordadas en los ejes de Planificación Urbana y Ordenamiento Territorial, Infraestructura y
+31 Se entiende por equipamiento las “Construcciones destinadas a complementar las funciones básicas
+de habitar, producir y circular, cualquiera sea su clase o escala”. OGUC
+35
+
+--- Página 36 ---
+Construcción Sostenible, y Gestión Local y Colaboración. A continuación, se desarrollan la línea
+de acción y medidas que responden específicamente a la gestión de riesgo de desastres
+asociados al cambio climático con énfasis en las escalas subnacionales de aplicación.
+4.3.3.1 Línea de acción 7: Reducción de riesgo de desastres y manejo de impactos
+Los impactos observados y proyectados del cambio climático son uno de los factores
+determinantes en la gestión de riesgos de desastres que deben abordar las ciudades. Además
+de las amenazas naturales geofísicas, son los efectos del cambio climático los que gatillarán
+gran parte de los desastres socionaturales sobre las ciudades, lo que amerita la consideración
+de medidas específicas para su gestión y reducción.
+Medidas:
+20. Fortalecer la gobernanza del sistema de alerta temprana a escalas subnacionales ante
+riesgos de desastres vinculados al cambio climático.
+21. Promover la actualización de los planes de emergencia comunales en el marco de esta
+agenda de adaptación al cambio climático y la reducción de riesgo de desastres.
+22. Estudiar el impacto de las olas de calor sumado al efecto de islas de calor urbanas.
+4.3.4 Eje 4: Gestión local y colaboración interinstitucional
+Los impactos del cambio climático requieren de una institucionalidad capaz de establecer una
+coordinación intersectorial y en distintos niveles de acción en el territorio, además de
+instancias de cooperación internacional para fortalecer la transmisión de experiencias, buenas
+prácticas y aportes de financiamiento para el desarrollo de proyectos que reportan beneficios
+climáticos. En ese sentido, se hace necesario definir medidas que favorezcan la colaboración
+nacional e internacional para avanzar en el desarrollo de la acción climática de ciudades.
+4.3.4.1 Línea de acción 8: Generación de capacidades y colaboración
+Es necesario que los distintos niveles de administración territorial cuenten con herramientas e
+información que permitan desarrollar planes, acciones y metas en respuesta a las necesidades
+específicas de cada territorio para avanzar en términos de adaptación al cambio climático.
+Asimismo, la coordinación y colaboración intersectorial para abordar los desafíos del cambio
+climático, conjuntamente con el desarrollo de relaciones de cooperación internacional,
+permite consolidar vías institucionales para responder de manera adecuada a este desafío en
+36
+
+--- Página 37 ---
+el país. Asimismo, resulta fundamental avanzar en el establecimiento de acuerdos público ‐
+privados que permitan materializar distintos objetivos en materia de mitigación y adaptación,
+estableciendo sinergias que, abordadas desde ambos sectores, pueden resultar beneficiosas.
+23. Fortalecer el desarrollo de capacidades municipales para la adaptación al cambio
+climático.
+24. Fortalecer la coordinación intersectorial para abordar los desafíos del cambio climático
+a nivel de ciudades.
+25. Propiciar relaciones de cooperación internacional para fortalecer la capacidad de
+adaptación climática en ciudades.
+26. Generación de asociaciones público ‐ privadas de cooperación y acción frente al cambio
+climático.
+4.3.4.2. Línea de acción 9: Gestión
+La adaptación de las ciudades al cambio climático revela que desde la gestión pública se
+impulsan distintas acciones, que son coincidentes frente a este propósito común. Relevar
+algunas de estas iniciativas públicas permite su reconocimiento, buscando tanto su
+continuidad como el impulso de nuevas acciones que contribuyan en materia de adaptación.
+Medidas:
+27. Acciones para la sustentabilidad ambiental en un contexto de cambio climático en las
+ciudades intermedias de Chile mediante metodología ICES.
+28. Potenciar acciones para la reducción de riesgo de desastres en barrios.
+29. Implementación de las medidas de acción de la Estrategia Nacional de Cambio
+Climático y Recursos Vegetacionales (ENCCRV) (2017 ‐ 2025) de Chile aportantes al Plan
+de Adaptación al Cambio Climático para Ciudades.
+30. Implementación de Planes de Descontaminación Atmosférica: Estrategia 2014 ‐ 2018.
+31. Apoyar la implementación de la contribución nacional de Chile en el sector de residuos
+a través del Programa Chile ‐ Canadá
+4.3.5 Eje 5: Difusión
+37
+
+--- Página 38 ---
+Combatir el cambio climático requiere de la difusión de programas, campañas y
+recomendaciones para promover la sostenibilidad, la mitigación del riesgo, y el desarrollo de
+respuestas adecuadas frente a los impactos del cambio climático, entregando información útil
+a la ciudadanía para promover su empoderamiento frente al tema. De esta forma se busca
+asegurar mayor efectividad de los programas y sistemas diseñados para prevenir los impactos
+del cambio climático.
+4.3.5.1 Línea de acción 10: Acciones de difusión
+Busca sensibilizar a la población en temas de salud pública, uso eficiente de recursos,
+estándares y recomendaciones de construcción sostenible; capacitando a los distintos sectores
+de la sociedad en temas atingentes con el cambio climático, expandiendo el conocimiento
+sobre las distintas acciones desarrolladas desde el sector público en esta materia.
+Medidas:
+32. Desarrollar e implementar, en coordinación con la autoridad sanitaria, programas
+específicos de prevención y fomento de la salud urbana en el contexto de los riesgos
+del cambio climático.
+33. Campañas de información, sensibilización y capacitación para reducir el consumo
+energético y el uso más eficiente del agua potable.
+34. Difusión de recomendaciones para espacios públicos y edificaciones sostenibles.
+35. Sensibilizar y capacitar a la ciudadanía en ámbitos de la adaptación al cambio climático
+en ciudades, en el marco de la Academia de Formación Ambiental.
+38
+
+--- Página 39 ---
+5. EVALUACIÓN Y MONITOREO DEL PLAN DE CIUDADES
+La evaluación del Plan de Adaptación al cambio climático para ciudades, de acuerdo a los
+lineamientos establecidos en el Plan Nacional de Adaptación al Cambio Climático, se
+desarrollará a través de informes anuales de seguimiento que den cuenta de los avances
+logrados, así como también, de las razones de incumplimiento en la implementación de
+medidas. En este sentido, se deberán indicar, si correspondiera, las correcciones o
+modificaciones necesarias de realizar sobre los compromisos originalmente establecidos,
+señalando las alternativas que permitan superar los obstáculos.
+Este seguimiento deberá apoyarse en el uso de indicadores sobre el nivel de cumplimiento de
+actividades, de acuerdo a las responsabilidades señaladas en cada una de las medidas de
+acción propuestas en el Plan.
+En el quinto año de implementación, se realizará una evaluación sobre la eficacia en la
+implementación de medidas del Plan, antecedentes que serán considerados para la
+actualización del Plan, según disponga el Consejo de Ministros para la Sustentabilidad o la
+autoridad correspondiente.
+El organismo responsable de realizar los informes de seguimiento anuales, sobre la base de los
+reportes de avance elaborados por el ETICC, corresponderá a la División de Cambio Climático,
+del Ministerio de Medio Ambiente.
+39
+
+--- Página 40 ---
+6. MEDIDAS Y ACCIONES
+6.1 Eje 1: Planificación urbana y ordenamiento territorial
+6.1.1 Línea de acción 1: Instrumentos de planificación territorial y normas urbanas
+Medida 1
+Título Perfeccionar la identificación del riesgo en las distintas escalas de planificación territorial
+Eje estratégico Planificación urbana y ordenamiento territorial
+Línea de acción Instrumentos de planificación territorial y normas urbanas
+Mejorar la identificación de áreas de riesgo y normativa asociada atendiendo los distintos
+Objetivo niveles de planificación territorial
+El riesgo de origen natural o antrópico (que puede verse agravado por factores climáticos y
+no climáticos) puede ser abordado desde la prevención en distintas escalas territoriales. En
+este sentido, la principal herramienta para abordar los distintos tipos de riesgos, es la
+planificación. Por esta razón, resulta relevante actualizar los contenidos de los estudios de
+riesgo (que son obligatorios para la formulación y modificación de los Instrumentos de
+Planificación Territorial (IPT); Art. 2.1.10. y 2.1.17. de la Ordenanza General de Urbanismo y
+Construcciones (OGUC), atendiendo la interescalaridad de los análisis, generando resultados
+Descripción coherentes para los distintos niveles de planificación. EN este sentido también es
+Escalas Nacional, regional, intercomunal y comunal
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Perfeccionar la
+identificación del riesgo en
+las distintas escalas de Incorporar modificaciones a
+ordenamiento y la Ordenanza
+planificación territorial, en General de Urbanismo y
+consideración del cambio Construcciones que
+climático y enfoque integral permitan mejorar el análisis
+de reducción de riesgo de del riesgo en la
+1 desastres. panificación. (Art. 2.1.17.) 2018 ‐ 2019 MINVU
+Formular lineamientos para Publicación de guía
+perfeccionar el contenido metodológica que
+de los Estudios de Riesgo perfeccione el contenido
+para la formulación de IPT, de los Estudios de Riesgo
+atendiendo las distintas para la formulación de IPT
+2 escalas de planificación. en sus distintas escalas. 2018 ‐ 2022 MINVU
+Incluir dentro de las Formulación y aplicación Permanente a
+3 condiciones de elegibilidad de parámetro adicional de partir de MINVU
+40
+
+--- Página 41 ---
+del Programa de Asistencia elegibilidad del Programa 2020.
+Técnica y Financiera de IPT de Asistencia Técnica y
+del MINVU, de un enfoque Financiera de IPT del
+integral de adaptación al MINVU.
+cambio climático y
+reducción de riesgo de
+desastres, impulsando un
+enfoque preventivo.
+Elaboración de los PROT en
+consideración de las Incluir la problemática del
+directrices establecidas en cambio climático en la
+el Objetivo Estratégico N° 3 Guía Metodológica para la
+4 de la PNOT Elaboración de PROTs
+Colaboradores Municipios, ONEMI, SUBDERE, MOP, SERNAGEOMIN, GORE y Academia.
+41
+
+--- Página 42 ---
+Medida 2
+Mejorar la identificación y protección de áreas de valor ambiental relevantes para las
+Título ciudades
+Eje estratégico Planificación urbana y ordenamiento territorial
+Línea de acción Instrumentos de planificación territorial y normas urbanas
+Proteger legalmente aquellas áreas que proveen servicios ecosistémicos que son relevantes
+para las ciudades, e impulsar su incorporación en los instrumentos de planificación y de
+ordenamiento territorial. Asimismo, la medida busca estandarizar los contenidos de los
+estudios de protección ambiental vinculados a la formulación y actualización de Instrumentos
+Objetivo de Planificación Territorial.
+Los Instrumentos de Planificación Territorial reconocen aquellas zonas o elementos de valor
+natural protegidos por el ordenamiento jurídico vigente, no obstante, pueden existir áreas de
+valor natural que no cuentan con protección legal, por lo que no resultan vinculantes para los
+IPT. Respecto de estas áreas es necesario generar mecanismos de protección legales o
+reglamentarios que habiliten su reconocimiento por parte de estos instrumentos,
+garantizando su resguardo. Asimismo, actualmente los estudios de protección ambiental
+definidos en la normativa urbana (2.1.10. y 2.1.18. de la OGUC) deben contener la base de los
+fundamentos señalados en la Memoria Explicativa de los Planes Reguladores, no obstante, la
+elaboración de estos estudios carece de estándares metodológicos que permitan nivelar sus
+contenidos básicos, aspectos que pueden ser definidos desde el Estado, brindando mayor
+agilidad al proceso de elaboración de IPT, y certeza en la toma de decisiones sobre las áreas de
+Descripción protección.
+Escalas Nacional, regional, intercomunal, comunal
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Línea base de
+biodiversidad y servicios
+ecosistémicos (oferta y Línea base de biodiversidad y
+demanda) para las áreas servicios ecosistémicos (oferta
+urbanas y periurbanas y y demanda) para las áreas
+1 generación urbanas y periurbanas 2018 ‐ 2022 MMA, CONAF
+Elaboración de estándar
+de provisión de servicios
+ecosistémicos, que
+Protocolo de caracterización
+permita clasificar zonas e de servicios ecosistémicos
+2 identificar brechas diferenciado por zonas. 2018 ‐ 2022 MMA, CONAF
+Generar guía para la
+elaboración de Estudios Licitación para la elaboración
+de Protección Ambiental de una Guía metodológica que
+para Instrumentos de oriente sobre los contenidos
+3 Planificación Territorial. de los Estudios de Protección 2019 ‐ 2022 MINVU
+42
+
+--- Página 43 ---
+Ambiental para la formulación
+de IPT, en sus distintas escalas.
+Propuesta de
+perfeccionamiento de la
+normativa vigente referida a
+los Estudios de Protección
+Ambiental (Art. 2.1.7; 2.1.10.
+OGUC)
+Colaboradore s MINVU, Municipios
+43
+
+--- Página 44 ---
+Medida 3
+Avanzar en la definición de estándares de planificación y urbanización para evitar lesiones o
+Título pérdida de vidas, medios de subsistencia y bienes ante impactos climáticos.
+Eje estratégico Planificación urbana y ordenamiento territorial
+Línea de acción Instrumentos de planificación territorial y normas urbanas
+Se busca definir procedimientos y criterios que permitan proteger la salud y la vida, además de
+evitar pérdidas de bienes y medios de subsistencia, a través de estándares para la planificación
+y la urbanización. Estos deberán permitir una adecuada evacuación de zonas de riesgo,
+permanencia en zonas seguras, ubicación de equipamientos esenciales y mitigación del
+Objetivo alcance o propagación de los impactos asociados a eventos extremos.
+Si bien la LGUC establece que las obras de urbanización deberán mitigar los riesgos al
+encontrarse en áreas definidas como tal, y cumplir con estándares que faciliten la evacuación
+de las personas desde estas áreas, los estándares de urbanización no han sido definidos por la
+Descripción OGUC. En este sentido se propone avanzar en el desarrollo de estos estándares.
+Escalas Nacional, regional, intercomunal y comunal
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Definición de criterios y
+Definición de criterios para modificación a la
+la ubicación y redundancia Ordenanza General de
+de equipamientos que Urbanismo para exigir estos
+deben mantenerse en criterios a los
+funcionamiento durante equipamientos que se
+eventos climáticos categoricen como
+1 extremos. esenciales. 2018 ‐ 2019 MINVU
+Estudio para la definición
+de estándares de
+urbanización que permitan
+facilitar la evacuación de
+zonas de riesgo.
+Publicación de guía de
+recomendaciones que
+consolide los resultados
+Avanzar en la definición de del estudio.
+estándares de urbanización
+para facilitar la evacuación Realización de
+hacia zonas seguras ante modificaciones
+eventos climáticos reglamentarias
+2 extremos. correspondientes. 2018 ‐ 2022 MINVU
+44
+
+--- Página 45 ---
+Estudio para determinar
+las condiciones que deben
+tenerse en cuenta para
+Definición de criterios que medir el riesgo de que
+permitan prevenir y manejar incendios forestales
+los efectos de los incendios afecten centros poblados y
+forestales sobre los centros propuesta de medidas
+3 poblados. para mitigarlo. 2019 ‐ 2020 MINVU
+Estudio para definir
+recomendaciones que
+permitan a las ciudades
+determinar las
+características con que
+Definición de estándares deben cumplir los
+para la habilitación de albergues a habilitar
+albergues durante eventos durante eventos climáticos
+4 climáticos extremos. extremos. 2019 ‐ 2020 MINVU
+Colaboradores ONEMI, GOREs, CONAF
+45
+
+--- Página 46 ---
+6.1.2 Línea de acción 2: Movilidad urbana
+Medida 4
+Avanzar hacia una planificación urbana integrada, incorporando elementos de movilidad
+Título urbana
+Eje estratégico Planificación urbana y ordenamiento territorial
+Línea de acción Movilidad urbana
+Incorporar la movilidad urbana como elemento clave para la formulación y modificación de
+Objetivo IPT.
+La normativa urbana puede avanzar hacia una mayor integración, reconociendo las relaciones
+de interdependencia entre usos de suelo y movilidad y fomentando las que eviten
+problemáticas ambientales, de acuerdo a las distintas realidades geográficas y especificidad
+Descripción local.
+Escalas Intercomunal y comunal
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Elaboración de una guía
+metodológica para la
+incorporación del concepto
+y análisis de movilidad
+urbana sustentable,
+Realización de consultoría complementario a los
+para desarrollar propuesta estudios de Capacidad Vial
+de incorporar estudios de a la formulación y
+1 movilidad a los IPT. modificación de los IPT. 2017 ‐ 2019 MINVU
+Propuesta de decreto para
+incluir el concepto de ‐ Definición en la OGUC del
+“movilidad urbana” en la concepto de “movilidad
+OGUC, en el marco de la urbana”.
+reglamentación de la ley de
+aportes al espacio público. ‐ Realización de consultoría
+para incorporar estudios de
+2 movilidad a los IPT. 2017 ‐ 2019 MINVU
+Formulación de Publicación de guía
+recomendaciones para la metodológica para la
+elaboración de Planes de elaboración de Planes de
+3 Movilidad Urbana. Movilidad Urbana. 2018 ‐ 2022 MTT
+Definición de Estudio para
+recomendaciones e recomendaciones más
+incentivos para fomentar la efectivas e incentivos más
+mixtura de uso de suelos y adecuados.
+caminabilidad de las
+ciudades, generando menor Publicación de guía de
+4 necesidad de viajes largos y recomendaciones, que 2019 ‐ 2020 MINVU
+46
+
+--- Página 47 ---
+la utilización de modos que puedan incorporarse a los
+generan más emisiones. IPT, de acuerdo con los
+artículos 183 y 184 de la
+LGUC.
+Colaboradores Municipios, GOREs
+Medida 5
+Título Fomentar la intermodalidad, incorporando modos colectivos y no motorizados
+Eje estratégico Planificación urbana y ordenamiento territorial
+Línea de acción Movilidad urbana
+Objetivo Propiciar la partición modal no motorizada.
+Es prioritario relevar iniciativas de vialidad urbana que promueven modos no motorizados de
+transporte, que atiendan integralmente el concepto de movilidad urbana. Esto involucra
+impulsar proyectos que incorporen las condiciones óptimas para caminar y desplazarse en
+Descripción bicicleta en la ciudad, potenciando la integración intermodal, bajo un enfoque de inclusión.
+Escalas Nacional, regional, local
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Incorporación de requisitos
+de diseño en las líneas de
+inversión sectorial que Actualización y Revisión
+intervengan sobre el espacio permanente de normas y
+público, para garantizar el recomendaciones para el
+cumplimiento de la diseño y construcción de
+accesibilidad universal con espacios públicos
+1 calidad. universalmente accesibles Permanente MINVU
+Establecer exigencias
+respecto de accesibilidad
+universal, caminabilidad
+ciclo ‐ inclusión e integración
+Potenciar la Integración de modal en los Términos de
+diferentes modos de Referencia y Bases Técnicas
+transporte en los proyectos de los estudios y diseños
+viales, así como su viales contratados por el
+2 intermodalidad. Sector MINVU Permanente MINVU
+47
+
+--- Página 48 ---
+Sistematización de los datos
+levantados a partir del
+monitoreo con contadores, Publicación de resultados
+analizarlos y generar de análisis de datos
+indicadores de uso efectivo realizados por equipos
+3 de las ciclovías instaladas. internos del MINVU Permanente MINVU
+Colaboradores Municipios, MTT, Organizaciones Sociedad Civil, MOP
+Medida 6
+Título Mejorar el sistema de transporte público de las ciudades
+Eje estratégico Planificación urbana y ordenamiento territorial
+Línea de acción Movilidad urbana
+Reducir emisiones de GEI a través del mejoramiento de los sistemas de transportes de las
+Objetivo grandes ciudades y de las de tamaño medio.
+La planificación de transporte urbano, labor que realiza el Programa de Vialidad y Transporte
+Urbano, SECTRA, dependiente del Ministerio de Transportes y Telecomunicaciones, tiene
+como objetivo principal mejorar la operación de los sistemas de transporte urbano de las
+grandes ciudades y de las de tamaño medio. Para estos efectos, se elaboran, actualizan y se
+realiza seguimiento a los Planes Maestros de Transporte Urbano, los cuales involucran
+inversiones en una cartera de proyectos de infraestructura y gestión de transporte,
+orientadas al desarrollo de los Sistemas de Transporte Urbano, en concordancia con las
+políticas de transporte y de desarrollo urbano previsto para las ciudades. Estas inversiones
+consideran infraestructura vial, incluyendo ciclovías, mejoramiento del transporte público,
+sistemas automáticos de control de tránsito y medidas de gestión, todo ello con el propósito
+que el sistema de transporte multimodal de las ciudades responda a las necesidades de
+transporte de personas y productos mercantiles, actuales y futuras de los habitantes,
+empleando en la elaboración de dichos Planes criterios de eficiencia y optimización desde el
+punto de vista social. Ello tiene como consecuencia reducciones de emisiones de gases de
+efecto invernadero, GEI, generadas por los ahorros de los consumos de combustibles del
+sistema de transporte en su conjunto, ahorro que es estimado comparando los consumos del
+Plan versus una situación base optimizada. De esta manera y con la finalidad de cumplir con
+esta medida específica, se planea actualizar los Planes de Transporte Urbano y, a su vez,
+Descripción evaluar las emisiones de CO2 asociadas a estos.
+Escalas Regional, intercomunal y comunal
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+48
+
+--- Página 49 ---
+Reducciones de emisiones
+de gases de efecto
+invernadero, GEI,
+generadas por los ahorros
+de los consumos de
+combustibles del sistema
+Actualizar los Planes de de transporte en su
+Transporte Urbano conjunto.
+1 Permanente MTT
+Desarrollar y/o actualizar
+metodologías y
+herramientas para el
+Evaluar las emisiones de análisis y evaluación de las
+CO2 asociadas a los Planes emisiones de CO2 del
+2 de Transporte Urbano. transporte urbano. Permanente MTT
+Colaboradores MDS, MINVU.
+49
+
+--- Página 50 ---
+6.2 Eje 2: Infraestructura y construcción sostenible
+6.2.1 Línea de acción 3: Inversión en infraestructura
+Medida 7
+Título Fortalecer la adaptación al cambio climático desde las inversiones en infraestructura pública
+Eje estratégico Infraestructura y construcción sostenible
+Línea de acción Inversión en infraestructura
+Avanzar en el desarrollo de infraestructura que permita reducir los impactos negativos del
+cambio climático en las ciudades, reduciendo el riesgo de desastres, y asegurando el
+Objetivo funcionamiento de los servicios.
+El diseño y construcción de proyectos de infraestructura puede ser abordado como una
+herramienta de gestión para minimizar impactos negativos del cambio climático, en especial
+tratándose de eventos climáticos extremos. En este sentido, la gestión concertada de la
+inversión pública en infraestructura con incidencia directa sobre el territorio en sus distintas
+escalas, puede contribuir a la resiliencia de las ciudades, asegurar el funcionamiento de
+Descripción servicios, y en definitiva, una mejor adaptación a los efectos del cambio climático.
+Escalas Regional, intercomunal y comunal
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Generar nuevos estándares
+de diseño y construcción de
+proyectos desde una
+perspectiva de adaptación
+al cambio climático y Guía con recomendaciones
+gestión de riesgo de de diseño de la MOP ‐ MINVU
+1 desastres infraestructura pública 2018 ‐ 2022 ‐ GORE
+Generar procedimientos
+para la protección de
+Infraestructura Hidráulica,
+Evacuación y Drenaje de
+Elaborar programas de Aguas Lluvias, y Obras de
+protección del territorio Manejo de Cauce y Control
+2 frente a lluvias intensas Aluvional 2018 ‐ 2022 MOP ‐ MINVU
+‐ Generación de una Base
+de Datos de Climas de
+Oleaje Estandarizada para
+Incorporación de cambios el establecimiento de
+metodológicos en la etapa Solicitaciones para el
+de desarrollo de obras de Diseño de Obras Costeras.
+infraestructura en zonas ‐ Revisión y Actualización
+3 costeras de Normativas Vigentes y 2018 ‐ 2022 MOP
+50
+
+--- Página 51 ---
+Metodologías de Análisis
+Estadísticos de Series de
+Tiempo
+Colaboradores MDS, MBN, SHOA, MTT, Municipios
+Medida 8
+Título Impulsar la gestión del agua frente a los impactos del cambio climático
+Eje estratégico Reducción y gestión del riesgo de desastres asociados al cambio climático
+Línea de acción Reducción de riesgo de desastres y manejo de impactos
+Racionalizar el uso de agua potable frente a los efectos del cambio climático como son las
+Objetivo sequías y las lluvias intensas.
+Se proyecta una reducción considerable de precipitaciones y de los reservorios de agua dulce,
+con la consecuencia de una menor disponibilidad de recursos hídricos en la mayor parte del
+país. También, producto de eventos climáticos extremos, como son las sequías y las lluvias
+intensas, (éstas últimas asociadas a procesos de remoción en masa y aluviones), se hace
+necesario establecer medidas en torno a la gestión del agua para asegurar el abastecimiento
+de la población.
+En situaciones de escasez hídrica, se requiere como primer paso una racionalización del uso
+del agua, privilegiando el agua potable para consumo doméstico, antes de considerar fuentes
+alternativas de alto costo para los usuarios como la desalación. En la misma línea de análisis,
+también se hace necesario aumentar la capacidad de almacenamiento de agua potable en
+ciudades que sistemáticamente están expuestas a eventos asociados a aluviones,
+inundaciones y sequías, como también en aquellas ciudades con mayores problemas en la
+disponibilidad de agua.
+Junto con lo anterior, se requiere mayor eficiencia sobre la infraestructura sanitaria,
+específicamente lo relacionado con las pérdidas físicas en las redes de distribución de las
+Descripción empresas sanitarias que operen en las zonas declaradas con sequías.
+Escalas Nacional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Identificación de los
+recursos y acciones Estudio de nivel nacional
+necesarias (técnicos, identificando, desde un
+económicos y humanos) marco prospectivo, las
+1 para la implementación de alternativas de 2018 ‐ 2022 MOP (SISS)
+51
+
+--- Página 52 ---
+la racionalización de uso del racionalización de agua en
+agua. ciudades.
+Priorización de ciudades en
+función de las proyecciones
+de precipitaciones y de los ‐ Efectuar un estudio del
+riesgos de eventos impacto del cambio
+extremos (sequías, climático en la
+inundaciones) para la infraestructura sanitaria, a
+implementación de fin de promover medidas
+medidas adaptativas en la adaptativas.
+2 infraestructura sanitaria. 2018 ‐ 2022 MOP (SISS)
+Contar con un proceso de
+Planificación de planificación y medidas
+infraestructura sanitaria y operacionales para reducir
+medidas operacionales para el volumen de pérdidas de
+reducir el nivel de pérdidas agua potable en ciudades
+físicas de agua potable en afectadas por sequías
+las ciudades afectas a sequía atribuibles al cambio
+3 analizadas. climático. 2018 ‐ 2022 MOP (SISS)
+Elaborar un Plan de
+Planificación de infraestructura sanitaria
+infraestructura que para aumentar la
+permitan aumentar la capacidad de
+capacidad de agua almacenamiento en
+almacenada en función de la ciudades afectadas por
+realidad territorial de la sequías atribuibles al
+4 ciudad analizada. cambio climático 2018 ‐ 2022 MOP (SISS)
+Colaboradores MINSAL, Empresas Sanitarias, MMA, MINVU
+Medida 9
+Título Incorporar el cambio climático en la evaluación social de proyectos de ciudad
+Eje estratégico Infraestructura y construcción sostenible
+Línea de acción Inversión en infraestructura
+Considerar y analizar los efectos del cambio climático en la preparación y evaluación social de
+Objetivo proyectos de infraestructura pública
+La incorporación del cambio climático en la evaluación de proyectos que ingresan al Sistema
+Nacional de Inversiones (SNI) implica un aumento de la incertidumbre de los beneficios y
+costos del proyecto de inversión, sumado a un horizonte de evaluación mayor. Por lo
+anterior, es pertinente analizar los criterios necesarios para analizar, por una parte, la
+Descripción incertidumbre climática y la susceptibilidad sobre proyectos de inversión, y por otra parte,
+52
+
+--- Página 53 ---
+incorporar aspectos de reducción de emisiones y eficiencia energética en proyectos de
+inversión pública.
+Escalas Nacional, regional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Guía metodológica para
+Desarrollar metodología incorporar el enfoque de
+para la incorporación del cambio climático a nivel de
+cambio climático en el las normas, instrucciones y
+sistema de la evaluación procedimientos de
+social de proyectos de inversión pública (Sistema
+1 inversión pública Nacional de Inversiones) 2018 ‐ 2022 MDS
+Capacitar a los funcionarios
+que aplicarán dichas
+metodologías e
+implementación de la guía Funcionarios de todos los
+en la evaluación social de servicios públicos
+proyectos de inversión atingentes capacitados a
+2 pública 2019 2019 ‐ 2022 MDS
+Colaboradores SUBDERE, MINVU, MOP, MMA, ONEMI
+Medida 10
+Título Impulsar proyectos de infraestructura verde en ciudades
+Eje estratégico Infraestructura y construcción sostenible
+Línea de acción Inversión en infraestructura
+Avanzar en el manejo de la infraestructura verde en ciudades, e impulsar proyectos piloto a
+Objetivo distintas escalas.
+La Infraestructura Verde corresponde a un conjunto de elementos de distinta escala
+reconocidas por sus formas tradicionales (como los parques y jardines), y por nuevos enfoques
+como son las cubiertas y azoteas verdes, jardines verticales, eco ‐ pavimentos, urban farming ,
+bosques urbanos entre otros. La Infraestructura Verde, en un contexto de cambio climático,
+puede integrar sinergias de mitigación y adaptación que pueden contribuir a una mejor
+Descripción calidad de vida, (contrarrestando islas de calor, protección contra inundaciones, mejor calidad
+53
+
+--- Página 54 ---
+del aire, reducción de contaminación acústica, entre otros efectos.)
+Escalas
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Guía de recomendaciones
+de diseño para construcción
+Definición de estándares de de parques urbanos
+construcción de parques sustentable.
+1 sustentables 2018 ‐ 2020 MINVU
+Potenciar instancias de
+Coordinación intersectorial
+para elaboración de planes Conformación de MMA,
+estratégicos de instancias intersectoriales, MINVU,
+infraestructura verde, en regionales y locales, para GORE,
+consonancia con PROT, la definición y SEREMI´s,
+PLADECO, IPT´s y planes de programación de planes de CONAF,
+2 inversión. infraestructura verde. 2018 ‐ 2022 Municipios.
+Vincular, mediante
+circulares de la División de
+Desarrollo Urbano (DDU) o
+instructivos, a la
+reglamentación del
+artículo 184 de la LGUC, a
+fin de explicitar el
+desarrollo de
+infraestructura verde
+como parte integrante de
+los “desarrollos de
+espacios públicos o
+mejoramiento de los ya
+existentes” susceptibles de
+recibir incentivos de
+Integrar el desarrollo de normas urbanísticas en los
+infraestructura verde en la planes reguladores.
+3 normativa urbana 2018 ‐ 2020 MINVU
+Colaboradores MDS, , GORE´s, SUBDERE, Municipios, Academia (regiones).
+54
+
+--- Página 55 ---
+6.2.2 Línea de acción 4: Espacio público
+Medida 11
+Avanzar hacia una concepción de espacio público como soporte para la adaptación al cambio
+Título climático.
+Eje estratégico Infraestructura y construcción sostenible
+Línea de acción Espacio público
+Concebir el espacio público, a partir de sus distintas funciones y potencialidades, como
+dimensión espacial básica de adaptación al cambio climático, generando diseños armónicos
+Objetivo y pertinentes con la identidad urbana y escenarios ambientales
+El espacio público es capaz de mejorar las condiciones de vida y habitabilidad, nos solo
+desde el punto de vista del uso cotidiano, sino también desde una perspectiva funcional con
+el cambio climático y sus efectos.
+Junto con implementar la Guía de Recomendaciones de Diseño de Espacios Públicos del
+MINVU, que permitirá el desarrollo proyectos más armónicos con su entorno, se requiere
+avanzar en diseños que aborden soluciones como son la capacidad de absorción del agua
+lluvias, contención de crecidas fluviales y marejadas intensas, regular las islas de calor,
+capturar el CO2 de las ciudades, reducir el impacto de crecidas fluviales o marejadas
+intensas, e incluso permitir la preservación de espacios para desarrollo de la biodiversidad,
+Descripción entre otros beneficios relativos a la escala del espacio público.
+Escalas Regional, local
+Acciones
+Responsa
+Número Acción Resultado esperado Plazo ble
+Implementación de la Guía
+recomendaciones de Diseño para
+Espacios Públicos.
+Propiciar proyectos de
+espacio público armónicos Actualizar reglamento del Programa
+1 con su entorno y clima de Espacios públicos 2018 ‐ MINVU
+Potenciar proyectos de
+parques en las ciudades
+con enfoque de
+sustentabilidad, que Guía de diseño de parques urbanos y
+mejoren la capacidad de áreas verdes bajo un enfoque de
+adaptación de las ciudades sustentabilidad y adaptación al 2019 ‐
+2 al cambio climático. cambio climático 2022 MINVU
+Fomentar la elaboración
+de planes de paisajismo y
+arborización sustentable Planes maestros de paisajismo en 2018 ‐
+3 en las ciudades Programa Quiero Mi Barrio. 2022 MINVU
+Financiamiento de
+proyectos sectoriales para Desarrollo de nuevos proyectos con
+la incorporación de criterios sustentables que utilicen
+criterios sustentables los recursos de manera eficiente,
+reunidos en el Manual de para asegurar su calidad durante su 2018 ‐
+4 Elementos Urbanos operación. 2022 MINVU
+55
+
+--- Página 56 ---
+Sustentables
+Colaboradores GORE; Municipios.
+Medida 12
+Título Reducir el consumo de energía en el espacio público
+Eje estratégico Infraestructura y construcción sostenible
+Línea de acción Espacio público
+Objetivo Reducir el consumo energético asociado al alumbrado público en los municipios
+Plantea el recambio de luminarias públicas a nivel país, cambiando antiguos dispositivos por
+tecnología LED, involucrando ahorros en el uso de energía. Durante 4 años, con fracciones
+iguales por año, los municipios concursarán por recambio tecnológico de luminarias por
+Descripción tecnología LED
+Escalas Municipal
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+2018 se
+finalizará la
+ejecución de MINENERGIA
+Generar el recambio de Recambio de 200.000 proyectos (a (División de
+luminarias públicas a nivel luminarias públicas a nivel 2017, 70% de Eficiencia
+1 nacional país ejecución). Energética)
+Colaboradores Municipios, AChEE, MMA, CIFES
+56
+
+--- Página 57 ---
+Medida 13
+Título Fomentar la utilización eficiente del recurso hídrico en el espacio público
+Eje estratégico Infraestructura y construcción sostenible
+Línea de acción Espacio público
+Racionar el recurso hídrico en el espacio público para asegurar su utilización eficiente,
+Objetivo evitando gastos excesivos
+Los espacios públicos destinados a áreas verdes como parques y plazas, cumplen un rol
+relevante para la mitigación y adaptación a los efectos del cambio climático en las ciudades.
+El uso eficiente del recurso hídrico para la mantención de estas áreas es clave para asegurar
+el recurso en el tiempo, sobre todo en regiones y comunas afectadas por sequías y situación
+de estrés hídrico. Por otra parte, las especies vegetacionales deben ser priorizadas según su
+pertinencia con el clima local, promoviendo el uso de especies nativas y de baja necesidad
+hídrica. El desarrollo tecnológico, además, permitirá mejorar aspectos como la captura y
+Descripción reutilización de las aguas para riego.
+Escalas Regional, Local
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Confección de guías
+regionales para la
+identificación, selección y
+manejo de especies
+vegetacionales en áreas
+urbanas y periurbanas que Guía para la selección y
+sean pertinentes con el manejo de especies
+clima local (Se empalma vegetacionales en áreas
+1 con ENCCRV) urbanas 2018 ‐ 2022 CONAF
+Estudiar la oferta de agua
+para riego de parques y
+áreas verdes, y fuentes
+alternativas al agua
+potable, buscando
+garantizar su
+abastecimiento mediante la
+redundancia de estas Establecer parámetros de
+fuentes, (por ejemplo, pozo oferta territorial de agua
+profundo más estanque, o para riego, dilucidando
+estanque más agua capacidades de mantención CONAF ‐
+potable, agua de pozo o de en los municipios MINVU ‐
+2 canal). 2018 ‐ 2022 Municipios
+57
+
+--- Página 58 ---
+Desarrollo de técnicas de
+Incentivar el uso de captación de aguas ‐ lluvia
+tecnologías de reutilización en proyectos de
+de agua para riego. construcción de Parques
+3 de gran superficie 2018 ‐ 2020 CONAF
+MDS, MMA, MOP (SISS), MINSAL, Agencia de Sustentabilidad y Cambio Climático, Red
+Colaboradores Chilena de Municipios Frente al Cambio Climático, Universidades, Empresas Sanitarias
+58
+
+--- Página 59 ---
+6.2.3 Línea de acción 5: Edificios públicos
+Medida 14
+Título Desarrollar edificación pública sustentable
+Eje estratégico Infraestructura y construcción sostenible
+Línea de acción Edificios públicos
+Continuar e implementar en edificios de uso público e infraestructura pública el diseño pasivo
+y la eficiencia energética (EE), a través de los Términos de referencia estandarizados de
+eficiencia energética y confort ambiental (TDRe, en adelante) de la Dirección de Arquitectura
+(DA) del MOP y la exigencia de la Certificación para Edificios Sustentables (CES) e
+Objetivo Infraestructura Sustentable.
+Con los TDRe en EE, se busca consolidar el diseño arquitectónico pasivo, la eficiencia
+energética y el confort ambiental de acuerdo a tipologías de edificios y diversidad geográfica
+del país.
+La Certificación Edificio Sustentable (CES), es el sistema que consolida el proceso, al evaluar,
+clasificar y certificar el grado de sustentabilidad ambiental del edificio, entendiendo esta como
+la capacidad de un edificio de lograr niveles adecuados de calidad ambiental interior, con un
+uso eficiente de recursos (agua, energía y materiales) y baja generación de residuos y
+emisiones de gases de efecto invernadero, protegiendo los recursos naturales.
+Actualmente se aplica en edificios de uso público de Chile, del área de salud, educación,
+oficinas, seguridad, deportes, etc.
+La CES está diseñada para responder al sistema nacional de inversiones de acuerdo a las
+distintas etapas de financiamiento a las que postula un proyecto de Inversión. Sus productos
+son:
+Pre ‐ certificación: considera el proyecto de arquitectura, estructura e instalaciones.
+Certificación: con el proyecto construido.
+Certificación con Sello “Plus Operación” Para edificios en operación.
+Nivel de Certificación:
+“Edificio Certificado”: 30 a 54,5 puntos
+“Certificación Destacada”: 55 a 69,5 puntos
+“Certificación Sobresaliente”: 70 a 100 puntos
+Nota: Cabe señalar que esta medida constituye parte de las acciones definidas en el Plan de
+Adaptación y Mitigación de los Servicios de Infraestructura al Cambio Climático 2017 ‐ 2022,
+del MOP, no obstante, es integrada en este Plan de Ciudades, dada su pertinencia en el
+Descripción ámbito de las ciudades.
+Escalas Nacional
+Acciones
+59
+
+--- Página 60 ---
+Número Acción Resultado esperado Plazo Responsable
+Licitaciones con fondos
+sectoriales y extra
+sectoriales de la Dirección
+de Arquitectura del MOP
+que refuercen la inclusión
+de requisitos de eficiencia
+energética y/o
+sustentabilidad en sus
+Continuar e implementar bases de Licitación
+en edificios de uso público
+e infraestructura pública el ‐ Contar con la totalidad de
+diseño pasivo y la eficiencia edificios públicos
+energética (EE), a través de diseñados, construidos y
+los Términos de referencia gestionados por el MOP,
+estandarizados de certificados a través del
+eficiencia energética y sistema de Certificación
+1 confort ambiental. Edificio Sustentable (CES). Permanente MOP
+Contar con el desarrollo de
+infraestructura, que
+Ampliar esta certificación al contemple edificación, baja
+área de Infraestructura en carbono, a través de
+Pública del MOP certificación de
+2 infraestructura CES. Permanente MOP
+Colaboradores MINVU, Ministerio de Energía, MDS, MMA.
+60
+
+--- Página 61 ---
+Medida 15
+Título Reducir el consumo de energía en el Sector Público
+Eje estratégico Infraestructura y construcción sostenible
+Línea de acción Edificios públicos
+Establecer buenas prácticas para el uso de la energía en el sector público que sea replicable
+Objetivo en el resto de los sectores de consumo.
+La medida es parte de las acciones definidas en el Plan de Mitigación de Gases de Efecto
+Invernadero para el Sector Energía, siendo una acción que es sinérgica con el ámbito de acción
+del presente Plan, pues busca mejorar la eficiencia energética de los edificios del sector
+Descripción público.
+Escalas Nacional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Construir la línea base de
+consumo de los edificios del
+sector público, a través de la
+plataforma gestiona energía,
+y establecer una red de
+gestores energéticos en
+todos los servicios del sector
+público para implementar
+los de sistemas de gestión
+de la energía
+‐ Establecer una red de
+gestores energéticos en
+todos los servicios del sector
+La meta es que el sector
+público.
+público en su conjunto
+‐ Fomentar la cuente con edificaciones
+implementación de sistemas con mayores eficiencia
+de gestión de la energía y energética, reduciendo el
+auditorías energéticas en aporte en contaminantes
+edificios de alto consumo. locales, impulsando a su
+vez un monitoreo
+Fomentar la contratación de permanente del consumo
+2035
+empresas de servicio para mejorar la gestión (Actualmente
+1 energético ESCOs en el energética. en desarrollo) MINENERGIA
+61
+
+--- Página 62 ---
+sector público en edificios
+de alto consumo, mediante
+el desarrollo de
+instrumentos financieros
+que faciliten la capitalización
+de estos proyectos en el
+sector público.
+Intervención y mejoras a
+edificios del sector público, a
+través del Programa de
+Eficiencia Energética en
+Edificios Públicos (PEEEP) de
+la AChEE.
+Incorporar el análisis y
+estimación de beneficios
+por eficiencia energética en
+Generar un sistema de
+la evaluación social del
+evaluación social de
+inversiones de acuerdo a Sistema Nacional de
+los beneficios de eficiencia Inversiones en proyectos de
+energética en edificios Edificación Pública. 2018 MDS
+2 públicos.
+Colaboradores Servicios públicos
+62
+
+--- Página 63 ---
+Medida 16
+Título Mejorar la eficiencia energética de equipamientos
+Eje estratégico Infraestructura y construcción sostenible
+Línea de acción Edificios públicos
+Incorporación de exigencias de comportamiento térmico a establecimientos de uso
+educacional y de salud, además de su implementación gradual , lo que está en línea con la
+Objetivo Política Energética 2050.
+La propuesta considera el aumento del estándar térmico de elementos que componen la
+Descripción envolvente de las edificaciones, avanzando hacia un futuro requerimiento por desempeño
+Escalas Nacional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Estudio y posterior
+Definir estándares para el modificación a la
+comportamiento térmico Ordenanza General de
+de establecimientos de uso Urbanismo y
+1 educacional y de salud. Construcciones. 2018 ‐ 2021 MINVU
+MINVU,
+Establecer una estrategia MINSAL,
+para la implementación Elaboración de plan de MINEDUC,
+2 gradual de la nueva norma. implementación. 2022 ‐ 2023 MINENERGÍA
+Colaboradores MINENERGÍA, MINSAL, MINEDUC
+63
+
+--- Página 64 ---
+6.2.4 Línea de acción 6: Viviendas
+Medida 17
+Título Reducir la demanda energética en calefacción para nuevas viviendas
+Eje estratégico Infraestructura y construcción sostenible
+Línea de
+acción Viviendas
+Mediante la actualización de la reglamentación térmica de viviendas, se busca reducir en al
+menos un 30% la demanda energética para calefacción en viviendas nuevas al año 2025,
+además de potenciar la construcción de viviendas con criterios de sustentabilidad mínimos y su
+Objetivo sistema de certificación de cumplimiento.
+La propuesta considera el aumento del estándar térmico de elementos que componen la
+envolvente de las edificaciones, avanzando hacia un futuro requerimiento por desempeño
+(eficiencia energética mínima de viviendas).
+Por otra parte, busca consolidar en la construcción de viviendas, el uso de los estándares de
+sustentabilidad complementarios con un sistema de certificación, integrando nuevos atributos
+al mercado. Los estándares de Construcción Sustentable para Viviendas son estándares
+voluntarios para las etapas de diseño, construcción y operación de las viviendas y que cuentan
+con 6 categorías: salud y Bienestar, Energía, Agua, Materiales y Residuos, Impacto ambiental y
+Entorno Inmediato. Por su parte, el sistema de certificación será voluntario y servirá para
+incentivar al mercado en la incorporación de los atributos de sustentabilidad en las diferentes
+etapas de desarrollo de un proyecto residencial.
+Al año 2017 se ha oficializado los estándares de construcción sustentable, no obstante están
+pendientes el sistema de certificación y su oficialización, y el plan de acción o estrategia para la
+Descripción incorporación gradual de estos estándares en el mercado.
+Escalas Nacional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Modificación a la OGUC,
+buscando reducir en al menos
+un 30% la demanda energética
+para calefacción en viviendas
+nuevas al año 2025.
+Implementación gradual,
+Actualización de la partiendo en las zonas con un
+reglamentación térmica de PDA. Implementación a nivel
+1 viviendas nacional al 2020. 2018 ‐ 2021 MINVU
+64
+
+--- Página 65 ---
+Avanzar en la oficialización
+de la certificación de Oficialización de la certificación
+2 Vivienda Sustentable de Vivienda Sustentable 2018 ‐ 2019 MINVU
+Elaboración de un plan
+acción para la
+incorporación gradual de Plan de acción para implementar
+los actores a esta los estándares en el mercado
+3 modalidad constructiva habitacional. 2018 ‐ 2022 MINVU
+Colaboradores MINENERGIA, MMA, actores privados, academia e industria.
+65
+
+--- Página 66 ---
+Medida 18
+Título Adecuar el acondicionamiento térmico de viviendas existentes.
+Eje estratégico Infraestructura y construcción sostenible
+Línea de acción Viviendas
+Mejorar las condiciones de confort térmico al interior de las viviendas existentes,
+disminuyendo las emisiones de gases contaminantes causados por sistemas de calefacción de
+llama abierta, evitando patologías asociados a problemas de condensación, mejorando la
+Objetivo calidad de vida y la adaptación de las viviendas al cambio climático.
+Continuar el programa de acondicionamiento térmico de viviendas económicas construidas
+mediante programas habitacionales MINVU o adquiridas con subsidios del Estado, y mejorar
+el estándar térmico de los proyectos de acondicionamiento térmico de los llamados regulares
+del PPPF a nivel regional, adoptando el nuevo estándar de reglamentación térmica y las
+exigencias establecidas en los Planes de Descontaminación Atmosférica (PDA). Asimismo, se
+Descripción busca ampliar la incorporación de Energías Renovables en las viviendas.
+Escalas Nacional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Priorización, mediante
+llamados provinciales y
+Ampliar la cobertura del comunales, las regiones de
+Programa de Coquimbo, Valparaíso y
+Acondicionamiento térmico Región Metropolitana,
+de viviendas económicas focalizando áreas de alta
+construidas con subsidio demanda energética en
+1 Estatal calefacción. 2018 ‐ 2020 MINVU
+Mejorar el estándar térmico
+de las viviendas existentes, Reducción de la demanda
+una vez actualizada la energética de viviendas en MINVU ‐
+2 reglamentación (OGUC). un 30%. 2018 ‐ 2025 MINENERGIA
+Llamados especiales del
+Programa de Protección
+del Patrimonio Familiar,
+para promover el uso de
+agua caliente sanitaria
+(Sistemas Solares
+Incorporar y ampliar Térmicos) (SST), y energía
+Energías Renovables en eléctrica (sistemas
+3 viviendas existentes fotovoltaicos conectados a 2018 ‐ 2020 MINVU
+66
+
+--- Página 67 ---
+la red).
+Colaboradores MINENERGIA, SEC, Municipios
+Medida 19
+Título Impulsar la calificación de la eficiencia energética de las viviendas
+Eje estratégico Infraestructura y construcción sostenible
+Línea de acción Viviendas
+Fomentar el uso de la calificación del desempeño energético de las viviendas, empleando
+Objetivo estándares de eficiencia por sobre los requerimientos mínimos.
+La calificación energética de viviendas es una herramienta que actualmente opera
+voluntariamente, que entrega información sobre el desempeño energético de una vivienda
+nueva (construida a partir del 2007), lo que permite considerar este atributo como una
+ventaja competitiva que fomenta el uso de esta variable en la edificación.
+En específico, esta medida busca dar continuidad y fortalecer el uso de la herramienta en el
+mercado público y privado de viviendas, las que contarán con una etiqueta, de la “A” a la “G”
+(similar a electrodomésticos) Cabe destacar que la letra “E” es el estándar actual de
+Descripción construcción.
+Escalas Nacional, regional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Fomento del uso del
+sistema mediante pago por
+asistencia técnica en el caso
+de las viviendas sociales.
+Desde 2020 su
+implementación será
+Fomento del sistema de ampliada como alternativa
+calificación de eficiencia de cumplimiento de la
+1 energética de viviendas reglamentación térmica. 2018 ‐ 2020 MINVU
+Colaboradores MINENERGIA, MMA, sector privado, academia e industria
+67
+
+--- Página 68 ---
+6.3. Eje 3: Reducción y gestión del riesgo de desastres asociados al cambio climático
+6.3.1. Línea de acción 7: Reducción de riesgo de desastres y manejo de impactos
+Medida 20
+Fortalecer la gobernanza del sistema de alerta temprana a escalas subnacionales ante riesgos
+Título de desastres vinculados al cambio climático.
+Eje estratégico Reducción y gestión del riesgo de desastres asociados al cambio climático
+Línea de acción Reducción de riesgo de desastres y manejo de impactos
+Fortalecer la gobernanza del sistema de alerta temprana a escalas subnacionales ante riesgos
+Objetivo de desastres vinculados al cambio climático.
+Esta medida busca contar con instituciones públicas, privadas y de la sociedad civil a nivel
+local, provincial o regional, involucradas en el sistema de alerta temprana que actúen en
+forma coordinada y oportuna para gestionar y reducir los impactos en el caso que se alerte
+Descripción sobre alguna amenaza o evento climatológico que pudiera afectar a la población.
+Escalas Regional, comunal
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Instancias de coordinación
+Mayor y mejor ONEMI,
+periódica a niveles
+coordinación en las Organismos
+comunales, provinciales o medidas a adoptar una vez corresponsabl
+1 regionales identificadas las alertas. 2018 ‐ 2022 es.
+Cumplimiento de los
+Objetivos Estratégicos del ONEMI,
+Fortalecimiento de los
+Eje 2 del Plan Estratégico Organismos
+sistemas de Monitoreo y Nacional Para la Gestión del corresponsabl
+2 Alerta Temprana. Riesgo de Desastres 2018 es.
+Colaboradores GORE, DMC, MINVU
+68
+
+--- Página 69 ---
+Medida 21
+Promover la actualización de los planes de emergencia comunales en el marco de esta
+Título agenda de adaptación al cambio climático y la reducción de riesgo de desastres.
+Eje estratégico Reducción y gestión del riesgo de desastres asociados al cambio climático
+Línea de acción Reducción de riesgo de desastres y manejo de impactos
+Contar con planes de emergencia comunales actualizados en base a los lineamientos que
+Objetivo propone el Plan de Adaptación de Ciudades al Cambio Climático.
+Promover que en los niveles subnacionales, especialmente las comunas, cuenten con planes
+de emergencia actualizados, difundidos en la población y operacionalizados, que incorporen
+Descripción los lineamientos derivados del Plan de Adaptación de Ciudades al Cambio Climático.
+Escalas Regional, comunal
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Identificar el estado actual
+de los planes de emergencia
+Contar con un diagnóstico
+comunales identificando la
+sobre la realidad actual de
+vigencia, las brechas, y los los planes de emergencia Onemi,
+1 desafíos en esta materia. comunales. 2018 ‐ 2019 Subdere.
+Proponer una plan de acción
+operativo que permita a los
+municipios que requieran
+Que los municipios
+una actualización o
+cuenten con sus planes de
+formulación contar con una
+emergencia actualizados o
+guía clara para contar con estén encaminados hacia Onemi,
+2 sus planes de emergencia. ello. 2018 ‐ 2022 Subdere.
+Colaboradores Asociación de Municipios.
+69
+
+--- Página 70 ---
+Medida 22
+Título Estudiar el impacto de las olas de calor sumado al efecto de islas de calor urbanas
+Eje estratégico Reducción y gestión del riesgo de desastres asociados al cambio climático
+Línea de acción Reducción de riesgo de desastres y manejo de impactos
+Contar con antecedentes del impacto que tienen las islas de calor sumadas a las olas de calor,
+de manera de cuantificar los riesgos a los que está expuesta la población urbana más
+vulnerable, estableciendo medidas tanto preventivas como reactivas en las ciudades más
+Objetivo afectadas a sus efectos.
+La expansión urbana y concentración de actividades, involucra muchas veces, entre otros
+problemas ambientales, cambios de temperatura de las ciudades, generando condiciones
+micro climáticas que son más evidentes en la interface urbano rural. Las Islas de Calor
+Urbana, entendida como las diferencias de temperaturas entre los distintos espacios
+construidos y sus alrededores, es el resultado de dos procesos diferentes pero asociados; el
+primero y más importante, la modificación en la cobertura del suelo como resultado del
+proceso de urbanización que transforma las superficies con materiales artificiales e
+impermeables como el asfalto y el concreto. El segundo, referido a las actividades urbanas
+como el transporte motorizado y actividades industriales que mediante las emisiones
+térmicas contribuyen al calentamiento urbano. Las acciones de mitigación y adaptación
+deben abordar este fenómeno, pues intensifica los impactos del cambio climático, en
+particular, el de las olas de calor, requiriendo de su consideración para diseñar respuestas
+Descripción adecuadas.
+Escalas Nacional, regional.
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+‐ Elaboración de un
+Analizar estudios diagnostico preliminar.
+vinculados al tema e Identificación de brechas y
+identificar el problema de necesidades de información
+1 islas de calor urbanas para evaluar los riesgos. 2018 ‐ 2020 MMA, MINSAL
+‐ Elaboración de un estudio
+para evaluar los riesgos de
+las olas de calor acentuados
+por la presencia de las islas
+de calor, principalmente en
+el contexto de la población
+urbana más vulnerable.
+‐ Identificación de una
+Cuantificar los costos en estructura operativa
+salud pública que esta interinstitucional,
+problemática involucra para apropiada para la
+el Estado, identificando implementación de las
+2 medidas. medidas. 2018 ‐ 2022 MMA, MINSAL
+70
+
+--- Página 71 ---
+Capacitación de personal de
+entidades públicas sobre
+los impactos de esta Campañas y difusión de
+problemática del cambio información para la
+climático, en términos de ciudadanía sobre esta
+3 salud pública. problemática. Permanente MMA, MINSAL
+Colaboradores ONEMI, MINVU
+71
+
+--- Página 72 ---
+6.4. Eje 4: Gestión local y colaboración interinstitucional
+6.4.1. Línea de acción 8: Generación de capacidades y colaboración
+Medida 23
+Título Fortalecer el desarrollo de capacidades municipales para la adaptación al cambio climático
+Eje estratégico Gestión local y colaboración interinstitucional
+Línea de acción Generación de capacidades y colaboración
+Impulsar la generación de capacidades a escala local para hacer frente a los desafíos del
+Objetivo cambio climático, reduciendo daños y aprovechando oportunidades
+La implementación de esta medida permitirá a la ciudadanía y administración local disponer
+de información útil para fortalecer la capacidad de adaptación al Cambio Climático y sus
+eventos adversos. Su implementación podría consolidarse mediante la formulación de planes,
+programas o acciones concretas de nivel local, que respondan a las necesidades específicas de
+Descripción cada territorio.
+Escalas Regional, Municipal
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Desarrollo de jornadas de
+Sensibilización de actores capacitación y
+relevantes del nivel local sensibilización de actores GORE,
+1 frente al cambio climático. locales 2018 ‐ 2022 Municipios
+Capacitación de actores
+relevantes del nivel local
+frente al cambio climático,
+mediante el curso b ‐
+learning de gestión del
+cambio climático a nivel Capacitar a al menos 25 GORE,
+local de la Academia personas anualmente del Municipios,
+2 Adriana Hoffman nivel local 2018 ‐ 2022 MMA
+Disponer de medios de
+información ciudadana
+Caracterización de las sobre amenazas climáticas
+principales amenazas y planes de prevención y
+climáticas desde una reducción de riesgo ante su GORE,
+3 perspectiva local . ocurrencia. 2018 ‐ 2022 Municipios
+72
+
+--- Página 73 ---
+Elaboración de Planes de
+Acción de Cambio Climático
+que consoliden la estrategia
+local para su gradual Elaborar al menos 5 Planes
+implementación según de Acción climática GORE,
+3 priorización y viabilidad. comunales 2018 ‐ 2022 Municipios
+Colaboradores MMA, MINVU, Adapt ‐ Chile, Red Chilena de Municipios ante el Cambio Climático
+Medida 24
+Fortalecer la coordinación intersectorial para abordar los desafíos del cambio climático a nivel
+Título de ciudades
+Eje estratégico Gestión local y colaboración interinstitucional
+Línea de acción Generación de capacidades y colaboración
+Fortalecer un enfoque multisectorial para el desarrollo regional y local resiliente mediante
+una estructura operativa de coordinación entre los distintos niveles de gobernanza de las
+Objetivo ciudades, evitando duplicidad de esfuerzos, generando beneficios mutuos.
+La coordinación multisectorial es un desafío institucional para abordar los efectos esperados
+del cambio climático en las ciudades. Esta coordinación deberá llevarse a cabo en el contexto
+de tres componentes/actividades:
+‐ Conformación de Comités Regionales de Cambio Climático (CORECC) según mandato
+del PAN y PANCC 2017 ‐ 2022 (Ficha MG1).
+‐ Plataforma de reducción del riesgo de desastres (RRD) (presidida por ONEMI)
+(vinculado con fichas MA2, MA3 del PANCC 2017 ‐ 2022.
+‐ Coordinación Intersectorial en la elaboración, implementación y seguimiento de
+Planes Sectoriales de Adaptación al Cambio Climático (Equipo Técnico Interministerial
+de Cambio Climático ETICC, CORECC, RRD).
+Los distintos sectores pueden establecer prioridades y responsabilidades sectoriales de
+manera coordinada, que en conjunto constituyen la respuesta institucional integrada para la
+reducción del riesgo. La Plataforma de Reducción del Riesgo de Desastre (RRD) puede ser la
+Descripción instancia que dirige esta iniciativa
+Escalas Nacional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Finalización de la
+constitución de los Comités
+Regionales de Cambio
+Climático (CORECC). Conformación de 15
+1 CORECC 2018 GORE
+Coordinación, Reportes anuales de
+2 implementación y Implementación de los Permanente MMA
+73
+
+--- Página 74 ---
+seguimiento de los Planes planes nacionales y
+Sectoriales de adaptación al sectoriales de cambio
+cambio climático en el climático
+marco de las competencias
+del ETICC, CORECC y RRD.
+Definir intersectorialmente
+las responsabilidades
+institucionales para asegurar Protocolización de la mesa
+la coordinación de los de coordinación
+servicios, como instancia intersectorial, como
+para la preparación y instancia institucional
+respuesta ante los eventos coordinadora de los
+extremos climáticos y no esfuerzos públicos en
+3 climáticos. materia de RRD 2018 ONEMI
+Colaboradores Ministerios y Servicios descentralizados de nivel central, GORE, Municipalidades
+Medida 25
+Propiciar relaciones de cooperación internacional para fortalecer la capacidad de adaptación
+Título climática en ciudades
+Eje estratégico Gestión local y colaboración interinstitucional
+Línea de acción Generación de capacidades y colaboración
+Generar oportunidades de apoyo técnico y/o financiero internacional para proyectos
+específicos que aumenten la capacidad de adaptación al cambio climático en ciudades o
+Objetivo comunas según prioridades identificadas.
+Durante las últimas dos décadas, a nivel internacional, la temática de adaptación al cambio
+climático en ciudades ha generado un gran potencial tanto en experticia técnica ‐ científica,
+como en su financiamiento. Este escenario ha permitido celebrar convenios (bilaterales y
+multilaterales) previa identificación de las necesidades concretas por comuna o ciudad, junto
+con las debidas coordinaciones intersectoriales o interinstitucionales. En este contexto para
+facilitar información, apoyo técnico y movilización de fondos, tienen un rol especial las redes
+globales de ciudades tales como ICLEI ( Local Governments for Sustainability); o la “Iniciativa de
+Ciudades Emergentes y Sostenibles” (ICES) del BID ; Programas de las Naciones Unidas como
+HABITAT; fondos globales asociados a la CMNUCC (Fondo Verde, Fondo de Adaptación, GEF); o
+fondos de la cooperación bilateral (p.e. Iniciativa Climática IKI, Alemania), C40 Cities, entre
+otros. En Chile, a modo de ejemplo, hay experiencias comunales con ICLEI (Ñuñoa, RM.),
+Chillan y Tomé (Biobío); con el Fondo de Adaptación (Antofagasta y Taltal), con ICES (Valdivia,
+Puerto Montt ‐ Puerto Varas, La Serena ‐ Coquimbo); y con IKI (Santiago). Además, de
+cooperación internacional al gobierno central, a través de Ministerios, que contribuyen a la
+adaptación a nivel local. El uso del instrumento de la Cooperación Internacional puede ser
+crucial para ciudades o comunas con fuertes deficiencias en capacidades técnicas y
+económicas pero expuestas a amenazas climáticas. El aprovechamiento de las oportunidades
+de cooperación internacional requieren de capacidades locales en el planteamiento de
+Descripción proyectos adecuado a los marcos establecidos por estas instituciones.
+74
+
+--- Página 75 ---
+Escalas Nacional, regional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Desarrollar proyectos
+específicos para aumenten
+la capacidad de adaptación Implementar al menos un
+al cambio climático con proyecto a través de Municipio,
+1 apoyo internacional cooperación internacional 2018 ‐ 2022 GORE
+Participar en al menos dos
+Participar en redes de redes internacionales
+colaboración internacional relacionadas con ciudades Municipio,
+relacionadas con el cambio (C40, ICLEI, Climate Smart GORE, MMA,
+2 climático en ciudades Cities Network) 2018 – 2022 MINVU
+Participar en al menos dos
+Difundir y entregar actividades internacionales
+asistentica técnicas sobre para difundir y apoyar a
+las experiencias específicas otros países en las
+de cambio climático en experiencias en cambio MMA, MINVU,
+ciudades a nivel climático implementadas Municipio,
+2 internacional en ciudades 2018 ‐ 2022 GORE
+Colaboradores SUBDERE, MOP; MINENERGIA; MTT
+75
+
+--- Página 76 ---
+Medida 26
+Generación de asociaciones público ‐ privadas de cooperación y acción frente al cambio
+Título climático
+Eje estratégico Gestión local y colaboración interinstitucional
+Línea de acción Generación de capacidades y colaboración
+Facilitar y fortalecer asociaciones y alianzas entre el sector público, la sociedad civil, el mundo
+académico, empresas y los gobiernos regionales y locales, de manera de fomentar los
+vínculos de colaboración para la implementación de acciones y medidas que permitan un
+Objetivo desarrollo sustentable y la adaptación a los distintos efectos del cambio climático
+Las asociaciones público ‐ privadas son instancias de diálogo y de cooperación cuya misión es
+apoyar el diseño y la implementación de acciones dirigidas a mejorar la capacidad de
+adaptación de los territorios. La capacidad de acción de las asociaciones dependerá de la
+capacidad de colaboración de los distintos actores.
+Las asociaciones deben actuar como instancias de articulación para implementar las medidas
+Descripción de los Planes de Adaptación que corresponda.
+Escalas Nacional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Generar asociaciones, Formalización de vínculos y
+alianzas y convenios de convenios de asociación
+colaboración para la pública ‐ privada para la
+implementación de las implementación de
+acciones y medidas de los acciones y medidas de
+Planes de Adaptación y Planes de Adaptación y GORE,
+1 Acción de Cambio Climático Acción de cambio climático 2018 ‐ 2022 Municipios
+Agencia de Sustentabilidad y Cambio Climático (ASCC); Asociaciones de la sociedad civil,
+Colaboradores instituciones académicas, empresas.
+76
+
+--- Página 77 ---
+6.4.2. Línea de acción 9: Gestión
+Medida 27
+Acciones para la sustentabilidad ambiental en un contexto de cambio climático en las
+ciudades intermedias, a partir de la experiencia ICES.
+Título
+Eje estratégico Gestión local y colaboración interinstitucional
+Línea de acción Gestión
+Disponer de un plan de acción con enfoque adaptativo a nivel ciudad para orientar a los
+Objetivo gobiernos locales hacia metas más sostenibles y resilientes de sus ciudades.
+La metodología ICES (Iniciativa para Ciudades Emergentes y Sostenibles) es esencialmente un
+instrumento de evaluación territorial y ambiental basada en la concepción de que la
+sostenibilidad ambiental en áreas urbanas se logra a través de una planificación armónica y
+equitativa entre la ocupación del espacio biofísico, el uso de los recursos, el manejo de
+residuos y efluentes, y un estado consciente de prevención y adaptación a eventos
+generadores de desastres, causados o no por los efectos del cambio climático, en un marco
+de amplia participación ciudadana. Para profundizar más en la metodología ICES revisar la
+Guía Metodológica y sus anexos disponibles en http://www.iadb.org/cities materiales todos
+Descripción gratuitos y en permanente actualización.
+Escalas Intercomunal Metropolitano (La Serena ‐ Coquimbo, Puerto Montt ‐ Puerto Varas)
+Número Acción Resultado Esperado Plazo Responsable
+Generar competencias A partir de profesionales
+regionales en materia de capacitados, iniciar la
+media ambiente y conformación de
+Departamentos de
+ordenamiento territorial.
+Áreas Metropolitanas
+(DAM) dentro de las
+Divisiones de
+Planificación, tal como
+lo establece la nueva ley
+de Fortalecimiento de la
+Regionalización.
+‐ Desarrollo de
+proyectos de escala
+metropolitana en
+materia de
+ordenamiento
+territorial, medio SUBDERE,
+1 ambiente y movilidad. 2018 BID
+Colaboradores
+GORE y Municipalidades.
+77
+
+--- Página 78 ---
+Medida 28
+Título Potenciar acciones para la reducción de riesgo de desastres en barrios
+Eje estratégico Gestión local y colaboración interinstitucional
+Línea de acción Gestión
+Objetivo Incorporar la reducción del riesgo de desastre en barrios
+La implementación de esta medida permite fortalecer el enfoque preventivo desde la
+capacitación y participación de las comunidades en el diseño de las intervenciones y
+ejecución de obras en su entorno ‐ en los barrios intervenidos por el Programa Quiero mi
+Barrio del MINVU ‐ y así contribuir a la reducción de factores subyacentes del riesgo y
+adaptación al cambio climático en la escala barrial, aumentando la seguridad vecinal, la
+resiliencia del territorio barrial, y la sostenibilidad de la inversión pública y ciudadana
+Descripción ejecutada a esta escala.
+Escalas Nacional, Regional, Local
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Incorporación de un Implementación un
+enfoque de gestión de modelo operativo de
+riesgo prospectivo con reducción de riesgo de
+participación activa de la desastre en Programa
+comunidad Quiero mi Barrio (QMB)
+1 Permanente MINVU
+Establecer una agenda Generar primeros
+de monitoreo y evaluar indicadores de
+la efectividad del implementación del
+enfoque RRD en el enfoque RRD en el
+2 Programa. Programa 2018 ‐ 2022 MINVU
+Colaboradores ONEMI
+78
+
+--- Página 79 ---
+Medida 29
+Implementación de las medidas de acción de la Estrategia Nacional de Cambio Climático y
+Recursos Vegetacionales de Chile (ENCCRV 2017 ‐ 2025) aportantes al Plan de Adaptación al
+Título Cambio Climático para Ciudades
+Eje estratégico Gestión local y colaboración interinstitucional
+Línea de acción Gestión
+Disminuir la vulnerabilidad social, ambiental y económica que genera el cambio climático,
+la desertificación, la degradación de las tierras y la sequía sobre los recursos vegetacionales
+y comunidades humanas que dependen de éstos, a fin de aumentar la resiliencia de los
+ecosistemas y contribuir a mitigar el cambio climático fomentando la reducción y captura
+Objetivo de emisiones de gases de efecto invernadero en Chile.
+La ENCCRV corresponde a un conjunto de medidas de acción directas y facilitadoras que
+con base a un proceso de formulación técnico y participativo de carácter nacional se
+centran en enfrentar el Cambio Climático, la Desertificación, la Degradación de las Tierras y
+la Sequía (DDTS), mediante una adecuada gestión de los recursos vegetacionales, con la
+finalidad de evitar o disminuir las tasas históricas de deforestación, de vegetación y
+degradación de bosques nativos, formaciones xerofíticas y otras formaciones
+vegetacionales, así como también fomentando la recuperación, forestación, revegetación y
+Descripción manejo sustentable de estos recursos nativos de Chile.
+Escalas Nacional, Regional, Local
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Inclusión de temáticas
+de cambio climático,
+desertificación,
+degradación de las
+tierras y sequía en una
+nueva ley de fomento Ley publicada en el diario CONAF,
+1 forestal oficial 2021 MINAGRI
+Capacitación en
+Programa de educación y temáticas atingentes a al CONAF,
+2 difusión ambiental menos 8.000 personas 2025 MINAGRI
+Al menos 8.000
+hectáreas protegidas
+Programa de silvicultura bajo estas prácticas
+preventiva contra silvícolas con la
+incendios forestales en respectiva mantención. CONAF,
+3 interfaz urbana ‐ rural 2025 MINAGRI
+Fortalecimiento del Abarcar al menos 40
+Programa “Comunidades comunas prioritarias del
+Preparadas frente a los país. CONAF,
+4 Incendios Forestales” 2025 MINAGRI
+79
+
+--- Página 80 ---
+Manejar
+sustentablemente al
+menos 16.000 hectáreas
+que provean de biomasa
+en distintos formatos para
+la generación de energía
+Fortalecimiento al limpia en comunas con
+Programa de problemas de
+Dendroenergía y a la contaminación
+matríz energética del atmosférica. CONAF,
+5 país 2025 MINAGRI
+Programa de adaptación
+para la gestión de los
+recursos vegetacionales Acciones concretas en al
+en el marco del cambio menos 80 comunas de
+climático, Chile con alcance en la
+desertificación, producción de plantas
+degradación de las nativas para arborización CONAF,
+6 tierras y sequía urbana. 2025 MINAGRI
+Todos los Ministerios que son parte del Consejo de Ministros para la Sustentabilidad;
+Agencia de Sustentabilidad y Cambio Climático; Municipios, Organizaciones de la Sociedad
+Colaboradores Civil, academia, entidades internacionales y empresas privadas interesadas.
+Medida 30
+Título Implementación de Planes de Descontaminación Atmosférica: Estrategia 2014 – 2018
+Eje estratégico Gestión local y colaboración interinstitucional
+Línea de acción Gestión
+Mitigar contaminantes locales mediante PDA, reduciendo la exposición y efectos en salud de
+la ciudadanía, aumentando la capacidad de resistir otros impactos de estrés bioclimático
+Objetivo causados por el cambio climático.
+La contaminación atmosférica es el principal desafío para la autoridad ambiental en Chile, hoy
+10 millones de personas en el país están expuestas a una concentración promedio anual de
+MP2.5 superior a la norma, siendo responsable de al menos 4 mil muertes prematuras a nivel
+nacional. Considerando esta amenaza para la salud de la población el Ministerio del Medio
+Ambiente presentó la Estrategia de Descontaminación Atmosférica en Chile: 2014 ‐ 2018. Sus
+principales objetivos son:
+I. Establecer e implementar 14 nuevos planes de descontaminación que presenten
+medidas efectivas en la reducción de emisiones en las zonas declaradas como saturadas
+o latentes de Chile, a cargo del Ministerio del Medio Ambiente.
+Los planes de descontaminación incluyen tres tipologías:
+1. Planes en zonas grandes metropolitanas (Santiago y Gran Concepción), que
+comprende acciones de mitigación al transporte e industrias.
+2. Planes en zonas urbanas industriales (Huasco y Concón, Quintero y Puchuncaví) con
+acciones de mitigación respecto a eficiencia de procesos y reducción de
+contaminantes como carbono negro
+Descripción 3. Planes en ciudades de la zona sur con uso intensivo de leña para calefacción, que
+80
+
+--- Página 81 ---
+comprenden acciones de mitigación como recambio de calefactores, promoción de
+calefacción distrital y mejoramiento energético de las viviendas existentes y nuevas
+II. Implementar medidas de corto plazo, Alertas sanitarias, en zonas donde no hay Planes
+de Descontaminación y existe información de monitoreo que arroja altas
+concentraciones de material particulado, establecido por el Ministerio de Salud en
+conjunto con el Ministerio del Medio Ambiente.
+Las alertas sanitarias incorporan medidas tendientes a informar a la población de los riesgos y
+a disminuir las emisiones que se generan a través de la paralización de fuentes fijas y
+restricción del uso de la leña domiciliaria.
+Escalas Local
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Evaluación de la reducción
+de casos evitados en
+morbilidad y mortalidad por
+N° de casos evitados de
+el conjunto de planes de morbilidad y mortalidad
+1 descontaminación por los PDA. 2020 MMA
+Evaluación respecto de
+subsidios para
+acondicionamiento térmico
+Reporte sobre los
+de las viviendas existentes
+beneficios en confort
+en zona saturada, que
+térmico y reducción de
+genera aumento de emisiones de
+capacidad de adaptación. contaminantes climáticos
+2 para los casos analizados 2020 MMA, MINVU
+Tres inventarios locales de
+contaminantes climáticos
+Elaboración de inventarios (GEI+CCVC) publicados
+locales de contaminantes asociados a 3 ciudades que
+3 climáticos cuenten con PDA. 2022 MMA
+Colaboradores Servicios del sector público competentes
+81
+
+--- Página 82 ---
+Medida 31
+Apoyar la implementación de la contribución nacional de Chile en el sector de residuos a
+Título
+través del Programa Chile ‐ Canadá
+Eje estratégico
+Gestión local y colaboración interinstitucional
+Línea de acción
+Gestión
+Reducir las emisiones de gases como el metano, mediante la implementación de tecnología, y
+Objetivo así reducir la disposición de residuos orgánicos y aumentar la captura de emisiones de
+rellenos existentes.
+La Ley le otorga al Ministerio del Medio Ambiente (MMA) la atribución de desarrollar acciones
+o programas para mejorar el manejo ambientalmente racional de residuos.
+En la COP 22, en noviembre de 2016, la Ministra de Medio Ambiente y Cambio Climático de
+Canadá se comprometió en reducir los contaminantes que dañan el clima en Canadá y en todo
+el mundo, y anunció que contribuirá con 14 millones de dólares para reducir los
+contaminantes climáticos de corta vida (CCVC) a través de alianzas con Chile y México. En el
+caso de Chile a través del Acuerdo en Cooperación Ambiental entre Chile Canadá, con 7
+millones de dólares canadienses.
+El Proyecto de residuos entre Chile Canadá, consiste en apoyar la implementación de la
+Descripción
+Contribución Nacional Determinada (NDC) de Chile en el sector de residuos mediante la
+adopción de tecnologías que permitan reducir las emisiones de contaminantes climáticos,
+como el metano, desde rellenos existentes y tratar los residuos orgánicos; junto con
+desarrollar un sistema robusto para el seguimiento, monitoreo y reporte de las reducciones de
+las emisiones.
+Líneas de acción. El proyecto posee cuatro líneas de acción:
+1. Reducción de emisiones mediante la implementación de tecnología
+2. Seguimiento, monitoreo y reporte de las reducciones de las emisiones – MRV
+3. Aprovechar el co ‐ financiamiento del sector público y privado
+4. Apoyar la difusión del proyecto oportunamente
+Escalas Local
+Acciones
+Número
+Acción Resultado esperado Plazo Responsable
+Reducir la emisiones de Acciones de reducción de
+contaminantes climáticos del emisiones de
+1 sector residuos mediante la contaminantes climáticas 2021 MMA
+implementación de implementadas en al
+tecnologías menos 7 ciudades
+82
+
+--- Página 83 ---
+Sistema de MRV de las
+emisiones de
+2 2021 MMA
+Desarrollar de sistemas de contaminantes climáticos
+MRV de las emisiones en operación
+Colaboradores SUBDERE, Municipios
+6.5. Eje 5: Difusión
+6.5.1. Línea de acción 10: Acciones de difusión
+Medida 32
+Desarrollar e implementar, en coordinación con la autoridad sanitaria, programas específicos
+de prevención y fomento de la salud urbana en el contexto de los riesgos del cambio
+Título climático
+Eje estratégico Difusión
+Línea de acción Acciones de difusión
+Fortalecer en el ámbito territorial de las ciudades la capacidad de adaptación al cambio
+Objetivo climático en materia de salud humana.
+Según se prevé (OMS), entre 2030 y 2050 el cambio climático causará a nivel global unas
+250.000 defunciones adicionales cada año, debido a sus impactos directos e indirectos sobre
+la salud humana. Los impactos potenciales se manifiestan a través de: olas de calor extremo,
+contaminación de agua potable durante episodios de inundaciones por lluvias torrenciales,
+limitaciones al consumo de agua durante períodos de sequía o la propagación de
+enfermedades transmitidas por vectores y roedores. Aparte de estos impactos directos, la
+OMS considera que la tendencia en el aumento de la temperatura y de su variabilidad,
+contribuye a debilitar la salud de grupos de riesgo, contribuyendo así al incremento de la tasa
+Descripción de mortalidad causada por enfermedades comunes.
+Escalas Nacional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Se espera incluir, además
+de los ejes que actualmente
+aborda el Departamento
+de Promoción de la Salud y
+Participación Ciudadana,
+(“Alimentación saludable”,
+Empoderar y educar a la “Humo y tabaco”, y
+ciudadanía en las temáticas “Actividad física”), un
+del cambio cuarto eje sobre el cambio
+climático y sus impactos climático y sus impactos
+sobre la salud de la sobre la salud de la
+1 población población. (Se empalma 2018 MINSAL
+83
+
+--- Página 84 ---
+con Plan de Adaptación al
+cambio climático del Sector
+Salud)
+Programa de educación a la
+ciudadanía con respecto a
+la prevención de contagio
+Desarrollo de programa de de
+educación a la población enfermedades zoonóticas y
+vulnerable al contagio de vectoriales en zonas de
+enfermedades vectoriales y riesgo. (Se empalma con
+zoonóticas (Medida 12 Plan Plan de Adaptación al
+de Adaptación del Sector cambio climático del Sector
+2 Salud) Salud) 2018 MINSAL
+Colaboradores GORE, Municipios.
+Medida 33
+Campañas de información, sensibilización y capacitación para reducir el consumo energético
+Título y el uso más eficiente del agua potable.
+Eje estratégico Difusión
+Línea de acción Acciones de difusión
+Objetivo Aumentar la eficiencia en el uso de los recursos energéticos e hídricos.
+Con esta medida se espera concienciar a la población respecto al consumo responsable de la
+energía y el agua, además de dar herramientas para que apliquen medidas concretas para la
+reducción de sus consumos de energía y agua y para apoyar, a través de una plataforma de
+información pública, decisiones de inversión en proyectos de energías renovables según el
+Descripción eje 3 “Desarrollo de Recursos Energéticos Propios” de la Agenda de Energía.
+Escalas Nacional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+‐ Instructivo, de libre
+disposición, para promover
+uso eficiente de energía y
+agua a nivel domiciliario.
+(MINENERGIA)
+‐ Manuales para
+implementación de medidas
+de bajo costo para el uso
+eficiente de la energía y el
+agua. (MINENERGIA)
+Ejecutar acciones para
+promover el uso eficiente de
+‐ Programas de concienciación MOP, MMA,
+la energía y el agua a nivel de la población respecto a la Permanent MINENERGIA,
+1 domiciliario. huella hídrica de los e MINSAL
+84
+
+--- Página 85 ---
+productos de consumo
+básicos (SISS – DGA ‐ MMA)
+‐ Etiquetado de productos con
+la huella hídrica de éstos. (SISS
+– DGA ‐ MMA)
+Contar con una plataforma
+de información pública y
+actualizada sobre el
+potencial de energías
+renovables en Chile, como
+herramienta de
+información de carácter
+público para orientar y
+facilitar las decisiones de Información pública sobre
+inversión privada en ERNC Potencial eólico, solar,
+(vinculado con Ficha AME19 hidroeléctrico a nivel país, en
+del MIENERGIA en PANCC portal web ministerial:
+3 II) (http://www.energia.gob.cl/) 2018 ‐ 2022 MINENERGÍA
+Colaboradores AChEE, CIFES.
+Medida 34
+Título Difusión de recomendaciones para espacios públicos y edificaciones sostenibles
+Eje estratégico Difusión
+Línea de acción Acciones de difusión
+Difusión de guías de recomendación para la incorporación de criterios de sostenibilidad para
+espacios públicos, incluyendo vialidad y vivienda.
+Objetivo
+A través de distintas unidades, el MINVU ha generado material que contribuye al diseño y la
+construcción de espacios públicos y edificaciones que incorporan criterios de sostenibilidad,
+que permiten la adaptación al cambio climático. Se propone hacer difusión de esta
+Descripción información para fomentar la masificación de estos criterios.
+Escalas Nacional
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+Difusión de Estándares de
+Construcción Sustentable
+Difusión de información para Viviendas de Chile
+sobre construcción
+1 sostenible de viviendas. 2018 ‐ 2020 MINVU
+Difundir de información ‐ Difusión del Manual de
+2 sobre espacios públicos Construcción y 2018 ‐ 2020 MINVU
+85
+
+--- Página 86 ---
+sostenibles. requerimientos mínimos
+para parques, plazas y áreas
+verdes y áreas deportivas
+‐ Difusión
+Guía “La Dimensión
+Humana en el espacio
+Público: Recomendaciones
+para el Análisis y Diseño"
+‐ Difusión Manual de
+Elementos Urbanos
+Sustentables.
+Difundir de información
+sobre vialidad Difusión de Manual de
+3 cicloinclusiva. Vialidad Ciclo ‐ Inclusiva 2018 ‐ 2020 MINVU
+Colaboradores Academia, Sector privado.
+Medida 35
+Sensibilizar y capacitar a la ciudadanía en ámbitos de la adaptación al cambio climático en
+Título ciudades, en el marco de la Academia de Formación Ambiental.
+Eje estratégico Difusión
+Línea de acción Acciones de difusión
+Contar con ciudadanos informados y sensibilizados, respecto a los potenciales impactos del
+cambio climático en las ciudades, así como promover la implementación de acciones de
+Objetivo adaptación y mitigación en las ciudades.
+Se espera que los ciudadanos, organizaciones civiles, academia, docentes y sector privado se
+sensibilicen y capaciten sobre el cambio climático, a fin de que sean capaces de modificar sus
+acciones para contribuir tanto a la mitigación y adaptación del cambio climático en las
+ciudades.
+Se espera impartir los cursos a través de la Academia de Formación Ambiental Adriana
+Descripción Hoffman y sus diversas modalidades e ‐ learning, b ‐ learning, presenciales, etc.
+Escalas Nacional, regional, municipal.
+Acciones
+Número Acción Resultado esperado Plazo Responsable
+‐ Diseñar o modificar cursos
+existentes, para incluir
+Generar acciones de temas específicos de la
+sensibilización y vulnerabilidad al cambio
+capacitación a funcionarios climático de las ciudades y
+públicos y ciudadanía en definición de posibles
+1 general medidas de adaptación Permanente MMA, MINVU
+86
+
+--- Página 87 ---
+(MMA).
+‐ Realizar al menos 3
+actividades presenciales
+anuales dirigidas a la
+ciudadanía, para la difusión
+y entendimiento del plan de
+adaptación al cambio
+climático de ciudades o la
+implementación de las
+medidas específicas, en
+grandes urbes y ciudades
+intermedias.
+Colaboradores MUNICIPIOS, MOP, MINENERGIA
+87
+
+--- Página 88 ---
+7. ACRÓNIMOS
+ASCC Agencia de Sustentabilidad y Cambio Climático
+AChEE Agencia Chilena de Eficiencia Energética
+CAF Banco de Desarrollo de América Latina
+CMNUCC Convención Marco de las Naciones Unidas para Cambio Climático
+COMICIVYT Comisión de Ciudad, Vivienda y Territorio
+CONAF Corporación Nacional Forestal
+CONASET Comisión Nacional de Seguridad de Tránsito
+CES Certificación Edificio Certificación Sustentable
+COP Conferencia de las Partes
+CORECC Comité Regional de Cambio Climático
+COSOC Consejo de la Sociedad Civil
+DDU División de Desarrollo Urbano
+DMC Dirección Meteorológica de Chile
+DGA Dirección General de Aguas
+DOH Dirección de Obras Hidráulicas
+DOP Dirección de Obras Portuarias
+DTPM Directorio de Transporte Público Metropolitano
+DTPR División de Transporte Público Regional
+ENOS El Niño ‐ Oscilación del Sur
+ERNC Energías Renovables No Convencionales
+ESCOs Energy Services Companies
+ETICC Equipo Técnico Interministerial
+FNDR Fondo Nacional de Desarrollo Regional
+GEF Global Environment Facility
+GEI Gases de Efecto Invernadero
+GORE Gobierno Regional
+ICLEI Local Governments for Sustainability
+IPCC Intergovernmental Panel on Climate Change
+IPT Instrumento de Planificación Territorial
+LGUC Ley General de Urbanismo y Construcciones
+MBN Ministerio de Bienes Nacionales
+MDS Ministerio de Desarrollo Social
+MINAGRI Ministerio de Agricultura
+MINENERGÍA Ministerio de Energía
+MINSAL Ministerio de Salud
+MINVU Ministerio de Vivienda y Urbanismo
+MMA Ministerio del Medio Ambiente
+MTT Ministerio de Transportes y Telecomunicaciones
+MOP Ministerio de Obras Públicas
+NDC Nationally Determined Contribution
+OCDE Organización para la Cooperación y el Desarrollo Económico
+OGUC Ordenanza General de Urbanismo y Construcciones
+PANCC Plan de Acción Nacional de Cambio Climático
+PEEEP Programa de Eficiencia Energética en Edificios Públicos
+PENGRD Plan Estratégico Nacional para la Gestión del Riesgo de Desastres
+88
+
+--- Página 89 ---
+PLADECO Plan de Desarrollo Comunal
+PNACC Plan Nacional de Adaptación al Cambio Climático
+PNDU Política Nacional de Desarrollo Urbano
+PNOT Política Nacional de Ordenamiento Territorial
+PROT Plan Regional de Ordenamiento Territorial
+SAT Sistema de Alerta Temprana
+SECTRA Secretaría de Planificación de Transporte
+SEREMI Secretaría Regional Ministerial
+SERNAGEOMIN Servicio Nacional de Geología y Minería
+SERVIU Servicio de Vivienda y Urbanización
+SHOA Servicio Hidrográfico y Oceanográfico de la Armada
+SISS Superintendencia de Servicios Sanitarios
+SUBDERE Subsecretaría de Desarrollo Regional y Administrativo
+UOCT Unidad Operativa de Control de Transito
+89
+
+--- Página 90 ---
+8. ÍNDICE DE FIGURAS
+Figura 1. Condiciones de vulnerabilidad presentes en Chile, según establece la CMNUCC. Fuente MINVU, 2017…….. 9
+Figura 2. Escenarios de temperatura y de precipitación. Modelo de escenario RCP y SRES A1B (GCM y RCM) para el
+periodo 2031 ‐ 2050 respecto al periodo 1961 – 1990……………………………………………………………………………………..…….
+10
+Figura 3. Impactos del Cambio Climático en Chile………………………………………………………………………………….……….…….…
+11
+Figura 4. Sucesión de eventos catastróficos en Chile en periodo 1960 ‐ 2017…………………………………………………...………
+11
+Figura 5. catástrofes asociadas al clima en el periodo 1990 – 2016……………………………………………………………………..…. 12
+Figura 6. Sistema de interacciones que define la capacidad de adaptación y el nivel de resiliencia en el ámbito de la
+ciudad………………………………………………………………………………………………………………………………………………….………………….
+14
+Figura 7. Cambios relativos y absolutos en precipitación y temperatura para el período 2031 ‐ 2050 en comparación
+con línea base (1980 ‐ 2010)…………………………………………………………………………………………………………………………………….. 22
+Figura 8. Estructura operativa para la implementación de Planes de Adaptación al Cambio Climático…………………… 25
+Figura 9. Ejemplo de la estructura de gobernanza de ciudades chilenas…………………………………………………………………. 27
+Figura 10. El Plan para Ciudades en el marco de los componentes de la gobernanza, y complementariedad con otros
+Planes………………………………………………………………………………………………………………………………………………………………………28
+90
+
+--- Página 91 ---
+9. BIBLIOGRAFÍA
+Cambio Global UC, PUC, 2014 : Propuesta de un Portafolio de Medidas para elaborar el Plan de Adaptación al
+Cambio Climático para la infraestructura.
+CAS, 2012: Clima Adaptación Santiago. Manual para profesionales. Gobierno Regional Metropolitano de Santiago,
+Ministerio del Medio Ambiente. Proyecto CAS: Clima Adaptación Santiago, del Helmholtz Centre for Environmental
+Research – UFZ (Alemania). Santiago, Chile; Leipzig, Alemania, 35 pp.
+CEDEUS; Adapt Chile; Centro Cambio Global UC. 2014: Adaptación Urbana al Cambio Climático. Propuesta para la
+Adaptación Urbana al Cambio Climático en Capitales Regionales de Chile. Santiago, Chile, 233 pp.
+CEPAL, 2012a: La Economía del Cambio Climático en Chile. Naciones Unidas, Santiago, Chile, 134 pp.
+CEPAL/OCDE. (2016). Evaluaciones del desempeño ambiental: Chile 2016. Santiago: Naciones Unidas. 273 pp.
+COMICIVYT, 2017: Propuesta de Política Nacional de Ordenamiento Territorial (PNOT). Secretaría Técnica de la
+Comisión Interministerial de Ciudad, Vivienda y Territorio, diciembre 2017, 42 pp.
+Development Bank of Latin America, 2014: Vulnerability Index to climate change in the Latin American and
+Caribbean Region. 206 pp. Disponible en: http://www19.iadb.org/intal/intalcdi/PE/2014/15019en.pdf
+DOP, 2015: Asesoría en Evaluación de Riesgos de Infraestructura Costera en un contexto de Cambio Climático, 92
+pp.
+Garreaud, R., 2011 : Cambio Climático: Bases físicas e impactos en Chile, en Revista Tierra Adentro (INIA ‐ Chile),
+No. 93. (Mar ‐ Abr 2011), 13 ‐ 19.
+INE, 2016: Compendio estadístico, Publicación anual. http://www.ine.cl/docs/default ‐
+source/publicaciones/2016/compendio_2016.pdf?sfvrsn=8
+INFODEP, 2016: Elaboración de una base digital del clima comunal de Chile: línea base (años 1980 ‐ 2010) y
+proyección al año 2050; F. Santibañez, P. Santibañez, P. Gonzalez; Disponible en: http://portal.mma.gob.cl/cambio ‐
+climatico.
+IPCC, 2012: Gestión de los riesgos de fenómenos meteorológicos extremos y desastres para mejorar la adaptación
+al cambio climático.
+IPCC, 2013 ‐ 14: Fifth Assessment Report, WG1 AR5. Disponible en: http://www.ipcc.ch/
+IPCC, 2014: Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth
+Assessment Report of the Intergovernmental Panel on Climate Change. IPCC, Geneva, Switzerland, 151 pp.
+MMA, 2017: Plan de Acción Nacional de Cambio Climático 2017 ‐ 2022 : disponible en
+http://portal.mma.gob.cl/wp ‐ content/uploads/2017/07/plan_nacional_climatico_2017_2.pdf
+MMA, 2014: Plan Nacional de Adaptación al Cambio Climático. : disponible en http://portal.mma.gob.cl/wp ‐
+content/uploads/2016/02/Plan ‐ Nacional ‐ Adaptacion ‐ Cambio ‐ Climatico ‐ version ‐ final.pdf
+MINVU, 2014 : Política Nacional de Desarrollo Urbano. disponible en: http://cndu.gob.cl/wp ‐
+content/uploads/2014/10/L4 ‐ Politica ‐ Nacional ‐ Urbana.pdf
+91
+
+--- Página 92 ---
+OMS, 2016: Cambio Climático y salud; Nota descriptiva N°266; disponible en:
+http://www.who.int/mediacentre/factsheets/fs266/es/
+ONEMI, 2016: Plan Estratégico Nacional para la Gestión del Riesgo de Desastres 2015 ‐ 2018.: Disponible en
+https://siac.onemi.gov.cl/documentos/PLAN_ESTRATEGICO_BAJA.pdf
+ONU HABITAT, 2016: Proyecto de documento final de la Conferencia de las Naciones Unidas sobre la Vivienda y el
+Desarrollo Urbano Sostenible (Hábitat III), Aprobación de documento final de la Conferencia. A/CONF.226/4.
+ONU ‐ HABITAT, 2011: Las ciudades y el Cambio Climático: orientaciones para políticas. Infomre Mundial sobre
+Asentamientos Humanos, 68 pp.
+ONU, 1992: Convención Marco de las Naciones Unidas sobre el Cambio Climático.
+Rojas M., 2012: Estado del Arte de Modelos para la Investigación del Calentamiento Global. Informe para Opciones
+de Mitigación para enfrentar el Cambio Climático, MAPS Chile.
+UNISDR. 2015: Marco de Sendai para la Reducción de Riesgo de Desastres 2015 ‐ 2030. Sendai.
+World Bank, 2011 : Guide to Climate Change Adaptation in Cities; 100 pp. Disponible en: http://www ‐
+esd.worldbank.org/citiesccadaptation/
+92
