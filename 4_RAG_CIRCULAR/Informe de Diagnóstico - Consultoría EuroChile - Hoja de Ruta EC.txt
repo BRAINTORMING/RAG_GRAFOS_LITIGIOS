@@ -1,0 +1,2332 @@
+--- Página 1 ---
+“Consultoría para construir una Hoja de Ruta
+de Economía Circular en Chile”
+Informe de avance N°3:
+DIAGNÓSTICO ESTRATÉGICO
+Ministerio de Medio Ambiente
+Licitación ID: 608897‐71‐LP19
+Revisado: 22 de mayo 2020
+
+--- Página 2 ---
+2
+
+--- Página 3 ---
+Abreviaciones y acrónimos
+AChM Asociación Chilena de Municipalidades
+AEE Aparatos Eléctricos y Electrónicos
+ANIR Asociación Nacional de la Industria del Reciclaje
+ASCC Agencia de Sustentabilidad y Cambio Climático
+ASIPLA Asociación Gremial de Industriales del Plástico
+APL Acuerdo de Producción Limpia
+BID Banco Interamericano de Desarrollo
+CChC Cámara Chilena de la Construcción
+CCS Cámara de Comercio de Santiago
+CBI Consensus Building Institute
+CE Comisión Europea
+CEPAL Comisión Económica para América Latina y el Caribe
+CIEC Centro de Innovación y Economía Circular
+CLP Consejo de Producción Limpia
+CORFO Corporación de Fomento de la Producción
+FAO Food and Agriculture Organization (Organización de las Naciones Unidas para la
+Alimentación y la Agricultura)
+FIC Fondo de Innovación para la Competitividad
+EC Economía Circular
+ERNC Energía Renovable No Convencional
+GEI Gas de Efecto Invernadero
+GEF Global Environment Facility (Fondo Mundial para el Medio Ambiente)
+Ley REP Ley de Responsabilidad Extendida del Productor
+Minagri Ministerio de Agricultura
+Minecon Ministerio de Economía
+Minsal Ministerio de Salud
+MINVU Ministerio de Viviendas y Urbanismo
+MMA Ministerio de Medio Ambiente
+MOP Ministerio de Obras Públicas
+MTT Ministerio de Transporte y Telecomunicaciones
+NFU Neumáticos fuera de uso
+NDC Nationally Determined Contributions (Contribuciones Determinadas a Nivel
+Nacional)
+OCDE Organización para la Cooperación y el Desarrollo Económico
+ODS Objetivo de Desarrollo Sostenible
+ODEPA Oficina de Estudios y Políticas Agrarias
+OIT Organización Internacional del Trabajo
+ONG Organización No Gubernamental
+PNCPS Programa Nacional de Consumo y Producción Sustentables
+SECS Secretaría Ejecutiva de Construcción Sustentable
+SOFOFA Sociedad de Fomento Fabril
+SONAMI Sociedad Nacional de Minería
+UE Unión Europea
+WEF World Economic Forum
+
+--- Página 4 ---
+Table of Contents
+I. Introducción ......................................................................................................................... 6
+A. Antecedentes ................................................................................................................... 6
+B. Objetivos ......................................................................................................................... 6
+C. Definiciones ..................................................................................................................... 7
+D. Gobernanza del proyecto ................................................................................................. 8
+E. Recopilación de experiencias y recomendaciones para la elaboración de hojas de ruta de
+EC 10
+II. Diagnóstico estratégico ..................................................................................................... 13
+A. Metodología .................................................................................................................. 13
+B. Evaluación de las capacidades e infraestructura existente en Chile para la adopción de la
+Economía Circular .................................................................................................................. 15
+C. Levantamiento de brechas ............................................................................................. 31
+D. Identificación de oportunidades en Chile para instalar la Economía Circular ................... 41
+E. Síntesis preliminar.......................................................................................................... 49
+F. Conclusión ..................................................................................................................... 53
+III. Bibliografía ........................................................................................................................ 56
+IV. ANEXOS ............................................................................................................................. 59
+A. Entrevistas ..................................................................................................................... 59
+B. Ejemplo de arquitectura poblada de una hoja de ruta .................................................... 61
+4
+
+--- Página 5 ---
+ASP eurochile
+5
+
+--- Página 6 ---
+I. Introducción
+El presente documento corresponde al tercer informe de la “Consultoría para construir una Hoja de
+Ruta de Economía Circular en Chile”, proyecto ejecutado por la Fundación Empresarial Eurochile
+para el Ministerio de Medio Ambiente (MMA). En esta introducción, se presentan los antecedentes
+que fundamentan la necesidad de desarrollar la hoja de ruta de Economía Circular (EC) para Chile,
+además de definir los objetivos de la consultoría y algunos conceptos claves para el trabajo.
+A. Antecedentes
+El sistema económico actual está basado en un modelo de producción lineal (extraer‐transformar‐
+usar‐desechar) que no es sostenible a largo plazo. En varios sectores productivos y regiones de
+nuestro planeta ya se están viendo las limitaciones de un sistema basado en el uso incontrolado de
+recursos finitos. La EC plantea un cambio sistémico radical, despidiéndose de modelos de
+producción lineales y apuntando a mantener el valor de los recursos, materiales y productos por el
+mayor tiempo posible y eliminar el concepto de residuo a través del ecodiseño, reparación y
+remanufactura de productos, recirculación y/o reciclaje de materiales, entre otros, valorizando la
+innovación y promoviendo el desarrollo de nuevos modelos de negocio.
+Este modelo está ganando atracción en Chile, y de forma de asegurar una implementación adecuada
+que realmente aproveche los fundamentos centrales de la EC, se ha definido la necesidad de
+desarrollar una estrategia a nivel país alineada con estrategias internacionales y adaptada a la
+realidad nacional y regional. Esta consultoría contratada por el Ministerio de Medio Ambiente
+(MMA) para “Construir una Hoja de Ruta de Economía Circular para Chile” es un paso importante
+para dar cumplimiento a esta necesidad.
+Las actividades e hitos propuestos en el marco de esta consultoría están alineados con las bases de
+la licitación y tienen como finalidad entregar una Hoja de Ruta de EC para Chile que sirva como
+punto de partida para el desarrollo de políticas públicas, emprendimientos, nuevos modelos de
+negocios, proyectos de cooperación, investigaciones, tecnologías, etc. alineados con los conceptos
+de la EC, para la generación a nivel nacional de capital social, ambiental y económico, y avanzar
+hacia un Chile Circular.
+B. Objetivos
+El objetivo general de la consultoría es construir una Hoja de Ruta de Economía Circular para Chile,
+que forme parte de la estrategia para adoptar un modelo de desarrollo sostenible en el país.
+Para alcanzar este objetivo, se han definidos los siguientes objetivos específicos:
+1) Identificar y caracterizar brechas y oportunidades, para adoptar la Economía Circular (EC).
+2) Construir la visión compartida de la Estrategia.
+3) Co‐diseñar una hoja de ruta para alcanzar la visión compartida.
+4) Elaborar Plan de Acción para la implementación de la Hoja de Ruta.
+5) Elaborar Plan de Monitoreo de la implementación de la Hoja de Ruta.
+6
+
+--- Página 7 ---
+De acuerdo a las bases administrativas y técnicas de esta consultoría, este tercer informe
+corresponde al objetivo 1, la elaboración de un diagnóstico estratégico que incluye la identificación
+de capacidades e infraestructura existente en Chile para la adopción de la EC, levantamiento y
+caracterización de las brechas y oportunidades en Chile para instalar la EC.
+C. Definiciones
+Para asegurar la correcta comprensión de este trabajo, se identifica la necesidad de definir algunos
+conceptos:
+ ¿Qué es una hoja de ruta?
+Una hoja de ruta es un plan estratégico que define una meta o resultado deseado, e incluye los
+principales pasos o hitos necesarios para alcanzarlo. También sirve como una herramienta de
+comunicación, un documento de alto nivel que ayuda a articular el pensamiento estratégico, el por
+qué, detrás de la meta y el plan para llegar allí.
+Existen varias metodologías reconocidas internacionalmente, de las cuales destacan:
+‐ Modelo IFM Cambridge
+‐ Modelo Industry Canada
+‐ Modelo “Technology Roadmapping” Handbook
+‐ Modelo de Backcasting
+ ¿Qué entendemos por Economía Circular?
+Mirando más allá del modelo industrial extractivo actual de tomar‐hacer‐usar‐disponer, la economía
+circular pretende redefinir el crecimiento, centrándose en la creación de beneficios positivos para
+toda la sociedad. Este cambio de paradigma implica separar gradualmente la actividad económica
+del consumo de recursos finitos y diseñar para eliminar la generación de desechos del sistema.
+Apoyado por una transición a fuentes de energía renovables, el modelo circular construye capital
+económico, natural y social y se basa en tres principios:
+‐ Eliminar la basura y la contaminación desde la etapa de diseño
+‐ Mantener productos y materiales en uso por el mayor tiempo posible
+‐ Regenerar los sistemas naturales
+Por definición, la EC es reparadora y regenerativa, y pretende conseguir que los productos,
+componentes y recursos en general mantengan su utilidad y valor en todo momento (Ellen
+MacArthur Foundation, 2017).
+Algunos países ya cuentan con una Hoja de Ruta de EC, tal como Finlandia, que fue el primero en
+desarrollar su Hoja de Ruta en el año 2016, seguido por Francia (2018) y Eslovenia (2018). Además,
+cabe destacar que se han elaborado estrategias y hojas de ruta de EC a distintas escalas (European
+Economic and Social Committee, 2019):
+‐ A escala nacional, como en Canadá, Colombia, España, Japón, Holanda, Dinamarca, Grecia,
+Italia, entre otros.
+‐ A escala regional, como en Flandes (Bélgica), Poitou Charentes (Francia), Norte de Países
+Bajos, Escocia, entre otros.
+‐ A escala local/de ciudad, como en Ámsterdam, Bruselas, Oslo, Porto, Maribor, entre otros.
+7
+
+--- Página 8 ---
+La Comisión Europea, pionera en promover una transición a una EC y líder del movimiento a nivel
+mundial, adoptó en 2015 un Plan de Acción de Economía Circular y presentó en 2018 un Paquete
+de EC. El 11 de marzo 2020, la Comisión Europa presentó un nuevo Plan de Acción de EC alineado
+con el Pacto Verde de la Unión Europea lanzado en diciembre 2019. Este plan contempla las
+siguientes medidas (Comisión Europea, 2020):
+‐ Hacer de los productos sostenibles la norma en la UE;
+‐ Empoderar a los consumidores y compradores públicos;
+‐ Centrarse en los sectores que utilizan la mayoría de los recursos y donde el potencial de
+circularidad es alto, tales como: electrónica y TIC; baterías y vehículos; envases y
+embalajes; plásticos; textiles; construcción y edificios; alimentos; agua y nutrientes;
+‐ Garantizar menos desperdicio;
+‐ Hacer que la circularidad funcione para personas, regiones y ciudades,
+‐ Liderar los esfuerzos mundiales en EC.
+La Hoja de Ruta de EC para Chile se enmarca en esta tendencia mundial y tendrá que informar y
+educar, cambiar los hábitos transfiriendo buenas prácticas, convencer de la necesidad de
+implementar la EC e inspirar a sumarse a esa transición a todos los actores para la generación de un
+ecosistema de EC.
+Por otro lado, la situación actual con las distintas crisis que está viviendo Chile y el mundo – la crisis
+social y la crisis sanitaria y económica provocada por el COVID‐19 – establece un nuevo contexto y
+precedentes que nos presentan la oportunidad de proponer el modelo circular como una de las
+soluciones a las crisis social, económica y climática, dejándonos con la tarea y el desafío de
+establecer, a través de esta hoja de ruta, una visión de futuro atractiva con lineamientos y acciones
+claras que permitan poner en marcha una transformación profunda de la economía chilena,
+alineada con los conceptos de la EC.
+D. Gobernanza del proyecto
+En 2019, el MMA, la CORFO y la Agencia de Sustentabilidad y Cambio Climático (ASCC) tomaron la
+decisión de generar una Hoja de Ruta de EC para Chile que sirva como base para impulsar una
+transición hacia el "Chile Circular" del futuro. Para el adecuado desarrollo del proyecto y pensando
+en su futura implementación, se ha establecido la necesidad de generar distintos comités para
+orientar y aportar en la construcción de la hoja de ruta.
+1. Comité Estratégico
+El Comité Estratégico es el máximo órgano de orientación estratégica y gestión técnica de la
+iniciativa, entregando los insumos y validando los resultados de cada etapa del proyecto. Este
+comité fue definido e invitado por el MMA, en base a los siguientes criterios:
+ Amplitud ‐ Se buscó integrar a personas/organizaciones que, en su conjunto, cubrieran
+cuatro sectores fundamentales: el sector público, el privado, la academia, y la sociedad civil.
+ Experiencia ‐ Se buscó integrar a personas/organizaciones que tuvieran experiencia previa
+en la temática de economía circular, o al menos en la temática de sostenibilidad.
+8
+
+--- Página 9 ---
+ Influencia ‐ Se buscó integrar a personas/organizaciones influyentes, con potencial para
+convertirse en promotores activos de la economía circular una vez que termine el proceso
+de elaboración de la estrategia.
+ Posición Estratégica ‐ Se buscó incluir a personas/organizaciones ubicados en posiciones
+estratégicas y de alta relevancia para la implementación de la economía circular.
+ Gobernabilidad ‐ Se buscó respetar un límite razonable de personas/organizaciones,
+entendiendo que habrán instancias de reunión del comité, y que un comité puede llegar a
+tener un número tan grande de personas que se vuelve ingobernable.
+En la tabla 1 se detallan las organizaciones que han confirmado su participación en el comité, junto
+con los representantes designados por cada institución.
+Tabla 1. Miembros confirmados del comité estratégico del proyecto de hoja de ruta de EC. Fuente:
+elaboración propia
+Institución Sector Representante
+Comunidad Académica (Universidad de Chile) Academia Alejandro Chacón
+Comunidad Académica (PUCV) Academia Marcel Szantó
+Fundación Chile Privado Angela Oblasser
+Acción Empresas Privado Kathrin Müller
+ACERA Privado Dario Morales
+ANIR Privado Alejandro Navech
+ASIPLA Privado Magdalena Balcells
+Cámara de Comercio de Santiago Privado Verónica Torres
+Cámara Chilena de la Construcción (CDT) Privado Juan Carlos León Flores
+Consejo Minero Privado Joaquín Villarino
+SOFOFA Privado Rafael Palacios
+SONAMI Privado Felipe Celedón
+Experto independiente Privado Gonzalo Muñoz
+Experto independiente Privado Petar Ostojic
+ASCC Público Ximena Ruz
+CORFO Público Andrea Mohr
+Ministerio de Ciencia y Tecnología Público Cristóbal Marin
+Ministerio de Desarrollo Social Público Victoria Paz
+Ministerio de Economía Público Javier Montero
+Ministerio de Energía Público Javier Obach
+Ministerio de Hacienda Público Victoria Gubbins
+Ministerio del Medio Ambiente Público Guillermo González
+Ministerio de Salud Público Felipe Moraga
+ODEPA (Ministerio de Agricultura) Público Daniela Acuña
+SUBDERE Público Manuel Muñoz
+AMUSA Público Alejandro Smythe
+MSUR Público Jaime Cataldo
+Innova Chile Público Carolina González
+AdC Circular Sociedad Civil Marcela Godoy
+Fundación AVINA Sociedad Civil Pamela Ríos
+Fundación Basura Sociedad Civil Macarena Guajardo
+Movimiento de Recicladores de Base de Chile Sociedad Civil Soledad Mella
+ODECU Sociedad Civil Stefan Larenas
+9
+
+--- Página 10 ---
+2. Comité Ejecutivo
+El comité Ejecutivo tiene como función liderar y coordinar el proceso de elaboración de la hoja de
+ruta. A la fecha de este informe, el comité ejecutivo está compuesto por las siguientes instituciones:
+‐ MMA
+‐ Ministerio de Economía
+‐ CORFO
+‐ ASCC
+‐ Consensus Building Institute (CBI)
+‐ Fundación Eurochile
+3. Comité Asesor Internacional (CAI)
+El rol del Comité Asesor Internacional es de carácter consultivo, estando disponible para asesorar y
+entregar recomendaciones y retroalimentación a lo largo del proceso. Las organizaciones que
+forman parte de este Comité son las siguientes:
+‐ Banco Interamericano del Desarrollo (BID)
+‐ Comisión Europea
+‐ Ellen MacArthur Foundation
+‐ Ministerio de la Transición Ecológica e Inclusiva de Francia
+‐ Ministerio de Infraestructura y Manejo de Aguas de los Países Bajos
+‐ Organización para la Cooperación y el Desarrollo Económico (OCDE)
+‐ SITRA ‐ Fondo de innovación de Finlandia
+‐ World Economic Forum (WEF)
+Además de estos tres comités, se podrá convocar a otros actores relevantes – expertos en las
+distintas temáticas a tratar, representantes de regiones y/o ciudadanía – a participar de las
+instancias de este proyecto, detalladas en el plan de trabajo, y eventualmente en otras instancias
+por definir, como mesas de trabajo temáticas, reuniones, entrevistas, etc.
+E. Recopilación de experiencias y recomendaciones para la elaboración de
+hojas de ruta de EC
+En el marco de la realización de la COP25 en diciembre 2019 en Madrid, y aprovechando la
+participación de varios actores relevantes de la EC, se organizó el 13 de diciembre, en las oficinas de
+ENDESA, un taller sobre la elaboración de hojas de ruta y estrategias de EC. Los participantes de la
+actividad se detallan en la tabla 2. El conversatorio cubrió estrategias y hojas de ruta, sea a nivel de
+sectores industriales, organizaciones no gubernamentales o instituciones del Estado. La instancia
+permitió conocer y evaluar buenas prácticas y lecciones aprendidas en los procesos de desarrollo
+de hojas de ruta de EC, en base a las experiencias de los participantes, recogiendo los logros y
+relevando las formas de gobernanza que se han dado en distintas partes del mundo, como también
+las barreras y restricciones de diverso orden que pudieran minar su expansión.
+10
+
+--- Página 11 ---
+Tabla 2. Participantes del conversatorio sobre procesos de elaboración de hojas de ruta de EC. Fuente:
+elaboración propia
+Participantes Cargo Institución
+José Aravena Director Ejecutivo Fundación Eurochile
+Luca Meini Gerente de Economía Circular ENEL Holding
+Gonzalo Salamanca Gerente de Relaciones Institucionales ENEL Chile
+Ernesto Hartikainen Senior Lead, Carbon‐neutral Circular Economy SITRA
+Linnet Solway Directora Transferencia Tecnológica y EC Fundación Eurochile
+Alfredo Oroval Encargado Economía Circular ENDESA España
+Beatriz Luz Fundadora Exchange4Change Brasil
+Nathalia Torres Encargada Economía Circular ENEL Colombia
+Julia Okatz Cooperación con Panel Internacional de Recursos SYSTEMIQ
+de Naciones Unidas
+Las conclusiones más importantes que se levantaron en esa instancia se comparten a continuación:
+‐ La gobernanza de la hoja de ruta es clave – es ideal si se puede liderar desde una institución
+independiente (por ejemplo, SITRA, que es una agencia que depende del parlamento
+finlandés) o desde el gabinete de la más alta autoridad. Por ejemplo, en Colombia, el
+desarrollo de la estrategia fue exitoso porque el mandato para desarrollar la estrategia de
+EC salió de la oficina del Presidente.
+‐ Es de suma importancia que los stakeholders, específicamente los que estarán a cargo de
+implementar las estrategias y acciones que se definen en la hoja de ruta, se apropien de ella
+y que, por lo mismo, participen del proceso de elaboración. En el proceso de elaboración de
+la hoja de ruta de EC de Finlandia, un aspecto clave fue la creación de un comité directivo
+dirigido por el Ministerio de Medio Ambiente de Finlandia y SITRA, y constituido por 15
+representantes de distintos sectores público y privado.
+‐ Puede ser difícil definir sectores específicos que la hoja debiera cubrir porque hay un riesgo
+de dejar fuera sectores o oportunidades intersectoriales que podrían tener alto potencial a
+nivel regional, nacional o internacional. Se recomienda elaborar, además de la hoja de ruta
+a nivel nacional, estrategias a nivel regional.
+‐ Establecer métricas y metas es bastante complejo, sobre todo para alinear metas entre los
+distintos focos/sectores. En Italia, se está contemplando desarrollar métricas a tres niveles:
+nivel macro (nacional), meso (sectorial) y micro (empresa).
+‐ Respecto de la participación ciudadana, si bien se destacó la importancia de tener instancias
+de participación ciudadana y de mantener informado a los interesados a través de distintos
+canales, la participación de ciudadanos en el proceso de desarrollo de la hoja de ruta no es
+tan evidente por la falta de conocimiento en materia de EC. También es importante manejar
+las expectativas de la gente frente a lo que se tiene que abordar en una hoja de ruta de
+EC, por ejemplo, en el ámbito social.
+‐ Se mencionaron las brechas normativas que pueden existir. Hay toda una legislación que
+promueve la economía lineal y para impulsar una transición exitosa a la EC (y no una
+economía lineal hecha más circular), el gobierno tiene que crear un marco regulatorio que
+impulse o al menos, no ponga trabas al desarrollo de negocios e innovaciones circulares.
+11
+
+--- Página 12 ---
+‐ Es clave que la estrategia de EC sea estrechamente relacionada con la estrategia de
+descarbonización. Idealmente debieran formar parte de un mismo documento/estrategia.
+Los mismo se menciona de relacionar la EC con los Objetivos de Desarrollo Sostenibles
+(ODS). El riesgo de no integrar las distintas estrategias es que los stakeholders (industria,
+bancos e inversionistas, entes reguladores) vean la EC, los ODS y la descarbonización como
+conceptos diferentes, no relacionados.
+12
+
+--- Página 13 ---
+II. Diagnóstico estratégico
+A continuación, se detalla la metodología usada para dar cumplimiento al objetivo específico de este
+informe (3.1.1 de las bases): Evaluación de las capacidades e infraestructura existente en Chile para
+la adopción de una EC. Además, se presenta el análisis y conclusiones de la evaluación desarrollada.
+A. Metodología
+Para el desarrollo del diagnóstico se utilizaron como fuente primaria, entrevistas a actores
+relevantes y como secundaria una revisión bibliográfica, las que al integrarse permiten una óptima
+caracterización de las capacidades e infraestructura existente para la adopción de una EC en Chile.
+1. Análisis de la bibliografía existente
+Esta etapa consistió en recopilar información ya existente sobre las capacidades, brechas y
+oportunidades de la adopción de la EC en Chile. También se identificó documentación e información
+sobre las Hojas de Ruta y estrategias de EC implementadas en algunos países y otras iniciativas
+relevantes.
+Definición de las etapas de levantamiento de la información:
+‐ Primero se elaboró una pauta detallada de la información relevante y especifica que se
+requiere levantar para el Diagnostico Estratégico, basado en lo requerido en los TDR de esta
+consultoría, en las necesidades que se identificaron durante la elaboración de la propuesta
+y en lo conversado en las reuniones con la contraparte técnica de este proyecto.
+‐ Luego se recopiló toda la documentación pertinente, además de los documentos
+mencionados en las bases de la licitación, buscando online utilizando palabras claves como
+“Hoja de Ruta de Economía Circular”, “Estrategia de Economía Circular”, “brechas de
+Economía Circular”, “Producción sustentable o circular”, “Consumo sustentable o circular”,
+“Gestión de residuos”, “Modelo de negocio circular”, etc., tanto en español como en inglés
+y haciendo una búsqueda especifica de estudios, trabajos, documentos, etc. Se
+consideraron los documentos necesarios para el desarrollo de todos los objetivos solicitados
+en la consultoría.
+‐ Para la sistematización y análisis de la información, se compiló toda la información
+levantada por cada miembro del equipo involucrado en la revisión bibliográfica y se fueron
+clasificando y agrupando los temas, fusionando la información repetida, de esta forma
+organizando la información por nivel de relevancia y objetivo específico.
+2. Entrevistas a los miembros del Comité Estratégico del proyecto .
+Se realizaron entrevistas semiestructuradas a la mayoría de los miembros del comité estratégico
+además de unos actores adicionales (ver anexo para un listado de las entrevistas realizadas), con el
+objetivo principal de identificar las capacidades e infraestructura existentes en Chile, brechas y
+oportunidades para la adopción de la EC, desde el punto de vista del entrevistado. Esta información
+se integró con la entregada por los otros entrevistados y levantada en la revisión bibliográfica.
+También se empezó de forma preliminar a identificar las aspiraciones en temas de EC de los
+entrevistados. Una pauta genérica de las entrevistas realizadas se encuentra disponible en el Anexo.
+Se establecieron las actividades como sigue:
+13
+
+--- Página 14 ---
+‐ Diseño de pautas de entrevista: Las pautas de entrevista se prepararon en base a
+información recolectada en la revisión de documentación, para validar y complementar la
+información ya levantada en informes previos, por ejemplo, en la consultoría “Mapa de
+actores e impacto potencial de la EC en Chile” en el marco de la cual se realizó un análisis
+FODA (Fortalezas, Oportunidades, Debilidades, Amenazas). También se diseñó
+considerando todos los objetivos de la consultoría, específicamente el levantamiento de
+brechas e identificación de oportunidades y las iniciativas prioritarias que implementar en
+Chile para avanzar hacia una EC.
+‐ Antes de la aplicación de las entrevistas, se validó una pauta genérica con la contraparte
+técnica del proyecto.
+‐ Además de los miembros del Comité Estratégico, se identificaron actores y sectores
+relevantes que no están representados en el Comité. Esa identificación se basará en los
+conocimientos del equipo consultor del ecosistema chileno, en la revisión de los actores
+identificados en el Mapa de actores de EC y una revisión en redes sociales y plataformas
+web de otros actores en EC y de sectores estratégicos en Chile. Con el apoyo de la
+contraparte técnica se contactará a todos los entrevistados.
+‐ Aplicación de entrevistas al Comité Estratégico y otros actores relevantes: Los entrevistados
+fueron contactados por el equipo de Eurochile para la coordinación de una video llamada.
+Cada entrevista de una duración de no más de 30‐40 minutos, se grabó con autorización del
+entrevistado para su transcripción (listado de entrevistados en Anexo). Debido a la
+contingencia del COVID‐19, que partió en las mismas fechas que la etapa de confirmación
+de las instituciones a participar del Comité Estratégico y de las propias entrevistas, no se
+recibieron respuestas a todas las invitaciones a participar de las iniciativas y no fue posible
+agendar las entrevistas de todos los confirmados antes de la entrega de este informe. Sin
+embargo, se seguirán coordinando y realizando las entrevistas a los miembros que faltan,
+información que se incluirá en el próximo informe donde se entrega el diagnostico
+estratégico en su totalidad.
+‐ Sistematización y análisis de las entrevistas. La sistematización y análisis de las entrevistas
+se realizó entre los miembros del equipo consultor que aplicaron las entrevistas. En base a
+las preguntas y los objetivos de la entrevista, se fue clasificando la información levantada
+según categorías indicadas en las bases punto 3.1.1 (listado abajo) y otras si es necesario,
+de forma visual para lograr una interpretación objetiva de los resultados.
+La información levantada tanto de forma primaria como secundaria se fue juntando y combinando,
+para llegar a una evaluación acotada y consolidada de las capacidades e infraestructura existente
+en Chile para la adopción de la EC. Así, el resultado de ambas aproximaciones permitió caracterizar
+la situación actual desde los siguientes aspectos:
+a) Tendencias de Mercado, ventajas y desventajas, drivers de negocio, competidores,
+capacidad asociativa
+b) La estructura empresarial y su capacidad de implementar la EC, mirando la cadena de valor
+completa, considerando la oferta y la demanda
+c) Capacidad de producción, viabilidad de adaptación de sus líneas de proceso hacia productos
+con componentes intercambiables
+14
+
+--- Página 15 ---
+d) Proyectos colaborativos de ciencia, tecnología e innovación (empresas, gremios,
+universidades, centros y entidades tecnológicas, centros de desarrollo empresarial,
+incubadoras)
+e) Plataformas habilitantes existentes para adoptar un modelo de EC, como centros i+D+i,
+instalaciones para prototipaje y pilotaje, matriz energética, infraestructura en general
+f) Las instituciones públicas que tienen injerencia en la materia, y su marco legal y normativo
+g) La fuerza de trabajo en cuanto a sus competencias y niveles de especialización para adoptar
+un modelo circular
+h) La oferta de educación y capacitación para la cadena productiva con la mirada circular
+i) Los criterios de compra de la demanda (clientes intermedios y finales)
+j) Casos exitosos: casos de EC a nivel regional dentro de Chile, que sirvan de efecto
+demostración
+B. Evaluación de las capacidades e infraestructura existente en Chile
+para la adopción de la Economía Circular
+Se presentan los resultados del levantamiento de información y su análisis para entregar una visión
+clara de las capacidades e infraestructura que hoy en día existen en Chile para la adopción de la EC.
+Los resultados se indican desde los aspectos listados anteriormente, y se detallan tanto las
+capacidades generales como ejemplos específicos identificados. En la tabla 4, al final de la sección,
+se recopilan las capacidades e infraestructura específica destacada.
+a. Tendencias del mercado, sus fortalezas y debilidades, drivers de negocio, competidores,
+capacidad asociativa
+A nivel de políticas públicas, se ha generado un número importante de estrategias sectoriales que
+buscan instalar buenas prácticas, capacidades, tecnologías y procesos para un desarrollo más
+sustentable de las actividades productivas del país.
+La Estrategia de Crecimiento Verde, elaborada por el Ministerio de Hacienda en conjunto con el
+MMA indica que una de las tendencias de mercado a potenciar es el fomento del mercado nacional
+de bienes y servicios ambientales, como Eco Innovación y Emprendimiento y Empleo Verde y
+Capacitación (Estrategia de Crecimiento Verde, 2009).
+De acuerdo a la Estrategia Nacional de Electromovilidad, desarrollada por el Ministerio de
+Transportes y Telecomunicaciones (MTT), el MMA y el Ministerio de Energía, se evalúo las
+tendencias del mercado automotor global y se concluyó que la participación de Chile es más bien
+pequeña, pues no produce vehículos ni es un gran importador de escala global. Tampoco hoy juega
+un rol decisivo en el mercado global de baterías, componente esencial de los vehículos eléctricos,
+salvo por la particularidad de su importante presencia en la producción de litio, al contar con un
+tercio de la producción mundial al 2016 y con más de la mitad de las reservas. Así, indica que existen
+espacios para el desarrollo de políticas públicas que pueden facilitar la implementación de una
+Economía más circular, a través de la adecuación de la normativa de urbanismo y construcción, de
+manera que facilite la inserción de automóviles eléctricos dentro de los sistemas de trasporte
+fomentando su competencia (Estrategia Nacional de Electromovilidad, 2017).
+15
+
+--- Página 16 ---
+En el sector energético, por otro lado, hay un fuerte impulso, tanto desde el sector público como
+desde el sector privado, para una transición de la matriz energética chilena hacia energías
+renovables no convencionales (ERNC). Desde 2015, el sector energético cuenta con una ambiciosa
+hoja de ruta con metas claras (Comité Consultivo de Energı́a 2050, 2015) que ha sido acogida por
+muchos de los actores del ecosistema y está en fase de implementación.
+El Programa Nacional de Consumo y Producción Sustentables (PNCPS) (Ministerio de Medio
+Ambiente, 2016) se desarrolló para “impulsar un crecimiento económico para contribuir a la
+protección del medio ambiente y equidad social, modificando los actuales patrones de consumo y
+producción, desacoplando el crecimiento y desarrollo del país de la degradación del medio
+ambiente. Contribuyendo de esta manera, a la disminución de impactos que impone el cambio
+climático en el país.” En figura 1, se evidencian las líneas de acción de la estrategia, las cuales
+abarcan un amplio espectro de las actividades económicas en Chile.
+Figura 1. Líneas de acción del Programa Nacional de Consumo y Producción Sustentables. Fuente:
+(Ministerio de Medio Ambiente, 2016)
+Si bien las palabras “economía circular” están mencionadas una única vez en el documento, en la
+línea de acción de gestión de residuos (p48 del PNCPS), varias de las estrategias y acciones definidas
+en el Programa están alineados con conceptos de EC.
+En el sector del retail, las tendencias del mercado marcan la entrada de la segunda mano o de
+arriendo para varios productos y sectores nichos: ropa, equipamiento deportivo, ropa formal/de
+gala, proyectos innovadores como Rentivo que arriendan artículos para guagua, oferta de artículos
+reacondicionados en grandes tiendas de retail.
+16
+
+--- Página 17 ---
+Rafael Palacios, director de Políticas Públicas en SOFOFA, menciona que hay algunas empresas de
+consumo masivo que han estado activas por las nuevas condiciones que establece la Ley REP. Y en
+general, la ley REP fue mencionada como el principal driver para la adopción de conceptos de EC en
+las empresas, en los sectores específicos cubiertos por la ley.
+Otro de los grandes conductores de las tendencias de la economía de un país son los Instrumentos
+y fondos disponibles desde CORFO para financiar proyectos para empresas, de manera que
+desarrollen innovaciones e instalen capacidades específicamente en el rubro de la EC. Carolina
+González, Directora de sustentabilidad de CORFO, en entrevista a Eurochile, hace mención al
+importante esfuerzo que se ha desarrollado dentro de la institución en ofrecer instrumentos que de
+alguna manera potencien una economía más sustentable, y permitan tanto a pymes como a grandes
+empresas dar espacios dentro de sus líneas productivas a la implementación de prototipos, nuevos
+procesos y nuevas tecnologías que sean más circulares.
+b. La estructura empresarial y su capacidad de implementar la EC, mirando la cadena de
+valor completa, considerando la oferta y la demanda
+La estructura empresarial y su capacidad de implementar EC ha sido abordado de manera tangencial
+en varios de los estudios y estrategias desarrollados a la fecha. En general, estos estudios describen
+la relevancia de considerar una reorganización de sus prioridades, de manera de dejar un espacio y
+recursos para implementar efectivamente medidas sustentables dentro del rubro productivo que
+representan.
+Un ejemplo es el informe de la Hoja de Ruta del Pacto por los Plásticos (Fundación Chile, 2020), el
+cual menciona que para lograr incrementar las tasas de reciclaje de envases y embalajes plásticos
+en las cantidades requeridas por las metas, se hace urgente promover y generar inversiones en la
+circularidad del plástico, desde el ecodiseño, educación, recolección, logística, infraestructura,
+valorización y generación de demanda para el material reciclado. El desarrollo de instrumentos
+económicos que apoyen el reciclaje inclusivo y la disposición de infraestructura y maquinaria son
+otras de las áreas que requieren ser fortalecidas para así aumentar las capacidades de acopio y
+poder entregar un material de mayor valor. La ausencia de estas medidas imposibilita la
+implementación de una EC.
+La mirada integral de toda la cadena de valor considerando oferta y demanda, también fue
+destacada por Pamela Ríos, Gerente Programática de la Fundación Avina en entrevista con
+Eurochile. Se destaca la falta de instancias de conversación de los actores relevantes en la toma de
+decisiones que frena en alguna medida la implementación de ideas innovadoras. La estructura
+empresarial debiera definir una rama que tenga como principal foco la implementación de medidas
+más circulares y que esté en conversación con el resto de las empresas de la cadena de valor. La
+idea de un observatorio de actores que visibilice la oferta y demanda de productos y tecnologías
+más sustentables favorecería su encuentro y la fluidez de la circularidad del sistema económico.
+En términos de las capacidades de la empresa en implementar economía circular, Pamela destaca
+que, por su carácter más estable en el tiempo, las empresas tienen la ventaja de implementar
+medidas a largo plazo y comprometerse con la ejecución de planes más sustentables sin tener que
+depender de los cambios que las instituciones estatales sufren periódicamente. De manera que
+sugiere que tanto actores públicos como privados demuestren su compromiso en la
+implementación de EC de manera que transcienda a las personas.
+17
+
+--- Página 18 ---
+Al preguntarle sobre las capacidades existentes en las empresas para la adopción de la EC, Rafael
+Palacios destaca que existe una capacidad genérica de implementación de estrategias innovadoras
+dentro de muchas empresas, con gerencias, direcciones o capital humano trabajando en innovación
+que, si bien no está directamente relacionado con EC, sí existe el interlocutor en la empresa que
+tendría como misión implementar innovación, también en temas de EC.
+En base a los comentarios de los entrevistados y los casos de éxito mencionados, aparecen dos
+figuras de implementación de modelos de EC en las empresas:
+‐ Startups que han desarrollado un modelo circular desde “el minuto 1”, por lo que el riesgo
+del cambio de modelo de negocios es despreciable;
+‐ Empresas grandes, más tradicionales, que están trabajando a modo de prueba y error y que
+su costo de oportunidad no es significativo para su estabilidad financiera.
+Pero en ambos casos, estas empresas son la excepción y no la regla.
+Así, la estructura empresarial merece ser un tema por abordar si se persigue la implementación de
+una EC que trascienda las personas y se incorpore en el alma de las instituciones.
+c. Capacidad de producción, viabilidad de adaptación de sus líneas de proceso hacia
+productos con componentes intercambiables
+De los estudios analizados en el marco de esta consultoría, en ningún caso se aborda
+específicamente la capacidad de producción ni viabilidad de adaptación de las líneas de procesos en
+organizaciones, en pro de la implementación de la EC. Si se han identificado iniciativas que
+potencian la investigación y desarrollo de prototipos más circulares o tecnologías más limpias, etc.,
+que promueven la implementación de componentes intercambiables, sin embargo, están lejos de
+ser probados a nivel de campo, donde su potencial escalamiento a nivel industrial e implementación
+tampoco ha sido abordado. Así, las capacidades de producción de productos con componentes
+intercambiables es un tema de desarrollo pendiente. Sin perjuicio de lo anterior en varios de los
+estudios se analiza de forma general los cambios a nuevos modelos de negocios más circulares.
+De acuerdo a las opiniones de Pymes del grupo de trabajo de EC de Eurochile, aunque existe la
+iniciativa por innovar en esta temática, el riesgo económico de cambiar su modelo de negocios no
+es sostenible, precisamente porque los frena en su capacidad de producción (Comunicación
+personal, Carmen Gloria Aracena, Gerente de TECNOCAL S.A.).
+Aunque algunas empresas participantes del Pacto por los Plásticos y del Acuerdo de Producción
+Limpia (APL) Cero Residuos han implementado algunos cambios, éstas son adaptaciones menores a
+sus líneas de proceso.
+d. Proyectos colaborativos de ciencia, tecnología e innovación (empresas, gremios,
+universidades, centros y entidades tecnológicas, centros de desarrollo empresarial,
+incubadoras, etc.)
+En este aspecto, se identifican numerosas iniciativas que demuestran el interés que existe en Chile
+en desarrollar ideas innovadoras que resulten en prototipos más circulares y tecnologías más limpias
+y que a su vez dan cuenta de la disposición de las instituciones a colaborar para desarrollarlas.
+18
+
+--- Página 19 ---
+En la ASCC, se han puesto en marcha APL en cinco de los seis productos prioritarios que establece
+la Ley: aceites lubricantes, aparatos eléctricos y electrónicos, envases y embalajes, baterías y
+neumáticos que consideran el desarrollo de actividades específicas para generar investigación,
+información, datos y métricas, desarrollar redes de trabajo y colaboración, planes de gestión,
+capacitación (Agencia de Sustentabilidad y Cambio Climático, 2020). Estos APL se ejecutan a través
+de asociaciones empresariales representando los distintos sectores involucrados. El APL de Eco
+etiquetado de envases y embalajes es el acuerdo más reciente, apoyado por SOFOFA entre otros, y
+cuenta con la participación de 29 empresas a la fecha (Agencia de Sustentabilidad y Cambio
+Climático, 2020). También destaca el APL que está liderando la Cámara de Comercio de Santiago
+(CCS), que agrupa a las principales empresas que comercian productos eléctricos y electrónicos,
+apuntando a dar cumplimiento a la Ley REP (Torres, 2020). También se está implementando un APL
+Cero Residuos, impulsado por Acción Empresas junto a la ASCC que cuenta con la participación de
+47 empresas (Acción Empresas, 2019).
+El programa BRILLA nace como un proyecto de Bien Público, financiado por el Ministerio de
+Economía a través del Fondo de Inversión Estratégico, FIE, apoyado por Innova CORFO y por el
+Comité Solar (CTC‐N, 2020). Es un programa de innovación abierta en energía solar que busca
+acelerar el desarrollo de la industria nacional, potenciando a proveedores que entregan soluciones
+tecnológicas que se requieren para los desafíos de innovación que demanda la industria energética.
+BRILLA vincula tanto a oferentes como demandantes con el ecosistema de innovación,
+financiamiento y emprendimiento asociado a la industria solar para resolver asimetrías de
+información, costos transaccionales y de coordinación.
+Hasta septiembre de 2020 se encuentra vigente un fondo GEF‐FAO para el “Fortalecimiento de la
+Capacidad de Adaptación en el Sector Pesquero y Acuícola Chileno al Cambio Climático”, iniciativa
+que apunta a superar barreras como las debilidades del marco institucional, la disponibilidad de
+tecnologías y aplicación de buenas prácticas en el sector pesquero (CTC‐N, 2020).
+El Programa Estratégico Salmón Sustentable de CORFO, en coordinación con la Gerencia de
+Capacidades Tecnológicas de esta misma institución, impulsó la ejecución de un plan para el
+desarrollo de infraestructura habilitante, así se formó el Consorcio de Acuicultura Oceánica SPA. El
+consorcio es producto de un programa tecnológico de CORFO, para buscar soluciones tecnológicas
+y procedimientos de operación que permitan e instalar y operar centros de cultivo para la
+Acuicultura Oceánica (AO) (CTC‐N, 2020).
+El sector de la Educación Superior se ha movilizado para generar su aporte al cumplimiento de los
+ODS de la Agenda 2030. Por ejemplo, la Red Campus Sustentable, asociación de 17 instituciones de
+Educación Superior dedicada a la promoción de la sustentabilidad entre estas entidades, ha
+realizado diversas acciones en torno a las variables de la sostenibilidad. Entre ellas destacan un
+Diplomado, el “Reporte y Evaluación de la Sustentabilidad en Instituciones de Educación Superior
+(RESIES)” y la promoción de un Acuerdo de Producción Limpia (APL) que vincula los ODS con la
+acción de dichas casas de estudio (Consejo Nacional para la implementación de la Agenda 2030 de
+Desarrollo Sostenible, 2019).
+Destaca también la iniciativa SOFOFA Hub, que nace el año 2019 al alero de SOFOFA, como un
+ecosistema de colaboración que convoca a las principales empresas del país para abordar desafíos
+empresariales relacionados con la EC de manera colectiva (SOFOFA, 2019).
+19
+
+--- Página 20 ---
+La Universidad de Valparaíso está ejecutando el proyecto “Plataforma de ecología industrial región
+de Valparaíso” iniciativa financiada por el Gobierno Regional de Valparaíso a través del Fondo de
+Innovación para la Competitividad (FIC) que tiene por objetivo diseñar e implementar una
+plataforma de facilitación y seguimiento de iniciativas de simbiosis industrial, entendiendo esto
+como transacciones y reutilización de residuos y sub‐productos industriales no peligrosos, entre
+empresas de la región (Universidad de Valparaíso, 2017)
+e. Plataformas habilitantes existentes para adoptar un modelo de EC, como centros I+D+i,
+instalaciones para prototipaje y pilotaje, matriz energética e infraestructura en general
+Existen plataformas que de alguna manera aportan en la transición a una economía circular en Chile,
+correspondiéndose con la infraestructura necesaria para desarrollar los distintos modelos
+circulares.
+Los centros de I+D+i son esenciales para poder articular la innovación con la industria, por lo que se
+inició la creación de un Centro de Desarrollo Tecnológico de Economía Circular que apunta a resolver
+las brechas de infraestructura y equipamiento tecnológico y demanda por innovación vinculado a la
+minería y otras industrias presentes en la Macrozona Norte. El Centro fue adjudicado en noviembre
+de 2019 por un total de USD 21.5 millones, suma enterada entre el aporte CORFO y los asociados
+del consorcio liderado por el Centro de Innovación para la Economía Circular de Iquique (CIEC) para
+10 años de funcionamiento. El Centro desarrollará proyectos en áreas relacionadas con la energía
+solar, sales de litio, baterías de litio y almacenamiento de energía, minería metálica y no metálica,
+entre otros (CTC‐N, 2020). En una entrevista dada a Eurochile, Andrea Mohr, Asesora de la
+Vicepresidencia Ejecutiva de CORFO, indica que los últimos programas financiados por CORFO están
+abiertos a que tanto pymes, como empresas más grandes formen parte de los proyectos, de manera
+que se facilite la inclusión de los nuevos prototipos desarrollados en las líneas productivas de las
+empresas.
+Además, existen iniciativas ya en funcionamiento. En ese sentido LEITAT Chile, centro tecnológico
+privado sin fines de lucro ubicado en la Región Metropolitana y que llegó a Chile hace 5 años, acaba
+de firmar un convenio con la Universidad de Concepción para desarrollar durante 2020 el programa
+“Desafíos tecnológicos en la industria bajo la mirada de Economía Circular”, un espacio de difusión
+y desarrollo del ecosistema manufacturero (CTC‐N, 2020). El Centro de Extencionismo Tecnológico
+para la Manufactura Avanzada (CETMA) de la región (Biobío) es un catalizador para las
+oportunidades circulares para las Pymes, ya que trabaja en áreas de transformación digital,
+eficiencia energética, diseño y fabricación (CTC‐N, 2020).
+La región de los Lagos concentra 10 centros de investigación que desarrollan líneas de trabajo en
+pesca o acuicultura, oceanografía, ecología y ciencias ambientales, radicados en universidades,
+institutos de investigación públicos o privados, otorgándole capital humano para el desarrollo de
+I+D+i (CTC‐N, 2020).
+Fundación Fraunhofer Chile Research, busca avanzar en su meta de impulsar el desarrollo
+sustentable de Chile y Latinoamérica (CTC‐N, 2020), se estableció en 2010 para promover el
+intercambio científico entre Chile y Alemania, realizando I+D orientado a responder a las
+necesidades de los sectores estratégicos para Chile, tales como agricultura, alimentos e
+ingredientes, acuicultura, biosustentabilidad industrial y energía solar.
+20
+
+--- Página 21 ---
+Existe infraestructura que permite generar información y datos duros necesarios para desarrollar la
+EC, como la División Técnica de Estudio y Fomento Habitacional, que tiene capacidad para mantener
+actualizados los datos de residuos generados por la industria de la construcción y como se gestionan,
+lo cual se demostró al realizar un estudio que entregó información sobre la cobertura de disposición
+de residuos, la cantidad de residuos de construcción que se genera y una proyección para los
+próximos 10 años (Hoja de Ruta RCD Consulta Publica, 2019).
+El turismo es un área prioritaria de desarrollo para la sustentabilidad y la EC, existiendo iniciativas
+como “el Plan Especial de Infraestructura MOP de Apoyo al Turismo Sustentable al año 2030, Región
+de Biobío”, para la implementación se levantaron 200 zonas de interés y proyectos que van desde
+el agua potable rural al mejoramiento de puertos y requerirán de un esfuerzo conjunto y sobre todo
+coordinación y disminuir la asimetría de información para lograr estándares de sustentabilidad.
+(CTC‐N, 2020).
+Además, existen 20 Fab Labs a lo largo del país, de los cuales 13 están en Santiago, y los demás se
+encuentran en las siguientes regiones: Antofagasta, Coquimbo, Valparaíso, Maule (2), Biobío y
+Magallanes (Fabfoundation, 2020). Estos laboratorios son espacios de creación e innovación y
+forman parte de la infraestructura que puede apoyar el desarrollo de prototipos ecodiseñados y
+otras iniciativas relacionadas con EC.
+Respectos de infraestructura para reciclar y valorizar residuos a nivel nacional, un estudio encargado
+por el MMA identifica que en el país existen 7.186 puntos verdes, 98 puntos limpios y 54 empresas
+valorizadoras de residuos, la mayoría concentrada en la Región Metropolitana, además de 216
+centros de acopio. El detalle de las instalaciones y su distribución nacional se identifica en tabla 3.
+El estudio también identifica el porcentaje de capacidad de valorización versus cantidad generada
+en el país para los productos prioritarios de la ley REP: aceites lubricantes: 217%; neumáticos fuera
+de uso (NFU): 25%; baterías fuera de uso: 92%; envases y embalajes ‐ papel y cartón: 122% , vidrio:
+112%, plásticos: 23%, metal: 51%; pilas: 0%; aparatos eléctricos y electrónicos (AEE): 1%
+(Subsecretaría del Medio Ambiente, 2018).
+Tabla 3. Distribución regional según tipo de instalación. Fuente: (Subsecretaría del Medio Ambiente, 2018)
+21
+
+--- Página 22 ---
+Además, en la “Evaluación del estado actual de la economía circular para desarrollar una hoja de
+ruta para Brasil, Chile, México y Uruguay”, estudio en ejecución para el CTCN, se identifica que
+Antofagasta cuenta con un nuevo relleno sanitario, con un espacio habilitado para la selección y
+reciclaje de residuos (CTC‐N, 2020).
+f. Las instituciones públicas que tienen injerencia en la materia, y su marco legal y normativo
+Las instituciones públicas juegan un rol protagónico al momento de implementar la EC ya que las
+políticas de Estado que adopte el gobierno y que apunten a la EC, permitirán generar leyes, planes
+estratégicos y otras herramientas, las cuales a su vez deberán ser implementadas por todo el
+aparato estatal, como los ministerios y sus reparticiones.
+Primero, cabe destacar la creación de la Oficina de Implementación Legislativa y EC del MMA, a
+partir de la antigua Oficina de Residuos y Riesgo Ambiental. Más que un cambio semántico,
+Guillermo González, jefe de esa oficina, destaca que se ampliaron las líneas de trabajo y atribuciones
+de esa oficina y que una de sus grandes fortalezas es que el trabajo se realiza en estrecha
+colaboración con las autoridades del ministerio.
+Por otro lado, el Programa Nacional Consumo y Producción Sustentable (2016‐2025) reconoce la
+transversalidad y multisectorialidad que el consumo y la producción más sustentables le imprimen
+al desarrollo sostenible del país. En él se reúnen y explicita los distintos esfuerzos del sector público
+en estas materias, identificando líneas de acción sobre las que se enfocará el objetivo de cambiar
+los actuales patrones de consumo y producción. Ese esfuerzo por coordinar las iniciativas del Estado
+en el que se identifican que actores clave van a tener injerencia en las distintas líneas de acción,
+para avanzar en la sustentabilidad y por consiguiente en la EC (Ministerio de Medio Ambiente,
+2016).
+‐ Dentro del sector Construcción , el Ministerio de Viviendas y Urbanismo (MINVU), a través
+de la Secretaría Ejecutiva de Construcción Sustentable (SECS), y el MMA, durante el diseño
+del Plan de Acción es el encargado de definir los roles y labores que deberán ejecutar otros
+actores claves del Comité Interministerial y Consultivo de Consumo y Producción
+Sustentables.
+Además, desde 2013, la SECS está trabajando en la elaboración de una Estrategia Nacional de
+Construcción Sustentable, herramienta orientadora que establece los principales lineamientos para
+impulsar la integración de criterios de sustentabilidad en el área de la construcción en Chile (SECS,
+2020).
+‐ En el sector Tur ismo, se reconoce como actores relevantes a la Mesa Nacional de
+Sustentabilidad Turística, coordinada por la Subsecretaría de Turismo, con la participación
+de Sernatur, la Subsecretaría del Medio Ambiente, el Consejo Nacional de la Cultura y las
+Artes, CORFO, FEDETUR y la Pontificia Universidad Católica de Valparaíso a través de su
+Centro Vincular, también es de interés la participación del Ministerio de Relaciones
+Exteriores.
+‐ En la línea alimentos se identifica al Ministerio de Agricultura (Minagri), a través de ODEPA,
+a la Subsecretaría de Pesca para temas de pesca y acuicultura, y el MMA, será también
+importante la participación del Ministerio de Economía, el Consejo de Producción Limpia
+(CLP, hoy ASCC) y ProChile (Ministerio de Relaciones Exteriores).
+22
+
+--- Página 23 ---
+En 2019, Odepa publicó un “Estudio Economía Circular en el sector agroalimentario chileno” que
+recopiló el estado del arte en el sector agroalimentario chileno, revisando experiencias
+internacionales e iniciativas en Chile, identificando oportunidades y desafíos de la EC para el sector
+agroalimentario y entregando pasos a seguir para promover la EC (ODEPA, 2019).
+‐ El sector industrial, los actores reconocidos son el Ministerio de Economía, CORFO y MMA.
+Son a su vez actores relevantes el Consejo Minero, SONAMI, CODELCO, otras empresas
+mineras, SOFOFA, ASIQUIM, CPC y otros gremios de las principales industrias del país.
+También es importante el rol del Consejo Nacional de Innovación para el Desarrollo.
+‐ En la línea de acción consumidor y de cómo empoderarlos, identificamos actores al MMA y
+DIRECON (Ministerio de Relaciones Exteriores) encabezarán el desarrollo de esta línea
+desde el sector público en conjunto con el Servicio Nacional del Consumidor, el CLP y el
+Ministerio de Desarrollo Social entre otros que serán definidos durante el diseño del Plan
+de Acción.
+‐ En el á rea educación , identificamos nuevamente al MMA, como un actor relevante, a través
+de sus divisiones de Educación Ambiental y de Información y Economía Ambiental. Otros
+organismos públicos relevantes serán el Ministerio de Educación, SERNAC, Ministerio de
+Relaciones Exteriores (DIMA), Ministerio del Deporte, Ministerio de Salud y MTT. Las
+instituciones educativas tendrán un rol central, además de los gobiernos regionales y locales
+en la articulación territorial.
+‐ Para ciudades sustentables se indica que será liderada por el MINVU y el MTT en estrecha
+colaboración con los gobiernos regionales, locales, la Subsecretaría de Desarrollo Regional
+y Administrativo, Ministerio de Relaciones Exteriores y el MMA. Estos organismos definirán
+con mayor precisión sus roles, durante el desarrollo de la mesa de trabajo que integrarán
+para la definición del Plan de Acción. Será fundamental el rol del Comité Interministerial
+Ciudad, Vivienda y Territorio, el Consejo Nacional de Desarrollo Urbano y el trabajo
+desarrollado para la implementación de la Política Nacional de Desarrollo Urbano. Este
+trabajo técnico multisectorial contribuirá a definir mejor los roles de los distintos actores e
+integrar las distintas políticas y programas.
+‐ En la línea de acción sector público, la implementación del Programa y plan nacional de
+consumo y producción sustentable será encabezado por el Consejo de Ministros para la
+Sustentabilidad, coordinado por el MMA. Además, por la naturaleza de esta línea, estarán
+involucrados todos los organismos públicos, incluyendo a los gobiernos regionales y locales.
+A raíz de esta línea de acción, el MMA lanzó un programa “Estado Verde” cuyo objetivo es que las
+instituciones públicas incorporen políticas, principios y prácticas amigables con el medio ambiente,
+así como de conservación de los recursos, tanto en la administración de las dependencias físicas,
+como en la gestión de los procesos administrativos (Ministerio de Medio Ambiente, 2019).
+‐ La institución encargada de implementar el Programa en la línea de acción Pymes, será la
+Subsecretaría de Economía en conjunto con el Consejo de Responsabilidad Social para el
+Desarrollo Sostenible, el Consejo Consultivo de EMT y el Consejo de Desarrollo Cooperativo
+y de la Economía Social, donde se encuentran representados diversos organismos y
+asociaciones relevantes.
+‐ El CPL (hoy la ASCC) tendrá un rol importante, como articulador de la relación del sector
+privado con sector público en la implementación de iniciativas, aprovechando su
+conocimiento y cercanía con las empresas de los distintos sectores productivos. También
+23
+
+--- Página 24 ---
+las Asociaciones Gremiales jugarán un rol importante como representantes del sector
+privado. Otros organismos relevantes para el desarrollo general de esta línea son CORFO,
+SERCOTEC, el Ministerio de Trabajo a través del SENCE, ChileCompra y ProChile.
+‐ El área de gestión de residuos , las acciones son lideradas por el MMA, a través de su Oficina
+de Residuos y Riesgo Ambiental (actual Oficina de Economía Circular), quien encabezará
+esta línea de acción desde el sector público, proponiendo normativas, actualizando la
+política pública de residuos y velando por su implementación. Otras secciones relevantes
+del MMA, serán el Departamento de Gestión Ambiental Local, quien promoverá la
+implementación de las acciones en todos los gobiernos locales del país, y la División de
+Información y Economía Ambiental, quien coordinará acciones relacionadas a la captura de
+información, etiquetado y estudios de impacto de las normativas.
+En esta materia, en una entrevista de Eurochile a Manuel Muñoz, Coordinador Unidad Nacional
+de Residuos Sólidos en Ministerio del Interior (SUBDERE), indicó que “no existe un
+reconocimiento oficial de la Política Nacional de Residuos Sólidos 2018‐2030 por no ser
+publicada nunca en el diario oficial, por lo que no se constituye como instrumento oficial de
+trabajo, y que el MMA finalmente no validó. Así, hoy no hay una política nacional de residuos
+sólidos. De manera local, se está trabajando de forma global una estrategia nacional de residuos
+orgánicos, la reactivación de políticas de recicladores de bases, ley REP, etc. que de alguna
+manera ordenan el trabajo, pero una visión general no existe”. Debido a lo anterior actualmente
+se encuentra vigente el Plan de Gestión de Residuos Sólidos (2005).
+‐ En Energías limpias y eficiencia energética , los actores relevantes son el Ministerio de
+Energía, que liderará el desarrollo de esta línea de acción desde el sector público. Otros
+actores relevantes serán la Agencia Chilena de Eficiencia Energética (AChEE), MMA, MOP,
+MINVU, MTT, Ministerio Secretaría General de la Presidencia y CORFO. El rol de estos
+organismos se definirá durante la mesa de trabajo que construirá el Plan de Acción para esta
+línea. También será importante la integración a esta línea de acción del sector privado
+(empresas generadoras, distribuidoras y usuarios de energía) y la academia, principalmente
+en ámbitos vinculados a I+D.
+‐ El ámbito de gestión del agua , son encabezadas por el MOP, en conjunto con el MMA. El
+MOP estará a cargo de la coordinación con los otros actores involucrados entre los que se
+encuentran la Superintendencia de Servicios Sanitarios, el MMA, el Ministerio de Energía y
+el Ministerio de Educación, quienes serán asesores y desarrollarán las herramientas
+necesarias para la gestión del agua. Otros actores importantes son el Minagri (Comisión
+Nacional de Riego) y el MINVU.
+Ya habiendo definido las líneas de acción y las entidades responsables, también debemos identificar
+otras capacidades existentes ligadas a la institucionalidad, como los son las normas, el cumplimiento
+de sus roles y sus capacidades durante el avance de las iniciativas, entre otros.
+El Ministerio de Economía está trabajando en la creación de un plan de innovación de largo plazo,
+la Política CTIE, dónde uno de los tres desafíos país identificados es el Cambio Climático (Ministerio
+de Economía, Fomento y Turismo, 2019), lo cual presenta la oportunidad de implementación de
+políticas y un marco normativo que fomente el desarrollo de innovaciones y modelos circulares.
+Sin embargo, específicamente en EC, los primeros pasos para impulsarla en Chile han sido la
+implementación de la Ley 21.100/2018 que “Prohíbe la entrega de bolsas plásticas de comercio en
+todo el territorio nacional” (MMA, 2018) y la Ley 20.920/2016, “Ley que establece Marco para la
+24
+
+--- Página 25 ---
+Gestión de Residuos, la Responsabilidad Extendida del Productor y Fomento al Reciclaje” o Ley REP.
+Para su funcionamiento, se requiere la elaboración de una serie de reglamentos para cada producto
+prioritario, además crea el Fondo para el Reciclaje, que financia proyectos de municipalidades y
+asociaciones de municipalidades dirigidos a prevenir la generación de residuos en sus comunas y
+promover su separación, reutilización y reciclaje. La ley REP , tiene por objeto disminuir la generación
+de residuos y fomentar su reutilización, reciclaje y otro tipo de valorización, obliga a los productores
+de determinados productos prioritarios a organizar y financiar la recolección, reciclaje y/o
+valorización de los residuos que estos originan (CTC‐N, 2020).
+Recientemente, se aprobó en la Comisión de Medio Ambiente del Senado el Proyecto de Ley que
+regula el uso de “plásticos desechables de un solo uso”. Esta Ley establece la obligación de
+incorporar un 25% de material reciclado en las botellas plásticas en 2025, y un 50% para el año 2030,
+una exigencia mayor incluso a la fijada por la Unión Europea el año pasado (Molina, 2020).
+Hace poco se publicó la Norma Chilena referente a Residuos de Demolición y Construcción, cuyo
+mandante es el MINVU (NCh 3562). Esta Norma Chilena es un primer paso para avanzar hacia una
+regulación de los residuos generados por el rubro de la construcción, apuntando a la circularidad.
+La construcción sustentable en Chile se ha desarrollado de manera incipiente, apalancada por el
+desarrollo e implementación de iniciativas privadas. El sector público se suma con el Código de
+Construcción Sustentable para Viviendas y el Certificado de Edificios Sustentables, que lo incluyen
+como un importante actor. Sin embargo, se requiere el desarrollo de un marco normativo común
+que regule y defina los criterios, consideraciones y exigencias en materias de sustentabilidad en el
+sector (PMG, 2017).
+También cabe mencionar la iniciativa internacional de la cual Chile forma parte activa: el desarrollo
+de una norma ISO TC323 de EC para la “estandarización en el campo de la EC para desarrollar un
+marco, orientación, herramientas de apoyo y requisitos para la implementación de actividades de
+todas las organizaciones involucradas, para maximizar la contribución al Desarrollo Sostenible” (ISO,
+2019).
+Finalmente, cuando se habla de Economía Circular, también se hablar de preferir lo local y potenciar
+los atributos locales, como una vía para obtener modelos de negocio circulares. Por lo anterior es
+que los gobiernos locales tienen un rol y compromiso en la implementación de la Agenda 2030, por
+lo que la Asociación Chilena de Municipalidades (AChM) buscó fortalecer las capacidades de sus
+miembros y realizó las Escuelas de Capacitación Municipal de enero de 2019 los ODS y sus
+aplicaciones locales. Estas actividades, realizadas en las regiones de Arica y Parinacota, Los Lagos,
+Magallanes y Antártica Chilena y Metropolitana, contaron con la colaboración de la CEPAL, PNUD
+Chile, la Federación Latinoamericana de Ciudades, la Asociación Canadiense de Municipalidades
+(FCM) y Ciudades y Gobiernos Locales Unidos (CGLU), entre otras entidades (Consejo Nacional para
+la implementación de la Agenda 2030 de Desarrollo Sostenible, 2019), lo cual además demuestra
+una capacidad de convocatoria y coordinación de distintos actores.
+g. La fuerza de trabajo en cuanto a sus competencias y niveles de especialización para
+adoptar un modelo circular
+Para adoptar e implementar la EC en Chile, se debe contar con capital humano, que comprenda y
+cuente con conocimientos respecto a los conceptos de la EC, como lo son el ecodiseño, la
+valorización de productos y materiales, el reciclaje, los modelos de negocio asociado al reuso,
+remanufactura o producto‐como‐servicio, entre otros. Este capital humano debe estar inserto en
+los distintos sectores productivos y tener la capacidad de identificar las etapas y procesos más
+25
+
+--- Página 26 ---
+ineficientes y/o que tienen los impactos ambientales más importantes a lo largo de la cadena de
+valor y entender como se pueden hacer más eficientes al aplicar conceptos de EC, por ejemplo al
+aplicar conocimientos de ecodiseño que permiten identificar requerimientos ambientales y de
+diseño para repensar los productos y servicios, o desde el área de negocios o comercial de las
+empresas, repensando el modelos de negocio de la empresa . Específicamente en el rubro de
+gestión de residuos, es necesario contar con profesionales que sepan cómo separar y reciclar
+correctamente los distintos residuos generados. El capital humano avanzado es importante, ya que
+los distintos componentes de la EC requieren de cierta especialización para comprenderlos e
+implementarlos.
+En Chile existen variados centros de generación y capacitación de capital humano, destacando las
+universidades, las alianzas que tienen entre ellas para generar conocimientos en temas específicos
+y los centros de I+D+I. (CTC‐N, 2020).
+Sin embargo, en algunas áreas de la economía circular, no existe suficiente conocimiento previo de
+“cómo hacer las cosas” por lo que se da que hay bastantes profesionales que han desarrollado un
+interés en temas circulares y que han desarrollado capacidades por cuenta propia o dentro de la
+organización en que se desempeñan, a través de la prueba y error.
+En la Estrategia Nacional Electromovilidad, se identifica la falta de competencias y de especialización
+en temáticas como características de la red de carga, formulación de estándares y normas técnicas
+para los vehículos y su operación, que deben abordase como primera línea de acción. Este
+diagnóstico es reconocido por Carolina González, Directora de Sustentabilidad de CORFO, que
+destaca la importancia de preparar a la fuerza de trabajo responsable del desarrollo de la Economía
+Circular con niveles más altos de especialización, llamando el apoyo desde la academia para abordar
+esta brecha (Ministerio de Energía, 2017).
+Desde el sector de gestión de residuos, se destaca la opinión entregada por Manuel Muñoz,
+coordinador del programa de gestión de residuos sólidos de la SUBDERE, se destaca la falta de
+competencias y de niveles de especialización para seleccionar y poner en marcha iniciativas
+presentadas por el sector privado en los municipios. Esta opinión es compartida por Pablo
+Fernandois, Profesional de la Oficina de EC del MMA quién destaca ese factor como clave para el
+desarrollo de sistemas de gestión de residuos adecuados al modelo que presenta la EC.
+No obstante lo anterior, hay que destacar iniciativas como los APL, que han instalado y siguen
+instalando capacidades para la implementación de conceptos de EC dentro de las empresas.
+Macarena Mella, jefa de proyectos en Acción Empresas, destacó en su entrevista que gracias al APL
+Cero Residuos, las empresas cuentan con un mayor grado de madurez en la gestión de residuos y
+que ahora poseen conocimientos específicos para partir con la implementación de la EC en sus
+plantas.
+h. La oferta de educación y capacitación para la cadena productiva, con la mirada circular
+Si bien existe una amplia oferta de cursos y capacitaciones en temas de sustentabilidad para el
+sector productivo y empresarial en general, sin embargo, específicamente en temas de EC, la oferta
+es escasa.
+CORFO fue destacado por varios entrevistados por su fomento al desarrollo de programas de
+capacitación en EC en Chile a través de su programa de Becas de Capital Humano. Por ejemplo, a
+26
+
+--- Página 27 ---
+través de la Universidad de Chile, la Universidad de Valparaíso agenciado por Fedefruta y
+Universidad Nacional Andrés Bello y en conjunto con Ecodiseño CL, se impartió el Diplomado de
+“Ecodiseño para los Desafíos de la Ley REP” (4 versiones en distintas regiones y universidades del
+país, ver detalle en tabla 4), con el propósito de generar capital humano avanzado, que tenga las
+competencias del ecodiseño, para entregarlas en el momento que las empresas lo necesiten
+(Chacón, 2020). En el mes de marzo del 2020 se inició el Diplomado “Economía Circular para Líderes
+del Cambio”, que se imparte en Universidad de Chile en conjunto con Ecodiseño CL.
+El Comité de Desarrollo Productivo Regional del Biobío, en cumplimiento de los objetivos del
+programa “Transferencia Capital Humano 2013”, ha licitado la “Contratación de un servicio que
+implemente y ejecute un diplomado de desarrollo estratégico para una economía circular, para la
+región del Biobío”, licitación que ha sido adjudicada por la UNAB (Fomento Bio Bio, 2020). La
+Facultad de Ciencias de la Vida de la Universidad Andrés Bello, impartirá el Diplomado en estrategias
+para una economía Circular el que tiene por objetivo desarrollar habilidades conceptuales, humanas
+y técnicas en área de sustentabilidad con énfasis en Economía Circular, de manera de formar
+competencias en profesionales que estimulen procesos de cambio en la Región del Biobío.
+La red Campus Sustentable, en conjunto con la UTEM, impartió el Diplomado “Fundamentos de la
+Sustentabilidad” en el año 2019 (Consejo Nacional para la implementación de la Agenda 2030 de
+Desarrollo Sostenible, 2019). Además, algunas otras universidades en el país ofrecen diplomados de
+EC (ver tabla 4).
+En general, si bien hay algunos esfuerzos para actualizar los currículos en las universidades y otros
+centros de educación superior, y ofrecer cursos de posgrado y diplomados relacionados con EC, en
+algunas de las entrevistas se calificó la academia como el sector más rezagado en Chile respecto de
+la adopción de la EC. Esto se debe a que no existe articulación real entre distintas facultades o
+disciplinas (Chacón, 2020)
+También hay algunas instituciones, como Acción Empresas, que ofrecen cursos introductorios a la
+EC. Sin embargo, se podría plantear que la mayoría de la transferencia de conocimiento en temas
+de EC en Chile se hace a través de seminarios y conferencias sobre EC y sus conceptos, como el Foro
+de Economía Circular Chile organizado en diciembre 2018 por el MMA, la Organización de las
+Naciones Unidas para el Desarrollo Industrial (ONUDI) y Fundación Empresarial Eurochile, FIMAS ‐
+Foro y Feria Internacional del Medio Ambiente y la Sustentabilidad organizado por la Asociación de
+Empresas y Profesionales para el Medio Ambiente (AEPA) en septiembre 2019, los
+talleres regionales “Workshop Oportunidades de una Economía Circular y Sustentable” organizados
+por AEPA en 2019 en distintas regiones del país y el Ciclo de Conversatorios de cara a la COP25
+organizados por la UAI, Sofofa, Consejo Minero y País Circular, por mencionar algunos.
+i. Los criterios de compra de la demanda (clientes intermedios y finales)
+En Chile, algunas instituciones púbicas han desarrollado recomendaciones y guías de buenas
+prácticas, de índole voluntario, para orientar las compras en el sector público.
+ChileCompra, en la Directiva de Contratación Pública N°25 “Recomendaciones para la contratación
+de bienes y servicios incorporando criterios ambientales y de eficiencia energética” establece
+orientaciones y recomendaciones generales para la contratación sustentable, considerando
+específicamente la sustentabilidad ambiental: la “eficiencia energética” y el “impacto
+medioambiental” respecto de la adquisición de los siguientes productos específicos: vehículos,
+27
+
+--- Página 28 ---
+lámparas, papel y productos de calefacción (ChileCompra, 2016). Esta guía contiene algunas
+referencias e indicadores para apoyar la toma de decisión y fue incorporada en el Manual Estado
+Verde como una directriz en tema de compras sustentables y EC para el desarrollo de protocolos
+dentro de cada entidad pública.
+El MMA también cuenta con un “Instructivo de Aplicación de Criterios Sustentables”, herramienta
+para que las entidades del Estado puedan incorporar la sustentabilidad en sus procesos de compra,
+a través de la aplicación de criterios sustentables, específicamente para la adquisición de los
+siguientes productos o servicios: vehículos livianos y medianos, computadores de escritorio y All in
+One, impresoras y multifuncionales, papel de impresión, servicios de catering, coffee break o
+similares. El instructivo contiene la siguiente información (Ministerio de Medio Ambiente, 2019):
+‐ Los bienes y servicios que podrían integrar criterios de sustentabilidad en todas las
+entidades compradoras del Estado de Chile.
+‐ Los criterios y verificadores que pueden ser aplicados en los procesos de compra.
+‐ Los beneficios ambientales y económicos derivados de la compra de bienes y servicios con
+criterios de sustentabilidad.
+‐ Datos sobre la disponibilidad de bienes y servicios con criterios sustentables en el mercado
+chileno.
+Además, hay que destacar que, en sus procesos de licitación, el MMA incluye criterios ambientales
+en la evaluación, entregando mayor puntaje a los oferentes que cumplen con ciertos requisitos
+asociados fundamentalmente con la gestión de residuos y el fomento de buenas prácticas
+ambientales en la empresa.
+Petar Ostojic, CEO de Neptuno Pumps, en entrevista con Eurochile, también resalta que muchas
+empresas mineras están exigiendo a sus proveedores incorporar temas relacionados con conceptos
+de EC.
+j. Casos exitosos: casos de EC a nivel regional dentro de Chile, que sirvan de efecto
+demostración
+Este informe no pretende entregar un listado exhaustivo de los casos de éxito chilenos de EC. Existen
+otras fuentes de información que se pueden consultar para obtener más información de los
+proyectos de EC en Chile, por ejemplo, la base de datos global del Circular Economy Club (Circular
+Economy Club, 2018).
+En este informe, se presentan los casos que fueron mencionados por algunos de los entrevistados
+y la razón por la cual se destacaron esos casos específicos:
+‐ La empresa Comberplast fue el caso más mencionado, junto con su iniciativa “Atando
+Cabos”. Los entrevistados destacaron la visibilidad que Comberplast ha logrado dar a la EC
+y sus conceptos, a través de un relato (marketing) que muestra que es posible crear un
+modelo exitoso de EC que involucra a toda la cadena de valor – desde la industria,
+generando el residuo, hasta la transformación a un nuevo producto y su uso por el cliente
+final, incluyendo todos los actores intermedios. El proyecto demuestra la necesidad de
+armar redes y trabajar de forma colaborativa para implementar la EC.
+‐ También se mencionó en varias ocasiones el proyecto de Biofactoría de Aguas Andinas, un
+caso muy reconocido también a nivel mundial. Si bien se trata de un ejemplo de estrategia
+“end‐of‐pipe” (al final del proceso), es un ejemplo de cómo una empresa grande y
+28
+
+--- Página 29 ---
+tradicional puede innovar, repensar su modelo de negocio y tener un impacto positivo en el
+ecosistema.
+‐ Ecocarga fue destacado por Guillermo González, porque “se atrevieron dentro de una
+organización tradicional a romper el esquema” y además destacó el proceso de prueba y
+error usado por la empresa para obtener los resultados de hoy.
+‐ Triciclos fue nombrado por su aporte importante en la promoción y difusión del concepto
+de EC en el país.
+‐ Otro proyecto resaltado fue F4F, por su alto nivel de innovación y ejemplo de EC en el ciclo
+biológico.
+‐ Se mencionaron también los esfuerzos que se están realizando en el sector de la
+construcción, por ejemplo, la empresa Viconsa, por incorporar conceptos de EC en un sector
+muy tradicional y conservador.
+En varias oportunidades, los entrevistados mencionaron iniciativas o proyectos, más que empresas
+específicas:
+‐ Javier Obach, jefe de la Unidad Ambiental de la División Ambiental y Cambio Climático del
+Ministerio de Energía, mencionó el proyecto “Promoviendo el Desarrollo de la Energía a
+Biogás en Pequeñas y Medianas Agroindustrias Seleccionadas”, destacando la tecnología
+misma y su potencial para disminuir las emisiones de gases de efecto invernadero (GEI) de
+hasta 70% por desplazar la necesidad de usar combustibles fósiles y también el uso de
+fertilizantes artificiales;
+‐ Iniciativas de co‐procesamiento de residuos en la industria cementera;
+‐ Plantas e industrias que están participando del APL Cero Residuos y en general, se
+destacaron los APL como iniciativas exitosas y atractivas para las empresas.
+Además, si bien no son casos de éxito per se , Petar Ostojic mencionó en su entrevista que “Por
+debajo,  hay  un montón de héroes anónimos que están haciendo EC porque siempre lo han hecho,
+pero no han tenido la capacidad de generar o contar el relato”, mencionando el ejemplo de
+maestranzas que reparan una y otra vez.
+29
+
+--- Página 30 ---
+Tabla 4. Capacidades, infraestructura, iniciativas y proyectos específicos. Fuente: elaboración propia
+Aspectos Capacidades, infraestructura, iniciativas y proyectos específicos destacados
+Tendencias del mercado ‐ Programa Nacional de Consumo y Producción Sustentables, MMA
+Estructura empresarial ‐
+Capacidad de producción,
+viabilidad de adaptación ‐
+de líneas de proceso
+‐ Sofofa Hub
+Proyectos colaborativos
+‐ Pacto por los Plásticos, liderado por Fundación Chile
+de ciencia, tecnología e
+‐ APL: Cero Residuos, Eco etiquetado, Aceites lubricantes, aparatos eléctricos y electrónicos, baterías y neumáticos
+innovación
+‐ Proyectos tecnológicos de manufactura avanzada con financiamiento CORFO 1
+‐ Plataforma de ecología industrial región de Valparaíso, proyecto FIC
+Plataformas habilitantes
+‐ Centro Tecnológico de Economía Circular de la macrozona Norte
+existentes
+‐ Oficina de Legislación Ambiental y EC del MMA
+Instituciones públicas con
+‐ Ley N°20.920 para el Fomento del Reciclaje y REP
+injerencia en la materia, y
+‐ ISO TC323 de EC
+marco legal y normativo
+‐ Proyecto de ley que regula el uso de “plásticos desechables de un solo uso” (aprobado en el Senado)
+Fuerza de trabajo ‐
+‐ Universidad Mayor: Diplomado de “Gestión en la Economía Circular”
+‐ Universidad Andrés Bello, sede Concepción: “Diplomado en Economía Circular”
+Oferta de educación y ‐ Universidad Adolfo Ibáñez: “Economía Circular: Generando valor en base a la Sostenibilidad”
+capacitación ‐ Programas de Formación de Capacidades a través de Becas Capital Humano de CORFO: Diplomados “Ecodiseño para
+los Desafíos de la Ley Rep” y “Economía Circular para líderes del cambio”
+‐ UTEM: Diplomado de “Fundamentos de la Sustentabilidad”
+Criterios de compra de la ‐ Directiva de contratación pública n°25 “Recomendaciones para la contratación de bienes y servicios incorporando
+demanda criterios ambientales y de eficiencia energética”
+‐ Instructivo de Aplicación de Criterios Sustentables del MMA
+1 https://www.corfo.cl/sites/Satellite?c=C_NoticiaNacional&cid=1476723200460&d=Touch&pagename=CorfoPortalPublico%2FC_NoticiaNacional%2FcorfoDetalleNoticiaNacional
+Web
+
+--- Página 31 ---
+C. Levantamiento de brechas
+Antes de entrar en el detalle de las distintas brechas que existen en Chile para la adopción de la EC,
+vale la pena destacar que el concepto de la EC es bastante nuevo y que, comparado con temas de
+sustentabilidad, Responsabilidad Social Empresarial (RSE) y los ODS, es un concepto que ha
+aparecido en los últimos años, y por lo tanto su comprensión e incorporación es aún incipiente. Este
+punto fue destacado por varios de los entrevistados.
+a. Brechas de Capital Humano Calificado y Mano de Obra
+La falta de competencias y conocimiento de capital humano en temáticas de EC es transversal a
+todos los rubros productivos analizados en este estudio, ya sea desde la definición de sus estrategias
+productivas hasta los modelos de negocios adoptados. Por ejemplo, el estudio publicado por Odepa
+“Estudio Economía Circular en el sector agroalimentario chileno” (2019), señala que la falta de
+capital humano calificado es evidente a lo largo de toda la cadena de producción del rubro de
+agroalimentos, afectando a la toma de decisiones de dirigentes, profesionales y trabajadores en sus
+labores diarias.
+Petar Ostojic, Director de Endeavor Chile, fue consultado en entrevista con Eurochile respecto de
+estas brechas, específicamente en las temáticas de Industria 4.0 y EC en la educación superior. El
+CEO de Neptuno Pumps señaló que “hay una crisis a nivel de educación en el norte de Chile y que
+en general, en temas de Industria 4.0 y EC, las universidades se han quedado en el pasado”. Ostojic
+hace hincapié en la necesidad de actualizar las mallas curriculares e instalar la EC sobre todo en las
+facultades de ingeniería como una actualización necesaria. Así, su experiencia con la baja o nula
+formación de Capital Humano en universidades del norte de Chile es un ejemplo de cómo esta
+brecha no discrimina rubro. En entrevista con Eurochile, Alejandro Chacón, impulsor del Ecodiseño
+en Chile, concuerda en que existe una deuda importante en la educación universitaria, donde
+conceptos, dinámicas y experiencias requieren ser impartidas.
+A nivel de mano de obra, Rodolfo Pérez, Asesor de Planificación y Proyectos en Sustentabilidad
+Ambiental en AMUSA y Pablo Fernandois, profesional del MMA, coinciden en que faltan muchas
+capacidades en las municipalidades para abordar temas de reciclaje, valorización de residuos y EC.
+Un ejemplo de esta falencia fue mencionado por Manuel Muñoz, Coordinador Unidad Nacional de
+Residuos Sólidos en el Ministerio del Interior (SUBDERE), quien comentó a Eurochile la necesidad
+urgente de capacitar al personal municipal encargado de la toma de decisiones técnicas al momento
+de elegir uno u otro proyecto de gestión de residuos.
+Desde la perspectiva de las Pymes, el grupo de empresas que forma parte del grupo de trabajo de
+EC de Eurochile fue categórico en mencionar que las expectativas de las universidades que desean
+aportar en el mundo de la innovación están lejos de la realidad del mercado. Esta brecha aplicaría
+no tan solo a temáticas de sustentabilidad, sino que, a una amplia variedad de rubros, evidenciando
+la necesidad de una instancia transitoria que permita adecuar las innovaciones al mercado actual.
+Manuel Antonio Ríos, cofundador de Alfaseta, comenta que la falta de conocimiento y experiencia
+de la universidad hace muy difícil la implementación de prototipos en el mercado, ya que éstos son
+diseñados a escala de laboratorio y sin la participación de actores de la industria para la toma de
+decisiones en su producción, lo que puede llevar al fracaso del prototipo y a un malgasto de
+recursos.
+
+--- Página 32 ---
+Si consideramos que a partir de la construcción de la hoja de ruta de EC surgirán nuevas medidas
+más circulares y prototipos innovadores más amigables con el medio ambiente que deberán salir
+del laboratorio para enfrentar el mercado, éstos desde su concepción a nivel de centro de I+D,
+deberían considerar aspectos claves para su escalamiento a nivel industrial. Por esto, la brecha de
+capital humano avanzado y mano de obra se visualiza como prioritaria, trascendiendo a todos los
+rubros analizados en este estudio.
+b. Brechas de Tecnologías Genéricas
+Las tecnologías genéricas corresponden a habilidades y conocimientos técnicos comunes
+compartidos por las empresas y otros actores de un rubro o sector, que resultan básicas para el
+desarrollo de esas industrias. En el caso de las tecnologías genéricas necesarias para la adopción de
+la EC, se identifican tecnologías y procesos de separación de residuos y reciclaje, de remanufactura
+o de reparación, nuevas tecnologías de materiales, tecnologías 4.0, entre otras. Su manejo, así como
+también su transmisión a los trabajadores de la empresa o sector es clave para avanzar hacia la
+implementación de conceptos de EC en el ramo industrial.
+Varios de los entrevistados por Eurochile destacaron que el proceso de desindustrialización que tuvo
+Chile a fines de los años 70 fue sin duda un freno para la instalación de esas tecnologías genéricas y
+el desarrollo en el país, que venía promoviéndose a partir de los años 30, y consideran necesario
+volver a instalar tanto capacidades técnicas y tecnológicas, como infraestructura que permita el
+reposicionamiento económico del país y la reversión de su economía extractiva a una más industrial.
+Adicionalmente, otro factor importante para abordar esta brecha es la baja inversión en I+D de
+Chile, el cual “es el país con el nivel de desempeño de I+D más bajo en la OCDE. En 2015 el gasto
+interno bruto en I+D representó solo un 0,38% del PIB, mientras que el promedio OCDE fue de 2,38%
+del PIB” (Exteriores, 2020). Para el año 2017, el gasto interno bruto en I+D fue de 0,36% (División de
+Innovación, 2017). Chile cuenta con una economía centrada en algunos sectores productivos
+específicos en los cuales el país posee ventajas competitivas, pero estos sectores, y cualquier otro
+que el país quisiera desarrollar, requieren de financiamiento para apoyar la innovación y el
+desarrollo de tecnologías y capacidades, claves para que esos sectores se mantengan competitivos
+(Emol, 2018). En relación a eso, refiriéndose al sector minero, Joaquín Villarino, presidente ejecutivo
+del Consejo Minero, menciona en entrevista a Eurochile que existen desafíos de escala tecnológica,
+y que, si bien se puede cambiar el mindset de las empresas, también es necesario definir desde un
+punto de vista tecnológico su alcance: “los desafíos de la minería son desafíos de gran tamaño y hoy
+hay tecnologías que simplemente no existen para el sector minero”.
+Por lo tanto, se identifica que, si bien varias de las tecnologías genéricas necesarias para adoptar
+una EC existen a nivel mundial, incluso en Chile, falta su adopción sistemática en las empresas del
+país, grandes y Pymes, brecha que es necesaria abordar y que implica cambios culturales a nivel país
+y de estrategia económica que Chile debe enfrentar a largo plazo. Esta estrategia se debe
+complementar con el desarrollo de incentivos para fomentar la innovación y desarrollo tecnológico
+en el país para el desarrollo de soluciones adecuadas a la realidad territorial, por ejemplo,
+incrementando el gasto en I+D.
+c. Brechas de Normativas y de Estandarización
+Independiente del sector empresarial, la transición hacia la EC depende en gran medida del fomento
+desde el estado y de la promoción de normativas y regulaciones que definan incentivos y reglas
+claras. Hoy en día en Chile, hay una falta de regulaciones que vayan en la línea de apoyar la
+32
+
+--- Página 33 ---
+innovación. Sobre eso, Rafael Palacios, Director de políticas públicas de la SOFOFA, comentó en
+entrevista a Eurochile que “en la medida que las empresas cumplen con la regulación vigente no
+tienen los incentivos para desafiarse a sí mismos.” Efectivamente, desde el sector empresarial,
+muchas de las estrategias de innovación y EC que se implementan son más bien periféricas; no
+apuntan al corazón del negocio porque para eso se necesita ensayo y error, lo cual implica un riesgo
+y costos. Se identifica entonces la existencia de regulaciones que desincentivan la innovación en las
+empresas como una brecha importante.
+En entrevista con Eurochile, Guillermo González, Jefe de la Oficina de EC del MMA, comenta que
+“actualizar las regulaciones no garantiza que se vaya a innovar, pero al menos se remueve la
+dificultad”. Si bien ya está ocurriendo, existe una necesidad de apurar la transición en el mundo
+productivo y para eso, se hace hincapié en la necesidad de tener una política pública clara e
+incentivos atractivos, como subsidios, disminución de impuestos por zona, disminución del IVA en
+productos reparados, definición de los beneficios o los incentivos tributarios para empresas que
+generen modelos de negocio circular, etc.
+Si bien la ley REP es un paso en la dirección correcta y fue destacado por la gran mayoría de los
+entrevistados en el marco del diagnóstico de la Hoja de Ruta, su enfoque es considerado muy
+específico como para gatillar un cambio más transversal e impactar la toma de decisión y los
+procesos en sectores no directamente afectados por la regulación.
+También, en entrevistas a miembros del Comité Estratégico de la Hoja de Ruta de EC, se mencionó
+la falta de claridad y una desactualización de las regulaciones, específicamente en temas de
+catalogación de productos y derivados de procesos como el reciclaje, waste‐to‐energy, biogás, etc.
+En esta línea, Javier Obach, del Ministerio de Energía, citó como ejemplo el caso de potenciales
+biocombustibles resultantes de procesos de pirólisis lentas (aceites de pirólisis) que son catalogados
+como aditivos y, por lo tanto, no se pueden vender como combustible, perdiendo sus posibilidades
+de insertarse en el mercado. Este tema, además, se suma a una desalineación entre ministerios en
+algunos casos (específicamente en temas de salud y seguridad) que impide el desarrollo de
+normativas que permitan agregar el valor correspondiente a los productos innovadores que están
+en desarrollo. Complementando lo anterior, ODEPA explica que el desarrollo de productos
+sustentables no ha alcanzado a consolidarse como parte de las directrices de los ministerios con
+más injerencia en el tema, como los de Economía, Minería, Energía, MIDEPLAN y MINVU, lo que se
+refleja en el déficit e inexistencia de normativas y políticas públicas que los regulen (ODEPA, 2019).
+Por otro lado, se identifica que al día de hoy, existen muchas iniciativas en paralelo de regulaciones
+vigentes o en discusión parlamentaria, las que se entrampan, entre otros motivos, porque no se
+consideran con una mirada sistémica y que hay una falta de salvaguardas que aseguren una
+coherencia entre las distintas iniciativas, para las normativas que favorezcan la circularidad de los
+productos y procesos (Rubik Sustentabilidad, 2019). Un ejemplo de aquello lo compartió en
+entrevista a Eurochile Magdalena Ballcels, gerenta general de ASIPLA: comentó que en el proyecto
+de Ley que regula los plásticos de un solo uso, en un principio se consideró prohibir las botellas
+plásticas “PET”, también consideradas dentro de los productos prioritarios en la Ley Rep y como el
+residuo que más se recicla hoy en día en Chile. Entonces, no solo es un producto que ya está
+regulado si no que puede servir para educar a la ciudadanía y acercar la gente al reciclaje (Ballcels,
+2020).
+33
+
+--- Página 34 ---
+En esa misma línea, en el sistema actual de gestión de residuos, no existe un mecanismo de precios
+que incentive el reciclaje/reducción de generación (o alternativamente castigue el no reciclaje) y
+que, en muchos casos, no cuenta con mecanismos de fiscalización que al menos aseguren un
+estándar mínimo en la disposición y tratamiento de los residuos (Rubik Sustentabilidad, 2019). A
+partir del estudio sobre reciclaje de plásticos en Chile elaborado por ASIPLA, se señala que, mientras
+la capacidad e infraestructura instalada es suficiente para abordar el reciclaje de volúmenes de
+plástico circulantes en el sistema, existe una evidente brecha en normativas y estandarización en la
+producción y post uso del plástico que limita el flujo de material a reciclar y/o la demanda de
+material reciclado (ASIPLA, 2019).
+Respecto de la estandarización para una EC, si bien existen indicadores y marcos de monitoreo de
+circularidad como los definidos por Japón, la Comisión Europea y los Países Bajos, entre otros, hay
+una falta de métricas internacionales estandarizadas para reportar avances en la implementación
+de una EC, que permitan evaluar y hacer seguimiento de su implementación. Desde el año pasado,
+se ha estado desarrollando propuestas para un conjunto de normas ISO para la EC, que incluyen la
+definición de métricas estandarizadas para la medición de circularidad. De lo anterior, se desprende
+que a nivel nacional tampoco existe una estandarización que permita definir qué tan circular es una
+empresa o proyecto.
+d. Brechas de Infraestructura y Físicas
+La infraestructura para la implementación de la EC debe estar pensada y preparada para poder
+recircular los materiales en las distintas etapas o ciclos de la EC. Debe existir una industria que pueda
+procesar los materiales recolectados y segregados, para completar el reciclaje, como así también
+debe ser capaz de dar cabida a procesos de reutilización, valorización energética, entre otros. Debe
+existir infraestructura que permita innovar, crear prototipos y pilotaje de productos y procesos que
+estén diseñados incorporando conceptos de EC.
+Para la EC, la innovación es una herramienta de gran importancia, pues permite actuar en la etapa
+inicial de diseño de los nuevos productos o servicios y que estos sean creados para la EC. En este
+sentido, los primeros elementos para impulsar la capacidad innovativa en Chile corresponden al
+apoyo económico en etapas tempranas (subsidio y/o financiero) para pruebas de concepto y
+prototipado, transferencia tecnológica, etc. donde cada uno de estos elementos están siendo
+potenciados a través de las líneas de apoyo de ANID (ex Conicyt) y de CORFO (Gobierno de Chile,
+2013). Sin embargo, en etapas tardías, los procesos de escalamiento e incorporación concreta en el
+mercado de los prototipos construidos se ven frenados por la falta de financiamiento de esas etapas
+e industrialización de nuestro país. Desde la perspectiva de las Pymes del grupo de trabajo de EC
+fundado por Eurochile, este es un hecho que va en desmedro del esfuerzo del país por invertir en
+I+D e innovación, ya que la falta de infraestructura y financiamiento para llevar a cabo los procesos
+de escalado enlentece y, en muchos casos, deja sin efecto la implementación de cualquier prototipo
+en el mercado. Las brechas de infraestructura y capital humano que el país evidencia al momento
+de industrializar sus desarrollos son propias de un país adscrito a una economía extractora de sus
+propios recursos naturales. La red de Estudios de la Nueva Economía publicó en 2018 la compilación
+“Chile del Siglo XXI: Propuestas desde la Economía”, en la cual cataloga a Chile como un ejemplo de
+desindustrialización prematura que urge revertir, sosteniendo que este escenario no solo daña la
+velocidad en que las economías de ingreso medio son capaces de crecer y de alcanzar el nivel de
+ingreso de las economías desarrolladas, sino también la sostenibilidad del potencial de crecimiento
+de largo plazo (Estudios Nueva Economía, 2018).
+34
+
+--- Página 35 ---
+En Chile, se observa una falta de industrias nacionales y un alto nivel de importación de productos
+de consumo e insumos para los sectores primarios (Rubik Sustentabilidad, 2019). Junto a lo anterior,
+se observa una carencia en simbiosis industrial al no existir parques industriales que cuenten con
+ella (CTC‐N, 2020). La simbiosis industrial permite hacer un uso eficiente de materias primas,
+insumos, residuos, líneas de energía y mejorar la logística al tener proveedores a una distancia
+reducida. La falta de industrialización y automatización disminuye el valor agregado y la capacidad
+de transformación de las materias primas (CTC‐N, 2020) que Chile posee. Gonzalo Muñoz, fundador
+de Triciclos y Champion de la COP25, indica que “se dificulta convertir los residuos reciclados en
+insumos para procesos productivos, pues sucede que a veces no hay quien transforme, repare o
+adapte, esto a causa de la destrucción de la industria nacional por la apertura de mercado
+internacional, que ha tenido muchos beneficios, pero también cosas negativas”.
+Junto a la carencia en la infraestructura industrial, también se da cuenta de una falta de
+infraestructura y redes para la gestión adecuada de los residuos y de infraestructura que facilita la
+implementación de estrategias de revalorización (ODEPA, 2019), a esto se suma la centralización de
+la capacidad instalada de recuperación, gestión y valorización de residuos. Según estudio elaborado
+para el MMA, al 2018, no existía suficiente capacidad instalada para valorizar la mayoría de los
+productos prioritarios de la Ley REP, específicamente las baterías fuera de uso, NFU, envases y
+embalajes de plástico (total) y metal, pilas y AEE (Subsecretaría del Medio Ambiente, 2018). Lo
+anterior tiene como consecuencia situaciones como, por ejemplo, la de Antofagasta que cuenta con
+una baja tasa de gestión adecuada de residuos (CTC‐N, 2020).
+Otro ejemplo a nivel sectorial, es la precaria gestión de residuos en el sector de la construcción,
+donde encontramos que 9 regiones no cuentan con vertederos autorizados para disponer residuos
+de la construcción o demolición (Hoja de Ruta RCD Consulta Publica, 2019) sumado a que la oferta
+de proveedores de reciclaje es deficiente, lo que representa una brecha de cara a los objetivos de
+sustentabilidad (PMG, 2017).
+e. Brechas de Asimetrías de Información
+A nivel de población, específicamente en su rol de consumidor, la asimetría de la información es
+relevante y necesaria de abordar de forma temprana, de manera de enfrentar el poco conocimiento
+y manejo técnico que se tiene en el país sobre EC. Un aspecto visible a esta falta de información es
+que la temática de EC suele ser abordada exclusivamente desde la gestión de residuos refiriéndose
+principalmente a reciclaje (Rubik Sustentabilidad, 2019). Un resultado preliminar entregado por la
+encuesta de la Hoja de ruta de EC lanzada por Eurochile recientemente, sugiere que la mayoría de
+los encuestados asocia EC a reciclaje, sin considerar que EC tiene alcances a nivel de nuevos modelos
+de negocio y tecnologías que permitan, por ejemplo, alargar el ciclo de vida del producto:
+digitalización, transformación digital, internet de las cosas, Inteligencia artificial, Machine learning,
+etcétera. Este resultado asociado a que más del 60% de los encuestados 2 declararon derechamente
+saber de EC sugiere que más difusión es necesaria a todo el público, de manera de aclarar conceptos
+e informar de los alcances de la EC en todas sus dimensiones.
+Desde el punto de vista de las empresas, la falta de acceso a información en general destaca como
+una barrera para la implementación de la EC en sus procesos productivos y los servicios que ofrecen.
+2 Es importante considerar que la encuesta no puede ser considerada del todo representativa de los perfiles
+de consumidores y patrones de consumo en Chile. Sin embargo, por el universo de la encuesta (distribución
+geográfica, demográfica y educacional) se pueden identificar tendencias de un segmento de la población.
+35
+
+--- Página 36 ---
+Esta brecha se agudiza para las pequeñas y medianas empresas, donde la falta de información,
+capacitación y claridad de cuáles son los reglamentos y metas les dificulta la toma de decisiones de,
+por ejemplo, qué máquina comprar, qué proveedor elegir, qué materiales usar, ya que la mayoría
+de esas decisiones requiere una inversión. En ese contexto, Javier Obach destaca la necesidad de
+una transición paulatina bien informada.
+Desde las opiniones recogidas en entrevistas de las Pymes del grupo de trabajo de EC de Eurochile,
+se identifica la falta de sistematización y difusión de la información para cada sector productivo, que
+permita a las empresas identificar los recursos, herramientas y tecnologías disponibles en su rubro
+específico y además las oportunidades y estrategias factibles de cambios en sus procesos, modelos
+de negocio, relación con sus proveedores y clientes. Sumando a esto, se ha reconocido la falta de
+visibilidad de las empresas adheridas a metodologías más sustentables que muestren interés en
+hacerse partícipe de esta transformación, así, un enriquecimiento de un ecosistema empresarial
+más sustentable en el que se identifiquen oferentes y demandantes se plantea como una iniciativa
+al debe. En ese sentido, Joaquín Villarino, presidente ejecutivo del Consejo Minero, hace hincapié
+en que “las empresas necesitan identificar donde hay espacios de negocios, el valor económico de
+la incorporación de prácticas de EC. Por ahora, hay un mundo que se mueve en esto solo porque es
+lo políticamente correcto.”
+La perspectiva de las grandes empresas sobre esta brecha no dista de lo antes mencionado: Kathrin
+Müller, Gerente de Desarrollo en ACCIÓN Empresas, Macarena Mella, jefa de proyectos de la misma
+institución y Petar Ostojic, director de Endeavor, declaran la necesidad de generar información a
+nivel territorial o local y demostrar los beneficios económicos, competitivos y ambientales. Petar
+Ostojic hace hincapié en la necesidad de identificar qué cosas que se traían de afuera o cosas que
+no se hacían en Chile, se pueden empezar a hacer localmente, bajo una mirada circular. A partir de
+ese momento, se puede empezar a medir cuál es el crecimiento económico, cuál es la generación
+de empleo que se está generando y cuál es la reducción de huella de carbono, de materiales, de
+agua, etc. y poner números a los beneficios de implementar una EC en un territorio. Además, antes
+de pasar a la etapa de implementación de la EC, las empresas necesitan información respecto de
+dónde están y eventualmente indicadores para saber cómo se posicionan comparadas con otras
+empresas (benchmarking) y que estos indicadores se traduzcan en metas y prioridades a nivel de
+gobernanza corporativa.
+La falta de un trabajo articulado entre empresas y la academia, que permita potenciar espacios de
+formación y desarrollo de I+D+i (Rubik Sustentabilidad, 2019), evidencia la existencia de iniciativas
+aisladas y no una tendencia que llame a su adherencia de manera obvia. Por su parte, Alejandro
+Chacón indica que las universidades, como organización en general, están cerradas a la EC; son
+entidades dentro de las universidades las que se observan involucradas, y si bien las universidades
+declaran que persiguen la sostenibilidad, las acciones concretas no son muchas. La falta de
+incentivos para instaurar carreras en la temática puede ser una de sus razones, poco reconocimiento
+a nivel de acreditación y falta de interés de potenciales estudiantes que no observan una clara oferta
+laboral en su futuro próximo. En este último punto, Javier Obach resume bien estas brechas “Es
+necesario meter más economía y más ciencia en la Economía Circular”.
+Un ejemplo concreto de todo lo anteriormente dicho es que en la industria de la construcción un
+60% de los profesionales de esta industria no conocen las normas de residuos. Además, existe una
+falta de información respecto a los RDC, que permita el diseño e implementación de políticas
+públicas y el fomento al mercado de valorización (Hoja de Ruta RCD Consulta Publica, 2019). Otro
+36
+
+--- Página 37 ---
+ejemplo se identifica en la nueva estrategia de electromovilidad que promueve el ministerio de
+energía, que delinea las acciones que Chile debe tomar en el corto y mediano plazo para lograr que
+el 40% de los vehículos particulares y el 100% de los vehículos de transporte público sean eléctricos
+al 2050. Una de las principales brechas que reconoce es la falta de información disponible al público
+que le permita optar por el uso de esta nueva tecnología, por lo que uno de sus ejes estratégicos
+aborda la Transferencia de Conocimiento y Entrega de Información necesaria para que los distintos
+actores puedan tomar decisiones óptimas respecto de la electromovilidad (Ministerio de Energía,
+2017).
+El estudio de Rubik señala que es necesario considerar que la EC se va a lograr implementar en base
+al nivel de permeabilización que tenga el concepto general y sus componentes en la sociedad, y si
+ya existe una dificultad de acceso a la información para las empresas que se pueden ver
+directamente beneficiadas con adoptar los principios de la EC, para el común de la población se
+complica aún más. Esto se acentúa con factores asociados a la desigualdad, particularmente un bajo
+nivel educacional en el país y bajo acceso a información, lo cual implica que no es posible que todos
+los consumidores puedan asumir los desafíos de transitar hacia una EC (Rubik Sustentabilidad, 2019)
+a menos que se mejore este factor.
+f. Brechas de Acceso a Financiamiento
+Desde el punto de vista de Pymes, la brecha de acceso a financiamiento afecta directamente a quien
+desee adoptar nuevas tecnologías o modelos de negocios más sustentables, por lo que necesitan
+hacer inversiones considerables utilizando sus propios fondos o accediendo a créditos bancarios.
+Por ejemplo, TECNOCAL S.A., empresa de diseño de artículos electrónicos que desea incorporar
+conceptos de sustentabilidad dentro de sus productos no ve otra alternativa más que la postulación
+a fondos concursables como los de Corfo, los cuales suelen ser engorrosos y poco eficientes en los
+procesos de rendición, con tiempos de desarrollo de prototipos demasiado largos que no son
+atingentes a las dinámicas de producción de una Pyme (Aracena, 2020). Tanto en el estudio de
+Odepa como distintos entrevistados mencionan que el alto costo de inversión debido a la falta de
+infraestructura, alto riesgo y falta de tecnologías es un problema global importante de abordar.
+A propósito de los fondos puestos a disposición por distintas instituciones, desde ACCIÓN Empresas
+y SOFOFA se menciona que hace falta mayor coordinación entre los instrumentos de financiamiento
+(por ejemplo, coordinar exCONICYT con Ley I+D de CORFO) ya que están muy atomizados. No
+solamente hacer la tarea de informarse y entender los distintos fondos es más difícil para las
+empresas, también se pierde la oportunidad de desarrollar sinergias entre fondos y proyectos. Se
+identifica la necesidad de que las distintas instituciones manejando instrumentos de financiamiento
+se coordinen y centralicen los instrumentos para acelerar la realización de proyectos que se pueden
+escalar.
+La poca inversión en I+D+i en Chile, mencionada anteriormente, también se puede considerar una
+brecha de acceso a financiamiento. Se categoriza como una debilidad institucional, pero también
+relacionada a responsabilidad Corporativa y Académica. (Rubik Sustentabilidad, 2019).
+En el marco de las ONG, Mark Minneboo, Director Regional de Plastic Oceans América Latina, indica
+que no hay leyes que ayuden a las donaciones medio ambientales o filantropía en Chile, lo cual
+dificulta a estas organizaciones seguir realizando la importante misión que tienen, en el marco de la
+EC y la sustentabilidad.
+37
+
+--- Página 38 ---
+g. Brechas de Acceso a Mercado interno y externo
+Chile importa muchos productos desarrollados con el modelo lineal, lo que ha funcionado para el
+crecimiento y desarrollo para el país, pero es algo pensado a corto plazo (Minneboo, 2020).
+Relacionado con lo anterior se da una oferta de productos a precios bajos que limita la competencia
+de productos locales eventualmente más sustentables, en gran medida por los tratados de libre
+comercio con países como China (Rubik Sustentabilidad, 2019).
+Uno de los problemas de Chile es que tiene una economía con muchas empresas que representan
+solo una parte de la cadena, por lo que producir localmente es muy difícil. Hay pocos productos en
+que el ciclo completo está ubicado en Chile, por lo que hacerlos circulares es más difícil si parte de
+los procesos están en otro continente (Minneboo, 2020). Debido a lo anterior es probable que los
+esfuerzos en EC se enfoquen en logística y gestión de residuos antes que diseño de productos, pues
+estos no se manufacturan en Chile. La interconexión en Latinoamérica actualmente es una brecha
+que hay que subsanar para lograr una economía más local, que tenga los procesos productivos en
+la región y no otro continente (Minneboo, 2020).
+Desde la parte final de la cadena de valor, se levanta uno de los problemas más mencionados tanto
+por los entrevistados como en algunos informes: la estructura del sistema de gestión de residuos, lo
+barato que es botar basura y los pocos actores que pagan en el escenario actual. “Todo el sistema
+tiene que cambiar porque hay reacciones en cadena que hacen que no puede funcionar como está
+planteado hoy” indica Guillermo González. El precio por tonelada de basura desechada en relleno
+sanitario es bajo respecto, por ejemplo, a los costos de reciclaje (Rubik Sustentabilidad, 2019). Por
+lo que, si sigue costando lo mismo, se seguirá desechando de esa forma en vez de preferir formas
+enmarcadas en la EC como el reciclaje, la reutilización y la valorización. “El uso de rellenos sanitarios
+debe asumirse como una externalidad que cueste caro ” indica Gonzalo Muñoz. Varios de los
+estudios y entrevistados recalcan esta brecha: por ejemplo, en el sector agroalimentario, el estudio
+de ODEPA lo explica claramente: “la alternativa de envío de residuos a relleno sanitario siempre será
+más atractiva desde el punto de vista económico pues el costo de envío es muy bajo” (ODEPA, 2019).
+Este aspecto es muy relevante ya que Chile es el país que, después de Turquía, más basura envía a
+rellenos sanitarios entre los 34 países que integran la OCDE (Comisión Económica para América
+Latina y el Caribe (CEPAL)/Organización para la Cooperación y el Desarrollo Económicos (OCDE),
+2016).
+h. Brechas a nivel de Compradores
+La educación y concientización es clave para generar cambios conductuales a todo nivel de la cadena
+y cambios a nivel de percepción sobre el valor y potencial de los residuos (ODEPA, 2019). Por
+ejemplo, en el sector inmobiliario, a nivel internacional, se han estudiado y evaluado los beneficios
+económicos, sociales y medioambientales de la construcción sustentable, sin embargo, el
+conocimiento en Chile de los usuarios es bajo, y por lo tanto la percepción de valor disminuye (PMG,
+2017). En una carta de los miembros del grupo de coordinación de la European Circular Economy
+Stakeholder Platform (ECESP), representado por su presidenta, Ladeja Godina, menciona que “nos
+falta poner un mayor énfasis en la construcción de una "Cultura Circular" a través de educación,
+desarrollo de capacidades, empoderamiento de la sociedad civil y trabajo con los ciudadanos para
+adaptar sus hábitos cotidianos.” (Grupo de coordinación del ECESP, 2020). Respecto al mismo tema
+Mark Minneboo dice que “muchas veces el ciudadano es visto solo como un consumidor cuando
+tiene más roles. La transformación a un país circular viene dado por la educación, es entender
+conceptos y aplicarlos a la vida cotidiana y profesional (Minneboo, 2020).
+38
+
+--- Página 39 ---
+Además de una falta de conocimiento, concientización y empoderamiento por parte del
+consumidor, hay una falta de información fiable y trazable a nivel de productos y servicios. Aunque
+un ciudadano quisiera consumir de forma más consiente y sustentable, su capacidad de toma de
+decisión informada es muy limitada. Resultados preliminares de la encuesta de la hoja de ruta de
+EC lanzada por Eurochile indica que el 70% de los consumidores piensa que sus decisiones al
+momento de comprar definen las tendencias de oferta del mercado y por otro lado más del 80%
+estaría dispuesto a recibir más información de medidas más sustentables que pudieran implementar
+en su día a día como consumidores.
+En esa misma línea, la gente que recicla hoy lo hace porque se ha sensibilizado comenta Guillermo
+González. Complementando ese punto, la encuesta realizada por Eurochile indica que, si bien la
+mayoría de los encuestados reciclan 3 , estos identifican tres inconvenientes mayores para reciclar
+que son la distancia de los puntos limpios, el espacio en el hogar y la confianza respecto a si se
+gestionará correctamente los residuos, siendo el primer y tercer punto responsabilidad de terceros.
+Por lo tanto, queda claro que para mejorar la tendencia en el reciclaje y avanzar hacia la adopción
+de otras prácticas circulares por parte de los ciudadanos, se debe mejorar la infraestructura de
+puntos limpios y recolección, generar confianza y transparencia sobre los procesos productivos y de
+gestión de residuos y desarrollar programas de educación formales e informales que logren llegar a
+la mayoría de los chilenos.
+Jaime Cataldo, Secretario Ejecutivo de MSUR, indica que es necesario desarrollar una estrategia país
+para cambiar la forma de pensar y actuar ‐reducir el consumismo‐ y fomentar la valoración de la
+sociedad y la naturaleza.
+i. Brechas culturales
+Un aspecto crítico que fue mencionado por muchos de los entrevistados es la falta de confianza en
+procesos de articulación y colaboración, tanto en el sector público como en el sector privado, donde
+las empresas trabajan de forma aislada: no hay clusters ni otros mecanismos de colaboración entre
+empresas para abordar desafíos precompetitivos o sectoriales, destaca Rafael Palacios. Según Jaime
+Cataldo, estas colaboraciones son críticas y hace hincapié en la necesidad de desarrollar
+vinculaciones efectivas en el sector productivo para generar círculos virtuosos, de uso de recursos,
+por ejemplo.
+El país tiene resistencia al cambio y hay poca confianza entre los actores, lo que es una debilidad
+cuando se plantea querer adoptar una cultura de colaboración, aspecto central de una EC. (Rubik
+Sustentabilidad, 2019). Kathrin Müller, desde Acción Empresas, menciona que es difícil fomentar la
+colaboración entre diferentes empresas cuando no es muy claro desde el inicio cuales van a ser los
+beneficios y ganancias que van a poder lograr cada una.
+En el informe de ODEPA, se levanta muy claramente que “hay que enfrentar un sesgo cultural de la
+sociedad, que muchas veces mira con prejuicio y recelo el trabajo colaborativo” (ODEPA, 2019).
+Mark Minneboo dice “En Chile, la colaboración esta recién empezando, por lo que nos falta
+colaborar y confiar, existiendo grandes brechas de confianza, que es muy importante para la EC, y
+parte de eso es compartir responsabilidades y ganancias”.
+3 Es importante considerar que la encuesta no puede ser considerada del todo representativa de los perfiles
+de consumidores y patrones de consumo en Chile. Sin embargo, por el universo de la encuesta (distribución
+geográfica, demográfica y educacional) se pueden identificar tendencias de un segmento de la población.
+39
+
+--- Página 40 ---
+ASP eurochile
+40
+
+--- Página 41 ---
+D. Identificación de oportunidades en Chile para instalar la
+Economía Circular
+En un estudio co‐desarrollado por McKinsey y la Fundación Ellen MacArthur en 2015, se demostró
+que una transición a una EC en Europa podría aumentar la eficiencia de recursos en un 3% para
+2030, generando ahorros de costos de € 600 mil millones al año y € 1.8 billones más en otros
+beneficios económicos (McKinsey Center for Business and Environment/Ellen MacArthur
+Foundation, 2015). El mismo año, Accenture valoró en $4.5 billones de dólares la oportunidad de
+crecimiento global con una EC durante la próxima década. (Lacy, Long, & Spindler, 2015)
+Una nota de prensa publicada por la Comisión Europea, a raíz de la implementación de su primer
+Plan de Acción de EC, destaca que, en la Unión Europea, región que lidera la implementación de una
+EC a nivel mundial, en 2016 más de 4 millones de trabajadores estaban empleados en sectores
+relevantes a la EC y que las actividades circulares, como la reparación, la reutilización o el reciclaje,
+generaron un valor agregado de casi 147 000 millones de euros y representaron inversiones por un
+valor de aproximadamente 17 500 millones (Comisión Europea, 2019).
+Según un informe de la CEPAL y OIT, la adopción de la EC en América Latina y el Caribe podría
+generar unos 4,8 millones de empleos netos en 2030, específicamente en los sectores de gestión de
+residuos y reciclaje y en el sector de servicios, en temas de reparación y modelos de arriendo. Se
+estima que la creación de empleo en sectores de reprocesamiento de acero, aluminio, madera y
+otros metales compensará con creces las pérdidas asociadas a la extracción de minerales y otras
+materias debido a que la cadena de valor de procesos de reprocesamiento es más larga e intensiva
+en empleo que la extracción minera (Comisión Económica para América Latina y el Caribe
+(CEPAL)/Organización Internacional del Trabajo (OIT), 2018).
+A continuación, se identifican oportunidades y cambios que se pueden esperar en Chile a nivel de
+mercado, tanto desde la oferta y de la demanda, a nivel de procesos productivos, de la incorporación
+de mejores tecnologías disponibles, de introducción de nuevos bienes y servicios, de generación de
+conocimiento científico y tecnológico de frontera, entre otros aspectos.
+a. Mercado
+En el sector empresarial, se identifican oportunidades que surgen de las tendencias en los mercados
+internacionales y las empresas multinacionales (Rubik Sustentabilidad, 2019). En Chile, varios
+sectores empresariales están liderados por empresas que forman parte de multinacionales norte
+americanas y europeas que tienen una gobernanza que está adoptando compromisos relacionados
+con los ODS, la sustentabilidad y la EC, estableciendo requerimientos para sus filiales chilenas y
+estableciendo tendencias a nivel de mercado.
+El Pacto Verde europeo (European Green Deal) lanzado en diciembre por la Comisión Europea
+también plantea una dirección clara tanto para el mercado interno de la UE como para el mercado
+internacional. Los acuerdos comerciales que la UE tiene con países terceros, incluso con Chile a
+través del Acuerdo de Asociación firmado en 2003 y actualmente en proceso de renovación, van a
+ser revisados para incorporar sus ambiciones climáticas (Comisión Europea, 2019). El Pacto Verde
+es a la vez un riesgo y una oportunidad para Chile. Si el país logra sumarse de forma temprana a la
+propuesta de la UE, de generar un acuerdo internacional sobre la gestión de recursos naturales,
+puede posicionarse como un aliado comercial estratégico de la UE. Efectivamente, el Pacto declara
+que “si persisten diferencias respecto de ambiciones climáticas a nivel mundial, la Comisión
+41
+
+--- Página 42 ---
+propondrá un mecanismo de ajuste del carbono en frontera, para sectores específicos, con el fin de
+atenuar el riesgo de fuga de carbono. De este modo se garantizaría que el precio de las
+importaciones reflejara con más precisión su contenido de carbono. La Comisión también está
+considerando la introducción de un impuesto al carbono sobre las importaciones procedentes de
+países que no imponen una protección climática estricta” (Comisión Europea, 2019). Además, el
+Pacto Verde destaca la intención de la UE de “utilizar su experiencia en la regulación «verde» para
+animar a sus socios a diseñar normas similares a las de la UE y tan ambiciosas como ellas, facilitando
+así el comercio y mejorando la protección del medio ambiente y la mitigación del cambio climático
+en estos países y para abordar el reto del cambio climático global.” Si Chile tiene la capacidad de
+adaptar sus procesos productivos para cumplir con esos nuevos requerimientos, se abre un mercado
+europeo con alto potencial para los sectores de la industria chilena que más exportan a Europa:
+minero, forestal, vitivinícola, agrícola, pesquero y químico (OEC, 2017).
+Por otro lado, Rafael Palacios y Joaquín Villarino coinciden en que inversionistas ya están pidiendo
+información respecto del desempeño ambiental de las empresas. Incluso inversionistas muy
+relevantes, como Blackrock, están siendo bastante exigentes en materia de dónde van a invertir y
+eso constituye un driver muy importante para una transición a un sistema productivo más
+sustentable, alineado con los ODS. Si inversionistas y consumidores empiezan a pedir transparencia
+respecto del impacto ambiental generado por los procesos productivos y modelos de negocio, se
+generan incentivos y beneficios económicos claros para las empresas que implementan medidas de
+EC.
+Iniciativas como el APL de Ecoetiquetado de Envases y Embalajes es una excelente oportunidad para
+las empresas de mostrar que están comprometidas con la EC y el medio ambiente, pero también
+permite empoderar a los consumidores y promover el reciclaje de los envases y embalajes. A la vez,
+esto contribuye a impulsar que el resto de la industria aumente la reciclabilidad de los envases y
+embalajes. Otra oportunidad que se desprende de la implementación de la Ley REP es que se
+requiere de una recolección más masiva de residuos y, en base a ello, se debe definir un nuevo rol
+con potencial de crecimiento para los recolectores de base en el que se reconozca su participación
+dentro de los eslabones del proceso de recolección y reciclaje, asignándole formalidad y una
+posición dentro del esquema social y laboral, haciéndoles parte formal del mercado.
+Por el otro lado, no cabe duda de que se está generando una masa crítica de consumidores
+preocupados por el origen y composición de sus productos, incluyendo aspectos ambientales y de
+sustentabilidad (Rubik Sustentabilidad, 2019). En una encuesta realizada por Eurochile en el marco
+de este proyecto, 92% de los participantes declararon que, teniendo la opción, es más probable que
+eligieran un producto o servicio amigable con el medio ambiente 4 . Según Gonzalo Muñoz, Chile
+tiene condiciones culturales de valoración del entorno, en parte porque la sequía ha logrado
+posicionar la temática ambiental.
+A nivel de mercado interno se identificó a través de varias entrevistas la creciente preocupación de
+clientes por contratar a servicios más sustentables. Petar Ostojic menciona que desde las grandes
+empresas mineras algunas ya están “exigiendo que [el trabajo se] haga localmente, porque
+4 Encuesta desarrollada en el marco de este proyecto que recibió 3444 respuestas. Es importante considerar
+que la encuesta no puede ser considerada 100% representativa de los perfiles de consumidores y patrones de
+consumo en Chile. Sin embargo, por el universo de la encuesta (distribución geográfica, demográfica y
+educacional) se pueden identificar tendencias de un segmento de la población chilena.
+42
+
+--- Página 43 ---
+localmente se entiende ya como sinónimo de sustentabilidad, porque estás reduciendo la huella
+logística, estás reduciendo la huella de carbono, estás generando empleo local”. Esto abre nuevas
+oportunidades para el desarrollo de emprendimientos chilenos, oportunidad que la crisis sanitaria
+actual ha exacerbado, destacando la necesidad de desarrollar cadenas de suministro y capacidad a
+nivel local y nacional para la producción y entrega de ciertos productos y servicios. Tal como se ha
+levantado en varias sesiones con el grupo de trabajo de EC liderado por Eurochile, las Pymes son
+más flexibles y dinámicas que las empresas grandes y tienen una mayor capacidad ‐ a nivel
+estructural al menos ‐ de adaptación y, por lo tanto, son actores clave en la adopción de la EC.
+Pueden asumir más rápidamente los desafíos de la EC y, por tanto, tener un mayor impacto a nivel
+local. Incluso es posible que vía soluciones tecnológicas y/o innovadoras puedan movilizar a las
+empresas grandes para que incorporen conceptos de EC (Rubik Sustentabilidad, 2019).
+También existe una oportunidad poco explotada en la contratación pública verde. En efecto, el
+Estado de Chile en su conjunto es el mayor comprador de bienes y servicios a nivel nacional, con un
+gasto de $6,8 billones de pesos durante el año 2016, lo que representa más de un 4% del PIB
+nacional. Estos volúmenes representan una oportunidad imprescindible para utilizar el poder de
+compra del Estado para promover modelos de producción y consumo sustentables, aportando al
+cumplimiento de objetivos nacionales y compromisos internacionales en materia de sustentabilidad
+y así mismo contribuyendo de manera efectiva a un desarrollo social y económico que sea armónico
+con el medio ambiente (Ministerio de Medio Ambiente, 2019).
+b. Procesos productivos
+Chile es un país con una economía basada en la extracción y exportación de productos de poco valor
+agregado. La presencia de recursos naturales en un territorio, muchas veces se considera como una
+barrera al desarrollo de una economía industrializada de valor agregado. Sin embargo, una
+oportunidad interesante de mencionar nace paradójicamente de la economía extractiva en la que
+Chile basa su desarrollo, esta es la especialización basada en los recursos naturales como
+preparación para la inserción exitosa en lo que podría ser la próxima revolución tecnológica,
+probablemente basada en las ciencias de la vida y de materiales donde la EC sea el sistema
+coordinador (Pérez, 2010). El sector de la minería concentra los esfuerzos en innovación en Chile, y
+se tiene que dirigir estos esfuerzos en la creación de nuevas industrias para agregar valor a los
+recursos naturales explotados (CTC‐N, 2020). Además, la importante reserva de minerales, como el
+cobre y litio, con la cual cuenta Chile, es considerada estratégica para la transformación hacia la
+electromovilidad y para el desarrollo de tecnologías para las energías renovables. El Banco Mundial
+identifica varios de estos minerales como elementos esenciales para cumplir los compromisos
+asumidos a partir del Acuerdo de París e identifica a Latinoamérica y Chile como actores principales
+en suministrar estos minerales (CTC‐N, 2020).
+A continuación, se identifican algunas oportunidades de eficientización del uso de recursos en
+distintos sectores que son de alto potencial para Chile:
+‐ Minería: iniciativas de uso de agua de mar podrían traer oportunidades en la medida que se
+realice un manejo sustentable del impacto ambiental de la salmuera, por ejemplo, a partir
+de oportunidades económicas circulares para su uso en acuicultura, generar electricidad y
+recuperar la sal y los metales contenidos en la salmuera (CTC‐N, 2020);
+‐ Agroalimentario: hay un potencial muy grande para optimizar el consumo de agua,
+agroquímicos y fertilizantes. También, la agricultura orgánica tiene un alto potencial para
+regenerar ecosistemas además de ser un nuevo mercado muy atractivo (CTC‐N, 2020).
+43
+
+--- Página 44 ---
+También se pueden generar nuevos negocios y surgir nuevas líneas de negocio mediante la
+valorización de los residuos y subproductos obtenidos en la cadena de producción (ODEPA,
+2019). Por ejemplo, se puede utilizar las mermas de frutas, que representa el 45% de la
+producción total, para fabricar snack, barras de cereales, etc. (CTC‐N, 2020).
+‐ Pesca y acuicultura: El Programa Estratégico MásMar “Región de Coquimbo: Fuente de
+Agregación de Valor y Bioproductos Marinos” es una iniciativa impulsada por CORFO para
+apoyar el desarrollo de un sector altamente competitivo basado en la generación de
+bioproductos marinos y productos con valor agregado. Este programa está liderando en la
+región la transformación de la industria hacia la EC con la instalación de una planta de EC
+para subproductos de la industria de cetáceos (Más Mar, 2019).
+‐ Construcción: el 70 % de los RDC corresponden a pétreos inertes reciclables que pueden ser
+utilizados como insumos para la construcción. También existe la posibilidad de agregar
+residuos de otras industrias, como la siderúrgica, a los materiales de construcción (Hoja de
+Ruta RCD Consulta Publica, 2019).
+Por otro lado, el Pacto por los Plásticos, iniciativa liderada por Fundación Chile, abre posibilidades
+para la generación de instancias post‐consumo que tendrían como consecuencias la disminución de
+filtraciones de residuos plásticos al medioambiente y la disminución del consumo de combustibles
+fósiles como materia prima, entre otros. Se identifica que las tecnologías disponibles actualmente
+son suficientes para esta transición. Sin embargo, la cantidad de plásticos de calidad reciclado
+permanece como factor limitante, alcanzando solo un 5% del material circulante, así, los sistemas
+post‐consumo para una mejor recolección, separación, reproceso son críticos en el desarrollo de
+esta oportunidad (Fundación Chile, 2020). Respecto de esta iniciativa, Mark Minneboo declara que
+“Los actores de la industria del plástico están de acuerdo que los plásticos desechables no son
+beneficiosos ni para el planeta ni para su imagen y que por lo tanto están integrando cada vez más
+la EC”.
+Otras iniciativas de colaboración intersectorial son los APL, que no solo constituyen pilotos exitosos
+para la incorporación de conceptos de EC en los procesos productivos de las empresas involucradas
+y como ejemplificación para el resto del sector, sino que también demuestran el potencial del
+trabajo colaborativo y en redes.
+En el sector consumo, al momento de iniciar una transición hacia procesos más sustentables,
+alineados con los conceptos de EC, las empresas se enfocan generalmente en sus propias
+operaciones. Sin embargo, un estudio de McKinsey ha demostrado que las mayores oportunidades
+de mejora probablemente se encuentran en las cadenas de suministro (definidas en este caso como
+todas las organizaciones, incluidos los proveedores de energía, que participan en la producción y
+distribución de bienes de consumo) que típicamente representan el 80% de las emisiones de GEI de
+una empresa de consumo y más del 90% de su impacto en el aire, tierra, agua y biodiversidad
+(McKinsey, 2017). Esto demuestra la necesidad de trabajar de forma colaborativa con toda la cadena
+de valor de la empresa y el potencial de esta forma de trabajar al implementar una EC.
+c. Mejores tecnologías disponibles
+Muchas tecnologías ya existen que pueden apoyar una transición a una EC. El World Business
+Council for Sustainable Development (WBCSD) identifica tres tipos de tecnologías que pueden
+apoyar su implementación (WBCSD, 2017):
+44
+
+--- Página 45 ---
+‐ TECNOLOGÍAS DIGITALES tales como el Internet de las Cosas (IoT, por sus siglas en inglés),
+Big Data, Blockchain e identificación por radiofrecuencia (RFID);
+‐ TECNOLOGÍAS FÍSICAS tales como impresión 3D, robótica, almacenamiento y cosecha de
+energía, tecnología de diseño modular y nanotecnología;
+‐ TECNOLOGÍAS BIOLÓGICAS tales como energía biológica, materiales biológicos, biocatálisis,
+hidroponía y aeroponía.
+Las oportunidades para Chile de una re‐industrialización, subiéndose al carro de la cuarta revolución
+industrial, son múltiples y esta transformación se plantea como mucho más que un cambio
+tecnológico. La Industria 4.0 es un cambio de paradigma, desde una fabricación y producción
+tradicional centralizada a una fabricación y producción inteligente descentralizada (UNIDO, 2019).
+Tiene la capacidad de fomentar la creación de emprendimientos y empresas innovadoras, con
+modelos de negocios alineados con los conceptos de la EC, por ejemplo, la optimización del uso de
+recursos; reparación y remanufactura; uso de sensores para predecir fallos; entre otros. Petar
+Ostojic comenta que “ahora las tecnologías son mucho más baratas, y no demora tanto tiempo el
+poder reinstalar estas capacidades”. Además, la adopción de nuevas tecnologías, al optimizar los
+procesos productivos, permite un mayor retorno económico y la generación de nuevos empleos,
+fomentando la capacitación y actualización del capital humano en las empresas. UNIDO destaca que
+la Industria 4.0 ofrece enormes oportunidades para permitir una EC en la que los productos al final
+de su vida útil se reutilizan, remanufacturan y reciclan (UNIDO, 2019).
+Una industrialización enfocada en el desarrollo de productos y servicios altamente especializados
+orientados a sectores con alto potencial en Chile y alineada con la implementación de una EC es aún
+más atractivo ya que Chile cuenta con un sector energético muy dinámico que está pasando por una
+transformación sistémica y profunda de descarbonización. Este proceso está impulsado por grandes
+multinacionales comprometidas con la descarbonización y la EC, pero también por las políticas de
+estado, alineadas con el compromiso país de hacer Chile carbono neutral al 2050. El sector
+energético es un actor muy relevante en la transición hacia una EC y tal como se mencionó
+anteriormente en este informe, es crítico que la estrategia de EC esté estrechamente vinculada con
+la estrategia de descarbonización del país. Por lo mismo, el liderazgo del sector energético en
+materia de descarbonización y EC lo vuelve un potente aliado en la transición a una EC.
+Además, existen diversas tecnologías que permiten hacer frente a problemáticas de fin de uso:
+muchos de los productos y materiales que usamos y consumimos hoy no se pueden reusar, ni
+reciclar. Si bien en un sistema 100% circular estas fugas no deberían existir o ser muy mínimas,
+también hay que considerar que, en la realidad actual, no tenemos la capacidad – por falta de diseño
+adecuado, tecnologías, mercado, etc. – de mantener todos los recursos y productos en circulación.
+Para esos casos, Javier Obach indica que “hay que buscar formas de dar respuesta y hacernos cargo
+de historias pasadas de la forma más eficiente y con más valor agregado posible, y en ese escenario,
+el waste‐to‐energy, si bien está al final de la pirámide, puede ser una solución atractiva”. Estas
+tecnologías presentan mucho potencial para disminuir la cantidad de residuos, técnicos y orgánicos,
+que terminan en rellenos sanitarios, vertederos o incluso en botaderos ilegales. Sin embargo, su
+implementación tiene que ser parte de una estrategia integral de gestión de residuos y transición a
+una EC, definida por políticas públicas claras.
+45
+
+--- Página 46 ---
+d. Nuevos bienes y servicios
+Si bien el concepto de EC se centra principalmente en el desarrollo de nuevas tecnologías y modelos
+de negocio que permitan mantener los materiales en circulación, también incluye nociones de
+eliminación de residuos y contaminación desde la etapa de diseño, sustitución de materiales no
+renovables por materiales renovables y restauración de sistemas naturales (Schröder, 2020). Al
+tener una gran variedad de recursos naturales, renovables y no renovables, Chile tiene la
+oportunidad de innovar en desarrollo de materiales y productos, tanto del ciclo técnico, como
+biológico. Por ejemplo, ecomateriales sostenibles a partir de madera y otros recursos naturales
+renovables (Rubik Sustentabilidad, 2019).
+Chile también tiene la oportunidad de potenciar el desarrollo de sectores no extractivos, como, por
+ejemplo, servicios, manufactura y desarrollo de tecnologías digitales. Estos sectores cuentan con un
+gran potencial actualmente y al incorporar conceptos de EC, podrían obtener una mayor
+visibilización y participación en el PIB (Rubik Sustentabilidad, 2019).
+De a poco están emergiendo nuevos modelos de negocio ‐ venta a granel (Al Gramo, Eco Carga),
+plataformas de arriendo (Awto), remanufactura (Neptuno Pumps), mercados secundarios (Yapo,
+tiendas de ropa de segunda mano), etc. ‐ que entregan bienes y servicios alineados con los
+conceptos de la EC y, además, favorecen el desarrollo de una nueva relación entre la empresa y el
+consumidor/usuario y entre el proveedor y su cliente. Estos nuevos modelos de negocios requieren
+de una mayor interacción entre los actores de las cadenas de valor y contribuyen a la creación de
+redes, al fortalecimiento de la colaboración y a la generación de mayor transparencia. Todo esto
+contribuye al desarrollo de una “cultura circular” que genera un círculo virtuoso para el aumento de
+empresas ofreciendo bienes y servicios circulares y consumidores pidiéndolos. De las 3444
+respuestas recibidas en el marco de la encuesta de definición del perfil del consumidor en Chile
+realizada por Eurochile, el 87% de los participantes contestaron estar interesados en recibir un curso
+o información sobre cómo consumir de forma más amigable con el medio ambiente. Si bien esta
+encuesta no necesariamente representa a todos los chilenos y chilenas, está claro que la conciencia
+y preocupación ambiental en Chile está creciendo. El 27 de septiembre 2019, 21 ciudades del país
+se sumaron a la marcha de Fridays for Future, y en Santiago se registraron entre 30.000 y 100.000
+personas participando de la marcha (Biobio Chile, 2019), lo cual viene apoyar esta afirmación.
+Además, estos nuevos modelos de negocio en general están asociados a productos y servicios más
+“a la medida”, adaptados a las especificidades y necesidades de la región y ecosistema dónde se
+desarrollan, así fomentando el desarrollo de las economías locales, aumentando la resiliencia de
+esos territorios y generando empleo.
+e. Conocimiento científico y tecnológico de frontera
+El desarrollo en Chile de algunos cursos y diplomados enfocados en EC, más la capacidad instalada
+en investigación en el país abre las puertas al desarrollo de capital humano capacitado en temas de
+EC. Alejandro Chacón destaca que “Chile tiene la ventaja de tener el tema del ecodiseño en la mesa
+y tenemos cientos de personas formadas (diplomados), podemos hacer rápido el cambio”. La región
+Metropolitana y Valparaíso concentran una gran cantidad de universidades y estudiantes lo cual se
+puede aprovechar para impulsar proyectos de innovación y de transferencia tecnológica (CTC‐N,
+2020). En la región del Biobío, Concepción tiene la mayor cantidad de egresados universitarios per
+cápita, tiene índices altos en investigación y existen varias iniciativas como el Centro de Ciencias
+Ambientales EULA, Parque Científico y Tecnológico del Biobío (Pacyt), Centro de Investigación en
+Biodiversidad y Ambientes Sustentables (CIBAS) que son socios estratégicos para el desarrollo de
+46
+
+--- Página 47 ---
+conocimiento y transferencia tecnológica en temas de EC en el país (CTC‐N, 2020). El Centro
+Tecnológico para la Innovación en Economía Circular para la Macrozona Norte también es una
+tremenda oportunidad para desarrollar innovación y conocimiento específico en EC, además de
+poder articular a los distintos actores (privado, academia, instituciones públicas) para generar un
+ecosistema de EC a nivel territorial y así demostrar los beneficios de la EC respecto de la generación
+de capital social, ambiental y económico.
+Además, y este punto fue validado por los miembros del grupo de trabajo de EC de Eurochile, Chile
+tiene una ventaja en el desarrollo de innovación e investigación aplicada para el desarrollo de
+productos y servicios circulares adecuados a los requerimientos y características de diferentes
+regiones del mundo, gracias a los diferentes ecosistemas que tiene el país, que pueden actuar como
+laboratorios naturales (Rubik Sustentabilidad, 2019).
+En Europa, el programa Horizonte 2020 (2014‐ 2020) programa marco de investigación e innovación,
+ha destinado 650 millones de euros a la línea "Industria 2020 en la Economía Circular" entre 2016 y
+2017 y 940 millones de euros a la línea “Conectando las ganancias económicas y ambientales – la
+Economía Circular” entre 2018 y2020 (Comisión Europea, 2019). En cuanto a su sucesor, Horizonte
+Europa (2021‐ 2027), 4 de las 5 misiones del programa están directamente relacionadas con el Pacto
+Verde y más de 35% del presupuesto (€100MM) se destinará a financiar nuevas soluciones para el
+clima, incluyendo proyectos de EC (Comisión Europea, 2020). Estos instrumentos de financiamiento
+también están disponibles para empresas e instituciones de varios países terceros como Chile en
+calidad de co‐ejecutores o socios del proyecto, así fomentando la creación de redes y colaboración
+en desarrollo de conocimiento y transferencia tecnológica internacional.
+f. Otros
+En Chile, un impulsor importante de la adopción de una EC es la implementación de la ley REP, que
+representa un punto de partida importante para fomentar la innovación y transformación hacia una
+EC de algunos sectores específicos de la economía. Sin embargo, varios entrevistados mencionan
+que, para impulsar aún más esta transformación, se necesita de una política de estado enfocada en
+EC que de una dirección al sector privado de a dónde va el mercado y en qué deben invertir.
+A nivel de Latinoamérica, Chile es considerado como uno, si no él, líder de la región en temas
+medioambientales. Tal como lo destaca Mark Minneboo, él ser uno de los países en el top 10 de los
+países más vulnerables frente al cambio climático, ha ayudado a dar visibilidad a este tema a nivel
+de gobierno. Este liderazgo se identifica como una oportunidad para Chile, para fomentar la
+exportación de bienes y servicios, posicionar el país como destino turístico atractivo, también a nivel
+de relaciones diplomáticas, entre otros. Y a la vez, esto impulsa la implementación de aún más
+medidas ambientales, tanto desde el sector público como en el sector empresarial (Rubik
+Sustentabilidad, 2019).
+El estudio de ODEPA destaca que al ser Chile un país pequeño, existe una facilidad para establecer
+redes de colaboración y así articular y generar un impacto mayor (ODEPA, 2019). Por ejemplo, "una
+oportunidad para la circularidad es el trabajo coordinado con los programas estratégicos de CORFO
+que permitiría unificar diagnósticos e incluso contar con métricas comunes y una gobernanza que
+favoreciera, por ejemplo, la reportabilidad de los indicadores de circularidad” (PMG, 2017).
+Un aspecto muy relevante que proporciona un paragua para la implementación de una EC, y que
+fue destacado en muchos de los informes revisados y de las entrevistas realizadas, es el poder de
+47
+
+--- Página 48 ---
+convocatoria que tiene la EC, a nivel mundial, nacional y regional. Este interés se percibe en todos
+los actores de la sociedad: start‐ups, Pymes y grandes empresas; ministerios, gobiernos regionales
+y municipalidades; centros tecnológicos; academia; sociedad civil y ciudadanía. La construcción de
+una cultura con mirada de sostenibilidad a largo plazo es clave para una adopción real y transversal
+de la EC en Chile.
+Para terminar, es importante destacar que la implementación de una EC no es solamente un fin en
+sí: SITRA, la Fundación Ellen MacArthur, la Comisión Europea y las Naciones Unidas, entre muchas
+otras instituciones, reconocen la EC como una herramienta potente para cumplir con los
+compromisos tomados en el marco del Acuerdo de Paris, para mitigar el cambio climático y para dar
+respuesta a varias de las metas relacionadas con los ODS. Por lo tanto, al incorporar la EC en la
+estrategia de desarrollo del país e incentivar que todos los sectores económicos incorporen esos
+conceptos en sus productos, procesos y modelos de negocio, también permitiría a Chile avanzar en
+el cumplimiento de sus compromisos internacionales y carbono‐neutralidad para 2050.
+48
+
+--- Página 49 ---
+E. Síntesis preliminar
+Antes de presentar una propuesta de estructura para la hoja de ruta, es necesario aclarar y definir
+algunos conceptos y establecer los ejes temáticos de la hoja de ruta de EC para Chile.
+1. Definiciones
+Para las siguientes etapas de esta consultoría y avanzar en la construcción de la hoja de ruta, es
+necesario identificar y definir algunos conceptos.
+‐ Drivers : factores determinantes externos que condicionan la estrategia a seguir o la
+afectarán en un fututo y responden a la pregunta ¿Por qué o para qué actuar? Representan
+aquellas tendencias y motivos que de alguna u otra forma condicionan nuestro actuar y
+pueden ser entendidos como leyes y/o políticas implementadas o por implementar,
+tendencias y/o cambios futuros de los mercados, tendencias y/o cambio en los hábitos de
+consumo, cambios en el clima, nuevos desarrollos tecnológicos, aspectos sociales y/o
+demográficos, entre otros. Se dividen en las siguientes categorías: Política, Mercado, Social
+y demográfica, Tecnológica, Legal, Ambiental y Otra.
+‐ Estrategias : acciones conductoras que buscan orientar los esfuerzos para alcanzar la visión
+compartida y que puedan ser representadas en una temporalidad de corto, mediano y largo
+plazo. Se definen a nivel de foco y contienen una serie de iniciativas que se van desplegando
+en el horizonte temporal y que en su conjunto forman parte de la estrategia.
+‐ Iniciativas : medidas y/o acciones concretas que tienen un plazo de ejecución menor o igual
+a la estrategia en la cual se enmarcan. Cada iniciativa deberá incluir al menos la siguiente
+información:
+ Cómo se implementará
+ Qué cambios/brechas se buscan abarcar con la iniciativa
+ Qué impacto tendrá
+ Quién implementará la iniciativa
+ Quién financiará la iniciativa
+ Cuándo se implementará y cuánto tiempo se demorará en ser
+implementada
+ Cuántos recursos son necesarios para implementar la iniciativa
+ Cuál es el nivel de prioridad de la iniciativa
+ Qué tan compleja es implementar
+Las iniciativas pueden ser agrupadas, clusterizadas y conformar estrategias que se desarrollan con
+una mirada de corto, mediano y/o largo plazo.
+‐ Recursos: elementos habilitantes necesarios para implementar las iniciativas y estrategias
+identificadas en la capa superior y ayudan a responder a las preguntas ¿Cómo hacerlo? ¿Con
+qué? ¿Con quiénes?. Pueden ser capital humano calificado, capital humano avanzado,
+regulación y normativa, acceso a información, infraestructura habilitante, infraestructura
+física o tecnológica, acceso a financiamiento, otros. Se deberían dedicar a las iniciativas de
+mayor prioridad e impacto en el corto plazo, mientras sientan las bases para mejoras a más
+largo plazo (implementación de la estrategia, por ejemplo).
+Respecto de los ejes temáticos, denominados focos, e inicialmente definidos en las bases técnicas
+de la licitación como: Producción, Consumo y Gestión de Residuos, luego de un trabajo junto con la
+49
+
+--- Página 50 ---
+contraparte del MMA y el comité ejecutivo, se decidió establecer los siguientes focos para la Hoja
+de Ruta de EC de Chile:
+‐ Obtención de Recursos
+‐ Producción
+‐ Consumo y servicios
+‐ Gestión de residuos
+Estos focos serán los pilares para la identificación y clasificación de estrategias e iniciativas de la hoja
+de ruta y para su difusión, levantando los actores y partes interesadas más importantes para cada
+foco.
+2. Propuesta de estructura de la hoja de ruta
+En la figura 2, se propone una estructura para la construcción de la hoja de ruta de EC. En el anexo
+B, se encuentra un ejemplo de arquitectura poblada de una hoja de ruta.
+Para cada foco, se repite la misma arquitectura planteada y se identifican en cada caso, los drivers,
+iniciativas y recursos. La metodología da la posibilidad de separar los elementos críticos durante la
+construcción de la estrategia para que, luego de un proceso de análisis, agrupación y priorización,
+se vuelvan a juntar sin perder su vinculación estratégica, logrando integrar todos los elementos bajo
+una sola hoja de ruta. Esto aplica específicamente para la definición de drivers – se identifican para
+cada foco, pero finalmente se entrega una capa de drivers de la hoja de ruta, transversales a los
+focos – y estrategias.
+50
+
+--- Página 51 ---
+A R Q U I T E C T U R A H D R
+CORTO PLAZO MEDIANO PLAZO LARGO PLAZO
+POLÍTICA (Nac/Reg/Int)
+MERCADO (Nac/Int)
+SOCIALES Y DEMOGRÁFICOS
+TECNOLOGÍA (Nac/Int)
+LEGALES (Nac/Int)
+D R I V E R S AMBIENTAL
+OTROS N
+Ó
+I
+FOCO
+‐ EXTRACCIÓN DE RECURSOS S
+‐ PRODUCCIÓN I
+‐ CONSUMO Y SERVICIOS
+‐ GESTIÓN DE RESIDUOS V
+I N I C I A T I V A S
+TECNOLOGÍA
+CAPITAL HUMANO
+INFRAESTRUCTURA
+INFORMACIÓN
+R E C U R S O S REDES / ALIANZAS
+OTROS
+Figura 2. Propuesta de arquitectura para la hoja de ruta de EC. Fuente: elaboración propia.
+
+--- Página 52 ---
+Además, de la estructura base que se presenta, se propone abordar en el documento de hoja de
+ruta los siguientes puntos en secciones específicas:
+‐ Actores : identificar el rol de distintos actores que tienen roles claves y transversales en la
+implementación, difusión y revisión de la hoja de ruta tal como ministerios específicos,
+gobiernos regionales, municipalidades, ciudadanos, inversionistas, gremios, academia, etc.
+‐ Definiciones: establecer los antecedentes relevantes – legales, tecnológicos, etc. – que
+sirvieron como base para la definición y priorización de las estrategias e iniciativas.
+‐ Casos de éxito chilenos : levantar para cada foco de la hoja de ruta ejemplos de empresas e
+instituciones chilenas con modelos de negocios, procesos, innovaciones y/o tecnologías que
+proponen una solución a uno o más aspectos abordados en las estrategias e iniciativas
+identificadas en la hoja de ruta.
+‐ Metas específicas : definir, además de la visión de la hoja de ruta, metas cuantitativas
+específicas, eventualmente relacionadas con los ejes temáticos de la hoja de ruta o
+estrategias que se definen en el proceso.
+3. Propuesta de acciones de rápida implementación
+Si bien el trabajo de construcción de la hoja de ruta propiamente tal aún no inicia, se han identificado
+algunas acciones de rápida implementación o “frutos tempranos” que se podrían desarrollar en el
+marco de esta hoja de ruta para ponerla en marcha:
+‐ Identificación de casos de éxito de EC en Chile: se propone hacer un levantamiento de casos
+de éxito y empresas aplicando EC en sus procesos y/o modelos de negocio, no solamente
+para darles visibilidad en la hoja de ruta a modo de ejemplo, también para impulsar la
+creación de un ecosistema de EC en Chile. Esto podría tomar la forma de una plataforma
+virtual que identifique y mapee a estos actores.
+‐ Elaboración de una estrategia de difusión para promover la EC a distintos grupos y dar a
+conocer la hoja de ruta de EC de Chile: es crucial que durante y una vez elaborada la hoja
+de ruta, tanto el MMA como los otros actores que participaron de su construcción –
+organizaciones parte de los comités ejecutivo y estratégico – difundan a sus miembros y
+socios, partes interesadas y en general a la ciudadanía para promover su adopción e
+implementación.
+‐ Definición de un comité con la responsabilidad de hacer seguimiento y monitorear la
+implementación de las iniciativas de la hoja de ruta: esta función es crítica para asegurar la
+continuidad de la hoja de ruta y su adopción por los distintos actores. Este comité podría
+ser el mismo comité ejecutivo que se estableció en el marco de la construcción de la hoja
+de ruta ‐ MMA, Ministerio de Economía, CORFO y la ASCC ‐ ya que cuenta con
+representación de las instituciones que iniciaron el proceso de construcción de la hoja de
+ruta de EC, las cuales tienen importantes vínculos con el sector privado, actor crítico para la
+implementación de la hoja de ruta.
+
+--- Página 53 ---
+F. Conclusión
+Luego de la revisión bibliográfica y de las entrevistas, es posible concluir que, además de
+infraestructura y capacidades genéricas, existen algunas plataformas y estructuras empresariales e
+institucionales específicas en Chile que pueden facilitar la adopción de la EC. Por ejemplo, la Ley REP
+fue mencionada por muchos de los estudios y entrevistados como una herramienta que ha
+potenciado el desarrollo de capacidades dentro de las empresas de los sectores abarcados, y sus
+ecosistemas, pero estas capacidades operan a un nivel muy específico.
+Existen muchas brechas por superar para la adopción de la EC en Chile. En general, hay poco
+conocimiento, experiencia e infraestructura específica y, por lo tanto, las barreras para la
+implementación de la EC en el país son múltiples. Un aspecto crítico es la falta de concientización
+de la existencia del amplio alcance de EC que va más allá de la gestión de residuos y del reciclaje,
+donde reparar, reutilizar e incluso repensar productos desde su diseño son oportunidades de
+desarrollo poco explotadas. Sin embargo, para conseguir implementar medidas en estas etapas es
+necesario una revalorización de los procesos y la materialidad usada en ellos. Por ejemplo, la
+utilización de alternativas de valorización energética o recuperación de materiales simplemente no
+pueden competir con los bajos costos de disposición final en rellenos sanitarios. Para fomentar la
+implementación de estas alternativas, hace falta incorporar en los costos de disposición final las
+externalidades ambientales y sociales que generen o establecer incentivos, como subsidios, para
+promover la adopción de alternativas más circulares.
+En un ámbito más estructural, se identificó que parte de las cadenas de valor de los productos
+consumidos en nuestro país se encuentran territorialmente fuera de Chile, e incluso en otros
+continentes, lo que dificulta consolidar la circularidad de los productos consumidos en el país. Si
+bien Chile invierte en innovación e I+D en un grado mínimo comparado con países desarrollados, su
+alcance no consigue acercar eficientemente los prototipos sustentables desarrollados a un mercado
+real, en parte debido a la desindustrialización prematura que sufrió Chile a fines del siglo pasado.
+Así, Chile genera una dependencia de las capacidades de industrialización de otros países y limita su
+capacidad de generar valor agregado para sus productos y servicios, limitándose a la economía
+extractiva que hasta hoy mantiene al país en una estabilidad aparente. Este escenario frena
+significativamente cualquier medida para implementar una EC en el país, por lo que abordar este
+tema es vital para seguir adelante en este proceso.
+Una oportunidad que se vislumbra para contrarrestar este escenario clave y que fue mencionada
+por varios de los entrevistados, es el interés que hoy en día existe, tanto en el sector público como
+en el sector privado, y el gran poder de convocatoria que tiene la EC. Eso fue comprobado por
+Eurochile y el MMA, una vez anunciado el inicio de esta consultoría para la construcción de la hoja
+de ruta de EC de Chile, cuando varias instituciones se acercaron para comunicar su interés en
+participar y apoyar el proceso. Sin duda, esto es un aspecto muy positivo no solamente para el
+proyecto, si no que para la posterior implementación de la hoja de ruta que necesita del
+compromiso de todos los stakeholders , no solo al corto plazo, si no que más allá de los cambios de
+gobierno, de manera que su prioridad trascienda institucionalmente.
+Adicionalmente, el compromiso del gobierno de Chile con la EC se refleja en la incorporación de
+metas relacionadas con la EC y la articulación eficiente de los actores relevantes en la toma de
+decisiones. Específicamente, el establecer como meta, frente a las Naciones Unidas, la creación de
+una hoja de ruta de EC, elaboración de una estrategia de residuos orgánicos y desarrollo de métricas
+53
+
+--- Página 54 ---
+de EC en su NDC actualizado (Ministerio de Medio Ambiente, 2019) y la elaboración de dos Informes
+Voluntarios referentes a los ODS de la Agenda de Desarrollo Sostenible 2030, estrechamente
+relacionado con la EC, son iniciativas que dan cuenta de este compromiso.
+En general, hay capacidades genéricas instaladas, que pueden actuar como la puerta de entrada
+para una transformación más profunda dentro de las empresas y del ecosistema en general. Al
+preguntarle porque la transición a una EC no ha ocurrido hasta ahora, Petar Ostojic contesta “yo
+creo que anteriormente no se habían dado las condiciones para dar el salto […] faltaba un relato”,
+brecha que la EC vino a cerrar.
+Por otro lado, la crisis sanitaria que está viviendo el mundo desde inicios del 2020 ha tenido como
+una de sus consecuencias una crisis social y económica que se proyecta profunda, dejando de
+manifiesto que se necesitan modelos robustos, resilientes e inclusivos, configurándose la EC como
+un modelo para alcanzar esta robustez. Muchos expertos coinciden en que las decisiones tomadas
+respecto de cómo estimular el crecimiento y responder a la pandemia de COVID‐19 determinarán
+el futuro de la salud, bienestar y estabilidad de las personas y el planeta (Quinney, 2020). El 28 de
+abril, Ursula von der Leyen, Presidenta de la Comisión Europea, declaró “El Pacto Verde de la UE es
+una agenda para transformar nuestra economía para hacerla más competitiva y mejorar nuestra
+calidad de vida. Ahora también lo haremos nuestro motor para la recuperación. Al utilizar el Pacto
+Verde de la UE como nuestra brújula, podemos convertir la crisis de esta pandemia en una
+oportunidad para reconstruir nuestras economías de manera diferente y hacerlas más resistentes.
+[…] Con una recuperación verde saldremos de la crisis más fuertes y saludables.” Esta declaración
+es apoyada por 17 estados europeos – Alemania, Austria, Dinamarca, Finlandia, Francia, Grecia,
+Eslovaquia, Eslovenia, España, Irlanda, Italia, Letonia, Luxemburgo, Malta, Países Bajos, Portugal y
+Suecia ‐ que han hecho un llamado a la Comisión Europea para que el Pacto Verde sea la palanca
+para la recuperación económica de Europa tras la crisis provocada por el COVID‐19 (Climate Home
+News, 2020).
+Sin duda, esta gran crisis no es la única que Chile y el mundo tendrán que enfrentar esta década.
+“Aunque la pandemia del COVID‐19 es probablemente la mayor crisis mundial desde la segunda
+guerra mundial, el cambio climático sigue siendo una crisis mucho mayor en el largo plazo. Sin
+embargo, los dos problemas tienen similitudes sugerentes. Ambos requerirán niveles inusuales de
+cooperación global. Ambas exigen cambios en el comportamiento hoy, en nombre de reducir el
+sufrimiento mañana. Ambos problemas fueron pronosticados durante mucho tiempo con gran
+certeza por los científicos, y han sido descuidados por gobiernos. […] En otras palabras, pensar en
+este nuevo nivel de intervención estatal como un requisito temporal es garantizar que sigamos
+avanzando por el camino del desastre climático” (Baker, 2020).
+Este complejo escenario nos invita a preguntarnos desde la realidad local, cuál debiera ser la
+estrategia en Chile para salir de esta y futuras crisis. Hasta ahora, las crisis actuales han obligado al
+estado a tomar un rol mucho más protagónico, demostrando la factibilidad de esas intervenciones.
+Rafael Palacios menciona que “esta participación es algo que Chile se cuestionaba bastante, pero
+que hoy se considera razonable e incluso debiera haber un consenso de que el rol del estado tiene
+que ir dos, tres, cuatro pasos más allá de lo que teníamos hace unos meses”.
+Además, estas crisis han permitido demostrar la rapidez con la cual los gobiernos pueden adaptar
+sus políticas y el sector empresarial transformarse y reinventarse cuando los objetivos están claros.
+Ese es el propósito de esta hoja de ruta, él de entregar objetivos y una dirección clara para los
+54
+
+--- Página 55 ---
+próximos 20 años para permitir una transición efectiva a una EC que, sin duda, es una herramienta
+crítica para enfrentar los desafíos económicos, sociales y ambientales de la crisis climática.
+55
+
+--- Página 56 ---
+III. Bibliografía
+Acción Empresas. (Diciembre de 2019). Noticias . Obtenido de Acción Empresas:
+https://accionempresas.cl/noticia/apl‐accion‐analizo‐el‐estado‐de‐avance‐de‐las‐empresas‐en‐
+gestion‐de‐residuos/
+Agencia de Sustentabilidad y Cambio Climático. (febrero de 2020). Noticias . Obtenido de Agencia de
+Sustentabilidad y Cambio Climático:
+http://www.agenciasustentabilidad.cl/noticias/eco_etiqueta_29_empresas_incorporaran
+Agencia de Sustentabilidad y Cambio Climático. (Marzo de 2020). Noticias . Obtenido de Agencia de
+Sustentabilidad y Cambio Climático:
+http://www.agenciasustentabilidad.cl/noticias/ley_rep_el_valor_de_la_coordinacion
+Aracena, C. G. (abril de 2020). Comentarios Grupo de Trabajo de Empresas para la EC, Eurochile. (E. d.
+Eurochile, Entrevistador)
+ASIPLA. (2019). Estudio sobre el reciclaje de plásticos en Chile. Santiago: ASIPLA.
+Baker, P. (Marzo de 2020). ‘We can’t go back to normal’: how will coronavirus change the world?
+Obtenido de The Guardian: https://www.theguardian.com/world/2020/mar/31/how‐will‐the‐
+world‐emerge‐from‐the‐coronavirus‐
+crisis?utm_term=RWRpdG9yaWFsX0dyZWVuTGlnaHQtMjAwNDAx&utm_source=esp&utm_medi
+um=Email&CMP=greenlight_email&utm_campaign=GreenLightr
+Biobio Chile. (2019). Obtenido de https://www.biobiochile.cl/noticias/nacional/region‐
+metropolitana/2019/09/27/fridays‐for‐future‐multitudinaria‐marcha‐contra‐el‐cambio‐
+climatico‐se‐desarrolla‐en‐la‐capital.shtml
+Chacón, A. (31 de Marzo de 2020). Entrevista a Miembro del comité Estrategico, en el Marco de la Hoja
+de Ruta a la EC. (J. Mora, Entrevistador)
+ChileCompra. (2016). DIRECTIVA DE CONTRATACIÓN PÚBLICA N°25 “RECOMENDACIONES PARA LA
+CONTRATACIÓN DE BIENES Y SERVICIOS INCORPORANDO CRITERIOS AMBIENTALES Y DE
+EFICIENCIA ENERGÉTICA” .
+Circular Economy Club. (2018). CEC Global Database . Obtenido de Circular Economy Club:
+https://www.circulareconomyclub.com/gd‐home/cec‐global‐database/
+Climate Home News. (Abril de 2020). Climate Home News . Obtenido de
+https://www.climatechangenews.com/2020/04/09/european‐green‐deal‐must‐central‐resilient‐
+recovery‐covid‐19/
+Comisión Económica para América Latina y el Caribe (CEPAL)/Organización Internacional del Trabajo
+(OIT). (2018). Sostenibilidad medioambiental con empleo en América Latina y el Caribe. Santiago:
+Naciones Unidas.
+Comisión Económica para América Latina y el Caribe (CEPAL)/Organización para la Cooperación y el
+Desarrollo Económicos (OCDE). (2016). Evaluaciones del desempeño ambiental: Chile 2016.
+Santiago.
+Comisión Europea. (2019). Closing the loop: Commission delivers on Circular Economy Action Plan.
+Obtenido de Comisión Europea:
+file:///Users/lsolway/Downloads/Closing_the_loop__Commission_delivers_on_Circular_Econom
+y_Action_Plan%20(1).pdf
+Comisión Europea. (2019). Horizon 2020 . Obtenido de Comisión Europea:
+https://ec.europa.eu/programmes/horizon2020/en/what‐horizon‐2020
+Comisión Europea. (2019). The European Green Deal. Brussels: Comisión Europea.
+Comisión Europea. (13 de Marzo de 2020). Circular Economy . Obtenido de European
+Commission/Environment: https://ec.europa.eu/environment/circular‐economy/
+56
+
+--- Página 57 ---
+Comisión Europea. (2020). Horizon Europe . Obtenido de Comisión Europea:
+https://ec.europa.eu/info/horizon‐europe‐next‐research‐and‐innovation‐framework‐
+programme_en
+Comité Consultivo de Energı́a 2050. (2015). Hoja de Ruta 2050: Hacia una energía sustentable e inclusiva
+para Chile.
+Consejo Nacional para la implementación de la Agenda 2030 de Desarrollo Sostenible. (2019). Segundo
+Informe Nacional Voluntario.
+CPC/EY. (2020). Visión y Acción Climática del mundo empresarial para Chile. Santiago: CPC.
+Cristián González Farfán. (2 de Agosto de 2019). Emprendimient Circular. Obtenido de País Circular:
+https://www.paiscircular.cl/consumo‐y‐produccion/arrendar‐y‐no‐vender‐la‐innovadora‐
+propuesta‐de‐rentivo‐en‐articulos‐de‐guagua/
+CTC‐N. (2020). Evaluación de la situación actual de la Economía Circular para el desarrollo de una Hoja de
+Ruta para Brasil,Chile, México y Uruguay.
+Ellen MacArthur Foundation. (2017). Economía Circular . Obtenido de Ellen MacArthur Foundation:
+ttps://www.ellenmacarthurfoundation.org/circular‐economy/concept
+Estudios Nueva Economía. (2018). Chile del Siglo XXI: Propuestas desde la Economía. Santiago: Estudios
+de la Nueva Economía.
+European Economic and Social Committee. (2019). Circular economy strategies and roadmaps in Europe:
+Identifying synergies and the potential for cooperation and alliance building. European Economic
+and Social Committee.
+Fabfoundation. (2020). Fablabs.io . Obtenido de Fablabs.io: https://www.fablabs.io/
+Fomento Bio Bio . (enero de 2020). Obtenido de http://www.fomentobiobio.cl/noticias/diplomado‐
+economia‐circular/
+Fundación Chile. (2020). Hoja de Ruta. Pacto Chileno de los Plásticos. Santiago.
+Gobierno de Chile. (2013). Estrategia Nacional de Crecimiento Verde.
+Gonzalo Muñoz, F. d. (Abril de 2020). Entrevista a miembro de Comité Estrategico de Hoja de Ruta EC. (J.
+Mora, Entrevistador)
+Grupo de coordinación del ECESP. (Marzo de 2020). Joint statement on the new Circular Economy Action
+Plan (CEAP) by members of the Coordination Group (CG) of the European Circular Economy
+Stakeholder Platform.
+(2019). Hoja de Ruta RCD Consulta Publica.
+ISO. (2019). ISO/TC 323 Circular economy . Obtenido de ISO:
+https://www.iso.org/committee/7203984.html
+Lacy, P., Long, J., & Spindler, W. (2015). The Circular Economy Handbook: Realizing the Circular
+Advantage. Accenture Strategy.
+Más Mar. (2019). Obtenido de Más Mar: https://www.masmar.cl/
+McKinsey. (2017). McKinsey . Obtenido de McKinsey: https://www.mckinsey.com/business‐
+functions/sustainability/our‐insights/mapping‐the‐benefits‐of‐a‐circular‐economy#
+McKinsey Center for Business and Environment/Ellen MacArthur Foundation. (2015). Growth Within: A
+Circular Economy Vision for a Competitive Europe. SUN.
+Ministerio de Economía, Fomento y Turismo. (2019). Política CTIE . Obtenido de OBSERVATORIO CTIE:
+http://ctie.economia.cl/2019/03/07/iniciativa‐desafios‐pais‐primer‐paso‐para‐la‐politica‐de‐
+innovacion/
+Ministerio de Energía. (2017). Estrategia Nacional de Electromovilidad. Un camino para los vehículos
+eléctricos .
+Ministerio de Medio Ambiente. (2016). Programa Nacional de Consumo y Producción Sustentables .
+Ministerio de Medio Ambiente. (2019). Estado Verde . Obtenido de Estado Verde:
+https://estadoverde.mma.gob.cl/
+57
+
+--- Página 58 ---
+Ministerio de Medio Ambiente. (2019). Instructivo de Aplicación de Criterios Sustentables.
+Ministerio de Medio Ambiente. (2019). Propuesta: CONTRIBUCIÓN DETERMINADA A NIVEL NACIONAL
+(NDC) DE CHILE PRIMERA ACTUALIZACIÓN .
+Minneboo, M. (Abril de 2020). Entrevista en el marco del desarrollo de la Hoja de Ruta de Economía
+Circular. (J. Mora, Entrevistador)
+MMA. (2018). Ley 21100 . Obtenido de Biblioteca del Congreso Nacional de Chile: http://bcn.cl/26ck5
+Molina, J. (11 de Marzo de 2020). Industria / Regulación . Obtenido de País Circular:
+https://www.paiscircular.cl/industria/ley‐que‐prohibe‐envases‐de‐un‐solo‐uso‐obliga‐a‐
+incorporar‐un‐alto‐porcentaje‐de‐material‐reciclado‐en‐botellas‐e‐impulsa‐retornabilidad/
+ODEPA. (2019). ESTUDIO ECONOMÍA CIRCULAR EN EL SECTOR AGROALIMENTARIO CHILENO. Santiago:
+ODEPA, Ministerio de Agricultura.
+OEC. (2017). Chile . Obtenido de OEC: https://oec.world/es/profile/country/chl/#Exportaciones
+Pérez, C. (2010). Dinamismo tecnológico e inclu‐sión social en América Latina:una estrategia de
+desarrollo productivo basada en los recursos naturales. Revista CEPAL 100 , págs. 123‐145.
+PMG. (2017). Hoja de Ruta PyCS 2025.
+Quinney, M. (14 de Abril de 2020). Global Agenda . Obtenido de WEF:
+https://www.weforum.org/agenda/2020/04/covid‐19‐nature‐deforestation‐recovery/
+Rubik Sustentabilidad. (2019). Consultoría para mapeo de actores e impacto potencial de la.
+Schröder, P. (2020). Promoting a Just Transition to an Inclusive Circular Economy. Chatham House.
+SECS. (2020). Estratégia Nacional de CS . Obtenido de Construcción Sustentable:
+https://csustentable.minvu.gob.cl/item/estrategia‐nacional‐de‐cs/
+SOFOFA. (2019). SOFOFA HUB . Obtenido de SOFOFA: https://web.sofofa.cl/centros‐sofofa/sofofa‐hub/
+Subsecretaría del Medio Ambiente. (2018). Catastro Nacional de Instalaciones de Recepción y
+Almacenamiento, e Instalaciones de Valorización de residuos en Chile.
+Torres, V. (24 de abril de 2020). Entrevista a miembro del Comité Estrategico de la Hoja de Ruta de la EC.
+(J. Mora, Entrevistador)
+UNIDO. (2019). UNIDO . Obtenido de UNIDO: https://www.unido.org/our‐focus‐cross‐cutting‐services‐
+circular‐economy/circular‐economy‐impact‐financing‐and‐industry‐40
+Universidad de Valparaíso. (2017). Plataforma Industria Circular . Obtenido de Plataforma Industria
+Circular: http://plataforma‐industria‐circular.cl/
+Veronica Torres, C. d. (abril de 2020). Entrevista a miembro de Comité Estrategico de Hoja de Ruta de EC.
+(J. Mora, Entrevistador)
+WBCSD. (2017). Guía para CEOs sobre la Economía Circular. Geneva: World Business Council for
+Sustainable Development.
+58
+
+--- Página 59 ---
+IV. ANEXOS
+A. Entrevistas
+Si bien se prepararon y aplicaron pautas específicas para cada entrevistado, a continuación, se presenta
+una pauta genérica con algunas de las preguntas que se aplicaron en la mayoría de las entrevistas
+realizadas (tabla A):
+1. ¿Qué logro/meta referente a la EC, te gustaría anunciar en 10 años, desde tu institución?
+2. ¿Qué falta para anunciarlo hoy? ¿Porque no se ha dado hasta ahora?
+3. ¿Qué factores internos y externos dificultan llegar a esta meta?
+4. ¿Qué factores internos y externos facilitan llegar a estas metas
+5. ¿Qué empresas u organizaciones son parte del ecosistema de la institución? Identificas algún
+sector/rubro más dispuesto a adoptar principios de EC y otro más reticente?
+6. Nombrar 2‐3 casos de éxito de EC en Chile.
+7. ¿Qué brechas existen para adoptar la EC hoy en día en Chile? Nombrar 2 a 3.
+8. Ordenar los siguientes focos en término del impacto que su institución puede tener sobre cada
+uno:
+a) Extracción de recursos
+b) Producción
+c) Consumo y servicios
+d) Gestión de residuos
+Tabla A. Listado de personas entrevistadas a la fecha en el marco del proyecto (elaboración propia)
+Institución Sector Representante
+Ecodiseño CL Academia Alejandro Chacón
+Acción Empresas Privado Kathrin Müller
+Cámara de Comercio de Santiago Privado Verónica Torres
+Consejo Minero Privado Joaquín Villarino
+SOFOFA Privado Rafael Palacios
+COP25 Privado Gonzalo Muñoz
+CIEC Privado Petar Ostojic
+ASCC Público Ximena Ruz
+CORFO Público Andrea Mohr
+Ministerio de Economía Público Javier Montero
+Ministerio de Energía Público Javier Obach
+ODEPA (Ministerio de Agricultura) Público María José Pizarro
+Ministerio del Medio Ambiente Público Guillermo González
+Ministerio de Salud Público Felipe Moraga
+SUBDERE Público Manuel Muñoz
+AMUSA Público Rodolfo Perez
+MSUR Público Jaime Cataldo
+Innova Chile Público Carolina González
+Movimiento de Recicladores de base Sociedad Civil Soledad Mella
+Fundación AVINA Sociedad Civil Pamela Ríos
+Fundación Basura Sociedad Civil Macarena Guajardo
+59
+
+--- Página 60 ---
+MMA Público Pablo Fernandois
+Plastic Oceans Sociedad Civil Mark Minneboo
+ASIPLA Privado Magdalena Balcells
+ANIR Privado Alejandro Navech
+60
+
+--- Página 61 ---
+B. Ejemplo de arquitectura poblada de una hoja de ruta
+HOJA DE RUTA CLUSTER OIL&GAS
+CORTO PLAZO MEDIANO PLAZO LARGO PLAZO
+1 A 2 AÑOS 3 A 5 AÑOS 6 A 10 AÑOS
+1 DISMINUCIÓN HUELLA DE CARBONO
+POLÍTICA (NAC/REG/INT)
+9 INTEGRACIÓN ENERGÉTICA REGIONAL
+2 TRANSPARENCIA SECTORIAL
+3 USO CRECIENTE Y PROMOCIÓN DE ENERGÍAS LIMPIAS
+MERCADO (NAC/INT) 4 APUESTA POR OFF‐SHORE Y YACIMIENTOS NO CONVENCIONALES º
+10 ELECTROMOVILIDAD
+DRIVERS VISIÓN
+8 DEMANDA CRECIENTE DE ENERGÍA
+SOCIALES Y DEMOGRÁFICAS 5 LICENCIA SOCIAL º
+TECNOLOGÍA (NAC/INT) 6 INDUSTRIA 4.0
+AMBIENTAL 7 LICENCIA AMBIENTAL
+A CERTIFICACIÓN Y ESTÁNDARES PARA PROVEEDORES LOCALES (1,2,4,7)
+B INGENIERÍA Y SOLUCIONES PARA YACIMIENTOS NO CONVENCIONALES (4,7)
+C DESARROLLO DE SOLUCIONES INDUSTRIA 4.0 (TIC, VIRTUALIZACIÓN, BIG DATA, OTRAS IoT) (6)
+ESPECIALIZACIÓN
+D EXPLORAR DESARROLLO DE SERVICIOS ENTORNO A ERNC (ENERG.SOLAR, EFIC.ENERGÉTICA) (1,3)
+E DIVERSIFICACIÓN DE PORTAFOLIO (OFERTA DE VALOR EN OTRAS INDUSTRIAS) (3,6)
+F SOLUCIONES AMBIENTALES (TRATAMIENTO DE AGUA, REMEDIACIÓN DE POZOS EXPLORACIÓN, PRODUCCIÓN) (4,5,7)
+G OFERTA DE VALOR INTEGRADA PARA OFERTA DE AGUAS RESIDUALES (4,5,6,7)
+INICIATIVAS VISIÓN
+INTEGRACIÓN H IDENTIFICACIÓN Y CARACTERIZACIÓN DE LA DEMANDA Y OFERTA ACTUAL (3,4)
+I MODELO DE NEGOCIO DE INTEGRACIÓN (4,6)
+J PROMOVER Y COMERCIALIZAR UN PORTAFOLIO DE PRODUCTOS Y SERVICIOS ESPECIALIZADOS EN TIC's (4,6,7)
+INTERNACIONALIZACIÓN K DESARROLLO E IMPLEMENTACIÓN DE UN PLAN EXPORTADOR (1,5,6,7,9)
+L DESARROLLO DE SERVICIOS ASOCIADOS A INFRAESTRUCTURA (3,4,10)
+CAPITAL HUMANO CALIFICADO / AVA FORMACIÓN Y CAPACITACIÓN DE CAPITAL HUMANO (A,E,H,J)
+INFORMACIÓN VIGILANCIA TECNOLÓGICA / INTELIGENCIA COMPETITIVA (B,C,F,H,J)
+REDES ALIANZAS CON ENTIDADES NACIONALES E INTERNACIONALES (BÚSQUEDA DE FINANCIAMIENTO) (A,I,J,L)
+MESAS DE TRABAJO ACADEMIA+ESTADO+SECTOR PRODUCTIVO (E,F,G,L) VISIÓN
+RECURSOS OTROS
+POLÍTICAS DE TRANSPARENCIA Y SUSTENTABILIDAD AMBIENTAL EN LAS EMPRESAS (NAC/INT) (A,I,K)
+61
+
+--- Página 62 ---
+HOJA DE RUTA CLUSTER OIL&GAS
+P R O Y E C T O S T R A C C I O N A N T E S
+FOCO: ESPECIALIZACIÓN FOCO: INTEGRACIÓN FOCO: INTERNACIONALIZACIÓN
+1.1 INICIATIVA: CERTIFICACIÓN Y ESTÁNDARES PARA PROVEEDORES LOCALES 2.1 INICIATIVA: OFERTA DE VALOR INTEGRADA 3.1 INICIATIVA: PROMOVER Y COMERCIALIZAR UN PORTAFOLIO DE PRODUCTOS Y SERVICIOS
+1.1.2 P1: certificación ISO 27001, OHSAS 18001, y certificaciones tecnológicas (en desarrollo). PARA TRATAMIENTO DE AGUAS RESIDUALES ESPECIALIZADOS EN TIC's
+1.1.3 P2: ISO Capítulo diseño y desarrollo de productos (9001 calidad, alcance productos y servicios) 2.1.2 P10: Caracterización y empaquetamiento de oferta 3.1.2 P13: Alianza con universidades para desarrollo de servicios de monitoreos
+integrada y controles remotos en Recobro ∙ Perforación ∙ Bioremediación ∙ Químicos
+1.2 INICIATIVA: INGENIERÍA Y SOLUCIONES PARA YACIMIENTOS NO CONVENCIONALES 3.1.3 P14: Análisis de la demanda y levantamiento de la oferta actual
+1.2.1 P3: Participación en Workshops técnicos asociados 2.2 INICIATIVA: IDENTIFICACIÓN Y CARACTERIZACIÓN 3.1.4 P15: Paticipación workshop y ferias empresariales (en desarrollo)
+1.2.2 P4: Organización de foro técnico en Bucaramanga DE LA DEMANDA Y LA OFERTA ACTUAL
+2.2.1 P11: eventos y contacto directo con empresas 3.2 INICIATIVA DESARROLLO E IMPLEMENTACIÓN DE UN PLAN EXPORTADOR
+1.3 INICIATIVA: DESARROLLO DE SOLUCIONES INDUSTRIA 4.0 3.2.1 P16: Plan exportador
+1.3.1 P5: levantamiento de requerimientos de soluciones de las empresas 2.3 INICIATIVA: MODELO DE NEGOCIO DE INTEGRACIÓN
+1.3.2 P6: Levantamiento y caracterización de la oferta asociada en el clúster 2.3.1 P12: Contratación de asesoría especializada 3.3 INICIATIVA: DESARROLLO DE SERVICIOS ASOCIADOS E INFRAESTRUCTURA
+1.3.3 P7: visitas de referenciación (centros, clusters..otros..) 3.3.1 P17: Caracterización y análisis de oportunidades a partir de la oferta actua
+que permitan identificar oportunidades a nivel global y generar redes
+3.4 INICIATIVA: ALIANZA CON ENTIDADES NAC/INT (BÚSQUEDA DE FINANCIAMIENTO)
+1.4 INICIATIVA: SOLUCIONES AMBIENTALES 3.4.1 P18: financiamiento internacional clúster
+(Tratamiento de agua, remediación de pozos exploración, producción..) 3.4.2 P19: Aceleración y apalancamiento
+H A B I L I T A D O R E S
+4.1 INICIATIVA: VIGILANCIA TECNOLÓGICA / INTELIGENCIA COMPETITIVA
+4.1.2 P22: servicioc de VT/IC específicos y recurrentes
+4.1.3 P23: Observatorio Oil&Gas (nuevas oportunidades de negocio, innovación, actores etc.. )
+4.2 INICIATIVA: FORMACIÓN Y CAPACITACIÓN DE CAPITAL HUMANO
+4.2.1 P24: Formación comercial y gestión (en desarrollo)
+4.2.2 P25: Formación técnica (en desarrollo)
+4.3 INICIATIVA: MESAS DE TRABAJO ACADEMIA+ESTADO+SECTOR PRODUCTIVO
+62
