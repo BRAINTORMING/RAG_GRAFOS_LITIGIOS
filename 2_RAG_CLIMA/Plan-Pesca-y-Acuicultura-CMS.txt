@@ -1,0 +1,1640 @@
+--- Página 1 ---
+Subsecretaría de Pesca y Acuicultura
+PLAN DE ADAPTACIÓN AL
+CAMBIO CLIMÁTICO
+PARA PESCA Y ACUICULTURA
+Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 3
+
+--- Página 2 ---
+PLAN DE ADAPTACIÓN AL CAMBIO CLIMÁTICO
+PARA PESCA Y ACUICULTURA
+Ministerio de Economía, Fomento y Turismo
+Subsecretaría de Pesca y Acuicultura
+Ministerio del Medio Ambiente
+2015
+Elaborado en el marco del Plan de Acción Nacional
+de Cambio Climático
+Aprobado por el Consejo de Ministros para la
+Sustentabilidad en Diciembre 2015
+
+--- Página 3 ---
+Subsecretaría de Pesca y Acuicultura
+PLAN DE ADAPTACIÓN AL CAMBIO CLIMÁTICO PARA PESCA Y ACUICULTURA
+Documento elaborado por la Subsecretaría de Pesca y Acuicultura (Ministerio de Economía, Índice
+Fomento y Turismo) y el Departamento de Cambio Climático (Ministerio del Medio Ambiente).
+Subsecretaría de Pesca y Acuicultura:
+Coordinador:
+Gustavo San Martín Catalán
+Colaboradores: 1. Introducción
+Mario Acevedo Gyllen 1.1. Marco político
+Flor Uribe Ruiz 1.2. Contexto internacional y nacional
+Rubén Pinochet Pollastri
+Grupo Técnico Asesor (GTA) Subsecretaría de Pesca y Acuicultura:
+2. Caracterización del sector pesca y acuicultura chileno
+Carolina Alarcón, Universidad de Concepción
+2.1. Marco institucional y normativo
+Luis Cubillos, Universidad de Concepción
+2.2. La pesca y la acuicultura
+Chita Guisado, Universidad de Valparaíso
+Leonardo Guzmán, Instituto de Fomento Pesquero
+3. Impactos del cambio climático en pesca y acuicultura
+Nelson Lagos, Universidad Santo Tomás
+3.1. A nivel mundial
+Cristian Vargas, Universidad de Concepción
+3.2. En Chile
+Eleuterio Yáñez, Pontificia Universidad Católica de Valparaíso
+Fotografías: 4. Directrices para la adaptación en pesca y acuicultura
+Mirko Aicon Sánchez
+5. Medidas del plan de adaptación al cambio climático para pesca y acuicultura
+Departamento de Cambio Climático: 5.1. Objetivo principal y específicos
+5.2. Fichas de acción
+Coordinador:
+Karl-Peter Muck
+6. Bibliografía
+Colaboradores:
+Maritza Jadrijevic Girardi 7. Acrónimos
+Gladys Santis Garcia
+Daniel Alvarez Latorre (División de Recursos Naturales y Biodiversidad)
+Diseño y diagramación:
+Oficina de Comunicaciones y Prensa del Ministerio del Medio Ambiente
+Rubí Cohen
+Impresión:
+Impreso en Santiago de Chile, Agosto 2016, Imprenta MAVAL Ltda., con un tiraje de 1000 ejemplares.
+Esta publicación está impresa en papel 100% reciclado, libre de ácido, cloro elemental (ECF),
+contribuyendo al cuidado del medio ambiente.
+Fotos portada:
+Cochamó, Región de Los Lagos
+Caleta Anahuac, Región de Los Lagos
+Isla Robinson Crusoe
+Plan de Adaptación al Cambio Climático para Pesca y Acuicultura - Ministerio del Medio Ambiente 7
+
+--- Página 4 ---
+Subsecretaría de Pesca y Acuicultura
+Presentación
+Tres cuartas partes de nuestro planeta están cubiertas por océanos y mares que (INDC; entregada a la Convención Marco de la Naciones Unidas de Cambio Cli-
+en su totalidad constituyen los ecosistemas marinos y los cuales generan más mático en la COP 21, 2015), es el marco general para implementar la estrategia
+de la mitad del oxígeno que respiramos y cuyos recursos hidrobiológicos son la de política pública en materia de adaptación al cambio climático en el ámbito de
+base alimenticia para millones de seres humanos. la Pesca y la Acuicultura y para promover la participación y coordinación de los
+grupos de interés.
+En la actualidad gran parte de la población mundial reside en zonas costeras,
+siendo los océanos también generadores de recursos laborales y económicos El Plan entrega directrices que permiten focalizar y movilizar el financiamiento
+en las tareas relacionadas con el mar, partiendo de la pesca, la acuicultura, el y los medios requeridos para contribuir al incremento de nuestro conocimiento
+Pablo Badenier Martínez comercio, el transporte y el turismo. sobre los impactos del cambio climático, fortalece la capacidad de adaptación
+Ministro del Medio Ambiente en sectores más vulnerables, como es la pesca artesanal, mejora los benefi-
+Sin embargo, aunque somos en múltiples formas dependientes de los bienes y cios socio-económico del sector pesquero y acuícola, garantiza la seguridad
+servicios que nos brindan los ecosistemas marinos, el cambio climático, provoca- alimentaria y salvaguarda la biodiversidad acuática chilena en beneficio de las
+do por el aumento de las emisiones de los Gases del Efecto Invernadero (GEI), a generaciones actuales y futuras.
+través de las actividades humanas, también se hace presente en cambios en las
+características oceanográficas como son: la temperatura del mar, el nivel del mar
+y el grado de acidez del agua marina. Según el IPCC (AR5, 2014), estos cambios
+están alterando profundamente las redes tróficas de los ecosistemas marinos
+con los consecuentes impactos en la pesca y acuicultura a nivel mundial.
+Los principales impactos se refieren al desplazamiento de los stocks y al aumen-
+to de la mortalidad de especies poco resistentes a las alteraciones ambientales
+introducidas en forma directa o indirecta por el cambio climático, incluyendo,
+entre otros, excesivas proliferaciones de floraciones algales nocivas (FAN), co-
+nocidas como “mareas rojas”.
+Estos impactos negativos se agravan por otros factores como: sobreexplotación
+de los recursos hidrobiológicos, contaminación y pérdida de hábitats.
+Tomando en cuenta que los cambios en las condiciones de los ecosistemas
+marinos a nivel mundial también amenazan el mar chileno que se extiende sobre
+más de 4000 km del norte al sur y que alberga 96 distintos ecosistemas marinos
+en 14 ecorregiones (según actual clasificación por el MMA), el Plan de Acción
+Nacional de Cambio Climático del 2008 consideró la necesidad que Chile cuenta
+con un Plan de Adaptación al Cambio Climático para Pesca y Acuicultura.
+En el contexto de este mandato, el Ministerio del Medio Ambiente coordinó entre
+2013-15 con la Subsecretaría de Pesca y Acuicultura del Ministerio de Econo-
+mía, Fomento y Turismo la elaboración del Plan para Pesca y Acuicultura cuya
+versión final, después de haber presentado y discutido su anteproyecto durante
+una consulta ciudadana a nivel nacional, ha sido aprobado en diciembre del
+2015 por el Consejo de Ministros para Sustentabilidad y se encuentra en la ac-
+tualidad en fase de su gradual implementación.
+El Plan para Pesca y Acuicultura, que también forma parte de los compromisos
+del Estado Chileno expresados en la Contribución Nacional Tentativa de Chile
+8 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 9
+
+--- Página 5 ---
+Subsecretaría de Pesca y Acuicultura
+Presentación
+El cambio climático dejó de ser discutido y se instaló como una de las primeras marinos y de las comunidades costeras, que hacen uso de los recursos hidro-
+preocupaciones de todos los organismos internacionales. Y, por las caracterís- biológicos y del sector en general.
+ticas de nuestro país, el sector pesquero y de acuicultura no está ajeno a estos
+nuevos escenarios y desafíos. • Desarrollar la investigación necesaria para mejorar el conocimiento sobre el im-
+pacto y escenarios de cambio climático sobre las condiciones y servicios eco-
+La fuerte manifestación del fenómeno de El Niño 2015-2016 es una buena sistémicos en los cuales se sustenta la actividad de la pesca y de la acuicultura.
+muestra de eventos extremos futuros a los cuales deberemos hacer frente. El
+solo cambio, durante un cierto tiempo, en un par de grados en nuestras aguas • Difundir e informar sobre los impactos del cambio climático con el propósito
+Raúl Súnico Galdames en algunas zonas australes fue el detonador de una crisis sin precedentes. Flo- de educar y capacitar en estas materias a usuarios y actores relevantes del
+Subsecretario de Pesca y Acuicultura raciones de algas nocivas, varamientos masivos de peces y otros recursos pes- sector pesca y acuicultura.
+queros, presencia masiva de medusas poco frecuentes en nuestras costas, des-
+plazamientos geográficos de los stock de peces, modificaciones en los periodos • Mejorar el marco normativo, político y administrativo para abordar eficaz y efi-
+reproductivos de recursos, por mencionar solo algunos de los impactos que cientemente los desafíos y oportunidades del cambio climático.
+estamos observando en nuestros recursos debido a cambios en el ambiente
+acentuados por el cambio climático. • Desarrollar medidas de adaptación directas tendientes a reducir la vulnerabili-
+dad y el impacto del cambio climático en las actividades de pesca y acuicultura.
+Tenemos que prepararnos para esta nueva realidad, que es tan incómoda como
+inevitable. El cambio climático tiene que ser tratado con la importancia que se A través de la implementación gradual del Plan estamos haciendo una contribu-
+merece pues entendemos que el futuro del sector está en juego. Como Subse- ción para mejorar nuestra comprensión de los impactos del cambio climático y
+cretaría ya estamos trabajando para adaptarnos al cambio climático y nuestra un aporte significativo en la política pública para mejorar la capacidad de adap-
+agenda legislativa recoge orientaciones en ese camino, pero sabemos que el tación de los sectores más vulnerables de la pesca y acuicultura nacional a estos
+desafío requiere un esfuerzo mayor. nuevos desafíos.
+El presente Plan, aprobado en diciembre del 2015 por el Consejo de Ministros
+para la Sustentabilidad, entrega las directrices para conducir la adaptación del
+sector pesca y acuicultura al cambio climático, la cual está muy ligada al uso
+sustentable de las pesquerías y la acuicultura bajo un enfoque ecosistémico.
+El objetivo central del plan es fortalecer la capacidad de adaptación del sector
+pesca y acuicultura a los desafíos y oportunidades del cambio climático, con-
+siderando un enfoque precautorio y ecosistémico. En ese sentido, la adapta-
+ción se orienta a reducir la vulnerabilidad, en forma prolongada, y a proveer la
+información necesaria para la planificación e implementación de las acciones
+que conduzcan a esta reducción y al mejoramiento de capacidades del sector
+pesquero y acuícola, como un proceso progresivo y capaz de aprender de ex-
+periencias pasadas.
+A través del plan y sus medidas de adaptación se espera contribuir a la sus-
+tentabilidad de las pesquerías y la acuicultura, en concordancia con la política
+pesquera nacional y con Ley General de Pesca y Acuicultura y sus programas.
+En la práctica, el Plan considera 29 medidas o acciones de adaptación, relacio-
+nadas con objetivos específicos que permitan:
+• Promover la implementación del enfoque precautorio y ecosistémico en la pes-
+ca y acuicultura como una forma de mejorar la resiliencia de los ecosistemas
+10 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 11
+
+--- Página 6 ---
+Subsecretaría de Pesca y Acuicultura
+1. Introducción
+1.1. Marco político
+De acuerdo con la Convención Marco de las Naciones Unidas sobre el Cambio Cli-
+mático (CMNUCC), Chile es un país altamente vulnerable frente al cambio climático
+ya que cuenta con áreas de borde costero de baja altura, áreas áridas, semiáridas
+y de bosques, susceptibilidad a desastres naturales, áreas propensas a sequía
+y desertificación, zonas urbanas con problemas de contaminación atmosférica y
+ecosistemas montañosos como son la Cordillera de la Costa y la Cordillera de los
+Andes (Artículo 4.8 de la Convención). Además, habría que mencionar la importan-
+cia que tienen los recursos costeros en las economías locales y el vínculo cultural
+histórico que tienen estas comunidades con el uso de estos recursos naturales, lo
+que resulta en una alta sensibilidad de los sistemas socio-económicos a la variabi-
+lidad ambiental. Por lo tanto, en el ámbito de las políticas públicas que promueven
+el desarrollo sustentable, el Estado se tiene que proveer de los instrumentos que
+permitan disminuir dicha vulnerabilidad y de esta forma obtener los máximos bene-
+ficios en la implementación de las estrategias de desarrollo.
+El Plan de Acción Nacional de Cambio Climático 2008-2012 (PANCC), elaborado
+en cumplimiento de la Estrategia Nacional de Cambio Climático del 2006, con-
+templa tres líneas de acción prioritarias: adaptación, mitigación y generación de
+capacidades. En el ámbito de la adaptación, el PANCC estableció el compromiso
+de elaborar un Plan Nacional de Adaptación al Cambio Climático (PNACC), el cual
+fue publicado en 2014, y una serie de planes sectoriales; entre ellos un Plan de
+Adaptación al Cambio Climático para el sector Pesca y Acuicultura (PACCPA). La
+coordinación del Plan Nacional y de los Planes sectoriales corresponde al Ministerio
+del Medio Ambiente, a través de su Departamento de Cambio Climático.
+El PACCPA es el marco general para desarrollar la estrategia de política pública
+para establecer las prioridades en materia de adaptación al cambio climático y
+promueve la participación y coordinación de los grupos de interés. El Plan entrega
+directrices que permiten focalizar y movilizar el financiamiento y los medios requeri-
+dos para contribuir al incremento de la capacidad de adaptación en sectores más
+vulnerables, a mejorar los beneficios socio-económico del sector pesquero y acuí-
+cola, a la seguridad alimentaria y a salvaguardar la biodiversidad acuática chilena
+en beneficio de las generaciones actuales y futuras.
+En consideración, el presente Plan sectorial contribuye a fortalecer las capacidades
+de la institucionalidad pública, de las entidades privadas y de la sociedad civil, para
+abordar y enfrentar los efectos del cambio climático sobre la biodiversidad y los bie-
+nes y servicios ecosistémicos que sustentan actividades social y económicamente
+importantes como son la pesca y la acuicultura.
+Caleta Juan López,
+Región de Antofagasta.
+12 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 13
+
+--- Página 7 ---
+Introducción Subsecretaría de Pesca y Acuicultura
+1.2. Contexto internacional y nacional
+la Convención Marco de las Naciones Unidas sobre Cambio Climático (CMNUCC)
+y su Protocolo de Kioto . En tal sentido, el Plan busca desarrollar acciones sinérgi-
+cas que den respuesta a objetivos comunes de ambas Convenciones.
+Por otro lado, en la Cumbre de Río +20 (junio 2012), Chile confirmó su compromi-
+so con el desarrollo sustentable en sus tres dimensiones, económica, ambiental
+y social, y en la XI Conferencia de las Partes de la CDB (COP11, diciembre 2012),
+Chile reiteró su compromiso para alcanzar las Metas de Aichi para la biodiver-
+sidad, las cuales han sido adoptadas como Plan Estratégico para la Diversidad
+Biológica 2011-2020 por la CDB en su XX Conferencia de las Partes, en 2010.
+Las Metas de Aichi , 20 en total, se orientan al logro de cinco objetivos estratégi-
+cos de los cuales tres se vinculan en forma directa con el uso de los recursos y
+servicios ecosistémicos por parte del sector pesquero y acuícola, a saber:
+Reducir las presiones directas sobre la diversidad biológica y promover la
+utilización sostenible.
+Mejorar la situación de la diversidad biológica salvaguardando los ecosiste-
+mas, las especies y la diversidad genética. Acuicultura en Cochamó,
+Región de Los Lagos.
+Aumentar los beneficios de la diversidad biológica y los servicios de los eco-
+sistemas para todos.
+El Plan considera estos objetivos estratégicos de la CDB y los traduce en medi-
+das que tienen por objetivo aumentar o mantener la resiliencia de los ecosiste-
+mas y su biodiversidad como una forma de mejorar la capacidad de adaptación
+y, a su vez, estas medidas se coordinan con las políticas en materia de manejo
+y ordenamiento pesquero y acuícola, en particular, con la implementación de la
+Ley General de Pesca y Acuicultura.
+Caleta Hualaihué,
+Región de Los Lagos. Chile ha suscrito y ratificado importantes convenios internacionales que llevan a Del mismo modo, el Plan sigue las recomendaciones de la Organización para la
+considerar la obligación de proteger y preservar el medio marino, desarrollando Cooperación y el Desarrollo Económico (OCDE) que se refieren al Desarrollo Sus-
+políticas y estrategias para la protección y conservación de la biodiversidad y el tentable y de cómo integrar la adaptación al cambio climático a este desarrollo.
+manejo sustentable de los recursos hidrobiológicos, incluso más allá de la Zona
+Económica Exclusiva (Acuerdo de Cumplimiento 1 ). Referente a la política nacional de adaptación al cambio climático, y su relación
+con la conservación de la biodiversidad acuática y el manejo sustentable de los
+En el marco de estos convenios, Chile se ha comprometido de velar por la recursos naturales el Plan de Adaptación al Cambio Climático en Biodiversidad,
+protección y conservación de la biodiversidad y el manejo sustentable de aprobado por el Consejo de Ministros para la Sustentabilidad y Cambio Climá-
+sus recursos renovables, aplicando el enfoque precautorio y ecosistémico tico, en julio 2014, y el Plan de Adaptación al Cambio Climático para Pesca y
+tal como está establecido en la Ley General de Pesca y Acuicultura, la que Acuicultura, otorgan el marco general para llevar a cabo las estrategias y accio-
+constituye un elemento central en la formulación del presente plan. nes para la adaptación al cambio climático, contribuyendo de esta forma a la
+conservación y uso sustentable de los recursos hidrobiológicos.
+Acuerdo para el Cumplimiento de las Me- El Plan de Adaptación al Cambio Climático para Pesca y Acuicultura (PACCPA),
+1
+didas Internacionales de Conservación y contiene componentes que responden al compromiso que surge de la ratificación
+Ordenación por los Buques Pesqueros
+de la Convención de las Naciones Unidas sobre la Diversidad Biológica (CDB) y de
+que Pescan en Alta Mar.
+14 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 15
+
+--- Página 8 ---
+Subsecretaría de Pesca y Acuicultura
+2. Caracterización
+del sector pesca
+y acuicultura
+Caleta el Huilque,
+Puerto Saavedra.
+16 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 17
+
+--- Página 9 ---
+Caracterización del Sector Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+2.1. Marco institucional y normativo
+de programas y proyectos, que permitan el desarrollo de las competencias
+productivas del sector pesquero artesanal.
+Servicio Nacional de Pesca y Acuicultura (SERNAPESCA)
+El Servicio Nacional de Pesca y Acuicultura, dependiente del Ministerio de Eco-
+nomía, Fomento y Turismo, tiene como misión fiscalizar el cumplimiento de las
+normas pesqueras y de acuicultura, proveer servicios para facilitar su correcta
+ejecución y realizar una gestión sanitaria eficaz, a fin de contribuir a la sustenta-
+bilidad del sector y a la protección de los recursos hidrobiológicos y su medio
+ambiente.
+Objetivos estratégicos institucionales:
+Fiscalizar las actividades pesqueras y de acuicultura velando por el cumpli- Acuicultura Cochamó,
+Región de Los Lagos.
+miento de la normativa legal y reglamentaria establecida para el sector.
+Garantizar la calidad sanitaria de los productos pesqueros y de acuicultura
+de exportación, a fin de dar cumplimiento a los requisitos sanitarios de
+países importadores.
+Velar por el status sanitario y ambiental de la acuicultura contribuyendo al
+desarrollo competitivo del sector.
+Cultivo de pelillo en Chamiza,
+El Plan de Adaptación al Cambio Climático para Pesca y Acuicultura se desa-
+Región de Los Lagos.
+rrollará de acuerdo con el marco institucional y legal que el país se ha dado para Proveer información sectorial, completa, oportuna y fidedigna.
+gestionar la pesca y la acuicultura, a saber:
+Instituto de Fomento Pesquero (IFOP)
+Subsecretaría de Pesca y Acuicultura (SUBPESCA)
+El Instituto de Fomento Pesquero, en su calidad de organismo técnico especiali-
+La Subsecretaría de Pesca y Acuicultura, dependiente del Ministerio de Econo- zado en investigaciones científicas en materias de pesquerías y acuicultura, tiene
+mía, Fomento y Turismo (MINECON), tiene como misión regular y administrar como misión apoyar la toma de decisiones de políticas de la institucionalidad pes-
+la actividad pesquera y de acuicultura, a través de políticas, normas y medidas quera nacional mediante la elaboración de antecedentes científicos y técnicos de
+de administración, sustentadas en informes técnicos fundamentados en inves- valor público necesarios para la regulación y conservación de los recursos de la
+tigación científica y en variables de carácter social y económico, con enfoque pesca, acuicultura y sus ecosistemas, contribuyendo de esta forma con el desa-
+participativo y territorial para el desarrollo sustentable de la actividad pesquera y rrollo sustentable del país.
+la acuicultura nacional.
+Objetivos estratégicos institucionales:
+Objetivos estratégicos institucionales:
+Generar y disponer de conocimiento e información científica de valor público
+Implementar oportunamente las políticas, normas y reglamentos, a través indispensable para la definición de medidas regulatorias que fortalezcan la
+de la participación de los agentes del sector pesquero y acuicultor en ins- sustentabilidad y la producción de los recursos hidrobiológicos de explota-
+tancias público-privadas, que permitan sociabilizar la toma de decisiones, ción industrial y artesanal de la acuicultura y la pesca.
+favoreciendo la gobernabilidad del sector.
+Garantizar la difusión, actualización, resguardo y calidad de la información
+Asegurar la oportunidad de la información sectorial que sustenta los informes de carácter público generada por IFOP.
+técnicos para el establecimiento de las medidas de administración, con el
+propósito de propender a la sustentabilidad del sector pesquero y acuicultor. Proporcionar apoyo técnico calificado en el resguardo de los intereses del
+Potenciar el desarrollo del sector pesquero, por medio del financiamiento país, en las instancias nacionales e internacionales de pesca y acuicultura.
+18 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 19
+
+--- Página 10 ---
+Caracterización del Sector Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+En materia de toma de decisiones, la institucionalidad pesquera y acuícola cuen- El objetivo de la LGPA es la conservación y el uso sustentable de los recursos
+ta con instancias de participación público-privada como el Consejo Nacional hidrobiológicos, mediante la aplicación del enfoque precautorio, de un enfoque
+y Consejos Zonales de Pesca, la Comisión Nacional de Acuicultura y otras de ecosistémico en la regulación pesquera y la salvaguarda de los ecosistemas
+carácter técnico como los Comités Científicos Técnicos y los Comités de Manejo marinos en que existan esos recursos.
+de las pesquerías.
+En el marco de la política pesquera nacional y para la consecución de los objeti-
+Otras instituciones vos establecidos en la LGPA se deberá tener en consideración, al momento de
+adoptar las medidas de conservación y administración 2 necesarias para mantener
+El Ministerio del Medio Ambiente (MMA), a través de su División de Recursos o mejorar la condición de los ecosistemas marinos y su biodiversidad, lo siguiente:
+Naturales y Biodiversidad, contribuye a la elaboración de las políticas para el ma-
+Isla Robinson Crusoe,
+nejo, uso y aprovechamiento sustentable de los recursos naturales renovables. Establecer objetivos de largo plazo para la conservación y administración Región de Valparaíso.
+de las pesquerías y protección de sus ecosistemas así como la evaluación
+El Ministerio de Defensa Nacional (MDN) participa de la institucionalidad públi- periódica de la eficacia de las medidas adoptadas.
+ca a través de la Subsecretaría para las Fuerzas Armadas (SSFFAA), y tiene la
+competencia para asignar espacios marítimos y cuerpos de agua navegables, a Aplicar en la administración y conservación de los recursos hidrobiológicos
+través de la tramitación de concesiones marítimas y acuícolas. y la protección de sus ecosistemas el principio precautorio.
+La Dirección General del Territorio Marítimo y de Marina Mercante (DIRECTEMAR), Aplicar el enfoque ecosistémico para la conservación y administración de los
+además de las tareas asignadas por la Ley de Navegación, cumple funciones recursos pesqueros y la protección de sus ecosistemas, entendiendo por tal
+en el ámbito pesquero como fiscalizador de la normativa y administrador un enfoque que considere la interrelación de las especies predominantes en
+del Sistema de Posicionamiento Automático de Naves Pesqueras y de un área determinada.
+Investigación Pesquera y además cumple funciones de fiscalización en materia
+Caleta Los Verdes, de contaminación acuática y de conservación del medio marino. Asimismo, Administrar los recursos pesqueros en forma transparente, responsable Recolectores de orilla,
+Iquique, Región de Tarapacá. Carabineros de Chile tiene un rol fiscalizador cuando corresponda al ámbito de e inclusiva. Chañarcillo, Región de Atacama.
+su competencia.
+Recopilar, verificar, informar y compartir en forma sistemática, oportuna, correc-
+El Ministerio de Obras Públicas es el encargado de planificar y ejecutar o encargar ta y pública los datos sobre los recursos hidrobiológicos y sus ecosistemas.
+la ejecución de obras de infraestructura pública, donde destaca la infraestructura
+vial y portuaria necesaria para el desarrollo del sector pesquero nacional y, a Considerar el impacto de la pesca en las especies asociadas o dependien-
+través de la Dirección de Obras Portuarias, la regularización y obras de apoyo a tes y la preservación del medio ambiente acuático.
+la pesca artesanal.
+Procurar evitar o eliminar la sobreexplotación y la capacidad de pesca
+El Ministerio de Relaciones Exteriores colabora y coordina la ejecución de la excesiva.
+política pesquera en el ámbito internacional, a través de la labor de su Dirección
+de Medio Ambiente y Asuntos Marítimos. Fiscalizar el efectivo cumplimiento de las medidas de conservación y
+administración.
+Ley General de Pesca y Acuicultura (LGPA)
+Minimizar el descarte tanto de la especie objetivo como de la fauna acom-
+El principal cuerpo legal en materia pesquera y de acuicultura, y que además pañante y de la captura de la pesca incidental.
+otorga el marco y los lineamientos generales para conducir las medidas de
+adaptación al cambio climático, es la Ley General de Pesca y Acuicultura (LGPA; Los enfoques ecosistémico y precautorio
+N° 18.892 y sus modificaciones posteriores), en ella se indica que…” a las dispo- 2 Son medidas de conservación y ad-
+ministración: las cuotas de pesca,
+siciones de esta Ley quedará sometida la preservación de los recursos hidrobio- La LGPA da especial atención a la aplicación del enfoque ecosistémico y enfoque las tallas mínimas de captura, las
+lógicos, y toda actividad pesquera extractiva, de acuicultura y de investigación, precautorio. En ese sentido, es reconocido que la aplicación del enfoque ecosis- vedas biológicas y extractivas, regu-
+lación del arte o aparejo de pesca,
+que se realice en aguas terrestres, playa de mar, aguas interiores, mar territorial témico en la gestión de la pesca y la acuicultura es una herramienta importante
+regulación del acceso a la pesque-
+o zona económica exclusiva de la República y en las áreas adyacentes a esta úl- para mejorar la capacidad de adaptación de los sistemas socio-ecológicos a los ría, el régimen de áreas de manejo y
+tima sobre las que exista o pueda llegar a existir jurisdicción nacional de acuerdo impactos del cambio climático. Así, el enfoque ecosistémico de la pesca (EEP) y explotación de recursos bentónicos,
+la implementación de áreas marinas
+con las leyes y tratados internacionales”. el enfoque ecosistémico de la acuicultura (EEA) deberán ser adoptados para au- protegidas, etc.
+20 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 21
+
+--- Página 11 ---
+Caracterización del Sector Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+2.2. La pesca y la acuicultura
+mentar la resiliencia de los ecosistemas de recursos acuáticos, de los sistemas
+de producción pesquera y de acuicultura y de las comunidades que dependen
+de los recursos acuáticos (FAO, 2012).
+Según el Convenio sobre la Diversidad Biológica (CBD) de las Naciones Uni-
+das el enfoque ecosistémico es una “estrategia para la gestión integrada de
+tierras, extensiones de aguas y recursos vivos mediante la cual se promueve
+la conservación y utilización sostenible de modo equitativo”.
+En su aplicación para el sector pesquero y acuicultor la FAO (1997) precisa,
+referente al enfoque ecosistémico, que “su finalidad es planificar, desarrollar y
+ordenar la pesca de un modo que satisfaga las múltiples necesidades y deseos
+de las sociedades, sin poner en riesgo la posibilidad de que las generaciones
+futuras se beneficien de toda la gama de bienes y servicios que pueden obtener-
+se de los ecosistemas marinos”. Por tal razón, es preciso comprender y tomar
+en cuenta la dinámica humana que está en juego en dicho enfoque la cual se
+manifiesta de múltiples maneras y comprende las políticas, el marco jurídico,
+las estructuras sociales, los valores culturales, los principios económicos, los
+procesos institucionales y todas las demás formas afines de expresión del com-
+portamiento humano.
+Por otra parte, en la protección de los ecosistemas y en el contexto de la pesca
+responsable, se recomienda la aplicación de un enfoque precautorio. Según FAO
+(1997), este enfoque reconoce que los cambios en los sistemas pesqueros son
+lentamente reversibles, difíciles de controlar, insuficientemente comprendidos y
+expuestos a los cambios en el medio ambiente y en nuestra escala de valores.
+Por tal razón, se deberá ser más cauteloso en la administración y conservación
+de los recursos cuando la información científica sea incierta, no confiable o in-
+Caleta en Tentelhue,
+completa y no se deberá utilizar la falta de información científica, no confiable o Región de Los Lagos. Generalidades
+incompleta, como motivo para posponer o no adoptar medidas de conservación
+y administración (LGPA). El sector pesca y acuicultura de Chile está representado por los subsectores
+pesca artesanal 3 , pesca industrial 4 y subsector acuicultura (al interior de este
+subsector es posible distinguir la salmonicultura, mitilicultura o aún la acuicultu-
+ra de pequeña escala , dependiendo de las especies cultivadas y/o los niveles
+de inversión). El año 2013, el número de pescadores(as) artesanales inscritos
+3 Pesca artesanal: la Ley General de Pesca
+y Acuicultura de Chile la define como la en el Registro Pesquero Artesanal (RPA) -que distingue 4 categorías: armador,
+actividad pesquera extractiva realizada pescador, buzo y recolector de orilla, alguero o buzo apnea- ascendió a 91.395,
+por personas naturales que, en forma
+donde el 22% (20.401) corresponde a mujeres y el 78% (70.994) a hombres. El
+personal, directa y habitual, trabajan
+como pescadores artesanales inscritos mismo año, el Registro de Organizaciones Artesanales (ROA) estaba constituido
+en el Registro Pesquero Artesanal, con
+por un total de 1.034 Organizaciones (entre Sindicatos, Asociaciones Gremia-
+o sin el empleo de una embarcación ar-
+tesanal (eslora máxima no superior a 18 les, Cooperativas y Comunidades Indígenas). El número total de embarcaciones
+metros y 80 metros cúbicos de capaci- artesanales inscritas, en el año 2013, fue de 12.662, de las cuales 12.428 em-
+dad de bodega).
+barcaciones pertenecen a personas naturales, 124 a personas jurídicas y 110 a
+4 Pesca industrial: se considera a la activi- comunidades. En relación con la pesca industrial, en el año 2013, operaron 161
+dad extractiva realizada por embarcacio-
+barcos, generando 2.139 empleos directos; operaron 633 plantas de proceso
+nes de una eslora superior a los 18 me-
+tros, con sistemas de pesca tecnificados, de recursos marinos, las que se estima generaron alrededor de 34.712 empleos.
+tales como el de arrastre, palangre y de
+En el sector de la acuicultura, operaron 2.329 centros, que generaron alrededor
+cerco, que permiten la captura masiva de
+los recursos pesqueros. de 11.086 empleos permanentes (SERNAPESCA, 2014).
+22 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 23
+
+--- Página 12 ---
+Caracterización del Sector Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Desembarques y especies principales
+En conjunto, la pesca y acuicultura, producen desembarques de 3,8 millones de El desembarque total anual de estos principales grupos de pesquerías chilenas
+toneladas anuales promedios (últimos cinco años). Del total de los desembar- (peces, crustáceos, algas y moluscos) ha experimentado notables tendencias y
+ques, 74% provienen de la pesca (1,2 millones de toneladas de aporte industrial fluctuaciones durante el período 1992-2013 (Figura 2).
+y 1,6 millones de toneladas provienen de la pesca artesanal), mientras que 26%
+de la producción (1,0 millones toneladas) provienen de la acuicultura (Figura 1). El grupo de los peces (Figura 2, A), por ejemplo, muestra una tendencia cons-
+Los principales productos elaborados a partir de estos desembarques son con- tante a disminuir a través de los años, de casi 8 millones de toneladas a 3
+gelados, harina de pescado y fresco-refrigerado. millones de toneladas. La tendencia puede ser explicada por la condición de
+los stocks que ha llevado a la autoridad pesquera a tomar medidas de manejo
+Según los registros de SERNAPESCA hay un total de 141 especies marinas que como la disminución de las cuotas de capturas.
+constituyen pesquerías: 74 especies de peces, 23 de crustáceos, 31 de molus-
+cos y 13 especies de algas. Sin embargo, las principales especies que sustentan Los desembarques de los crustáceos se caracterizan por presentar periodos de
+los desembarques nacionales son, en el caso de los peces, algunas especies máximos y mínimos (Figura 2, B), mientras las pesquerías de algas y moluscos
+pelágicas, como: anchoveta ( Engraulis ringens ), sardina común ( Strangomera demuestran una tendencia continua al aumento durante el periodo 1992-2013.
+bentincki ), jurel ( Trachurus murphyi ), bacaladillo o mote ( Normanichthys crockeri ) Sin embargo, en el caso de moluscos, a partir del año 2004, la curva de los
+que el año 2013, concentraron el 85% del desembarque de peces. Respecto desembarques está fuertemente dominada por el recurso jibia ( Dosidicus gigas ,
+de los moluscos, la jibia ( Dosidicus gigas ) ha representado, estos últimos años, 166.000 toneladas/año promedio). Al excluir este recurso del análisis, la tenden-
+más del 70% de los desembarques para este grupo de especies. A su vez, el cia de los desembarques del conjunto de los otros moluscos (almejas, caracoles,
+chascón o huiro negro ( Lessonia nigrescens ), aporta con más del 65% de los machas, culengue, loco, entre otros) muestra una tendencia a la disminución.
+desembarques de algas.
+Isla Robinson Crusoe,
+Acuicultura en Cochamó, Región de Valparaíso.
+Región de Los Lagos.
+Figura 1. Desembarque Total Pesca
+(Industrial y Artesanal) y Acuicultura.
+Fuente: SERNAPESCA (2014).
+Figura 2. Desembarques anuales. A:
+peces (74 especies); B: crustáceos
+(23 especies); C: algas (13 especies);
+D: moluscos (31 especies). Fuente:
+SERNAPESCA (2003; 2014).
+24 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 25
+
+--- Página 13 ---
+Caracterización del Sector Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+En relación con la acuicultura, desde los años 90, ha ganado paulatinamente im- En términos de empleo, la contribución global del sector es alrededor de un 1%
+portancia dentro de la valoración de la actividad pesquera nacional y es actual- del empleo nacional.
+mente el sector con mayor crecimiento. Su producción total aumenta en forma
+constante desde 180 mil toneladas en 1994 a 1.1 millones de toneladas en 2013 Desde el punto de vista de la vulnerabilidad y la capacidad de adaptación al
+(Figura 3). Se cultivan alrededor de 20 especies: 7 peces, 8 moluscos y 5 algas. cambio climático el sector de la pesca artesanal se identifica como uno de los
+Al igual que la pesca, el aporte de los peces a la producción de la acuicultura re- sectores que requiere mayor atención dada su alta dependencia socio-econó-
+presenta el 74% del total. Los principales peces que se cultivan son salmónidos: mica asociada con la extracción de recursos marinos.
+salmón del atlántico ( Salmo salar ), salmón del pacífico ( Oncorhynchus kisutch )
+y trucha arcoíris ( Oncorhynchus mykiss ). Los moluscos aportan el 25% del total
+de las cosechas, la principal especie es el chorito ( Mytilus chilensis ), con el 96%.
+A su vez, las algas aportan con sólo el 1% de la producción total del sector
+acuicultura (Figura 3).
+En general, la acuicultura se concentra en un número pequeño de especies,
+pero a través de la Política Nacional de Acuicultura se está promoviendo la di-
+versificación del sector en un marco de sustentabilidad ambiental y equidad en
+el acceso a la actividad. Especial atención, en el marco de esta Política, tiene la
+acuicultura de pequeña escala (APE), que centra su producción en moluscos y
+algas, y que se considera una actividad económica con oportunidades de crecer
+debido a su potencial para atraer y reconvertir a los pescadores artesanales que
+se ven afectados por la disminución de algunos de sus recursos objetivos. Es-
+tos aspectos, que son importantes al momento de definir las políticas públicas,
+Cultivo de pelillo en Chamiza, Figura 3. Cosecha total y por grupos de recursos hidrobiológicos de la acuicultura.
+están considerados en las propuestas de adaptación e implementación de las (Fuente: SERNAPESCA (2003, 2014).
+Región de Los Lagos.
+acciones del presente plan (ver fichas de acción).
+La acuicultura a escala industrial (salmonicultura), a su vez, ha representado
+un éxito importante durante las dos últimas décadas, creciendo alrededor de
+un 40% al año entre los períodos 1986/87 y 1996/97, y a partir de entonces
+(1996/97 - 2006/07) a un 10% al año. Sin embargo, se teme que el modelo ori-
+ginal de producción basado solamente en un par de especies se esté agotando,
+por lo tanto, se busca desarrollar la diversificación de este tipo de acuicultura.
+Particularmente, la salmonicultura no ha estado exenta de problemas y la cri-
+sis del virus ISA (Anemia Infecciosa del Salmón) en el año 2007-2008, plantea
+interesantes desafíos ambientales y socio-económicos comparables a eventos
+extremos (como por ejemplo, cambios repentinos y significativos en la calidad
+del agua, aumento en la frecuencia e intensidad de micro algas nocivas, etc.)
+que pueden ocurrir por efecto del cambio climático.
+Aspectos económicos
+Si bien el sector pesquero nacional es un importante generador de divisas y
+empleo, para el país su importancia relativa representa sólo un 1,8% del produc-
+to interno bruto chileno (PIB) considerando sólo el valor de la materia prima; al
+incorporar los productos elaborados esta contribución puede llegar a ser entre
+3% y 3,5% del PIB. La acuicultura destaca, ya que desde hace varios años se
+han ido incrementando los envíos de productos de alta calidad, en particular
+asociados a la industria del salmón, los cuales llegan a representar más del 70%
+de los montos totales exportados.
+26 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 27
+
+--- Página 14 ---
+Subsecretaría de Pesca y Acuicultura
+3. Impactos del cambio
+climático en pesca y
+acuicultura
+La Pesca y la Acuicultura desempeñan funciones fundamentales en el
+suministro de alimentos, en la seguridad alimentaria y en la generación
+de ingresos (FAO, 2012). A nivel mundial, unos 43,5 millones de personas
+trabajan directamente en el sector pesquero y la gran mayoría de ellas vi-
+ven en países en desarrollo. Sumando a quienes intervienen en la industria
+de elaboración, comercialización, distribución y suministro, el sector de la
+Pesca y Acuicultura a nivel mundial sostiene la subsistencia de cerca de
+200 millones de personas.
+Acuicultura en Cochamó,
+Región de Los Lagos.
+28 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 29
+
+--- Página 15 ---
+Impactos del Cambio Climatico en Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+3.1. A nivel mundial
+En forma más detallada, y según la misma fuente, se registra un desplazamien-
+to hacia los polos de las especies de aguas templadas con los consiguientes
+cambios en el tamaño y productividad de sus hábitats. Es probable que en un
+En la Figura 4, se resumen los componentes y procesos de los ecosistemas mundo donde las temperaturas promedios están aumentando, la productividad
+marinos y de la pesca que son expuestos a los efectos potenciales del cambio de los ecosistemas se reduzca en la mayor parte de los océanos tropicales y
+climático, a través del acoplamiento océano-atmósfera y las interacciones entre subtropicales, pero que aumente en las zonas latitudinales altas.
+los componentes abióticos, bióticos y antropogénicos.
+El incremento de las temperaturas también afectará la fisiología de los peces y,
+según las regiones y latitudes, tendrá efectos tanto positivos como negativos en
+las pesquerías y en las actividades acuícolas. Al causar trastornos en las redes
+tróficas marinas y de agua dulce, el cambio climático está ya alterando la es-
+tacionalidad de algunos procesos biológicos, con consecuencias imprevisibles
+para la producción pesquera. El riesgo de invasión de especies exóticas y la
+difusión de enfermedades de transmisión vectorial representan motivos adicio-
+nales de preocupación.
+El recalentamiento diferencial de las tierras y océanos y de las regiones polares y
+tropicales podría afectar la intensidad, frecuencia y estacionalidad de las pautas
+climáticas (por ejemplo, el fenómeno de El Niño) y determinará acontecimientos
+extremos (inundaciones, sequías y tormentas). Estos eventos alterarán la estabi-
+lidad de los recursos acuáticos en esas regiones.
+Figura 4. Componentes y procesos La elevación del nivel de los mares, el derretimiento de los glaciares, la acidifi-
+Según el informe del Panel Intergubernamental de Cambio Climático (IPCC, de los ecosistemas marinos y de la cación de los océanos y los cambios en las precipitaciones y en el flujo de las
+AR5, 2014), el cambio climático y la acidificación de los océanos están alterando pesca expuestos a los efectos del aguas subterráneas y los ríos tendrán efectos significativos en los arrecifes de
+profundamente los ecosistemas marinos, con los consecuentes impactos en la cambio climático. coral, los humedales y los ríos, lagos y estuarios.
+pesca y acuicultura a nivel mundial:
+Referente a los impactos sobre los medios de vida, se concluye que los cambios en
+Los principales impactos se refieren al desplazamiento de los stocks y al au- la distribución, en la composición de las especies y en los hábitats harán necesario
+mento de la mortalidad de crustáceos para la acuicultura debido a la acidifi- modificar las prácticas pesqueras y las operaciones en el sector de la acuicultura, y
+cación marina. modificar la ubicación de las instalaciones de desembarque, cosecha y elaboración.
+Los impactos del cambio climático y la acidificación de los océanos se agra- Los acontecimientos extremos también tendrán consecuencias en la infraes-
+van por otros factores como: sobreexplotación de los recursos, contamina- tructura, que se manifestarán desde los puntos de desembarque y cosecha
+ción y pérdida de hábitats. hasta las plantas de elaboración post-cosecha y las vías de transporte. Habrá
+igualmente repercusiones en el ámbito de la seguridad en el mar y en los asen-
+Los ecosistemas de arrecifes de coral están disminuyendo rápidamente, tamientos humanos, siendo las comunidades que viven en las tierras bajas las
+con consecuencias negativas para algunas pesquerías costeras. que correrán los mayores riesgos.
+La acuicultura se puede ver afectada por aumento en la frecuencia y magni- Las actividades acuícolas y la producción de las pesquerías continentales se
+tud de tormentas e inundaciones. verán afectadas por el estrés hídrico y la competencia por los recursos de aguas,
+factores que acentuarán probablemente los conflictos entre los sectores pro-
+Los impactos contribuyen al aumento del número de “zonas muertas” en ductivos que dependen de la disponibilidad de agua.
+el océano, así como al aumento en la proliferación de microalgas tóxicas.
+La diversificación de los medios de vida constituye un procedimiento conso-
+Cabe señalar que el IPCC estima varios escenarios posibles del cambio climáti- lidado para la transferencia y contención de riesgos ante las perturbaciones,
+co y que éstos involucran generalidades con diferentes niveles de incertidumbre. pero cuando las alternativas de diversificación son escasas, la factibilidad de tal
+Caleta Los Vilos,
+procedimiento aparece comprometida. Región de Coquimbo.
+30 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 31
+
+--- Página 16 ---
+Impactos del Cambio Climatico en Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+3.2. En Chile
+Las consecuencias del cambio climático afectarán a las cuatro dimensiones de
+la seguridad alimentaria:
+la disponibilidad de alimentos de origen acuático variará debido a las altera-
+ciones en los hábitats, las poblaciones hidrobiológicas y la distribución de las
+especies;
+la estabilidad de los suministros se verá afectada por irregularidades esta-
+cionales, la varianza en la productividad de los ecosistemas, la mayor varia-
+bilidad de los suministros y los riesgos;
+el acceso a los alimentos de origen acuático se modificará a causa de los
+cambios en los medios de vida y en las capturas o en las posibilidades de
+cosecha;
+la utilización de los productos acuáticos también tendrá alteraciones, por
+ejemplo, algunas sociedades y comunidades deberán ajustar sus hábitos de
+consumo introduciendo en sus comidas especies que no formaban parte de
+su dieta tradicional.
+Caleta Pan de Azúcar,
+Región de Atacama. Características ecosistémicas
+Chile presenta una gran variedad de ecosistemas y de especies marinas que
+estarían siendo afectadas por cambios en las condiciones hidrológicas y am-
+bientales derivadas del cambio y variabilidad del clima, y estarían generando
+múltiples respuestas directas e indirectas.
+El cambio climático afectaría a las especies marinas (pelágicas, demersales y
+bentónicas) en la medida en que se modifiquen las condiciones físicas, químicas
+y biológicas que determinan su productividad, desarrollo, alimentación, repro-
+ducción, abundancia y distribución. Cabe señalar que los recursos pelágicos, y
+probablemente también los demersales, presentan marcadas fluctuaciones en
+su abundancia en estos ecosistemas dinámicos, con colapsos abruptos y alter-
+nancia de especies. Estos últimos se reflejan en cambios de régimen del eco-
+sistema entero, los cuales tienen notable impacto en la estructura, dimensión y
+dinámica de las pesquerías. Estas fluctuaciones se deberían al efecto antrópico
+y a la variabilidad ambiental (Bernal, 1990; Yáñez, 1998).
+32 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 33
+
+--- Página 17 ---
+Impactos del Cambio Climatico en Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+En consecuencia, la habilidad para observar y detectar síntomas de cambios en
+las condiciones ambientales y niveles tróficos del ecosistema, así como estimar Promedios anuales TSM (˚C) (Arica, Antofagasta, Caldera, Valparaíso): 1990 - 2013
+y predecir los efectos sobre la abundancia, el reclutamiento y las capturas de
+dichas pesquerías, es un aspecto de importancia clave para su manejo y desa-
+rrollo sustentable.
+Parte de este sistema marino chileno pertenece al “Gran Ecosistema Marino de
+la Corriente de Humboldt” (GEMCH), el cual se localiza aproximadamente entre
+4°S y 42°S a lo largo de las costas de América del Sur con una extensión pro-
+medio mar afuera hasta aproximadamente 200 a 300 millas náutica de la costa.
+El GEMCH es uno de los cuatro sistemas de corriente de borde oriental del
+mundo, que se caracteriza por sus zonas de surgencia costera, de aguas frías
+con alta concentración de nutrientes lo cual genera una elevada productividad
+primaria (fitoplancton) y secundaria (zooplancton y peces). Frente a la costa chi-
+lena el GEMCH incluye dos zonas con marcadas diferencias en sus condiciones
+oceanográficas:
+Figura 5. Promedios totales anuales de la temperatura superficial del mar (TMS) de cuatro estaciones costeras: Arica, Antofagasta, Caldera, Valparaíso (Fuente:
+Zona frente Arica-Coquimbo (18°S - 30°S), corresponde a una zona que se datos SHOA (CENDHOC)) y años de El Niño (flechas amarillas: eventos moderados; flecha roja: evento fuerte) y de La Niña (flechas celestes: eventos moderados;
+caracteriza por la ocurrencia de una surgencia moderada y temperatura su- flechas azules: eventos fuertes).
+perficial del mar relativamente cálida, la cual es cuasi-periódica en la escala
+interanual y decadal. Esta región es susceptible a perturbaciones interanua-
+les tal como eventos tipo ENOS (El Niño-Oscilación del Sur). se observa un enfriamiento a partir de fines de los años 1970, del orden de 0,1 a
+0,2°C por década. Esto se confirma con información de TSM satelital, al obser-
+Recolectores de orilla, Zona frente a Chile central (30°S-42°S), la cual es cuasi-periódica en la es- var un claro enfriamiento frente a la zona centro-sur y norte de Chile después de
+Chañarcillo Región de Atacama.
+cala decadal. Esta región tiene un marcado ciclo estacional de surgencia, 1979 (Falvey y Garreaud, 2009). La Figura 5, muestra esta tendencia de la TSM
+con convergencias costeras durante el invierno y una surgencia moderada para las costas de la zona norte y central de Chile. Es importante señalar que
+durante el periodo estival (octubre-marzo), pero con una muy alta mezcla este enfriamiento no es simulado por ninguno de los modelos climáticos globales
+turbulenta debida a la acción del viento. Los efectos interanuales de eventos acoplados que se utilizan en las proyecciones climáticas que aparecen en los
+ENOS son mínimos en esta región, a excepción de eventos muy fuertes. reportes del IPCC. El factor más probable que explica el enfriamiento de la TSM
+es la intensificación del esfuerzo del viento a lo largo de la costa y por lo tanto de
+Al sur de estas dos zonas GEMCH, y separada por la Deriva del Oeste, se la surgencia costera, que transporta agua fría de la profundidad a la superficie.
+encuentra el ecosistema de canales y fiordos que obedece a una eco-región Al respecto, Garreaud y Falvey (2008) señalan que los vientos superficiales en
+templada fría (al sur de los 42°S y hasta el Cabo de Hornos). Este sistema es dichas zonas se fortalecerían pasando de un promedio máximo de 6,5 m/s en el
+extremadamente complejo, caracterizado por fiordos, estrechos, canales e islas período 2000-2005 a 7,5 m/s en el período 2071-2100, efecto que asociado a
+que definen una ecorregión única, con alta diversidad y productividad planc- las surgencias costeras enfriarían las aguas superficiales.
+tónica que sustenta una fauna variada de poliquetos, moluscos, crustáceos y
+peces, algunos de ellos endémicos. Además, de ser una zona reconocida de Según Montecinos (en Cubillos et al., 2013) se debería esperar también para los
+alimentación y reproducción de aves y mamíferos marinos como la ballena azul. futuros escenarios del clima un aumento en los vientos en la costa chilena, con-
+Cabe señalar que en esta zona se desarrolla la mayor parte de la acuicultura del tribuyendo así, a través de los procesos de surgencia a un enfriamiento continuo
+salmón y de choritos. de las aguas superficiales o más bien a un no-calentamiento de las aguas en
+estas zonas. Por otro lado, Fuenzalida et al. (2007), basándose en dos escena-
+Cambios observados y esperados rios del IPCC, pronostica un futuro calentamiento de las aguas chilenas. Estas
+conclusiones opuestas demuestran el alto grado de incertidumbre referente a la
+Temperatura superficial del mar (TSM) tendencia futura de variables oceanográficas claves, que afectan la productivi-
+Caleta Riquelme,
+dad primaria y la distribución de los recursos pesqueros chilenos. Iquique, Región de Tarapacá.
+Cabe señalar que mientras en muchas regiones del planeta se observa un ca-
+lentamiento de las aguas superficiales del mar, en la costa oeste de Sudamérica
+34 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 35
+
+--- Página 18 ---
+Impactos del Cambio Climatico en Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Oxígeno disuelto chilena son regiones de un intenso flujo de CO (Torres et al ., 2011, Mayol et al .,
+2
+2012). Los parámetros del sistema de los carbonatos (pH, alcalinidad, tempe-
+Una de las consecuencias del cambio climático es la disminución de la concen- ratura, salinidad, etc.) registrados a lo largo de la costa de Chile demuestran la
+tración de oxígeno disuelto con el calentamiento global. En el periodo 1990- existencia de un gradiente en el flujo de CO entre el océano y la atmosfera. A pe-
+2
+2008, el contenido de oxígeno ha disminuido en muchas regiones del Pacífico sar la variabilidad temporal, en términos promedios, la dirección del flujo de car-
+tropical, Atlántico, y Océano Indico en la capa de 200-700 dbar de profundidad, bono cambia de una zona de desgasificación en la región de surgencia costera
+en relación con el periodo 1960-1974. (20°-37°S). Es decir, dado el proceso de remineralización de la materia orgánica
+en el interior del océano, la surgencia de aguas profundas estaría introduciendo
+Fiesta de San Pedro,
+Por otra parte, a 200 dbar de profundidad, el área con O <70 μmolkg -1 , que mu- aguas frías, de bajo pH y alto CO hacia la zona costera, como ha sido demos-
+Rapa Nui. 2 2
+chos organismos móviles grandes son incapaces de tolerar, se ha incrementado trado en el ecosistema de surgencia de la costa de Oregon-California (Feely et
+en 4,5 millones de km 2 . Las zonas tropicales bajas de oxígeno se han expandido al ., 2008). Por otra parte, desde los 37°S hacia la Patagonia el océano costero
+horizontalmente y verticalmente. El oxígeno subsuperficial ha disminuido en sec- se transforma en una zona de sumidero o secuestro de CO . En esta zona, el
+2
+tores adyacentes a la mayoría de las plataformas continentales. Sin embargo, la secuestro de CO interactúa con el aporte de aguas acidas por descarga de ríos
+2
+fuerte presión pesquera en el océano abierto puede hacer que sea difícil aislar debido al aumento de las precipitaciones, deshielos y retroceso de glaciares.
+el impacto de la disminución de oxígeno en las pesquerías. En profundidades Recientemente, Mayol et al. (2012) registraron que una importante porción de
+someras, la contracción del hábitat se producirá para grupos taxonómicos que la columna de agua a lo largo de la costa de Chile, pero particularmente entre
+no toleran la hipoxia (estado de deficiencia de oxígeno en un organismo), con la los 28°S y 42°S presenta condiciones moduladas por la concentración de CO
+2
+eventual pérdida de biodiversidad. y su interacción con condiciones de hipoxia que podrían comprometer el desa-
+Caleta Zapallar, rrollo de organismos aeróbicos calcificadores. Lo anterior es reflejado en que las
+Región de Valparaíso.
+Nivel Medio del Mar (NMM) aguas de la costa de Chile presentan niveles de pH y estado de saturación del
+carbonato (Ω) que son naturalmente bajos. Sin embargo, debido a la interacción
+Las observaciones con respecto al nivel medio del mar en las últimas décadas entre estos procesos naturales del ciclo del carbono con el aumento antropo-
+en Chile varían según la zona (COPAS, 2013): génico del CO atmosférico global, estos ecosistemas y los recursos que con-
+2
+tienen, podrían ser vulnerables a la acidificación del océano. Pero, a pesar de la
+En el norte (Arica, Antofagasta) el NMM ha disminuido a 55-82 mm en 60 años importante influencia de la surgencia costera y su interacción con las descargas
+de registros. En el centro (Valparaíso) el NMM ha aumentado en torno de 6 mm de ríos sobre los procesos que acidifican el océano poco se conoce acerca de
+en 58 años. En el sur (Puerto Williams) el nivel del mar ha aumentado en torno a sus implicancias sobre la estructura y función de un ecosistema costero. En
+90 mm en 41 años. El aumento más fuerte se registró en la Isla de Pascua donde general, se desconoce si el descenso en pH inducido por surgencia o descar-
+el NMM ha aumentado en torno a 162 mm en 51 años de registros. gas de ríos representa un factor de estrés para organismos calcificadores. Sin
+embargo, existe evidencia experimental que sugiere que el aumento del CO en
+2
+Las proyecciones futuras para Chile (Universidad de Chile, 2007) muestran in- el agua de mar y el correspondiente descenso de pH genera una diminución en
+crementos entre 5 y 10 cm al 2050 y de entre 12 a 28 cm al año 2100. Se la producción de biomasa del recurso chorito, Mytilus chilensis (Navarro et al .,
+predice para el 2100 un aumento promedio del nivel del mar frente a las costas 2013), y aunque esta respuesta es variable, cuando el efecto neto es negativo
+chilenas de 20 cm para la zona entre 30°S - 60°S y entre 25 – 30 cm para la este ocurriría vía un efecto sobre la tasa de calcificación y no en la disolución de
+zona 20°S - 30°S. sus valvas (Duarte et al ., 2013, 2104). Para Concholepas concholepas (loco),
+otro recurso de importancia económica para la pesca artesanal, se ha registrado
+Según las conclusiones del último reporte del IPCC (2014), y si las emisiones de que la acidificación del océano puede impactar su tasa de ingestión comprome-
+gases invernadero se mantienen creciendo dentro de las tasas actuales, el NMM tiendo su desarrollo en la etapa larval (Vargas et al ., 2013), su comportamiento,
+a nivel mundial aumentaría más rápido de lo que se había pensado, se podría metabolismo y calcificación en estados juveniles (Manriquez et al ., 2013, 2014,
+esperar para fines de este siglo un aumento promedio mayor a 45 cm. Ramajo et al ., 2013, Lardies et al ., 2014). Sin embargo, existe un amplio desco-
+nocimiento del impacto de la acidificación del océano para una amplia gama de
+Acidificación del Océano otros recursos cultivados o extraídos por la pesca artesanal.
+Aproximadamente 1/3 de las emisiones de CO antropogénico han sido absorbi- El Niño-La Niña Oscilación del Sur (ENOS) y Cambios Interdecadales
+2
+das por los océanos (Sabine et al. , 2004), aumentando la presión parcial de CO
+2
+(pCO ) a expensas de una reducción significativa del pH del mar y la concen- ENOS es el agente más importante de la variabilidad interanual del clima de la
+2 Isla Robinson Crusoe,
+tración del ion carbonato disuelto [CO = ], proceso conocido como “acidificación región y de las condiciones oceanográficas de los ecosistemas marinos.
+Región de Valparaíso.
+3
+del océano” (Orr et al ., 2005). Los ecosistemas de surgencia y de la Patagonia
+36 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 37
+
+--- Página 19 ---
+Impactos del Cambio Climatico en Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+La fase cálida de ENOS conocida como El Niño se manifiesta, principalmente, sión/retención de huevos y larvas de peces pelágicos pequeños en el sistema
+por un aumento de la temperatura superficial del mar (TSM) y una disminución de corrientes de Humboldt ante escenarios como este. Para ello utilizaron tasas
+de los vientos alisios en el lado Este del Océano Pacífico. La fase inversa o fría de de retención larval en áreas de crianza predefinidas. La retención larval se incre-
+ENOS, conocida como La Niña, se caracteriza por presentar TSM más frías que mentaría con el aumento en la estratificación debido al calentamiento regional.
+lo normal e intensificación de los vientos alisios en el Este del Océano Pacífico. Sin embargo, dicho incremento en la retención larval se compensa con una
+disminución de las áreas de crianza y una oxiclina (profundidad a partir de la cual
+Caleta Maullín, Tanto El Niño como La Niña afectan la biomasa y distribución de los principales la concentración del oxígeno disminuye fuertemente) más somera. Los resulta-
+Región de Los Lagos. recursos pesqueros pelágicos y demersales en forma diferente. dos muestran que ante un cambio climático futuro se puede reducir en forma
+significativa la capacidad reproductiva de peces pelágicos en el ecosistema de
+Entre 1990 y 2013 han ocurrido 17 eventos ENOS (7 El Niño y 10 La Niña, surgencia de Humboldt.
+Figura 5), los cuales, entre otros, han influido en el régimen térmico de las
+aguas chilenas y en los recursos hidrobiológicos explotados. Por otra parte, la El futuro cambio en las precipitaciones y aporte de agua dulce mediante los
+temperatura media global en la superficie terrestre y oceánica, a partir del siglo caudales de ríos, puede impactar en procesos biológicos del ecosistema marino
+20, muestra un período de enfriamiento importante entre 1880 y 1935, seguido en las zonas de desembocaduras. Quiñones y Montes (2001), encontraron una
+de un período frío menos intenso entre 1945 y 1975; en tanto que se obser- correlación significativa entre los desembarques de róbalo y la entrada de agua
+van dos períodos cálidos, el primero de 1935 a 1945 y el segundo a partir de dulce a la zona costera central de Chile (36°S-37°30¨S).
+1975 (Trenberth et al ., 2007). Este último cambio interdecadal implicó un gran
+Caleta Puñihuil,
+Región de Los Lagos. cambio de régimen en las zonas de pesca pelágica del país, pasando de una Las algas, especialmente las algas pardas, cuya pesquería se desarrolla entre
+pesquería de anchoveta a una de sardina en la zona norte, y una de sardina los 18°S y 23°S, son de gran importancia socioeconómica para la pesca arte-
+común-anchoveta a una de jurel en el centro-sur; esta situación se revierte en sanal, constituyendo un recurso fundamental dentro del portafolio de recursos
+ambas zonas entre fines de los 80 y principio de los 90 (Yáñez, 1998). bentónicos que sustentan la actividad pesquera artesanal de pequeña escala.
+Desde el punto de vista ecológico, las grandes algas pardas son estructuradoras
+Aunque hay una cierta certeza de que dichos eventos seguirán en el futuro, los de comunidades al albergar numerosas otras especies, algunas de ellas de im-
+modelos del clima actualmente disponibles todavía no permiten una conclusión portancia para la pesca artesanal, además de tener un rol importante en la ocea-
+coherente, y en caso positivo, cómo el cambio climático va a afectar la frecuencia nografía física costera. Las comunidades de algas son fuertemente impactadas
+o magnitud de estos eventos y/o cómo ellos modularán la tendencia del cambio por variables climáticas y oceanográficas. Estudios aseveran que solo un grado
+climático. más de temperatura en los mares podría afectar la disponibilidad de nutrientes,
+por ende disminuir la productividad de las algas pardas, afectando así el sistema
+Caleta Puñihuil, Recursos pesqueros socioeconómico de la pesca artesanal correspondiente y los procesos de diná-
+Región de Los Lagos.
+mica costera vinculados, entre otros, con la erosión e inundaciones.
+Se considera que las pesquerías sobreexplotadas o en agotamiento son las más
+Cultivo de pelillo en Chamiza,
+vulnerables al cambio climático (Perry et al ., 2010; Hidalgo et al ., 2011). Esto es Los resultados de estos trabajos muestran la necesidad de analizar la influencia Región de Los Lagos.
+relevante dado el estado de situación de algunas pesquerías chilenas emblemá- de factores ambientales en la explotación de recursos hidrobiológicos de un área
+ticas como son la merluza común, sardina española, jurel y congrios que son de determinada, para evaluar la producción (capturas, cosechas) y la biodiversidad
+importancia para el sector pesquero artesanal (SUBPESCA, 2014). bajo el marco del cambio climático, y desarrollar políticas de manejo eficientes.
+El conocimiento asociado a las relaciones funcionales entre dichos recursos y el
+Yáñez et al . (2014), utilizando un modelo de red neuronal predice un incremento ambiente resulta crucial para planificar futuros escenarios, facilitando así el control
+en las capturas de anchoveta del norte de Chile en caso que la TSM disminuya de los posibles efectos de dichos cambios en el manejo de recursos hidrobiológi-
+en un 0,02°C/año y disminuciones notables en el caso que la TSM aumente cos (Brander, 2010). Esto implica en primer lugar la regionalización de los mode-
+en 0.034ºC/año o 0,025°C/año. En tanto que Silva et al. (2014), estiman leves los globales de circulación y el análisis considerando las fluctuaciones temporales
+disminuciones (de entre 3 y 5%) en las capturas de la pesca palangrera del pez (utilizando largas series de tiempo disponibles) y espacio-temporales (asociadas
+espada y de cerco de sardina común, cuando la TSM promedio en la zona de normalmente al uso de información satelital más acotada en el tiempo).
+pesca aumenta entre 1,0 – 2,3ºC hacia el año al 2050.
+Acuicultura
+Escenarios de cambio climático sugieren que ante aumento de CO , la estratifi-
+2
+cación oceánica puede incrementarse fuertemente y que los vientos favorables En el caso de la acuicultura, es posible que el cambio en el nivel del mar no tenga
+para la surgencia podrían permanecer frente a Perú e incrementarse frente a efectos directos sobre los recursos cultivados. Sin embargo, pueden existir otros
+Chile. En este contexto, Brochier et al. (2013) analizan los impactos en la disper- efectos relacionados a la exposición de los centros de producción, los que se
+38 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 39
+
+--- Página 20 ---
+Impactos del Cambio Climatico en Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+verían forzados a realizar cambios en su localización, de manera progresiva o,
+en casos menos extremos, modificaciones en su infraestructura, incluyendo las
+instalaciones de operaciones y los sistemas de cultivo. Un mayor nivel del mar,
+provoca daños en cultivos suspendidos, cuyas unidades de cultivo son líneas
+madres ancladas al fondo marino. Particularmente, los cultivos de ostiones, ubi-
+cados en bahías expuestas en la zona norte del país, podrían verse muy afecta-
+dos por cambios en la intensidad de las marejadas.
+Otro posible impacto en los centros de cultivo, relacionado al aumento del nivel
+del mar, es el cambio en la salinidad de los sistemas de estuarios, lo cual pudiese
+influir negativamente en los rendimientos y mortalidades de los individuos. Adi-
+cionalmente, es también factible que dicho efecto pueda favorecer la manifesta-
+ción de plagas y/o enfermedades relevantes que afecten las especies cultivadas.
+Un ejemplo de lo anterior, es el piojo del salmón, que afecta el crecimiento,
+pudiendo causar incluso la muerte producto de heridas en el cuerpo de los sal-
+mones. Este parásito podría verse favorecido en su diseminación, producto del
+aumento de la temperatura del mar, la cual influye en su distribución.
+El futuro cambio en las precipitaciones y aporte de agua dulce mediante los cau-
+dales de ríos, pueden impactar en las instalaciones terrestres de la acuicultura
+que dependen de este recurso vital.
+Caleta Maullín,
+Región de Los Lagos.
+40 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 41
+
+--- Página 21 ---
+Subsecretaría de Pesca y Acuicultura
+4. Directrices para
+la adaptación en
+pesca y acuicultura
+A lo largo de la historia las comunidades que dependen de los
+recursos vivos han conseguido adaptarse a las variaciones en la
+disponibilidad de estos recursos, generadas o no por alteraciones
+climáticas. En ese sentido, para enfrentar el cambio climático, la
+estrategia de adaptación debe ser diseñada en función del contex-
+to y lugar, tomando en consideración tanto las repercusiones que
+ocurran a breve plazo (por ejemplo, aumento en la frecuencia de
+acontecimientos severos) como a largo plazo (por ejemplo, reduc-
+ción en la productividad de los ecosistemas acuáticos).
+Acuicultura en Cochamó,
+Región de Los Lagos.
+42 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 43
+
+--- Página 22 ---
+Directrices para la Adaptación en Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Considerando el tema de la “incertidumbre” referente a los escenarios climá- la educación, y en coordinación con aquellas que se ocupan de la planifica-
+ticos para los ecosistemas marinos y el estado de situación de las pesquerías ción y del financiamiento. Será necesario además establecer o reforzar las
+chilenas, la adaptación al cambio climático en pesca y acuicultura estará muy asociaciones en el seno del sector público y privado, la sociedad civil y las
+ligada al desarrollo sustentable de las pesquerías en el contexto de un clima organizaciones no gubernamentales (ONG).
+variable y cambiante. Este “enfoque climático” en el manejo pesquero requiere la
+sincronización de las medidas de la regulación pesquera con la dinámica de las Activar los mecanismos financieros. Para hacer frente a los problemas del
+condiciones ambientales, las cuales influyen sobre el crecimiento poblacional y cambio climático, será necesario aprovechar plenamente, a nivel nacional e
+la distribución espacial de los recursos pesqueros y por ende sobre los desem- internacional, las potencialidades de los mecanismos financieros existentes.
+barques y sus beneficios económicos. También será preciso recurrir a enfoques innovadores para seleccionar ins-
+trumentos financieros y crear incentivos y desincentivos eficaces. El sector
+Como opción principal de adaptación se recomienda mejorar la resiliencia de los público jugará un papel importante al estimular e integrar las inversiones del
+componentes más vulnerables del sector. El IPCC (2007) define resiliencia como sector privado y actuar por conducto de los mecanismos de mercado para Caleta Caldera,
+“la capacidad de un sistema social o ecológico para absorber una alteración sin satisfacer los objetivos sectoriales relacionados con las respuestas al cam- Región de Atacama.
+perder ni su estructura básica o sus modos de funcionamiento, ni su capacidad bio climático y la seguridad alimentaria.
+de auto-organización, ni su capacidad de adaptación al estrés y al cambio”. De
+manera más específica, las estrategias de adaptación, en pesca y acuicultura, Tomando en cuenta estos ámbitos, aspectos y recomendaciones generales, y
+deberían promover la gestión de los riesgos socio-económicos asociados a las el marco general del Plan de Adaptación para el sector Pesca y Acuicultura se
+fluctuaciones interanuales de los desembarques, incluida la preparación para definen las siguientes directrices que guían el presente Plan:
+hacer frente a casos de catástrofe, y la gestión integrada de las zonas costeras
+y de los ecosistemas marinos. La política pública sectorial en materia de adaptación debiera ser orienta-
+da a reducir la vulnerabilidad y a proveer la información necesaria para la
+Las políticas y actividades a nivel internacional, regional y nacional que contri- planificación e implementación de las acciones que conduzcan a esta re-
+buyen a minimizar las repercusiones negativas del cambio climático, según FAO ducción, asegurando que dichas acciones no tengan impactos negativos
+(2012), consideran los ámbitos siguientes: en otros servicios ecosistémicos, en la sustentabilidad de las pesquerías
+y acuicultura a largo plazo y coherentes con las medidas de adaptación
+Desarrollo de la base de conocimientos. En un contexto de incertidum- incluidas en otros Planes sectoriales de Adaptación, en especial en el Plan
+bre (enfoque precautorio), se deberá tomar en cuenta la posibilidad de que de Biodiversidad.
+ocurran acontecimientos imprevistos, tales como fenómenos meteorológi-
+Puerto Pesquero de Talcahuano,
+cos extremos más frecuentes u otros eventos sorpresivos. Contar con pro- Considerar la adaptación como un proceso progresivo y capaz de aprender
+Región del Biobío.
+yecciones futuras respecto a niveles de producción pesquera, predicciones de experiencias pasadas, tomando en cuenta que los pescadores y acuicul-
+sobre el impacto en determinadas pesquerías y sistemas de acuicultura, tores se han adaptado a otros procesos o eventos ambientales anteriores.
+mejores herramientas para la adopción de decisiones en situaciones de in-
+certidumbre, y un conocimiento perfeccionado acerca de quiénes son o se- Buscar medidas de adaptación que contribuyan a reducir la vulnerabilidad
+rán los sujetos vulnerables al cambio climático y sus efectos adversos sobre de forma prolongada, en lugar de instaurar medidas paliativas de corto plazo
+la seguridad alimentaria y cómo enfrentar estas alteraciones. que podrían incluso tener un efecto contrario a largo plazo.
+Marcos normativo, jurídico y de ejecución. Adaptar los marcos de gober- A través del Plan, contribuir a la sustentabilidad de las pesquerías y la acui-
+nanza a las respuestas que los diferentes sectores han dado a los cambios cultura con el propósito de que las medidas de adaptación sean más efi-
+climáticos. Será necesario establecer nexos entre las políticas y programas cientes y que no se vean afectadas por la condición de los recursos ligada a
+nacionales de adaptación al cambio climático y también entre los marcos problemas de manejo y gobernabilidad.
+jurídicos transectoriales, tales como los marcos relativos a la seguridad ali-
+mentaria, reducción de la pobreza, preparación para responder a casos de En concordancia con la Ley General de Pesca y Acuicultura y sus progra-
+emergencia, y otros. Fortalecer las estructuras y procesos de toma de deci- mas, en el diseño e implementación de medidas en materia de cambio cli-
+siones regionales o dar a éstos una orientación más específica. mático en el sector pesca y acuicultura, se debe considerar:
+Creación de capacidad, estructuras técnicas y organizativas. Contar con Escalas temporales y espaciales acordes con el desarrollo de la política
+organismos técnicos competentes y capacitados, tales como las entidades para la conservación y administración de las pesquerías y acuicultura y
+encargadas de la pesca y la acuicultura, de la investigación científica y de protección de los ecosistemas.
+44 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 45
+
+--- Página 23 ---
+Directrices para la Adaptación en Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Aplicar el principio precautorio y un enfoque ecosistémico en concordan-
+cia con la regulación pesquera y acuícola y protección de los ecosistemas.
+Establecer programas y estrategias para recopilar, verificar, informar y
+compartir en forma sistemática, oportuna, correcta y pública los datos e in-
+formación sobre los impactos del cambio climático en pesca y acuicultura.
+Considerar un seguimiento y evaluación periódica de las medidas de
+adaptación, en coordinación con la evaluación de las medidas de con-
+servación y administración pesqueras y acuícolas.
+Caleta Caldera,
+Región de Atacama.
+46 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 47
+
+--- Página 24 ---
+Subsecretaría de Pesca y Acuicultura
+5. Medidas del plan de
+adaptación al cambio
+climático para pesca
+y acuicultura
+Caleta Riquelme,
+Iquique.
+48 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 49
+
+--- Página 25 ---
+Medidas del Plan de Adaptación al Cambio Climático para Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+5.1. Objetivo principal y específicos
+El presente Plan de Adaptación al Cambio Climático para Pesca y Acuicultura
+se enmarca en el desarrollo de iniciativas y políticas país con respecto al cambio
+climático y al manejo sustentable de los recursos de la pesca, de la acuicultura
+y en general de la conservación de la biodiversidad marina. En cuanto a la defi-
+nición de los objetivos el Plan sigue las recomendaciones de la OCDE (2011) y
+FAO (2012) y toma en consideración los antecedentes y directrices planteadas
+anteriormente.
+De acuerdo con las políticas y estrategias sectoriales y medio ambientales na-
+cionales, el marco institucional y legal para el manejo de la pesca y acuicultura en
+Chile, los compromisos internacionales, las recomendaciones del Plan Nacional
+de Adaptación al Cambio Climático y de las fuentes internacionales y nacionales,
+el objetivo general y especifico del presente Plan son:
+Objetivo principal
+Fortalecer la capacidad de adaptación del sector Pesca y Acuicultura a los
+desafíos y oportunidades del cambio climático, considerando un enfoque
+precautorio y ecosistémico.
+Objetivos específicos
+1. Promover la implementación del enfoque precautorio y ecosistémico en la
+pesca y acuicultura como una forma de mejorar la resiliencia de los ecosiste-
+mas marinos y de las comunidades costeras, que hacen uso de los recursos
+hidrobiológicos y del sector en general.
+2. Desarrollar la investigación necesaria para mejorar el conocimiento sobre el
+impacto y escenarios de cambio climático sobre las condiciones y servicios
+ecosistémicos en los cuales se sustenta la actividad de la pesca y de la
+acuicultura.
+3. Difundir e informar sobre los impactos del cambio climático con el propósito
+de educar y capacitar en estas materias a usuarios y actores relevantes del
+sector pesca y acuicultura.
+Caleta Maullín,
+Región de Los Lagos.
+4. Mejorar el marco normativo, político y administrativo para abordar eficaz y
+La capacidad de adaptación, según IPCC (2007), está definida como la habili- eficientemente los desafíos y oportunidades del cambio climático.
+dad de un sistema para adaptarse al cambio climático (incluyendo variabilidad
+climática y eventos extremos) para moderar el daño potencial, aprovechar las 5. Desarrollar medidas de adaptación directas tendientes a reducir la vulne-
+oportunidades o manejar las consecuencias. rabilidad y el impacto del cambio climático en las actividades de pesca y
+acuicultura.
+En sistemas donde interviene el hombre la capacidad de adaptación al cambio
+climático es una función de tres componentes: (i) la capacidad de comprender la
+problemática del clima y sus repercusiones sobre los componentes del sistema,
+(ii) la capacidad de poder identificar medidas apropiadas de adaptación y (iii) la
+capacidad de implementar las medidas identificadas.
+50 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 51
+
+--- Página 26 ---
+Medidas del Plan de Adaptación al Cambio Climático para Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+5.2. Fichas de acción Objetivo específico 2. Desarrollar la investigación necesaria para mejorar el
+conocimiento sobre el impacto y escenarios de cambio climático sobre las con-
+diciones y servicios ecosistémicos en los cuales se sustenta la actividad de la
+pesca y de la acuicultura.
+Las fichas correspondientes son:
+6. Red nacional de monitoreo y análisis de biodiversidad marina y de agua
+continentales.
+7. Modelos de pronósticos de pesquerías pelágicas chilenas frente a diver sos
+escenarios del cambio climático.
+8. Estudios oceanográficos de biodiversidad marina.
+9. Programa de prevención, control y/o erradicación de especies exóticas in-
+vasoras (EEI).
+10. Determinación de las Áreas Aptas para Acuicultura (AAA) de acuerdo con
+los posibles futuros escenarios climáticos-oceanográficos.
+Caldera, 11. Análisis de variables ambientales y oceanográficas que afectan la producción
+Región de Atacama. Las fichas de acción, que en su conjunto representan las medidas de adapta-
+de semillas de mitílidos.
+ción del Plan, toman en consideración las directrices y los objetivos específicos
+del Plan y representan el marco orientador de una acción en particular a través
+12. Impacto del cambio climático en la distribución de mamíferos marinos, pin-
+de una serie de atributos que facilitan su futura implementación, tales como: güinos y tortugas marinas.
+objetivos, cobertura, plazos, resultados, posibles fuentes de financiamiento e
+instituciones responsables y socios colaboradores. 13. Estudios sobre el impacto del cambio climático sobre recursos marinos en
+la antártica chilena.
+Objetivo específico 1. Promover la implementación del enfoque precautorio y
+ecosistémico en la pesca y acuicultura como una forma de mejorar la resiliencia 14. Estudio de vulnerabilidad al cambio climático para recursos hidrobiológicos
+de los ecosistemas marinos y de las comunidades costeras, que hacen uso de importantes para pesca y acuicultura.
+los recursos hidrobiológicos y del sector en general.
+15. Sistema de predicción de condiciones climáticas para la Pesquería Artesanal y
+Las fichas correspondientes son: la Acuicultura.
+1. Apoyar la implementación de Planes de manejo en pesquerías locales, na- 16. Evaluación de especies de interés para la acuicultura bajo diferentes esce-
+cionales y regionales. narios climáticos.
+2. Fortalecer el programa de observadores científicos a bordo de las flotas 17. Estudio del cambio en la distribución geográfica de Alexandrium catenella
+pesqueras nacionales. en los fiordos y canales del sur de Chile.
+18. Efectos del cambio climático en las actividades de acuicultura desarrollada
+3. Fortalecer el Programa de Reducción del Descarte y la Pesca incidental en
+en espacios fluviales y lacustres.
+las pesquerías nacionales.
+4. Promover el desarrollo de la Planificación Espacial Marina (MSP, por sus si-
+glas en inglés) como una herramienta de gestión para el uso de los recursos
+y ecosistemas marinos.
+5. Guía para la certificación de pesquerías.
+52 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 53
+
+--- Página 27 ---
+Medidas del Plan de Adaptación al Cambio Climático para Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Ficha de acción N°1
+Título de la medida Apoyar la implementación de Planes de manejo en pesquerías locales, nacionales
+y regionales.
+Objetivo específico 1
+Objetivo específico 3. Difundir e informar sobre los impactos del cambio cli- Objetivo de la medida Mejorar la sustentabilidad de los recursos pesqueros objetivos y la conservación
+mático con el propósito de educar y capacitar en estas materias a usuarios y de la biodiversidad asociada.
+actores relevantes del sector pesca y acuicultura.
+Cobertura Nacional, con expresión por subsector (industrial y artesanal) y por recurso.
+Las fichas correspondientes son:
+Plazos 2016 en adelante
+19. Capacitación local a través de proyectos pilotos.
+Resultados • Identificar los recursos objetivos y su fauna asociada.
+20. Información sobre cambio climático en Pesca y acuicultura. • Desarrollar un estándar de plan de manejo, que considere la problemática del
+cambio climático.
+21. Sistema pronóstico de futuros desembarques bajo diferentes escenarios
+climáticos. Posibles fuentes SUBPESCA
+de financiamiento
+Objetivo específico 4. Mejorar el marco normativo, político y administrativo Instituciones responsables SUBPESCA
+para abordar eficaz y eficientemente los desafíos y oportunidades del cambio
+climático.
+Socios colaboradores SERNAPESCA, MMA, universidades y otros
+Las fichas correspondientes son:
+22. Inclusión de áreas acuáticas al Sistema Nacional de Áreas Protegidas del
+Estado.
+Ficha de acción N°2
+23. Adaptación normativa para respuestas inmediatas ante variabilidad climá- Título de la medida Fortalecer el Programa de Observadores científicos a bordo de la flota pesquera
+tica y eventos extremos. nacional.
+24. Grupo Técnico Asesor de Cambio Climático (GTA CC) para la SUBPESCA. Objetivo específico 1
+Objetivo específico 5. Desarrollar medidas de adaptación directas tendientes a Objetivo de la medida Mejorar la información respecto de los impactos de la pesca en la biodiversidad
+reducir la vulnerabilidad y el impacto del cambio climático en las actividades de y el ambiente asociado, ampliando la cobertura del programa de observadores
+pesca y acuicultura. científicos.
+Las fichas correspondientes son: Cobertura Nacional
+25. Adaptación de la infraestructura portuaria de la pesca artesanal a los posi- Plazos 2016 en adelante
+bles impactos del cambio climático.
+Resultados • Obtención de información sobre cuantificación y determinación de las causas
+26. Sistema de seguros para acuicultores de pequeña escala y pescadores del descarte y la pesca incidental.
+artesanales ante eventos climáticos extremos. • Diseñar e implementar medidas para mitigar el impacto de la pesca en la biodiversidad.
+• Disminuir los impactos en la biodiversidad.
+27. Implementación de técnicas de recirculación de agua en acuicultura dul- • Relacionar información del programa de observadores con variables ambientales.
+ceacuícola.
+Posibles fuentes SUBPESCA
+28. Fomento del consumo humano directo de la anchoveta y sardina.
+de financiamiento
+29. Promover el consumo y valor agregado en los recursos de la pesca artesanal. Instituciones responsables SUBPESCA
+Socios colaboradores SERNAPESCA, IFOP, ONG, universidades, flota pesquera
+54 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 55
+
+--- Página 28 ---
+Medidas del Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Ficha de acción N°3 Ficha de acción N°5
+Título de la medida Fortalecer el Programa de Reducción del Descarte y la Pesca Incidental en las Título de la medida Guía para la certificación de pesquerías.
+pesquerías nacionales.
+Objetivo específico 1 Objetivo específico 1
+Objetivo de la medida Mitigar la mortalidad por descarte de ejemplares de especies objetivo y de fauna Objetivo de la medida Disponer de un instrumento para la orientación de pescadores en el proceso
+acompañante así como la mortalidad de especies incidentales por captura. de certificación de pesquerías con objeto de lograr la sustentabilidad en la
+Cobertura Nacional explotación de los respectivos recursos marinos.
+Cobertura Nacional
+Plazos 2016 en adelante
+Plazos 2016 en adelante
+Resultados • Identificación de medidas normativas, tecnológicas, operacionales, de
+mercado o culturales que podrían reducir los descartes y la pesca incidental. Resultados • Revisión y análisis de las certificaciones actuales.
+• Elaboración de un código de buenas prácticas pesqueras. • Guía para la certificación de pesquerías.
+• Elaboración de un programa de capacitación y difusión. • Actividades de difusión y capacitación para la aplicación de la guía.
+• Elaboración de un programa de monitoreo, seguimiento y evaluación del Plan • Incrementar el número de pesquerías certificadas a nivel de país.
+de Reducción.
+Posibles fuentes SUBPESCA Posibles fuentes SUBPESCA y sector pesquero privado
+de financiamiento de financiamiento
+Instituciones responsables SUBPESCA Instituciones responsables SUBPESCA
+Socios colaboradores SERNAPESCA, IFOP, ONG, universidades, FAO, flota pesquera Socios colaboradores SERNAPESCA, Organizaciones Certificadoras
+Ficha de acción N°4
+Título de la medida Promover el desarrollo de la Planificación Espacial Marina (MSP, por sus siglas
+en inglés) como una herramienta de gestión para el uso de los recursos y
+ecosistemas marinos.
+Objetivo específico 1; 4
+Objetivo de la medida Permitir el desarrollo sustentable de las diferentes actividades económicas en
+zonas marinas y costeras en un contexto ecosistémico.
+Cobertura Nacional
+Plazos 2016 en adelante
+Resultados • Generación de capacidades en el desarrollo de instrumentos de Planificación
+Espacial Marina (MSP, por sus siglas en inglés).
+• Definir las áreas en las cuales aplicar el instrumento de MSP.
+• Incluir la Planificación Espacial Marina en los instrumentos actuales y/o futuros
+de planificación del uso de los recursos y espacios marino.
+Posibles fuentes SUBPESCA, FNDR, Acuerdos y Memorándum de Cooperación
+de financiamiento
+Instituciones responsables SUBPESCA, DIRECTEMAR, MMA
+Socios colaboradores MMA, universidades, ONG, GORE, CNUBC, CRUBC
+56 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 57
+
+--- Página 29 ---
+Medidas del Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Ficha de acción N°6 Ficha de acción N°7
+Título de la medida Red nacional de monitoreo y análisis de biodiversidad marina y de aguas Título de la medida Modelos de pronósticos de pesquerías pelágicas chilenas frente a diversos
+continentales. escenarios del cambio climático.
+Objetivo específico 2
+Objetivo específico 2
+Objetivo de la medida Desarrollar modelos pronósticos para explorar cómo el cambio climático va a
+afectar la abundancia futura de los recursos pesqueros a nivel nacional y regional.
+Objetivo de la medida Desarrollar una red nacional de monitoreo de la Biodiversidad y un sistema de
+alerta temprana sobre las condiciones de los ecosistemas y especies incluyendo Cobertura Nivel nacional y regional
+los posibles cambios climáticos futuros. Esta red debe incluir las áreas acuáticas Plazos 2016 en adelante
+protegidas y otras áreas promulgadas para la gestión de su biodiversidad.
+Resultados • Bases de datos pesqueras y ambientales consolidadas y actualizadas hasta el año
+2010.
+Cobertura Nacional
+• Modelo regional de circulación oceánica validado; Pronósticos ambientales y
+procesos oceanográficos locales forzados por distintos escenarios del cambio
+Plazos 2016 en adelante
+climático planteados por IPCC.
+• Modelos actualizados y nuevos modelos ambiente-recurso para el PSO
+Resultados Diseño conceptual, construcción, institucionalización y operativización del Módulo basados en redes neuronales artificiales (RNA), máquina soporte vectorial (MSV)
+Marino de la red, incluyendo, entre otros: y modelos híbridos.
+• Pronósticos de desembarque de los recursos pesqueros en diferentes
+• Identificación de los ecosistemas y especies para monitorear. escenarios del cambio climático.
+• Identificación de las variables (bióticas y del clima) y de los indicadores • Concepto de un sistema informático de predicción de volúmenes en diferentes
+de alerta para el monitoreo (según OCDE, CBD). escenarios del cambio climático.
+• Desarrollo de estándares metodológicos para el monitoreo.
+• Protocolos para el intercambio de la información generada. Posibles fuentes FONDEF
+• Identificación de futuros escenarios climáticos. de financiamiento
+• Desarrollo de una base de datos y su respectivo entorno SIG para el manejo Instituciones responsables SUBPESCA
+de la información.
+• Identificación de los arreglos institucionales necesarios y el presupuesto Socios colaboradores IFOP, Universidades, MMA
+correspondiente para la implementación de la Red.
+• Puesta en funcionamiento de la Red (Proyectos Pilotos en localidades selectas
+(p.e. áreas marinas protegidas, especies sensibles o indicadoras tales como
+Ficha de acción N°8
+peces, corales, tortugas, mamíferos, aves marinas, entre otros).
+• Evaluación del funcionamiento de la Red (Proyectos Pilotos) e introducción Título de la medida Estudios oceanográficos y de morfología submarina asociados a la biodiversidad
+de eventuales ajustes. marina.
+• Ampliación paulatina de la Red a nivel nacional.
+Objetivo específico 2
+Objetivo de la medida Analizar la información científica existente e incrementar el conocimiento de
+Posibles fuentes Por definir. Se está explorando financiamiento con CTCN (Climate Change
+aspectos oceanográficos y de morfología submarina asociada a la biodiversidad
+de financiamiento Technology Mechanism de Naciones Unidas) para la etapa de diseño de la red.
+marina, en zonas geográficas cubiertas por cruceros oceanográficos de
+investigación.
+Instituciones responsables MMA, MDN, y otras por confirmar
+Cobertura Nacional
+Socios colaboradores Instituciones académicas, sociedades científicas e instituciones públicas que
+Plazos 2016 en adelante
+colaboren en el monitoreo o en la generación de información, SSFFAA
+Resultados • Desarrollar modelos de predicción de cambios en la biodiversidad marina a
+través del análisis de la información científica de variables oceanográficas y de
+morfología submarina.
+• Incorporar la problemática del cambio climático en la planificación de las metas y
+actividades científicas de los cruceros.
+• Ejecución de los cruceros.
+• Análisis y publicación de los datos y resultados de los cruceros.
+Posibles fuentes CORFO, CONICYT, FONDEF, Fondos Internacionales (GEF)
+de financiamiento
+Instituciones responsables MDN, ARMADA (SHOA-CONA), SUBPESCA
+Socios colaboradores MMA, Universidades
+58 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 59
+
+--- Página 30 ---
+Medidas del Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Ficha de acción N°9 Ficha de acción N°11
+Título de la medida Programa de prevención, control y/o erradicación de especies exóticas invasoras (EEI). Título de la medida Análisis de variable ambientales y oceanográficas que afectan la producción de
+semillas de mitílidos.
+Objetivo específico 2
+Objetivo específico 2
+Objetivo de la medida Minimizar el ingreso de EEI a las aguas marinas y continentales nacionales y
+predecir y minimizar los riesgos de dispersión de especies exóticas invasoras. Objetivo de la medida Conocer las variables ambientales y oceanográficas que determinan la producción
+de semillas de mitílidos y estudiar su comportamiento frente a escenarios del
+Cobertura Nacional cambio climático.
+Plazos 2015-2020 Cobertura Areas de producción de semillas de mitílidos en el sur de Chile.
+Resultados • Desarrollo de un modelo de dispersión de especies EEI frente al cambio Plazos 2016 en adelante
+climático.
+• Estudio sobre la posible dispersión de las principales especies EEI en respuesta Resultados • Síntesis de variables ambientales y oceanográficas que determinan la
+a escenarios de cambio climático. producción de semilla de mitílidos.
+• Formulación de programas de prevención, control y/o erradicación de especies • Mapeo de zonas de producción de semillas de mitílidos.
+EEI calificadas como relevantes, e implementación de acciones, considerando • Estudio de comportamiento de variables ambientales, en zonas de producción
+los factores de cambio climático que podrían modelar su diseminación. de semillas, bajo condiciones generadas por el cambio climático.
+Posibles fuentes Por definir Posibles fuentes SUBPESCA, FNDR, FONDECYT, CORFO
+de financiamiento de financiamiento
+Instituciones responsables MMA, SUBPESCA Instituciones responsables SUBPESCA
+Socios colaboradores SERNAPESCA, SAG, CONAF, COCEI Socios colaboradores Mitilicultores, Universidades, INPESCA, IFOP
+Ficha de acción N°10 Ficha de acción N°12
+Título de la medida Determinación de las Áreas Aptas para Acuicultura (AAA) de acuerdo con los posibles Título de la medida Impacto del cambio climático sobre mamíferos marinos, pingüinos y tortugas
+futuros escenarios climáticos-oceanográfico. marinas presentes en la costa chilena.
+Objetivo específico 2
+Objetivo específico 2
+Objetivo de la medida Identificar nuevas AAA y/o readecuar las AAA actualmente en operación, tales Objetivo de la medida Evaluar los principales impactos del cambio climático en la abundancia,
+que permitan su adaptación en el corto plazo a los cambios proyectados en el distribución y la vulnerabilidad de los mamíferos marinos, pingüinos y tortugas
+medioambiente, manteniendo la producción y resguardando de las actividades y marinas en las costas chilenas.
+servicios asociados a la acuicultura.
+Cobertura Nacional
+Cobertura Nacional
+Plazos 2016 en adelante
+Plazos 2016 en adelante
+Resultados • Contar con un catastro y caracterización ambiental de los principales focos de
+Resultados • Cartografía detallando clasificación de zonas afectadas de acuerdo al análisis y
+abundancia de mamíferos marinos, pingüinos y tortugas marinas.
+predicciones realizadas.
+• Determinar mediante un modelo predictivo el impacto del cambio climático en la
+• Generación de nuevas áreas posibles para la relocalización, determinando su
+abundancia relativa y distribución de las especies de interés.
+viabilidad productiva y social.
+• Inferir a través del modelo predictivo el impacto en las actividades turísticas
+• Planes de largo plazo asociados a la migración y adaptación de las actividades
+asociadas a la observación de mamíferos marinos, pingüinos y tortugas marinas.
+productivas de acuerdo a su sensibilidad y capacidad de adaptación frente al cambio
+• Capacitación efectiva del personal en contacto con la toma de información.
+climático.
+Posibles fuentes de financia- FIP
+Posibles fuentes MINECON, FNDR, otros
+miento
+de financiamiento
+Instituciones responsables SUBPESCA, INACH
+Instituciones responsables MINECON, SUBPESC A
+Socios colaboradores MMA, SERNAPESCA, DIRECTEMAR, Asociación de acuicultores, Universidades. Socios colaboradores MMA, ONGs, Universidades
+60 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 61
+
+--- Página 31 ---
+Medidas del Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Ficha de acción N°13 Ficha de acción N°15
+Título de la medida Estudios sobre el impacto del cambio climático sobre recursos marinos en la Título de la medida Sistema de predicción de condiciones climáticas para la Pesquería Artesanal y la
+Antártica chilena. Acuicultura.
+Objetivo específico 2
+Objetivo específico 2
+Objetivo de la medida Mejorar el conocimiento sobre el impacto del cambio climático en la distribución
+de las especies y estructura del ecosistema antártico. Objetivo de la medida Contar con un sistema a escala sinóptica para predecir las variaciones en las
+condiciones ambientales de operación para la pesquería artesanal y la acuicultura.
+Cobertura Antártica chilena
+Plazos 2016 en adelante Acciones:
+• Determinación de áreas de potencial desarrollo de la acuicultura, mediante
+Resultados • Estudio del impacto del cambio climático en la distribución de las especies y el levantamiento de información batimétrica y oceanográfica para la
+estructura del ecosistema antártico. implementación de modelos de predicción regionales.
+• Utilizar el ecosistema marino antártico como referencia para comprender los • Implementación de grillas regionales de batimetría para ser aplicada en la
+impactos del cambio climático en la biodiversidad. generación de modelos de oleaje en la costa de Chile. Desarrollo de grillas de
+alta resolución para zonas que involucren actividades de acuicultura y pesca
+Posibles fuentes CONICYT, CCMLAR artesanal.
+de financiamiento • Implementación de modelos predictivos, incorporando la capacidad de predecir
+condiciones climáticas que afecten la operación de la flota artesanal y de la
+Instituciones responsables INACH, SUBPESCA acuicultura costera.
+• Elaboración de sistemas de transferencia de información para la entrega de
+pronósticos de condiciones marítimas (viento, oleaje, visibilidad, etc.), relevantes
+Socios colaboradores Por definir
+para la operación en el borde costero.
+• Implementar sistemas de mejoramiento continuo de los pronósticos mediante la
+utilización de la información proveniente de sistemas de monitoreo.
+Cobertura Nacional
+Ficha de acción N°14
+Plazos 5 años
+Título de la medida Estudio de vulnerabilidad al cambio climático para recursos hidrobiológicos
+importantes para pesca y acuicultura.
+Resultados • Sistema de predicción de las condiciones meteorológicas y ambientales que
+afecten la operación de la pesca artesanal y la acuicultura costera.
+Objetivo específico 2 • Establecimiento de protocolos de asesoría y divulgación de la información de
+condiciones predichas hasta un mínimo de 72 horas, posibilitando la reacción
+Objetivo de la medida Contar con una matriz de conocimiento y lista de especies que son objeto de preventiva ante eventos catastróficos generados por marejadas.
+pesca y acuicultura que serían afectadas en sus rangos de tolerancia y preferencia • Implementación de sistemas de difusión efectiva de la información, dirigidos al
+con respecto a variables ambientales claves para su desarrollo, crecimiento y pescador artesanal en una forma tal que permita su utilización y comprensión.
+reproducción bajo diferentes escenarios climáticos.
+Cobertura Nacional Posibles fuentes FONDEF
+de financiamiento
+Plazos 2016 en adelante
+Instituciones responsables SUBPESCA, ARMADA (SHOA-CONA), IFOP, DMC
+Resultados • Generar una base de datos para las especies importantes para la pesca y
+acuicultura, incluyendo: área de distribución, condiciones ambientales en estas
+áreas de distribución (valores mínimas y máximas, promedios, etc.).
+Socios colaboradores MMA, Universidades
+• Estimar el estrés bioclimático (ver Santibáñez, 2013) para estas especies, según
+diferentes condiciones ambientales relacionadas al cambio climático.
+• Estimar el impacto socio-económico asociado a las especies vulnerables.
+Posibles fuentes SUBPESCA, FNDR, FONDECYT, CORFO
+de financiamiento
+Instituciones responsables SUBPESCA
+Socios colaboradores INPESCA, IFOP, UNIVERSIDADES, SERNAPESCA
+62 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 63
+
+--- Página 32 ---
+Medidas del Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Ficha de acción N°16 Ficha de acción N°18
+Título de la medida Evaluación de especies de interés para la acuicultura bajo diferentes escenarios Título de la medida Efectos del cambio climático en las actividades de acuicultura desarrollada en
+climáticos. espacios fluviales y lacustres.
+Objetivo específico 2 Objetivo específico 2
+Objetivo de la medida Evaluar las posibles especies de interés comercial que logren un desarrollo óptimo
+en el nuevo escenario ambiental del medio marino. Objetivo de la medida Evaluar los posibles efectos del cambio climático en cuerpos de aguas fluviales y
+lacustres donde se desarrollan actividades de acuicultura.
+Cobertura Nacional
+Cobertura Nacional
+Plazos Por definir
+Plazos Por definir
+Resultados • Contar con especies alternativas para el desarrollo y mantención de las
+actividades de acuicultura. Resultados • Contar con información y análisis de las fluctuaciones esperadas en los
+• Contar con información sanitaria y ambiental necesaria para el desarrollo del caudales y/o niveles de cuerpos de aguas fluviales y lacustres, donde se
+cultivo de las nuevas especies. desarrolla la acuicultura, por efectos del cambio climático.
+• Contar con información del manejo y desarrollo de las especies de interés para • Contar con información de los cambios esperados en la calidad de las aguas
+la acuicultura. fluviales y lacustres por efectos del cambio climático.
+• Contar con un análisis técnico y económico de la nueva especie a cultivar. • Contar con un análisis que permita proyectar el desarrollo de las actividades de
+acuicultura que dependen de estos cuerpos de agua.
+Posibles fuentes MINECON, FNDR, otros
+de financiamiento Posibles fuentes MINECON, FNDR, otros.
+Instituciones responsables MINECON, SUBPESCA de financiamiento
+Instituciones responsables MINECON, SUBPESCA
+Socios colaboradores MMA, MINSAL, SERNAPESCA, Universidades, otros
+Socios colaboradores MMA, SERNAPESCA, DIRECTEMAR, Universidades
+Ficha de acción N°17
+Título de la medida Estudio del cambio en la distribución geográfica de Alexandrium catenella en los
+fiordos y canales del sur de Chile. Ficha de acción N°19
+Objetivo específico 2 Título de la medida Capacitación local a través de proyectos pilotos.
+Objetivo de la medida Apreciar si el cambio en la distribución geográfica obedece a factores climático Objetivo específico 3
+oceanográficos de largo plazo, afectando además a los ensambles de micro-
+fitoplancton. Objetivo de la medida Generación de capacidades locales en enfrentar los desafíos del cambio climático
+y las variaciones en la pesca y crear ejemplos de “good practice” para su
+Cobertura Sistema de fiordos y canales del sur de Chile
+replicación en otros sitios pesqueros.
+Plazos 2016 en adelante Cobertura Local
+Resultados • Series de tiempo meteorológicas analizadas para las estaciones climáticas con Plazos 2016 en adelante
+información de largo plazo confiable: temperatura, pluviometría, vientos.
+Resultados • Identificar localidades para 5 Proyectos pilotos.
+• Datos oceanográficos revisados y brechas cuantificadas respecto de las
+• Identificar en talleres participativos opciones apropiadas de adaptación al
+necesidades de series de tiempo.
+cambio climático.
+• Micro fitoplancton (diatomeas y dinoflagelados) analizado para los sectores en
+• Identificar los costos asociados a las acciones de adaptación.
+los cuales se disponga de a los menos 15 años de información continua.
+• Elaborar el perfil técnico de cada proyectos piloto.
+• Análisis integrado de información para establecer ocurrencia de eventos de
+• Ejecución de los proyectos pilotos según disponibilidad financiera.
+marea roja asociadas al cambio climático.
+• Mejorar la capacidad de adaptación de las comunidades pilotos.
+Posibles fuentes SUBPESCA
+Posibles fuentes Fondos internacionales
+de financiamiento
+de financiamiento
+Instituciones responsables SUBPESCA
+Instituciones responsables SUBPESCA, MMA
+Socios colaboradores IFOP, otros por definir Socios colaboradores Por definir
+64 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 65
+
+--- Página 33 ---
+Medidas del Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Ficha de acción N°20 Ficha de acción N°22
+Título de la medida Información sobre cambio climático en Pesca y Acuicultura. Título de la medida Inclusión de áreas acuáticas al Sistema Nacional de Áreas Protegidas del Estado.
+Objetivo específico 4
+Objetivo específico 3
+Objetivo de la medida Fortalecer el Sistema Nacional de Áreas Protegidas del Estado y la protección de
+los ecosistemas y especies acuáticas para reducir su vulnerabilidad frente a los
+Objetivo de la medida Difundir el conocimiento e información sobre las posibles amenazas del cambio efectos actuales y esperados del cambio climático.
+climático para generar mayor capacidad de adaptación de los diferentes sectores.
+Cobertura Nacional
+Cobertura Nacional
+Plazos 2016 en adelante
+Plazos 2016 en adelante Resultados • Acciones demostrativas implementadas en diferentes subsistemas de áreas pro-
+tegidas y eco regiones, incluyendo paisajes de conservación, zonas de amorti-
+Resultados • Desarrollo de actividades de información y difusión sobre el tema. guación y corredores ecológicos.
+• Crear un banner en la página web de SUBPESCA que permita acceder a • Guías Técnicas (o “caja de herramientas”) para la efectividad de manejo y la
+información sobre cambio climático. sostenibilidad financiera de las áreas protegidas y del Sistema Nacional de Áreas
+• Incorporar periódicamente información relevante sobre el tema. Protegidas del Estado, incluyendo criterios y prácticas para la adaptación al
+• Establecer link con otros sitios de interés en materia de cambio climático. cambio climático.
+• Capacitación del personal clave de los subsistemas del Sistema Nacional de
+Áreas Protegidas del Estado y de las áreas protegidas para un manejo costo-
+eficiente y la reducción de las amenazas a la Biodiversidad, incluyendo aquellas
+Posibles fuentes SUBPESCA
+provenientes del cambio climático.
+de financiamiento
+• Programa de fortalecimiento de capacidades para el Sistema Nacional de Áreas
+Protegidas del Estado y estrategia de implementación post Proyecto, incluyendo
+Instituciones responsables SUBPESCA
+la adaptación al cambio climático.
+Posibles fuentes GEF, Público sectorial, ONG, PNUD
+Socios colaboradores Por definir
+de financiamiento
+Instituciones responsables MMA
+Socios colaboradores CONAF, MBN, MOP, SSTUR, SERNATUR, SERNAPESCA, SUBPESCA, CMN,
+DIRECTEMAR, SSFFAA y ONG
+Ficha de acción N°21
+Título de la medida Sistema pronóstico de futuros desembarques bajo diferentes escenarios climáticos.
+Ficha de acción N°23
+Objetivo específico 3
+Título de la medida Adaptación normativa para respuestas inmediatas ante variabilidad climática y
+Objetivo de la medida Mejorar la capacidad predictiva de las pesquerías pelágicas frente al cambio eventos extremos.
+climático para la toma de decisiones en la estrategia pesquera.
+Objetivo específico 4
+Cobertura Nacional
+Objetivo de la medida Contar con medidas normativas y administrativas sectoriales que permitan dar
+Plazos 2016 en adelante respuestas rápidas frente a eventos ambientales catastróficos asociados al
+cambio climático.
+Resultados • Disponer de un sistema pronóstico, desarrollado en base de los modelos de la
+ficha 7, a través de una página web interactiva. Cobertura Nacional
+• Capacitación de usuarios del sistema de pronóstico.
+• Mejorar la toma de decisiones de la estrategia pesquera. Plazos 2016 en adelante
+Resultados • Incorporar el cambio climático en cuerpos normativos que rigen la pesca y la
+acuicultura.
+Posibles fuentes Sector público y privado
+de financiamiento Posibles fuentes SUBPESCA
+de financiamiento
+Instituciones responsables SUBPESCA
+Instituciones responsables SUBPESCA
+Socios colaboradores INPESCA, CEPES, IFOP
+Socios colaboradores SERNAPESCA, IFOP, MMA, Actores sectoriales relevantes (pesca, acuicultura)
+66 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 67
+
+--- Página 34 ---
+Medidas del Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Ficha de acción N°24 Ficha de acción N°26
+Título de la medida Grupo Técnico Asesor de Cambio Climático (GTA CC) para SUBPESCA Título de la medida Sistema de seguros para acuicultores de pequeña escala y pescadores
+artesanales ante eventos climáticos extremos.
+Objetivo específico 4
+Objetivo de la medida • Asesorar permanentemente a la Subsecretaría de Pesca y Acuicultura en temas Objetivo específico 5
+de manejo e investigación en Pesca y Acuicultura vinculada a la variabilidad y al
+cambio climático, en términos de evaluar riesgos e impactos potenciales. Objetivo de la medida Fortalecer la sustentabilidad económica de la pesca artesanal y acuicultura de
+pequeña escala ante daños a la producción por eventos extremos, plagas y
+Cobertura Nacional enfermedades y pérdidas materiales.
+Plazos 2016 en adelante Cobertura Nacional
+Resultados • Fortalecer el GTA CC Plazos 2016 en adelante
+• Revisión del Plan de Adaptación al Cambio Climático en Pesca y Acuicultura
+• Asesoramiento en materias de cambio climático solicitadas por la SUBPESCA, Resultados • Establecer e implementar un mecanismo de co-financiamiento estatal de seguros.
+traducido en recomendaciones escritas.
+Posibles fuentes FAP, Banca
+Posibles fuentes SUBPESCA
+de financiamiento
+de financiamiento
+Instituciones responsables SUBPESCA Instituciones responsables SUBPESCA
+Socios colaboradores MMA, Universidades, IFOP Socios colaboradores MDS, MINECON, MT
+Ficha de acción N°25
+Ficha de acción N°27
+Título de la medida Adaptación de la infraestructura portuaria de la pesca artesanal a los posibles
+Título de la medida Implementación de técnicas de recirculación de agua en acuicultura dulceacuícola.
+impactos del cambio climático.
+Objetivo específico 5 Objetivo específico 5
+Objetivo de la medida Adaptación de la infraestructura portuaria (muelles y bodegas) para cambios del Objetivo de la medida Reducir la vulnerabilidad de la acuicultura a la disponibilidad de agua dulce como
+nivel del mar y marejadas. consecuencia de la reducción de las precipitaciones debido al cambio climático.
+Cobertura Nacional Cobertura Regiones centro-sur
+Plazos 2016 en adelante Plazos 2016 en adelante
+Resultados • Informar a grupo de interés sobre técnicas de recirculación de agua.
+Resultados • Identificación de zonas expuestas y vulnerables a los eventos del cambio climático.
+• Contar con programa de inversión para el financiamiento de los sistemas
+• Identificación de medidas de adaptación y análisis de los costos respectivos.
+de recirculación.
+• Implementación de las medidas de adaptación.
+Posibles fuentes Por definir Posibles fuentes CORFO, FAP, sector privado
+de financiamiento de financiamiento
+Instituciones responsables MOP, DOP, DGTM Instituciones responsables SUBPESCA
+Socios colaboradores Pescadores, GORE
+Socios colaboradores Asociaciones de Acuicultores, Institutos y Universidades
+68 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 69
+
+--- Página 35 ---
+Medidas del Plan de Adaptación al Cambio Climático para Pesca y Acuicultura Subsecretaría de Pesca y Acuicultura
+Ficha de acción N°28
+Título de la medida Fomento del consumo humano directo de la anchoveta y sardina.
+Objetivo específico 5
+Objetivo de la medida Aumentar el consumo humano directo de la anchoveta y sardina, para mejorar los
+beneficios socio-económicos y la sustentabilidad de los recursos.
+Cobertura Nacional
+Plazos 2016 en adelante
+Resultados • Desarrollar campañas publicitarias para aumentar el consumo interno de sardina
+y anchoveta.
+• Implementar tecnologías y estrategias de marketing para el incentivar el consumo
+de sardina y anchoveta.
+• Desarrollar productos en base a anchoveta y sardina para consumo humano.
+Posibles fuentes MINECON
+de financiamiento
+Instituciones responsables MINECON
+Socios colaboradores MINSAL, MMA, INDUSTRIA PESQUERA
+Ficha de acción N°29
+Título de la medida Promover el consumo y valor agregado en los recursos de la pesca artesanal.
+Objetivo específico 5
+Objetivo de la medida Mejorar la sustentabilidad de los recursos, disminuyendo la presión extractiva sobre
+ellos a través del mejoramiento de los beneficios económicos de las capturas.
+Cobertura Nacional
+Plazos 2016 en adelante
+• Desarrollo de campañas publicitarias para aumentar el consumo de pescados y
+Resultados mariscos.
+• Desarrollo de proyectos productivos para diversificar la oferta de productos
+derivados de pescados y mariscos.
+• Desarrollo de estrategias para mejorar accesibilidad económica y física a los
+recursos y sus derivados.
+• Desarrollar estrategias para mejorar la conservación y presentación de los
+recursos ofrecidos al público en las caletas.
+Posibles fuentes MINECON, CORFO, GORE, FAP, FNDR, FOPA
+de financiamiento
+Instituciones responsables MINECON
+Socios colaboradores MINSAL, MMA, SECTOR PESCA ARTESANAL
+70 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 71
+
+--- Página 36 ---
+Subsecretaría de Pesca y Acuicultura
+6. Bibliografía
+Brander K. 2010. Climate change and fisheries management. In: Q. Grafton, R. Hilborn,
+D. Squires, M. Tait & M. Williams (eds.). Handbook of Marine Fisheries Conservation and IPCC. 2007. Cambio climático 2007: Informe de síntesis. Contribución de los Grupos
+Management. Oxford University Press, New York, 123-126. de trabajo I, II y III al Cuarto Informe de evaluación del Grupo Intergubernamental de
+Expertos sobre el Cambio Climático [Equipo de redacción principal: Pachauri, R.K. y
+Brochier T., Echevin V., Tam J., Chaigneau A., Goubanova K. & A. Bertrand. 2013. Cli- Reisinger, A. (directores de la publicación)]. IPCC, Ginebra, Suiza, 104 págs.
+mate change scenarios experiments predict a future reduction in small pelagic fish re-
+cruitment in the Humboldt Current system. Global Change Biology 19, 1841-1853. IPCC. 2014. Summary for policymakers. In: Climate Change 2014: Impacts, Adaptation,
+and Vulnerability. Part A: Global and Sectorial Aspects. Contribution of Working Group II
+Cubillos L., Alarcón C., Norambuena R., Quiñones R. & E. Gonzalez. 2013. Desarrollo to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Field,
+de un enfoque regional y propuestas de proyectos pilotos de adaptación al cambio cli- C.B., V.R. Barros, D.J. Dokken, K.J. Mach, M.D. Mastrandrea, T.E. Bilir, M. Chatterjee,
+mático del sector pesca y acuicultura. Subsecretaría de Pesca y Acuicultura, Programa K.L. Ebi, Y.O. Estrada, R.C. Genova B., Girma E.S., Kissel A.N., Levy S., MacCracken
+COPAS Sur-Austral, 206 pp + anexos. P.R., Mastrandrea & L.L. White (eds.). Cambridge University Press, Cambridge, United
+Kingdom and New York, NY, USA, pp. 1-32.
+Duarte C., Navarro J.M., Acuña K., Torres R., Manríquez P.H., Lardies M.A., Vargas C.A.,
+Lagos N.A. & V. Aguilera. 2013. Combined effects of temperature and ocean acidifica- Lardies M.A., Arias M.B., Poupin M.J., Manríquez P.H., Torres R., Vargas C.A.,
+tion on the juvenile individuals of the mussel Mytilus chilensis . Journal of Sea Research, Navarro J.M. & N.A. Lagos. 2014. Differential response to ocean acidification
+85: 308–314 S0025315413000891. in physiological traits of Concholepas concholepas populations. Journal of Sea
+Research 90: 127–134.
+Duarte C., Navarro J.M., Acuña K., Torres R., Manríquez P.H., Vargas C.A., Lardies M.A.,
+Lagos N.A.& V. Aguilera. 2014. Intraspecific variability in the response of the edible mus- Manriquez, P.H., Jara M. E., Mardones L., Navarro J.M., Torres R., Lardies M.A., Vargas
+sel Mytilus chilensis (Hupe) to Ocean Acidification. Estuaries and Coast, DOI 10.1007/ C.R., Duarte C. & N.A. Lagos. 2014. Ocean acidification affects predator avoidance
+s12237-014-9845-y. behavior but not prey detection in the early ontogeny of a keystone species. Marine
+Ecology Progress Series 502: 157–167.
+FAO. 2012. Consecuencias del Cambio Climático para Pesca y la Acuicultura; Visión de
+conjunto del estado actual de los conocimientos científicos; FAO, DOCUMENTO TÉC- Manriquez P.H., Jara M. E.,Mardones L., Navarro J. M., Torres R., Lardies M. A., Vargas
+NICO DE PESCA Y ACUICULTURA 530; Roma. C.R., Duarte C., Widdicombe S., Salisbury J. & N.A. Lagos. 2013. Ocean acidifica-
+tion affects prey-predator interactions but not net prey shell growth. PLOS ONE 8(7):
+Falvey M. & R.D. Garreaud. 2009. Regional cooling in a warming world: Recent tempera- e68643. doi:10.1371/journal.pone.0068643
+ture trends in the southeast Pacific and along the west coast of subtropical South Ame-
+rica (1979–2006). J. Geophys. Res., 114 (D04102), 1–5. doi:10.1029/2008JD010519. Mayol E., Ruiz-Halpern S., Duarte C. M., Castilla J. C. & J. L. Pelegrí. 2012. Coupled
+CO and O -driven compromises to marine life in summer along the Chilean sector of the
+2 2
+Feely R.A., Sabine C.L., Hernandez-Ayon J.M., Ianson D. and B. Hales. 2008. Evi- Humboldt Current System. Biogeosciences 9: 1183-1194.
+dence for upwelling of corrosive “acidified” water onto the continental shelf. Science,
+320:1490–92. Navarro J., Duarte C., Manriquez P.H., Torres R., Vargas C., Lardies M. & N.A. La-
+gos. 2013. Long-term exposure to high pCO2 levels. Its effects on the physiologi-
+Fuenzalida, H., Aceituno P., Falvey M., Garreaud R., Rojas M. & R. Sánchez. 2007. cal energetics and aquaculture of the juvenile mussel Mytilus chilensis. Chemosphere
+Study on climate variability for Chile during the 21st century. In: Technical Report of the 90:242–1248.
+National Environmental Committee, Santiago, Chile.
+Orr J. et al. 2005. Anthropogenic ocean acidification over the twenty-first century and its
+Garreaud R. & M. Falvey. 2009. The coastal winds off western subtropical South Ameri- impact on calcifying organisms. Nature 437:681–686.
+ca in future climate scenarios. Int. J.Climatol., 29, 543–554. doi:10.1002/joc.1716.
+Perry R.I., Cury P., Brander K., Jennings S., Möllmann C. & B. Planque. 2010. Sensitivity
+Hidalgo M., Rouyer T., Molinero J.C., Massuti E., Moranta J., Guijarro B. & N. Chr.Sten- of marine systems to climate and fishing: Concepts, issues and management respon-
+seth. 2011. Synergistic effects of fishing-induced demographic changes and climate ses. Journal of Marine Systems, 79, 427-435.
+variation on fish population dynamics. Mar. Ecol. Progr.Ser. 426, 1-12.
+72 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 73
+
+--- Página 37 ---
+Bibliografía Subsecretaría de Pesca y Acuicultura
+Quiñones, R.A. & R.M.Montes. 2001. Relationship between freshwater input to the coas- Yáñez E. 1998. Fluctuations des principaux stocks de poissons pélagiques exploités au
+tal zone and the historical landings of the benthic/demersal fish Eleginops maclovinus in Chili et leurs relations avec les variations de l'environnement. Thèse Doctorat en Océa-
+central-south Chile. Fisheries Oceanography 10, 311-328. nologie Biologique, Université de Bretagne Occidentale, Brest, France, 303 pp.
+Ramajo L., Baltanás A., Torres R., Manríquez P.H., Rodriguez-Navarro A. & N.A. Lagos. Yáñez E., Plaza F., Gutiérrez-Estrada J.C., Rodríguez N., Barbieri M.A., Pulido-Calvo I. &
+2013. Geographic variation in shell morphology of juvenile snails (Concholepas concho- C. Bórquez. 2010. Anchovy (Engraulis ringens) and sardine (Sardinops sagax) abundant
+lepas) across the physical-chemical gradient of the Chilean coast. Journal of Marine forecast off Northern Chile: A multivariate ecosystemic neural networks approach. Pro-
+Biology Association UK,.doi:10.1017/S0025315413000891. gress in Oceanography. In review.
+Sabine, C.L., Feely R.A., Gruber N., Key R.M., Lee K., Bullister J.L., Wanninkhof R., Yáñez E., Barbieri M.A., Plaza F. & C. Silva. 2014. Climate Change and Fisheries in Chile.
+Wong C.S., Wallace D.W.R., Tilbrook B., Millero F.J., Peng T.H., Kozyr A., Ono T. & A.F. In: Mohamed Behnassi, Margaret Syomiti Muteng'e, Gopichandran Ramachandran &
+Rios. 2004. The oceanic sink for 3 anthropogenic CO . Science, 305, 367–371. Kirit N. Shelat (Editors). Vulnerability of Agriculture, Water and Fisheries to Climate Chan-
+2
+ge: Toward Sustainable Adaptation Strategies, Springer, Chapter 16, 259-270.
+SERNAPESCA. 2003. Anuario Estadístico de Pesca 2002. Servicio Nacional de Pesca.
+Ministerio de Economía, Fomento y Reconstrucción. 151 pp.
+SERNAPESCA. 2014. Anuario Estadístico de Pesca 2013. Servicio Nacional de Pesca.
+Ministerio de Economía, Fomento y Reconstrucción (www.sernapesca.cl).
+Silva C., Yáñez E., Bernal C. & M.A. Barbieri. 2014. Pronóstico de la pesquería de
+pez espada (Xiphias gladius) frente a Chile bajo escenarios del cambio climático. En
+preparación.
+Stramma l., Schmidtko S., Levin L.A. & G.C. Johnson. 2010. Ocean oxygen minima
+expansions and their biological impacts. Deep-Sea Research I 57, 587-595.
+Torres R., Pantoja S., Harada N., González H.E., Daneri G., Frangopulos M., Rutllant
+J.H., Duarte C.M., Ruiz-Halpern S., Mayol E., & M. Fukasawa. 2011. Air-sea CO fluxes
+2
+along the coast of Chile: From CO outgassing in central northern upwelling waters to
+2
+CO uptake in southern Patagonian fjords. Journal of Geophysical Research, vol. 116,
+2
+1-17. doi:10.1029/2010JC006344.
+Trenberth, K.E., Jones P.D., Ambenje P., Bojariu R., Easterling D., Klein Tank A., Parker
+D., Rahimzadeh F., Renwick J.A., Rusticucci M., Soden B. & P. Zhai. 2007. Observa-
+tions: Surface and Atmospheric Climate Change. In: Climate Change 2007: The Physical
+Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the
+Intergovernmental Panel on Climate Change [Solomon, S.,D. Qin, M. Manning, Z. Chen,
+M. Marquis, K.B. Averyt, M. Tignor and H.L. Miller (eds.)]. Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.
+Vargas C.A., De La Hoz M., Aguilera V., San Martin V., Lagos N.A., Manríquez P.H.,
+Navarro J.M., Torres-Saavedra R. & M.A.Lardies. 2013. CO2-driven ocean acidification
+may radically impact feeding behavior of larval invertebrates: The case of the gastropod
+Concholepas concholepas. Aquatic Biology 35(5): 1059–1068.
+74 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 75
+
+--- Página 38 ---
+Acrónimos Subsecretaría de Pesca y Acuicultura
+7. Acrónimos
+CCMLAR Conservación de los Recursos Vivos Marinos Antárticos SERNAPESCA Servicio Nacional de Pesca y Acuicultura
+CDB Convenio sobre la Diversidad Biológica SERNATUR Servicio Nacional de Turismo
+CMN Consejo de Monumentos Nacionales SHOA Servicio Hidrográfico y Oceanográfico de la Armada
+CMNUCC Convención Marco de las Naciones Unidas sobre el Cambio Climático SSFFAA Subsecretaría para las Fuerzas Armadas
+COCEI Comité Operativo para el Control de las Especies Exóticas Invasoras SSTUR Subsecretaría de Turismo
+CONA Comité Oceanográfico Nacional SUBPESCA Subsecretaría de Pesca y Acuicultura
+CONAF Corporación Nacional Forestal TSM Temperatura Superficial del Mar
+CONICY Comisión Nacional de Investigación Científica y Tecnológica
+CORFO Corporación de Fomento de la Producción
+CTCN Climate Change Technology Mechanism
+DIRECTEMAR Dirección General del Territorio Marítimo y de Marina Mercante
+EEP Enfoque Ecosistémico de la Pesca
+EEA Enfoque Ecosistémico de la Acuicultura
+ENOS El Niño-Oscilación del Sur
+FAO Organización de Naciones Unidas para la Alimentación y la Agricultura
+FAP Fondo de Administración Pesquera
+FIP Fondo de Investigación Pesquera
+FNDR Fondo Nacional de Desarrollo Regional
+FONDECYT Fondo Nacional de Desarrollo Científico y Tecnológico
+FOPA Fondo Fomento para la Pesca Artesanal
+GEMCH Gran Ecosistema Marino de la Corriente de Humboldt
+GORE Gobierno Regional
+IFOP Instituto de Fomento Pesquero
+IPCC Panel Intergubernamental de Cambio Climático
+INACH Instituto Antárctico Chileno
+INPESCA Instituto de Investigaciones Pesqueras
+LGPA Ley General de Pesca y Acuicultura
+MBN Ministerio de Bienes Nacionales
+MDN Ministerio de Defensa Nacional
+MDS Ministerio de Desarrollo Social
+MINECON Ministerio de Economía, Fomento y Turismo
+MINSAL Ministerio de Salud
+MMA Ministerio del Medio Ambiente
+MOP Ministerio de Obras Públicas
+MT Ministerio del Trabajo
+NMM Nivel Medio del Mar
+OCDE Cooperación y el Desarrollo Económico
+ONG Organización No Gubernamental
+PACCPA Plan de Adaptación al Cambio Climático para el sector Pesca y Acuicultura
+PANCC Plan de Acción Nacional de Cambio Climático
+PECM Planificación Espacial Costera y Marina
+PNACC Plan Nacional de Adaptación al Cambio Climático
+ROA Registro de Organizaciones Artesanales
+RPA Registro Pesquero Artesanal
+SAG Servicio Agrícola Ganadero
+76 Plan de Adaptación al C ambio C limático p ara Pesca y Acuicultura - Ministerio del Medio Ambiente 77
+
+--- Página 39 ---
+PLAN DE ADAPTACIÓN AL CAMBIO CLIMÁTICO
+PARA PESCA Y ACUICULTURA
+Gobierno
+de Chile
+Ministerio de Economía, Fomento y Turismo
+Subsecretaría de Pesca y Acuicultura
+Ministerio del Medio Ambiente
+2015
