@@ -1,0 +1,443 @@
+--- Página 1 ---
+Decreto 5, VIVIENDA (2022)
+Decreto 5
+REGLAMENTO PARA LA CALIFICACIÓN ENERGÉTICA DE VIVIENDAS EN CHILE
+MINISTERIO DE VIVIENDA Y URBANISMO
+Publicación: 05-OCT-2024 | Promulgación: 13-ENE-2022
+Versión: Única De : 05-OCT-2024
+Url Corta: https://bcn.cl/OnYkp2
+REGLAMENTO PARA LA CALIFICACIÓN ENERGÉTICA DE VIVIENDAS EN CHILE
+Núm. 5.- Santiago, 13 de enero de 2022.
+Visto:
+Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la
+República de Chile; en la Ley General de Urbanismo y Construcciones; en la Ley Nº
+16.391, que crea el Ministerio de la Vivienda y Urbanismo; en el decreto ley Nº
+2.224 de 1978, que crea el Ministerio de Energía y la Comisión Nacional de
+Energía; en la ley Nº 21.305 sobre Eficiencia Energética; en la resolución Nº 7
+de 2019, de la Contraloría General de la República; que fija normas sobre exención
+del trámite de toma de razón, y,
+Considerando:
+1. Que, la eficiencia energética tiene importantes beneficios, entre los que se
+cuentan la reducción del gasto energético de las familias, la disminución de
+contaminantes globales y locales, la reducción de la dependencia energética de los
+mercados internacionales, menores costos de producción aumentando la productividad,
+y el aumento de la seguridad energética del país, entre otros. En general, la
+eficiencia energética es clave para un desarrollo sostenible, considerando aspectos
+sociales, medioambientales y económicos.
+2. Que, el 13 de febrero de 2021, se publicó en el Diario Oficial la ley Nº
+21.305, sobre Eficiencia Energética, la que tiene por objeto promover el uso
+racional y eficiente de los recursos energéticos, fomentando mejoras en la
+productividad y competitividad, mejorando la calidad de vida, y contribuyendo con el
+desarrollo sostenible del país. Para el logro de este objetivo, la ley pretende, a
+través de instrumentos económicos y regulatorios, acelerar el cambio cultural en
+torno al buen uso de los recursos energéticos, alineando de esta forma los intereses
+de la política pública con los intereses privados, de manera que estos últimos
+puedan tomar mejores decisiones, que generen tanto beneficios privados como
+externalidades positivas a la sociedad, derivadas del buen uso de los recursos
+energéticos.
+3. Que, en el contexto indicado, la ley contiene importantes elementos para el
+desarrollo de la eficiencia energética en Chile, entre los cuales se cuenta el
+etiquetado energético de edificaciones, que permite incorporar la variable de
+eficiencia energética en la decisión de compra de los consumidores, aspecto que hoy
+en día no es conocido por éstos y que, además, incentiva a que las empresas
+busquen mejorar su reputación, vendiendo viviendas más eficientes.
+4. Que, en consideración a lo expuesto, el artículo tercero transitorio de la
+ley establece que los proyectos nuevos, esto es, aquellos proyectos cuya solicitud de
+permiso de edificación o de anteproyecto sea ingresada con posterioridad a su
+entrada en vigencia, como asimismo de los Reglamentos indicados en el artículo 3º,
+así como también aquellos proyectos que al momento de la entrada en vigencia de la
+ley cuenten con un permiso de edificación aprobado y sean objeto de modificaciones
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 1 de 9
+
+--- Página 2 ---
+Decreto 5, VIVIENDA (2022)
+de destino que los hagan calzar con alguna de las circunstancias previstas en el
+artículo 3º de dicho cuerpo legal, deberán obtener la Calificación Energética
+del Ministerio de Vivienda y Urbanismo.
+5. Que, para el logro de los objetivos señalados, el artículo 3º de la ley
+Nº 21.305 establece los casos en que la calificación energética será obligatoria
+para la obtención de la recepción definitiva de obras, respecto de proyectos
+desarrollados por empresas constructoras e inmobiliarias y por los Servicios de
+Vivienda y Urbanización. También el citado artículo dispone que el procedimiento,
+exigencias y condiciones del otorgamiento de la calificación y precalificación
+energética y su publicidad se regularán en Reglamentos expedidos a través del
+Ministerio de Vivienda y Urbanismo, y suscritos por el Ministro de Energía.
+6. Que, de conformidad con lo dispuesto en la resolución exenta Nº 3.288 (V. y
+U.) de 2015 que establece la Norma de Participación Ciudadana del Ministerio de
+Vivienda y Urbanismo y sus Secretarías Regionales Ministeriales, y considerando que
+el Reglamento propuesto requería intervención y conocimiento por parte de la
+ciudadanía, se sometió a una consulta entre los días 24 de mayo y 22 de junio del
+año 2021, tendiendo con las observaciones y contribuciones planteadas a su
+perfeccionamiento. Este proceso puede ser revisado en el siguiente link:
+https://participacionciudadana.minvu.gob.cl/consultas-ciudadanas-virtuales/consulta-p%C3%B
+7. Que, el inciso primero del artículo cuarto transitorio de la ley mandata que
+"El Reglamento a que se refiere el artículo 3º, con respecto al procedimiento,
+exigencias y condiciones del otorgamiento de la calificación y precalificación
+energética y su publicidad respecto de viviendas, será dictado en el plazo de doce
+meses, contado desde la publicación de esta ley.", razón por la cual se procede a
+dictar el siguiente,
+Decreto:
+Apruébase el siguiente Reglamento para la Calificación Energética de
+Viviendas:
+TÍTULO I
+DISPOSICIONES GENERALES
+Artículo 1º.- El presente Reglamento tiene por objeto regular el
+procedimiento, exigencias y condiciones del otorgamiento de la calificación
+energética de las viviendas y su publicidad.
+La calificación energética tiene por finalidad informar sobre la eficiencia
+energética de las viviendas, mediante el otorgamiento de una etiqueta de eficiencia
+energética y un informe de precalificación o calificación energética, según
+corresponda, para cada vivienda de forma independiente.
+Artículo 2º.- La calificación energética de las viviendas se regirá por las
+disposiciones contenidas en la ley Nº 21.305, el presente Reglamento, el Reglamento
+del Registro Nacional de Evaluadores Energéticos, así como también por aquellas
+resoluciones que dicte el Ministerio de Vivienda y Urbanismo, en adelante "MINVU", en
+ejercicio de sus atribuciones, que resulten necesarias para la debida aplicación del
+presente Reglamento.
+Artículo 3º.- Para efectos de la aplicación del presente Reglamento se
+establecen las siguientes definiciones:
+Calificación energética de vivienda (CEV): Procedimiento que busca la entrega
+de información objetiva y estandarizada acerca de la eficiencia energética de una
+vivienda construida, que comienza con la evaluación energética de la misma y
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 2 de 9
+
+--- Página 3 ---
+Decreto 5, VIVIENDA (2022)
+culmina con la entrega de un informe de calificación energética y una etiqueta de
+eficiencia energética.
+La CEV tendrá validez por un período de diez años o hasta que la vivienda sea
+objeto de modificaciones que afecten su desempeño energético, asociado al confort
+térmico. Dichas modificaciones no consideran a las que ocurran en el entorno de la
+vivienda.
+Eficiencia energética de una vivienda: Capacidad de lograr confort dentro de la
+vivienda, con una menor cantidad de energía requerida el cual está referido a
+confort térmico.
+Entidad Administradora: La Entidad Administradora es la encargada de supervisar
+e instruir las acciones para el correcto funcionamiento del sistema de Calificación
+Energética de Viviendas, teniendo a su cargo el control de sus procedimientos,
+exigencias y condiciones, cuya función será ejercida directamente por el MINVU.
+Etiqueta de eficiencia energética: Instrumento que grafica el nivel de
+eficiencia energética obtenida por la vivienda a través del proceso de
+calificación o precalificación energética.
+Evaluación energética de una vivienda: Procedimiento destinado a determinar el
+nivel de eficiencia energética de una vivienda, de acuerdo a su requerimiento de
+energía, con la finalidad de obtener la calificación o precalificación
+energética.
+Evaluador Energético: Persona natural o jurídica habilitada para realizar
+Evaluaciones Energéticas de acuerdo con el presente Reglamento, y que no integra la
+dotación del MINVU, las Secretarías Regionales Ministeriales de Vivienda y
+Urbanismo, o los Servicios de Vivienda y Urbanización, en adelante "SEREMI" y
+"SERVIU", respectivamente.
+Evaluador Energético Interno: Personas naturales que integren la dotación del
+MINVU, SEREMI o SERVIU en cualquier calidad jurídica, habilitadas para evaluar
+energéticamente viviendas sociales que dichas entidades le soliciten, de acuerdo al
+Reglamento de la CEV.
+Fiscalizador: Evaluador Energético Interno, designado para controlar y realizar
+auditorías a las Evaluaciones Energéticas realizadas por otros Evaluadores
+Energéticos, conducentes a su calificación o precalificación, que permitan
+comprobar la veracidad y exactitud de la información ingresada y la calificación
+entregada, informando de los resultados de ésta a la Entidad Administradora.
+Informe de calificación energética: Documento que indica la calificación
+obtenida por la vivienda, entregando información principalmente acerca de su
+desempeño energético como resultado del proceso de calificación energética.
+Informe de precalificación energética: Instrumento que indica la calificación
+energética obtenida por el proyecto de arquitectura y entrega información
+principalmente acerca de su desempeño energético, como resultado del proceso de
+precalificación energética.
+Mandante: Persona natural o jurídica que, en su calidad de propietario de la
+vivienda o proyecto de vivienda, requiere al Evaluador Energético su calificación o
+precalificación energética.
+Manual técnico para la calificación energética de viviendas en Chile:
+Documento que establece la metodología técnica de evaluación, de cálculo y de los
+datos necesarios para realizar una precalificación o calificación energética.
+Plataforma digital de la calificación energética o herramienta web: Sistema
+informático, cuya función es permitir la realización de la evaluación energética
+por el Evaluador Energético, con la finalidad de obtener la respectiva Etiqueta de
+Eficiencia Energética e Informe de Calificación o Precalificación Energética,
+como asimismo, permite la realización de las funciones de fiscalización y
+administración del Sistema de Calificación Energética de Viviendas.
+Precalificación energética de vivienda: Procedimiento que busca la entrega de
+información objetiva y estandarizada acerca de la eficiencia energética de una
+vivienda, que se inicia con la evaluación energética del proyecto de arquitectura,
+y que culmina con la entrega de un informe de precalificación energética y una
+etiqueta de eficiencia energética, la que tendrá validez conforme a lo establecido
+en el artículo 5º de este Reglamento.
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 3 de 9
+
+--- Página 4 ---
+Decreto 5, VIVIENDA (2022)
+Proyecto: Se estará a lo dispuesto en el artículo 1.1.2. del decreto supremo
+Nº 47 de 1992, del Ministerio de Vivienda y Urbanismo, que fija nuevo texto de la
+Ordenanza General de la Ley General de Urbanismo y Construcciones.
+Sistema de calificación energética: Conjunto de procedimientos, herramientas y
+marco normativo necesarios para el apropiado funcionamiento y aplicación de la
+Calificación Energética de Viviendas (CEV) y su correcto uso.
+Artículo 4º.- Los proyectos de edificación destinados a vivienda, presentados
+por empresas constructoras o inmobiliarias que las comercializan, y por los SERVIU,
+deberán contar con una Calificación Energética de Vivienda para obtener la
+recepción definitiva de obras por parte de la Dirección de Obras Municipales
+respectiva. Para tales efectos, el Director de Obras Municipales dejará constancia
+en el correspondiente permiso de edificación que deberán cumplir con dicha
+obligación.
+No obstante lo anterior, el Mandante, podrá solicitar la Precalificación o
+Calificación Energética de Vivienda, aun cuando no le sea exigible, en cuyo caso
+también deberá someterse a los procedimientos, exigencias y condiciones
+establecidas para su otorgamiento en el presente Reglamento. Sin embargo, en estos
+casos la CEV no será exigible para la obtención de la recepción definitiva de
+obras, por parte de la Dirección de Obras Municipales respectiva.
+Los Evaluadores Energéticos y los Evaluadores Energéticos Internos deberán
+realizar la calificación energética de una vivienda una vez que haya sido ingresado
+el Proyecto en la Plataforma digital de la calificación energética o Herramienta
+web, dentro del plazo de 3 años, el cual podrá ser prorrogado por el mismo plazo
+por una sola vez, mediante solicitud a la Entidad Administradora. Por su parte, la
+Precalificación Energética de una vivienda deberá realizarse dentro de los 3 años
+desde el ingreso del proyecto en la Plataforma digital de la calificación
+energética o herramienta web, el cual también podrá ser prorrogado por 3 años
+más, y hasta la fecha de inicio de la Calificación Energética.
+Artículo 5º.- En los casos de proyectos sujetos a la obligatoriedad de contar
+con una calificación energética, que realicen una precalificación energética,
+ésta tendrá carácter transitorio y gozará de validez hasta la emisión de la
+calificación energética; en tanto que en aquellos proyectos que realizan la
+evaluación de manera voluntaria, la precalificación tendrá validez hasta la
+obtención de la recepción definitiva de obras.
+La precalificación podrá requerirse con anterioridad a la solicitud del
+permiso de edificación, en cuyo caso se entregará una etiqueta provisoria, la que
+tendrá validez hasta la obtención del permiso de edificación, luego de lo cual se
+deberá obtener la precalificación de conformidad a lo señalado en el inciso
+anterior.
+Artículo 6º.- Los proyectos nuevos de vivienda construidos por los SERVIU, de
+forma directa o a través de terceros, conforme lo establece la Ley Nº 21.305,
+deberán contar con una precalificación y calificación energética, quedando
+establecido en los respectivos Reglamentos de subsidios habitacionales otorgados por
+el Ministerio de Vivienda y Urbanismo el plazo de entrada en vigencia, su alcance y
+forma de aplicación.
+TÍTULO II
+ACTORES DEL SISTEMA DE CALIFICACIÓN ENERGÉTICA DE VIVIENDAS
+Artículo 7º.- La Entidad Administradora tendrá las siguientes funciones:
+1. Administrar, actualizar y mantener la Plataforma digital de la calificación
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 4 de 9
+
+--- Página 5 ---
+Decreto 5, VIVIENDA (2022)
+energética o Herramienta web.
+2. Mantener actualizados y a disposición de los usuarios todos aquellos
+documentos que regulan la aplicación de la CEV.
+3. Determinar los contenidos del examen que deberán rendir los postulantes a
+Evaluadores Energéticos, para su aprobación y aplicación.
+4. Acreditar a los Evaluadores Energéticos y a los Fiscalizadores de la CEV,
+mediante el correspondiente acto administrativo.
+5. Mantener un registro o base de datos de las calificaciones y
+precalificaciones energéticas que se hayan realizado mediante la CEV.
+6. Publicar la etiqueta de eficiencia energética obtenida por los proyectos que
+han sido objeto de una CEV.
+7. Emitir y publicar en el sitio web que el MINVU disponga para estos efectos,
+un informe semestral con las estadísticas que se generen de la aplicación de la
+CEV.
+8. Planificar y disponer la realización de revisiones y/o fiscalizaciones de
+los procedimientos, exigencias y condiciones de la CEV, efectuando las respectivas
+coordinaciones con los SERVIU y las SEREMI.
+9. Publicar los resultados de las fiscalizaciones y las sanciones aplicadas a
+los Evaluadores Energéticos, y comunicarlas al Registro Nacional de Evaluadores
+Energéticos para los fines que procedan.
+10. Realizar todas las acciones que se consideren necesarias para el buen
+funcionamiento y administración de la CEV.
+Artículo 8º.- Las responsabilidades del Mandante serán las siguientes:
+1. Contratar los servicios de un Evaluador Energético que se encuentre
+habilitado para actuar como tal en el Registro Nacional de Evaluadores Energético.
+2. Entregar la información y los antecedentes técnicos necesarios para evaluar
+una vivienda o proyecto de vivienda, para la obtención de su precalificación y/o
+calificación energética. Para estos efectos deberán presentar una solicitud de
+evaluación energética y formular una declaración jurada simple de veracidad de la
+información proporcionada, tomando conocimiento de las responsabilidades que asume
+como Mandante.
+Artículo 9º.- Las funciones, obligaciones y responsabilidades del Evaluador
+Energético respecto de la calificación energética de viviendas, serán las
+siguientes:
+a) Realizar los cálculos del proceso de evaluación, ajustado a las
+instrucciones establecidas por la Entidad Administradora.
+b) Adjuntar los documentos correspondientes a la vivienda evaluada, exigidos por
+el Sistema CEV.
+c) Guardar en formato físico o digital, todos los cálculos y documentos de
+respaldo de la precalificación y de la calificación, por un período igual a la
+validez de la calificación.
+Durante este período deben estar disponibles para ser entregados a la Entidad
+Administradora, en cualquier momento que ésta lo requiera.
+d) Realizar evaluaciones para cada vivienda de forma independiente, es decir,
+cada departamento de un edificio o unidad de vivienda sea o no parte de un condominio
+o conjunto habitacional; se debe contar con una evaluación que recoja las
+singularidades de su emplazamiento y materiales constructivos, no siendo transferible
+u homologable a otras viviendas de características similares, aun cuando pertenezcan
+a un mismo proyecto o conjunto habitacional.
+e) Incorporar, según corresponda en cada evaluación, los cambios acontecidos
+en cada etapa del proyecto (anteproyecto, proyecto y edificación).
+f) Verificar en terreno que todos aquellos aspectos considerados en su
+evaluación correspondan con lo efectivamente construido. Esta responsabilidad no
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 5 de 9
+
+--- Página 6 ---
+Decreto 5, VIVIENDA (2022)
+aplica a las precalificaciones.
+Artículo 10º.- El Fiscalizador tendrá las siguientes obligaciones:
+a) Dar cumplimiento al protocolo de fiscalización que se establezca por la
+Entidad Administradora.
+b) Como parte del proceso de fiscalización, informar a la Entidad
+Administradora todas las infracciones detectadas en una evaluación.
+c) Informar a la Entidad Administradora de la existencia de posibles conflictos
+de interés respecto de fiscalizaciones asignadas, sin perjuicio de dar cumplimiento
+a las normas generales sobre probidad administrativa.
+d) Utilizar los mecanismos y/o plataformas definidas por la Entidad
+Administradora para realizar y respaldar las fiscalizaciones realizadas.
+TÍTULO III
+DEL PROCEDIMIENTO PARA LA PRECALIFICACIÓN Y CALIFICACIÓN ENERGÉTICA DE
+VIVIENDAS (CEV)
+Artículo 11º.- El procedimiento para la precalificación y calificación
+energética, deberá realizarse de acuerdo con lo establecido en el presente
+Reglamento, y a la metodología técnica descrita en las resoluciones a las que se
+refiere el inciso 2º del Artículo 2º del presente Reglamento.
+Artículo 12º.- Los documentos que se obtienen a partir del proceso de
+evaluación energética de una vivienda, para obtener la calificación o
+precalificación de la misma, corresponderán a la Etiqueta de Eficiencia Energética
+y el Informe de Calificación o Precalificación Energética, definidos en el
+artículo 3º de este Reglamento.
+Estos documentos podrán ser descargados de la Plataforma Digital o Herramienta
+Web solo por el Evaluador Energético que realizó la evaluación energética, por el
+Fiscalizador que haya sido asignado al proyecto en cuestión y por la Entidad
+Administradora.
+La Etiqueta de Eficiencia Energética y el Informe de Calificación y
+Precalificación Energética deberán contener la información exigida en el presente
+Reglamento y las que se definan en los documentos técnicos dictados al efecto por el
+MINVU.
+Artículo 13º.- El procedimiento para efectuar la CEV, se realizará conforme a
+las siguientes etapas:
+1. El Mandante deberá solicitar la calificación o precalificación energética
+a un Evaluador Energético inscrito en el Registro Nacional de Evaluadores
+Energéticos, debiendo acompañar, la información y documentos que se exijan en las
+resoluciones del Ministro de Vivienda y Urbanismo que se dicten al efecto.
+2. El Evaluador Energético deberá revisar la información entregada por el
+mandante y, tratándose de una calificación energética, deberá asimismo realizar
+una inspección presencial de la vivienda para comprobar la veracidad de la
+información entregada por el Mandante, levantando Acta de esta visita.
+3. En caso de disconformidad entre la información entregada por el mandante y
+lo observado en la inspección presencial, que implique un diferencial en el pago de
+derechos municipales, se deberá presentar una solicitud de modificación del Permiso
+de Edificación.
+4. Iniciado el proceso de evaluación para la calificación o precalificación
+energética de las viviendas o unidades que componen el proyecto, el Evaluador
+Energético deberá ingresar la información y documentos respectivos en la
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 6 de 9
+
+--- Página 7 ---
+Decreto 5, VIVIENDA (2022)
+Plataforma digital de la calificación energética o Herramienta web.
+5. Una vez que el Evaluador Energético concluye el proceso de evaluación
+energética de la vivienda, quedará disponible la Etiqueta de eficiencia energética
+y el Informe de calificación o precalificación respectivo, desde la Plataforma
+digital de la calificación energética o Herramienta web.
+6. El Evaluador Energético entregará al Mandante todos los documentos que
+resulten del proceso de CEV, de acuerdo a lo establecido en las resoluciones del
+Ministro de Vivienda y Urbanismo que se dicten al efecto.
+7. El Mandante deberá proporcionar la Etiqueta de eficiencia energética y el
+Informe de calificación o precalificación energética a todo comprador o promitente
+comprador de la o las viviendas del proyecto. En los casos en que la calificación
+energética obtenida por el proyecto sea inferior a la obtenida en la
+precalificación, se deberá informar de esta diferencia al comprador o promitente
+comprador.
+8. En la solicitud de Recepción Definitiva de Obras, se deberán acompañar las
+Etiquetas de Eficiencia Energética y los Informes de Calificación Energética,
+junto con los documentos requeridos para la obtención de dicha recepción definitiva
+de obras, de conformidad a lo dispuesto en la Ordenanza General de Urbanismo y
+Construcciones.
+Artículo 14º.- Si el proyecto cuenta con recepciones parciales, el
+procedimiento de evaluación energética se considerará finalizado cuando la
+totalidad de las viviendas que componen la respectiva etapa se encuentren evaluadas y
+cuenten con sus respectivas etiquetas e informes. En estos casos el Evaluador deberá
+indicar en la creación del proyecto que éste cuenta con recepciones parciales, y
+deberá identificar las viviendas que corresponden a cada una de ellas.
+Artículo 15º.- Los certificados de ensaye o similar que se presenten para
+respaldar algún valor indicado en la evaluación deberán ser emitidos por un
+laboratorio nacional que esté acreditado, de acuerdo con las exigencias de las
+normas nacionales específicas de cada materia.
+Excepcionalmente, la Entidad Administradora podrá aceptar certificados de
+ensaye o similares emitidos por laboratorios extranjeros, para definir algunas
+propiedades de sistemas constructivos, de materiales o equipos que no estén regidos
+por Reglamentos o normas nacionales, o bien, cuando no se encuentre habilitado o en
+funcionamiento algún laboratorio nacional acreditado que realice el ensayo.
+TÍTULO IV
+DEL PROCEDIMIENTO PARA LA PUBLICIDAD
+Artículo 16º.- Conforme a la ley Nº 21.305, la etiqueta de eficiencia
+energética se deberá incluir en toda publicidad de venta que realicen las empresas
+constructoras e inmobiliarias. En caso de que dicha publicidad se efectúe con
+anterioridad a la solicitud de recepción definitiva de obras, ella deberá incluir
+una etiqueta de eficiencia energética de precalificación.
+En los casos en que la calificación energética obtenida por el proyecto sea
+distinta a la obtenida en la precalificación, en el Informe de Calificación se
+deberá dejar constancia de dicha diferencia.
+Artículo 17º.- Podrán ser utilizados para fines publicitarios el Informe de
+calificación o precalificación energética y la Etiqueta de eficiencia energética
+de la vivienda, de acuerdo a lo establecido en el presente Reglamento y en las
+resoluciones que para este efecto sean dictados por el MINVU.
+Esta publicidad deberá advertir que los requerimientos de energía son de
+carácter informativo, por cuanto son calculados bajo condiciones estándar de uso de
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 7 de 9
+
+--- Página 8 ---
+Decreto 5, VIVIENDA (2022)
+la vivienda y no representan necesariamente la demanda y consumo de energía de una
+determinada unidad en uso por parte de sus usuarios finales.
+Cuando se realice publicidad con los productos resultantes de un proceso de
+precalificación energética, la publicidad debe advertir que la información puede
+variar al momento de llevar a cabo el proceso de calificación energética.
+Artículo 18º.- En el caso de proyectos que deban dar cumplimiento obligatorio
+a las exigencias de la ley Nº 21.305, sólo la Etiqueta de Eficiencia Energética y
+el Informe de Calificación o Precalificación Energética se considerarán como
+información básica comercial, en los términos indicados en la ley Nº 19.496, que
+Establece Normas sobre Protección de los Derechos de los Consumidores.
+Artículo 19º.- Si viviendas de un mismo edificio, condominio o conjunto
+habitacional, obtienen calificaciones energéticas distintas, el mandante solo podrá
+publicitar información del conjunto una vez que éste haya sido evaluado en su
+totalidad, debiendo hacer mención a los valores mínimos y máximos obtenidos dentro
+del conjunto de departamentos o unidades de vivienda. No obstante, al momento de
+promocionar la vivienda en particular, se deberá indicar al comprador, en términos
+claros, la calificación energética que le corresponde a esa unidad, debiendo
+entregar al momento de la venta de cada una de ellas la Etiqueta de Eficiencia
+Energética y el Informe de Calificación Energética respectiva.
+Artículo 20º.- No podrá incluirse ningún tipo de publicidad de los
+resultados de la evaluación energética de las viviendas, cuando éstos hayan
+expirado.
+TÍTULO V
+DE LAS FISCALIZACIONES Y SANCIONES
+Artículo 21º.- La fiscalización del cumplimiento de las normas que regulan la
+CEV se deberá realizar de acuerdo al procedimiento que se establezca mediante
+resoluciones del Ministro de Vivienda y Urbanismo.
+Artículo 22º.- El incumplimiento por parte del Evaluador Energético de las
+disposiciones establecidas en el presente Reglamento, será sancionado de acuerdo a
+lo establecido en el artículo 4º de la ley Nº 21.305 y en el Reglamento del
+Registro Nacional de Evaluadores Energéticos.
+DISPOSICIONES TRANSITORIAS
+Artículo único transitorio: La obligación de precalificación y calificación
+comenzará a regir doce meses después de la publicación del presente Reglamento en
+el Diario Oficial y será aplicable sólo para proyectos nuevos.
+Para estos efectos, se entenderá por proyectos nuevos a aquellos proyectos de
+viviendas cuya solicitud de permiso de edificación o de anteproyecto sea ingresada
+con posterioridad a la entrada en vigencia del presente Reglamento.
+Asimismo, aquellos proyectos que al momento de la entrada en vigencia del
+presente Reglamento cuenten con un permiso de edificación aprobado, pero que como
+consecuencia de una modificación de destino deban reingresarlo a la Dirección de
+Obras Municipales respectiva, estarán sujetos a la obligación de efectuar la
+precalificación y calificación energética de viviendas, de que trata este
+Reglamento y de acuerdo a la normativa que les resulte aplicable.
+No obstante lo anterior, cualquier persona natural o jurídica, podrá
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 8 de 9
+
+--- Página 9 ---
+Decreto 5, VIVIENDA (2022)
+voluntariamente solicitar la evaluación energética de una vivienda nueva o
+existente que no esté afecta a la obligatoriedad de calificar o precalificar, según
+corresponda. Para estos efectos se entenderá como vivienda existente toda aquella
+que cuente con recepción definitiva de obras.
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE,
+Presidente de la República.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.-
+Juan Carlos Jobet Eluchans, Ministro de Energía.
+Lo que transcribo para su conocimiento.- Erwin Navarrete Saldivia, Subsecretario
+de Vivienda y Urbanismo (S).
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 9 de 9
