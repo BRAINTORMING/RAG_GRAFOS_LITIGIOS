@@ -1,0 +1,1906 @@
+--- Página 1 ---
+CONSULTORÍA PARA MAPEO DE ACTORES E IMPACTO POTENCIAL DE LA
+ECONOMÍA CIRCULAR EN CHILE
+INFORME FINAL –
+IDENTIFICACIÓN DE LOS IMPACTOS POTENCIALES DE LA
+ECONOMÍA CIRCULAR EN CHILE
+LICITACIÓN: 608897-1-LE19
+Ministerio del Medio Ambiente
+Gobierno de Chile
+
+--- Página 2 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Los Conquistadores 2106, oficina B,
+Providencia
+Urrutia 436 A, 3er Piso,
+Pucón
+www.rubiksustentabilidad.cl
+2
+
+--- Página 3 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+INDICE
+1. RESUMEN EJECUTIVO 5
+2. GLOSARIO DE TÉRMINOS Y ABREVIACIONES 11
+3. INTRODUCCIÓN Y OBJETIVOS DEL ESTUDIO 14
+4. METODOLOGÍA DE TRABAJO 16
+4.1. WORKSHOP DE ANÁLISIS FODA 16
+4.2. PARTICIPANTES 20
+5. RESULTADOS DEL ANÁLISIS FODA 27
+5.1. FORTALEZAS 30
+5.1.1. F ORTALEZAS DEL ÁMBITO INSTITUCIONAL - REGULATORIO 30
+5.1.2. F ORTALEZAS DEL ÁMBITO EMPRESARIAL 32
+5.1.3. F ORTALEZAS DEL ÁMBITO DE CONSUMIDORES Y ONG 34
+5.1.4. F ORTALEZAS DEL ÁMBITO EDUCATIVO Y ACADÉMICO 36
+5.2. OPORTUNIDADES 37
+5.2.1. O PORTUNIDADES DEL ÁMBITO INSTITUCIONAL - REGULATORIO 39
+5.2.2. O PORTUNIDADES DEL ÁMBITO EMPRESARIAL 39
+5.2.3. O PORTUNIDADES DEL ÁMBITO DE CONSUMIDORES Y ONG 41
+5.2.4. O PORTUNIDADES DEL ÁMBITO EDUCATIVO Y ACADÉMICO 43
+5.3. DEBILIDADES 43
+5.3.1. D EBILIDADES DEL ÁMBITO INSTITUCIONAL - REGULATORIO 45
+5.3.2. D EBILIDADES DEL ÁMBITO EMPRESARIAL 47
+5.3.3. D EBILIDADES DEL ÁMBITO DE CONSUMIDORES Y ONG 49
+5.3.4. D EBILIDADES DEL ÁMBITO EDUCATIVO Y ACADÉMICO 51
+5.4. AMENAZAS 51
+5.4.1. A MENAZAS DEL ÁMBITO INSTITUCIONAL - REGULATORIO 52
+3
+
+--- Página 4 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+5.4.2. A MENAZAS DEL ÁMBITO EMPRESARIAL 54
+5.4.3. A MENAZAS DEL ÁMBITO DE CONSUMIDORES Y ONG 55
+5.4.4. A MENAZAS DEL ÁMBITO EDUCATIVO / ACADÉMICO 56
+6. CONCLUSION: REFLEXIONES Y RECOMENDACIONES 58
+7. SÍNTESIS PRINCIPALES ELEMENTOS DEL ESTUDIO 62
+8. ANEXOS 64
+4
+
+--- Página 5 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+1. RESUMEN EJECUTIVO
+El Proyecto “Consultoría para el mapeo de actores e impacto potencial de la economía
+circular en Chile” es el punto de partida para desarrollar una hoja de ruta de la Economía
+Circular en Chile, entregando insumos relevantes para iniciar la construcción de este marco. El
+objetivo general del proyecto consistió en “Realizar el mapa de actores de Economía Circular
+en Chile, los que están trabajando en esta materia y los que debiesen sumarse, aun cuando
+hoy no lo están, e identificar el impacto potencial que la economía circular tiene en los
+distintos segmentos”. Para su logro se plantearon los siguientes objetivos específicos:
+1. Identificar y caracterizar a los actores vinculados a Economía Circular en Chile,
+incorporando las funciones y roles de cada actor.
+2. Clasificar a los actores identificados.
+3. Realizar una evaluación de los activos sectoriales.
+4. Identificar el impacto potencial de la Economía Circular en los distintos segmentos
+(público, empresas y gremios, academia, sociedad civil).
+La metodología propuesta para el cumplimiento de estos objetivos se basó en el análisis de
+fuentes de información secundaria y primaria. La experiencia de mapeos internacionales,
+como Finlandia, Holanda, Francia, Escocia y por supuesto, los principios y estrategias de la
+fundación Ellen MacArthur, fueron usados como referencia para conceptos, métodos y líneas
+de análisis. En términos específicos, la metodología utilizada incluyó los siguientes enfoques
+para alcanzar la totalidad de los objetivos:
+- Fuentes secundarias: a través del método de búsqueda sistemática para recuperar
+datos de actores vinculados a la Economía circular en Chile desde Google, redes
+sociales y medios de comunicación digitales; y también desde la base de datos abierta
+hecha por el Circular Economy Club en Chile.
+- Fuentes primarias: entrevista a 18 actores clave identificados a partir de información
+secundaria; también, un taller de análisis FODA donde participaron 23 actores
+vinculados a la economía circular.
+Los resultados de la metodología aplicada fueron i) una exhaustiva base de datos con los
+actores mapeadas y 27 columnas de información para caracterizar esos actores, ii) cuatro
+mapas de actores organizados según diferentes criterios, iii) los resultados de la evaluación de
+los activos sectoriales hecha por actores clave entrevistados y, iv) los resultados del análisis
+FODA.
+5
+
+--- Página 6 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+La primera etapa de la ejecución del Proyecto, para alcanzar objetivos 1 y 2, tuvo como
+principal resultado la construcción de una base de datos con 282 actores enlistados,
+caracterizados y mapeados según las siguientes cuatro dimensiones:
+- Mapa 1: Ámbitos de Acción: Educación, Evento/Proyecto, Gobierno/Estado,
+Individuos, Sector Privado, Sociedad Civil/ONG, Apoyo.
+- Mapa 2: Interés e Influencia respecto a la implementación de la Economía Circular en
+Chile.
+- Mapa 3: Eslabón en la Cadena de Valores, que comprende diez pasos desde la
+generación de energía y extracción de material hasta la gestión de residuos.
+- Mapa 4: Sector Económico y tipos de estrategias de economía circular.
+Dentro de los principales hallazgos que estos mapas evidenciaron se destaca que un 59% de
+los 282 actores identificados pertenecen al sector privado. Respecto al interés e influencia,
+todos los actores pueden ser organizados en 57 categorías con diferentes niveles de interés e
+influencia, de los cuales 23 de ellas se encuentran situadas en un rango de Alto Interés/Alta
+Influencia respecto a la implementación de economía circular en Chile. Respecto a la cadena
+de valor, la mayor cantidad de actores se encuentra en el eslabón de gestión de residuos,
+mientras que hay sólo uno en Distribución/Logística. Y finalmente, el 45% de los actores se
+encuentra aplicando una estrategia de economía circular basada en la Dimensión Técnica de
+los Materiales.
+La segunda parte del proyecto, para alcanzar el objetivo 3, implicó sintetizar la evaluación de
+activos sectoriales hecha por los 18 actores clave entrevistados, mediante la aplicación de una
+escala Likert en formato cuestionario. También incluyó el análisis del tipo de activo que cada
+actor proporciona a una economía circular: Comunicación/canales comerciales,
+Desarrollo/Aplicación de herramientas, Difusión de la economía circular, Experiencia práctica
+en economía circular, Información/Conocimiento/Producción de conocimiento,
+Regulación/Promoción de implementaciones.
+Dentro de los principales resultados sobre el análisis de los activos sectoriales se destaca que
+de los 162 actores pertenecientes al sector privado hay una fuerte presencia de
+emprendimientos y start-up. Por otro lado, más del 80% de los actores están categorizados
+como contribuyentes a una economía circular desde la experiencia práctica. Finalmente,
+mediante un análisis comparativo aplicado a la categoría en Alto Interés/Alta Influencia, se
+identificaron dos tipos de relaciones entre los actores: vínculos estratégicos y vínculos de
+trabajo, consideradas como parte de alianzas de colaboración. También hay elementos de
+tensión detectados, tales como desacuerdos respecto a soluciones como Waste to Energy
+6
+
+--- Página 7 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+(W2E) y la implementación de la ley REP (Ley de Responsabilidad Extendida del Productor)
+versus acuerdos voluntarios tales como Pacto por los Plásticos.
+Para el último objetivo específico del proyecto, “Identificar e l impacto potencial de la
+Economía Circular en los distintos segmentos (público, empresas y gremios, academia,
+sociedad civil)” se ejecutó un taller de análisis FODA, en el que participaron 23 expertos en
+economía circular, representando los cuatro segmentos a ser analizados. La metodología
+incluyó, al finalizar el taller, que cada participante priorizara un elemento por cuadrante
+FODA.
+Algunos de los principales resultados priorizados detectados como transversales a los
+segmentos fueron: i) el momentum de encuentro entorno a la COP25, el cual es una
+oportunidad para avanzar usando economía circular como herramienta para lograr metas
+climáticas, ii) baja inversión en I+D+i, lo que fue categorizado como una debilidad
+institucional, pero también relacionada a responsabilidad Corporativa y Académica, iii) y la
+resistencia al cambio y colaboración, siendo esta una debilidad establecida en la cultura
+chilena.
+En suma, el estudio presenta una primera mirada acerca de la situación actual del país en
+términos de avances en Economía Circular, entregando información útil respecto al
+ecosistema de actores relevantes vinculados al tema, así como un primer acercamiento
+respecto a las condiciones de base y los impactos potenciales asociados.
+De esta forma, el mapeo de actores representa una identificación y caracterización en
+profundidad de las empresas, instituciones, organizaciones de la sociedad civil e individuos
+vinculados a la Economía Circular, que permite establecer quiénes están impulsando el tema
+actualmente y quiénes debiesen ser considerados para participar del proceso participativo de
+construcción de la Hoja de Ruta.
+Finalmente, el trabajo de workshop mediante panel de expertos y por medio de un análisis
+FODA, permitió obtener una mirada general sobre las condiciones de base del país y los
+impactos potenciales asociados a la implementación de la Economía Circular, lo cual sirve de
+base para diagnóstico y el trabajo de análisis participativo que se desarrolle en el marco de la
+Hoja de Ruta. Asimismo, la evaluación de activos sectoriales, represente una primera
+aproximación al estado actual de los sectores productivos en Chile, que debe ser
+profundizado por medio de información cuantitativa y cualitativa específica para los
+diferentes sectores prioritarios.
+7
+
+--- Página 8 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+ABSTRACT
+The Project “Stakeholders mapping and potential impacts of a circular economy in Chile” is
+the starting point to develop Chile´s Circular Economy Roadmap. As such, the named project
+provides relevant input to begin the construction of this framework. The general objective of
+the project was to “develop the circular economy stakeholders map in Chile, with the ones
+that are working in this matter and the ones that should be, even if they are not related to
+circular economy at present, and to identify the potential impacts of a circular economy in
+different segments”. To achieve the main objective, the following specific objectives were
+established:
+1. To identify and characterize circular economy related stakeholders in Chile,
+incorporating roles and functions for each stakeholder,
+2. To classify the identified stakeholders,
+3. To evaluate sectorial assets,
+4. To identify the potential impacts of a circular economy in different segments (public,
+companies and associations, academia and civil society).
+To accomplish these objectives, the proposed methodology was based in the analysis of
+secondary and primary sources of information. The experience of international roadmaps was
+used as reference for concepts, methods and guidelines of analysis, such were the roadmaps
+of Finland, Holland, France, Scotland and of course, the principles and strategies of the Ellen
+MacArthur Foundation. In specific terms, this methodology included the following approaches
+to achieve the completion of the objectives:
+- Secondary sources: from a systematic review method to retrieve data of circular
+economy stakeholders’ data from Google, social networks and digital media; and also,
+from the open source database made by the Circular Economy Club in Chile.
+- Primary sources: 18 interviews to key stakeholders shortlisted from the compiled list
+of stakeholders; and a participatory workshop with 23 stakeholders and circular
+economy experts to make a SWOT analysis.
+The outcomes of the applied methodology were i) a comprehensive data base with the
+mapped stakeholders and 27 columns of information to characterise them, ii) four
+stakeholders’ maps organised by different criteria, iii) the results of the sectorial assets
+evaluation made by key stakeholders and, iv) the results of the SWOT analysis.
+The first part of the execution of the Project, to achieve objectives 1 and 2, gave 282
+stakeholders listed and mapped by the below four dimensions:
+8
+
+--- Página 9 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+- Map 1: Scope of Action: Education, Event/Project, Government/Estate, Individual,
+Private Sector, Civil Society/NGO, Support.
+- Map 2: Interest and Influence: related to the implementation of a circular economy in
+Chile.
+- Map 3: Step in the Value Chain: ten steps from Energy Generation and Material
+extraction to Waste Treatment.
+- Map 4: Economic sector and circular economy strategy.
+Some of the main findings that these maps showed is that 59% of stakeholders belong to the
+private sector. Regarding their Interest and Influence, they can be positioned in 57 categories
+or clusters with different levels of interest and influence, while 23 of these clusters are
+situated at a level of High Interest/High Influence. And in the value chain, the majority of
+stakeholders are part of the Waste Treatment step, while there is only one stakeholder in
+Distribution/Logistics. And finally, that 45% of stakeholders are applying a circular economy
+strategy based on the Technical Scope.
+The second part of the project, to accomplish objective 3, involved synthetizing the evaluation
+of sectorial assets made by 18 key stakeholders, through the application of a Likert scale in a
+questionnaire. And also, the analysis of the type of asset that each actor brings to a circular
+economy: Communication/Commercial channels, Development/Application of tools,
+Spreading the topic, Practical experience in the topic, Information/Knowledge/Production of
+knowledge, Regulation/Promoting the implementation. The main results about these
+activities were that, on one side, from the 162 stakeholders that are part of the private
+sector, there is strong presence of start-up. And from the other side, that more than 80% of
+stakeholders are categorized as contributing to a circular economy from the Practical
+Experience. Finally, through relations analysis applied to the highest clusters in
+Interest/Influence, two types of relations were identified, strategic liaisons and work liaisons,
+which are part of collaboration alliances. There are also tension elements detected, such as
+disagreements around Waste to Energy alternatives (W2E) and the implementation of Ley
+REP (extended producer’s responsibility law) versus voluntary agreements, such as The Plastic
+Pact.
+For the final objective of the project, to “identify the potential impacts of a circular economy
+in different segments (public, companies and associations, academia and civil society)” a
+workshop to apply a SWOT analysis was executed, were 23 key stakeholders attended,
+representing the four segments to be analysed. The methodology included that at the end of
+the workshop, each participant selected one point from each SWOT quadrant. Altogether, the
+selected aspects are the prioritised potential impact of a circular economy.
+9
+
+--- Página 10 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Some of the top prioritised inputs that were detected to be transversal across the segments,
+were: i) the momentum gathered around COP25 which is an opportunity to move forward
+using the circular economy as tool to achieve low-carbon targets, ii) low investment in R+D
+and innovation, which was categorized as Institutional weakness, but was also related to
+Companies and Academia responsibility, iii) and the resistance to change and collaboration,
+which is a weakness established in the Chilean culture.
+All in all, the study is a first approach about the present situation in the country in terms of
+circular economy, providing useful information regarding the ecosystem of relevant
+stakeholders, at the same time that it gives the first input about the conditions at base and
+the potential impacts that are associated to the implementation of a circular economy.
+In this sense, the stakeholders map represents a deep identification and characterization of
+the companies, institutions, civil society organisations and individuals related to the circular
+economy. This allows to establish who is fostering the topic, presently, and who should be
+considered to be involved in the participatory process of building a circular economy
+Roadmap.
+Finally, the work done through the SWOT analysis workshop of experts, allowed a general
+vision about Chile´s conditions at base and the potential impacts associated to the
+implementation of a circular economy, which helps as input for a diagnosis and the further
+participatory analysis to be developed when building Chile´s Roadmap. Moreover, the
+evaluation of the sectorial assets represents a first approximation to the current state of
+productive sectors in Chile, which needs to be developed in in-deep analysis considering
+specific quantitative and qualitative information for each of Chile´s relevant sectors.
+10
+
+--- Página 11 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+2. GLOSARIO DE TÉRMINOS Y ABREVIACIONES
+CONCEPTO DEFINICIÓN
+Una producción circular es aquella basada en estrategias de
+economía circular, que permiten producciones y productos eficientes.
+Producción circular Se requiere un nuevo diseño para extender la vida del producto o
+servicio, a través de análisis de datos, mantención, nuevo materiales,
+etc.
+Basura cero es un objetivo pragmático y visionario, para guiar a las
+personas a que emulen los ciclos naturales, donde todo lo que se
+descarta es recurso para otro ciclo. Se refiere a diseñar y gestionar
+Basura cero
+productos y procesos de tal manera de reducir el volumen y la
+toxicidad de los desechos y los materiales, conservar y recuperar los
+recursos y no quemarlos o enterrarlos.
+Técnicas de reaprovechamiento de un producto, sin cambiar la
+Reutilizar
+función original para lo que fue creado.
+Arreglar un producto defectuoso para que pueda volver a ser usado
+Reparar
+para su función original.
+Esta noción refleja el uso de bienes y servicios que responden a
+necesidades básicas y proporcionan una mejor calidad de vida, al
+mismo tiempo minimizan el uso de recursos naturales, materiales
+Consumo sustentable
+tóxicos y emisiones de desperdicios y contaminantes durante todo el
+ciclo de vida, de tal manera que no se ponen en riesgo las
+necesidades de futuras generaciones.
+Es una herramienta orientada al diseño de productos y procesos tales
+Ecodiseño que reduzcan el impacto ambiental producido durante su ciclo de
+vida.
+Corresponde a una herramienta de análisis aplicada a un proceso
+para evaluar las descargas ambientales asociadas con un producto,
+proceso o actividad, identificando y cuantificando los materiales y la
+Análisis del ciclo de
+energía utilizada y los residuos liberados al ambiente; para evaluar el
+vida
+impacto del uso de esos materiales y energía y de las descargas al
+ambiente; y para identificar y evaluar oportunidades para efectuar
+mejoras ambientales.
+Es un modelo de negocio que consiste en primar que el usuario pague
+Servitización/Producto
+por tener acceso al servicio que proporciona un producto en vez de
+como Servicio
+tener la propiedad del producto en sí.
+Proceso de transformación de ciertos materiales contenidos en los
+Reciclaje
+residuos en materia prima secundaria para procesos productivos
+11
+
+--- Página 12 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+CONCEPTO DEFINICIÓN
+Responsabilidad Esquema que hace responsable al productor que pone un producto
+extendida del en el mercado, de los residuos que se generen a partir de sus
+productor productos, desde su generación hasta su valorización o eliminación.
+Es un término acuñado recientemente, también conocido como
+supra-reciclaje, que consiste en aprovechar materiales reciclables
+Up-cycling
+para crear productos que tienen un mayor valor que el que tenía el
+material original, vale decir, transformar residuos en objetos de valor.
+Usar partes descartadas para elaborar un nuevo producto que cumpla
+Refabricar
+la misma función.
+Se entiende por biocombustible aquellos combustibles que se
+obtienen de biomasa. El término biomasa, en el sentido amplio, se
+refiere a cualquier tipo de materia orgánica que haya tenido su origen
+Biocombustible inmediato en el proceso biológico de organismos recientemente
+vivos, como plantas, o sus deshechos metabólicos (el estiércol); el
+concepto de biomasa comprende productos tanto de origen vegetal
+como de origen animal
+La ecoeficiencia se obtiene por medio del suministro de bienes y
+servicios a precios competitivos, que satisfagan las necesidades
+humanas y proporcionen calidad de vida, mientras progresivamente
+Ecoeficiencia
+reducen los impactos ecológicos y el consumo de recursos a lo largo
+de su ciclo de vida, por lo menos hasta un nivel acorde con la
+capacidad de carga estimada de la Tierra.
+Aunque existen muchas definiciones, se puede conceptualizar como
+una filosofía del diseño y de organización de sistemas. Inspirada en los
+seres vivos, emula los ciclos de la naturaleza en la que los “desechos”
+de una especie se convierten en el “alimento” de otra y así
+Economía circular
+sucesivamente en un sistema cíclico de autosuficiencia. Es un sistema
+industrial restaurador o regenerativo por intención y por diseño ab
+initio, que sustituye el concepto de “caducidad” por el de
+“restauración” distinguiendo entre ciclos técnicos y biológicos.
+Referido a la movilidad urbana y los medios de transporte. Se
+Ecomovilidad establece una escala de preferencia para la elección de los individuos:
+caminar, pedalear, usar el transporte público y compartir el vehículo.
+Corresponde a aquellos materiales que son naturales y libres de
+tóxicos, que tienen un origen local, siendo sostenibles en su ciclo de
+Ecomateriales vida (bajo impacto ambiental en etapas de extracción, producción,
+distribución, uso y desecho), teniendo baja mantención. Además
+pueden ser reutilizados y reciclados.
+12
+
+--- Página 13 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+ABREVIACIONES
+AdC Circular: Asociación de Consumidores Sustentables de Chile
+ANIR: Asociación Nacional de la Industria del Reciclaje
+APL: Acuerdo de Producción Limpia
+ASCC: Agencia de Sustentabilidad y Cambio Climático
+ASECH: Asociación de emprendedores de Chile
+CEC: Circular Economy Club
+CONICYT: Comisión Nacional de Investigación Científica y Tecnológica
+CORFO: Corporación Nacional de Fomento
+EC: Economía Circular
+MMA: Ministerio del Medio Ambiente
+SOFOFA: Sociedad de Fomento Fabril
+13
+
+--- Página 14 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+3. INTRODUCCIÓN Y OBJETIVOS DEL ESTUDIO
+El presente documento corresponde al tercer informe de la consultorí a “Mapeo de actores e
+impacto potencial de la economí a circular en Chile”, ejecutado por Rubik Sustentabilidad. Esta
+consultoría, de acuerdo a lo establecido en sus Términos de Referencia, tiene como principal
+objetivo “Realizar el mapa de actores de Economía Circular en Chile, los que están trabajando
+en esta materia y los que debiesen sumarse, aun cuando hoy no lo están, e identificar el
+impacto potencial que la economía circular tiene en los distintos segmentos ”.
+Para lograr el objetivo general, se plantearon los siguientes objetivos específicos:
+1. Identificar y caracterizar a los actores vinculados a Economía Circular en Chile,
+incorporando las funciones y roles de cada actor.
+2. Clasificar a los actores identificados.
+3. Realizar una evaluación de los activos sectoriales.
+4. Identificar el impacto potencial de la Economía Circular en los distintos segmentos
+(público, empresas y gremios, academia, sociedad civil).
+En el primer informe se recogieron los resultados del trabajo realizado para dar cumplimiento
+al primer y segundo objetivo específico, lo cual tuvo como principal producto la creación de
+una base de datos con 282 actores identificados y caracterizados, para su posterior
+clasificación en cuatro dimensiones, a saber: ámbito de acción, interés e influencia, eslabón
+en la cadena de valor, y según rubro y tipo de estrategia en economía circular; dimensiones
+que fueron plasmadas en cuatro mapas.
+El segundo informe abordó el objetivo 3 de la consultoría sobre la evaluación de los activos
+sectoriales. Para esto se entrevistó a actores claves respecto al nivel de preparación que tiene
+Chile para avanzar hacia una economía circular en cuatro dimensiones: i) Estructura
+empresarial, identificando empresas líderes, proveedoras y de otras unidades productivas en
+las principales cadenas de valor; ii) Las capacidades técnicas y tecnológicas existentes; iii) La
+fuerza de trabajo en cuanto a competencias y niveles de especialización; y iv) Las relaciones
+de fuerza entre los actores e identificación del tipo de actores en cuanto a una
+implementación de una estrategia en Economía Circular.
+Este tercer informe tiene por objetivo Identificar el impacto potencial de la Economía Circular
+en los distintos segmentos (público, empresas y gremios, academia, sociedad civil);
+información que fue levantada a partir de la realización de un workshop de análisis FODA
+(fortalezas, oportunidades, debilidades y amenazas) donde participaron actores claves
+14
+
+--- Página 15 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+considerados expertos en economía circular. Como resultados de este taller se presenta un
+análisis de todos los impactos potenciales identificados para avanzar hacia una economía
+circular en Chile.
+El informe se organiza en tres secciones. En la primera de ella se hace una descripción
+detallada de la metodología del workshop de análisis FODA utilizado, presentando los
+objetivos y estructura del taller. Luego se presentan los resultados derivados del análisis
+FODA, para finalizar con las conclusiones, que aborda reflexiones y aprendizajes de esta
+última etapa de consultoría y del proceso en general.
+Finalmente, el informe contiene una sección de anexos donde se podrá revisar en detalle el
+desarrollo del workshop, además de acceder a los Informe 1 y 2 de la presente consultoría
+15
+
+--- Página 16 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+4. METODOLOGÍA DE TRABAJO
+La metodología utilizada para el cumplimiento del cuarto objetivo de esta consultoría se basó
+en la realización de un workshop mediante panel de expertos, por medio del cual se
+identificó, a través de un ejercicio de análisis FODA, los impactos potenciales – tanto positivos
+como negativos – de implementar una economía circular en Chile, además de las condiciones
+de base del país para avanzar en esta dirección. Para ello, se convocó a una serie de actores
+claves identificados durante el levantamiento del mapa de actores (objetivos 1 y 2) y que
+fueron considerados como expertos en la materia mediante un trabajo conjunto de
+priorización entre el equipo consultor y la contraparte.
+A continuación se expone en detalle la metodología utilizada, los participantes y el análisis de
+información desarrollado.
+4.1. Workshop de análisis FODA
+El workshop de análisis FODA tuvo por objetivo trabajar colaborativamente para identificar y
+priorizar las oportunidades y amenazas (impactos potenciales) y fortalezas y debilidades
+(condiciones de base) asociadas a la implementación de una economía circular en Chile. Para
+ello, se solicitó a los expertos convocados trabajar en base a cuatro cuadrantes, según los
+siguientes enunciados:
+• FORTALEZAS de Chile para avanzar hacia una Economía Circular
+• OPORTUNIDADES para Chile de avanzar hacia una Economía Circular
+• DEBILIDADES de Chile para avanzar hacia una Economía Circular
+• AMENAZAS que enfrentaría Chile para avanzar hacia una Economía Circular
+Cada cuadrante fue dividido a su vez en cuatro ámbitos de acción, con el fin de guiar la
+discusión y facilitar la identificación de impactos y condiciones de base por parte de los
+participantes. Estos ámbitos son 1 :
+• Ámbito institucional – regulatorio, referido al sector público representado por el
+Gobierno/Estado, considerando a todos los servicios públicos existentes, la normativa
+e institucionalidad vigentes.
+1 Los nombres de los cuatro ámbitos (público, privado, academia, sociedad civil) se cambiaron por los que se
+presentan en el informe de acuerdo a los comentarios hechos por la contraparte técnica durante la presentación
+de validación de diseño de workshop.
+16
+
+--- Página 17 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+• Ámbito empresarial, referido al sector privado, correspondiente al mundo de negocios
+y empresas.
+• Á mbito consumidores y ONG’s, referidos a la sociedad civil, organizaciones sin fines de
+lucro y /o sociedad civil organizada.
+• Ámbito Educativo/Académico: correspondiente a espacios de capacitación y formación
+tanto escolar como universitaria, técnica, centros de investigación, entre otros.
+Considerando estos elementos entonces se trabajó sobre la matriz que se presenta en la
+siguiente imagen.
+Imagen 1 Matriz de análisis FODA
+Fuente: Elaboración propia
+Considerando la metodología de análisis planteada, la ejecución del workshop se dividió en
+cuatro momentos:
+1) Presentación del contexto, resultados y metodología de trabajo grupal
+Se hizo una breve explicación de los objetivos de la consultoría y se presentaron resultados
+generales claves del levantamiento del mapa de actores y los activos sectoriales. Esto fue
+acordado con la contraparte del estudio, debido a que el objetivo central del taller era el
+17
+
+--- Página 18 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+levantamiento de los impactos potenciales y no la discusión respecto a los resultados
+obtenidos en el desarrollo de los objetivos 1, 2 y 3 de la consultoría.
+Posteriormente se explicó la metodología de trabajo grupal, poniendo especial énfasis en la
+aclaración de cada uno de los componentes del FODA, presentando ejemplos para cada
+cuadrante, de modo de situar a los participantes en las especificidades de la información a
+levantar, y para evitar confusiones entre Fortalezas y Oportunidades y Debilidades y
+Amenazas.
+En el Anexo N°1 se puede revisar en detalle la presentación en PPT expuesta en esta primera
+parte el taller.
+2) Desarrollo del trabajo de análisis FODA por grupo
+Los participantes fueron distribuidos en cuatro grupos de trabajo 2 , cada uno de ellos
+acompañados por un/a facilitador/a que acompañó la conversación. Se trabajó en dos
+bloques de 35 a 40 minutos cada uno. En el primero de ellos, se levantaron aspectos
+asociados a fortalezas y oportunidades, y en el segundo bloque se trabajó sobre las
+debilidades y amenazas, sin perjuicio de que durante el desarrollo de la conversación se fuera
+avanzado de forma paralela en los cuatro cuadrantes.
+Este trabajo se realizó en papelógrafos previamente preparados, en los cuales los
+participantes fueron pegando post-it con las ideas fuerzas de los elementos identificados para
+cada uno de los cuadrantes y en cada uno de los ámbitos. A modo de ejemplo, en la siguiente
+imagen se observa el modo en que se trabajó en cada grupo. El detalle de esta información
+puede ser revisada en el Anexo N°3 Resultados del análisis FODA por mesa de trabajo.
+2 En el Anexo N°2 se presentan fotografías de la actividad.
+18
+
+--- Página 19 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Imagen 2 Ejemplo del material utilizado para el levantamiento del FODA
+Fuente: Workshop Análisis FODA
+3) Priorización de impactos identificados
+Finalizado el levantamiento del FODA, se solicitó a cada participante que seleccionara un
+elemento prioritario por cuadrante, es decir, una fortaleza, una oportunidad, una debilidad y
+una amenaza, independiente de a qué ámbito correspondía.
+4) Presentación en plenario
+Cada grupo tuvo la oportunidad de exponer los elementos priorizados en cada uno de los
+cuadrantes, con el fin de compartir los principales hallazgos del trabajo de grupo y cerrar el
+taller con tener un panorama general de las reflexiones levantadas entorno a la posible
+implementación de una economía circular en Chile.
+19
+
+--- Página 20 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+4.2. Participantes
+Para el workshop se convocó actores claves vinculados a la economía circular en Chile y que
+fueran representativos de los cuatro ámbitos o sectores vinculados al tipo de organización, es
+decir, expertos vinculados al sector público, privado, sociedad civil/ONG y
+educativo/academia. Es importante señalar que respecto a los invitados, muchos de los
+convocados inicialmente no pudieron asistir por diversas razones, y enviaron a un/a
+reemplazante, ya que consideraron relevante mantener la presencia en la actividad.
+La lista que se presenta a continuación fue validada por la contraparte técnica de la
+consultoría.
+20
+
+--- Página 21 ---
+Tabla 1 Lista de convocados al workshop 34
+N° Institución Representante Sector Reemplazante Asistencia Justificación
+Sociedad Rodrigo
+1 Fundación Basura Macarena Guajardo Sí
+Civil Salvatierra
+AdC Circular -Asociación de Sociedad
+2 Marcela Godoy Sí
+consumidores sustentables Civil
+Sociedad
+3 Plastic Ocean Chile Mark Minneboo Sí
+Civil
+Sociedad
+4 Experto (*) Petar Ostojic No
+Civil
+Sociedad
+5 Experto Gonzalo Muñoz No Fuera del país
+Civil
+Sociedad
+6 Fundación Empresarial Eurochile Linnet Solway Sí
+Civil
+Sector
+7 Ministerio de Medio Ambiente Guillermo González Sí
+Público
+Sector
+8 CORFO (*) Victoria Paz No Tope de agenda
+Público
+Sector
+9 ASCC Ximena Ruz Sí
+Público
+Ignacio
+Sector José Juan Bruner
+10 Ministerio de Economía Guerrero/Benjamín Sí
+Público (asesor)
+Maturana
+3 La lista de asistencia firmada por los participantes se encuentra disponible en el Anexo N°4
+4 Adicionalmente a la lista acordada con la contraparte asistió una representante de la empresa consultora Stgo Slow (Carola Moya). Su presencia se asocia a que
+la representante de AdC Circular también trabaja en esa empresa, por tanto la invitación podría haber llegado a través de ella.
+
+--- Página 22 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+N° Institución Representante Sector Reemplazante Asistencia Justificación
+Eduardo Arancibia
+Sector
+11 Municipalidad de Providencia Baracatt No Tope de agenda
+Público
+Paloma Valenzuela
+12 MODULAB (*) Pamela Castro Privado No Sin justificación
+Ejecutivo senior en
+13 Andrés Labbé gestión de Privado No Tope de agenda
+inversiones.
+Rafael Palacios/Alan
+14 SOFOFA Privado Bernardita Calvo Sí
+García
+15 ACCIÓN Empresas Marcela Bravo Privado Felipe Smith Sí
+ANIR - Asociación Nacional de las Industrias del
+16 Alejandro Navech Privado Sí
+Reciclaje
+No respondió
+17 Fundación Chile Andrés Pesce Privado No
+invitación
+18 TriCiclos Verónica de la Cerda Privado Daniel Gajardo Sí
+19 Comberplast Michel Compagnon Privado Julio Compagnon Sí
+No respondió
+20 Algramo José Manuel Moller Privado No
+invitación
+21 Ecodiseño (*) Alejandro Chacón Privado Cecilia Mujica No Sin justificación
+22
+
+--- Página 23 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+N° Institución Representante Sector Reemplazante Asistencia Justificación
+No respondió
+22 Universidad Central de Chile Luis Martínez Academia No
+invitación
+23 U. de Chile - Observatorio de Sostenibilidad Reinalina Chavarri Academia Boris Suazo Sí
+Ximena
+24 USACH (Co-inventa / Ecolaben) María José Galotto Academia Sí
+Valenzuela
+Fuente: Elaboración propia
+(*) Confirmaron su participación pero finalmente no llegaron a la actividad.
+23
+
+--- Página 24 ---
+De manera paralela, desde el Ministerio de Medio Ambiente en conjunto con CORFO se
+realizó invitación directa a los miembros del comité interno que han estado trabajando los
+temas de economía circular. El listado de personas invitadas se detalla en la siguiente tabla.
+Tabla 2 Lista de personas convocadas comité interno economía circular
+N° Nombre Repartición sector público Asistencia
+1 Antonia Biggs Ministerio de Medio Ambiente Sí
+2 María Ignacia Ossa Ministerio de Economía No
+3 Patricia Fuentes CORFO No
+4 Helen Ipinza CORFO Sí
+5 Sylvana Cárdenas CORFO No
+6 Sebastián Carvallo Agencia Sustentabilidad y Cambio Climático Sí
+7 Gloria Moya CORFO Sí
+8 Ana María Fuentes CORFO No
+9 Carmen Zuloaga Ministerio de Medio Ambiente Sí
+10 Priscilla Ulloa 5 Ministerio de Medio Ambiente Sí
+11 Joost Meijer Ministerio de Medio Ambiente Sí
+12 Loretto Gallardo CORFO Sí
+13 Carolina González CORFO No
+14 Karymy Negrete CORFO No
+15 María José Bravo Ministerio de Economía No
+16 Fernando Hentzschel CORFO No
+17 Carlos Berner CORFO No
+Fuente: Elaboración propia en base al listado proporcionado por CORFO
+A modo de síntesis, en la siguiente tabla se muestra el número de convocados y número de
+participantes.
+5 Reemplazada por Pablo Fernandois
+
+--- Página 25 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Tabla 3 N° de convocados y N° de participantes
+Listado N° invitados N° asistentes
+Rubik 24 16 6
+Comité interno Economía Circular 17 8
+Total 31 23
+Fuente: Elaboración propia
+Considerando ambas listas de invitados, se distribuyó a los participantes en cuatro mesas de
+trabajo, información que se detalla en la siguiente tabla.
+Tabla 4 Distribución de participantes por mesa de trabajo
+Mesa Nombre Institución
+Carmen Zuloaga Ministerio de Medio Ambiente
+Daniel Gajardo TriCiclos
+Gloria Moya CORFO
+A José Juan Bruner Ministerio de Economía
+Linnet Solway Fundación Empresarial Eurochile
+Ximena Valenzuela USACH (Co-inventa / Ecolaben)
+Mark Minneboo Plastic Ocean Chile
+Boris Suazo U. de Chile - Observatorio de Sostenibilidad
+Felipe Smith ACCIÓN Empresas
+B
+Pablo Fernandois Ministerio de Medio Ambiente
+Rodrigo Salvatierra Fundación Basura
+Ximena Ruz ASCC
+Alejandro Navech ANIR
+Joost Meijer Ministerio de Medio Ambiente
+Julio Compagnon Comberplast
+C
+Carola Moya Stgo Slow
+Loretto Gallardo CORFO
+Sebastián Carvallo ASCC
+Antonia Biggs Ministerio de Medio Ambiente
+Guillermo González Ministerio de Medio Ambiente
+D
+Helen Ipinza CORFO
+Bernardita Calvo SOFOFA
+6 Se considera la participación de Stgo Slow.
+25
+
+--- Página 26 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Marcela Godoy AdC Circular -Asociación de consumidores
+sustentables
+Fuente: Elaboración propia
+Es importante señalar que en la propuesta técnica de la presente consultoría, se propuso
+trabajar con grupos pequeños de máximo 4 integrantes. Sin embargo, considerando la
+modalidad de trabajo y la cantidad de actores relevantes convocados, se decidió trabajar con
+grupos más numerosos previendo que eso no perjudicase el nivel de reflexión. De todos
+modos los grupos no superaron las 7 personas.
+26
+
+--- Página 27 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+5. RESULTADOS DEL ANÁLISIS FODA
+Los resultados que se presentan a continuación son producto de la sistematización y análisis
+del trabajo de workshop de expertos explicado en la sección anterior.
+Un primer hallazgo, guarda relación con el tipo de elementos identificados por los
+participantes a partir de un recuento cuantitativo de los mismos (ver Tabla 5 ).
+Tabla 5 Recuento de resultados análisis FODA
+N° de N° de N° de N° de
+Ámbito Total
+fortalezas oportunidades debilidades amenazas
+Institucional- regulatorio 16 10 21 11 58
+Empresarial 14 24 23 16 77
+Consumidores y ONG 13 10 11 6 40
+Educativo/Académico 7 12 12 4 35
+Total 50 56 67 37 210
+Fuente: Elaboración propia en base a resultados del workshop FODA
+Así, desde un punto de vista exclusivamente cuantitativo, un primer elemento que llama la
+atención es una preponderancia de los impactos potenciales positivos identificados por sobre
+los impactos negativos, con 56 oportunidades versus tan solo 37 amenazas, lo que representa
+alrededor de un 50% más de oportunidades. No obstante, la situación previa podría asociarse
+a un segundo hallazgo, que tiene que ver con las condiciones de base, donde los participantes
+identificaron un número significativamente mayor de debilidades que de fortalezas, con 67
+versus 50 respectivamente, es decir, alrededor de un 34% más.
+Por otra parte, del recuento por ámbito de análisis, se puede observar que, en general, los
+elementos identificados se asocian principalmente al ámbito empresarial, con 77 elementos,
+seguido por el institucional-regulatorio, con 58.
+En la Imagen 3 7 se presenta un resumen de los principales elementos levantados para cada
+componente del FODA y según los cuatro ámbitos trabajados. De forma posterior se presenta
+una descripción general de los elementos identificados, para luego presentar de forma
+cualitativa y en detalle las principales temáticas levantadas por componente. Finalmente, se
+presentan aquellos elementos priorizados para cada componente, los cuales son
+7 En Anexo N°9 se presenta el diagrama en imagen para facilitar la lectura.
+27
+
+--- Página 28 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+considerados como los impactos potenciales y condiciones de base más relevantes de cara a
+la implementación de una economía circular en el país.
+28
+
+--- Página 29 ---
+Imagen 3 Síntesis de principales elementos del FODA según cada ámbito
+
+--- Página 30 ---
+5.1. FORTALEZAS
+En términos cuantitativos, durante el desarrollo del workshop se identificaron un total de 50
+fortalezas para avanzar hacia una economía circular en Chile. Como se puede observar en la
+¡Error! No se encuentra el origen de la referencia., se identificó un similar número de
+fortalezas para el ámbito institucional regulatorio, empresarial y de consumidores/ONG. El
+ámbito educativo/académico es el que estaría más bajo en la identificación de fortalezas.
+Gráfico 1 Fortalezas según ámbito
+Educativo/Académic
+o
+14%
+Institucional -
+regulatorio
+32%
+Consumidores y
+ONG
+26%
+Empresarial
+28%
+Fuente: Elaboración propia en base a resultados del workshop FODA
+5.1.1. Fortalezas del ámbito institucional-regulatorio
+Dentro de lo institucional, aunque desde un punto de vista más transversal, fueron señaladas
+como fortalezas la estabilidad política y económica del país, así como su biodiversidad
+geográfica. Lo primero, en el sentido de que facilitaría la transición hacia una economía
+circular, tanto desde el punto de vista del compromiso político como de la atracción de
+inversiones. Mientras que el segundo implicaría una fortaleza en t érminos de biodiversidad,
+poniendo en valor la riqueza de nuestros diferentes territorios en términos de recursos
+naturales renovables, ya que no se ve como un componente favorable la geografía misma del
+país (largo y orografía).
+
+--- Página 31 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+En cuanto a las fortalezas específicas para el ámbito institucional-regulatorio, se destaca, en
+primer lugar, que Chile cuenta con una institucionalidad de base a partir de la cual se puede
+construir los pilares para avanzar hacia una economía circular.
+En este sentido, es relevante indicar que en las cuatro mesas de trabajo se identificó la
+implementación de la Ley de Responsabilidad Extendida del Productor (REP) como una
+fortaleza para avanzar hacia una economía circular en Chile, y que la aplicación de esta ley
+tiene efectos sobre todos los ámbitos analizados. Es decir, su puesta en marcha implica
+movilizar recursos, esfuerzos, ideas, nuevas posibilidades de negocio, generar consciencia,
+etc. tanto a nivel institucional – regulatorio como a nivel empresarial, de consumidores /
+ONG’s y del sector educativo y academia. Se indic ó que la Ley se reconoce como una instancia
+inicial importante de regulación para abordar el tema de gestión de residuo, como uno de los
+componentes de la economía circular. Además se destacó la fortaleza del proceso regulatorio
+de la Ley REP, la cual se ha caracterizado por el componente participativo en base a
+antecedentes técnicos, permitiendo un diseño adaptado y con una mayor aceptación y
+aplicación por parte de los diferentes involucrados.
+Sin embargo, la Ley REP no es el único elemento del marco institucional-regulatorio relevante
+mencionado, identificándose una serie de políticas, tanto a nivel nacional como local que
+allanarían el camino hacia la Economía Circular, como lo son el desarrollo de ordenanzas
+municipales emblemáticas – donde se menciona que la prohibición al uso de bolsas plástica
+fue impulsado primero en el ámbito local – comunal – o la política energética. De esta forma,
+se reconoce que el marco institucional vigente contiene elementos que sientan las bases para
+comenzar a pensar en un modelo de economía circular y que dan cuenta de que existe la
+disposición a legislar en la materia.
+Asociado a esta institucionalidad, se destacó como una fortaleza la idea de que Chile es un
+país donde existe una seriedad y cumplimento normativo, situación que no es así en otros
+países de la región. Esto permite definir líneas de política pública que luego se pueden
+concretar y cumplir. En esta línea se destaca la relevancia que hoy está teniendo el Ministerio
+de Medio Ambiente y el trabajo conjunto con CORFO, Agencia de Sustentabilidad y Cambio
+Climático y Ministerio de Economía, quienes están liderando la agenda sobre economía
+circular por medio de un proceso serio y progresivo que ha incorporado a los stakeholders
+relevantes.
+Lo anterior, se vincula a la trayectoria que ha tenido Chile en la implementación de medidas
+tendiente a una industria más sostenible. Así se señaló como una fortaleza iniciativas
+como los Acuerdos de Producción Limpia (APL) ejecutados por la Agencia de
+Sustentabilidad y Cambio Climático (ASCC), quienes llevan muchos años trabajando
+31
+
+--- Página 32 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+con gremios e industrias para mejorar sus procesos productivos en materias
+ambientales, sanitarias, de higiene y seguridad laboral, eficiencia energética e hídrica y
+de fomento productivo, mejorando condiciones productivas y ambientales. De forma
+similar, se destacó también la institucionalidad CORFO con toda su línea de
+innovación, que permite financiar la creación de productos, servicios o procesos o
+mejorar los que ya se están desarrollando; financiamiento clave para avanzar en
+nuevas tecnologías que viabilicen la implementación de una economía circular.
+Finalmente, se destaca como una fortaleza el compromiso climático del país al ofrecerse y
+comprometerse como anfitrión de la COP 25, lo cual refleja además el esfuerzo que se está
+haciendo como país por dar cumplimiento a los compromisos internacionales. Se menciona
+que Chile está posicionado como un referente regional en el ámbito climático y esto facilita
+los avances en la implementación de una economía circular.
+En términos de priorización de fortalezas, las mesas de participantes identificaron las
+siguientes para el ámbito institucional regulatorio.
+Gráfico 2 Priorización de fortalezas: Ámbito institucional-regulatorio
+3
+2 2
+1 1 1
+Institucionalidad Relevancia del Seriedad y Condiciones Ley de gestión de Institucionalidad
+previa sobre la cual ministerio del cumplimiento geográficas residuos (REP), de acuerdo
+podemos construir medioambiente normativo Fomento al voluntario
+reciclaje
+Fuente: Elaboración propia en base a resultados del workshop FODA
+5.1.2. Fortalezas del ámbito empresarial
+Como ya se mencionó previamente y quizás de carácter más transversal, un primer aspecto
+relacionado al ámbito empresarial identificado como fortaleza, es la estabilidad
+32
+
+--- Página 33 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+macroeconómica del país, que permitiría dar espacios a una transición hacia la economía
+circular. Además, Chile se reconoce como un mercado pequeño, pero desarrollado, lo que
+otorga facilidad para pilotear y testear bienes y servicios para su posterior exportación a
+mercados de mayor tamaño.
+Esto último se vincula particularmente con un tema destacado en tres de las cuatro mesas de
+trabajo, y que tiene relación con el importante desarrollo de un ecosistema de
+emprendimientos de innovación en Chile, donde muchos de ellos incorporan una lógica de
+economía circular. Al respecto, se señala que Chile cuenta con un gran número de
+emprendimientos, que ha permitido posicionar al país como un early adopter , es decir, Chile
+es considerado un mercado que es capaz de adoptar nuevos productos en desarrollo,
+ayudando a dar pautas para implementarlo, mejorarlo y hacerlo masivo.
+Por otra parte, existe una fortaleza relevante – mencionada en las cuatro mesas de trabajo – ,
+asociada al rol de las grandes empresas, y que tiene relación con que éstas cada día
+adquieren mayores compromisos con la sostenibilidad en sus negocios, dejando de lado el
+concepto de Responsabilidad Social Empresarial (RSE) y avanzando hacia un paradigma de
+desarrollo sostenible. En relación a esto, en Chile operan empresas multinacionales que a
+nivel corporativo han avanzado hacia este cambio de paradigma y que – a partir de un
+mandato y estándares desde sus respectivos Head Quarters – han ido instalando en el país
+buenas prácticas corporativas que han permeado a otras empresas. Esto permite contar con
+ciertos liderazgos que contribuyan a incentivar y movilizar a las empresas nacionales para
+adquirir mayores responsabilidades respecto a su propia producción y el impacto sobre el
+entorno.
+En relación a los incentivos que motivan este cambio de paradigma, se menciona que la Ley
+REP ha sido un movilizador relevante para las empresas, y que muchas de ellas se han ido
+adelantando en la implementación de la Ley, por ejemplo, evaluando alternativas para
+gestionar sus envases y embalajes. En este sentido, si bien se reconoce que hay un tema
+normativo que acelera el proceso de adaptación de las empresas, los participantes identifican
+que las empresas genuinamente están empezando a permear a la economía circular.
+De forma similar al ámbito institucional-regulatoria, una fortaleza del mundo empresarial
+tiene que ver con la larga trayectoria de trabajo colaborativo y voluntario que desde hace
+años las empresas y gremios del país están desarrollando en el marco de los Acuerdos de
+Producción Limpia (APL). A modo de ejemplo se señalaron el APL Cero residuo y el APL de
+eco-etiquetado, sin desmedro de que existen otros APL que son considerados como
+herramientas útiles relacionadas a la economía circular. De igual forma, en este ámbito
+también se señala como fortaleza los instrumentos disponibles de fomento para la innovación
+33
+
+--- Página 34 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+por parte del Estado, como por ejemplo CORFO a través de sus cuatro líneas de trabajo en
+materia de innovación: Entorno para Innovar, Renuévate (Fondo Súmate a la Economía
+Circular), Desarrolla Innovación (Fondo Innova) y Consolida y Expande.
+Finalmente, se señala la disponibilidad y el uso de energías renovables por parte de las
+empresas, lo cual es un avance significativo hacia una Economía Circular.
+En términos de priorización de fortalezas, para el ámbito empresarial se señalan:
+Gráfico 3 Priorización de fortalezas: Ámbito empresarial
+2 2
+1
+Estabilidad macroeconómica Tamaño del mercado (testeo de Intención genuina de las empresas por
+productos y servicios) la Economía Circular
+Fuente: Elaboración propia en base a resultados del workshop FODA
+5.1.3. Fortalezas del ámbito de consumidores y ONG
+En cuanto al ámbito de consumidores y ONG, hay una valoración positiva al rol que están
+teniendo los consumidores hoy, lo cual se reconoce como una fortaleza para avanzar hacia
+una economía circular. En las cuatro mesas de trabajo se indicó que cada vez más existe un
+consumidor empoderado y con mayor conocimiento y acceso a la información, que es más
+exigente y que puede ejercer presión social, más allá de lo que están comprando. En este
+sentido, se reconoce como fortaleza que Chile está mucho más avanzado en el cambio
+cultural que otros países de la región.
+De esta forma, se menciona la tendencia hacia una mayor consciencia ambiental, lo cual se ve
+reflejado en una serie de movimientos ciudadanos y marchas a raíz de conflictos
+34
+
+--- Página 35 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+socioambientales, que sientan una base para una ciudadanía sensibilizada a los cambios que
+requiere la economía circular. De igual forma, se identifica que existe una masa crítica de
+consumidores “verdes”, es decir, una mayor conciencia en cuanto a sus compras y gestión de
+sus residuos. Si bien los participantes reconocen que son las elites del país las que están
+liderando estos cambios en los patrones de consumo, se señala que esto ha impulsado a que
+en otros segmentos socioeconómicos también se estén incorporando mecanismos de
+consumo más sustentables. Así, de forma transversal a la mayoría de estratos
+socioeconómicos del país, existiría una mayor conciencia respecto a la necesidad de reciclar,
+donde la inclusión formal de los recicladores de base en el proceso de reciclaje habría
+contribuido a esta situación.
+Finalmente, desde el punto de vista de las organizaciones de la sociedad civil y su
+participación, se destaca que cada vez más se están vinculando a iniciativas en pos de la
+economía circular, lo cual ha generado una masa crítica de acciones en la materia. Hoy se
+encuentra a una sociedad civil más informada y realizando acciones concretas, a través de,
+por ejemplo, la gestión de residuos domiciliarios (compostaje, separación de basura), la
+realización de eventos de educación y promoción de una cultura más sustentable que
+obedece al interés de las personas (como la creciente Aldea Verde de Lollapalooza o los
+talleres de Circular Economy Club), el surgimiento de organizaciones como Fundación Basura
+y AdC Circular, que promueven un consumo más sustentable y generan planes de acción
+concretos para capacitar a las comunidades, entre otros.
+Dentro de las fortalezas priorizada para este ámbito están las siguientes:
+35
+
+--- Página 36 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Gráfico 4 Priorización de fortalezas: Ámbito consumidores y ONG
+3
+2
+1
+Empoderamiento del consumidor Mayor consumo consciente Masa crítica de acciones vinculadas
+a la economía circular
+Fuente: Elaboración propia en base a resultados del workshop FODA
+5.1.4. Fortalezas del ámbito educativo y académico
+Para el ámbito educativo/académico cabe señalar, en primer lugar, que solo tres grupos de
+trabajo identificaron fortalezas para este ámbito.
+Dentro de los elementos levantados asociados a la educación, se indica como aspecto
+principal la disponibilidad de capital humano capacitado y avanzado en el país, lo cual genera
+una masa crítica sobre la que se puede abordar temas de innovación y Economía Circular. Lo
+anterior, se complementa con que está empezando a existir una oferta de programas de
+formación – principalmente diplomados y cursos – en elementos específicos de Economía
+Circular. Si bien esta oferta es aún escueta, se propone como fortaleza ya que indica que
+existe una demanda insatisfecha de profesionales requiriendo mayor información sobre el
+tema.
+En términos del mundo académico, se identifica que existe una capacidad instalada en
+investigación y que ésta es aplicable a estudios de nuevos materiales, donde hoy en día
+existirían fortalezas y avances significativos.
+Por otro lado, se identifica como fortaleza la aparición de líderes de opinión en economía
+circular que son mediáticos, y por tanto conocidos por la ciudadanía, lo que implica una
+mayor cercanía en los discursos y posibles transformaciones culturales. Esto se asocia a la
+educación desde el punto de vista de la educación ambiental o cómo comienzan a permear
+36
+
+--- Página 37 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+los conceptos en la ciudadanía, en contraposición a otros temas medioambientales en los que
+la vocería la llevan autoridades o académicos.
+Por último, dentro de este ámbito académico se destaca la pronta creación del Centro
+Tecnológico para la Innovación en Economía Circular para la Macrozona Norte licitado por
+CORFO, lo cual permitirá desarrollar innovación específica que articule al sector privado -
+particularmente la minería – con el desarrollo de conocimiento e innovación. La importancia
+de este centro es la relación vinculante – y necesaria para el desarrollo sostenible de un país-
+entre la investigación, entendida como activo de la academia, y el mundo empresarial como
+demandante y usuario de la investigación e innovación.
+5.2. OPORTUNIDADES
+Respecto a las oportunidades que tiene Chile para implementar una economía circular, se
+puede observar que los participantes coincidirían en que el ámbito empresarial sería el más
+relevante, con 43% de las oportunidades detectadas. Luego se reconocen un menor número
+de oportunidades para el ámbito Educativo/académico, mientras que se identifican solo 10
+oportunidades para el ámbito de consumidores y ONG y para el ámbito institucional
+regulatorio.
+37
+
+--- Página 38 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Gráfico 5 Oportunidades según ámbito
+Institucional
+Educativo/Académic regulatorio
+o 18%
+21%
+Consumidores y
+ONG
+18%
+Empresarial
+43%
+Fuente: Elaboración propia en base a resultados del workshop FODA
+Respecto a las oportunidades identificadas, en términos transversales las mesas de trabajo
+identificaron que la economía circular es una tendencia mundial y es considerada un
+concepto convocante para potenciar el diálogo entre stakeholders, lo cual favorecería su
+implementación en Chile. Particularmente se reconoce la implementación de la economía
+circular en Europa; continente que siempre ha sido referente para Chile para implementar
+diversas estrategias, políticas, etc.
+Otro elemento transversal indicado por uno de los grupos, tiene relación con el escenario
+producto del Cambio Climático. Si bien esto resulta un tema preocupante para el mundo, ha
+permitido movilizar a una diversidad de actores (estados, ciudadanos, empresas, académicos,
+etc.) y la economía circular es una oportunidad para adaptar los modelos de negocios que
+sean respetuosos con el medio ambiente. En este sentido, la visibilización del país como un
+referente en materia medioambiental y climática y, principalmente como organizador de la
+COP25, representaría una oportunidad para potenciar la economía circular y aspectos
+vinculados a esta en todos los ámbitos.
+A continuación, se presentan las oportunidades por ámbito.
+38
+
+--- Página 39 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+5.2.1. Oportunidades del ámbito institucional-regulatorio
+Analizando específicamente el ámbito institucional-regulatorio, se identifican oportunidades
+respecto a la imagen país de Chile, ya que en materia medioambiental es reconocido como
+líder en la región.
+Esto se identifica como una oportunidad de “doble entrada”. Por una parte, los par ticipantes
+señalan una oportunidad asociada a posicionar al país aún más como un referente en la
+materia, lo cual tendría impactos positivos para la exportación de bienes y servicios,
+posicionarse como destino turístico, a nivel de relaciones diplomáticas, entre otros.
+Por otro lado, se reconoce que transitar hacia una economía circular tiene la oportunidad de
+que el país pueda desarrollar y aprovechar sus especificidades locales. Chile es un país con
+una gran diversidad de ecosistemas, que permite pensar el desarrollo económico circular
+desde lo local, es decir tener un posicionamiento de la óptica territorial, sumada a la sectorial
+(minería, agua, madera, etc.) que genere distintas soluciones según la ubicación/región.
+Por último, se identifica como oportunidad asociada a la economía circular, avanzar hacia la
+creación de un marco regulatorio que favorezca la trasparencia y acceso a la información de
+los consumidores, por ejemplo, a través de la ley de etiquetas y sellos.
+Dentro de este ámbito se priorizó “aprovechar la visibilidad de la COP 25” (con un voto) como
+una oportunidad para avanzar hacia un economía circular en el país.
+5.2.2. Oportunidades del ámbito empresarial
+Para el ámbito empresarial, en primer lugar, se identifican oportunidades que surgen de las
+tendencias en los mercados internacionales y las empresas multinacionales. En este sentido,
+se indica que estas grandes empresas están adoptando compromisos de economía circular, lo
+cual implica que en Chile se deben aplicar dichos compromisos, y por otro lado, implica que
+Chile, país exportador, debe acogerse a esos nuevos estándares internacionales. Esto último
+es una oportunidad porque acelera la implementación de medidas asociadas a la economía
+circular para que las empresas puedan seguir participando en los mercados internacionales.
+Asociado a esto, hay un movimiento creciente de empresas sostenibles. El desarrollo
+sustentable es un mandato para las empresas. Hoy se identifica la oportunidad de empezar a
+trabajar en una RSE 2.0, una responsabilidad social empresarial que hace algunos años
+conversa con los Objetivos de Desarrollo Sostenible y que ahora tiene que incorporar
+acciones concretas en materia de economía circular.
+39
+
+--- Página 40 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Otra línea de oportunidades identificadas, y que fue señalada por las cuatro mesas de trabajo
+del workshop , tiene relación con la apertura de nuevas líneas de negocios asociadas a la
+Economía Circular. Según indican las personas participantes, Chile tiene la oportunidad de
+potenciar el desarrollo del sector no extractivo, como por ejemplo, servicios, manufactura y el
+desarrollo de tecnologías digitales; sectores que cuentan con un gran potencial actualmente y
+que la economía circular podría ser un trampolín para una mayor visibilización y participación
+en el PIB. En relación a lo anterior, se reconoce la oportunidad de desarrollar materiales
+sofisticados, es decir, generar ecomateriales sostenibles a partir de la madera y otros recursos
+naturales renovables, lo cual sería una oportunidad asociada a la riqueza de la biodiversidad
+del país.
+De esta forma, se reconoce que la economía circular brinda una clara oportunidad al
+surgimiento de una nueva industria, a partir de la creación de soluciones locales a lo largo de
+todo Chile, incorporando los desafíos específicos de cada contexto. De este modo, se
+menciona que se abren claras oportunidades para el desarrollo de nuevos emprendimientos
+de producción local, pudiendo aumentar la oferta de negocios que pertenecen a cadenas
+proveedoras de las grandes empresas. En este sentido, existe el potencial de que las PYMES –
+que tienen mayor capacidad de adaptación que las grandes empresas – puedan asumir más
+rápidamente los desafíos de la economía circular y, por tanto, tener un mayor impacto local.
+Lo anterior, incluso permitiría que empresas pequeñas – por ejemplo, vía asesorías o
+soluciones tecnológicas – puedan movilizar a las empresas grandes para que se adapten a los
+desafíos de la economía circular.
+En relación a lo anterior, también se identifica como oportunidad el potenciar nuevos
+modelos de consumo, dentro de los que se menciona modelos basados en compartir y/o
+intercambiar.
+Asimismo, el surgimiento de empresas circulares y un modelo más sostenible de desarrollo
+implicaría la oportunidad de generar empleos “verdes”, lo cual aumentaría y diversificaría la
+oferta laboral existente. Estos potenciales impactos positivos conversan con los destacados
+en hojas de ruta internacionales y estudios sobre economía circular, que hablan de
+oportunidades de crecimiento positivo asociadas a la creación de 75 mil nuevos empleos de
+cara al 2030 8 , e incluso de un potencial de 300 mil nuevo trabajos 9 .
+8 Leading the Cycle, Finnish Road map to a circular economy 2016-2025. Basado en The Club of Rome (2015)
+“The circular economy and benefits for society: Jobs and Clim ate clear winners in an economy based on
+renewable energy and resource efficiency”.
+40
+
+--- Página 41 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+En relación al financiamiento, se identifica como oportunidad el que hoy el mundo financiero
+esté invirtiendo en modelos circulares, lo cual sería un indicador para pensar que la economía
+circular tiene un potencial de desarrollo basado en el mercado, toda vez que existe un interés
+desde el Estado y los propios consumidores.
+Por último, se identifica que la economía circular viabiliza la transferencia tecnológica y que,
+tener un fuerte componente de innovación y tecnología, implicaría una oportunidad para el
+país de avanzar en esta dirección.
+En síntesis, en este ámbito se priorizaron las siguientes oportunidades para Chile de avanzar
+hacia una economía circular:
+Gráfico 6 Priorización de oportunidades: Ámbito empresarial
+6 6
+2 2
+1
+PYMES, Desarrollo Nuevos modelo Empresas más Desarrollo de Transferencia
+Local y empleo económicos (empresas sostenibles materiales sofisticados tecnológica
+B, sharing economy,
+etc.)
+Fuente: Elaboración propia en base a resultados del workshop FODA
+5.2.3. Oportunidades del ámbito de consumidores y ONG
+En cuanto a las oportunidades levantadas para el ámbito consumidores y ONG se reconoce, en
+primer lugar, que la economía circular entrega las posibilidades de integrar a consumidores y
+ONG como actores claves en su implementación. Gracias a la disponibilidad de redes digitales,
+que permiten acceder y compartir información rápidamente, los consumidores se encuentran
+9 FREC 50 measures for a 100% circular economy.
+41
+
+--- Página 42 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+más informados, empoderados y con mayor capacidad de incidencia; elementos que ya
+fueron destacados como una fortaleza del consumidor chileno.
+Por otro lado, se identifica como oportunidad que la economía circular permite fortalecer
+redes, colaboración y que actualmente se puede acceder a ejemplos exitosos en el extranjero
+de colaboración entre empresas y sociedad civil, que sirven de modelo para Chile. Esto crea
+un nuevo formato de relación entre empresa y consumidores, donde, por ejemplo, se abren
+espacios como la compra a granel, lo que motiva el uso adecuado de envases y además
+promueve la aparición de cooperativas. Es una vuelta o mirada hacia prácticas antiguas y
+olvidadas reeditadas para los nuevos escenarios de consumo.
+En síntesis, la oportunidad de avanzar hacia una economía circular es el surgimiento de
+consumidores más conscientes y su articulación con la industria para asegurar una oferta de
+productos y servicios adecuados a dichos consumidores.
+Respecto a oportunidades específicas para las ONG, ninguno de los grupos identificó
+elementos particulares a destacar. Sin embargo, la mención de los conceptos de colaboración
+y visibilización de manera general a este ámbito de acción, permiten concluir que serían las
+organizaciones civiles quienes tienen la oportunidad de tomar este rol articulador,
+aprovechando el momentum tanto de la economía circular, como del cambio climático, con el
+fin de multiplicar acciones que generen una adopción transversal de la economía circular.
+Dentro de este ámbito las oportunidades priorizadas por los participantes fueron:
+Gráfico 7 Priorización de oportunidades: Ámbito consumidores y ONG
+1 1 1
+Cambio climático y Creación de nuevos Utilización de casos
+oportunidad para la EC – formatos de consumos. extranjeros de éxito de
+considerado un elemento Masificación y rescate de colaboración: público-
+transversal a los cuatro prácticas privada, empresa-
+ámbitos consumidores
+Fuente: Elaboración propia en base a resultados del workshop FODA
+42
+
+--- Página 43 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+5.2.4. Oportunidades del ámbito educativo y académico
+En este ámbito las oportunidades identificadas para avanzar hacia una economía circular se
+relacionan, en primer lugar, con las posibilidades que tiene Chile de desarrollar innovación e
+investigación aplicada para el desarrollo de productos y servicios circulares adecuados a los
+requerimientos y características de diferentes regiones del mundo, gracias a los diferentes
+ecosistemas que tiene el país que, como ya se ha mencionado, pueden actuar como
+laboratorios naturales. Adicionalmente, los participantes identifican que hoy existe un
+desarrollo incipiente en cuanto a información, estudios y conocimientos disponibles sobre
+Economía Circular, lo que permitiría – en caso de avanzar decididamente en esta línea -
+posicionar al país como un referente en la investigación científica en la materia. Asimismo,
+esto abre la puerta de aprovechar la experiencia y tecnología existente en el mundo para ser
+aplicada y potenciada en Chile, para lo cual es clave contar con los recursos y una articulación
+con el sector privado que facilite la aplicación de dichas tecnologías y conocimientos.
+Para ello, una oportunidad adicional sería la disposición a la colaboración por parte del
+mundo académico, que podría fomentar y potenciar el desarrollo de investigación en la
+materia.
+De igual forma, como se señaló previamente en la sección de fortalezas, existiría una
+demanda creciente por conocimiento y formación específica vinculada a la economía circular.
+En este sentido, para el ámbito educativo y académico existe la oportunidad de incorporar
+contenidos específicos en las mallas curriculares y direccionar recursos y mecanismos de
+apoyo a la formación de capital humano – por ejemplo, Becas Chile – para estudios avanzados
+en materia de economía circular que potencien la investigación y desarrollo en el tema.
+En este ámbito la oportunidad priorizada fue la “Posibilidades de innovar de todo tipo.
+Ecosistemas diferentes en Chile”, con 2 votos.
+5.3. DEBILIDADES
+Respecto a las debilidades que tiene Chile para avanzar hacia una economía circular, los
+participantes del workshop identificaron 67 elementos distribuidos por ámbito según indica el
+gráfico a continuación.
+43
+
+--- Página 44 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Gráfico 8 Debilidades según ámbito
+Educativo/Académic
+o Institucional
+18% regulatorio
+31%
+Consumidores y
+ONG
+17%
+Empresarial
+34%
+Fuente: Elaboración propia en base a resultados del workshop FODA
+Como se puede observar en el gráfico, el ámbito institucional regulatorio y el ámbito
+empresarial son los que presentan un mayor número de debilidades, con 31% y 34%
+respectivamente. Luego en una similar cantidad, se identificaron debilidades en el ámbito de
+consumidores y ONG y Educativo / Académico.
+Una debilidad identificada, que es transversal a todos los ámbitos, es el poco conocimiento y
+manejo técnico que se tiene en el país sobre economía circular. Esto, ya que la problemática
+suele ser abordada exclusivamente desde la gestión de residuos, cuando este aspecto es solo
+uno de los eslabones de la cadena de valor de la economía circular.
+Por otro lado, se señala que, en general, el país tiene resistencia al cambio y hay poca
+confianza entre los actores, lo que es una debilidad cuando se plantea querer adoptar una
+cultura de colaboración, aspecto central de una economía circular. En ambos casos se plantea
+que a través de herramientas de gestión del cambio se pueden superar estas debilidades.
+44
+
+--- Página 45 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+5.3.1. Debilidades del ámbito institucional-regulatorio
+Una de las principales debilidades mencionadas en este ámbito tiene que ver con las
+regulaciones vigentes o las que están en discusión parlamentaria, ya que, según los
+participantes, se han visto contradicciones regulatorias que podrían trabar la implementación
+de la economía circular. Particularmente, al existir muchas iniciativas en paralelo, no se
+incorpora una mirada sistémica y faltarían salvaguardas que aseguren una coherencia entre
+diferentes iniciativas.
+Por otro lado, en el ámbito normativo, se percibe una dificultad para implementar las leyes,
+por trabas para elaborar los reglamentos, buscar consensos, etc. Por eso se ha resaltado
+como fortaleza el que la Ley REP tenga un proceso participativo en su implementación, como
+un aspecto positivo que permite una mejor aplicación y aceptación.
+En dos mesas de trabajo se abordó el tema de la rigidez normativa y administrativa, y la poca
+capacidad de actualización que tiene la normativa vigente. Así se levantaron ejemplos como:
+i) la regulación sanitaria actual que no facilitaría la economía circular, porque no permite, por
+ejemplo, reutilizar plásticos contaminados, pese a los avances tecnológicos en la materia; ii) la
+rigidez administrativa como la Resolución de Calificación Ambiental (RCA), los permisos
+sectoriales y las obras del MOP, donde no es posible incorporar nuevas tecnologías si es que
+no han sido previamente evaluadas y aprobadas por organismos competentes, lo cual retrasa
+la implementación de los proyectos debido al exceso de burocracia.
+Otro ejemplo interesante que se entregó es la generación de normativas poco efectivas, que
+finalmente no logran cumplir con el objetivo para la cual fue creada. Esto ocurrió con la
+restricción para vehículos catalíticos en la Región Metropolitana, donde finalmente las
+personas optaron por comprar un segundo auto, aumentado así el parque automotriz en la
+capital. En este sentido, la medida de descongestión y descontaminación no fue efectiva.
+Relacionado con esto también se menciona como debilidad la falta de recursos y capacidad
+para la fiscalización por parte de muchas instituciones del país. Relacionado con ambos
+puntos, se encuentra el sistema actual de gestión de residuos, en el cual no existe un
+mecanismo de precios que incentive el reciclaje/reducción de generación (o alternativamente
+castigue el no reciclaje) y que, en muchos casos, no cuenta con mecanismos de fiscalización
+que al menos aseguren un estándar mínimo en la disposición y tratamiento de los residuos.
+Ejemplos como estos representan las debilidades en términos de flexibilidad y agilidad del
+marco normativo e institucional para implementar mecanismos de incentivos o sanción que
+permitan avanzar hacia una economía circular. Esto, ya que al ser un enfoque de desarrollo
+basado en la innovación, la tecnología y el uso de nuevos materiales y sistemas (de
+45
+
+--- Página 46 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+producción, reciclaje, etc.) requiere necesariamente de un mayor dinamismo y adaptabilidad
+en todos los ámbitos.
+Por otro lado, todos los grupos de trabajo mencionaron como una debilidad la centralización
+y el (o la falta de) ordenamiento territorial. En primer lugar, se señala como debilidad el
+hecho de que existe una brecha importante entre lo que ocurre en la Región Metropolitana
+(RM) versus las otras regiones del país, en términos de infraestructura y servicios para asumir
+los desafíos de entrar en una economía circular. Hoy, esto se ve claramente en la diferencia
+que hay en la disponibilidad de puntos de reciclaje en regiones y en la RM.
+Por otro lado, Chile no cuenta con un ordenamiento territorial claro, por tanto, no es posible
+planificar cómo el territorio va acogiendo medidas relacionadas con economía circular, como
+por ejemplo, dónde se instalan rellenos sanitarios, dónde se instalan plantas de energía solar,
+etc. En este mismo aspecto, se indica que la extensión del país y la lejanía entre un punto y
+otro, dificulta implementar la economía circular por temas logísticos, entre otros.
+Un tema que se levantó como oportunidad para transitar hacia la economía circular, pero que
+no fue priorizado por la mesa, es que no hay tendencias o modelos únicos para implementar
+este tipo de economía. Sin embargo, en contraposición, uno de los grupos indica que Chile
+está acostumbrado a copiar otros modelos, lo cual puede ser una debilidad en un espacio
+abierto a la innovación y que requiere ser pensado a partir de las características y
+condicionantes propios del país. Asociado a esto último, es que se señala que una debilidad
+sería no tener una Hoja de ruta en economía circular, es decir, falta un plan de acción que
+permita abordar los vacíos de información técnica y el correcto análisis de todas las
+alternativas disponibles, para tomar decisiones a corto, mediano y largo plazo en esta
+materia.
+Por último, se señala como debilidad la poca inversión que tiene Chile en I+D+i,
+particularmente por parte del sector privado. Si bien, se identificó como fortaleza los
+instrumentos de innovación disponibles en CORFO, se entiende que estos no son suficientes
+para transitar hacia una economía circular en el mediano plazo.
+Las debilidades priorizadas por los participantes fueron:
+46
+
+--- Página 47 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Gráfico 9 Priorización de debilidades: Ámbito institucional-regulatorio
+4
+2 2 2
+1
+Aspectos culturales Contradicciones y Deficiente Poca inversión en Sistema actual de
+(resistencia al dificultades para la planificación I+D+i gestión de residuos
+cambio y poca implementación de territorial
+colaboración) leyes y regulaciones
+Fuente: Elaboración propia en base a resultados del workshop FODA
+5.3.2. Debilidades del ámbito empresarial
+En el ámbito empresarial se puede señalar como una primera debilidad que la industria
+chilena tiene una mirada cortoplacista (identificado por dos grupos de trabajo), lo cual va muy
+de la mano con una mirada lineal del negocio. En este sentido, se reconoce que el país basa
+su economía en el sector extractivo, con un modelo lineal basado en la exportación de
+materias primas, con un bajo valor agregado.
+Asociado a lo anterior, se identifica una debilidad asociada a la resistencia al cambio que
+tienen algunos sectores productivos en el país. Como ejemplo, se pone el sector de la
+construcción; el cual se señala que ha avanzado muy poco en términos de la sustentabilidad
+de sus procesos (gestión de residuos de la construcción, uso de materiales reciclados, etc.).
+Además se indica como debilidad la resistencia del mercado y los gremios, los cuales están
+muy concentrados, por lo tanto es difícil incentivarlos a que implementen cambios. No
+obstante, se identifica que esta debilidad no solo tienen que ver con la empresa, sino que
+existiría un factor de incentivos (o la falta de) que tienen las empresas para asumir los
+47
+
+--- Página 48 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+cambios necesarios. Ejemplo de ello es el precio por tonelada de basura a relleno sanitario, el
+cual es bajo respecto, por ejemplo, a los costos de reciclaje.
+Desde el punto de vista de las operaciones, se indica que una debilidad de las empresas es
+que no se trabaja de manera sistémica. En general, indican los participantes el gerente de
+sustentabilidad de una empresa se hace cargo de tareas secundarias, sin tener una posición y
+funciones incidentes para la toma de decisiones estratégicas del negocio. Ejemplo de esto, se
+señala que los KPI de las empresas están poco alineados con medidas de sustentabilidad y no
+se enfocan a los impactos reales de la empresa en el entorno.
+Por otro lado, en tres grupos de trabajo se señala que una importante debilidad tendría que
+ver con la falta de industrias nacionales y un alto nivel de importación de productos de
+consumo e insumos para los sectores primarios.
+En relación a las PYMES, se indica que una debilidad sería que el país tiene muchas barreras
+de entrada, lo cual dificultaría el desarrollo de nuevos mercados para la economía circular.
+Se identifica como una debilidad la “ paradoja de cruce de modelos ”, como, por ejemplo, el
+aumento de bolsas de papel luego de la prohibición del uso de bolsas plásticos. Esto abre un
+debate y cuestionamiento. Se requiere cambiar la concepción de consumo, en cuanto a cómo
+lo ven las empresas y cómo se plantean las empresas frente a estos cambios y los efectos
+“rebote” que tienen las leyes y las políticas pública s.
+Las debilidades priorizadas por los participantes del workshop para este ámbito fueron:
+48
+
+--- Página 49 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Gráfico 10 Priorización de debilidades: Ámbito empresarial
+1 1 1 1
+Falta desarrollar industria KPI desalineados de Falta de industria Dificultad en la
+y capital impacto real nacional implementación de la Ley
+REP por situación
+geográfica del país
+Fuente: Elaboración propia en base a resultados del workshop FODA
+5.3.3. Debilidades del ámbito de consumidores y ONG
+En relación a este ámbito, en primer lugar se puede señalar que sólo uno de los grupos
+identificó debilidades respecto al mundo de la sociedad civil organizada. Al respecto, se
+señala que aún no existe masa crítica suficiente de ONG en materia de economía circular, y la
+que existe no ha logrado tener una visibilidad necesaria para generar influencia respecto al
+te ma. Se indica que “se echa de menos” una mayor participación de ONG con presencia
+internacional como Greenpeace o WWF, que trascienda el enfoque reactivo medioambiental
+para abordar temas más propositivos en el ámbito de la economía circular.
+Por otra parte, en todos los grupos se abordan debilidades respecto a patrones de consumo.
+Un aspecto clave en este ámbito es que avanzar hacia una economía circular requiere
+cambiar la concepción de consumo y hoy – con los tratados de libre comercio internacionales,
+por ejemplo, con China – existe un mercado de productos importados que promueve un
+consumo rápido y desechable. Las nuevas formas de consumo, el consumo por internet,
+pueden tener aparejado efectos rebotes dañinos para el medioambiente.
+Otra debilidad relevante identificada en el ámbito de la sociedad civil tiene que ver con
+factores asociados a la desigualdad, particularmente se menciona un bajo nivel educacional
+en el país y bajo acceso a información, lo cual implica que no es posible que todos los
+49
+
+--- Página 50 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+consumidores puedan asumir los desafíos de transitar hacia una economía circular. La
+situación de desigualdad también se vería reflejada en el acceso que tienen las personas a
+plataformas y mecanismos asociados a un consumo y gestión de residuos más sustentable –
+por ejemplo, se menciona que la disponibilidad y acceso a puntos limpios es mucho más
+limitada en comunas de escasos recursos que en aquellas con mayores recursos. En línea con
+lo anterior, se identifica que existe una concepción por parte de un gran porcentaje de los
+consumidores de que lo sustentable es caro, lo cual implicaría limitantes culturales o de
+percepción para avanzar hacia una economía circular.
+Como ya se menciona al inicio de esta sección, si bien es una debilidad de carácter
+transversal, desde la óptica de los consumidores se observa una visión sesgada de la
+economía circular, la cual se estaría homologando a reciclaje. El reciclaje corresponde al
+último eslabón de la cadena de valor, y en economía circular el objetivo es hacer frente a los
+problemas que derivan de la producción y consumo en etapas anteriores.
+Por último, una debilidad relevante identificada es la desconfianza generalizada que tendrían
+los consumidores chilenos. Esto dificultaría emprender acciones de colaboración y
+asociatividad, lo cual, según indican los participantes del workshop , justificaría que las
+empresas no implementen acciones de economía colaborativa por ejemplo.
+Dentro de las debilidades mencionadas, los participantes priorizaron las siguientes:
+Gráfico 11 Priorización de debilidades: Ámbito consumidores y ONG
+2 2
+1
+Desigualdad social Deconfianza de los consumidores Visión sesgada de la EC (solo
+reciclaje)
+Fuente: Elaboración propia en base a resultados del workshop FODA
+50
+
+--- Página 51 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+5.3.4. Debilidades del ámbito educativo y académico
+Un aspecto clave identificado por todos los grupos de trabajo en este ámbito, tienen que ver
+con una falta de masa crítica en el mundo académico. En general, de acuerdo a los
+participantes, la academia no estaría abordando concretamente los desafíos que requiere la
+implementación de una economía circular en el país.
+En este sentido, se identifica como una debilidad relevante es la falta de trabajo articulado
+entre las empresas y la academia, que permita potenciar espacios de formación y desarrollo
+de I+D+i.
+Asociado a esto también, se menciona una necesidad de actualización de los curriculums de
+las diferentes carreras universitarias, que incorpore elementos de sustentabilidad y, más aún,
+economía circular. Un ejemplo relevante, es que las Escuelas de negocios del país no manejen
+conceptos ni conocimientos sobre economía circular o que cuenten con ramos de
+sostenibilidad como eje transversal del proceso formativo.
+Si bien se identifican algunas acciones aisladas, estas estarían principalmente enfocadas en el
+eco-diseño, lo cual, como se ha visto previamente, sería una debilidad en términos de
+conocimiento a la luz de la tendencia de homologar Economía Circular a reciclaje.
+Por otra parte, se señala la importancia de pensar en estos temas desde la educación en
+colegio, no solo en universidad y centros técnicos. Lo anterior, estaría asociado a otra
+debilidad relevante señalada y que es la falta de educación hacia los consumidores. En este
+sentido, se indica que las empresas podrían tener un rol relevante para promover espacios de
+formación e incentivar nuevos patrones de consumo más sustentables. Por ejemplo, el sector
+de entretenimiento – organizadores de conciertos, festivales, etc.-, podrían incorporar dentro
+de sus ejes de trabajo el ser más sustentables, no solo haciéndose cargo de los desechos que
+produce un evento, sino que generar conciencia entre los espectadores que permita
+modificar patrones de consumo.
+Según lo reportado en el trabajo de los grupos, ninguno de ellos priorizó debilidades para este
+sector.
+5.4. AMENAZAS
+Finalmente, se pudo identificar un total de 37 amenazas levantas durante el desarrollo del
+workshop , donde el ámbito empresarial es el que lidera y el ámbito Educativo/académico
+presenta la menor cantidad de amenazas. Por otra parte, es importante señalar que para el
+caso del ámbito Educativo/Académico, solo dos grupos de trabajo mencionaron amenazas.
+51
+
+--- Página 52 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Gráfico 12 Amenazas según ámbito
+Educativo/Académi
+co
+11%
+Institucional
+regulatorio
+30%
+Consumidores y
+ONG
+16%
+Empresarial
+43%
+Fuente: Elaboración propia en base a resultados del workshop FODA
+5.4.1. Amenazas del ámbito institucional-regulatorio
+En el ámbito institucional-regulatorio se identificaron amenazas vinculadas con los consensos
+que hay detrás del concepto de economía circular. Los participantes mencionan que existen
+múltiples definiciones, y por ende que no hay una única forma de implementación, lo cual
+puede ser una ventaja porque permite un amplio abanico de acción, pero la amenaza está en
+su ambigüedad. En este sentido, se indica que, por un lado, cualquier medida podría tratar de
+asociarse a economía circular, y por otro lado, no se han elaborado métricas internacionales
+sobre implementación de economía circular que permita evaluar los ámbitos de acción y los
+resultados de su implementación. En este sentido uno de los grupos levantó la pregunta
+sobre ¿qué modelo de economía circular es mejor? Relacionado con esto, se indica como una
+amenaza el poco conocimiento a nivel nacional que existe sobre el concepto de economía
+circular y Cambio Climático; lo que permite que se transformen en conceptos de “moda” y
+que terminan siendo cooptados y politizados, perdiendo sus principales objetivos.
+52
+
+--- Página 53 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+Vinculado a esto, se identificó como amenaza el riesgo de importar experiencias
+internacionales de economía circular sin una mirada crítica y aplicada a la realidad del país.
+Esto va muy de la mano de la debilidad detectada respecto a que Chile es considerado un país
+que mira mucho lo que hace Europa y en general copia modelos de programas para ser
+aplicados en el país, no teniendo siempre buenos resultados, dado que no se aplican
+necesariamente con una lectura crítica del contexto país.
+Otra amenaza relacionada al cómo implementar la economía circular, tiene que ver con la
+eventual creación de un marco normativo parcial, o que esté enfocado en matices o algunos
+elementos vinculados a la economía circular, pero no al fondo del concepto. Esto se asocia a
+la situación previamente descrita de iniciativas legislativas múltiples y contradictorias.
+Por último, se señala como amenaza que en algunos sectores productivos existe una crisis
+reputacional que podría ser una limitante y dificultad para posicionar a ese sector/industria
+como actor clave en la economía circular. Un ejemplo particularmente claro de esto es el
+rubro de la gestión de basura, donde el emblemático “caso basura” ha afectado seriamente a
+la industria.
+Las amenazas priorizadas por los participantes para este ámbito son:
+Gráfico 13 Priorización de amenazas: Ámbito institucional-regulatorio
+3
+1 1 1
+Falta de métricas Marco regulatorio Desconocimiento y Iniciativas legislativas
+internacionales de enfocado en matices y no cooptación del concepto múltiples y
+economía circular al fondo contradictorias
+Fuente: Elaboración propia en base a resultados del workshop FODA
+53
+
+--- Página 54 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+5.4.2. Amenazas del ámbito empresarial
+En cuanto al ámbito empresarial una primera amenaza que se identifica en tres grupos de
+trabajo refiere al concepto de greenwashing , es decir, el uso con fines de marketing del
+concepto para fines comerciales, sin estar generando medidas concretas y suficientes para
+efectivamente ser más sustentables. El tránsito hacia una economía circular podría generar
+este tipo de práctica en las empresas: “hacer un poco mejor las cosas no significa hacerlas
+bien” .
+Lo anterior va de la mano con el fuerte lobby que pueden realizar las industrias tradicionales,
+al ver amenazadas sus actividades de negocio. En general, se considera que la baja capacidad
+de innovación sumada a aspectos culturales de ciertos rubros, hace que estas industrias sean
+reticentes a buscar y adoptar un cambio. Esto es una amenaza para transitar a la economía
+circular como país, ya que estarían enfocadas a evitar este cambio.
+Por otro lado, se señala como amenaza para transitar a una economía circular que Chile es un
+país extractivo y exportador de productos de poco valor agregado, además de un mercado
+relativamente concentrado. La suma de estos factores puede limitar la innovación y estancar
+los procesos de transferencia tecnológica y mejora continua que requeriría avanzar hacia la
+economía circular. Debido a lo anterior, los participantes señalan que se requiere identificar
+los monopolios naturales existentes y regularlos, favoreciendo la competencia.
+Otra amenaza identificada es la cantidad de acuerdos comerciales internacionales que Chile
+ha suscrito, lo cuales podrían tener diferentes exigencias, podrían ser contradictorios y/o
+tener poca compatibilidad con acciones concretas para transitar hacia una economía circular.
+Un ejemplo actual al respecto es el tratado con China – ya mencionado como una debilidad – ,
+el cual disponibiliza una oferta de productos a precios bajos que limita la competencia de
+productos locales eventualmente más sustentables, lo cual promueve una cultura de
+consumo desechable poco alineada con los objetivos de la economía circular.
+Por otro lado, se señaló que entrar en la economía circular podría ser visto por las empresas
+como una amenaza, porque podría afectar la rentabilidad del negocio. Por ejemplo, si se
+demanda menos materia prima por reutilización entonces podría verse afectado la
+exportación de cobre.
+Asociado también a la producción local, es que a nivel internacional puede haber un cambio
+de paradigma en el modelo de producción, asociado más a ser respetuosos con el
+medioambiente. Si el productor local no se suma a ese cambio de paradigma tiene el riesgo
+de quedar fuera de los mercados internacionales, por ejemplo, por boicoteos a los productos
+54
+
+--- Página 55 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+chilenos como ha sido el caso de la producción de paltas y sus efectos sobre el recurso
+hídrico, lo que desprestigió al mercado en el extranjero.
+En el corto plazo, se identifica como amenaza la pérdida de oferta de empleos en algunos
+rubros, por ejemplo, con la eliminación del uso de bolsas plásticas se redujeron los puestos de
+trabajo en ese sector productivo. Sin embargo, se reconoce que la economía circular puede
+abrir nuevas oportunidades laborales para un nuevo mercado.
+Por último, se presentó como una amenaza la posibilidad de que como país no se pueda ser
+capaz de cerrar los ciclos de la economía circular por falta de industria que lo aproveche. Por
+ejemplo, actualmente el material a reciclar se exporta para ser tratado en otros países. Si esos
+países cierran la posibilidad de trabajar con material importando, entonces Chile se queda sin
+poder cerrar el ciclo en temas de gestión de residuos.
+Las amenazas que fueron priorizadas durante el workshop fueron:
+Gráfico 14 Priorización de amenazas: Ámbito empresarial
+5
+3
+2 2 2
+1
+Concentración de Bajo valor Dependencia de Exigencias y No ser capaces de Reducción de
+mercado y lobby agregado de mercados limitantes de cerrar los ciclos de competitividad y
+nuestros internacionales acuerdos economía circular puestos de trabajo
+productos para la gestión de comerciales en el corto plazo
+residuos internacionales
+Fuente: Elaboración propia en base a resultados del workshop FODA
+5.4.3. Amenazas del ámbito de consumidores y ONG
+Respecto al ámbito de consumidores y ONG en primer lugar, dos grupos de trabajo señalan
+que una amenaza para enfrentar la economía circular en el país es que el concepto de
+economía circular es muy difuso e incipiente, por lo tanto, no hay claridad respecto a
+55
+
+--- Página 56 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+objetivos, medidas concretas, etc. Lo que hay hasta ahora en Chile es una reducción del
+concepto de economía circular asociado a medidas de reciclaje / gestión de residuos. Por
+tanto se requiere transmitir mayores conocimientos específicos sobre qué es economía
+circular.
+Otra amenaza tiene relación con los patrones de consumo que instalan la idea de lo rápido,
+de la disponibilidad inmediata y permanente, etc. por sobre lo local, estacional y simple.
+Ejemplo de esto es que los consumidores quieren frutas de verano en invierno, y por eso
+aumentan las importaciones, aumenta la huella de carbono, etc.
+Por otro lado, una amenaza se relaciona con la gradualidad en la implementación de las
+medidas relacionadas con economía circular, lo que puede generar desconfianza y
+desprestigio entre los ciudadanos. Por ejemplo, se exige mejorar los sistemas y disponibilidad
+de espacio para reciclar. En la Región Metropolitana esto ha ido en aumento en distintas
+comunas, pero no llega con la misma intensidad en todas las regiones, por lo tanto, se
+desconfía de la real implementación de las medidas.
+Otra amenaza tiene relación con la transparencia en el uso de recursos y financiamiento, es
+decir, transitar hacia la economía circular va a exigir mayor información de trazabilidad de los
+recursos por parte de los consumidores y ONG, pudiendo identificar claramente de dónde se
+obtienen los recursos para financiar acciones, además transparencia sobre cómo se producen
+ciertos productos, etc. Todo esto para ver la trazabilidad y su coherencia con la economía
+circular.
+Una posible amenaza tiene relación con la oposición que pueden tener las comunidades para
+el desarrollo de proyectos nuevos. Esto por los temores a los riesgos que pueden ocasionar y
+porque también hay un historial de desconfianzas creadas.
+De las amenazas identi ficadas en este ámbito, los participantes priorizaron “ El mensaje de
+economía circular no es claro y se centra en el reciclaje”, con un voto.
+5.4.4. Amenazas del ámbito educativo/académico
+En cuanto al ámbito educativo/académico se señalaron cuatro amenazas. Una de ellas tiene
+relación con la falta de conocimientos que hay en temas de economía circular – tal y como se
+señaló en las debilidades-, lo cual traba la posibilidad de transitar hacia este tipo de modelo.
+Esto podría estar asociado a los escasos incentivos y espacios específicos de formación,
+conocimientos, educación en la línea de economía circular, como se puede observar, por
+ejemplo, en la falta de un enfoque de sostenibilidad en los curriculums de formación, lo cual
+56
+
+--- Página 57 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+implicaría que no es un tema formativo con relevancia transversal en los procesos educativos.
+Esto afectaría el interés y tiempo de dedicación para abordar estos temas, por ejemplo, a
+través de programas formativos, a través de investigación, etc.
+Por último, se señala que una amenaza es que en el ámbito académico se generen
+tecnologías y procedimientos que luego no puedan ser aplicados en los negocios, por
+ejemplo, los productores no puedan acceder a estas tecnologías por ser costosas.
+Para este ámbito, al igual como ocurrió en las debilidades, no se priorizó ninguna amenaza.
+57
+
+--- Página 58 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+6. CONCLUSION: REFLEXIONES Y RECOMENDACIONES
+A nivel general, los resultados del taller de expertos mediante análisis FODA indicarían un
+escenario favorable en términos de las condiciones de base y los impactos potenciales
+positivos asociados a la implementación de la Economía Circular en Chile. No obstante,
+existen una serie de limitantes de carácter estructural, que representan condicionantes de
+base estratégicos para un proceso de este tipo.
+A juicio del equipo consultor, los impactos positivos de corto plazo más relevantes a los cuales
+podría acceder el país por medio de la implementación de una Hoja de Ruta de Economía
+Circular, tiene que ver con la imagen país y el posicionamiento de los bienes y servicios
+chilenos ante mercados más exigentes en términos del cumplimiento de estándares de
+sostenibilidad a lo largo de la cadena de valor de los productos y servicios que consumen. Este
+es un elemento que surge en prácticamente todas las discusiones del taller y se vincula a la
+amenaza que existiría de pérdida de competitividad a futuro en la medida en que el país no
+sea capaz de adaptarse a la nueva tendencia mundial de mayor sostenibilidad y conciencia
+climática en las decisiones políticas, productivas y de consumo. En línea con lo anterior,
+existiría una oportunidad inmediata, en el marco de la COP25 y el posicionamiento actual de
+Chile a nivel internacional, asociada a consolidar el rol del país como referente en materia de
+sostenibilidad a nivel regional y facilitar, así, el acceso a financiamiento internacional para
+abordar los desafíos e iniciativas que implica el avanzar hacia una economía circular.
+Otro aspecto relevante en el corto y mediano plazo que se identifica a partir del análisis del
+workshop , tiene que ver con el impacto local y multiplicador que podría tener la economía
+circular a lo largo del país. En un contexto de demandas de mayor autonomía territorial y un
+proceso de descentralización administrativa, la economía circular se identifica como un
+potencial motor de desarrollo regional que podría gatillar procesos virtuosos de
+emprendimiento, consumo, desarrollo de productos y servicios, exportación y revalorización a
+nivel local, aprovechando las condiciones y características específicas de los diferentes
+territorios del país. Un aspecto relevado por los participantes, tiene que ver con las ventajas
+asociadas a la biodiversidad del país, en términos de la gran diversidad climática y
+ecosistémica que entrega una gran cantidad de recursos renovables para el desarrollo de
+ecomateriales, bienes y servicios sostenibles. Lo anterior, sumado a las dimensiones el país,
+cantidad de habitantes e ingreso per cápita, lo posicionarían como un laboratorio natural
+óptimo (o un set de múltiples laboratorios naturales a lo largo del país) para el desarrollo de
+productos y servicios circulares para la exportación a países con climas y/o condiciones
+58
+
+--- Página 59 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+similares a las nuestras. Lo anterior, se encuentra estrechamente vinculado con que la
+economía circular favorece un nuevo modelo de producción en que las PYMES cobrarían un
+rol clave y donde podrían ser articuladoras – como proveedoras, prestando asesoría o por
+medio de transferencia tecnológica – de una transición de las medianas y grandes empresas.
+No obstante, para lograr este desarrollo a nivel local resulta clave articular el mundo privado
+con la academia y fortalecer el rol de las universidades y centros de investigación –
+particularmente en regiones – , donde se identifica un gran oportunidad de desarrollo de
+conocimientos, dado el incipiente avance en el campo de la economía circular a nivel
+internacional, pero también una brecha significativa en términos de la aplicabilidad de la
+investigación y los recursos destinados a este tema.
+En relación a esto último y las condiciones con las que cuenta el país para poder avanzar hacia
+una economía circular, a juicio del consultor, hay dos aspectos clave. En primer lugar, existe
+un marco institucional sólido y avanzado en la materia, el cual se visibiliza como un pilar
+fundacional para las iniciativas futuras, ya que allana el camino y dota de experiencia práctica
+al proceso futuro de implementación de la Hoja de Ruta y las acciones – particularmente
+legislativas y normativas – que ésta defina. En este sentido, es relevante tomar en cuenta los
+aprendizajes y resultados de procesos previos, descansando en la trayectoria y madurez de
+las políticas públicas que han sido efectivas, tomando en consideración las características y
+condicionantes propios del país, y evitando replicar procesos o recetas de otros países o
+contextos. En este sentido, resulta clave articular la Hoja de Ruta con los avances logrados por
+medio de la Ley REP, los avances en términos de planes y compromisos de Cambio Climático,
+las definiciones de política energética alcanzadas por medio del proceso Energía 2050 y otros
+planes y programas del Ministerio de Energía, los programas e instrumentos de CORFO y la
+experiencia en acuerdos público-privados de la ASCC, asegurando un diseño de política
+pública coherente y que, al ser implementada, no genere nudos con otras definiciones.
+Finalmente, se hace un llamado a tener una mirada sistémica y asegurar que esta articulación
+y el diseño de la Hoja de Ruta aborde las causas estructurales del problema y no se limite a los
+síntomas, lo cual implica aprovechar y potenciar la existencia de una masa crítica de
+consumidores demandando nuevas prácticas de consumo más sostenible y consciente con el
+medio ambiente, pero también reducir los incentivos a perpetuar un modelo productivo
+extractivistas en pos de una economía basada en el conocimiento, la innovación, la
+revalorización y un uso sustentable de los recursos naturales renovables.
+Una segunda condición de base relevante es la disponibilidad de Capital Humano. Esto se
+percibe en el mundo académico en el ámbito de la ciencia y la ingeniería que se ha alcanzado
+en Chile – gracias al programa Becas Chile, los Centros de Excelencia de CORFO y otros
+59
+
+--- Página 60 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+programas CONICYT, entre otros. En este sentido, y en la medida que se cuente con
+mecanismos e instrumentos que promuevan y respalden la investigación aplicada en temas
+relacionados con la economía circular, sumado a los oportunidades asociadas a las
+condiciones de geografía local del país previamente descritas, existiría un gran potencial de
+desarrollo e innovación en la materia. Esto disponibilidad de Capital Humano avanzado
+también se identifica en la industria, a modo general, ya que cuenta con recursos humanos
+capacitados y que incluso pueden mover la disposición y disponibilidad de recursos –
+particularmente desde las grandes empresas y las start ups – para involucrarse en temas de
+sostenibilidad y mejorar sus procesos. En contraposición, s e levanta la advertencia de que, en
+términos de disposición y disponibilidad de las empresas a realizar acciones en economía
+circular también existe mucho de greenwashing y que “hacer un poco mejor las cosas, no es
+hacerlas bien” . Sin embargo, con los incentivos adecuados, a juicio del consultor existen las
+condiciones para avanzar conjuntamente en la dirección correcta.
+Por otra parte, dentro de los limitantes estructurales mencionados al inicio de la presente
+sección, hay dos elementos que, a juicio del consultor, son críticos y que, si bien no está en el
+alcance del proceso de diseño de la Hoja de Ruta su gestión, es relevante que sean tomados
+en consideración permanentemente a fin de asegurar un diseño con aplicabilidad y efectivo.
+El primero, guarda relación con el modelo de desarrollo económico del país, el cual se basa en
+la extracción y exportación de materias primas de bajo valor agregado y que, sumado a un
+mercado concentrado, genera escasos incentivos a la diversificación, particularmente cuando
+existe un componente de riesgo asociado. De esta forma los grandes grupos económicos de
+Chile tienen una cultura corporativa aversa al riesgo y poco proclive a la innovación, donde los
+incentivos, históricamente y en la actualidad, promueven la expansión de sus negocios
+tradicionales más que el desarrollo de nuevas formas de generación de riqueza – lo cual se
+puede verificar al analizar tanto los indicadores de I+D+i del sector privado en Chile, como de
+inversión en start-ups y capital de riesgo por parte de la banca nacional o los family offices . Lo
+anterior implica necesariamente una resistencia por parte de grupos de interés a aquellos
+cambios estructurales que no favorezcan la industria tradicional. Y, de manera transversal,
+parte de la discusión del taller arrojó que una buena gestión del cambio ayudaría a romper
+con la tendencia de aversión al cambio y a la falta de confianza en la cultura chilena.
+Un segundo elemento, probablemente muy relacionado con el anterior, tiene que ver con la
+desigualdad estructural del país, tanto a nivel socioeconómico como territorial. En este
+sentido, existen brechas relevantes desde el punto de vista educacional y de los incentivos
+ante una decisión de consumo por una parte importante de la población, donde el qué
+compro deja de ser una decisión y se convierte en la opción más asequible y el qué hacer con
+60
+
+--- Página 61 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+mis residuos está en último lugar dentro de la lista de prioridades. Geográficamente esto
+también tiene implicancias serias, ya que las brechas en servicios básicos e infraestructura
+vial, no solo limita el desarrollo de negocios y el acceso a bienes y servicios más sostenibles
+sino que pasan a ser prioritarias respecto a otro tipo de inversiones.
+Finalmente, otro elemento relevante de ser señalado en estas conclusiones tiene que ver con
+la falta de información obtenida por medio del presente ejercicio. Así, un hallazgo relevante
+es que el análisis FODA no permitió identificar elementos concretos asociados a los diferentes
+eslabones de la cadena de valor, salvo en el caso de los temas vinculados a la gestión de
+residuos. De esta forma, los participantes no identifican elementos precisos en términos de,
+por ejemplo, diseño, logística o comercialización circular, que son aspectos relevantes a
+evaluar y abordar si es que se desea llegar a propuestas concretas como es el caso de algunas
+hojas de ruta revisadas, por ejemplo, la de Finlandia o Francia. De forma similar, el análisis,
+debido a sus alcances y limitantes de tiempos y recursos, no permite profundizar acerca de
+las características específicas de los diferentes sectores productivos del país, o al menos,
+aquellos considerados prioritarios para la economía circular, pudiendo entender así las
+diferentes limitantes sectoriales u oportunidades específicas asociadas a un rubro
+determinado.
+En este sentido, y en base a los resultados de las actividades anteriores de este estudio, se
+identifica la necesidad de poder profundizar el análisis a nivel de diagnóstico, al menos para
+los siguientes sectores: Manufactura, Retail, Agroindustria, Acuicultura, Forestal, Alimentos,
+Construcción y Minería. De igual forma, se recomienda profundizar en aspectos específicos
+asociados a la aplicación de los principios de economía circular. Por una parte, en los
+eslabones de la cadena de valor circular, concretamente en Innovación y Ecodiseño, Logística
+y Transporte, Patrones de Consumo y Gestión de Residuos. Y, por otra parte, en las diferentes
+estrategias circulares y lo que rodea su aplicación exitosa, como: Estrategias Comerciales para
+Bienes y Servicios, Aspectos Regulatorios, Mercado Financiero, Tamaño de la empresa y
+relaciones virtuosas producción-consumo/uso.
+Además de estas reflexiones y recomendaciones, en el Anexo N°5 se incluye la Propuesta de
+actores integrantes para Comité Público-Privado, lista emanada de la actividad de mapeo de
+actores en economía circular en Chile y los comentarios de la contra parte técnica. Cabe
+mencionar dos aspectos a considerar: i) que la lista está con un alto número de actores del
+sector público, y ii) que falta integrar más representatividad de las regiones.
+61
+
+--- Página 62 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+7. SÍNTESIS DE PRINCIPALES ELEMENTOS DEL ESTUDIO
+Respecto al − Se levantó un catastro de 282 actores vinculados a la Economía
+circular representando al sector público, sector privado, sector
+levantamiento del
+sociedad civil y ONG, sector academia y sector soporte.
+Mapa de actores. Predomina el sector privado (59%) representado
+mayoritariamente por PYME/Start up; y el sector público es el
+que tiene menor porcentaje de actores mapeados, junto con el
+sector académico (5% y 6%, respectivamente).
+− Respecto al interés de los actores por la economía circular y a la
+influencia que estos tienen a nivel país, se identificaron 57 cluster
+que agruparon a los 282 actores. Según esta clasificación
+mayoritariamente los actores identificados en la base de datos
+tienen interés medio y alto en la economía circular, pero varía en
+cuanto a su nivel de influencia.
+− En cuanto a la cadena de valor de la producción, que
+corresponde a las actividades de una empresa o rubro de
+acuerdo a su objetivo, lo que incluye las etapas de producción, el
+consumo, post-consumo y disposición final, los actores
+mapeados se encuentran principalmente en tratamiento de
+residuos (12%), consumos/utilización (11%), producción o
+reelaboración a partir de un subproducto (10%) y recolección y/o
+gestión de residuos (10%). Solo se identificó un actor vinculado
+distribución y logística (tradicional e inversa).
+− Respecto a la distribución de actores según sector productivo,
+mayoritariamente se observan actores vinculados al sector
+Servicios (soporte, academia, profesionales expertos, entre
+otros) y Servicios Sanitarios (servicios básicos y de recolección y
+gestión de residuos).
+Respecto a los activos − La economía circular en Chile aún es incipiente y más bien se
+vincula a sostenibilidad y medioambiente.
+sectoriales.
+− Se percibe desarticulación en los sectores para avanzar en
+bloque hacia una economía circular.
+− La evaluación de los activos sectoriales refleja la oportunidad que
+distintos sectores tienen para avanzar hacia la Economía circular,
+más que indicar acciones concretas desarrolladas en la materia.
+− Se identifica al sector público como articulador de alianzas que
+permitan potenciar iniciativas o actividades que contribuyan a la
+Economía Circular. Se observa una articulación entre sector
+público y privado, pero no entre sector privado y sociedad civil
+y/o academia.
+62
+
+--- Página 63 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+− La economía circular, al ser un tema incipiente en el país, abre la
+posibilidad de alinear posiciones y generar entendimientos
+comunes para avanzar de forma aunada entre los distintos
+sectores.
+− Las tensiones que se observan entre sectores tiene
+principalmente que ver con temas regulatorios / normativos que
+traban avanzar hacia una economía circular.
+Respecto a los − Respecto a los impactos positivos, Chile cuenta con condiciones
+de base que permitirían implementar una economía circular. Por
+impactos potenciales
+ejemplo, existe seriedad y cumplimiento de la normativa vigente;
+de implementar la Chile es reconocido como líder en materia de sustentabilidad en
+economía circular en la Región; existe una trayectoria de articulación público-privada
+Chile. (APL, instrumentos CORFO), hay un mercado de
+emprendimientos que favorece la puesta en marcha de
+proyectos innovadores en la materia, la Ley REP es un gran
+movilizador de nuevas acciones, la sociedad civil se encuentra
+más empoderada y muestra nuevos patrones de consumo, entre
+otras.
+− Como oportunidades se destaca que en un contexto de
+demandas de mayor autonomía territorial y un proceso de
+descentralización administrativa, la economía circular se
+identifica como un potencial motor de desarrollo regional que
+podría gatillar procesos virtuosos de emprendimiento, consumo,
+desarrollo de productos y servicios, exportación y revalorización
+a nivel local, aprovechando las condiciones y características
+específicas de los diferentes territorios del país.
+− Como limítate estructural se encuentra que el mercado chileno
+se basa en la extracción y exportación de materias primas de bajo
+valor agregado y que, sumado a un mercado concentrado,
+genera escasos incentivos a la diversificación, particularmente
+cuando existe un componente de riesgo asociado. Por otro lado,
+el país presenta grandes problemas de desigualdad que afectan a
+la sociedad para adaptarse a nuevos patrones de consumo.
+También se reconoce que falta alianza entre el sector privado y la
+academia.
+− En cuanto a las amenazas, principalmente se reconoce que la
+ambigüedad actual del concepto de Economía circular podría
+implicar acotar el tema, por ejemplo, solo a gestión de residuos,
+o generar prácticas como greenwashing , lo que finalmente
+podría recaer en una desconfianza de la ciudadanía respecto a las
+acciones emprendidas por diversos actores.
+63
+
+--- Página 64 ---
+Consultoría para mapeo de actores e impacto potencial de la
+economía circular en Chile
+8. ANEXOS
+Anexo N°1 Presentación workshop
+Anexo N°2 Fotografías del workshop
+Anexo N°3 Resultados de análisis FODA por mesa de trabajo
+Anexo N°4 Lista de asistencia
+Anexo N°5 Propuesta de actores integrantes para Comité Público-Privado
+Anexo N°6 Informe N°1
+Anexo N°7 Informe N°2
+Anexo N°8 Presentación Final Power Point
+Anexo N°9 Síntesis de principales elementos del FODA según cada ámbito
+64
