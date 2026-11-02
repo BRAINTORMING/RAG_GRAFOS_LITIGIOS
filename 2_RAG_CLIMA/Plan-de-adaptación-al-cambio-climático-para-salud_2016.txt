@@ -1,0 +1,1345 @@
+--- Página 1 ---
+PLAN DE ADAPTACIÓN AL
+CAMBIO CLIMÁTICO
+SECTOR SALUD
+
+--- Página 2 ---
+PLAN DE ADAPTACIÓN AL CAMBIO CLIMÁTICO
+DEL SECTOR SALUD
+Ministerio de Salud
+Ministerio del Medio Ambiente
+2017
+Elaborado en el marco del Plan de Acción Nacional
+de Cambio Climático
+Aprobado por el Consejo de Ministros para la Sustentabilidad
+en Noviembre de 2016
+
+--- Página 3 ---
+PLAN DE ADAPTACION AL CAMBIO CLIMÁTICO DEL SECTOR SALUD Índice
+Documento elaborado por el Ministerio de Salud y la División de Cambio Climático del Ministerio
+del Medio Ambiente
+Ministerio de Salud:
+Coordinadores:
+Presentación 7
+Julio Monreal (2015-2017)
+Walter Folch (2011-2014) 1. Antecedentes 10
+Colaboradores:
+2. Impactos del Cambio Climático sobre la salud 13
+Julio Sarmiento Machado
+3. Desafíos al sector salud en Chile 23
+Iva Daniela Stuppa Sanhueza
+Guido Martínez Reyes 4. Objetivos y ejes de acción del Plan de Adaptación al Cambio Climático del Sector Salud 27
+Rodrigo Faúndez Vergara 4.1. Objetivo principal del plan 28
+4.2. Ejes de acción y objetivos específicos 29
+Alex Mellado Vásquez
+Fotografías: 5. Medidas propuestas para la implementación del Plan de Adaptación al Cambio Climático
+del Sector Salud 37
+MINSAL
+Javiera Monreal
+6. Evaluación y monitoreo del plan 55
+División de Cambio Climático:
+Coordinadora: 7. Anexos 57
+7.1 Referencias 58
+Gladys Santis (2015-2017)
+7.2 Estructura orgánica del Ministerio de Salud 59
+Maritza Jadrijevic (2011-2014)
+7.3 Organismos involucrados en la adaptación del sector salud al cambio climático 62
+Colaboradores:
+Karl-Peter Muck
+Johanna Arriagada
+Fernando Farías
+
+--- Página 4 ---
+Ministerio de Salud
+Presentación
+Los efectos del cambio climático son cada vez más evidentes en nuestro país, así como
+también la necesidad de avanzar respecto de la adaptación a este fenómeno. El bienestar
+y la salud de las personas están amenazados por el deterioro del medio ambiente, al que
+se suman otros factores subyacentes que hacen a las poblaciones más vulnerables, tales
+como los factores sociales, económicos y culturales. El cambio climático también afecta
+fuertemente a la salud de la población.
+En cumplimiento al compromiso asumido por Chile en el Acuerdo de París (2015), a tra-
+vés de su Contribución Nacional presentada ante las Naciones Unidas, nuestro Ministerio
+ha estado coordinando la elaboración de una serie de políticas de adaptación al cambio
+Marcelo Mena Carrasco climático. El Plan Nacional de Adaptación al Cambio Climático y los planes sectoriales,
+Ministro del Medio Ambiente son los instrumentos que permitirán cumplir los compromisos internacionales y, lo que es
+más importante, estar mejor preparados para enfrentar este desafío, protegiendo adecua-
+damente a nuestra población. De esta manera, el presente ‘Plan de Adaptación al Cam-
+bio Climático del Sector Salud’, elaborado en estrecha coordinación entre los Ministerios,
+marca una ruta para enfrentar los desafíos que el cambio climático impone a la salud de
+nuestra población.
+Los principales problemas ambientales que afectan a la población, de acuerdo a la per-
+cepción ciudadana, reflejada en los resultados de la Tercera Encuesta Nacional del Medio
+Ambiente, son la contaminación del aire y la presencia de basura en las calles. Nuestro
+Ministerio ha tomado acción en la creación de políticas y normas para enfrentar estos
+problemas, destacando la ‘Estrategia de Descontaminación Atmosférica de Chile: 2014-
+2018’, que nos permitirá contar con 14 nuevos planes de descontaminación con medidas
+efectivas en la reducción de emisiones atmosféricas y la ‘Ley Marco para la Gestión de
+Residuos, la Responsabilidad Extendida del Productor y Fomento al Reciclaje’, que tiene
+por objeto disminuir la generación de residuos y fomentar su reutilización, reciclaje y otro
+tipo de valorización, a través de la instauración de la responsabilidad extendida del produc-
+tor y otros instrumentos de gestión de residuos. El presente Plan de adaptación al cambio
+climático del sector salud, es complementario a estas políticas y normas impulsadas por
+nuestros Ministerios y permitirá dar un paso más en la protección de la salud de las perso-
+nas y el medio ambiente.
+6 Plan de Adaptación al Cambio Climático del Sector Salud 7
+
+--- Página 5 ---
+Presentación
+El cambio climático es una realidad indiscutida, que está afectando de diversas maneras las
+características físicas de los distintos escenarios terrestres locales y el funcionamiento de
+los ecosistemas del planeta. A este respecto, la Organización Mundial de la Salud (OMS) ha
+señalado que este tema es uno de los mayores desafíos para la salud de este siglo.
+Estas alteraciones tienen el potencial de afectar la salud humana, la distribución geográfi-
+ca y la estacionalidad de ciertas enfermedades infecciosas y vectoriales; modificando los
+ecosistemas terrestres y marinos productores de alimentos; o aumentando la frecuencia
+Carmen Castillo Taucher de fenómenos meteorológicos extremos, como temporales, marejadas y sequías.
+Ministra de Salud
+Chile posee características geográficas, demográficas y ecosistémicas que lo convierten
+en un país especialmente sensible al cambio climático en el ámbito de la salud, ya que
+reúne importantes factores de vulnerabilidad, como áreas costeras de baja altura; ecosis-
+temas montañosos; zonas áridas, semiáridas y de bosques; áreas propensas a sequías y
+desertificación; zonas urbanas con problemas de contaminación atmosférica y áreas de
+potencial expansión de vectores sanitarios.
+Frente a este panorama y en concordancia con la misión del Ministerio de Salud, se han
+establecido, en el marco del Plan de Adaptación al Cambio climático del Sector Salud
+(aprobado por el Consejo de Ministros para la Sustentabilidad en noviembre de 2016), me-
+didas específicas que apuntan a reducir vulnerabilidades y a mitigar los efectos negativos
+de este fenómeno en la salud e integridad de las personas.
+El Plan establece 8 ejes de acción, entre los que destacan; la identificación de los indicado-
+res ambientales con pertinencia local, el desarrollo de los modelos predictivos que permi-
+tan identificar zonas de potencial expansión o incremento de enfermedades vectoriales y/o
+zoonóticas; la estimación de los efectos del cambio climático en la morbi-mortalidad de la
+población a nivel local, regional y nacional incorporando las nuevas demandas que deberá
+cubrir la Red Asistencial y el Sistema de Salud en general; la incorporación de los impactos
+esperados en acciones de promoción de salud y participación ciudadana y la reevaluación
+de las matrices de riesgo existentes en las regiones y, de cara al resultado si fuera perti-
+nente, modificar los planes de Emergencias y Desastres, considerando los riesgos para la
+salud asociados al cambio climático.
+La implementación de este Plan busca mitigar los impactos en la salud de la población pro-
+ducto del cambio climático, introduciendo un enfoque intersectorial e interdisciplinario para
+gestionar los riesgos y ejercer, a la vez, las potestades Código Sanitario asigna al sector.
+Como Ministerio de Salud agradecemos a todos los profesionales que trabajaron en la
+elaboración de este documento y ponemos a su disposición el Plan de Adaptación al Cam-
+bio Climático del sector, como una herramienta que incorpora esta temática a la Gestión
+Integral de Riesgos en Emergencias y Desastres.
+8 Plan de Adaptación al Cambio Climático del Sector Salud 9
+
+--- Página 6 ---
+Ministerio de Salud
+1. Antecedentes
+Los efectos del cambio climático representan una clara amenaza a las perso- ciplinariedad se exprese tanto en la institucionalidad que el país se ha dado en
+nas, su salud y su bienestar. Este fenómeno impactará directamente los servi- materia de salud como en la institucionalidad al interior de la administración del
+cios ecosistémicos y los sistemas humanos que dependen de ellos. Los análisis Estado. El presente plan busca asegurar que esta interdisciplinariedad se haga
+científicos señalan una tendencia creciente en la frecuencia e intensidad de los presente tanto con relaciones colaborativas entre otras instituciones del Estado,
+eventos meteorológicos extremos en los últimos cincuenta años y se considera como con organizaciones público–privadas, la academia y organizaciones no
+probable que las altas temperaturas, olas de calor y fuertes precipitaciones, con- gubernamentales.
+tinuarán siendo más frecuentes en el futuro, lo que puede ser desastroso para la
+humanidad (MMA, 2014). Las medidas establecidas en el presente plan, tienen como horizonte de tiempo
+para su desarrollo el período comprendido entre 2016 y 2020, sin embargo,
+Frente a este escenario, se requiere con urgencia desarrollar planes y medidas también se ha tenido una visión de mediano y largo plazo, en el sentido de
+de adaptación al cambio climático, que apunten a reducir vulnerabilidades y establecer una estructura que permita implementar acciones de monitoreo y
+minimizar los efectos negativos de este fenómeno, con el fin de proteger la salud evaluación y darle continuidad al plan.
+de las personas, en concordancia con la misión del Ministerio de Salud, la cual
+es: “contribuir a elevar el nivel de salud de la población; desarrollar armónica-
+mente los sistemas de salud, centrados en las personas; fortalecer el control de
+los factores que puedan afectar la salud y reforzar la gestión de la red nacional
+de atención. Todo ello para acoger oportunamente las necesidades de las per-
+sonas, familias y comunidades, con la obligación de rendir cuentas a la ciuda-
+danía, y promover la participación de las mismas en el ejercicio de sus derechos
+y sus deberes”.
+El Plan de Acción Nacional de Cambio Climático es actualmente el instrumento
+articulador de la política pública del país en cambio climático. Bajo el marco de
+esta política se desarrolló el Plan Nacional de Adaptación al Cambio Climático
+cuya misión es “fortalecer la capacidad de Chile para adaptarse al cambio cli-
+mático profundizando los conocimientos de sus impactos y de la vulnerabilidad
+del país, generando acciones planificadas que permitan minimizar los efectos
+negativos y aprovechar los efectos positivos para su desarrollo económico y
+social y asegurar su sustentabilidad” (MMA, 2014).
+Este Plan Nacional mandata la elaboración de nueve planes sectoriales, los que
+a la fecha se encuentran en distintas etapas de desarrollo. Dentro de ellos se
+enmarca el “Plan de Adaptación al Cambio Climático del Sector Salud”, puesto
+que el sector salud es considerado de relevancia para el país y donde es posible
+implementar medidas significativas para reducir vulnerabilidades y enfrentar los
+efectos del cambio climático. Las medidas de este plan han sido determinadas
+considerando los impactos esperados en salud a nivel nacional a causa del
+cambio climático. Contó con la participación activa de diversos departamentos,
+unidades y oficinas pertenecientes a las Subsecretarías ministeriales que confor-
+man el Ministerio de Salud.
+Uno de los aspectos fundamentales para abordar el desafío del cambio climático
+y su impacto sobre la salud de las personas, es tener una mirada intersectorial
+para gestionar los riesgos y problemas asociados a los cambios esperados en
+cuanto a los fenómenos climáticos. A partir del quehacer propio del Ministerio
+de Salud, en base a sus atribuciones legales otorgadas por el Código Sanitario,
+se hace necesario asegurar que en el contexto del cambio climático la interdis-
+10 Plan de Adaptación al Cambio Climático del Sector Salud 11
+
+--- Página 7 ---
+Ministerio de Salud
+2. Impactos del
+Cambio Climático
+sobre la salud
+Las observaciones de temperatura tanto a nivel de superficie como de altura,
+indican un calentamiento significativo del planeta. Se observa un aumento en el
+contenido de vapor de agua de la atmósfera a nivel global consistente con el au-
+mento de la temperatura. De acuerdo al Special Report on Managing the Risks
+of Extreme Events and Disasters to Advance Climate Change Adaptation-SREX
+(IPCC, 2012), el cambio climático provoca cambios en la frecuencia, intensidad,
+extensión espacial, duración y período de retorno esperado de eventos hidro-
+meteorológicos extremos y fenómenos climáticos, y puede resultar en un clima
+extremo sin precedentes. Se deriva también de la variación de las temperaturas
+globales un cambio en la distribución de los centros de alta y baja presión sobre
+el globo. Estos cambios generan a su vez variaciones en los patrones de viento
+globales, cambiando con esto lo patrones de movimiento de las nubes y las
+precipitaciones.
+Los eventos hidrometeorológicos extremos y fenómenos climáticos, interac-
+tuando con los sistemas humanos y naturales expuestos y vulnerables, pueden
+conducir a la ocurrencia de desastres. El Reporte Especial SREX (IPCC, 2012)
+analiza el reto de entender y gestionar los riesgos de los fenómenos climáticos
+extremos para avanzar en adaptación al cambio climático. Los desastres re-
+lacionados con el tiempo atmosférico y con el clima tienen dimensiones tanto
+sociales como físicas. Como resultado, los cambios en la frecuencia y severidad
+de los eventos físicos afectan los riesgos de desastre, pero también lo hacen los
+patrones espacialmente diversos y temporalmente dinámicos de la exposición y
+la vulnerabilidad. Algunos tipos de fenómenos meteorológicos y climáticos ex-
+tremos han aumentado en frecuencia o magnitud, pero las poblaciones y los
+activos en riesgo también se han incrementado, aumentando el riesgo de de-
+sastres. Existen o se pueden desarrollar a cualquier escala –desde escala local
+hasta internacional–, oportunidades para la gestión de riesgos del clima y los de-
+sastres relacionados con el clima. Algunas estrategias para la gestión eficaz de
+los riesgos y la adaptación al cambio climático implican ajustes a las actividades
+cotidianas. Otras requieren transformaciones o cambios esenciales.
+Los impactos a nivel de clima y ambiente mencionados anteriormente tienen
+como consecuencia efectos sobre la salud de la población. En la región de
+las Américas, el número de eventos hidrometeorológicos notificados (sequías,
+temperatura extrema, inundaciones y tormentas) es motivo de grave preocu-
+pación. También son motivo de preocupación los cambios que se prevén en el
+suministro de alimentos y la seguridad alimentaria, el abastecimiento de agua,
+la variedad y distribución de las enfermedades de transmisión vectorial, el au-
+12 Plan de Adaptación al Cambio Climático del Sector Salud 13
+
+--- Página 8 ---
+Impactos del cambio climático sobre la salud Ministerio de Salud Ministerio de Salud
+mento del nivel del mar y la concentración de contaminantes atmosféricos. Los Los efectos negativos del cambio climático en la salud se pueden reducir me-
+efectos del cambio climático sobre las ciudades, como las olas de calor, serían jorando los servicios en salud, la gestión de desastres y la disminución de la
+cada vez mayores. En los países donde la urbanización ha sido acelerada y mal pobreza. Los esfuerzos para adaptarse a las repercusiones del cambio climático
+planificada, las consecuencias perjudiciales podrían ser aún más graves (OMS en salud pueden ser categorizados como acciones incrementales, de transición
+& OPS, 2011). y de transformación (IPCC, 2014).
+La exposición al cambio climático previsto podría afectar el estado de salud de Como acciones incrementales se entiende a aquellas enfocadas en la mejora de
+millones de personas a nivel global debido al aumento de la desnutrición y la los servicios de salud, la capacidad y la atención de la salud pública para los da-
+ocurrencia de enfermedades y traumatismos ocasionados por eventos hidrome- ños en general, sin considerar necesariamente los posibles impactos del cambio
+teorológicos extremos y fenómenos climáticos. climático. Por su parte, las acciones de transición están referidas a cambios en
+las actitudes y percepciones, dando lugar a iniciativas como mapeos (cartogra-
+Se diferencian tres rutas por las cuales el cambio climático afecta la salud: fía) de zonas vulnerables y mejora de los sistemas de vigilancia. Finalmente, las
+1) Impactos directos, que se relacionan principalmente con cambios en la fre- acciones de transformación son aquellas que involucran cambios fundamenta-
+cuencia de los eventos extremos incluyendo olas de calor, inundaciones y les a nivel de sistema (IPCC, 2014).
+tormentas.
+2) Efectos mediados por sistemas naturales, por ejemplo vectores transmisores A nivel mundial se han realizado políticas sobre adaptación al cambio climático.
+de enfermedades, brotes de enfermedades transmitidas por el agua y conta- La Organización Panamericana de la Salud, en su documento “Proteger la salud
+minación atmosférica. frente al cambio climático: evaluación de la vulnerabilidad y la adaptación” (OPS,
+3) Efectos fuertemente mediados por los sistemas humanos, por ejemplo im- 2012) 1 , ha señalado que el primer paso para proteger la salud frente al cambio
+pactos ocupacionales, desnutrición y estrés mental (IPCC, 2014). climático consiste en evaluar la vulnerabilidad y la adaptación. Esto permite a los
+países determinar cuáles son las poblaciones más vulnerables a los diferentes
+tipos de efectos sobre la salud, identificar los puntos débiles de los sistemas que
+Figura 1 deben protegerlas, y especificar intervenciones para responder.
+Esquema conceptual de vías de exposición primarias por las cuales el cambio climático impacta a la salud de la población
+Según el IPCC, la vulnerabilidad se define como el grado en que los sistemas
+Condiciones Vías de Vulnerabilidad, “pueden verse afectados adversamente por el cambio climático”, dependiendo
+Ambientales Exposición Adaptación y de si éstos “son capaces o incapaces de afrontar los impactos negativos del
+competencia de cambio climático”, incluyendo en esta definición a la variabilidad climática y los
+los sistemas de eventos extremos. De acuerdo a esta definición, la vulnerabilidad no sólo de-
+salud pública
+pende de las condiciones climáticas adversas, sino también de la capacidad de
+Directo: la sociedad de anticiparse, enfrentar, resistir y recuperarse de un determinado
+Olas de calor, impacto. De esta manera, la vulnerabilidad de una sociedad está determinada
+inundaciones,
+tormentas, etc. por su exposición a los eventos climáticos, por su capacidad de respuesta, y por
+sus capacidades institucionales y sociales.
+Tal como ya se ha señalado, la exposición al cambio climático previsto podría
+Indirecto:
+Cambio Impactos afectar el estado de salud de millones de personas a nivel global y Chile no es
+Alergénicos,
+Climático vectores, en la Salud la excepción, debido a que está sujeto a muchas variaciones en las condiciones
+zoonosis, etc. climáticas y a eventos hidrometeorológicos extremos. Además de intentar redu-
+cir la exposición es necesario prepararse para dar respuestas a las contingen-
+Precipitaciones Malnutrición cias del cambio climático y fortalecer las capacidades sociales e institucionales
+Temperaturas Malaria, dengue
+Trastornos a nivel nacional.
+Clima extremo económicos y Enfermedades
+Etc. sociales: respiratorias
+Geografía Sistemas de alerta
+desnutrición, En el país se han realizado diversos estudios que dan cuenta de los efectos del
+Climatología de Linea Nivel socioeconómico /diarreicas/mentales
+refugiados, cambio climático a nivel del territorio nacional respecto de las variables meteo-
+de base Estado de salud y Lesiones/defunciones
+trastornos
+mentales, etc. rológicas, (U. de Chile, 2006; CEPAL, 2012; U. de Chile, 2012). Estos estudios
+Tipo de suelo nutrición
+Vegetación Cuidado de la salud proyectan aumentos graduales de la temperatura media anual, especialmente
+Contaminación primario en la zona norte del país, que varían de acuerdo a la latitud, proyectándose
+atmosférica local Etc. 1 Proteger la salud frente al cambio climático: mayores aumentos hacia la Cordillera de Los Andes y menores hacia la costa.
+Etc. evaluación de la vulnerabilidad y la adapta- Respecto de las precipitaciones, los modelos muestran una tendencia clara a la
+Fuente: (IPCC, 2014) ción. Washington, DC: OPS, 2012.
+14 Plan de Adaptación al Cambio Climático del Sector Salud 15
+
+--- Página 9 ---
+Impactos del cambio climático sobre la salud Ministerio de Salud
+disminución de precipitación media anual en la zona comprendida entre las Re- Figura 3
+giones de Atacama y Los Lagos. Las figuras 2 y 3 presentan respectivamente, Proyecciones de precipitaciones periodo 2031-2050 (U.de Chile, 2012)
+los cambios de temperatura y precipitación esperados para el período 2031-
+2050 en Chile.
+SRES A1B RCP 2.6 RCP 8.5
+(2031-2050) (1961-1990) (2031-2050) (1961-1990) (2031-2050) (1961-1990)
+Figura 2
+Proyecciones de temperaturas medias periodo 2031-2050 (U.de Chile, 2012)
+-20 -20 -20
+-25 -25 -25
+-30 -30 -30
+-35 -35 -35
+-40 -40 -40
+-45 -45 -45
+-50 -50 -50
+-55 -55 -55
+285 290 295 285 290 295 285 290 295
+A B C
+%
+-50 -40 -30 -20 -10 -5 0 5 10 20 30 40 50
+ºC
+0 0,5 1 1,5 2 2,5 3 3,5 4 4,5 5
+16 Plan de Adaptación al Cambio Climático del Sector Salud 17
+
+--- Página 10 ---
+Impactos del cambio climático sobre la salud Ministerio de Salud
+En base a las proyecciones del clima futuro mencionadas, se han realizado estu- Los impactos en salud de alcance nacional se muestran en la tabla 1, mientras
+dios respecto de los impactos que estas nuevas condiciones climáticas podrían que los impactos identificados para las distintas zonas mencionadas se mues-
+tener en la salud de las personas, considerando los factores que son afectados tran en la tabla 2, en ambos casos, junto con los fenómenos climáticos a los que
+por el clima, tales como el ciclo de vida de los vectores, producción de alimen- se asocian dichos impactos. La Figura 4 ilustra estos impactos por medio de un
+tos, salud mental, frecuencia e intensidad de los eventos hidrometeorológicos mapa de Chile.
+extremos, etc. En 2012 se llevó a cabo el estudio: “Identificación de Impac-
+tos, Evaluación de Vulnerabilidad del Sector Salud frente al Cambio Climático y
+Propuestas para la Adaptación” y en 2014 la “Propuesta de Plan Nacional de
+Adaptación al Cambio Climático para el sector Salud”. Este último ha sido la Tabla 1
+base para elaborar el presente plan. Ambos estudios fueron mandatados por el Impactos de alcance nacional en salud y su asociación a fenómenos climáticos
+Ministerio del Medio Ambiente actuando como contraparte técnica el Ministerio
+de Salud 2 . Impactos de alcance nacional esperados Fenómenos climáticos asociados
+Aumento de enfermedades diarreicas e infecciosas. Eventos hidrometeorológicos extremos como sequía y precipitación extrema
+En base a los documentos señalados, se identifican para Chile distintos impac- (esta última es factor de inundaciones, desbordes de ríos, deslizamientos,
+tos en salud, asociados a las condiciones climáticas futuras. Dichos impactos se Aumento en lesiones y defunciones.
+aluviones, etc.).
+clasifican en: impactos de alcance nacional e impactos de alcance local. Aumento de trastornos sicológicos .
+3
+Variaciones en las áreas de distribución y frecuencia de
+Los impactos de alcance nacional corresponden a aquellos impactos que se es-
+zoonosis y enfermedades vectoriales.
+pera ocurran en diversas áreas ubicadas a lo largo de todo el territorio nacional,
+los cuales se asocian principalmente a los eventos hidrometeorológicos extre- Aumento de enfermedades cardio-respiratorias y alérgicas. Sequías: como consecuencia generarían un aumento del uso de combusti-
+mos. Además de estos eventos, el fenómeno del ENSO (“El Niño Oscilación del bles fósiles para la generación de energía, lo que provocaría un deterioro en
+Sur”, corriente relacionada a los fenómenos del Niño y la Niña) tiene un impacto a la calidad del aire como también persistencia de episodios de contaminación
+producto de la disminución de las precipitaciones.
+nivel nacional que podría sumarse a los efectos del cambio climático. Los even-
+tos hidrometeorológicos extremos (como olas de calor, sequía y lluvias extremas Aumento de temperatura media, de concentraciones de ozono troposférico
+que provocan inundaciones, desbordes de ríos y aluviones), producen efectos y de alérgenos transmitidos por el aire.
+en la salud tales como aumento de las enfermedades infecciosas y diarreicas,
+Aumento de temperaturas extremas y de probabilidad de episodios agudos
+enfermedades asociadas al consumo de agua y alimentos contaminados, va-
+de contaminación provocados por incendios forestales.
+riación de la morbilidad por cambios de temperatura y lesiones y defunciones
+por efecto directo de estos fenómenos. Los eventos de temperaturas extremas Crisis de salud en personas vulnerables (niños, ancianos, Aumento de temperaturas extremas.
+mujeres embarazadas, población de bajos recursos, perso-
+impactan especialmente a grupos de población vulnerable (ancianos, embaraza-
+nas expuestas al aire libre periódicamente y personas con
+das, población de bajos recursos, personas con enfermedades crónicas, entre
+enfermedades pre-existentes, principalmente enfermeda-
+otros) y a quienes realizan periódicamente actividades al aire libre en zonas de
+des respiratorias y cardiovasculares).
+intensa radiación solar, sufriendo consecuencias como la deshidratación y otras
+relacionadas a la exposición a rayos UV (cataratas corticales, melanoma maligno Aumento de enfermedades asociadas a Vibrio Aumento de temperatura del mar y de aguas continentales.
+cutáneo, etc.) (GreenLabUC, 2012). parahemolyticus y floraciones algales nocivas.
+Fuente: (IPCC, 2014)
+Los impactos de alcance local son aquellos que se espera ocurran en ciertas
+áreas acotadas del territorio nacional, según se definen éstas a continuación: 3 Los efectos en la salud mental pueden ser por impactos agudos y directos, impactos indirectos y psicosociales. Los primeros, están asocia-
+dos a la ocurrencia de eventos extremos que desencadenan traumas sicológicos asociados a enfermedades somáticas, depresión, abuso de
+• Zona norte (territorio comprendido entre la Región de Arica y Parinacota y el drogas y alcohol. Los impactos indirectos, por su parte, generan reacciones posteriores de ansiedad, pena, angustia e insensibilidad, entre
+otros. Finalmente, los impactos psicosociales afectan la salud mental debido a sus efectos a nivel de comunidad. Estos son generados por di-
+sector cordillerano de Antofagasta).
+ferentes impactos climáticos, por ejemplo, las olas de calor que pueden crear conflictos inter-grupales por reacciones violentas de la población
+o la sequía, por impactos a nivel económico que impactan por escasez de recursos y por las migraciones asociadas al fenómeno (Garibay M.
+• Zona centro (territorio comprendido entre la Región de Atacama y la Región de & Bifani-Richard P. 2012).
+Los Lagos).
+• Zona sur (territorio comprendido entre el Canal de Chacao y la Región de Aysén).
+2 Ambos estudios fueron realizados por la
+consultora GreenLabUC. Gestión y Política
+• Zona austral (territorio que comprende la totalidad de la Región de Magallanes).
+Ambiental DICTUC S.A.
+18 Plan de Adaptación al Cambio Climático del Sector Salud 19
+
+--- Página 11 ---
+Impactos del cambio climático sobre la salud Ministerio de Salud
+Tabla 2 Figura 4
+Impactos en salud por zona geográfica y su asociación a fenómenos climáticos Impactos a la salud y su asociación a fenómenos climáticos
+Zona Impactos en salud esperados en la zona Fenómenos climáticos asociados
+Variación en la distribución y frecuencia de enfer- Aumento de humedad o condiciones de sequía 4 . Se asocia a dichos even-
+medades transmitidas por mosquitos, garrapatas tos la proliferación de vectores infecciosos transmisores de enfermedades
+y otros vectores. mencionadas. Efectos asociados a la disminución de la
+Efectos asociados a la proliferación de
+cantidad y calidad de agua y alimentos,
+vectores infecciosos, por aumento de
+Zona Aumento de enfermedades infecciosas, diarreicas Sequías y lluvias extremas: se espera que provoquen una disminución de producto de las sequías:
+humedad o sequía:
+norte y malnutrición. la calidad y cantidad disponible de agua y alimentos. - Aumento de enfermedades infecciosas y
+- Variación en la distribución y frecuencia de
+diarreicas y malnutrición.
+Aumento de lesiones y defunciones. Eventos hidrometeorológicos extremos (precipitación extrema la cual es enfermedades transmitidas por mosquitos
+(Dengue, Malaria), garrapatas y otros.
+factor de inundaciones, desbordes de ríos, deslizamientos, aluviones, etc.). Efectos asociadas a los eventos
+Aumento de trastornos sicológicos.
+hidrometeorológicos extremos (lluvia
+Efectos asociados a la disminución de la
+Aumento de enfermedades infecciosas, diarreicas Sequías y lluvias extremas: se espera que provoquen una disminución de extrema, sequía):
+cantidad de agua y alimentos, producto de
+- Variación en la distribución y magnitud de
+y malnutrición. la calidad y cantidad disponible de agua y alimentos. las sequías:
+zoonosis (rabia y hantavirus)
+- Aumento de enfermedades infecciosas y
+Variaciones en la distribución y magnitud de Eventos hidrometeorológicos extremos, como sequía y precipitación extre- - Variación en la distribución y frecuencia de
+diarreicas y malnutrición.
+zoonosis 5 . ma (esta última es factor de inundaciones, desbordes de ríos, deslizamien- enfermedades transmitidas por mosquitos
+tos, aluviones, etc.). (Dengue, Fiebre amarilla, otros).
+Variación en la distribución y frecuencia de enfer-
+medades transmitidas por mosquitos, garrapatas Efectos asociados a la mala calidad del
+y otros vectores. Efectos asociadas a la ocurrencia de aire por aumento de las concentraciones
+Aumento de enfermedades cardio-respiratorias y Sequías: como consecuencia generarían un aumento del uso de combus- eventos hidrometeorológicos extremos de gases de combustión, incendios, ozono
+alérgicas. tibles fósiles para la generación de energía, lo que provocaría un deterioro (Ejemplo: precipitación extrema la cual es troposférico y alérgenos, debido al aumento
+factor de inundaciones, desbordes de ríos, de ocurrencia de seqías y al aumento de las
+Zona en la calidad del aire como también persistencia de episodios de contami-
+deslizamienos, aluviones, etc.): temperaturas medias y extremas:
+centro nación producto de la disminución de las precipitaciones.
+- Aumento de lesiones y defunciones. - Enfermedades cardio-respiratorias.
+- Aumento de trastornos psicológicos.
+Aumento de temperatura media, de las concentraciones de ozono tropos-
+- Aumento de enfermedades diarreicas e
+férico y de alérgenos transmitidos por el aire. infecciosas.
+Vulnerabilidad ante inundaciones y
+Aumento de temperaturas extremas y de probabilidad de episodios agu- tormentas costeras por efecto conjunto del
+dos de contaminación provocados por incendios forestales. aumento del nivel del mar y precipitaciones:
+- Aumento de lesiones y defunciones.
+Aumento de lesiones y defunciones. Eventos hidrometeorológicos extremos (precipitación extrema la cual es Vulnerabilidad ante inundaciones y
+- Aumento de trastornos psicológicos.
+factor de inundaciones, desbordes de ríos, deslizamientos, aluviones, etc.). tormentas costeras por efecto conjunto del
+Aumento de trastornos sicológicos. - Aumento de enfermedades diarreicas e
+Sequías y altas temperaturas favorecen la ocurrencia de incendios foresta- aumento del nivel del mar y precipitaciones:
+infecciosas.
+les, etc. - Aumento de lesiones y defunciones.
+- Aumento de trastornos psicológicos.
+Aumento de lesiones y defunciones. Eventos hidrometeorológicos extremos, (Ejemplo: precipitación extrema
+Zona - Aumento de enfermedades diarreicas e
+la cual es factor de inundaciones, desbordes de ríos, deslizamientos, infecciosas.
+sur Aumento de trastornos sicológicos.
+aluviones, etc.).
+*Se ha registrado un aumento de casos
+Aumento de lesiones y defunciones. Inundaciones y tormentas costeras (asociadas al aumento del nivel del mar
+de rabia. Expertos indican que existe la
+Zona y de precipitaciones).
+posibilidad de que se presenten casos de
+austral Eventos hidrometeorológicos extremos (precipitación extrema la cual es
+hantavirus.
+Aumento de trastornos sicológicos. factor de inundaciones, desbordes de ríos, deslizamientos, aluviones, etc.).
+Fuente: GreenLabUC, 2014, modificado por Ministerio del Medio Ambiente y Ministerio de Salud.
+4 Las proyecciones climáticas para la zona norte difieren en sus resultados, indicando algunas proyecciones un aumento en precipitaciones (y un
+consecuente aumento de humedad) y otras una disminución de éstas (y el consecuente aumento de probabilidad de ocurrencia de sequías). Sin
+embargo, en ambos casos se produciría un aumento en la proliferación de vectores infecciosos y el respectivo impacto a la salud mencionado. Fuente: GreenLabUC, 2014, modificado por Ministerio del Medio Ambiente y Ministerio de Salud.
+Se indica que condiciones de sequía pueden aumentar las enfermedades trasmitidas por vectores por su relación con el abastecimiento de agua
+potable y/o con el riego por otros canales a los utilizados actualmente lo que podría generar reservorios incontrolados de vectores, en especial
+de mosquitos transmisores del Dengue.
+5 En la zona sur y austral también se ha registrado un aumento en los casos de rabia animal, además, expertos (profesionales de la Oficina de
+Zoonosis del MINSAL) indican que existe la posibilidad de que se presenten casos de hantavirus en la zona austral de Chile (Región de Magallanes).
+20 Plan de Adaptación al Cambio Climático del Sector Salud 21
+
+--- Página 12 ---
+Ministerio de Salud
+3. Desafíos al sector
+salud en Chile
+El sector salud se enfrenta principalmente a dos desafíos de acuerdo a los im-
+pactos identificados tratados en el capítulo anterior:
+• Desarrollar y/o adecuar políticas y programas de nivel central para enfrentar
+las necesidades regionales y locales provenientes de los impactos del cambio
+climático en la salud, las cuales pueden diferir de manera importante entre una
+zona y otra debido a que estos impactos no se presentarán de manera unifor-
+me a lo largo del país.
+• Desarrollar y/o adecuar políticas y programas para proteger la salud de aque-
+llos que por su condición socio-económica, condición pre-existente de salud,
+actividad ocupacional realizada o por la etapa de vida en la que se encuentran
+(niños, adultos mayores y mujeres embarazadas), presentan un mayor grado
+de vulnerabilidad ante los impactos esperados del cambio climático.
+Dichos desafíos deben ser enfrentados principalmente desde el accionar del
+Ministerio de Salud y de su interacción, cuando corresponda, con otros orga-
+nismos relevantes en la adaptación como los Ministerios de Agricultura, Medio
+Ambiente, Vivienda y Urbanismo, Educación, la Superintendencia de Servicios
+Sanitarios y la ONEMI, entre otros. También parece particularmente relevante la
+interacción y participación de sus organismos autónomos como es el caso del
+Instituto de Salud Pública (ISP) y de los Servicios de Salud así como la relación
+colaborativa que se debe tener con la academia. En el Capítulo 7, anexos, nu-
+meral 7.3, se detallan los organismos del extra-sector concernidos en el plan de
+adaptación del sector salud al cambio climático.
+El Ministerio de Salud lleva a cabo las funciones que le competen mediante el es-
+tablecimiento de dos subsecretarías: la Subsecretaría de Salud Pública (SSSP)
+y la Subsecretaría de Redes Asistenciales (SSRA). La SSSP tiene a su cargo las
+materias relativas a la promoción de la salud, vigilancia, prevención y control de
+enfermedades que afectan a poblaciones o grupos de personas. Por su parte, la
+SSRA tiene a su cargo las funciones de articulación y desarrollo de la Red Asis-
+tencial del Sistema para la atención integral de su población usuaria (Ministerio
+de Salud, 1967).
+Cada subsecretaría desempeña sus funciones mediante el trabajo ejecutado
+por los departamentos, unidades y oficinas que las conforman (el numeral 7.2,
+de Ane xos, muestra los organigramas de las subsecretarías). Los departamen-
+tos, unidades y oficinas en consonancia con los organismos locales descentra-
+lizados y los autónomos deberán desarrollar medidas de acción, enmarcadas
+Control de vectores.
+Región de Arica y Parinacota.
+22 Plan de Adaptación al Cambio Climático del Sector Salud 23
+
+--- Página 13 ---
+Desafíos al sector salud en Chile Ministerio de Salud
+bios vinculados al clima, incorporar la temática en sus programas o líneas de
+trabajo, o bien desarrollar y potenciar programas existentes. Existe consenso en
+la pertinencia del tema cambio climático, y sus implicancias ya están presentes
+hoy en día. Esto implica que el tema del cambio climático además de desarrollar-
+se con una visión de mediano y largo plazo debe desarrollarse también al corto
+plazo debido a que las funciones de las unidades, departamentos y organismos
+que conforman el sector salud ya se están viendo modificadas para dar respues-
+ta a los efectos de este fenómeno en la salud de la población.
+Control de vectores,
+Larvas de mosquitos.
+Incendio en cerros de Valparaíso, 2014.
+Región de Valparaíso.
+dentro de sus funcionalidades, que permitan a la institucionalidad enfrentar los
+desafíos del cambio climático.
+El diagnóstico realizado en el Ministerio de Salud arrojó que las funciones y atri-
+buciones legales que recaen en el sector son suficientes para cubrir la mayor
+demanda a la que pudiera ser sometida la institucionalidad actual, sin embargo,
+en términos generales, existe la percepción de que en la actualidad la institucio-
+nalidad es vulnerable ante demandas que pudieran considerarse de aparición
+súbita, sin aún evidenciarse una sobredemanda del sistema debido a factores
+ambientales generales y específicos ligados al cambio climático.
+En general, las funciones de las unidades y departamentos del Ministerio de
+Salud como tal, así como las de los organismos locales descentralizados y los
+autónomos, no se verían afectadas, pero sí los programas y líneas de trabajo
+que emanan de dichas funciones. De esta manera, se plantea la pertinencia de
+agregar nuevas líneas de trabajo que consideren de manera explícita los cam-
+24 Plan de Adaptación al Cambio Climático del Sector Salud 25
+
+--- Página 14 ---
+4. Objetivos y ejes
+de acción del plan
+de adaptación al
+cambio climático
+del sector salud
+Quebrada San Ramón
+Región Metropolitana
+26 Plan de Adaptación al Cambio Climático del Sector Salud 27
+
+--- Página 15 ---
+Objetivos y ejes de acción del plan de adaptación al cambio climático del sector salud Ministerio de Salud
+4.1. Objetivo principal del plan 4.2. Ejes de acción y objetivos específicos
+Fortalecer la capacidad del país en el sector salud para responder al desafío del Playa Anakena, Se han identificado ocho ejes de acción dentro de los cuales se integran las Vigilancia de Marea Roja,
+cambio climático, identificando e implementando medidas a corto, mediano y Isla de Pascua. medidas de adaptación. Estos ejes deben ser desarrollados y fortalecidos de Región de Los Lagos.
+largo plazo, que permitan aminorar las consecuencias negativas que este fe- acuerdo a la capacidad actual del sector para dar respuesta a los impactos
+nómeno provocará sobre la salud de la población y asegurar el funcionamiento esperados en salud producto del cambio climático. Dichos ejes de acción y sus
+adecuado de los servicios y redes de salud, considerando las nuevas condicio- objetivos específicos se describen a continuación.
+nes climáticas y los impactos proyectados.
+28 Plan de Adaptación al Cambio Climático del Sector Salud 29
+
+--- Página 16 ---
+Objetivos y ejes de acción del plan de adaptación al cambio climático del sector salud Ministerio de Salud
+1. Fortalecimiento de la institucionalidad
+Salud en programas de perfeccionamiento en los temas de salud y cambio cli-
+mático a nivel internacional y gestionar programas de formación continua pre-
+Objetivo específico: Crear dentro del Ministerio de Salud una Unidad de Coordi-
+sencial y a distancia con universidades nacionales, para los equipos del nivel
+nación ejecutiva encargada de articular, coordinar y dar seguimiento a las diver-
+central y regional. Así también, debe apoyar y colaborar con el desarrollo de los
+sas acciones del plan sectorial de salud frente al cambio climático.
+estudios científicos que sean requeridos por los diferentes departamentos para
+Serán funciones de esta coordinación ejecutiva lo siguiente: una mejor comprensión y conocimiento de los temas que vinculan la salud y el
+cambio climático.
+1. Articular y apoyar la gestión de los correspondientes planes de trabajo a
+desarrollar en aquellos departamentos cuyos programas se vean afectados
+2. Fortalecimiento del capital humano
+por el cambio climático.
+2. Coordinar con el extra-sector todas las acciones necesarias para cumplir Objetivo específico: capacitar, con respecto a la temática del cambio climático
+el plan sectorial de salud ante el cambio climático (entre ellas, asociaciones y sus impactos en la salud, a los departamentos/unidades que jugarán un rol
+de municipios, Dirección Meteorológica, Ministerio de Vivienda, Ministerio de clave en la adaptación de la institucionalidad de salud para dar respuestas a las
+Agricultura y Ministerio de Educación. El numeral 7.3, de Anexos, muestra nuevas necesidades asociadas al cambio climático.
+en mayor detalle la relación entre organismos del extra-sector y el sector
+salud para enfrentar a los impactos identificados del cambio climático sobre Las principales temáticas en las que los departamentos/unidades deben ser
+la salud de la población). capacitados son:
+• Cambio climático, variabilidad climática, los efectos físicos que traería consigo
+3. Potenciar la relación de colaboración e intercambio de información y cono- a nivel país y los impactos esperados a nivel de salud (plazos y distinción de
+cimiento con la academia, universidades y centros de investigación del país efectos de acuerdo a cada zona geográfica).
+así como con instituciones de otros países y organismos internacionales con
+experiencia en la materia. • Estado a nivel internacional en que se encuentra el desarrollo de medidas para
+la atenuación de los impactos esperados del cambio climático en la salud (ins-
+4. Formular y desarrollar programas de capacitación requeridos para todos los titucionalidad, medidas de adaptación, medidas de mitigación).
+actores del Ministerio de Salud que se vean afectados en su quehacer por
+el cambio climático. • Estado a nivel nacional en que se encuentra el desarrollo de medidas para la
+atenuación de los impactos esperados del cambio climático en la salud (insti-
+5. Fortalecer la capacidad de respuesta en las Seremis de Salud, en los Ser- tucionalidad, medidas de adaptación, medidas de mitigación).
+vicios de Salud y en la Salud Municipalizada ante el surgimiento de nuevas
+situaciones asociadas al cambio climático.
+3. Estudios
+La Unidad de Coordinación Ejecutiva para el Cambio Climático estará apoyada
+por profesionales cuyos perfiles se describen a continuación: Objetivo específico: fortalecer el conocimiento y la evidencia de alcance nacio-
+nal con respecto a las variables ambientales vinculadas al cambio climático y a
+a) Responsable de la unidad: se espera este rol sea asumido por un profesio- cómo éstas podrían explicar y predecir efectos sobre la salud de las personas.
+nal con formación comprobada en las temáticas de salud ambiental, análisis
+y gestión de riesgo, emergencias y desastres y conceptos de salud pública. El desarrollo de los estudios apunta a identificar la relación entre variables am-
+bientales vinculadas al cambio climático y el estado de salud de la población,
+b) Encargado del análisis espacial de datos: geógrafo con formación compro- permitiéndose de esa forma el monitoreo a través de indicadores, a nivel país y
+en zonas con perfil particular de mayor riesgo, para establecer a tiempo accio-
+bada en herramientas de análisis espacial de datos de salud.
+nes adecuadas o modificaciones requeridas.
+c) Personal de apoyo: para apoyar el trabajo intra y extra-sectorial se requiere
+Para el desarrollo de este eje de acción se requiere una relación de colabo-
+contar con un profesional del área de las ciencias sociales con formación
+ración con la academia, universidades e institutos de investigación. Se deben
+comprobada en salud pública.
+crear y determinar cuáles serán los mecanismos de financiamiento para los es-
+tudios identificados como relevantes en el periodo de ejecución de este plan
+Esta unidad estará encargada además de gestionar, con la contraparte del Mi- siendo una de las posibilidades obtener presupuesto directo a partir de los
+Isla de Pascua, Quebrada de Camarones
+Región de Vaparaíso. nisterio de Medio Ambiente, la participación de los equipos del Ministerio de Región de Arica y Parinacota
+30 Plan de Adaptación al Cambio Climático del Sector Salud 31
+
+--- Página 17 ---
+Objetivos y ejes de acción del plan de adaptación al cambio climático del sector salud Ministerio de Salud
+presupuestos anuales del Ministerio de Salud, el impulso de fondos concursa-
+bles específicamente relacionados a la temática y/o incluir la temática como eje El desarrollo y ejecución de las medidas mencionadas anteriormente recaen
+prioritario en el Fondo Nacional de Investigación y Desarrollo en Salud (FONIS). principalmente sobre los Departamentos de Nutrición y Alimentos y de Salud
+Ambiental de la Subsecretaría de Salud Pública del Ministerio de Salud y en los
+correspondientes organismos locales, sin embargo, al momento de ejecutarse,
+4. Vigilancia se deberá tener una estrecha relación, según el caso, con la Subsecretaria de
+Pesca y Acuicultura, la Superintendencia de Servicios Sanitarios, etc.
+Objetivo específico: asegurar la medición continua y estandarizada de indica-
+dores asociados a variables ambientales que tienen implicancias en el estado
+5. Promoción de la salud a la ciudadanía
+de salud de las personas y que están relacionadas con el cambio climático. La
+vigilancia debe basarse en metodologías y protocolos adecuados que aseguren
+óptima calidad de la información recolectada para realizar un análisis efectivo de Objetivo específico: empoderar y educar a la ciudadanía en las temáticas del
+ésta y generar acciones para disminuir el impacto esperado del cambio climático cambio climático y sus impactos sobre la salud de la población, tanto a nivel
+sobre la salud de la población. nacional como regional, para concientizar a las comunidades y promover medi-
+das de respuesta ante los impactos del cambio climático esperados en la salud.
+Con este eje, se busca que cada departamento/unidad que realiza acciones de La función de promoción de la salud, desde la perspectiva que se trabaja en el
+monitoreo y vigilancia, incluya, de ser pertinente, el análisis de indicadores liga- Ministerio de Salud, posee su foco en la instalación o habilitación de factores
+dos a las variables ambientales asociadas al cambio climático vinculados a efec- estructurales que mejoren la calidad de vida de las personas por medio del
+tos sobre la salud de la población. Adicionalmente estos departamentos deben aumento de factores protectores de la salud. El quehacer del Departamento de
+verificar que las zonas en las que se realice el monitoreo de estas variables sean Promoción de Salud ejecuta sus labores con un enfoque de entorno por medio
+las adecuadas, de acuerdo a los impactos esperados del cambio climático a lo de estrategias diferenciadas en el entorno laboral, educacional (escuelas y uni-
+largo del país. El desarrollo de este eje también se enfoca en asegurar la calidad versidades) y comunal orientadas a la calidad de vida de las personas. Actual-
+de la información que se monitoree, mediante la sistematización de los procesos mente se consideran componentes, tales como, vida libre de humo de tabaco,
+de monitoreo y vigilancia. alimentación saludable y actividad física.
+Los indicadores de salud y ambientales a vigilar, sus respectivas zonas de mo- En el corto plazo se evidencia como principal necesidad el aumentar el nivel
+nitoreo asociados al cambio climático y su impacto en la salud de la población base de conocimiento que tiene la población con respecto a los efectos del
+deben ordenarse a futuro en un sistema de información actualizado, de fácil cambio climático y sus impactos en la salud. Además, por tratarse de un tema
+acceso y comprensión para la ciudadanía. En el mediano/largo plazo es nece- con consecuencias que se proyectan con alta certidumbre, es importante dedi-
+sario incluir la vigilancia de indicadores asociados al estado nutricional de las car especial atención a la concientización de poblaciones localizadas en zonas
+personas, especialmente de la población vulnerable. Por ejemplo, malnutrición de riesgo debido al aumento esperado de la proliferación y distribución de los
+en grupos vulnerables —personas en situación de pobreza, comunidades rura- agentes de transmisión de las enfermedades vectoriales y zoonóticas.
+les, niños, mujeres embarazadas, adultos mayores, o personas cuya condición
+dificulte su acceso a los alimentos (OMS, 2009)— a causa del aumento en fre-
+6. Respuesta ante situaciones de emergencia
+cuencia e intensidad de sequías y/o inundaciones que repercutan en la calidad
+y disponibilidad de los alimentos. Siguiendo en la misma línea, considerando los
+aumentos esperados de temperaturas extremas e inundaciones, será necesario Objetivo específico: mejorar la capacidad y calidad de respuesta de la institucio-
+fortalecer la fiscalización de instalaciones de alimentos, asegurando que éstas nalidad ante situaciones de emergencia provocadas por los impactos esperados
+presenten las condiciones adecuadas para conservar la calidad ante los eventos del cambio climático en la salud de la población.
+extremos mencionados.
+El eje apunta a fortalecer la respuesta ante situaciones de emergencia, teniendo
+Otro aspecto importante de considerar en el mediano/largo plazo será el pro- claridad respecto del tipo de emergencia al que se enfrenta la población, la in-
+bable aumento de florecimientos algales nocivos y peligros hidrobiológicos aso- tensidad esperada del evento que podría generar esta situación de emergencia
+y el grado de exposición de la población.
+ciados al aumento de temperatura de ríos, lagos y mar, los cuales podrían tener
+como consecuencia el aumento de enfermedades asociadas al consumo de
+En el mediano/largo plazo se espera que la ocurrencia de eventos hidrometeo-
+pescados y mariscos, consumo de agua para la bebida y actividades de re-
+rológicos extremos aumente y que se presenten eventos de mayor magnitud,
+creación. En horizontes de tiempo futuros se debe fortalecer la capacidad de
+principalmente en lo que respecta a temperaturas máximas extremas y precipi-
+detección temprana de florecimientos algales nocivos en relación con áreas y
+Región de Valparaíso taciones de alta intensidad. Los Prestadores públicos y privados de salud deben Cochamó
+actividades de riesgo. Región de Los Lagos
+32 Plan de Adaptación al Cambio Climático del Sector Salud 33
+
+--- Página 18 ---
+Objetivos y ejes de acción del plan de adaptación al cambio climático del sector salud Ministerio de Salud
+ser autosuficientes respecto a los suministros de agua y electricidad y contar
+con una infraestructura resistente frente a posibles eventos extremos que pue- Un rol fundamental en la adaptación en este aspecto, lo juegan los Departamen-
+dan poner en riesgo su capacidad de atención conforme la zona geográfica y tos de Nutrición y Alimentos y de Salud Ambiental de la Subsecretaría de Salud
+características del lugar de emplazamiento en que estén ubicados. Pública del Ministerio de Salud, los cuales a futuro, deberán adaptar sus progra-
+mas de seguridad alimentaria y de seguridad del agua implementando cambios
+Se deberá fortalecer la capacidad de los centros asistenciales, en concordancia en la formulación de las bases técnicas de sus programas y guías. En el caso
+con los resultados del “Estudio de proyección de demanda en la red hospitalaria del Departamento de Nutrición y Alimentos se deberá adaptar los Programas y
+debido al cambio climático y costos asociados”, cuya ejecución se solicita para Guías Alimentarias Nacionales de forma que permitan responder de manera rá-
+el período de ejecución del presente plan. pida, mediante la elaboración de nuevos productos, a necesidades nutricionales
+específicas que podrían aparecer debido al impacto del cambio climático sobre
+Ante situaciones de emergencia debe considerarse también el posible incre- la calidad y cantidad de alimento disponible. En el caso del Departamento de
+mento en la transmisión de enfermedades infecciosas asociadas al colapso de Salud Ambiental se deberá establecer las bases técnicas y reglamentarias para
+la infraestructura de saneamiento, al contacto directo con aguas contaminadas la implementación por parte de los prestadores de los Planes de Seguridad del
+y al mayor hacinamiento asociado al uso de albergues o producto del despla- Agua, de forma de incrementar la seguridad de los servicios de agua del país en
+zamiento forzado de la población. Entre las medidas que se deben considerar términos de calidad, cantidad y continuidad del abastecimiento. Estas acciones
+para evitar la propagación de algunas enfermedades infecciosas en situaciones deben ser complementarias a las indicadas en el Eje “3. Vigilancia”.
+de emergencia está la de aumentar la inmunización de los grupos en riesgo.
+Se requerirán además medidas que establezcan estándares sanitarios para al-
+8. Atención de salud
+bergues destinados a la protección de grupos vulnerables y directrices para la
+localización de viviendas y asentamientos de emergencia.
+Objetivo específico: asegurar la capacidad de respuesta de la institucionalidad
+ante eventuales cambios en el perfil de morbimortalidad de la población deri-
+7. Disminución de la Vulnerabilidad vados de la aparición de enfermedades emergentes y/o reemergentes como
+consecuencia del cambio climático.
+Objetivo específico: fortalecer la capacidad de adaptación al cambio climático y
+a sus impactos en la salud, de aquellos grupos identificados como vulnerables, En el mediano/largo plazo, junto con fortalecer la capacidad de los centros asis-
+los que según OMS & OPS (2011), corresponden a los menores de 5 años, las tenciales, en concordancia con los resultados del “Estudio de proyección de
+mujeres embarazadas o que amamantan, las personas adultas mayores, los demanda en la red hospitalaria debido al cambio climático y costos asociados”,
+pobres y todas las poblaciones excluidas socialmente, los pueblos indígenas y cuya ejecución se solicita para el período de ejecución del presente plan, se
+otros grupos étnicos, así como las poblaciones migrantes y desplazadas que debe también asegurar la capacidad diagnóstica y terapéutica del recurso hu-
+viven en zonas urbanas y rurales. mano para hacer frente a la demanda consiguiente a cambios en el perfil de
+Uno de los efectos del cambio climático que ya muestra evidencias de su ocu- morbimortalidad, incluyendo las enfermedades emergentes o reemergentes,
+rrencia, son los eventos extremos de sequías y su consecuente impacto en el tales como dengue, rabia, síndrome pulmonar por hantavirus o fiebre amarilla
+consumo de agua por parte de la población. Este impacto es de mayor rele- así como también otras no transmisibles tales como enfermedades cardio-res-
+vancia en poblaciones vulnerables, por ejemplo: jardines infantiles, escuelas y piratorias y alérgicas.
+servicios de atención de salud establecidos en zonas rurales.
+La malnutrición de la población, se asociará al déficit de calidad y disponibilidad
+de alimentos y de agua para la bebida e higiene, causado principalmente por au-
+mento esperado en frecuencia e intensidad de sequías, producto del cambio cli-
+mático, así como de la extensión del territorio nacional que se vería afectado por
+estos eventos y por el aumento de eventos de precipitaciones de alta intensidad
+causantes de inundaciones. La baja en la calidad y disponibilidad de alimentos
+y agua afectará principalmente a ciertos grupos en estados vulnerables, ya sea
+por su condición socio-económica, por pertenecer a comunidades rurales o por
+cualquier otra condición que dificulte su acceso a los alimentos y el agua. Se
+considera que niños, mujeres embarazadas y adultos mayores, presentan mayor
+vulnerabilidad ante este impacto en la salud (OMS, 2009).
+Precordillera Precordillera
+Región Metropolitana Región Metropolitana
+34 Plan de Adaptación al Cambio Climático del Sector Salud 35
+
+--- Página 19 ---
+Ministerio de Salud
+5. Medidas propuestas
+para la implementación
+del Plan de Adaptación
+al Cambio Climático
+del sector salud
+Las medidas que a continuación se presentan fueron seleccionadas en base
+a una priorización fundada en los criterios establecidos en el Plan Nacional de
+Adaptación al Cambio Climático (MMA, 2014), tales como grupos poblacionales
+más vulnerables, urgencia de implementación de las medidas, sinergia entre
+medidas (priorizando aquellas que benefician el funcionamiento de más de un
+departamento/unidad/oficina dentro del Ministerio de Salud), eficacia, flexibilidad
+y factibilidad.
+Las medidas se ordenan de acuerdo a cada eje de acción y la información se
+entrega mediante fichas en las que se resumen sus principales características;
+objetivo, departamento/oficina involucrado en la implementación, encargado de
+ejecución, plazos, resultados y socios colaboradores.
+Valle de Santiago
+Región Metropolitana
+36 Plan de Adaptación al Cambio Climático del Sector Salud 37
+
+--- Página 20 ---
+Medidas propuestas para la implementación del Plan de Adaptación al Cambio Climático del Sector Salud Ministerio de Salud
+Eje de Acción 1 Eje de Acción 2
+Fortalecimiento de la institucionalidad Fortalecimiento del capital humano
+Objetivo específico: Objetivo específico:
+Medida de Adaptación 1 Medida de Adaptación N°2
+crear dentro del Ministerio Título de la Medida Creación de la unidad de Coordinación Ejecutiva para capacitar, con respecto Título de la Medida Capacitación inicial a nivel central sobre la temática
+de Salud una unidad de el Cambio Climático a la temática del cambio del cambio climático
+Coordinación Ejecutiva climático y sus impactos en la Descripción Realización de una capacitación inicial a nivel central sobre
+Descripción Creación de una unidad a nivel de Gabinete Ministerial
+encargada de articular, salud, a los departamentos/ la temática del cambio climático, sus impactos en la salud
+del Ministerio de Salud, para articular y apoyar la gestión
+coordinar y dar seguimiento a unidades que jugarán un rol de la población, la adaptación a nivel internacional y el
+de planes, coordinación extra-sectorial, colaboración con
+las diversas acciones del plan la academia, formulación y desarrollo de programas y clave en la adaptación de la diagnóstico nacional.
+sectorial de salud frente al coordinación de todas las acciones requeridas en cambio institucionalidad de salud para
+Eje de Acción Fortalecimiento del capital humano.
+cambio climático. climático que vinculen al Ministerio de Salud. dar respuestas a las nuevas
+necesidades asociadas al Objetivo de la Medida Fortalecer la formación de los equipos de trabajo dentro
+Eje de Acción Fortalecimiento de la institucionalidad. cambio climático. de departamentos/unidades claves del Ministerio de
+Salud, con respecto a la temática del cambio climático,
+Objetivo de la Medida Establecer un organismo coordinador, elaborador e
+sus impactos en la salud de la población y las implicancias
+implementador de medidas de adaptación que permitan
+que estos tendrían en el desarrollo de las funcionalidades
+fortalecer la capacidad de respuesta del Ministerio de
+de dichos departamentos/unidades.
+Salud a las nuevas necesidades que se generarán a
+causa de los impactos esperados del cambio climático a Departamento/Oficina al que se SSSP: epidemiología, zoonosis y vectores, salud ambien-
+nivel nacional, regional y local. dirige la medida tal, nutrición y alimentos, enfermedades transmisibles,
+enfermedades no transmisibles, promoción de la salud y
+Departamento/Oficina al que se Departamento de Gestión de Riesgos en Emergencias y participación ciudadana, salud ocupacional.
+dirige la medida Desastres.
+SSRA: gestión de riesgo asistencial, modelo, procesos y
+Encargado de ejecución Ministra de Salud transformación hospitalaria, gestión de servicios de salud,
+gestión centralizada de camas, Coordinación Nacional de
+Plazos Inmediato-2020 Fármacos e Insumos.
+Resultados Conformación de la unidad de Coordinación Ejecutiva
+Instituto de Salud Pública (ISP)
+para el Cambio Climático.
+Socios colaboradores Dirección Meteorológica de Chile. Encargado de ejecución Unidad de Coordinación Ejecutiva para el Cambio Climático
+Plazos 2016-2020 (repetir capacitación cada 2 años de acuerdo a
+actualización de antecedentes)
+Resultados Equipos de trabajo de departamentos/unidades claves del
+nivel central e ISP capacitados en la temática del cambio
+climático y sus impactos esperados a nivel nacional,
+regional y local.
+Socios colaboradores MMA, ISP, academia.
+38 Plan de Adaptación al Cambio Climático del Sector Salud 39
+
+--- Página 21 ---
+Medidas propuestas para la implementación del Plan de Adaptación al Cambio Climático del Sector Salud Ministerio de Salud
+Medida de Adaptación N°3 Medida de Adaptación N°4
+Título de la Medida Capacitación inicial a nivel regional sobre la temática Título de la Medida Asistencia anual de representantes de departamentos
+del cambio climático y unidades a instancias internacionales de difusión
+Descripción Realización de una capacitación inicial a nivel de Descripción Asistencia anual por parte de un representante de
+Secretarías Regionales Ministeriales de Salud, Servicios de departamentos/unidades claves del Ministerio de Salud,
+Salud y Salud Municipalizada sobre la temática del cambio a instancias internacionales de difusión de evidencia,
+climático, sus impactos en la salud de la población, la conocimiento y experiencias con respecto al cambio
+adaptación a nivel internacional y el diagnóstico nacional. climático, sus impactos en la salud y la adaptación.
+Eje de Acción Fortalecimiento del capital humano.
+Eje de Acción Fortalecimiento del capital humano.
+Objetivo de la Medida Fortalecer la formación de los equipos de trabajo dentro
+Objetivo de la Medida Fortalecer la formación de los equipos dentro de las de departamentos/unidades claves del Ministerio de
+Secretarías Regionales del Ministerio de Salud, Servicios Salud, con respecto a la temática del cambio climático,
+de Salud y Salud Municipalizada con respecto a la basándose en la experiencia internacional.
+temática del cambio climático, sus impactos en la salud
+Departamento/Oficina al que se SSSP: epidemiología, zoonosis y vectores, salud ambiental.
+de la población y las implicancias que estos tendrían en el
+dirige la medida
+desarrollo de las funcionalidades a nivel regional.
+SSRA: gestión de riesgo asistencial, procesos y transfor-
+Departamento/Oficina al que se Secretarías Regionales Ministeriales de Salud. mación hospitalaria.
+dirige la medida Servicios de Salud.
+Encargado de ejecución Departamentos a los que se dirige la medida.
+Salud Municipalizada.
+Representantes de los Gobiernos Regionales y Municipales. Plazos 2016-2020
+Encargado de ejecución Unidad de Coordinación Ejecutiva para el Cambio Climático. Resultados Actualización de información en lo que respecta a la ex-
+periencia y estado del arte a nivel internacional del cambio
+Plazos 2016-2020 (repetir capacitación cada dos años según
+climático, sus impactos y la adaptación.
+actualización de antecedentes).
+Socios colaboradores -
+Resultados Equipos de trabajo de Secretarías Regionales Ministeria-
+les de Salud, Servicios de Salud, Salud Municipalizada y
+Gobiernos Regionales y Municipales capacitados en la
+temática del cambio climático y sus impactos esperados a
+nivel nacional, regional y local.
+Socios colaboradores MMA, Gobiernos Regionales, Academia.
+40 Plan de Adaptación al Cambio Climático del Sector Salud 41
+
+--- Página 22 ---
+Medidas propuestas para la implementación del pde Adaptación al Cambio climático para salud Ministerio de Salud
+Eje de Acción 3
+Estudios
+Objetivo específico:
+Medida de Adaptación N°5 Medida de Adaptación N°6
+fortalecer el conocimiento y la Título de la Medida Desarrollo de estudio para la identificación y Título de la Medida Desarrollo de estudio para el establecimiento
+evidencia de alcance nacional cuantificación de indicadores ambientales y de de modelos predictivos del comportamiento de
+con respecto a las variables salud asociados al cambio climático enfermedades vectoriales y zoonosis, asociadas
+ambientales vinculadas al Descripción Desarrollo de "Estudio para la identificación al cambio climático
+cambio climático y a cómo y cuantificación, por zona*, de indicadores Descripción Desarrollar "Estudio para el establecimiento de
+éstas podrían explicar y ambientales vinculados al cambio climático y al modelos predictivos del comportamiento de
+predecir efectos sobre la salud estado de salud de la población en Chile”. enfermedades vectoriales y zoonosis, asociadas al
+de las personas. cambio climático en Chile".
+Considerar en el estudio la siguiente definición de Eje de Acción Estudios.
+zonas:
+Objetivo de la Medida Predecir de manera más certera y continua la
+zona norte: territorio comprendido entre la región posible distribución geográfica y la proliferación
+de Arica y Parinacota y el sector cordillerano de probable de enfermedades zoonóticas y vectoriales
+Antofagasta. a lo largo del país, de manera de prevenir los
+efectos sobre la salud asociados a las mismas, a
+zona centro: territorio comprendido entre la nivel local.
+región de Atacama y la región de Los Lagos. Departamento/Oficina al que SSSP: zoonosis y vectores
+se dirige la medida
+zona sur: territorio comprendido entre el Canal
+de Chacao y la región de Aysén. Encargado de ejecución Oficina de Zoonosis y Vectores
+Plazos 2016-2020
+zona austral: territorio que comprende la
+Resultados Modelos predictivos que permitan identificar
+totalidad de la región de Magallanes.
+zonas en las que se espera una proliferación de
+Eje de Acción Estudios. enfermedades vectoriales y/o zoonóticas debido a
+Objetivo de la Medida Identificar indicadores ambientales por zona, las nuevas condiciones ambientales asociadas al
+cuya medición sea relevante debido a la relación cambio climático. Para una mejor comprensión de
+que tienen con el cambio climático y sus efectos la población general, estos modelos deben entregar
+esperados a nivel local en la salud de la población. mapas de riesgo asociados a las enfermedades
+zoonóticas y vectoriales.
+Departamento/Oficina al que SSSP: epidemiología, zoonosis y vectores, nutrición
+se dirige la medida y alimentos, salud ambiental, enfermedades Socios colaboradores Academia, MMA, ISP, Dirección Meteorológica de
+transmisibles, enfermedades no transmisibles. Chile, SAG, academia.
+Encargado de ejecución Unidad de Coordinación Ejecutiva para el Cambio
+Climático.
+Plazos 2016-2020
+Resultados Lista de indicadores asociados al cambio climático
+que deben ser monitoreados en cada una de las
+zonas definidas para el país.
+Socios colaboradores Academia , MMA, Dirección Meteorológica de
+Chile, SISS, DGA, MINAGRI, SERNAPESCA,
+DIRECTEMAR, CONAF, ISP.
+42 Plan de Adaptación al Cambio Climático del Sector Salud 43
+
+--- Página 23 ---
+Medidas propuestas para la implementación del pde Adaptación al Cambio climático para salud Ministerio de Salud
+Medida de Adaptación N°7 Medida de Adaptación N°8
+Título de la Medida Desarrollo de estudio de carga de enfermedad Título de la Medida Desarrollo de estudio de proyección de de-
+asociado al cambio climático manda en la red hospitalaria debido al cambio
+climático y costos asociados
+Descripción Desarrollo de “Estudio de carga de enfermedad
+asociado al cambio climático”. Descripción Desarrollo de “Estudio de proyección de demanda
+en la red hospitalaria debido al cambio climático y
+Eje de Acción Estudios. costos asociados”.
+Objetivo de la Medida Estimar los efectos del cambio climático sobre Eje de Acción Estudios.
+la mortalidad y morbilidad de la población a
+nivel nacional, regional y local, para entender las Objetivo de la Medida Obtener las proyecciones de demanda sobre la
+nuevas demandas a las que deberá responder red asistencial asociada a los efectos del cambio
+principalmente la red asistencial. climático sobre la morbilidad y mortalidad de la
+población a nivel nacional, regional y local.
+Departamento/Oficina al que SSSP – SSRA
+se dirige la medida Departamento/Oficina al que SSRA
+se dirige la medida
+Encargado de ejecución Unidad de Coordinación Ejecutiva para el Cambio
+Climático Encargado de ejecución Unidad de Coordinación Ejecutiva para el Cambio
+Climático
+Plazos 2017-2018
+Plazos 2018-2019
+Resultados Valores cuantitativos estimados con respecto al
+efecto del cambio climático sobre la morbilidad y Resultados Identificación de posibles deficiencias en la
+mortalidad de la población a nivel nacional, regional capacidad de respuesta de recintos asistenciales
+y local. de salud, asociadas al aumento de demanda por
+efectos esperados del cambio climático sobre la
+Socios colaboradores Academia, Mutuales, Registro Civil.
+salud de la población a nivel nacional, regional y
+local.
+Socios colaboradores Academia, MMA, ISP
+44 Plan de Adaptación al Cambio Climático del Sector Salud 45
+
+--- Página 24 ---
+Medidas propuestas para la implementación del pde Adaptación al Cambio climático para salud Ministerio de Salud
+Eje de Acción 4
+Vigilancia
+Objetivo específico:
+Medida de Adaptación N°9 Medida de Adaptación N°10
+asegurar la medición continua Título de la Medida Actualización de indicadores a vigilar y sus Título de la Medida Desarrollo de metodologías y protocolos para
+y estandarizada de indicadores respectivas zonas de monitoreo considerando la recolección de información, seguimiento de
+asociados a variables condiciones ambientales vinculadas al cambio indicadores y seguimiento de programas de
+climático. vigilancia
+ambientales que tienen
+implicancias en el estado de Descripción Actualización de indicadores a vigilar y sus Descripción Desarrollo de metodologías y protocolos para
+salud de las personas y que respectivas zonas de monitoreo, considerando la recolección de información, seguimiento de
+están relacionadas con el aquellos asociados a condiciones ambientales indicadores y seguimiento de programas de
+cambio climático. La vigilancia vinculadas al cambio climático que tendrían vigilancia, así como para el establecimiento de
+implicancias en la salud de la población. situaciones de alerta.
+debe basarse en metodologías
+y protocolos adecuados que Eje de Acción Vigilancia.
+Esta medida incluye la identificación de información
+aseguren óptima calidad de la Objetivo de la Medida Asegurar la calidad de la información recolectada
+e indicadores ya disponible y la utilización que se le
+información recolectada para y del seguimiento de indicadores y programas
+puede dar con el objetivo de monitorear los efectos
+realizar un análisis efectivo de en la salud de la población asociado al cambio de vigilancia, mediante el establecimiento de
+ésta y generar acciones para climático. metodologías y protocolos que estandaricen los
+disminuir el impacto esperado procedimientos asociados a esas actividades.
+Eje de Acción Vigilancia.
+del cambio climático sobre la Departamento/Oficina al que SSSP: estadística e información de la salud,
+salud de la población. Objetivo de la Medida Actualizar a nivel regional y local los indicadores a se dirige la medida epidemiología, zoonosis y vectores, nutrición y
+monitorear, de acuerdo a resultados obtenidos en alimentos, salud ambiental.
+estudio de identificación de indicadores relevantes
+Encargado de ejecución Departamentos a los que se dirige la medida.
+Departamento/Oficina al que SSSP: epidemiología, zoonosis y vectores, nutrición
+Plazos 2018-2020
+se dirige la medida y alimentos, salud ambiental.
+Resultados Metodologías y protocolos para la realización de las
+Encargado de ejecución Departamentos a los que se dirige la medida. actividades llevadas a cabo por los departamentos
+Plazos 2018-2020 involucrados asociadas al seguimiento de
+indicadores y programas de vigilancia.
+Resultados Monitoreo y vigilancia actualizada de acuerdo a
+identificación de indicadores zonales asociados al Socios colaboradores MMA, ISP, MINAGRI, Dirección Meteorológica de
+cambio climático, relevantes de medir. Chile, SISS, DGA, ISP.
+Socios colaboradores ISP, SISS, DGA, MINAGRI, SERNAPESCA,
+DIRECTEMAR, CONAF
+46 Plan de Adaptación al Cambio Climático del Sector Salud 47
+
+--- Página 25 ---
+Medidas propuestas para la implementación del pde Adaptación al Cambio climático para salud Ministerio de Salud
+Eje de Acción 5
+Promoción de la salud
+Objetivo específico:
+Medida de Adaptación N°11 Medida de Adaptación N°12
+empoderar y educar a la Título de la Medida Incorporación de un nuevo eje temático en Título de la Medida Desarrollo de programas de educación a la
+ciudadanía en las temáticas el Departamento de Promoción de la Salud población vulnerable al contagio de enfermedades
+del cambio climático y sus y Participación Ciudadana destinado a la vectoriales y zoonóticas
+consideración de los impactos esperados en la Descripción Desarrollar un programa que tenga como objetivo
+impactos sobre la salud de
+salud a causa del cambio climático la educación de la población ubicada en zonas
+la población, tanto a nivel
+nacional como regional, Descripción Incorporación de un nuevo eje temático a los vulnerables*, de acuerdo a la proliferación y
+para concientizar a las actualmente tratados por el Departamento de distribución geográfica esperada de enfermedades
+comunidades y promover Promoción de la Salud y Participación Ciudadana*, vectoriales y zoonóticas, en lo que respecta a las
+destinado a la consideración de los impactos medidas de cuidado que se deben tener para
+medidas de respuesta ante los
+esperados en la salud a causa del cambio climático prevenir el contagio de dichas enfermedades.
+impactos del cambio climático
+y al abordaje de estos mediante la promoción.
+esperados en la salud.
+Las zonas vulnerables de acuerdo a la variación
+Los ejes temáticos tratados actualmente por el esperada en la distribución de enfermedades
+departamento son: vectoriales y zoonóticas son:
+Alimentación saludable zona norte: territorio comprendido entre
+Humo y tabaco la región de Arica y Parinacota y el sector
+Actividad física cordillerano de Antofagasta.
+Eje de Acción Promoción de la Salud zona centro: territorio comprendido entre la
+región de Atacama y la región de Los Lagos.
+Objetivo de la Medida Incluir la temática del cambio climático y sus
+impactos sobre la salud de la población dentro del Eje de Acción Promoción de la Salud.
+quehacer del Departamento de Promoción de la Objetivo de la Medida Fortalecer el conocimiento de la comunidad en
+Salud y Participación Ciudadana con el objetivo de zonas vulnerables en lo que respecta a medidas
+que se desarrollen estrategias de promoción de la de cuidado para prevenir el contagio de las
+temática a la ciudadanía. En particular, en zonas enfermedades zoonóticas y vectoriales cuya
+que tendrán escases de agua y disminución en proliferación se espera a nivel local.
+su calidad, realizar a la población transferencia de
+Departamento/Oficina al que SSSP: Zoonosis y Vectores, Promoción de la Salud
+conocimiento en el caso de los sistemas de agua
+se dirige la medida y Participación Ciudadana.
+potable rural, que aseguren un uso y consumo
+seguro del agua potable. Encargado de ejecución Departamentos a los que se dirige la medida.
+Departamento/Oficina al que SSSP: Promoción de la Salud y Participación Plazos 2017-2018
+se dirige la medida Ciudadana.
+Resultados Programa de educación a la ciudadanía con
+Encargado de ejecución Departamento de Promoción de la Salud y respecto a la prevención de contagio de
+Participación Ciudadana. enfermedades zoonóticas y vectoriales en zonas de
+riesgo.
+Plazos 2016-2017
+Socios colaboradores MINEDUC
+Resultados Incorporación de un nuevo eje temático
+adicional a los 3 ejes actualmente tratados por el
+departamento.
+Socios colaboradores -
+48 Plan de Adaptación al Cambio Climático del Sector Salud 49
+
+--- Página 26 ---
+Medidas propuestas para la implementación del pde Adaptación al Cambio climático para salud Ministerio de Salud
+Eje de Acción 6
+Respuesta ante situaciones de emergencia
+Objetivo específico:
+Medida de Adaptación N°13 Medida de Adaptación N°14
+mejorar la capacidad y Título de la Medida Reevaluar las matrices de riesgo regionales Título de la Medida Diagnóstico sobre la infraestructura de los servicios
+calidad de respuesta de considerando los riesgos a la salud asociados al asistenciales de salud y su capacidad de respuesta
+la institucionalidad ante cambio climático ante la ocurrencia de eventos extremos
+situaciones de emergencia Descripción Reevaluar las matrices de riesgo regionales y, en Descripción Elaboración de un diagnóstico sobre la
+provocadas por los impactos caso de ser necesario, modificar los Planes de infraestructura de los servicios asistenciales
+del cambio climático Emergencias y Desastres, considerando los riesgos de salud y su capacidad de respuesta ante la
+esperados en la salud de la a la salud asociados al cambio climático. ocurrencia de eventos extremos.
+población. Eje de Acción Respuesta ante situaciones de emergencia.
+Los ítems que requieren reevaluación son:
+Objetivo de la Medida Identificar la capacidad de respuesta de los
+Fenómenos meteorológicos extremos: servicios asistenciales de salud ante la ocurrencia
+de eventos extremos.
+Inundaciones, crecidas, aluviones, avalanchas,
+Departamento/Oficina al que SSRA: Procesos y Transformación Hospitalaria,
+deslizamientos, nevazones y marejadas.
+se dirige la medida Gestión de Servicios de Salud.
+Sequías.
+Incendios urbanos (no químicos) Encargado de ejecución Departamentos a los que se dirige la medida.
+Incendios forestales.
+Plazos 2016-2017
+Emergencias epidemiológicas.
+Resultados Diagnóstico con respecto resistencia de la
+infraestructura de servicios asistenciales ante la
+Eje de Acción Respuesta ante situaciones de emergencia
+ocurrencia de eventos extremos y su capacidad de
+Objetivo de la Medida Actualizar los Planes de Emergencia y Desastres responder a la demanda del servicio generada.
+regionales de acuerdo a los riesgos a la salud
+Socios colaboradores MINVU
+asociados al cambio climático.
+Departamento/Oficina al que SSSP, DEGREYD.
+se dirige la medida SSRA. Coordinación de Emergencias y Desastres.
+Encargado de ejecución Departamento de Gestión de Riesgo en
+Emergencias y Desastres
+Plazos 2016-2017
+Resultados Matrices de Riesgo regionales actualizadas de
+acuerdo a los efectos esperados del cambio
+climático a nivel regional y a sus implicancias en el
+desarrollo de planes de emergencia.
+Socios colaboradores ONEMI, ISP, SAG, CONAF.
+50 Plan de Adaptación al Cambio Climático del Sector Salud 51
+
+--- Página 27 ---
+Medidas propuestas para la implementación del pde Adaptación al Cambio climático para salud Ministerio de Salud
+Eje de Acción 7 Eje de Acción 8
+Disminución de la Vulnerabilidad Atención de salud
+Objetivo específico: Objetivo específico:
+Medida de Adaptación N°15 Medida de Adaptación N°16
+fortalecer la capacidad Título de la Medida Diagnóstico de identificación de zonas vulnerables a asegurar la capacidad Título de la Medida Evaluación de la situación actual y necesidades
+de adaptación al cambio la disminución de la disponibilidad y/o la calidad del de respuesta de la de recursos humanos de los servicios
+climático y a sus impactos agua para la bebida y establecimiento de medidas institucionalidad ante asistenciales de salud frente a eventuales nuevas
+que aseguren el abastecimiento demandas derivadas de cambios en el perfil de
+en la salud, de aquellos eventuales cambios en el
+Descripción Elaboración de un diagnóstico detallado donde morbimortalidad asociados al cambio climático
+grupos identificados perfil de morbimortalidad de
+como vulnerables, los se identifiquen zonas altamente vulnerables a la población derivados de la Descripción Elaboración de un diagnóstico de la situación
+que según OMS & OPS la disminución de la disponibilidad y/o la calidad aparición de enfermedades y evaluación de las necesidades de recursos
+(2011), corresponden a los del agua para la bebida por efecto de sequías, emergentes y/o reemergentes humanos de los servicios asistenciales de salud
+(debido principalmente a su condición de ruralidad) frente a nuevas demandas derivadas de cambios,
+menores de 5 años, las como consecuencia del
+y se establezcan medidas que aseguren el -a nivel nacional, regional y local-, en el perfil
+mujeres embarazadas o que cambio climático.
+abastecimiento de agua de estas zonas. de morbimortalidad de la población asociados
+amamantan, las personas
+al cambio climático, incluyendo enfermedades
+adultas mayores, los pobres Eje de Acción Disminución de la vulnerabilidad
+emergentes o reemergentes, tales como dengue,
+y todas las poblaciones Objetivo de la Medida Asegurar la provisión de agua de calidad para rabia, síndrome pulmonar por hantavirus o fiebre
+excluidas socialmente, los grupos vulnerables en zonas rurales afectadas por amarilla así como también no transmisibles tales
+pueblos indígenas y otros la sequía*. como enfermedades cardio-respiratorias y alérgicas.
+grupos étnicos, así como
+Eje de Acción Atención de salud
+las poblaciones migrantes Las zonas donde se espera mayor impacto a
+y desplazadas que viven en causa de la sequía son: Objetivo de la Medida Identificar la capacidad de respuesta y las
+zonas urbanas y rurales. necesidades de los servicios asistenciales de salud
+zona norte: territorio comprendido entre para hacer frente a nuevas demandas derivadas
+la región de Arica y Parinacota y el sector de cambios en el perfil de morbimortalidad de la
+cordillerano de Antofagasta. población asociados al cambio climático, incluyendo
+enfermedades emergentes.
+zona centro: territorio comprendido entre la Departamento/Oficina al que SSRA: Procesos y Transformación Hospitalaria,
+región de Atacama y la región de Los Lagos. se dirige la medida Gestión de Servicios de Salud.
+Departamento/Oficina al que SSSP: Salud Ambiental
+Encargado de ejecución Departamentos a los que se dirige la medida.
+se dirige la medida SSRA: Modelo de Atención Primaria
+Secretarías Regionales Ministeriales (las Plazos 2016-2017
+correspondientes a las zonas de riesgo). Resultados Diagnóstico de necesidades de recursos humanos
+Encargado de ejecución Departamentos a los que se dirige la medida. para hacer frente a la demanda de servicios
+asistenciales derivada de cambios en el perfil de
+Plazos 2016-2017
+morbimortalidad de la población asociados al
+Resultados Diagnóstico de zonas vulnerables a la disminución cambio climático.
+de disponibilidad y/o calidad de agua asociado a
+Socios colaboradores ISP, academia.
+sequías.
+Socios colaboradores DGA
+52 Plan de Adaptación al Cambio Climático del Sector Salud 53
+
+--- Página 28 ---
+Ministerio de Salud
+6. Evaluación y monitoreo
+del plan
+La evaluación del Plan de Adaptación del Sector Salud se debe realizar siguien-
+do los lineamientos establecidos en el Plan Nacional de Adaptación. De acuerdo
+a ello, se realizarán informes de seguimiento anuales, los cuales además nutrirán
+los informes de seguimiento anual del Plan Nacional de Adaptación. Este segui-
+miento deberá apoyarse en el uso de indicadores de seguimiento y cumplimien-
+to que deberán ser identificados al inicio de la implementación de cada una de
+las medidas contenidas en el presente plan.
+Adicional a los informes de seguimiento anuales, se realizará una evaluación de
+medio tiempo, (primer trimestre del tercer año de implementación del Plan de
+Adaptación del Sector Salud), con el fin de analizar los elementos facilitadores
+y las barreras, extraer lecciones aprendidas y proponer una estrategia para su-
+perar los obstáculos, de manera de posibilitar el cumplimiento de los objetivos
+planteados, hacia el final del período.
+Por último, se hará una evaluación final, que será ejecutada al término del quinto
+año de ejecución del plan y que servirá de insumo para la siguiente fase de cinco
+años.
+El organismo responsable de realizar los informes de seguimiento anuales, la
+evaluación de medio tiempo y la evaluación final será la unidad de Coordinación
+Ejecutiva para el Cambio Climático propuesta en el presente plan.
+Isla Choros
+Región de Coquimbo
+54 Plan de Adaptación al Cambio Climático del Sector Salud 55
+
+--- Página 29 ---
+Ministerio de Salud
+7. Anexos
+56 Plan de Adaptación al Cambio Climático del Sector Salud 57
+
+--- Página 30 ---
+Anexos Ministerio de Salud
+7.1 Referencias 7.2 Estructura orgánica del Ministerio de Salud
+CEPAL, 2012. La economía del cambio climático en Chile. Naciones Unidas,
+Santiago, Chile.
+GreenLabUC. (2012). Vulnerabilidad del Sector Salud frente al Cambio Climático
+y Propuestas para la Adaptación.
+GreenLabUC (2014). Propuesta de Plan Nacional de Adaptación al Cambio
+Climático para el sector Salud.
+MINISTRA DE SALUD
+IPCC. (2007). Climate change 2007. Synthesis report. Contribution of Working
+Groups I, II and III to the fourth assessment report.
+IPCC. (2012). Global warming under old and new scenarios using IPCC climate Jefe de Gabinete
+sensitivity range estimates.
+IPCC. (2014). Chapter 11. Human Health: Impacts, Adaptation, and Co-benefits,
+División de Tecnologías Departamento de Depto. de Depto. de Asesoría Depto. Gestión de
+(October 2013). División Jurídica
+de Información y Gestión de Riesgos en Comunicaciones y RR.PP Ministerial RRHH
+Comunicaciones TIC Emergencias y Desastres
+Ministerio de Salud. (1967). Codigo Sanitario.
+Depto. de Atención Depto. de Control de Secretaría Técnica Oficina de Cooperación y
+Depto. de Auditoría
+Remota en Salud Gestión AUGE Asuntos Internacionales OCAI
+MMA (2014) Ministerio del Medio Ambiente, Plan Nacional de Adaptación al
+Cambio Climático.
+Universidad de Chile, 2006. Estudio de la variabilidad climática en Chile
+para el siglo XXI. Departamento de Geofísica, Facultad de Ciencias Físicas y
+Matemáticas, Universidad de Chile.
+Universidad de Chile. (2012a). Consultoría para la elaboración de un estudio
+sobre el estado del arte de modelos para la investigación del calentamiento
+global.
+Universidad de Chile. (2012b). Consultoría para la elaboración de un estudio
+sobre el estado del arte de modelos para la investigación del calentamiento
+global.
+OMS, (2009). Organización Mundial de la Salud Protecting Health from Climate
+Change. doi:10.1037/e538072010-007
+OMS & OPS. (2011). Estrategia y Plan de Acción sobre el Cambio Climático.
+58 Plan de Adaptación al Cambio Climático del Sector Salud 59
+
+--- Página 31 ---
+Anexos Ministerio de Salud
+y Control de Presupuesto
+División de Presupuesto Departamento de Asignación
+Figura 5. Organigrama de la Subsecretaría de Salud Pública del Ministerio de Salud
+Unidad de Asesores
+Gabinete Subsecretaría de Redes Asistenciales
+Salud (RHS) de Atención
+Relaciones Laborales Gestión Ambiental
+las Personas DIGEDEP
+Humanos en Salud (RHS) Humanos en Salud (RHS)
+Departamento de Planificación y Control de Gestión de Recursos Departamento de Capacitación y Unidad de
+Departamento de Calidad de Vida y Desarrollo de Recursos Humanos en Proyectos de Concesiones
+División de Gestión y Desarrollo de Departamento de Gestión de Recursos Departamento de Calidad y Seguridad Departamento de Salud Ocupacional y
+Jefe de Gabinete Gestión
+Control de
+Coordinación
+Administrativa y
+División de Inversiones
+Preinversionales
+Unidad de Departamento de Estudios Departamento de Finanzas
+de Inversiones Departamento de Arquitectura
+Asesores División
+Primaria
+Coordinación Administrativa Salud (APS)
+Primaria DIVAP
+División de Atención Calidad de la Atención
+SUBSECRETARÍA DE REDES ASISTENCIALES
+Departamento Modelo de Atención
+Departamento de Control de Gestión y Departamento de Gestión de Recursos para el Modelo de Atención Primaria de
+la Gestión en Marcha Integradas
+Figura 6. Organigrama de la Subsecretaría de Redes Asistenciales del Ministerio de Salud
+Unidad Apoyo a Clínicos Integrados Riesgo Asistencial
+Asistenciales DIGERA
+División Gestión de Redes Departamento de GES y Redes e Información para la Gestión Departamento de Gestión de
+Departamento de Gestión de Servicios de Salud, Modelo de Gestión y Puesta Departamento de Gestión de Procesos Departamento de Estudio, Innovación
+de Salud.-PRAIS
+Unidad Programa de
+y Desarrollo Institucional
+Departamento de Participación Ciudadana y Trato al Usuario
+Departamento de Administración
+Representación y Atención Integral
+60 61
+
+--- Página 32 ---
+Anexos Ministerio de Salud
+7.3 Organismos involucrados en la Tabla 3. Departamentos y organismos del Ministerio de Salud involucrados en la adaptación frente a impactos en la salud por el cambio
+climático
+adaptación del sector salud al cambio
+climático
+Impacto a la salud asociado al cambio climático Departamentos involucrados en la adaptación
+Uno de los aspectos fundamentales de la acción en salud dice relación con el re- Aumento de enfermedades diarreicas, infecciosas y malnutrición Departamento de Nutrición y Alimentos
+causadas por la disminución en calidad y cantidad de alimentos y agua. Departamento de Salud Ambiental
+conocimiento de que la protección, el fomento y la recuperación de la salud, así
+Departamento de Epidemiología
+como la rehabilitación integral de las personas, dependen de múltiples factores
+Departamento de Enfermedades Transmisibles
+y condicionantes que van más allá del sector salud y por lo tanto su abordaje re- Departamento de Promoción de la Salud y
+quiere del trabajo integrado y comprometido de diversos sectores y disciplinas. Participación Ciudadana.
+Por su parte, la salud pública ha puesto de manifiesto cómo parte importante de Variación en la proliferación y distribución de enfermedades vectoriales Oficina de Zoonosis y Vectores
+la prevención en salud dice relación con el control de las condiciones ambienta- y zoonóticas como el Dengue, Malaria, Rabia y Hantavirus. Departamento de Epidemiología
+les adversas capaces de poner en riesgo la salud de la población. Esta mirada Departamento de Enfermedades Transmisibles
+integradora para el abordaje y posterior gestión de los problemas de salud de-
+bido a características propias del ambiente debe ser tomada en consideración y Aumento de enfermedades, lesiones, defunciones y trastornos Departamento de Gestión de Riesgos en
+potenciada cuando estos problemas se relacionan con los cambios esperados sicológicos asociados a la ocurrencia de eventos extremos. Emergencias y Desastres
+en cuanto a los fenómenos climáticos y sus impactos en salud. Así entonces y Mesa Técnica de Salud Mental del MINSAL
+a partir del quehacer propio del Ministerio de Salud en base a sus atribuciones
+legales otorgadas desde el Código Sanitario, se hace necesario asegurar que, Aumento de enfermedades infecciosas asociadas a la migración Departamento de Enfermedades Transmisibles
+en el contexto del cambio climático, esta interdependencia se exprese también y posible hacinamiento de la población a causa de las nuevas Departamento de Promoción de la Salud y
+tanto en la institucionalidad pública y privada que el país se ha dado en materia condiciones climáticas y a sus efectos sobre la disponibilidad de agua y Participación Ciudadana
+de salud como en la institucionalidad existente al interior de la administración alimento. Departamento de Salud Ambiental
+del Estado. Departamento de Nutrición y Alimentos
+Aumento de complicaciones de salud en personas con enfermedades Departamento de Salud Ambiental
+En las siguientes tablas se muestran los órganos del Estado y otras instituciones cardio-respiratorias y/o alérgicas debido a la mala calidad del aire. Departamento de Enfermedades no
+con los que se desarrollan diversas acciones, conformando lo que se llama el Transmisibles
+“extra-sector”. Departamento de Promoción de la Salud y
+Participación Ciudadana
+Aumento de complicaciones de salud en personas en estado vulnerable Departamento de Enfermedades no
+(ancianos, embarazadas, personas con enfermedades crónicas, entre Transmisibles
+otros) asociado al aumento de las temperaturas medias y a eventos
+donde se alcancen temperaturas extremas.
+Aumento de casos de cataratas corticales, melanoma maligno cutáneo Departamento de Enfermedades no
+e inmunosupresión asociado a la mayor exposición a los rayos UV. Transmisibles
+Departamento de Promoción de la Salud y
+Participación Ciudadana
+Aumento de enfermedades asociadas al consumo de peces y mariscos Departamento de Nutrición y Alimentos
+contaminados (Vibrio Parahemolyticus. "marea roja") Departamento de Salud Ambiental
+Aumento de enfermedades asociadas al contacto y/o consumo de
+aguas contaminadas producto de florecimientos algales nocivos.
+Fuente: GreenLabUC, 2014, Modificado por Ministerio de salud
+62 Plan de Adaptación al Cambio Climático del Sector Salud 63
+
+--- Página 33 ---
+Anexos Ministerio de Salud
+Tabla 4. Organismos del Estado del extrasector y otras instituciones involucrados en la adaptación frente a impactos en la salud por el
+cambio climático
+Órgano del Estado o institución División/departamento/unidad del Temática de colaboración CONAF DIPLAS/Depto. de Estadísticas Datos sobre florecimientos arbóreos e
+Ministerios de Salud vinculado incendios forestales
+Dirección Meteorológica de Chile DIPLAS/Depto. de Epidemiología Aporte de datos meteorológicos Mutuales DIPLAS/Depto. de Estadísticas Datos sobre salud de los trabajadores
+DIPOL/Depto. de Salud Ambiental y efectos vinculados a cáncer de piel
+Depto. de Gestión de Riesgos en DIPOL/Depto. Salud Ocupacional por exposición a RUV
+Emergencias y Desastres ODEPA DIPOL/Depto. de Nutrición y Alimentos Datos de importación y exportación de
+Superintendencia de Servicios Sanitarios DIPOL/Depto. de Salud Ambiental Aporte de datos sobre calidad de alimentos
+DIPRECE/Depto. de Salud Bucal aguas desde empresas concesionadas
+Depto. de Gestión de Riesgos en Emer-
+gencias y Desastres Aduanas de Chile DIPOL/Depto. de Salud Ambiental- Datos de importación y exportación
+Dirección de Obras Hidráulicas DIPOL/Depto. de Salud Ambiental Aporte de datos sobre abastecimien- Depto. de Alimentos y Nutrición de alimentos.
+to de agua potable rural
+Fuerzas Armadas y de Orden DIPOL/Depto. de Salud Ambiental Cumplimiento del Reglamento Sani-
+Ministerio de Medio Ambiente DIPOL/Depto. de Salud Ambiental Planes coordinados para gestión de tario Internacional y control de nuevas
+aire, residuos, etc DIPLAS/Depto. de Epidemiología enfermedades
+Ministerio de Vivienda DIPOL/Depto. de Salud Ambiental/ Aspectos relacionados a Bomberos de Chile Depto. de Emergencias y Desastres Accidentes químicos; control de
+Depto. de Gestión de Riesgos en ordenamiento territorial relacionado incendios forestales; respuestas
+Emergencias y Desastres con áreas inundables o de mayor DIPOL/Depto. de Salud Ambiental sanitarias ante Emergencias y
+riesgo Desastres ligados a cambios
+climáticos
+Ministerio de Agricultura/Servicio Agrícola DIPOL/Depto. de Salud Ambiental- Calidad química y microbiológica de ONEMI Depto. de Emergencias y Desastres Respuestas sanitarias ante
+y Ganadero/ACHIPIA Depto. de Alimentos y Nutrición los alimentos. Emergencias y Desastres ligados a
+DIPOL/Depto. de Salud Ambiental cambios climáticos
+Aporte de información sobre nuevas
+plagas y su tratamiento y de cómo
+esto puede influir en los residuos de JUNJI Subsecretaría de Redes/DIVAP Acciones específicas de los
+pesticidas en alimentos. programas generados en ambas
+subsecretarías en la red asistencial
+pública
+Servicio Nacional de Pesca DIPOL/Depto. de Salud Ambiental- Calidad de alimentos de origen
+Depto. de Alimentos y Nutrición marino; marea roja y florecimientos JUNAEB Subsecretaría de Redes/DIVAP Acciones específicas de los progra-
+algales mas generados en ambas subsecre-
+tarías en la red asistencial pública
+Directemar DIPOL/Depto. de Salud Ambiental Contaminación de aguas marinas en
+caso de emergencias derivadas del Municipios Subsecretaría de Redes/DIVAP Acciones específicas de los progra-
+cambio climático. mas generados en ambas subsecre-
+tarías en la red asistencial pública
+Ministerio de Hacienda DAF/Depto. de Finanzas Financiamiento de programas o líneas
+de trabajo Fuente: GreenLabUC, 2014
+Ministerio de Educación DIPOL/Depto. de Promoción- Depto. de Estilos de vida saludables, aspectos
+Nutrición y Alimentos nutricionales; campañas transversales
+de educación para la salud
+Registro Civil DIPLAS/Depto. de Estadísticas Estadísticas Vitales; seguimiento de
+mortalidades
+64 Plan de Adaptación al Cambio Climático del Sector Salud 65
+
+--- Página 34 ---
+PLAN DE ADAPTACIÓN AL CAMBIO CLIMÁTICO
+SECTOR SALUD
