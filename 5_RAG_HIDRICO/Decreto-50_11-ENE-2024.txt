@@ -1,0 +1,196 @@
+--- Página 1 ---
+Decreto 50, OBRAS (2023)
+Decreto 50
+APRUEBA REGLAMENTO QUE REGULA LA INFORMACIÓN QUE LA DIRECCIÓN
+GENERAL DE AGUAS DEBE PROPORCIONAR Y PUBLICAR SOBRE LA RED DE
+MONITOREO E INVENTARIO DE GLACIARES Y NIEVES
+MINISTERIO DE OBRAS PÚBLICAS
+Publicación: 11-ENE-2024 | Promulgación: 20-MAR-2023
+Versión: Única De : 11-ENE-2024
+Url Corta: https://bcn.cl/3laf0
+APRUEBA REGLAMENTO QUE REGULA LA INFORMACIÓN QUE LA DIRECCIÓN GENERAL DE AGUAS DEBE
+PROPORCIONAR Y PUBLICAR SOBRE LA RED DE MONITOREO E INVENTARIO DE GLACIARES Y NIEVES
+Núm. 50.- Santiago, 20 de marzo de 2023.
+Vistos:
+1. Las facultades que me confiere el artículo 32 Nº 6 del decreto supremo Nº
+100, de 2005, del Ministerio Secretaría General de la Presidencia que fija el texto
+refundido, coordinado y sistematizado de la Constitución Política de la República;
+2. El DFL Nº 850, de 1997, del Ministerio de Obras Públicas, que fija el texto
+refundido, coordinado y sistematizado de la ley Nº 15.840, de 1964 y del DFL Nº
+206, de 1960;
+3. El DFL Nº 1.122, de 1981, del Ministerio de Justicia, fija texto del Código
+de Aguas;
+4. El decreto 1.220, de 1997, del Ministerio de Obras Públicas, que aprueba el
+Reglamento del Catastro Público de Aguas;
+5. La ley Nº 21.435, de 6 de abril de 2022, que reforma el Código de Aguas;
+6. La resolución Nº 7, de 2019, de la Contraloría General de la República, y
+Considerando:
+1. Que, con fecha 6 de abril de 2022, se publicó en el Diario Oficial la ley
+Nº 21.435, que reformó el Código de Aguas.
+2. Que, mediante dicha ley se modificó el numeral 1 del literal b) del
+artículo 299 del citado cuerpo legal, en el sentido de que la Dirección General de
+Aguas deberá "...mantener y operar la red de monitoreo e inventario de glaciares y
+nieves, el que incluye tanto mediciones de volumen y acumulación, como sus
+características y ubicación, debiendo proporcionar y publicar la información
+correspondiente, conforme al reglamento dictado al efecto".
+3. Que, a través del decreto supremo Nº 1.220, de 1997, del Ministerio de
+Obras Públicas, se aprobó el Reglamento del Catastro Público de Aguas, el cual en
+su artículo 29 bis establece que "En el Inventario Público de Glaciares se
+incluirá la información relativa a los glaciares del territorio nacional. La
+información que deberá contener será la que se determine por resolución del
+Director General de Aguas".
+4. Que, en virtud de lo señalado en el considerando Nº 2, es necesario
+establecer un reglamento que regule la información que la Dirección General de
+Aguas debe proporcionar y publicar, relativa a la Red de Monitoreo e Inventario de
+Glaciares y Nieves.
+Decreto:
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 1 de 4
+
+--- Página 2 ---
+Decreto 50, OBRAS (2023)
+1º Apruébase el Reglamento que regula la información que la Dirección
+General de Aguas debe proporcionar y publicar sobre la Red de Monitoreo e Inventario
+de Glaciares y Nieves.
+TÍTULO I
+Disposiciones Generales
+Artículo 1. Objeto.
+El presente reglamento tiene por objeto regular la información que la
+Dirección General de Aguas (en adelante, DGA) debe proporcionar y publicar sobre la
+Red de Monitoreo e Inventario de Glaciares y Nieves.
+Se establece, asimismo, que los Inventarios de Glaciares y Nieves forman parte
+del Inventario Público Glaciológico (en adelante, IPGL), como una componente
+integral del Catastro Público de Aguas, que incluye el Inventario Público de
+Glaciares (en adelante, IPG) y el Inventario Público de Cobertura Nival (en
+adelante, IPCN). Ambos inventarios cubren todo el territorio nacional del continente
+sudamericano.
+Artículo 2. Definiciones.
+Para los efectos de este reglamento se establecen las siguientes definiciones:
+1. Banco Nacional de Aguas (BNA): Sistema informático desarrollado por la DGA,
+que considera un manejador de base de datos en el cual se almacenan y consultan datos
+que recoge la red hidrometeorológica y de monitoreo de glaciares y nieves.
+2. Cambio climático: Cambio del clima atribuido directa o indirectamente a la
+actividad humana que altera la composición de la atmósfera mundial y que se suma a
+la variabilidad natural del clima observada durante períodos de tiempo comparables.
+3. EMAF: Estación Meteorológica Automática Fija, que registra mediante
+sensores los diferentes parámetros de carácter permanente.
+4. EMAM: Estación Meteorológica Automática Móvil, que registra mediante
+sensores los diferentes parámetros de carácter estacional.
+5. Glaciar: Masa de agua terrestre en estado sólido, de ocurrencia natural, que
+haya perdurado al menos 5 años. Un glaciar contiene hielo, eventualmente neviza y
+nieve superficial, con evidencia de flujo actual o pasado, independiente de su estado
+de degradación, cualquiera sea su forma geométrica y ubicación (glaciar de valle,
+de montaña, efluente, campo de hielo, glaciarete, glaciar rocoso u otros), y su
+cobertura detrítica superficial al final del período de ablación. Son partes
+constituyentes de un glaciar, su material detrítico rocoso superficial o incorporado
+en el interior del glaciar y el agua líquida, tanto superficial como interna.
+6. Inventario Público de Cobertura de Nieve (IPCN): Inventario que contiene la
+información de la superficie de cobertura de nieve anual en el territorio chileno
+sudamericano.
+7. Inventario Público de Glaciares (IPG): Inventario, actualizado en forma
+decenal, de los cuerpos de hielo glaciar presentes en el territorio nacional.
+8. IPGL: Inventario Público Glaciológico, que incluye el IPG y el IPCN.
+9. NDSI: Sigla en idioma inglés que significa Índice Diferencial Normalizado
+de Nieve, es un índice que está relacionado con la presencia de nieve en un pixel.
+Se considera que un pixel con NDSI> 0,0 tiene algo de nieve presente. Un píxel
+con NDSI <= 0,0 es una superficie terrestre sin nieve. El NDSI es particularmente
+útil para separar la nieve de la vegetación, los suelos y los miembros finales de
+la litología.
+10. Permafrost: Tipo de suelo, sedimento, roca o materia orgánica, con o sin
+hielo, incluyendo la capa activa (por encima), que permanece a cero grados
+centígrados de temperatura (0 ºC) o por debajo de los cero grados centígrados de
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 2 de 4
+
+--- Página 3 ---
+Decreto 50, OBRAS (2023)
+temperatura, por dos o más años consecutivos.
+11. Red de Monitoreo de Glaciares y Nieves: Red de monitoreo que consta de
+estaciones implementadas en la cordillera mediante estaciones fijas (EMAF) y móviles
+(EMAM), registrando datos meteorológicos y glaciológicos en cuencas representativas
+con presencia permanente o cuasi permanente de hielo y nieve.
+TÍTULO II
+De la Red de Monitoreo de Glaciares y Nieves
+Artículo 3. Descripción de la Red de Monitoreo de Glaciares y Nieves.
+La Red de Monitoreo de Glaciares y Nieves, a cargo de la DGA, tiene por objeto
+medir y registrar datos meteorológicos y glaciológicos a nivel regional y local
+para realizar estudios glaciológicos y climáticos, incluyendo la respuesta al
+cambio climático.
+La red debe ser implementada en cabeceras de cuencas representativas mediante
+EMAF, permanentes, en la periferia de glaciares, y EMAM, ubicadas sobre glaciares,
+generalmente durante el período estival.
+Asimismo, la red incluye estaciones para medir el nivel de lagos glaciares; el
+estado termal del permafrost; estaciones fluviométricas para medir escorrentía en
+cauces de origen glaciar y/o permafrost; estaciones de nivel del mar en fiordos donde
+confluyen frentes de glaciares; y estaciones de monitoreo de nieve (rutas de nieve -
+RN).
+En el diseño e implementación de la Red de Monitoreo de Glaciares y Nieves de
+la DGA, se considerarán las recomendaciones del GCOS/GTOS (Global Climate Observing
+System /Global Terrestrial Observing System) y GTN-G (Global Terrestrial Network for
+Glaciers), en relación al monitoreo de variables esenciales del clima (ECVs) en
+cuencas de montaña.
+Artículo 4. El Acceso a la Información.
+La información deberá publicarse en el sitio web institucional oficial de la
+Dirección General de Aguas www.dga.cl, para su conocimiento público.
+Las tramas de datos originales (en formato crudo) de las estaciones
+glaciológicas y nivométricas, medidas en cada estación y transmitidas en línea,
+se podrán consultar en la plataforma satelital de la DGA, donde serán actualizados
+en forma horaria.
+Los parámetros mínimos que cada una de las tramas de datos deberá contener
+son: temperatura y humedad relativa del aire, presión atmosférica, y dirección y
+velocidad del viento.
+Por otra parte, en el BNA se podrá obtener la información estadística
+revisada.
+Sin desmedro de lo anterior, cualquier persona puede solicitar información
+específica mediante ley Nº 20.285, sobre acceso a la información pública.
+TÍTULO III
+Del Inventario Público de Glaciares
+Artículo 5. Descripción del Inventario Público de Glaciares
+El Inventario Público de Glaciares corresponde al catastro oficial de los
+glaciares presentes en territorio chileno sudamericano, en el cual se singulariza
+cada cuerpo de hielo en forma independiente y se registran sus características
+particulares.
+El Inventario Público de Glaciares es una base de datos en formato vectorial,
+el cual se debe desplegar en un software SIG (sistema de información geográfico)
+para su visualización y análisis en modo espacial y alfanumérico.
+La Dirección General de Aguas, en el plazo de tres meses contados desde la
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 3 de 4
+
+--- Página 4 ---
+Decreto 50, OBRAS (2023)
+publicación de este reglamento, dictará una resolución fundada mediante la cual
+establecerá la codificación y los campos de información para este inventario.
+Artículo 6. El Acceso a la Información
+El Inventario Público de Glaciares será actualizado, al menos, cada 10 años.
+Estas actualizaciones serán aprobadas mediante resolución fundada de la DGA, la
+cual deberá ser publicada dentro del plazo de diez días hábiles contados desde su
+dictación, con el conjunto de archivos que componen la versión vigente del
+Inventario Público de Glaciares, en el sitio web institucional oficial de la
+Dirección General de Aguas www.dga.cl, para su conocimiento público.
+Sin desmedro de lo anterior, cualquier persona puede solicitar el IPG en su
+última versión u otra anterior mediante la ley Nº 20.285, sobre acceso a la
+información pública.
+TÍTULO IV
+Inventario Público de Cobertura Nival
+Artículo 7. Descripción del Inventario Público de Cobertura Nival
+El Inventario Público de Cobertura Nival (IPCN) contiene la información de la
+superficie de cobertura de nieve anual en el territorio chileno sudamericano.
+La clasificación de cobertura nival se realizará utilizando el Índice
+Diferencial Normalizado de Nieve, NDSI según sus siglas en inglés (Normalized
+Difference Snow Index), basado en datos satelitales.
+La Dirección General de Aguas, en el plazo de tres meses contados desde la
+publicación de este reglamento, dictará una resolución fundada, mediante la cual
+establecerá los campos de información correspondientes a este inventario.
+La evaluación del área de cobertura nival se realizará dentro del último
+trimestre del año calendario, con los datos disponibles al tercer trimestre de dicho
+año.
+Artículo 8. Acceso a la información
+El Inventario Público de Cobertura Nival y sus respectivas actualizaciones
+anuales serán publicadas en el sitio web institucional oficial de la Dirección
+General de Aguas, www.dga.cl, para su conocimiento público.
+Sin desmedro de lo anterior, cualquier persona puede solicitar el IPCN en su
+última versión u otra anterior mediante la ley Nº 20.285, sobre acceso a la
+información pública.
+Anótese, tómese razón y publíquese.- GABRIEL BORIC FONT, Presidente de la
+República.- Jessica López Saffie, Ministra de Obras Públicas.
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., José Andrés
+Herrera Chavarría, Subsecretario de Obras Públicas.
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 01-Nov-2026 página 4 de 4
