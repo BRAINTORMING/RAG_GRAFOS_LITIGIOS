@@ -1,0 +1,1837 @@
+--- Página 1 ---
+PLAN DE ADAPTACIÓN AL
+CAMBIO CLIMÁTICO DEL
+SECTOR SILVOAGROPECUARIO
+
+--- Página 2 ---
+[Sin texto reconocible]
+
+--- Página 3 ---
+Ministerio de Ministerio del
+Agricultura Medio Ambiente
+PLAN DE ADAPTACIÓN AL
+CAMBIO CLIMÁTICO DEL
+SECTOR SILVOAGROPECUARIO
+Propuesta Ministerial Elaborada en el Marco del Plan
+de Acción Nacional de Cambio Climático 2008-2012
+
+--- Página 4 ---
+PLAN DE ADAPTACIÓN AL CAMBIO CLIMÁTICO DEL
+SECTOR SILVOAGROPECUARIO
+Propuesta Ministerial Elaborada en el Marco del Plan de
+Acción Nacional de Cambio Climático 2008-2012
+Implementación del Proyecto:
+Ministerio de Agricultura
+Ministerio del Medio Ambiente
+Coordinación técnica:
+Ministerio del Medio Ambiente
+Oficina de Cambio Climático:
+Peter Muck, Maritza Jadrijevic, Gladys Santis
+Ministerio de Agricultura
+Oficina de Estudios y Políticas Agrarias
+Daniel Barrera, Alfredo Apey
+Diseño y diagramación:
+Oficina de Comunicaciones del Ministerio del medio
+Ambiente
+Alejandro Armendariz
+La copia y venta de este material queda completamente
+prohibida
+Impresión: XoXoXo Chile, Editora e Imprenta
+1000 ejemplares (2013)
+Registro de propiedad intelectual:
+ISBN: 978-956-7204-39-7
+
+--- Página 5 ---
+Índice
+11
+Íntroducción
+13 Capítulo 1
+Cambios en el Clima y su Origen
+19 Capítulo 2
+Posibles Efectos en el Medio Ambiente y el Sector Silvoagropecuario
+27 Capítulo 3
+Vulnerabilidad del País Frente al Cambio Climático
+31 Capítulo 4
+Propuesta de Plan Sectorial
+Capítulo 5
+39 Medidas propuestas para la implementación del plan nacional de
+adaptación al cambio climático en el sector silvoagropecuario.
+
+--- Página 6 ---
+[Sin texto reconocible]
+
+--- Página 7 ---
+Presentación
+Luis Mayol Bouchon
+Ministro de Agricultura de Chile
+Santiago de Chile, septiembre de 2013.
+El Gobierno de Chile se complace en presentar al país y a la comunidad internacional
+el documento “Segunda Comunicación Nacional de Chile ante la Convención Marco
+de las Naciones Unidas sobre Cambio Climático”, cumpliendo así con el principal
+compromiso asumido por el país con la firma de dicha Convención. Este documento
+compila una década de actividades, iniciativas e información generada en el país
+respecto a diversas materias relacionadas con el cambio climático.
+Desde la presentación de la Primera Comunicación Nacional de Chile en febrero de
+2000, las temáticas relacionadas con el cambio climático han avanzado vertiginosa-
+mente. Es así como el Gobierno ha decidido hacer cambios profundos para abordar
+un compromiso como Estado frente a este fenómeno y sus consecuencias. Para
+esto ha generado lineamientos de políticas públicas, readecuando su institucionali-
+dad, mejorando la coordinación interinstitucional y reestructurando partidas presupu-
+estarias de instituciones públicas. También ha profundizado el diagnóstico respecto
+a vulnerabilidades y oportunidades de adaptación al cambio climático. Además, se
+ha actualizado la información sobre las implicancias que tiene el realizar acciones de
+mitigación de sus emisiones de gases de efecto invernadero. Esto ha permitido iden-
+tificar mejor el alcance de diferentes brechas que se asoman en el país para poder
+conjugar crecimiento económico con el desarrollo de un Chile con bajas emisiones 7
+de carbono.
+Al igual que otros países en desarrollo, Chile ha decidido colaborar en forma voluntar-
+ia en las iniciativas mundiales para mitigar emisiones de gases de efecto invernadero,
+comprometiéndose a tomar acciones que le permitan disminuir en un 20 por ciento
+sus emisiones proyectadas al 2020.
+Está claro que las decisiones asociadas al cambio climático deben posicionarse más
+allá del ámbito puramente científico entre los tomadores de decisión del mundo pú- MUESTRA
+blico y privado. La sociedad civil y sus organizaciones representantes también lo han
+entendido así, dando cuenta de la urgencia con que hay que aplicar medidas de
+adaptación y mitigación, y también con la premura con la que hay que aunar esfuer-
+zos en el ámbito que a cada uno le corresponde.
+Aún cuando todavía el progreso en la materia no es suficiente, es fundamental que
+toda la sociedad chilena asuma estos compromisos prontamente. El apoyo interna-
+cional que se reciba para profundizar y acelerarlos será también un aporte impor-
+tante.
+La presente Comunicación Nacional lo demuestra. Ha sido elaborada gracias al tra-
+bajo conjunto de profesionales de diversos ministerios y organizaciones científicas,
+técnicas y sociales del país, así como también de la empresa privada, bajo la coordi-
+nación de la actual Oficina de Cambio Climático del Ministerio del Medio Ambiente,
+contando con el apoyo financiero otorgado por el Fondo para el Medio Ambiente
+Mundial.
+
+--- Página 8 ---
+[Sin texto reconocible]
+
+--- Página 9 ---
+Presentación
+María Ignacia Benítez
+Ministra del Medio Ambiente de Chile
+Santiago de Chile, septiembre de 2013.
+El Gobierno de Chile se complace en presentar al país y a la comunidad internacional
+el documento “Segunda Comunicación Nacional de Chile ante la Convención Marco
+de las Naciones Unidas sobre Cambio Climático”, cumpliendo así con el principal
+compromiso asumido por el país con la firma de dicha Convención. Este documento
+compila una década de actividades, iniciativas e información generada en el país
+respecto a diversas materias relacionadas con el cambio climático.
+Desde la presentación de la Primera Comunicación Nacional de Chile en febrero de
+2000, las temáticas relacionadas con el cambio climático han avanzado vertiginosa-
+mente. Es así como el Gobierno ha decidido hacer cambios profundos para abordar
+un compromiso como Estado frente a este fenómeno y sus consecuencias. Para
+esto ha generado lineamientos de políticas públicas, readecuando su institucionali-
+dad, mejorando la coordinación interinstitucional y reestructurando partidas presupu-
+estarias de instituciones públicas. También ha profundizado el diagnóstico respecto
+a vulnerabilidades y oportunidades de adaptación al cambio climático. Además, se
+ha actualizado la información sobre las implicancias que tiene el realizar acciones de
+mitigación de sus emisiones de gases de efecto invernadero. Esto ha permitido iden-
+tificar mejor el alcance de diferentes brechas que se asoman en el país para poder
+conjugar crecimiento económico con el desarrollo de un Chile con bajas emisiones 9
+de carbono.
+Al igual que otros países en desarrollo, Chile ha decidido colaborar en forma voluntar-
+ia en las iniciativas mundiales para mitigar emisiones de gases de efecto invernadero,
+comprometiéndose a tomar acciones que le permitan disminuir en un 20 por ciento
+sus emisiones proyectadas al 2020.
+Está claro que las decisiones asociadas al cambio climático deben posicionarse más
+allá del ámbito puramente científico entre los tomadores de decisión del mundo pú-
+blico y privado. La sociedad civil y sus organizaciones representantes también lo han
+entendido así, dando cuenta de la urgencia con que hay que aplicar medidas de MUESTRA
+adaptación y mitigación, y también con la premura con la que hay que aunar esfuer-
+zos en el ámbito que a cada uno le corresponde.
+Aún cuando todavía el progreso en la materia no es suficiente, es fundamental que
+toda la sociedad chilena asuma estos compromisos prontamente. El apoyo interna-
+cional que se reciba para profundizar y acelerarlos será también un aporte impor-
+tante.
+La presente Comunicación Nacional lo demuestra. Ha sido elaborada gracias al tra-
+bajo conjunto de profesionales de diversos ministerios y organizaciones científicas,
+técnicas y sociales del país, así como también de la empresa privada, bajo la coordi-
+nación de la actual Oficina de Cambio Climático del Ministerio del Medio Ambiente,
+contando con el apoyo financiero otorgado por el Fondo para el Medio Ambiente
+Mundial.
+En ese sentido, agradezco a cada uno de los profesionales y directivos de todas
+las reparticiones públicas que colaboraron sta Comunicación. A los académicos y
+
+--- Página 10 ---
+[Sin texto reconocible]
+
+--- Página 11 ---
+Íntroducción
+Hace unas tres décadas, se comenzó a hablar de un cambio del equilibrio en
+las condiciones climáticas del planeta, lo que llevó a la comunidad internacional,
+representada por la Organización de las Naciones Unidas (ONU) a fundar, en 1988,
+el Panel Intergubernamental de Cambio Climático 1 (PICC) con dependencia de la
+Organización Meteorológica Mundial 2 (OMM) y del Programa de Naciones Unidas
+para el Medio Ambiente 3 (PNUMA) y con sede en la ciudad de Ginebra (Suiza).
+Los informes de evaluación del estado del clima, que le fueron encargados a esta
+entidad y que han venido publicándose regularmente desde el año 1990 (First
+Assessment Report), con publicaciones posteriores en los años 1995 (SAR), 2001 11
+(TAS) y 2007 (AR4) 4 , han sido decisivos en convencer a la opinión pública de que
+hay una influencia humana discernible en el sistema climático y que, con un 90% de
+probabilidad de ocurrencia, el cambio climático que está experimentando el Planeta
+Tierra se debe a las emisiones de gases de efecto invernadero (GEI) –cada vez más
+abundantes- que ocurren debido a las actividades humanas.
+Es de gran importancia que los países empiecen a incorporar medidas que permitan
+una paulatina adaptación de su población a las nuevas condiciones climáticas que
+se presentarán en un futuro relativamente cercano.
+También es de alta importancia que los países empiecen a tomar medidas para
+mitigar el cambio climático, actuando sobre la causa más probable, que son las
+emisiones de gases de efecto invernadero a la atmósfera.
+La agricultura, la ganadería y especialmente el cambio de uso del suelo, que por
+lo general es causa de la deforestación son importantes fuentes de emisiones de
+GEI, que de acuerdo a las cifras del PICC, a nivel global aportan casi el 30 %
+de las emisiones totales. El papel que debe jugar el Ministerio de Agricultura en
+la mitigación del cambio climático y en la adaptación al mismo, es fundamental.
+Medidas de mitigación y adaptación al cambio climático se deben ir incorporando a
+las políticas, regulaciones y actividades de los sectores agrícola y forestal, así como
+a otras actividades propias del Ministerio.
+1 Intergovernmental Panel on Climate Change (IPCC)
+2 World Meteorological Organization (WMO)
+3 United Nations Environmental Programme
+4 Todos los documentos publicados por el IPCC son
+accesibles a través de www.ipcc.ch
+
+--- Página 12 ---
+[Sin texto reconocible]
+
+--- Página 13 ---
+Cap 1
+CAMBIOS EN EL CLIMA Y SU ORIGEN
+Capítulo 1
+Cambios en el Clima
+y su Origen
+13
+
+--- Página 14 ---
+Cap 1
+CAMBIOS EN EL CLIMA Y SU ORIGEN
+Gran parte de la información disponible sobre el cambio climático en Chile ha sido re-
+copilada por la Oficina de Cambio Climático del Ministerio de Medio Ambiente (MMA),
+con el fin de elaborar la Segunda Comunicación Nacional, que el Gobierno de Chile
+presentó a la Secretaría de la Convención Marco de Naciones Unidas sobre el Cam-
+bio Climático 1 (CMNUCC).
+De acuerdo al Departamento de Geofísica de la Universidad de Chile 2 , que consideró
+dos de los escenarios de emisiones globales de gases de efecto invernadero defi-
+nidos por el IPCC: A2 (severo) y B2 (moderado), las mediciones realizadas entre los
+años 1930 y 2000 indican que las precipitaciones, entre los 30°S y los 39°S, mues-
+tran una clara tendencia a la disminución hasta aproximadamente 1970, pero una
+mayor frecuencia de inviernos relativamente lluviosos en las décadas siguientes ha
+contribuido a revertir en parte la tendencia decreciente del período anterior.
+La evolución del régimen pluviométrico en la región centro-sur y austral del país ha
+sido marcadamente diferente a la observada en la región subtropical, con una signifi-
+cativa tendencia hacia una mayor precipitación hasta mediados de los años 70, para
+14 dar paso a una tendencia decreciente que se mantiene hasta ahora.
+Estudios a lo largo de la costa extratropical de Sudamérica, realizados durante los
+años 90 mostraron que, a partir de los años 40 ó 50, la temperatura media superficial
+mostró un régimen relativamente estacionario, con excepción de la región centro-sur,
+donde la temperatura media mostró un marcado descenso. Sin embargo, esta situa-
+ción cambió en forma relativamente abrupta a contar de mediados de los años 70.
+fig.
+1
+Cambios Climáticos esperados en Chile:
+precipitación Región central
+2013.
+Plan de acción para la protección y
+conservación de la biodiversidad, en un
+contexto de adaptación al Cambio Climático.
+Fundación Facultad de Ciencias Agronómicas
+Universidad de Chile; Santiago. Santibañez,
+F.; Santibañez, P.; Caroca, C.; González, P.;
+Gajardo, N.; Perry, P.; Simonetti, J.; Pliscoff, P.
+1 United Nations Framework Convention on Climate Change
+(UNFCCC).
+2 Universidad de Chile. 2006. Estudio de la variabilidad cli-
+mática en Chile para el siglo XXI. Informe final. Facultad de
+Ciencias Físicas y Matemáticas, Departamento de Geofísi-
+ca. CONAMA, Santiago. 63 pp.
+
+--- Página 15 ---
+Cap 1
+CAMBIOS EN EL CLIMA Y SU ORIGEN
+Un análisis de las tendencias en los regímenes de temperaturas extremas diarias
+(máxima - mínima), a partir de 1960, sugiere que el régimen térmico superficial se ha
+mantenido relativamente estacionario durante las décadas más recientes, con ex-
+cepción de la región comprendida entre Santiago y Concepción, donde se aprecian
+aumentos decadales de 0,05°C y 0,18°C en los promedios anuales de temperatura
+máxima y mínima, respectivamente.
+En cuanto a la condición futura de los climas, un elemento relevante sería el alza de
+la isoterma cero, especialmente hacia la segunda mitad del siglo XXI, que ascende-
+ría entre 300 y 500 metros respecto de la condición actual, incidiendo tanto en una
+menor acumulación de nieve como en un mayor escurrimiento invernal en detrimento
+del estival. También, hacia mediados del presente siglo, se pronostica un desplaza-
+miento significativo hacia el sur (salvo en verano) de subsidencia tropical conocida
+como la celda de Hadley, lo cual es coherente con un alza de la presión superficial.
+Los modelos de circulación global (principalmente, el HadCM3) pronostican una ma-
+yor extensión de la Zona de Convergencia del Pacífico Sur, caracterizada por incre-
+mentos de lluvias tropicales, particularmente en otoño; hacia el ecuador de su eje y
+como resultado de esta expansión al sur, se generaría una región con menor preci- 15
+pitación. Durante la estación invernal, esta región de menor precipitación alcanzaría
+la costa central de Chile, con indicios de similar naturaleza en otoño; el Centro-Sur
+del país también tendría una menor pluviometría en primavera y verano. En tanto, el
+extremo sur tendría un aumento en las precipitaciones de otoño.
+fig.
+2
+Cambios Climáticos esperados en Chile:
+temperatura Región central
+2013.
+Plan de acción para la protección y
+conservación de la biodiversidad, en un
+contexto de adaptación al Cambio Climático.
+Fundación Facultad de Ciencias Agronómicas
+Universidad de Chile; Santiago. Santibañez,
+F.; Santibañez, P.; Caroca, C.; González, P.;
+Gajardo, N.; Perry, P.; Simonetti, J.; Pliscoff, P.
+
+--- Página 16 ---
+Cap 1
+CAMBIOS EN EL CLIMA Y SU ORIGEN
+La temperatura aumentaría en todas las regiones, siendo mayores para el escenario
+A2 3 . zEl cambio térmico medio del escenario A2, respecto al clima actual, sobre Chile
+continental sería de 2° a 4°C, siendo más acentuado hacia las regiones andinas y
+disminuyendo de norte a sur. Sólo en la Región Austral, bajo el escenario B2 4 , habría
+pequeños sectores con calentamiento <1°C. El calentamiento sería mayor en verano,
+excediendo los 5°C en algunos sectores andinos altos.
+La pluviometría tendría una marcada disminución en la ladera occidental de la Cor-
+dillera de los Andes, correspondiente a Chile continental y el Pacifico adyacente,
+particularmente en latitudes medias y en las estaciones de verano y otoño. Este
+contraste sería más evidente en el escenario A2 durante el verano, cuando la precipi-
+tación sobre ciertos sectores de Chile centro-sur se reduciría a la mitad e incluso un
+cuarto del valor actual. Un detalle regional, respecto de las precipitaciones, permite
+establecer que:
+» En el sector altiplánico chileno habría un aumento en primavera y verano,
+» En el Norte Chico habría un incremento en otoño en la faja comprendida entre
+16
+20 y 33°S,
+» En la región de Chile Central habría una disminución generalizada, con una
+pérdida del orden del 40% en las tierras bajas, ganando en magnitud hacia
+la ladera andina durante el verano, pero reduciéndose durante el otoño y el
+invierno bajo el escenario B2.
+» La Región Sur exhibiría una transición hacia los montos del clima actual du-
+rante otoño e invierno; durante el verano, la disminución sería del orden de
+40%, reduciéndose en primavera en un 25%,
+Como consecuencia, se pronostica una reducción generalizada de las precipita-
+ciones en el territorio nacional, especialmente en las zonas centro y sur, con una
+importante reducción del área andina con capacidad de almacenar nieve, y en con-
+secuencia de regular los caudales a lo largo del año. Considerando que la isoterma
+de 0°C sufriría un alza de altura, las crecidas invernales de los ríos con cabecera an-
+dina se incrementarían por el consiguiente aumento de la escorrentía de las cuencas
+aportantes, viéndose disminuida la reserva nival de agua. En la región cordillerana
+entre las latitudes 30 y 40°S, habría una reducción del área comprendida arriba de la
+isoterma cero en todas las estaciones del año, siendo muy significativa durante los
+cuatro primeros meses del año.
+De acuerdo a académicos de la División de Recursos Hídricos y Medio Ambiente
+(RHMA), de la Universidad de Chile 5 , todos los sistemas hídricos evaluados (cuencas
+Illapel, Aconcagua, Teno y Cautín) tendrían una reducción –tanto en caudal como en
+precipitación- entre 20% y 40% y aumentos de temperatura entre 1 y 4°C. Existirán
+cambios en la estacionalidad, por ejemplo en el caso del Aconcagua y Teno, se
+produciría un adelantamiento de los caudales “peak” y significativas reducciones de
+3 Sin implementación de medidas de mitigación de emisiones
+de gases invernadero (peor escenario posible). caudal en todos los sistemas considerados en el estudio.
+4 Con implementación masiva de opciones de mitigación (Pro-
+tocolo de Kyoto y otros posteriores).
+5 Universidad de Chile. 2010. Análisis de la vulnerabilidad de
+recursos hídricos frente a escenarios de cambio climático
+para las cuencas Cautín, Aconcagua, Teno e Illapel. Infor-
+me final. División de Recursos Hídricos y Medio Ambiente
+(RHMA). CONAMA, Santiago. 114 pp.
+
+--- Página 17 ---
+Cap 1
+CAMBIOS EN EL CLIMA Y SU ORIGEN
+Las conclusiones son reforzadas por el Centro de Agricultura y Medio Ambiente
+(AGRIMED) 6 , que consideró otras cuencas nacionales y que concluyó que los cau-
+dales medios anuales, en el período 2035 a 2065, presentarían una tendencia a la
+disminución, aunque con comportamientos disímiles de las cuencas. Por otra parte,
+en la mayoría de las cuencas, habrá un adelantamiento del centro de gravedad de la
+distribución mensual.
+Con relación al alza del nivel del mar, el Departamento de Geofísica de la Universidad
+de Chile estima que en el litoral chileno, hacia fines del presente siglo, habría alzas
+fluctuantes entre 16 y 28 cm, bajo el escenario A2, y entre 14 y 24 cm, bajo el es-
+cenario B2.
+El PICC postula en su 4° Informe de Evaluación del Estado del Clima, publicado en
+Noviembre del año 2007, que con un 90% de probabilidad de ocurrencia, la causa
+del calentamiento global –inductor del cambio climático generalizado sobre el Pla-
+neta Tierra- está en las emisiones de gases de efecto invernadero (específicamente
+CO2, CH4, N2O, y gases del tipo de los hidro-cloro-fluoro-carbono, propios de la
+“industria del frío”, además del SF6) producidas por las actividades humanas.
+17
+Si bien el CO2, gas invernadero más abundante en las emisiones humanas, es el típi-
+co gas emergente de la combustión de recursos fósiles, las emisiones de CH4 y N2O
+constituyen las principales emisiones de las actividades agropecuarias: el primero de
+la ganadería y cultivo del arroz, el segundo de la fertilización nitrogenada.
+A nivel mundial, la agricultura aporta con cerca del 12% de todas las emisiones de
+gases con efecto invernadero. En Chile, al año 2006, la agricultura aportó el 17%
+de las emisiones, habiendo sido el 15,7% en 1984, y el 12,8% en 1990. Esta par-
+ticipación muestra el fuerte y sostenido crecimiento de las emisiones por el uso de
+combustibles fósiles en la generación de energía, el transporte y en otras áreas de
+la economía.
+6 Universidad de Chile. 2008. Análisis de la vulnerabilidad del
+sector agropecuario, recursos hídricos y edáficos de Chile,
+frente a escenarios de cambio climático. Capítulo “Análisis
+de la vulnerabilidad de los recursos hídricos de Chile frente
+a escenarios de cambio climático. Centro de Agricultura y
+Medio Ambiente (AGRIMED), Facultad de Ciencias Agronó-
+micas, Universidad de Chile. CONAMA, Santiago. 126 pp.
+
+--- Página 18 ---
+Cap 2
+POSIBLES EFECTOS EN EL MEDIO AMBIENTE Y EL SECTOR
+SILVOAGROPECUARIO
+18
+
+--- Página 19 ---
+Cap 2
+POSIBLES EFECTOS EN EL MEDIO AMBIENTE Y EL SECTOR
+SILVOAGROPECUARIO
+Capítulo 2
+Posibles Efectos en el
+Medio Ambiente y el Sector
+Silvoagropecuario
+19
+
+--- Página 20 ---
+Cap 2
+POSIBLES EFECTOS EN EL MEDIO AMBIENTE Y EL SECTOR
+SILVOAGROPECUARIO
+A. En los suelos
+De acuerdo a un estudio desarrollado por AGRIMED, de la Universidad de Chile , que
+cubrió desde la Región de Coquimbo a la de Los Lagos con un horizonte temporal al
+año 2040 bajo el escenario A2, el cambio de las condiciones climáticas generaría un
+importante aumento en la magnitud y extensión de los procesos erosivos en el país,
+con todas su secuela de efectos ambientales, productivos y sociales.
+Los resultados de este estudio indican que las zonas con mayores riesgos de erosión
+pluvial, tanto hoy como en escenarios de cambio climático, corresponden a las zonas
+ubicadas en la Cordillera de la Costa y la precordillera de Los Andes, encontrándose
+las zonas más críticas en la Región del Bío-Bío, donde existe una notoria degrada-
+ción de los suelos debido a fuertes presiones por el uso agrícola y forestal.
+Esta situación se verá incrementada producto de la disminución proyectada en la
+producción de biomasa de praderas naturales hacia el año 2040 y que continuará
+en descenso hacia el 2070. Una combinación entre lluvias erosivas, falta o menor
+20 cobertura vegetal en zonas con relieve complejo y usos del suelo no consistentes
+con su fragilidad , permiten identificar a la cordillera de la costa y precordillera como
+las zonas de mayor riesgo, con pérdidas de suelo significativamente mayores a las
+del valle central.
+También en la zona del secano costero entre las Regiones de Valparaíso y del Bío-
+Bío, ocupada principalmente por cultivos con rotaciones de trigo, praderas, papas,
+leguminosas y barbecho, ya afectada por un proceso erosivo de gran magnitud,
+debería ver intensificado el proceso erosivo.
+A partir de la Región del Bío-Bío al sur, la pérdida de suelos declinaría hasta ser muy
+baja en la costa de la Región de Los Lagos, por la mayor cobertura boscosa que
+se presenta a partir de Valdivia. En la precordillera, menos protegida por bosque, las
+pérdidas serían muy altas hasta la Región de Los Lagos, lo que sugiere un riesgo
+mayor para la sedimentación de lagos, humedales, embalses y cursos de agua su-
+perficiales.
+Por las características del territorio nacional, la erosión de los suelos continuará sien-
+do una amenaza creciente, en la medida que se amplíe la frontera agropecuaria
+hacia el sur y la costa como consecuencia de los nuevos escenarios climáticos que
+aumentaran el potencial agrícola de estos sectores. Por lo anterior, será recomenda-
+ble normar el uso del suelo, así como las prácticas de cultivo que se utilizarán en las
+potenciales nuevas áreas agrícolas que emergerán durante el presente siglo. Espe-
+cial atención debería ponerse a las cabeceras de las cuencas, donde la pérdida de
+suelos podría verse incrementada debido al aumento de la escorrentía invernal, a su
+desprotección y a la posible intensificación de la agricultura.
+
+--- Página 21 ---
+Cap 2
+POSIBLES EFECTOS EN EL MEDIO AMBIENTE Y EL SECTOR
+SILVOAGROPECUARIO
+B. En la producción silvoagropecuaria
+Un estudio realizado por AGRIMED, a fines de 2008 , parte de la base que - en mayor
+grado en el escenario A2 y en menor medida en el B2- todos los modelos globales
+plantean una aridización en la zona central y una disminución de las precipitaciones
+en la zona sur del país con aumento de la pluviometría en el extremo austral. Asimis-
+mo, la temperatura tendería a aumentar en todo el territorio nacional, tanto terrestre
+como marítimo.
+Esta mayor temperatura, junto a una menor caída pluviométrica, haría desplazar las
+actuales zonas climáticas hacia el sur. La isoterma de 0ºC podría subir varias cen-
+tenas de metros en la cordillera de los Andes, lo que reduciría la precipitación sólida
+en las cuencas, favoreciendo un aumento del escurrimiento invernal en perjuicio del
+estival.
+B.1. Cultivos anuales
+La fecha de siembra de la mayor parte de los cultivos anuales debería cambiar, de 21
+modo de adaptarse a las nuevas condiciones climáticas. Este hecho se debe a que
+la atenuación del régimen de heladas permitiría adelantar en varios meses la fecha de
+siembra de los cultivos de verano, permitiendo aprovechar mejor las precipitaciones
+invernales.
+Trigo. Bajo riego, el aumento de las temperaturas provocaría una aceleración del ciclo
+de vida, con reducción del rendimiento, lo que afectará más a la costa y precordi-
+llera, zonas que perderían sus potenciales actuales, homogeneizándose con el valle
+central. En secano, el rendimiento disminuiría en el norte y centro del país, debido a
+la mayor incidencia de sequías; en la costa y valle central de la zona central, habría
+disminución de rendimiento entre 10% y 20%, en tanto que, de la precordillera del
+Bío-Bío hacia el sur, habría un aumento gradual de los rendimientos, entre 30 y 100%
+respecto de los actuales.
+Maíz. Dado que es un cultivo exigente en temperatura, el potencial de producción se
+expandiría considerablemente en el escenario A2, para el año 2040, con respecto a
+lo actual. Desde Coquimbo al Bío-Bío, se estima una disminución productiva entre
+10 y 20% en el valle central. Inversamente en la costa y precordillera, aumentaría el
+rendimiento hasta un 50%. En la zona sur los rendimientos aumentarían entre un
+60% y 200%.
+Papa. Cultivo de climas suaves, sin temperaturas diurnas muy elevadas y con noches
+frescas que estimulan la formación de los tubérculos; por ello, en el escenario actual
+las mejores condiciones de producción se sitúan en la costa y en la precordillera
+entre las regiones de O’Higgins y de la Araucanía. A futuro, la zona norte presentaría
+
+--- Página 22 ---
+Cap 2
+POSIBLES EFECTOS EN EL MEDIO AMBIENTE Y EL SECTOR
+SILVOAGROPECUARIO
+una reducción entre 10 y 20% del rendimiento, mientras que en la zona centro-norte,
+el rendimiento disminuiría hasta un 30%; más al sur, entre Talca y Temuco, la dismi-
+nución se presenta sólo en el valle central, ya que en la costa y precordillera habría
+aumentos de hasta un 50%. Desde la Región de la Araucanía al sur, los rendimientos
+aumentan hasta llegar a 150% y 200% en la Región de los Lagos. En secano, los
+aumentos se producirían en la costa del Bío-Bío y desde Valdivia hasta Coyhaique.
+Frejol. Para la zona norte y centro, se espera que el rendimiento se mantenga bajo la
+condición de clima futuro, lo que se debe al corto ciclo del cultivo (3 a 4 meses). De
+la Región de la Araucanía al sur, aumentaría la productividad entre 10% y 20%, lle-
+gando hasta 100% en la Región de Los Lagos. En general, la productividad tendería
+a mantenerse sin mayores cambios en la zona central y sur del país.
+Remolacha en riego. Entre Valparaíso y Talca, por el valle central, habría aumento de
+rendimiento de hasta un 50% en algunos lugares. Por el contrario, en la costa y pre-
+cordillera, el aumento térmico provocaría una aceleración del ciclo de vida, reducien-
+do el rendimiento, lo que se traduciría en una homogeneización con el valle central.
+22 Desde la Región de la Araucanía al sur, el aumento térmico invernal incrementaría el
+potencial productivo, factor que domina sobre cualquier efecto negativo que pudiere
+provenir de los cambios en el régimen pluviométrico.
+B.2. Cultivos permanentes (frutales)
+El área de cultivo se extendería hacia el sur, comprendiendo las regiones de la Arau-
+canía, Los Ríos y Los Lagos. En este caso, no existe la posibilidad de mover las
+fechas de inicio del ciclo de vida, lo que los hace más vulnerable al cambio climático.
+Se estima que habría impactos sobre los rendimientos (los más fáciles de proyectar),
+sobre la calidad de la producción (los más difíciles de proyectar) y sobre la sanidad
+(plagas y enfermedades).
+Un hecho común para las especies frutales será la aceleración de la fructificación, con
+reducción del tiempo de desarrollo de los frutos; con ello, se afectará la producción
+y aumentará la precocidad de la madurez. Dado que las propiedades organolépticas
+de los frutos son altamente dependientes de elevados requerimientos climáticos, hay
+una alta probabilidad que una nueva combinatoria de las variables climáticas que las
+determinan, haga caer la calidad de la producción.
+En las especies de clima templado (hoja caduca), el aumento de las temperaturas
+mínimas es desfavorable para la obtención de color y, en ciertos casos, para su con-
+tenido de azúcar. Por otra parte, el aumento de las temperaturas invernales puede
+tener un importante efecto positivo sobre las poblaciones de insectos, afectando con
+ello la sanidad de los frutales : una primera generación apareciendo más temprano
+en primavera y una última generación, más tarde en otoño. Las nuevas condiciones
+climáticas podrían favorecer una proliferación de las enfermedades provocadas por
+hongos y bacterias, lo que estaría asociado a temperaturas mínimas y máximas más
+elevadas.
+
+--- Página 23 ---
+Cap 2
+POSIBLES EFECTOS EN EL MEDIO AMBIENTE Y EL SECTOR
+SILVOAGROPECUARIO
+Las especies subtropicales podrían mejorar su potencial productivo. En los naranjos,
+el aumento de las temperaturas invernales, junto a una reducción de las heladas
+invernales y primaverales , mejoraría las condiciones de producción en todo el te-
+rritorio, salvo en una franja costera que se mantiene térmicamente deficiente y algo
+limitante para la obtención de buenos rendimientos.
+Es altamente probable que las nuevas condiciones climáticas mejoren la calidad de
+los frutos, pues el alza en las temperaturas mínimas podría reducir su acidez en un
+escenario de óptimo productivo. En la zona norte, el potencial mejoraría considera-
+blemente, especialmente en los valles de la Región de Tarapacá. En la precordillera
+central, las condiciones mejorarían al punto de hacer económicamente viable el cul-
+tivo, especialmente en laderas abrigadas de las heladas.
+B.3. Plantaciones forestales
+Pino radiata. Ampliaría su zona de producción hacia la Región de Los Lagos, con
+reducción en el límite norte de su actual distribución (regiones Metropolitana, de Val-
+paraíso y de O’Higgins), donde el potencial productivo se vería disminuido como
+23
+consecuencia del aumento del déficit hídrico. Este deterioro iría disminuyendo hacia
+el sur hasta desaparecer en la Región de la Araucanía, a partir de la cual el potencial
+productivo mejoraría significativamente, como consecuencia del mejoramiento de las
+temperaturas de primavera y otoño, que alargarían el ciclo anual de crecimiento de la
+especie. Al igual que en los cultivos frutales, las plantaciones de pino podrían verse
+afectadas por una proliferación de pestes y enfermedades producto de mayores
+temperaturas.
+Eucalyptus globulus. El potencial productivo del Eucalyptus globulus se deterioraría
+en la Región de Valparaíso, como consecuencia de la menor pluviometría. Por la
+costa de la zona central, se registraría una disminución de la productividad debido a
+la disminución de las precipitaciones. En la precordillera, en cambio, se registrarían
+aumentos en la productividad y se ampliaría su área de plantación debido al incre-
+mento de las temperaturas mínimas invernales. De la Región de la Araucanía al sur,
+se proyecta un aumento del potencial productivo, como consecuencia del cambio de
+las temperaturas invernales y de la disminución del número e intensidad de las hela-
+das. Las regiones de Los Ríos y de Los Lagos mejorarían notablemente su potencial
+productivo. Al igual que en el caso del pino, existiría un mayor riesgo de ataque de
+plagas y enfermedades.
+B.4. Praderas
+Actualmente, las praderas anuales comienzan a ser importantes desde la Región de
+Coquimbo al sur. La productividad crece gradualmente a medida que las precipita-
+ciones aumentan, llegando a su máximo en la Región de Aysén, donde se optimiza la
+combinación entre disponibilidad de agua y temperatura. En general, la producción
+de las praderas anuales es muy sensible a la precipitación, por tanto la condición de
+mayor aridización estimada para gran parte del territorio nacional se traduciría en una
+baja de productividad entre las regiones de Coquimbo y Los Lagos.
+
+--- Página 24 ---
+Cap 2
+POSIBLES EFECTOS EN EL MEDIO AMBIENTE Y EL SECTOR
+SILVOAGROPECUARIO
+En algunos sectores del valle central, en la zona centro-norte, la disminución de las
+heladas invernales, el alza de las temperaturas y los importantes aumentos en la
+radiación solar, compensarían el efecto negativo de la menor pluviometría, trayendo
+como consecuencia leves aumentos en la productividad, en torno al 10%, bajo un
+escenario con riego suficiente.
+B.5. Otros efectos
+Riego. Las necesidades de riego, en el caso de los cultivos anuales, muestran au-
+mentos o disminuciones dependiendo de la zona del país. En general, desde la Re-
+gión de la Araucanía al sur, los incrementos en las necesidades de riego se hacen
+más notables debido a un aumento en la evapotranspiración, producto de las alzas
+en los niveles de radiación solar. Por otra parte, todos los frutales analizados (vides,
+manzanos, naranjos y durazneros), presentan aumentos en los requerimientos de
+riego en todo el país, lo que indica claramente la necesidad de crear y mejorar la
+infraestructura de riego y de optimizar técnicas de riego según especies y regiones.
+24 Riesgo de sequías. En general, aumentarían en la zona central. En la zona sur, para
+las siembras de invierno, el riesgo de sequía tiende a mantenerse constante o a dis-
+minuir levemente, debido a que en esta zona sólo disminuirán las precipitaciones de
+primavera y verano. Además, producto del alza en las temperaturas, se acortarían
+los ciclos de vida de los cultivos, completándose antes de los meses de primavera
+y verano.
+En los nuevos escenarios, el cultivo de trigo en la zona central se verá afectado, ya
+que como consecuencia de la disminución de las precipitaciones y del aumento de
+la evapotranspiración, los riesgos de sequía aumentarán gradualmente. A partir de
+la Región de la Araucanía, en algunos sectores, se aprecia una leve disminución de
+estos riesgos para las siembras de otoño-invierno, como consecuencia del acorta-
+miento del ciclo vegetativo.
+En el maíz, los riesgos de sequía se mantienen extremadamente altos en toda la
+zona central del país. A pesar de que se proyecta una disminución de la precipitación
+de hasta un 25% en la zona central en el escenario A2 para el año 2040, se aprecia
+sólo un leve aumento en los riesgos de sequía en las siembras invernales, debido al
+acortamiento del ciclo vegetativo, con la consecuente reducción de la exposición a
+este riesgo. En las regiones de Los Ríos y de Los Lagos, los riesgos se mantienen en
+el mismo orden de magnitud que en la actualidad.
+Riesgo de heladas. Se proyecta una disminución de este riesgo en todas las fe-
+chas de siembra, la cual se va atenuando hacia el sur. Como consecuencia de la
+disminución del número e intensidad de las heladas, el trigo y las papas registrarían
+disminuciones considerables de riesgo de exponerse a este fenómeno, aún en la
+zona sur. En muchas localidades el riesgo de heladas para estas especies tiende a
+desaparecer para todas las fechas de siembra en el escenario A2 al año 2070. En el
+caso del maíz, cultivo más sensible a este fenómeno, se atenuarían igualmente los
+niveles de riesgo a heladas.
+
+--- Página 25 ---
+Cap 2
+POSIBLES EFECTOS EN EL MEDIO AMBIENTE Y EL SECTOR
+SILVOAGROPECUARIO
+Riesgo de lluvias dañinas. Este riesgo está referido a precipitaciones superiores a
+10 milímetros por día en períodos críticos (siembra, floración y cosecha). En general,
+el riesgo es bajo en Chile, especialmente en las siembras de primavera-verano. En
+los nuevos escenarios climáticos, habría una disminución como consecuencia de la
+declinación pluviométrica, lo que es más notable en la zona centro-norte, y se atenúa
+en cierto grado hacia el sur. Las siembras de otoño son la que exhiben los mayores
+riesgos de lluvias dañinas debido a que la floración tiende a ocurrir dentro del período
+de lluvias. En el centro-norte, este riesgo se mantiene por debajo de 0,15 de proba-
+bilidad y tiende a duplicarse en el sur del país. En todos los casos, existe un riesgo
+próximo o igual a cero para las siembras de primavera.
+B.6. Síntesis de efectos
+En síntesis, los impactos de los nuevos escenarios climáticos en la producción varían
+de acuerdo a los cultivos, especies y regiones de Chile. Por la complejidad de las in-
+teracciones atmósfera-continente-océano, en una misma región se esperan cambios
+diferentes dependiendo de la dominancia de la continentalidad y del efecto oceánico.
+La mayor interrogante surge de los cambios negativos de la hidrología de la Cordillera
+de Los Andes, lo que requeriría de una fuerte acción de mejoramiento y ampliación 25
+de la infraestructura de regulación hidrológica para compensar los cambios en la
+estacionalidad de la escorrentía.
+
+--- Página 26 ---
+Cap 1
+CAMBIOS EN EL CLIMA Y SU ORIGEN
+26
+
+--- Página 27 ---
+Cap 3
+VULNERABILIDAD DEL PAIS FRENTE AL CAMBIO CLIMATICO
+Capítulo 3
+Vulnerabilidad del País Frente
+al Cambio Climático
+27
+
+--- Página 28 ---
+Cap 3
+VULNERABILIDAD DEL PAIS FRENTE AL CAMBIO CLIMATICO
+A. Según PICC (AR4)
+El 4° Informe de Evaluación del Estado del Clima (AR4) del PICC (2007) describe
+explícitamente una serie de impactos presentes y futuros asociados al cambio cli-
+mático. En lo referente a cambios en los patrones de precipitación, indica que en los
+últimos años se ha identificado una tendencia a la declinación en las precipitaciones
+en el sur de Chile, lo cual es coincidente con las tendencias climáticas observadas
+para esa zona del país, utilizadas por el Estudio de la Variabilidad Climática en Chile
+para el siglo XXI, elaborado por el Departamento de Geofísica de la Universidad de
+Chile. En el caso de variaciones en el nivel del mar, el informe señala que éstas pue-
+den llevar a modificaciones en la ubicación de stocks pesqueros en el Sudeste del
+Pacífico (Perú y Chile).
+Respecto a la agricultura, el PICC señala que estudios para Chile y otros países pro-
+yectan disminuciones en las cosechas para un número de cultivos, como el maíz y el
+trigo, y que en las zonas más áridas, como el norte y zona central de Chile, el cambio
+climático puede llevar a la salinización y desertificación de tierras agrícolas.
+28
+En cuanto a los recursos hídricos, se espera una alta vulnerabilidad a eventos extre-
+mos. En particular, se espera un alto impacto en la disponibilidad energética del país
+por anomalías asociadas a El Niño y La Niña, y restricciones a la disponibilidad hídrica
+y demandas de riego en Chile Central, por los mismos fenómenos. Por otro lado,
+estudios recientes señalan el daño potencial en la disponibilidad de agua y servicios
+sanitarios en ciudades costeras de Chile, y contaminación de acuíferos subterráneos
+por intrusión salina. En relación a los glaciares, se indica una disminución dramática
+de su volumen en décadas pasadas, siendo el sur de nuestro país una de las zonas
+más afectadas.
+Para la salud humana, se informa específicamente para Chile, entre otros países, el
+aumento en brotes del síndrome pulmonar provocado por el virus hanta luego de
+sequías prolongadas.
+Finalmente, el PICC afirma que la contaminación atmosférica se verá exacerbada
+debido a la quema de combustibles fósiles para satisfacer necesidades de transporte
+en centros urbanos, y que el riesgo de incendios forestales se verá potenciado por
+el cambio climático.
+B. Según la Convención Marco de las Naciones Unidas sobre Cambio
+Climático (CMNUCC)
+De acuerdo al artículo 4.8 de la Convención, Chile se encontraría en riesgo de ser
+afectado por una alteración del patrón climático que prevalece hoy en el planeta,
+puesto que allí se reconoce como países especialmente vulnerables a los que tengan
+las siguientes características:
+
+--- Página 29 ---
+Cap 3
+VULNERABILIDAD DEL PAIS FRENTE AL CAMBIO CLIMATICO
+» países insulares pequeños,
+» países con zonas costeras bajas,
+» países con zonas áridas y semiáridas, zonas con cobertura forestal y zonas ex-
+puestas al deterioro forestal,
+» países con zonas propensas a los desastres naturales,
+» países con zonas expuestas a la sequía y la desertificación,
+» países con zonas de alta contaminación atmosférica urbana,
+» países con zonas de ecosistemas frágiles, incluidos los ecosistemas montaño-
+sos,
+» países cuyas economías dependen en gran medida de los ingresos generados
+por la producción, el procesamiento y la exportación de combustibles fósiles y
+productos asociados de energía intensiva, o de su consumo, y 29
+» países sin litoral y los países de tránsito.
+En este escenario, es posible reconocer que Chile cumple con 7 de las 9 caracterís-
+ticas de vulnerabilidad señalada. Es por esta razón que la autoridad gubernamental
+comenzó, a mediados de 1990, a realizar estudios que permitieran ir precisando la
+vulnerabilidad nacional ante las variaciones del clima.
+
+--- Página 30 ---
+Cap 1
+CAMBIOS EN EL CLIMA Y SU ORIGEN
+30
+
+--- Página 31 ---
+Cap 4
+PROPUESTA DE PLAN SECTORIAL
+Capítulo 4
+Propuesta de
+Plan Sectorial
+31
+
+--- Página 32 ---
+Cap 4
+PROPUESTA DE PLAN SECTORIAL
+A. Atributos para la agricultura del futuro
+La presente propuesta de plan de acción sectorial parte de la base de que el sector
+silvoagropecuario debe incorporar una serie de atributos que le permitan adaptarse
+mejor a nuevas condiciones climáticas. En consecuencia, las medidas propuestas
+tienen como objetivo incorporar o reforzar estos atributos en la agricultura nacional.
+Entre los principales atributos que debiera tener el sector silvoagropecuario para una
+adecuada adaptación a las nuevas condiciones climáticas, se cuentan los siguientes:
+» Ser eficiente en el uso de los recursos, generando sistemas productivos con un
+menor consumo de agua, de energía y de agroquímicos. El ser eficientes invo-
+lucra sistemas productivos que además contarían con menor huella de carbono
+(aporte agregado a la mitigación) y con menor huella del agua,
+» Ser flexible, esto es adaptable a condiciones climáticas variables; necesariamen-
+te, ello significa contar con sistemas productivos más biodiversos, más depen-
+32
+dientes de insumos locales (reciclaje/uso de residuos de cultivos ó de planteles
+animales), más diversificados en cuanto a estrategias de control de plagas y
+enfermedades,
+» Ser sustentable desde la perspectiva de la gestión de los suelos, lo que significa
+usarlos respetando sus restricciones y no excediendo sus potenciales producti-
+vos, con el objeto de minimizar o neutralizar procesos erosivos y/o degradantes,
+y
+» Ser tolerante a condiciones climáticas extremas, lo que involucra necesariamen-
+te contar con recursos biológicos que sigan siendo productivos en condiciones
+de estrés térmico, estrés hídrico y/o estrés salino.
+» Tal como señala el PICC, en el AR4 (2007), los efectos del cambio climático no
+serán percibidos por toda la gente en igual forma y magnitud, sino que serán los
+agricultores de subsistencia los que padecerán más los efectos. En este sentido,
+un plan de adaptación sectorial al cambio climático, asumido por la esfera es-
+tatal, debe partir de la premisa de que la acción debe estar focalizada en la pe-
+queña y mediana agricultura, especialmente en los agricultores de subsistencia.
+» Por otra parte, los principales atributos que requiere una agricultura para aportar
+a la mitigación, en otras palabras, para generar menores emisiones de gases de
+efecto invernadero, serían los siguientes:
+» Ser eficiente, lo que también es atributo necesario para una mejor adaptación de
+la agricultura al cambio climático.
+
+--- Página 33 ---
+Cap 4
+PROPUESTA DE PLAN SECTORIAL
+» Ser productiva, involucrando menores emisiones por unidad de producto, lo que
+va en beneficio directo de la huella de carbono de los productos.
+Se sugiere que en el caso de beneficio adicional de la mitigación ligado a la eficiencia
+productiva, el foco esté puesto en la reducción de las tasas de emisión por unidad
+de producto y no en las tasas de emisión por unidad de superficie. Para los sistemas
+agropecuarios hay tres focos centrales donde apuntar: el uso de fertilizantes nitroge-
+nados, las emisiones entéricas animales y el origen y consumo de energía.
+B. Plan propuesto: Antecedentes
+El plan propuesto parte de la base de la necesidad de reforzar las actividades que
+desarrolla el Ministerio a través de sus servicios y organizaciones, que en su mayoría
+tienen componentes de adaptación al cambio climático y de identificar aquellas áreas
+en donde aún falta conocimiento y tecnología para avanzar hacia la implementación
+de actividades de adaptación, con el fin de intensificar el trabajo de investigación y
+desarrollo. Todas estas actividades deben enmarcarse en los siguientes principios
+básicos:
+33
+» La adaptación al Cambio Climático del sector silvoagropecuario forma parte de
+la gestión propia del Ministerio de Agricultura.
+» La adaptación al Cambio Climático del sector silvoagropecuario promueve la
+necesaria modernización del sector.
+» La adaptación al Cambio Climático del sector silvoagropecuario debe desarro-
+llarse en el marco de los lineamientos estratégicos ministeriales.
+Dentro de las acciones vigentes, puede mencionarse una serie de actividades que
+han sido establecidas con objetivos que no tienen relación directa con el cambio
+climático, pero que presentan el valor agregado de combatirlo significativamente. Un
+buen ejemplo de estas acciones lo constituye la red de alerta temprana para riesgos
+agroclimáticos.
+Otro aspecto importante a considerar, es que las acciones motivadas por la adap-
+tación al Cambio Climático posibles de asumir por parte del Ministerio de Agricultu-
+ra, sus servicios y organismos, tienen la capacidad de mejorar significativamente el
+aporte del sector a la economía nacional, especialmente si se tiene como objetivo
+central convertir a Chile en una potencia agroalimentaria y forestal, suponiendo con
+ello las acciones que permitan la inserción competitiva y sustentable en el concierto
+internacional, tanto a nivel de uso y dotación de recursos (gestión hídrica, recupera-
+ción y mantención de la aptitud productiva de suelos) como de apertura y manten-
+ción de mercados.
+Finalmente, la propuesta de plan y las acciones necesarias para su puesta en prác-
+tica deben estar comprendidas en las prioridades y campos de acción establecidos
+
+--- Página 34 ---
+Cap 4
+PROPUESTA DE PLAN SECTORIAL
+por la autoridad para el sector silvoagropecuario:
+» Mejorar la competitividad de la Agricultura.
+» Fomento a la investigación e innovación.
+» Promover la sustentabilidad económica, social y ambiental.
+» Transparencia y acceso a mercados.
+» Modernizar el Ministerio de Agricultura y sus servicios.
+El empleo de estos lineamientos como guía a la propuesta de plan le otorga factibi-
+lidad en ámbitos presupuestarios, de política, de marco legal y mandatos institucio-
+nales. Con el fin de implementar este plan de adaptación se ha sistematizado una
+serie de medidas con sus objetivos; metas (cuantitativas en cobertura de personas
+34 y territorio); plazos; presupuesto; responsables o ejecutores (gestión e implementa-
+ción, coordinación y control y monitoreo).
+Las medidas propuestas se presentan en el Capítulo 5.
+
+--- Página 35 ---
+Cap 4
+PROPUESTA DE PLAN SECTORIAL
+C. Detalle del plan propuesto por lineamiento estratégico 1
+C1.- Mejorar la competitividad de la Agricultura:
+El desarrollo competitivo del sector silvoagropecuario resulta fundamental para
+cumplir con el desafío de convertir a Chile en una potencia agroalimentaria y
+forestal. Para alcanzar este objetivo se contemplan acciones que influyen en el
+desarrollo del sector, entre ellas: fomento al riego y drenaje; desarrollo de inicia-
+tivas de transferencia tecnológica para agricultores pequeños y medianos; me-
+joramiento de la conectividad rural; mantención y mejoramiento del patrimonio
+sanitario de Chile; mitigación del riesgo agroclimático a través del seguro agrícola
+y otros mecanismos; mejoramiento de los sistemas de información a los agricul-
+tores para una mejor toma de decisiones, entre las principales.
+En relación a este lineamiento estratégico las medidas propuestas son:
+1.- Fortalecer la planificación y gestión de los recursos hídricos a nivel nacional
+para optimizar el uso del agua en la agricultura (*)
+35
+2.- Establecer un programa nacional para fomentar la gestión eficiente y susten-
+table del agua en la agricultura de riego.(***)
+3.- Reforzar el programa de Riego Campesino (*)
+4.- Optimizar el sistema Nacional para la Gestión de Riesgos Agroclimáticos,
+GRA (**)
+5.- Adecuar el instrumento Seguro Agrícola para enfrentar el cambio climático
+(***)
+6.- Adoptar sistemas de alerta y control integrado de plagas y enfermedades
+(****)
+1 Nota: las fuentes de las medidas son:
+* Corresponde a acciones ministeriales.
+** Corresponde a medidas enviadas por los servicios.
+*** Corresponde a “Estudio de estimación de flujos de in-
+versión y financieros para la adaptación en el sector sil-
+voagropecuario, la mitigación en el sector transporte y la
+adaptación en el subsector hídrico de la infraestructura”
+(UChile, FCFM, 2011).
+**** Medidas propuestas en Plan inicial de adaptación de cam-
+bio climático.
+
+--- Página 36 ---
+Cap 4
+PROPUESTA DE PLAN SECTORIAL
+7. Apoyar la inversión productiva para mejorar la adaptación a los efectos del
+cambio climático del sector silvoagropecuario (***)
+C2.- Fomentar la investigación e innovación:
+Este eje considera hacer frente a los principales desafíos del sector silvoagro-
+pecuario a través de la introducción de innovaciones tecnológicas y del fortaleci-
+miento de la investigación y desarrollo, elementos determinantes para aumentar
+la productividad y el crecimiento y satisfacer en mejor forma las exigencias de los
+mercados. La investigación e innovación deberán tener una estrecha vinculación
+con un adecuado mecanismo de transferencia tecnológica. En este sentido, la
+política sectorial debe dar un fuerte impulso a las instituciones de investigación y
+transferencia tecnológica.
+En relación a este lineamiento estratégico, las medidas propuestas son:
+8.- Impulsar el cambio en los calendarios de siembra para minimizar riesgos
+36 climáticos (***).
+9.- Fomentar el uso de sistemas de cultivo para la reducción del estrés térmico
+(****)
+10.- Apoyo a la investigación y fomento a la innovación en gestión de recursos
+hídricos en el sector silvoagropecuario. (**)
+11.- Desarrollar programas de mejoramiento genético para cultivos agrícolas vul-
+nerables al cambio climático, usando herramientas convencionales y mole-
+culares de última generación (**)
+12.- Desarrollar un programa de conservación genética ex situ de recursos fores-
+tales para la adaptación al cambio climático. (**)
+C3.- Promover la sustentabilidad económica, social y ambiental:
+El diseño y aplicación de políticas integrales deben apuntar a fortalecer el avance
+del sector en cada una de estas áreas. El crecimiento y competitividad de la eco-
+nomía rural debe potenciarse mediante la aplicación de políticas e instrumentos
+que promuevan el desarrollo social, considerando especialmente las particulari-
+dades de los grupos más vulnerables en el agro y la gestión sostenible de los
+recursos naturales, cada vez sujetos a mayor demanda y competencia entre ac-
+tividades así como objeto de severos impactos derivados del cambio climático y
+el calentamiento global.
+** Corresponde a medidas enviadas por los servicios.
+*** Corresponde a “Estudio de estimación de flujos de in-
+versión y financieros para la adaptación en el sector sil-
+voagropecuario, la mitigación en el sector transporte y la
+adaptación en el subsector hídrico de la infraestructura”
+(UChile, FCFM, 2011).
+**** Medidas propuestas en Plan inicial de adaptación de cam-
+bio climático.
+
+--- Página 37 ---
+Cap 4
+PROPUESTA DE PLAN SECTORIAL
+En relación a este lineamiento estratégico, las medidas propuestas son:
+13.- Potenciar los actuales mecanismos del Programa de Sistemas de Incenti-
+vos para la Sustentabilidad Agroambiental de los Suelos Agropecuarios (ex
+SIRSD). (***).
+14.- Desarrollar sistemas de monitoreo permanente de cambios en los potencia-
+les de productividad (***).
+15.- Desarrollar un sistema de indicadores de sustentabilidad ambiental de la
+agricultura (***).
+16.- Desarrollar nuevos métodos silviculturales que permitan enfrentar el Cambio
+Climático (**)
+17.- Estudiar los requerimientos hídricos de especies forestales nativas y exóti-
+cas (**)
+37
+18.- Implementar sistemas de cosecha de agua lluvia para riego y bebida (***)
+C4.- Transparencia y acceso a mercados:
+Junto con implementar una activa función de apoyo al acceso a los mercados,
+es necesario establecer las herramientas que aseguren una competencia leal y
+justa entre los distintos actores de nuestro sector. En el ámbito interno, se debe
+apuntar a evitar las asimetrías entre oferta y demanda y mejorar la competencia y
+acceso a financiamiento, para asegurar precios y condiciones justas a lo largo de
+las cadenas silvoagropecuarias. En el ámbito externo, las acciones deben seguir
+orientando a la apertura y mantención de nuevos mercados, la exportación de
+nuevos productos y a la ampliación del número de empresas exportadoras, es-
+pecialmente fortaleciendo la participación de la agricultura de pequeña y mediana
+escala de producción y superando condiciones de acceso de índole ambiental y
+relacionada con el cambio climático.
+En relación a este lineamiento estratégico, la medida propuesta es:
+19.- Diseñar un programa de certificación de la huella del agua de los productos
+agropecuarios (****):
+** Corresponde a medidas enviadas por los servicios.
+*** Corresponde a “Estudio de estimación de flujos de inver-
+sión y financieros para la adaptación en el sector silvoagro-
+pecuario, la mitigación en el sector transporte y la adapta-
+ción en el subsector hídrico de la infraestructura” (UChile,
+FCFM, 2011).
+**** Medidas propuestas en Plan inicial de adaptación de cam-
+bio climático.
+
+--- Página 38 ---
+Cap 4
+PROPUESTA DE PLAN SECTORIAL
+C5.- Modernizar el Ministerio de Agricultura y sus servicios:
+Las instituciones del Ministerio están en un proceso de ajuste frente a los paráme-
+tros imperantes en cualquier organización moderna a la que se le exige eficien-
+cia, eficacia, transparencia, uso de tecnologías, control de costos, entre otros.
+Se consideran en esto acciones que apunten al fortalecimiento institucional, la
+modernización y la construcción de capacidades en cada una de las entidades
+de la Red MINAGRI, a partir de los nuevos desafíos de la agricultura, como lo es
+el cambio climático y sus efectos actuales y futuros, más aún cuando se trabaja
+para la conformación de un nuevo Ministerio de la Agricultura y la Alimentación.
+En relación a este lineamiento estratégico, las medidas propuestas son:
+20.- Desarrollar un sistema de información para la adaptación al cambio climático
+(**)
+21.- Desarrollar directrices a incorporar en las instancias de capacitación en cam-
+38 bio climático (****)
+** Corresponde a medidas enviadas por los servicios.
+*** Corresponde a “Estudio de estimación de flujos de in-
+versión y financieros para la adaptación en el sector sil-
+voagropecuario, la mitigación en el sector transporte y la
+adaptación en el subsector hídrico de la infraestructura”
+(UChile, FCFM, 2011).
+
+--- Página 39 ---
+[Sin texto reconocible]
+
+--- Página 40 ---
+[Sin texto reconocible]
+
+--- Página 41 ---
+Cap 5
+Capítulo 5
+Medidas propuestas para la
+implementación del plan nacional de
+adaptación al cambio climático en el
+sector silvoagropecuario.
+41
+
+--- Página 42 ---
+Cap 5
+i. Lineamiento Ministerial: Mejorar la competitividad de la Agricultura
+Medida
+Nº1 Fortalecer la planificación y gestión de recursos
+hídricos a nivel nacional para optimizar el uso
+del agua en la agricultura.
+Objetivo
+Contribuir a la planificación de los recursos hídricos a nivel nacional
+a través del desarrollo de políticas, estudios, programas y/ acciones
+que permitan mejorar el uso del agua, asegurar el incremento y
+mejoramiento de la superficie regada así como al mejoramiento
+de la competitividad de los agricultores/as y las Organizaciones de
+Regantes.
+Descripción de acciones
+• Desarrollar estudios destinados a definir la viabilidad de proyectos
+42 de infraestructura de riego, incluyendo obras de acumulación,
+conducción y trasvases, entre otros, de modo de mejorar la
+seguridad de riego y/o de incorporar nuevas áreas al regadío.
+• Desarrollar programas tendientes al fortalecimiento técnico y legal
+de las Organizaciones de Usuarios de Aguas, para asegurar
+su constitución formal y la regularización de los derechos de
+aprovechamiento de agua.
+• Estudios para el desarrollo de instrumentos enfocados a mejorar
+la calidad del agua para riego.
+Presupuesto asociado
+2 mil 983 Millones de pesos (presupuesto 2013).
+Plazos
+Permanente
+Instituciones participantes y responsables
+CNR
+
+--- Página 43 ---
+Cap 5
+Medida
+Nº2 Establecer un programa nacional para fomentar
+la gestión eficiente y sustentable del agua en la
+agricultura de riego
+Objetivo
+Optimizar el uso del agua de riego a nivel predial a través de una
+intensiva acción de mejoramiento tecnológico y procedimientos de
+gestión del recurso.
+Descripción de acciones
+• Gestionar, administrar y focalizar recursos orientados a la inver-
+sión en obras de riego y drenaje.
+• Fomento de la inversión privada en obras de riego y drenaje a
+través de la bonificación de una parte de la inversión de proyectos
+de tecnificación de riego intrapredial y/o mejoras en los sistemas 43
+de conducción de las aguas.
+• Mejorar la infraestructura de distribución del agua de riego. Esto
+implica mejoras en los canales primarios, secundarios y terciarios
+(revestimientos, acueductos, entubados, sistemas de compuer-
+tas, etc.).
+Cobertura
+Nacional y regional
+Metas 8 mil ha anuales de nuevo riego y 14 mil ha anuales de riego
+tecnificado (metas CNR)
+Presupuesto asociado
+5 mil millones de pesos anuales hasta 2030
+Plazos
+2010 - 2030
+Instituciones participantes y responsables CNR con colaboración de INDAP y FIA
+
+--- Página 44 ---
+Cap 5
+Medida
+Nº3
+Reforzar el Programa de Riego Campesino
+Objetivo
+Incrementar la productividad y competitividad de la Agricultura Familiar campesina a través
+de la incorporación de nuevas áreas al riego y del desarrollo de capacidades en la gestión y
+utilización del agua de riego.
+Descripción de acciones
+• Estimular la participación campesina en los concursos de la Ley N°18.450 de Fomento al
+Riego y Drenaje, que la Comisión Nacional de Riego convoque, a través de proyectos indi-
+viduales y asociativos.
+• Incrementar la seguridad de riego, a través de obras de reparación, mejoramiento o amplia-
+ción de los sistemas de riego extraprediales.
+• Aumentar la eficiencia de riego a través de inversiones en sistemas de riego tecnificado.
+• Incorporar nuevas áreas al riego, mediante la construcción de obras tales como embalses,
+pozos profundos, norias.
+• Dar seguridad jurídica a las aguas utilizadas en el riego campesino y fortalecer las organiza-
+ciones de regantes.
+44
+Los instrumentos específicos utilizados, según el tipo de proyectos para los cuales están
+dirigidos son:
+• Programa de Obras Menores de riego o drenaje, individuales y asociativas.
+• Programa de Riego Asociativo, de obras de riego o drenaje, extraprediales.
+• Programa de Riego o Drenaje Intrapredial.
+• Bono Legal de Aguas, para resolver problemas relacionados con los derechos de agua, las
+organizaciones de usuarios de aguas, y la gestión del agua.
+• Programa de Estudios de Riego y Drenaje. Formulación de proyectos que serán presen-
+tados a concursos de la Ley N°18.450 de Fomento al Riego administrada por la Comisión
+Nacional de Riego.
+• Fondo Rotatorio: Recursos para otorgar créditos de pre financiamiento para la construcción
+de obras de riego o drena-je bonificadas por la CNR.
+Presupuesto asociado
+10.916 millones de pesos (presupuesto 2010)
+Plazos
+Permanente
+Instituciones participantes y
+responsables INDAP
+Monitoreo y control
+Principales indicadores
+• N° obras terminadas
+• Hectáreas físicas incorporadas
+• Hectáreas equivalentes incorporadas
+• N° de clientes totales; N° de mujeres, hombres y personas jurídicas
+
+--- Página 45 ---
+Cap 5
+Medida
+Nº4 Optimizar el Sistema Nacional para la
+Gestión de Riesgos Agroclimáticos, GRA.
+Objetivo
+Diseñar y desarrollar un Sistema Nacional de Gestión de Riesgos frente a eventos climáticos
+y emergencias agrícolas.
+Descripción de acciones
+• Diseño de una estrategia nacional y puesta en marcha de instancias de coordinación a ni-
+vel nacional y regional para la gestión del riesgo agroclimático (Decreto 81/08, Res. 95/08,
+Ord.85/09, apoyo a la agricultura de secano, agricultura moderna con incorporación de
+otros enfoques/sistemas: manejo holístico, sistema Keyline; etc.).
+• Desarrollo de un Sistema de Información para la gestión de riesgos agroclimáticos (Obser-
+vatorio para la Gestión de Riesgos Agroclimáticos, Portal www.minagri.gob.cl/agroclimati-
+co , Red Agroclimática Nacional RAN, envíos masivos de información, integración a redes
+sociales, entrevistas radiales, distribución de material impreso, charlas divulgativas, etc.).
+• Establecimiento de redes regionales público privadas (ampliación de bases de datos para
+difusión de información agroclimática, talleres de capacitación, identificación de amenazas
+y vulnerabilidades, planes de trabajo, etc.).
+• Desarrollo del modelo de gestión de riesgos (planes de trabajo para la gestión preventiva, 45
+planes para enfrentar riesgos estacionales frente a eventos climáticos y planes de contin-
+gencia frente a emergencias agrícolas, etc.).
+• Fortalecimiento de capacidades (actividades de capacitación y difusión, seminarios nacio-
+nales e internacionales, unidades demostrativas, etc.)
+Cobertura
+Nacional y regional
+Metas (cuantitativas)
+• Número de Comisiones regionales y redes regionales de GRA operativas.
+• Número de agricultores y profesionales del agro capacitados e informados en gestión de
+riesgos, prácticas de manejo predial.
+Instituciones participantes y
+responsables Unidad Nacional de Emergencias Agrícolas y Gestión del Riesgo Agroclimático UNEA,
+Subsecretaría de Agricultura.
+Presupuesto asociado
+• Recursos invertidos (2009-2011): 727,5 millones
+• Recursos necesarios a 2012: 410 millones
+
+--- Página 46 ---
+Cap 5
+Medida
+Nº5 Adecuar el instrumento Seguro Agrícola para
+enfrentar el cambio climático
+Objetivo
+Reducir los riesgos frente a eventos climáticos extremos con el fin de
+asegurar que la agricultura, especialmente de pequeños y medianos
+productores, sea viable.
+Descripción de acciones
+• Implementar la contratación del seguro en un mayor número de pro-
+ductores. Actualmente sólo el 10 %de la población potencial tiene
+cobertura.
+• Ampliar la cobertura del seguro agrícola, diversificando los rubros
+46
+considerados y aumentando los montos asegurados.
+Cobertura
+Nacional y regional
+Metas (cuantitativas)
+20% explotaciones al 2030
+Presupuesto asociado
+4 mil 304 Millones de pesos en 2010
+Plazos 2010 - 2030
+Instituciones participantes y responsables
+INDAP, Corporación de Fomento a la Producción
+(CORFO) y las compañías de seguros.
+
+--- Página 47 ---
+Cap 5
+Medida
+Nº6
+Adoptar sistemas de alerta y control integrado de plagas y enfermedades.
+Objetivo
+Reducir la susceptibilidad de los sistemas agrícolas ante el posible incremento de los
+problemas fitosanitarios debido al cambio climático, a través de sistemas adecuados de
+prevención y del manejo integrado de plagas y enfermedades agrícolas y forestales.
+Descripción de acciones
+• Establecer un sistema de manejo integrado de plagas y enfermedades, que reemplace los
+métodos de control químicos tradicionales, cuyas debilidades se pueden ver potenciadas
+por el cambio climático. Contribuir a la reducción del uso de pesticidas y plaguicidas, con-
+tribuyendo a la sustentabilidad de la producción agrícola, reemplazándolos por un sistema
+de manejo integrado de plagas y enfermedades.
+La implementación de esta estrategia exige:
+• Conocimiento de la biología y comportamiento de las plagas y sus enemigos naturales
+• Conocimiento y uso de técnicas de monitoreo tanto de plagas como de enemigos natu-
+rales
+47
+• Monitoreo de condiciones ambientales
+• Establecimiento de umbrales de daño económico a partir de los cuales se requiere con-
+trolar
+• Conocimiento de métodos de control cultural y biológico
+• Realización de aplicaciones de plaguicidas y pesticidas en forma dirigida y localizada, con
+productos de baja toxicidad
+• Reemplazo de productos de amplio espectro de acción por productos selectivos y menos
+disruptivos para el medio ambiente.
+• Conservación y protección de los agentes de control biológico.
+Cobertura
+Nacional y regional
+Metas (cuantitativas)
+Permanente
+Presupuesto asociado
+En estudio
+Plazos 2010 - 2030
+Instituciones participantes y responsables
+SAG, INIA, CIREN
+El manejo tradicional de los problemas fitosanitarios en la agricultura, basado en el control químico con productos de amplio espectro y larga acción residual constituye una
+práctica poco sustentable y con alto riesgo de efectuarse inadecuadamente, causando un aumento de la resistencia de plagas, reducción de la acción de enemigos naturales
+y por lo tanto un incremento en la susceptibilidad de los sistemas agrícolas a los problemas fitosanitarios
+El sistema de manejo integrado de plagas y enfermedades usa de forma racional los métodos de control químico, biológico y cultural, privilegiando un enfoque preventivo,
+contribuyendo así a la reducción del uso de pesticidas y plaguicidas y con ello a la sustentabilidad de la producción agrícola.
+
+--- Página 48 ---
+Cap 5
+Medida
+Nº7
+Apoyar la inversión productiva a través de la ampliación y mejoras al
+sistema crediticio del sector silvoagropecuario, a fin de incentivar la
+adaptación a los efectos del cambio climático.
+Objetivo
+Aumentar los montos otorgados y el número de usuarios, de manera de servir como
+soporte a la producción y apoyo a la incorporación de nuevas inversiones prediales para
+la adaptación a los efectos del cambio climático.
+Descripción de acciones
+Se espera que las modificaciones en los sistemas productivos a raíz del cambio climá-
+tico sean de diversa índole y magnitud. Los cambios en los regímenes climáticos van a
+afectar a toda la configuración del sector (localización de los cultivos, fechas de siem-
+bra y cosecha, cambios de variedades, etc.) y demandarán de esfuerzos adiciones en
+48 incorporación de tecnologías y técnicas que permita aprovechar las oportunidades y
+enfrentar los desafíos esperados.
+Gran parte de estas acciones de adaptación deberán ser absorbidas financieramente
+por los productores agrícolas, de distintos tamaños a lo largo de todo el país, para
+hacer que esta actividad siga siendo económicamente viable se va a requerir mayor
+apoyo crediticio hacia los productores.
+Cobertura
+Agricultores de valles regados del norte grande y chico, principalmente enfocado en los
+valles de Huasco y Limarí. Secano interior y valle central entre la Región de Valparaíso
+y la del Biobío.
+Metas (cuantitativas)
+40 mil productores
+Presupuesto asociado
+Disposición adicional de 50 mil millones de pesos anuales en créditos, con incremento
+hasta 75 mil millones de pesos anuales al año 2030.
+Plazos
+Anual permanente al 2030
+Instituciones participantes y responsables
+El Estado disponibilizaría los recursos a través de instituciones
+financieras y créditos directos asignados por una entidad pública
+(INDAP por ejemplo), pero para efectos de la contabilización la
+entidad inversora son los pequeños agricultores, que finalmente
+devuelven los recursos prestados. El Estado tiene el rol de dar
+acceso a tales créditos y por tanto de generar las condiciones
+y eventualmente hacer los aportes para que los fondos estén
+disponibles.
+
+--- Página 49 ---
+Cap 5
+ii. Lineamiento Ministerial: Fomento a la investigación e innovación
+Medida
+Nº8 Impulsar el cambio en los calendarios de siembra para
+minimizar riesgos climáticos.
+Objetivo
+Establecer nuevos calendarios de siembra acorde con las nuevas condiciones climáticas
+imperantes para las distintas especies y promover su adopción de parte de los
+agricultores.
+Descripción de acciones
+• Modificar los calendarios de siembra según las nuevas condiciones climáticas. Los
+cambios esperados en las variables climáticas tendrán impacto sobre los procesos
+fenológicos de los cultivos, lo que hace necesario adaptar sus fechas de siembra y
+cosecha, de modo de maximizar el rendimiento en los cultivos sin afectar la calidad
+de los productos.
+49
+• Desarrollar una campaña de difusión y capacitación para asegurar la adopción de
+este nuevo calendario por los productores. Este proceso requiere de capacitación
+de transferencistas.
+Cobertura
+Nacional y regional
+Metas (cuantitativas) • mil transferencistas
+• 100 mil productores
+Presupuesto asociado Campaña de comunicación 560 millones de pesos
+Talleres de capacitación transferencistas 40 millones de pesos anuales
+Plazos
+2010 - 2030
+Instituciones participantes y responsables
+Ministerio de Agricultura: FUCOA, INDAP.
+
+--- Página 50 ---
+Cap 5
+Medida
+Nº9 Fomentar el uso de sistemas de cultivo para la reducción
+del estrés térmico.
+Objetivo
+Facilitar el uso de técnicas eficaces para la reducción del estrés térmico en situaciones
+donde las altas temperaturas amenacen los rendimientos o la calidad de la producción.
+Descripción de acciones
+• Fomentar el uso de mallas reductoras de la radiación, considerando los umbrales
+luminosos de cada cultivo, o bien, la inclusión de especies arbóreas de poca densi-
+dad de copa en las áreas cultivadas, lo que permite viabilizar el cultivo de especies
+arbustivas o herbáceas más intolerantes a las elevadas cargas térmicas y radiativas.
+• Fomentar el uso de mulch, asociado con la implementación o gestión de riego tec-
+nificado.
+50
+Para la implementación de estos sistemas se requiere:
+• Desarrollar alternativas tecnológicas, basadas en el conocimiento científico, que per-
+mitan mejorar el rendimiento y viabilidad de los cultivos bajo condiciones de estrés
+térmico.
+• Zonificar el territorio en función de las variaciones en los niveles de estrés como con-
+secuencia de los cambios climáticos.
+• Evaluar la factibilidad técnico-económica de las opciones de producción bajo am-
+bientes de estrés.
+Cobertura
+A nivel nacional y local
+Metas (cuantitativas)
+Superficie por cultivo con la medida
+Presupuesto asociado
+En estudio.
+Plazos
+Permanente.
+Instituciones participantes y responsables
+INIA, INDAP, CIREN
+
+--- Página 51 ---
+Cap 5
+Medida
+Nº10 Apoyo a la investigación y fomento a la innovación en gestión de
+recursos hídricos en el sector silvoagropecuario.
+Objetivo
+Mejorar la gestión y eficiencia en el uso de los recursos hídricos en el sector silvoagrope-
+cuario mediante investigación aplicada, con uso de herramientas analíticas y de informa-
+ción para la toma de decisiones.
+Descripción de acciones
+• Fomentar la investigación aplicada en torno a los recursos hídricos, orientados al
+uso eficiente y gestión sustentable de éstos a nivel predial, extrapredial y/o cuenca
+hidrográfica que permita mantener y/o mejorar la competitividad de los productores
+agropecuarios del país.
+• Desarrollar un sistema preciso de estimación de demandas hídricas de cultivos,
+frutales y especies forestales, considerando la modelación y/o evaluación de des-
+empeños a nivel fisiológico, productivo y de calidad bajo una gama de escenarios 51
+climáticos posibles.
+• Desarrollar y mejorar los sistemas de información que permitan la toma de decisio-
+nes informada y oportuna, con soporte técnico para reducir la vulnerabilidad frente a
+variabilidad y cambio climático en agricultura de riego.
+• Implementación del uso de herramientas para la gestión hídrica con el fin de mejorar
+la competitividad de los productores.
+Cobertura
+Nacional
+Metas (cuantitativas)
+• Mejorar el rendimiento productivo en función de agua de riego utilizada
+• Mejorar la información para la toma de decisiones en torno a la gestión sostenible de
+los recursos hídricos.
+Presupuesto asociado
+Fondos Concursables.
+Plazos
+Permanentes
+Instituciones participantes y responsables
+CNR, FIA, INIA, CIREN, INFOR, INDAP
+
+--- Página 52 ---
+Cap 5
+Medida
+Nº11 Desarrollar programas de mejoramiento genético para cultivos
+agrícolas vulnerables al cambio climático, usando herramientas
+convencionales y moleculares de última generación (**)
+Objetivo
+Mantener la sustentabilidad de los sistemas productivos de los pequeños y medianos agricul-
+tores, ofreciendo nuevas variedades y/o especies que usen en forma más eficiente el agua y
+se adapten a las nuevas condiciones ambientales asociadas al cambio climático.
+Descripción de
+acciones Establecimiento de un programa de investigación y desarrollo que permita la adaptación
+de cultivos vulnerables al cambio climático, generando nuevas variedades o identificando
+nuevas especies; tolerantes a la sequía, temperaturas extremas, y resistentes a nuevas
+plagas y enfermedades. Se busca rescatar e identificar recursos genéticos, para ser usados
+activamente en los programas de mejoramiento genético, de forma tal que permitan en el
+mediano y largo plazo obtener variedades adaptadas al nuevo escenario climático. Este
+programa deberá emplear estrategias de mejoramiento genético convencionales y de nue-
+vas herramientas moleculares para la obtención de nuevas variedades, aprovechando las
+capacidades nacionales y los programas de mejoramiento existentes en el país, en cultivos
+como el trigo, la papa, leguminosas de granos, y de otros varios que se identifiquen como
+vulnerables al cambio climático.
+Las etapas de desarrollo de esta estrategia son:
+• Identificar recursos genéticos tolerantes al cambio climático que puedan ser incorporados
+52
+a los programas de mejoramiento genético de cultivos vulnerables, en términos de adap-
+tación e importancia económica.
+• Implementar y reforzar programas de mejoramiento genético en cultivos vulnerables al
+cambio climático, para la obtención de líneas segregantes y nuevas variedades.
+• Incorporación de nuevas herramientas genómicas e identificación de mecanismos claves
+de adaptación para acelerar la obtención de nuevas variedades.
+• Creación de un mecanismo de fomento por parte del Estado, que permita apoyar proyec-
+tos en esta línea de acción.
+• Actividades de demostración, difusión y transferencia de resultados y productos.
+Cobertura
+Sistemas agrícolas- ganaderos de secano y riego (Nacional)
+Metas
+• Número de recursos genéticos rescatados y explotados en términos de su potencial genético
+(cuantitativas)
+como fuente de mejoramiento.
+• Número de líneas segregantes, nuevas variedades o especies que podrían ser incorporados
+a los sistemas productivos.
+• Grado de adopción de nuevas variedades y especies por parte de los productores.
+• Ganancias en rendimiento de las nuevas variedades en comparación a las variedades tradi-
+cionales, frente a condiciones de sequía, temperaturas extremas, plagas y/o enfermedades.
+• Cadenas productivas asociadas a estos sistemas (productos comercializados, agroindustrias,
+servicios).
+Presupuesto asociado
+En estudio
+Plazos
+Permanentes
+Instituciones participantes
+INIA, INDAP, MINAGRI
+y responsables
+
+--- Página 53 ---
+Cap 5
+Medida
+Nº12 Desarrollar un programa de conservación genética ex situ de
+recursos forestales para la adaptación al cambio climático.
+Objetivo
+Proponer metodologías de evaluación y selección de genotipos forestales que aseguren
+la conservación y mejoramiento de las especies ante escenarios climáticos.
+Descripción de acciones
+El Instituto Forestal ha establecido una estrategia de conservación y mejoramiento ge-
+nético en base al establecimiento de poblaciones de mejoramiento tanto nativas como
+exóticas. En ellas se identifica la progenie y procedencia, en distintos sitios, los cuales
+son seleccionados como representativos de situaciones extremas que se darán en el
+futuro de acuerdo a proyecciones de escenarios de la IPCC. Este sistema de conser-
+vación ex situ, permite monitorear los efectos del cambio climático, salvaguardando el
+potencial de adaptación de las poblaciones mediante el proceso de selección natural.
+En este contexto la selección es transformada en una fuerza primaria para adaptarse
+al cambio climático. En el caso de bosques, este depende en forma directa de la varia-
+bilidad genética, la que puede ser medida en forma indirecta mediante dos estrategias
+no excluyentes:
+53
+1.- La plasticidad fenotípica (esto es, la capacidad que un determinado genotipo posee
+para expresar distintos fenotipos bajo diferentes condiciones ambientales) y
+2.- La capacidad de adaptación de la especie (esto es, su capacidad para diferenciar-
+se en distintos genotipos, procedencias, eco-tipos-, adecuados a las condiciones
+ambientales locales).
+Cobertura
+Región del Maule a Región de Los Ríos
+Metas (cuantitativas)
+Un reporte bianual
+Presupuesto asociado
+En estudio
+Plazos
+Permanente
+Instituciones participantes
+INFOR
+y responsables
+
+--- Página 54 ---
+Cap 5
+iii. Lineamiento Ministerial: Promover la sustentabilidad económica, social y ambiental
+Medida
+Nº13 Potenciar los actuales mecanismos del Programa de Sistemas de
+Incentivos para la Sustentabilidad Agroambiental de los Suelos
+Agropecuarios (ex SIRSD)
+Objetivo
+Fomentar el uso de prácticas agronómicas sustentables tendientes a la recuperación y
+mantención del potencial productivo de los suelos agropecuarios.
+Descripción de acciones
+Priorizar los incentivos del Programa de Sistemas de Incentivos para la Sustentabilidad
+Agroambiental de los Suelos Agropecuarios (ex SIRSD), cuyo objetivo definido en la
+ley 20.412 es recuperar el potencial productivo de los suelos agropecuarios y man-
+tener los niveles de mejoramiento ya alcanzados a través de una ayuda económica
+no reembolsable, hacia las zonas agrícolas más vulnerables frente a los procesos de
+54
+degradación de los suelos.
+Cobertura
+Pequeños y medianos productores agrícolas entre las regiones del Maule a Los Lagos.
+Metas (cuantitativas)
+470 mil ha
+Presupuesto asociado
+En estudio, en base a lo asignado históricamente.
+Plazos
+Al 2022
+Instituciones participantes
+INDAP y SAG
+y responsables
+
+--- Página 55 ---
+Cap 5
+Medida
+Nº14 Desarrollar sistemas de monitoreo permanente de cambios en los
+potenciales de productividad.
+Objetivo
+Disponer de un diagnóstico actualizado de los cambios en los potenciales de producción
+de las distintas zonas del país en respuesta a los cambios climáticos.
+Descripción de acciones
+Desarrollo de instrumentos para realizar evaluaciones periódicas del estado de los po-
+tenciales productivos, de modo de orientar tanto a las inversiones públicas como pri-
+vadas, con la suficiente antelación, hacia la prevención de problemas emergentes o al
+aprovechamiento de oportunidades que se van creando.
+Cálculo de rendimientos y riesgos en base a modelos debidamente validados para las
+condiciones chilenas, los cuales podrían emplearse para actualizar anualmente estas 55
+variables, para así disponer de una tendencia continua sobre el curso que ellas llevan
+en respuesta al cambio climático.
+La primera etapa de la creación del sistema implica diseñar y calibrar, en un proceso
+iterativo, un modelo que permita simular la productividad de diversos rubros agrícolas
+de interés. Un sistema de este tipo requiere de una base de datos histórica (clima, uso
+del suelo, recursos hídricos, rendimientos potenciales y riesgos de producción) de todo
+el territorio agrícola de Chile.
+La validación del dicho modelo se realizará por medio de trabajo de campo, ensayos y
+aporte de productores agrícolas y expertos de todo el país.
+Cobertura
+Nacional por rubro
+Metas (cuantitativas)
+Reportes anuales
+Presupuesto asociado
+12 millones de pesos anuales
+Plazos
+Anual permanente
+Instituciones participantes
+Coordinación ODEPA con ejecución de Universidades
+y responsables
+
+--- Página 56 ---
+Cap 5
+Medida
+Nº15 Desarrollar un sistema de indicadores de sustentabilidad ambiental de
+la agricultura.
+Objetivo
+Reducir los riesgos de la agricultura mediante un sistema de indicadores que permitan evaluar las
+condiciones ambientales para la producción agrícola, de modo de detectar tempranamente ciertas
+condiciones que puedan amenazar la sustentabilidad de esta actividad.
+Descripción
+de acciones Desarrollo de un sistema de indicadores biofísicos y biológicos de fácil evaluación a gran escala, se
+puede llevar al día el estado de la situación ambiental de la agricultura, de modo de detectar tempra-
+namente aquellas tendencias que pudieran afectar a la capacidad productiva nacional de alimentos
+y materias primas.
+Para esto se selecciona un conjunto de indicadores que sean fácilmente evaluables mediante pro-
+cedimientos de gran escala, como son las estadísticas, los sistemas satelitales y los procedimientos
+expertos. Estos indicadores se manejan en una plataforma de fácil actualización, que disponga de
+herramientas básicas de análisis y cartografía automática del estado de situación de cada indicador
+o del resultado de una combinación de ellos, que pongan de relieve situaciones que es necesario
+prevenir o corregir.
+Un sistema de indicadores de sustentabilidad es esencial para un país que busca ser potencia agroa-
+limentaria y forestal, por cuanto es necesario velar por el crecimiento sostenido de su capacidad
+productiva, velando por la integridad de los recursos naturales. Siendo el cambio climático uno de los
+principales factores de insustentabilidad ambiental, se hace necesario el montaje de una herramienta
+de este tipo.
+56 Un sistema de indicadores de sustentabilidad ambiental de la agricultura (SINSA) permitiría no solo
+detectar la localización y grado de las vulnerabilidades territoriales de la agricultura, especialmente de
+aquellas de origen climático, sino además focalizar mejor los instrumentos del fomento del estado.
+Se recomienda para estos efectos aplicar el modelo Estado-Presión, el cual organiza los indicadores
+en dos grandes clases:
+1. Indicadores de estado, que resumen los atributos actuales de los distintos componentes
+ambientales (suelos, agua, clima y recursos bióticos).
+2. Indicadores de presión, que resumen las presiones actuales a que están sometidos los
+distintos recursos como consecuencia de las actividades económicas (agricultura, industria,
+minería, urbanización, transporte, turismo).
+Estos sistemas permiten detectar con cierta facilidad dónde se producen combinaciones riesgosas
+de estados frágiles o degradados con presiones que conducen a la insustentabilidad en el mediano
+plazo.
+Las etapas de implementación son:
+1. Diseño lógico del sistema
+2. Selección de indicadores
+3. Establecimiento de los sistemas de generación de la información
+4. Acuerdos institucionales y evaluaciones experimentales en zonas piloto
+5. Diseño de los productos de información estándares
+Puesta en operación
+Cobertura Nacional por rubro
+Metas (cuantitativas) Sistema implementado con reportes anuales
+Presupuesto asociado 35 millones de pesos para implantación
+12 millones de pesos anuales para funcionamiento
+Plazos Anual Permanentes
+Instituciones participantes y responsables Coordinación ODEPA con ejecución de Universidades
+
+--- Página 57 ---
+Cap 5
+Medida
+Nº16 Desarrollar nuevos métodos silviculturales que permitan enfrentar
+el Cambio Climático
+Objetivo
+Generar conocimiento básico por medio de prácticas silvícolas que permitan la adaptación gradual al
+cambio climático de los ecosistemas forestales nativos.
+Descripción
+de acciones Se enfoca desde la perspectiva del manejo sustentable de los ecosistemas forestales del país, para
+generar conocimiento básico silvícola que permita generar propuestas de silvicultura para enfrentar
+el cambio climático. Debe ser abordada en etapas para los distintos tipos forestales, los que a su
+vez tienen una distribución geográfica, caracterización y grado de vulnerabilidad distinto al cambio
+climático.
+Entre las actividades se considera:
+• Instalación de ensayos de intervenciones silvícolas
+• Monitoreo de ensayos: monitoreo del comportamiento de las variables de producción de biomasa,
+a partir de intervenciones silvícolas específicas (ej. raleos a distintas densidades) en forma conjunta
+y coordinada con el monitoreo de variables climáticas.
+• En el contexto de la regeneración, se recurre a alterar artificialmente algunos factores climáticos y
+evaluar la respuesta de las plántulas a este cambio, adelantando los futuros efectos del cambio
+climático.
+• Determinar las áreas prioritarias para focalizar la silvicultura de adaptación.
+• Definir estrategias de manejo adecuadas para enfrentar el cambio climático
+57
+Esta medida se encuentra en desarrollo y en su primera etapa se ha enfocado en los bosques se-
+cundarios de Roble-Raulí-Coihue (Ro-Ra-Co), con ensayos instalados en la comuna de Panguipulli,
+que ya están siendo monitoreados. Este modelo se debe expandir a demás tipos forestales en otras
+localidades.
+La expansión de este modelo se debe realizar a través del establecimiento de nuevas áreas demos-
+trativas en otros tipos forestales y en otras regiones. La instalación de nuevas áreas demostrativas
+depende de la disponibilidad de terrenos y del presupuesto asociado. El primer criterio es priorizar el
+tipo forestal y luego buscar las regiones de distribución.
+Cobertura
+Actual: Tipo forestal Ro-Ra-Co, Región de Los Ríos
+Metas (cuantitativas) En una segunda fase se espera expandir a los tipos forestales Siempreverde y Lenga por su
+importancia en superficie, manejo y vulnerabilidad al cambio climático.
+Presupuesto asociado
+28 millones de pesos anuales por área demostrativa
+Plazos
+Permanente
+Instituciones participantes Responsable: INFOR
+y responsables Participantes: Propietarios forestales, CONAF
+
+--- Página 58 ---
+Cap 5
+Medida
+Nº17 Estudio de requerimientos hídricos de especies forestales nativas
+y exóticas.
+Objetivo
+Conocer los requerimientos hídricos de especies forestales nativas y exóticas utilizadas
+en Chile.
+Descripción de acciones
+Los modelos predictivos sobre cambio climático sugieren modificaciones profundas
+a nivel de precipitaciones y de temperaturas promedios, lo que puede ocasionar una
+disminución o desplazamiento en la distribución latitudinal y altitudinal de algunas es-
+pecies forestales en Chile.
+58
+El estudio busca determinar y conocer los requerimientos hídricos de especies nativas
+y exóticas, expresados en evapotranspiración, establecidas en un gradiente latitudinal
+y altitudinal. De esta forma se puede proyectar una variación en la distribución territorial
+de las mismas frente a un escenario de cambio climático. Las especies a evaluar serán
+en una primera etapa: Roble, Pinus radiata y Eucalyptus spp.
+Este estudio correlacionará datos de evapotranspiración, precipitación y temperatura
+de la zona geográfica donde se encuentren establecidas las especies.
+Cobertura
+Región de Los Ríos (Roble) y Región del Bio Bio (Pinus radiata y Eucalyptus spp.),
+escalable a otras regiones hasta cubrir la distribución espacial de las especies.
+Metas (cuantitativas)
+Un reporte anual
+Presupuesto asociado
+30 millones de pesos
+Plazos
+12 meses
+Instituciones participantes
+INFOR responsable
+y responsables
+Participación: DGA
+
+--- Página 59 ---
+Cap 5
+Medida
+Nº18 Implementación de sistemas de cosecha de agua lluvia para
+riego y bebida.
+Objetivo
+Impulsar el uso de técnicas de cosecha y aprovechamiento de las aguas lluvias en la producción de
+hortalizas, frutales en huertas familiares y pequeños invernaderos, y como recursos para la obtención
+de agua para bebida humana y animal, en condiciones de extrema aridez.
+Descripción
+de acciones La escasez del recurso hídrico debida a la presión de uso se verá incrementada, según muestran las
+proyecciones, a causa de la modificación de los regímenes de precipitaciones producto del cambio
+climático. Por ello se hace imprescindible buscar nuevas fuentes y alternativas que ayuden a ampliar
+la disponibilidad de agua en las comunidades agrícolas.
+Una importante fuente de recursos hídricos proviene del agua de lluvia, gran parte de esta no es
+aprovechada para el riego y se pierde por escurrimiento o infiltración ya que no existe infraestructura
+de almacenamiento.
+Dependiendo de las características topográficas y climáticas de un determinado emplazamiento, es
+posible diseñar distintos tipos de proyecto que permitan acumular agua de lluvias. Se separarán se-
+gún las necesidades del predio relativas al volumen de agua requerido en: microcaptaciones, peque-
+ñas obras de captación y medianas, para esto se considerarán 3 técnicas de recolección de aguas
+lluvia:
+1. Recolección en el terreno, es decir, a través de distintas técnicas que permitan facilitar la infiltración
+del agua de escorrentía en la tierra y acumularla en el perfil de suelo (terrazas, surcos de desvia- 59
+ción, trincheras, limanes, otros).
+2. Obtener el agua desde los techos de casas y galpones y conducirla por sistemas de canaletas y tu-
+berías hasta un estanque acumulador. En este caso es posible colectar el 80% del agua lluvia, con
+lo cual por cada 100 mm caídos se obtiene una cosecha de 3 mil 200 litros en un techo de 40 m2.
+Con una precipitación anual de 500 mm es posible almacenar agua suficiente para el consumo de
+50 litros por persona al día para una familia de 3 personas durante casi 3 meses.
+3. Acumular el agua de lluvia en pequeños tranques construidos en el predio.
+Cobertura Regiones de Coquimbo a La Araucanía
+Metas (cuantitativas) 10% del total de explotaciones de subsistencia (8 mil proyectos)
+Presupuesto asociado
+Los costos promedio para los 3 tipos de proyectos, dependiendo de los requerimientos de
+riego y del tamaño del predio objetivo, se calculan considerando:
+• 500 mil pesos para obras para autoconsumo familiar que considerarán proyectos de
+microcaptación con capacidad máxima de 10 m3 promedio.
+• 1,5 millones para obras medianas para acumulación de entre 10 a 30 m3 para regar
+pequeños predios agrícolas.
+• 2,5 millones de pesos para medianas obras de cosecha de aguas lluvias, considera
+sistemas con capacidad de hasta 50m3 promedio, para abastecer producciones de
+tamaño medio.
+Plazos Permanentes
+Instituciones participantes y responsables INDAP, SAG, SERCOTEC, FOSIS
+
+--- Página 60 ---
+Cap 5
+iv. Lineamiento ministerial: Transparencia y acceso a mercado
+Medida
+Nº19 Diseño e implementación de un programa de investigación sobre la
+huella del agua, de manera de incorporar tecnologías que permitan
+la reducción en el uso del recurso hídrico en los puntos críticos de
+las cadenas productivas de los productos agropecuarios.
+Objetivo
+Optimizar el uso de los recursos hídricos en la agricultura, especialmente de los produc-
+tos exportables.
+Descripción de acciones
+La creciente conciencia de que los recursos hídricos constituirán uno de los elemen-
+tos más escasos para la producción de alimentos, ha llevado a proponer el cálculo
+sistemático del consumo de agua por unidad de producción agrícola. Los mercados
+discriminarán positivamente a futuro a aquellos productos que logren exhibir la mayor
+eficiencia de conversión agua-producto, lo que exigirá preparar los sistemas de pro-
+60
+ducción para la optimización de esta relación. El cumplimiento de este estándar no
+solo mantendrá la competitividad de los productos en los mercados internacionales,
+sino además ello contribuirá a aliviar los efectos derivados de las dotaciones de riego
+en las cuencas de la zona central. La etapa que esta iniciativa debiera incluir son:
+1. Evaluación de la huella del agua en los procesos productivos de los productos
+principales en cada región agrícola.
+2. Propuesta de incorporación de tecnología en los puntos críticos de las cadenas
+productivas de los productos agropecuarios, para disminuir el uso de agua, priori-
+zando cadenas productivas más vulnerables.
+Cobertura Nacional, por producto
+Metas (cuantitativas)
+Número de cadenas productivas evaluadas
+Número de aportes tecnológicos en puntos críticos de producción
+Estimación de volumen de agua ahorrado, debido a la incorporación de tecnología,
+versus producción.
+Presupuesto asociado
+En estudio
+Plazos Permanente
+Instituciones participantes
+y responsables INIA, SAG
+
+--- Página 61 ---
+Cap 5
+v. Lineamiento Ministerial: Modernizar el Ministerio de Agricultura y sus servicios
+Medida
+Nº20 Desarrollo de un sistema de información para la adaptación al
+cambio climático.
+Objetivo
+Diseñar y desarrollar un sistema de información que integre los sistemas de información existentes y
+dé acceso a la información requerida para la adaptación al cambio climático en los distintos niveles de
+decisión que le competen al sector silvoagropecuario.
+Descripción
+de acciones
+La información debería integrarse en una red de acceso público con un banco de estudios y proyec-
+tos para su consulta, clasificados en categorías que orienten la gestión para la adaptación al cambio
+climático en los distintos niveles de decisión, en los momentos que se requiera, por ejemplo medidas
+productivas de adaptación, por épocas del año, requerimiento de mercado en relación a las adap-
+taciones al cambio climático (huella de carbono y del agua), marco normativo legal y voluntario, etc.
+Una institución centralizaría la información, a partir de subsistemas de información (en cada organiza-
+61
+ción) que coordine a su vez sus subsistemas de modo de formar una red que funcione modularmente
+no poniendo en riesgo el funcionamiento global del sistema. Ya hay iniciativas vigentes en los servicios
+del Ministerio de Agricultura.
+La consulta de información base sería de libre costo, pagando un valor por tipo de información reque-
+rida (una vez) o pagando un valor periódico que dé acceso a información base a un nivel superior (o
+información más especializada y de mayor detalle).
+La información publicada deberá respetar la autoría y contar con las autorizaciones respectivas.
+Todos los productos generados por estudios y proyectos desarrollados por el Ministerio de Agricultura
+deberán quedar disponibles en este sistema de información.
+Cobertura Nacional
+Metas (cuantitativas)
+Diseño del sistema.
+Puesta en marcha del sistema a dos meses de la validación de su diseño, con un periodo
+de marcha blanca de dos meses.
+Funcionamiento del sistema a partir del tercer mes de la validación del diseño.
+Revisión y mantención semestral a contar de su periodo de funcionamiento
+Presupuesto asociado
+En estudio
+Plazos Un año
+Instituciones participantes
+y responsables Servicios MINAGRI
+
+--- Página 62 ---
+Cap 5
+Medida
+Nº21 Desarrollo de directrices a incorporar en las instancias de capacitación
+en cambio climático.
+Objetivo
+Fomentar el aumento guiado de las capacidades de los distintos actores del sector silvoagropecua-
+rio, desde el ámbito público hasta los usuarios finales, para enfrentar eficientemente un proceso de
+adaptación a los nuevos contextos climáticos.
+Descripción
+de acciones Se requiere la entrega de conocimientos de manera específica por el segmento de usuarios y actores
+sectoriales, en los procesos de capacitación que acompañan necesariamente a gran parte de las
+medidas propuestas, en sus dimensiones de difusión y transferencia.
+En este sentido se propone abordar los siguientes aspectos específicos para cada grupo objetivo:
+Responsables de políticas y estrategias en los niveles públicos
+- Alcances de los problemas globales que enfrenta la humanidad.
+- Rol de Estado en la búsqueda de la sustentabilidad.
+- Desarrollo económico en un ámbito restrictivo en recursos naturales.
+- Visión sistémica en la comprensión de los sistemas naturales, sociales y económicos.
+- Diseño y evaluación de estrategias de adaptación al cambio climático a nivel local.
+Responsables de la implementación de las acciones contenidas en las estrategias:
+- Gestión de políticas públicas.
+- Uso de mecanismos participativos para la implementación de acciones locales.
+- Sistemas de evaluación y seguimiento.
+62 - Información sobre impactos socioeconómicos y ambientales que traerá el cambio climático a
+los sistemas agrícolas locales.
+Transferencistas de tecnología:
+- Comprensión de los impactos productivos de los cambios climáticos.
+- Gestión del estrés y del riesgo.
+- Agricultura ecoeficiente.
+- Eficiencia hídrica, energética y ambiental.
+- Trazabilidad en los sistemas de producción.
+Usuarios finales (agricultores y administradores de los sistemas de producción):
+- Información sobre medidas para manejar los estreses ambientales.
+- Uso eficiente de los recursos hídricos y captación de nuevos recursos de agua, la
+- Gestión del riesgo agrometeorológico.
+- Manejo de plagas.
+- Gestión de planteles animales bajo condiciones de estrés.
+- Agricultura baja en carbono.
+- Medidas para mejorar el balance hídrico del suelo.
+Cobertura Actores públicos y privados sectoriales
+Metas (cuantitativas)
+• Número de agricultores y agentes públicos y privados capacitados
+• Evaluación de la calidad de las capacitaciones
+Presupuesto asociado
+En estudio
+Plazos Permanentes
+Instituciones participantes
+y responsables INDAP, INIA, FUCOA, Universidades.
+
+--- Página 63 ---
+Cap 5
+63
+Anacrónimos
+CIREM: Centro de Información de Recursos Naturales
+CNR: Comisión Nacional de Riego
+CONAF: Corporación Nacional Forestal
+CORFO: Corporación de Fomento de la Producción
+FIA: Fundación para la Innovación Agraria
+FOSIS: Fondo de Solidaridad e Inversión Social
+FUCOA: Fundación de Comunicaciones, Capacitación y Cultura del Agro
+INDAP: Instituto de Desarrollo Agropecuario
+INFOR: Instituto Forestal
+INIA: Instituto de Investigación Agropecuarias
+ODEPA: Oficina de Estudios y Políticas Agrarias
+SAG: Servicio Agrícola Ganadero
+SERCOTEC: Servicio de Cooperación Técnica
+
+--- Página 64 ---
+[Sin texto reconocible]
