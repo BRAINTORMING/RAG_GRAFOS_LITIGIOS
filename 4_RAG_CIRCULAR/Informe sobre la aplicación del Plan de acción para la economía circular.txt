@@ -1,0 +1,619 @@
+--- Página 1 ---
+COMISIÓN
+EUROPEA
+Bruselas, 4.3.2019
+COM(2019) 190 final
+INFORME DE LA COMISIÓN AL PARLAMENTO EUROPEO, AL CONSEJO, AL
+COMITÉ ECONÓMICO Y SOCIAL EUROPEO Y AL COMITÉ DE LAS REGIONES
+sobre la aplicación del Plan de acción para la economía circular
+{SWD(2019) 90 final}
+ES ES
+
+--- Página 2 ---
+1 I NTRODUCCIÓN
+En diciembre de 2015, la Comisión adoptó un Plan de acción para la economía circular 1 para
+dar un nuevo impulso al empleo, el crecimiento y la inversión y desarrollar una economía sin
+emisiones de carbono, eficiente en el uso de los recursos y competitiva. Las 54 acciones
+recogidas en el plan de acción ya se han concluido o se están implantando, si bien se seguirá
+trabajando en algunas de ellas después de 2019.
+El marco de seguimiento para la economía circular de la UE 2 muestra que la transición ha
+ayudado a volver a situar a la UE en la senda de la creación de empleo. En 2016, los sectores
+pertinentes para la economía circular empleaban a más de cuatro millones de trabajadores 3 , lo
+que supone un aumento del 6 % con respecto a 2012. En los próximos años se crearán más
+empleos para satisfacer la demanda prevista generada por unos mercados de materias primas
+secundarias plenamente operativos 4 .
+La circularidad también ha creado nuevas oportunidades de negocio, dado lugar a la aparición
+de nuevos modelos empresariales y desarrollado nuevos mercados, tanto a escala nacional
+como fuera de la UE. En 2016, las actividades circulares como la reparación, la reutilización o
+el reciclaje generaron un valor añadido de casi 147 000 millones EUR y fueron objeto de una
+inversión de aproximadamente 17 500 millones EUR 5 .
+En Europa, se ha incrementado el reciclaje de residuos municipales durante el período 2008-
+2016 y se observa una mejora continua en la contribución de los materiales reciclados a la
+demanda general de materiales. No obstante, de media, los materiales reciclados cubren
+menos del 12 % de la demanda de materiales de la UE 6 . Un informe reciente lo reitera,
+sugiriendo que la plena circularidad se aplica tan solo al 9 % 7 de la economía mundial, con lo
+que seguiría quedando un enorme margen de mejora.
+El marco de seguimiento para la economía circular d e la UE presentado por la Comisión
+en 2018 incluye diez indicadores clave que cubren cada fase del ciclo de vida de los
+productos, así como aspectos relativos a la competitividad. Todos los indicadores se
+actualizan periódicamente y están disponibles en un sitio web específico 8 .
+Algunos Estados miembros han desarrollado otros indicadores nacionales de la economía
+circular, complementando así la visión general que proporciona el marco de la UE. El
+Parlamento Europeo 9 , el Consejo 10 y el Comité Económico y Soc ial Europeo 11 también han
+destacado la función desempeñada por otros indicadores a la hora de detectar aspectos
+ausentes de la economía circular, como la evaluación de los flujos de materiales en la
+simbiosis industrial y la contabilización del capital natural.
+El plan de acción fomentaba por primera vez un enfoque sistémico en todas las cadenas de
+valor. Con él, la Comisión ha integrado los principios circulares en la producción y el
+1 COM (2015) 614.
+2 COM (2018) 29 final.
+3 https://ec.europa.eu/eurostat/tgm/refreshTableAction.do?tab=table&plugin=1&pcode=cei_cie010&language=en
+4 Comisión Europea, «Impacts of circular economy policies on the labour market» («Efectos de las políticas de economía
+circular en el mercado laboral»), abril de 2018.
+5 https://ec.europa.eu/eurostat/tgm/refreshTableAction.do?tab=table&plugin=1&pcode=cei_cie010&language=en
+6 https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=cei_srm030&plugin=1
+7 Circle Economy, «The Circularity Gap Report» («Informe sobre las carencias en la circularidad»), enero de 2018.
+8 https://ec.europa.eu/eurostat/web/circular-economy
+9 Pregunta para respuesta oral O-000087/2018.
+10 10447/18 – Conclusiones del Consejo « Ejecutar el Plan de acción de la UE para la economía circular » .
+11 NAT/722-EESC-2018-00464.
+1
+
+--- Página 3 ---
+consumo de plástico, la gestión del agua, los sistemas alimentarios y la gestión de flujos de
+residuos específicos. Esto fue posible gracias al firme apoyo y compromiso de los Estados
+miembros, el Parlamento Europeo, la comunidad empresarial y los ciudadanos. También ha
+contribuido a avanzar hacia la consecución de los objetivos de la Agenda 2030 para el
+Desarrollo Sostenible 12 .
+Este informe presenta los principales resultados de la aplicación del plan de acción. También
+esboza los desafíos futuros para conformar nuestra economía y seguir creando una ventaja
+competitiva, allanando el terreno para lograr una economía climáticamente neutra en la que se
+minimice la presión sobre los recursos naturales y de agua dulce, así como sobre los
+ecosistemas. El informe responde a una solicitud del Consejo 13 de « una estimación anual por
+escrito sobre los progresos realizados en la aplicación del plan de acción» , una solicitud que
+también reiteró el Parlamento Europeo 14 . Se ofrece una visión completa de la situación actual
+de la aplicación del plan de acción en un documento de trabajo de los servicios de la
+Comisión 15 .
+2 C ONSTRUIR UNA ECONOMÍA CIRCULAR
+2.1 Procesos de diseño y producción circulares
+El ciclo de vida de los productos se inicia con el diseño, que es esencial para garantizar la
+circularidad. Con la implantación del plan de trabajo sobre diseño ecoló gico 2016 - 2019 16 ,
+la Comisión ha promovido aún más el diseño circular de los productos , así como los
+objetivos de eficiencia energética.
+ Las medidas de diseño ecológico y etiquetado energético para diversos productos
+incluyen ahora reglas sobre los requisit os de eficiencia de los materiales, como la
+disponibilidad de piezas de repuesto, la facilidad de reparación y la facilitación del
+tratamiento al final de la vida útil.
+ La Comisión ha encargado a las organizaciones europeas de normalización 17 la
+elaboració n de unos criterios horizontales para medir la durabilidad, la
+reutilizabilidad, la reparabilidad, la reciclabilidad y la presencia de materias
+primas fundamentales. Estos criterios deberían aplicarse a las normas ya
+existentes y a las nuevas.
+Los productos y servicios diseñados de forma circular pueden minimizar el uso de recursos y
+fomentar la reutilización, la recuperación y la reciclabilidad de los materiales en el futuro. La
+UE ya cuenta con diversas políticas que abordan la eficiencia de los recursos: aparte de la
+Directiva sobre diseño ecológico y del Reglamento sobre etiquetado energético, estas políticas
+12 Por ejemplo, los ODS 2 (fomentar la reutilización del agua y los fertilizantes orgánicos, facilitar la donación de alimentos),
+3 (abordar el problema de los microplásticos), 8 y 9 (impulsar la innovación, el empleo y el valor añadido), 12 (apoyar la
+prevención de residuos y la gestión responsable de residuos y productos químicos, abordar el desperdicio de alimentos y
+apoyar la contratación pública ecológica), 13 (potencial de la eficiencia de los materiales para reducir las emisiones de
+CO ) y 14 (acciones decisivas para luchar contra los desechos marinos).
+2
+13 10518/16 - «Cerrar el círculo: un plan de acción de la UE para la economía circular»; 15159/17 - «La ecoinnovación:
+facilitar la transición hacia una economía circular»; 10447/18 - «Delivering on the EU Circular Economy Action Plan»
+(«Cumpliendo el Plan de Acción de la UE para la Economía Circular»).
+14 http://www.europarl.europa.eu/cmsdata/103519/06%2007%20-%20Coordinators%20Results.pdf
+15 SWD (2019) 90.
+16 COM (2016) 773 final.
+17 Para marzo de 2020 se esperan doce normas genéricas.
+2
+
+--- Página 4 ---
+también incluyen herramientas voluntarias, como la etiqueta ecológica de la UE o los criterios
+de contratación pública ecológica. El documento de trabajo de los servicios de la Comisión
+sobre políticas en materia de productos 18 , publicado junto con este informe, analiza las
+opciones para articular mejor los diversos instrumentos normativos existentes en materia de
+productos a escala de la UE y su contribución a la economía circular. Estas opciones incluyen
+sopesar la posibilidad de ampliar la política del diseño ecológico, que ha resultado eficaz para
+los productos relacionados con la energía, a los grupos de productos no relacionados con la
+energía, y prestar más apoyo al sector de la reparación en la UE. Asimismo, el documento
+analiza las posibles oportunidades en otros sectores tales como los del envasado, los textiles y
+el mobiliario. Se están revisando los requisitos esenciales para el envasado con el fin de
+mejorar el diseño para la reutilización y el reciclaje de alta calidad de los envases.
+La circularidad también significa adaptar los procesos industriales. La Comisión ha
+introducido aspectos de la circularidad (consumo de energía y uso de materiales, prevención
+de residuos, reciclaje y reducción de productos químicos peligrosos) en documentos
+específicos de referencia sobre las mejores técnicas disponibles (BREF) 19 enmarcados en la
+Directiva sobre las emisiones industriales 20 , convirtiéndolos en normas de referencia para los
+Estados miembros a la hora de conceder permisos para plantas industriales. Además, el
+resultado del control de adecuación del sistema comunitario de gestión y auditoría
+medioambientales (EMAS) confirmó su potencial para mejorar el comportamiento
+medioambiental de las organizaciones.
+Las pequeñas y medianas empresas (pymes) son esenciales para la transición. Pueden acceder
+al asesoramiento de la Red Europea para las Empresas 21 y del Centro Europeo de
+Conocimiento sobre Eficiencia de los Recursos (European Resource-Efficiency Knowledge
+Centre) 22 para mejorar el uso eficiente de los recursos y los procesos de producción. Además,
+la Comisión ha creado una red paneuropea específica para tecnologías de fabricación
+avanzadas e innovadoras y está desarrollando una base de conocimientos para la sustitución
+de las sustancias peligrosas preocupantes. Las pymes también se benefician del programa
+piloto de verificación de tecnologías medioambientales, un programa para que los
+desarrolladores de tecnologías demuestren el rendimiento declarado de las tecnologías
+innovadoras y consigan credibilidad en los nuevos mercados.
+2.2 Capacitación de los consumidores
+La transición hacia una economía más circular exige que los ciudadanos se comprometan
+activamente a cambiar sus patrones de consumo. Para ello, el documento adjunto sobre
+políticas en materia de productos expone un enfoque estratégico para aumentar la eficacia de
+la etiqueta ecológica de la UE y ofrecer a los consumidores información medioambiental
+precisa, en línea con las recomendaciones del control de adecuación 23 . También presenta una
+evaluación detallada de la fase piloto de la huella ambiental.
+18 SWD (2019) 91.
+19 Common Waste Water and Waste Gas Treatment / Management systems in the chemical sector (Sistemas comunes de
+tratamiento/gestión de aguas residuales y gas residual en el sector químico) (6/2016), Intensive Rearing of Poultry or Pigs
+(Cría intensiva de aves de corral o de cerdos) (7/2017), Large Combustion Plants (Grandes instalaciones de combustión)
+(7/2017), Production of Large Volume Organic Chemicals (Producción de grandes volúmenes de productos químicos
+orgánicos) (12/2017) y Waste Treatment (Tratamiento de residuos) (8/2018).
+20 Directiva 2010/75/UE.
+21 https://een.ec.europa.eu/
+22 www.res ource - efficient.eu
+23 COM (2017) 355 final.
+3
+
+--- Página 5 ---
+El método de la huella ambiental de los productos (HAP) y el método de la huella ambiental
+de las organizaciones (HAO) desarrollados por la Comisión permiten a las empresas declarar
+especificaciones ecológicas fiables, reproducibles y comparables . Los métodos permiten
+identificar puntos problemáticos desde un punto de vista medioambiental y apoyar a las
+empresas en la ecologización de su cadena de suministros y en sus esfuerzos por ser más
+sostenibles y circulares. Asimismo, los consumidores podrán tomar decisiones con
+conocimiento de causa y basadas en información fiable.
+Unas trescientas empresas de veintisiete sectores distintos 24 y más de 2 000 partes interesadas
+trabajaron durante cinco años para poner a prueba estos métodos, que consideran mejores
+prácticas en la evaluación del ciclo de vida.
+La información sobre la durabilidad y la reparabilidad de los productos 25 también puede hacer
+que las decisiones de compra se inclinen hacia opciones más sostenibles. Sobre la base de la
+experiencia positiva adquirida en el marco del Reglamento sobre el etiquetado energético, la
+Comisión está desarrollando un sistema de puntuación relativo a la reparabilidad de los
+productos. Además, para proteger a los consumidores frente a los productos defectuosos, la
+propuesta 26 sobre determinados aspectos relativos a los contratos para la venta de bienes, que
+actualmente se encuentra en los últimos pasos del proceso legislativo, amplía la inversión de
+la carga del período de prueba, lo cual ayudará a los consumidores a aplicar su garantía legal
+de derechos 27 .
+Asimismo, la Comisión ha propuesto reforzar la protección de los consumidores frente a
+falsas alegaciones ecológicas y prácticas de obsolescencia prematura 28 ofreciendo mejores
+oportunidades de recurso individual y colectivo contra prácticas comerciales desleales 29 . Esto
+complementa la información facilitada en las orientaciones revisadas para aplicar e implantar
+la Directiva relativa a las prácticas comerciales desleales 30 .
+Para aprovechar el potencial de las autoridades públicas para impulsar los mercados en lo que
+respecta a productos y servicios circulares, la Comisión ha adoptado unos criterios de
+contratación pública ecológica de la UE nuevos y revisados que incluyen aspectos de la
+economía circular y ha promovido su adopción a través de documentos de orientación 31 y
+sesiones formativas. La Comisión está predicando con el ejemplo en su propia contratación
+pública. Los servicios de la Comisión en Bruselas utilizaron los criterios de contratación
+pública ecológica en el 93 % de sus contratos superiores a 60 000 EUR 32 .
+2.3 Conversión de los residuos en recursos
+La presencia de sistemas sólidos y eficaces para la gestión de los residuos es esencial para la
+24 Representan aproximadamente dos terceras partes del mercado europeo en cuanto a consumo.
+25 Comisión Europea, «Behavioural Study on Consumers’ Engagement in the Circular Economy» («Estudio conductual sobre
+la participación de los consumidores en la economía circular»), octubre de 2018.
+26 COM (2017) 637 final - 2015/0288 (COD) Acuerdo Political agreement reached on 29 January 2019
+http://europa.eu/rapid/press - release_STATEMENT - 19 - 742_es.htm
+27 Propuesta inicial presentada en diciembre de 2015 y modificada en 2017 para ampliar su ámbito e incluir las ventas fuera de
+línea.
+28 A través de un programa de prueba independiente de Horizonte 2020 que se desarrollará hasta 2023 se recopilará más
+información sobre la naturaleza de las prácticas de obsolescencia prematura y sobre cómo abordarlas.
+29 Revisión del Reglamento sobre la cooperación en materia de protección de los consumidores y las propuestas legislativas
+en el marco del nuevo acuerdo para los consumidores.
+30 Directiva 2005/29/CE.
+31 http://ec.europa.eu/environment/gpp/pubs_en.htm
+32 http://ec.europa.eu/environment/emas/pdf/other/2018%2012%2007_ES%202018_Consolidated%20Volume.pdf
+4
+
+--- Página 6 ---
+economía circular. Para modernizar los sistemas de gestión de residuos en la Unión y
+consolidar el modelo europeo como uno de los más eficaces del mundo, en julio de 2018 entr ó
+en vigor un marco legislativo revisado en materia de residuos 33 . Dicho marco incluye lo
+siguiente:
+ nuevas tasas de reciclado, ambiciosas pero realistas 34 ;
+ simplificación y armonización de las definiciones y los métodos de cálculo y
+aclaración del régimen jurídico para los subproductos y materiales reciclados;
+ refuerzo de las normas y nuevas obligaciones con respecto a la recogida selectiva
+(biorresiduos, textiles y residuos peligrosos producidos por hogares, residuos de
+demolición y construcción);
+ requisi tos mínimos para la responsabilidad ampliada del productor;
+ refuerzo de las medidas para la prevención y la gestión de residuos, así como para los
+desechos marinos, el desperdicio de alimentos y los productos que contienen materias
+primas fundamentales;
+La Comisión está apoyando y colaborando con los Estados miembros en la aplicación de la
+legislación sobre residuos 35 para aumentar la visibilidad y mejorar el entendimiento de las
+oportunidades que ofrece la economía circular en aquellos Estados miembros que más
+dificultades tienen para cumplir sus objetivos de reciclaje. Se realizarán visitas a los países
+encabezadas por comisarios, en las que expertos de distintos Estados miembros compartirán
+sus experiencias y asesorarán sobre la mejor manera de lograr los objetivos de las políticas en
+materia de residuos.
+La Comisión ha aclarado la relación y la importancia de los distintos procesos de valoración
+energética 36 con vistas a evitar la pérdida innecesaria de valiosos recursos mediante la
+descarga en vertederos y la incineración. Asimismo, se ha animado a los Estados miembros a
+identificar tecnologías de recuperación de energía y materiales eficientes, a hacer un mejor
+uso de los instrumentos económicos y a mejorar la planificación para evitar el exceso de
+capacidad de incineración.
+La gestión ecológicamente racional de los residuos, dentro y fuera de la UE, es esencial para
+lograr una economía más circular. La mayor claridad aportada al Código Aduanero de la UE 37
+permite a los operadores de residuos y funcionarios de aduanas identificar más fácilmente los
+flujos de residuos. La mejora del intercambio de datos electrónicos también ha contribuido a
+mejorar la aplicación del Reglamento relativo a los traslados de residuos 38 . Por último, las
+33 DO L 150 de 14.6.2018, pp. 93, 100, 109 y 141. Directiva 2008/98/CE sobre los residuos, Directiva 1999/31/CE relativa al
+vertido de residuos, Directiva 94/62/CE relativa a los envases y residuos de envases, Directiva 2000/53/CE relativa a los
+vehículos al final de su vida útil, Directiva 2006/66/CE relativa a las pilas y acumuladores y a los residuos de pilas y
+acumuladores, Directiva 2012/19/UE sobre residuos de aparatos eléctricos y electrónicos (RAEE).
+34 La legislación revisada en materia de residuos exige el reciclaje del 70 % de los residuos de envases para el año 2030 y el
+reciclaje del 65 % de los residuos municipales para el año 2035, reduciendo al mismo tiempo la descarga de residuos
+municipales en vertederos al 10 %. Se concede una prórroga de cinco años a Grecia, Croacia, Chipre, Letonia, Lituania,
+Hungría, Malta, Rumanía, Eslovaquia y Bulgaria.
+35 Informe de alerta temprana COM (2018) 656 final.
+36 COM (2017) 34 final, el papel de la transformación de los residuos en energía.
+37 Reglamento (CE) n.º 952/2013.
+38 Reglamento (CE) n.º 1013/2006.
+5
+
+--- Página 7 ---
+obligaciones propuestas para recoger de forma selectiva los desechos de los buques que
+atracan en puertos de la UE facilitan una mejor gestión de los residuos 39 .
+2.4 Cerrando el círculo de los materiales recuperados
+El nuevo Reglamento sobre productos fertilizantes 40 , que se encuentra en la etapa final del
+proceso legislativo, introduce reglas armonizadas para los fertilizantes orgánicos fabricados a
+partir de materias primas secundarias tales como subproductos agrícolas y biorresiduos
+recuperados. El nuevo Reglamento:
+ reducirá consider ablemente las grandes barreras que obstaculizan la entrada en el
+mercado de productos más sostenibles y circulares;
+ incluye nuevos límites de sustancias peligrosas para todos los fertilizantes, incluidos
+los obtenidos a partir de materias primas vírgenes, reduciendo así el riesgo de que los
+ciclos de los materiales contengan niveles peligrosos de determinados elementos
+tóxicos;
+ incluye criterios relativos al fin de la condición de residuo, lo cual contribuye al
+correcto funcionamiento de la interacción entr e las legislaciones en materia de
+sustancias químicas, productos y residuos y da a los inversores más seguridad jurídica.
+Fomentar el uso de materias primas secundarias es uno de los objetivos del Plan de Acción
+para la Economía Circular. Este objetivo exige comprender los principales retos a los que se
+enfrentan los operadores del mercado y debe basarse en un mercado único fuerte y eficaz 41 . El
+sistema de información de materias primas (Raw Materials Information System) 42 puesto en
+marcha en 2017 identifica las necesidades de conocimientos para sectores industriales
+estratégicos, centrándose en la supervisión del reciclaje de materiales pertinentes y la
+disponibilidad de datos en sectores clave 43 .
+La Comunicación sobre la interacción entre las legislaciones sobre sustancias químicas,
+productos y residuos 44 suscitó un amplio debate sobre la forma de superar los cuatro
+obstáculos principales que impiden la asimilación segura de las materias primas secundarias.
+Un análisis preliminar de los resultados de la consulta 45 confirma el acuerdo general entre las
+partes interesadas sobre la pertinencia de las cuestiones señaladas. Revela un firme apoyo
+para mejorar la trazabilidad de las sustancias y los flujos de información, la mejora de la
+aplicación y el uso de otras medidas para garantizar la igualdad de condiciones entre los
+operadores de la UE y los de fuera de la UE, una mejora de la armonización y el
+reconocimiento mutuo de los criterios relativos al fin de la condición de residuo y apoyo para
+reforzar los aspectos de la economía circular en instrumentos como la Directiva sobre diseño
+ecológico. Además, se han emprendido tres estudios sobre distintos aspectos de la interacción
+que proporcionarán más información pertinente en 2019 y principios de 2020.
+El acceso a información sobre la presencia y la composición de las sustancias peligrosas en el
+flujo de residuos es esencial para mejorar las técnicas de desmantelamiento y
+39 COM (2018) 033 - 2018/012 (COD), acuerdo político alcanzado el 12 de diciembre de 2018, http://europa.eu/rapid/press-
+release_IP-18-6867_es.htm
+40 COM(2016) 157, 2016/0084 (COD), acuerdo político alcanzado el 12 de diciembre de 2018, http://europa.eu/rapid/press-
+release_IP-18-6161_en.htm
+41 COM (2018) 772 final.
+42 http://rmis.jrc.ec.europa.eu/
+43 http://rmis.jrc.ec.europa.eu/?page=contributions-of-h2020-projects-236032
+44 COM (2018) 32 final.
+45 La consulta pública se concluyó en octubre de 2018 y recibió 460 respuestas. En 2019 se presentará un informe de síntesis
+de sus resultados.
+6
+
+--- Página 8 ---
+descontaminación, que facilitan la recuperación de los residuos. La Agencia Europea de
+Sustancias y Mezclas Químicas está creando una base de datos para recopilar información y
+mejorar el conocimiento sobre sustancias preocupantes en los productos y en los productos
+cuando se convierten en residuos. Además, la plataforma de la UE «Information for
+Recyclers» 46 está recopilando y compartiendo información sobre la preparación para la
+reutilización y el tratamiento de nuevos equipos presentes por primera vez en el mercado de la
+Unión.
+La información sobre la composición de los residuos también se puede utilizar para recuperar
+de manera eficaz las materias primas fundamentales. El informe de la Comisión «Critical Raw
+Materials and the Circular Economy» (Materias primas fundamentales y la economía
+circular) 47 define medidas clave necesarias para aprovechar estos posibles beneficios:
+extracción de componentes esenciales al final de la vida útil, mejora de la gestión de datos
+sobre los residuos de la minería y movilización de fondos. No obstante, el informe también
+mostró que hay bastante margen para mejorar el reciclaje y garantizar que las materias primas
+fundamentales se queden en Europa.
+Para ayudar a aumentar la confianza en las materias primas secundarias, la Comisión y las
+organizaciones europeas de normalización han iniciado un proceso de normalización y, como
+primer paso, han emprendido un análisis exhaustivo de las actividades de normalización
+relacionadas. Las organizaciones de normalización también están trabajando en la elaboración
+de posibles normas para el reciclaje de alta calidad y eficiente desde el punto de vista de los
+materiales de las materias primas fundamentales de los residuos de pilas, residuos de aparatos
+eléctricos y electrónicos y otros productos complejos fuera de uso.
+El plan de acción también pretende estimular el mercado de la reutilización del agua con el fin
+de hacer frente a la escasez de agua en la UE. La Comisión propuso una legislación específica
+que estableciera unos requisitos mínimos para el agua reutilizada destinada al riego agrícola 48 .
+Además, se integran prácticas sobre la reutilización del agua en la planificación y la gestión
+de los recursos hídricos 49 o en la revisión de los BREF pertinentes.
+2.5 Un enfoque sistémico: la Estrategia de la UE para el plástico en una economía
+circular
+La Estrategia de la UE para el plástico en una economía circular 50 es el primer marco político
+a escala de la UE que adopta un enfoque basado en el ciclo de vida específico de los
+materiales para integrar actividades circulares de diseño, uso, reutilización y reciclaje en las
+cadenas de valor de los plásticos. Por lo tanto, actúa como catalizador de la acción. La
+estrategia establece una visión clara con objetivos cuantificados a escala de la UE, con el
+objetivo, entre otras cosas, de que para el año 2030 todos los envases de plástico
+comercializados en el mercado de la UE sean reutilizables o reciclables.
+Asimismo, la estrategia identifica medidas clave para posibilitar la participación y la
+colaboración de múltiples partes interesadas a lo largo de la cadena de valor. Por ejemplo,
+la convocatoria de la Comisión para que las partes interesadas contrajeran compromisos
+voluntarios incitó al sector a promover el uso de plásticos reciclados en sus productos. No
+46 https://i4r - platform.eu/
+47 SWD (2018) 36 final.
+48 COM (2018) 337 final - 2018/0169 (COD).
+49 http://ec.europa.eu/environment/water/pdf/Guidelines_on_water_reuse.pdf
+50 COM (2018) 28 final.
+7
+
+--- Página 9 ---
+obstante, como se recoge en el documento adjunto en el que se evalúan estos compromisos 51 ,
+se necesita un mayor esfuerzo para alcanzar el objetivo establecido en la estrategia, es decir,
+garantizar que diez millones de toneladas de plástico reciclado se convierten en productos
+nuevos de aquí a 2025. Si bien los compromisos contraídos por los proveedores de plásticos
+reciclados, si se llevan a cabo según lo previsto, cumplirán este objetivo, la demanda de
+plásticos reciclados basada en los compromisos del sector habrá ascendido a
+aproximadamente 6,2 millones de toneladas al año para 2025. La recién creada Alianza
+Circular sobre los Plásticos 52 facilitará los próximos pasos de las empresas para subsanar esta
+disparidad y ayudar a alcanzar el objetivo mencionado en línea con el objetivo de la estrategia
+para mejorar la calidad y la economía del reciclaje de plásticos en Europa.
+Ya se habían alcanzado objetivos intermedios clave para conseguir un reciclaje de mayor
+calidad de los plásticos. Algunos de ellos son el nuevo objetivo de reciclaje para envases de
+plástico, fijado en el 55 % para 2030, las obligaciones de recogida selectiva y las mejoras
+introducidas en los sistemas de responsabilidad ampliada del productor. Se espera que estas
+últimas faciliten el diseño para mejorar la reciclabilidad a través de la «ecomodulación» de las
+tarifas de los productores. Las futuras mejoras se derivarán de la revisión de los requisitos
+esenciales para los envases planificada para finales de 2020.
+La estrategia crea sinergias entre los objetivos económicos y medioambientales. Los datos
+que sugieren los posibles riesgos para la salud y el medio ambiente de la contaminación por
+microplásticos justifican que se restrinja el uso de microplásticos añadidos deliberadamente y
+para recopilar información sobre la medición y el etiquetado en el caso de los microplásticos
+liberados accidentalmente. La Comisión también se comprometió a desarrollar un marco
+sobre la biodegradabilidad de los plásticos para garantizar que el desarrollo y el uso de dichos
+productos de plástico solo se fomenten cuando sea beneficioso para el medio ambiente y no
+interfieran con los sistemas de gestión de residuos ni comprometan la seguridad de los
+alimentos. Una de las medidas a este respecto consiste en facilitar información sobre su
+manipulación al final de su vida útil (por ejemplo, marcado de bolsas de plástico
+compostables en los hogares). En el informe sobre la economía circular de los plásticos 53 ,
+publicado recientemente, también se analizan otras sinergias políticas, concretamente en
+combinación con las necesidades de investigación.
+La estrategia promueve el cambio más allá de las fronteras de Europa . Basándose en
+medidas ejemplares, en particular sobre los plásticos de un solo uso, el liderazgo de la UE en
+foros bilaterales y multilaterales ha sido decisivo para mantener el impulso internacional en
+torno a la agenda del plástico, como demuestran iniciativas como la Plataforma Global de
+Plásticos del Programa de las Naciones Unidas para el Medio Ambiente y la inminente
+Asociación Internacional de Residuos Plásticos en el contexto del Convenio de Basilea. De
+forma paralela, la UE está ayudando a los países en vías de desarrollo en sus esfuerzos por
+hacer frente a la contaminación por plásticos.
+Las normas sobre los aparejos de pesca y artículos de plástico de un solo uso 54 , que recogen
+los diez artículos más encontrados en las playas de la UE, y sobre las instalaciones
+51 SWD (2019) 92.
+52 http://europa.eu/rapid/press-release_IP-18-6728_en.htm
+53 https://ec.europa.eu/info/publications/circular-economy-plastics-insights-research-and-innovation-inform-policy-and-
+funding-decisions_en
+54 COM (2018) 340 final - 2018/0172 (COD). Se alcanzó un acuerdo político preliminar el 19 de diciembre de 2018:
+http://europa.eu/rapid/press-release_IP-18-6867_es.htm
+8
+
+--- Página 10 ---
+portuarias receptoras , así como las propuestas de la Comisión sobre el control de la
+pesca 55 , sitúan a la UE a la cabeza de la lucha mundial cont ra los desechos marinos, una de las
+principales preocupaciones de los ciudadanos de la UE en lo que respecta a la contaminación
+por plásticos. Estas normas ofrecen a las empresas de la UE la posibilidad de innovar en sus
+productos, materiales, tecnologías y modelos empresariales teniendo en cuenta el
+comportamiento de los consumidores y las alternativas disponibles.
+Estos conjuntos de medidas personalizadas, que se encuentran en la etapa final del proceso
+legislativo, incluyen lo siguiente:
+ Prohibición de los productos de un solo uso hechos de plástico 56 y de plástico
+oxodegradable.
+ Medidas para reducir el consumo de recipientes para alimentos y vasos para bebidas
+hechos de plástico y marcado y etiquetado específicos de determinados productos 57 .
+ El objetivo de incorporar un 30 % de plástico reciclado en las botellas utilizadas para
+bebidas a partir de 2030 y un 25 % en las botellas de PET a partir de 2025, así como la
+recogida selectiva del 90 % de las botellas de plástico para 2029 y la introducción de
+requi sitos de diseño para unir los tapones a las botellas.
+ Sistemas de responsabilidad ampliada del productor que cubran el coste de limpiar los
+desechos, aplicados a productos como filtros de tabaco y aparejos de pesca.
+ Medidas destinadas a reducir los desech os plásticos de los buques, como la fijación de
+una tarifa plana para los residuos de los buques.
+ Mejora de las obligaciones de notificación para la pérdida de aparejos de pesca y de
+las obligaciones para el marcado y el control de los aparejos de pesca p ara la pesca
+recreativa.
+3 A CELERAR LA TRANSICIÓN
+3.1 Innovación e inversiones
+Para acelerar la transición a una economía circular, es necesario invertir 58 en innovación y
+prestar apoyo para adaptar la base industrial. A lo largo del período 2016 - 2020, la Comisión
+ha redoblado sus esfuerzos en ambos sentidos, destinando en total más de
+10 000 millones EUR de fondos públicos a la transición. Esta cantidad inc luye:
+ 1 400 millones EUR procedentes de Horizonte 2020 hasta 2018 (en ámbitos tales
+como industrias de procesos sostenibles, gestión de residuos y recursos, sistemas de
+fabricación de ciclo cerrado o la bioeconomía circular), de los cuales
+350 millones EUR se destinan a la circularidad de los plásticos. La Comisión ha
+publicado un inventario 59 de los proyectos pertinentes para la economía circular
+financiados en el marco de H2020 entre 2016 y 2018.
+ Al menos 7 100 millones EUR procedentes de la política de co hesión
+(1 800 millones EUR para la adopción de tecnologías ecoinnovadoras entre las pymes
+y 5 300 millones EUR para contribuir a la aplicación de la legislación de la UE en
+55 COM (2018) 368 final - 2018/0193 (COD).
+56 Cubiertos, platos, agitadores de bebidas, palitos para globos, pajitas, recipientes para alimentos y bebidas de plástico y
+vasos para bebidas hechos de poliestireno expandido, bastoncillos de algodón hechos de plástico.
+57 Artículos sanitarios, toallitas húmedas, vasos para bebidas y productos del tabaco con filtros.
+58 Según el informe «Achieving Growth Within» («Conseguir el crecimiento desde dentro») (SYSTEMIQ en colaboración
+con la Fundación Ellen MacArthur), se estima que el déficit de inversiones será de 320 000 millones EUR en 2025.
+59 https://ec.europa.eu/research/environment/index.cfm?pg=output&pubs=thematic
+9
+
+--- Página 11 ---
+materia de residuos); además, se dispone de una ayuda importante a través de la
+esp ecialización inteligente para la innovación y el desarrollo impulsados por el
+mercado.
+ 2 100 millones EUR a través de instrumentos de financiación como el Fondo Europeo
+para Inversiones Estratégicas e InnovFin.
+ Al menos 100 millones EUR invertidos a través de LIFE en más de ochenta proyectos
+que contribuyen a la economía circular.
+Para estimular aún más la inversión, la Plataforma de apoyo financiero para la economía
+circular ha elaborado unas recomendaciones 60 para mejorar la financiabilidad de los proyectos
+de economía circular, coordinar las actividades de financiación y compartir buenas
+prácticas 61 . La plataforma trabajará con el Banco Europeo de Inversiones prestando asistencia
+financiera y explotando las sinergias con el plan de acción sobre la financiación del
+crecimiento sostenible 62 .
+Además de financiar la transición, la Comisión también ha abordado los obstáculos
+normativos que pueden dificultar la innovación circular con dos acuerdos de innovación
+piloto puestos en marcha en 2016 63 . Basándose en la experiencia de estos dos acuerdos piloto,
+la Comisión está estudiando poner a prueba el enfoque en otros sectores.
+La circularidad debería seguir siendo un pilar de la política de cohesión a lo largo del período
+de programación 2021-2027. La propuesta de un nuevo Fondo Europeo de Desarrollo
+Regional y Fondo de Cohesión 64 de la Comisión sitúa a la economía circular como una
+prioridad en los esfuerzos de la UE por lograr una Europa más ecológica e inteligente y
+excluye las inversiones en vertederos e instalaciones para el tratamiento de desechos
+residuales, de acuerdo con la jerarquía de los residuos.
+3.2 Firme compromiso de las partes interesadas
+El compromiso de las partes interesadas es vital para la transición. El enfoque sistémico del
+plan de acción ha dado a las autoridades públicas, a los agentes económicos y a la sociedad
+civil un marco que reproducir para fomentar las asociaciones entre los distintos sectores y a lo
+largo de las cadenas de valor.
+Las acciones de la UE han suscitado debates nacionales sobre la economía circular y la
+mayoría de los Estados miembros han adoptado o están adoptando estrategias nacionales para
+la transición a una economía circular. Estos marcos suelen reproducirse a escala regional y
+local, acercando la economía circular a los ciudadanos y las empresas. La función de la
+Comisión a la hora de promover este enfoque sistémico e introducir la economía circular en
+las agendas europeas e internacionales también se reconoció en el Foro Econ ómico Mundial
+2019, donde la Comisión recibió el premio Circulars Award 65 en la categoría de sector
+público.
+60 https://ec.europa.eu/info/publications/accelerating-transition-circular-economy_en
+61 http://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&groupID=3517&Lang=ES
+62 COM (2018) 97 final.
+63 Los dos acuerdos incluyen la tecnología de membrana anaerobia para la reutilización de las aguas residuales en la
+agricultura y la reutilización de baterías de propulsión fuera de uso como almacenamiento estático de energía.
+https://ec.europa.eu/info/research-and-innovation/law-and-regulations/innovation-friendly-legislation/identifying-
+barriers_en.
+64 COM (2018)372 final - 2018/0197 (COD).
+65 https://thecirculars.org/our-finalists
+10
+
+--- Página 12 ---
+La Plataforma de agentes europeos de la economía circular reúne una gran cantidad de redes e
+iniciativas relacionadas con la economía circular. Act úa como multiplicador de las mejores
+prácticas de los sectores público y privado. En su primer año de actividad 66 , la plataforma
+recopiló y difundió más de trescientos ejemplos de mejores prácticas, estrategias e informes.
+Las partes interesadas están impulsando la transición en distintos sectores. Por ejemplo, el
+compromiso de la industria ha llevado a la adopción de las Directrices y el Protocolo de
+gestión de residuos de construcción y demolición en la UE 67 con el objetivo final de aumentar
+la confianza en el proceso de gestión de residuos y en la calidad de los materiales reciclados
+en el sector. Además, las empresas se han comprometido a mejorar la utilización de los
+recursos de los edificios y están probando Level(s) 68 , el primer marco de indicadores para
+medir la sostenibilidad en el sector, en más de 130 proyectos en toda Europa.
+Del mismo modo, los principales agentes del sector público y privado a lo largo de la cadena
+de valor alimentaria están trabajando juntos en la Plataforma de la UE sobre pérdidas y
+desperdicio de alimentos para acelerar el avance de la UE hacia el objetivo de desarrollo
+sostenible de reducir a la mitad el desperdicio de alimentos per cápita para 2030. La
+plataforma ha permitido a la Comisión progresar mucho en la aplicación de medidas de
+prevención del desperdicio de alimentos tales como directrices para facilitar la donación de
+alimentos, el desarrollo de una metodología de medición del desperdicio de alimentos y la
+mejora de las prácticas de indicación de la fecha de caducidad y consumo preferente.
+Las partes interesadas también están exportando la transición fuera de Europa. Las empresas
+europeas participan con regularidad en misiones conjuntas de economía circular 69 , reforzando
+los lazos entre las instituciones europeas, las ONG, las empresas y las partes interesadas
+pertinentes en terceros países.
+4 D ESAFÍOS ABIERTOS
+La economía circular es ahora una megatendencia mundial irreversible. Aun así, todavía hay
+que trabajar mucho para intensificar la acción a escala de la Unión Europea y a escala
+mundial, para cerrar completamente el círculo y para aprovechar la ventaja competitiva que
+aporta a las empresas de la UE. La interacción con las partes interesadas sugiere que se
+podrían investigar los ámbitos que el plan de acción no cubre para completar la agenda
+circular.
+Si la UE desea conservar su liderazgo en el diseño y la producción de productos y servicios
+circulares y en la capacitación de los consumidores para adoptar estilos de vida más
+sostenibles, se necesitarán más medidas. Tal como se sugiere en el documento de reflexión de
+la UE «Hacia una Europa sostenible de aquí a 2030» 70 , debe hacerse de la economía circular
+una de las columnas vertebrales de la estrategia industrial de la UE introduciendo la
+circularidad en nuevos ámbitos y sectores, convertir en norma la evaluación del ciclo de vida
+de los productos y ampliar tanto cuanto sea posible el marco de diseño ecológico. Este
+trabajo, que comenzó con las sustancias químicas, el medio ambiente no tóxico, el etiquetado
+ecológico y las ecoinnovaciones, las materias primas fundamentales y los fertilizantes, deberá
+acelerarse si la UE quiere obtener todo el beneficio de la transición a una economía circular.
+66 https://circulareconomy.europa.eu/platform/sites/default/files/ecesp_annual_report_2018.pdf
+67 https://ec.europa.eu/growth/content/eu-construction-and-demolition-waste-protocol-0_es
+68 http://ec.europa.eu/environment/eussd/buildings.htm
+69 Misiones de economía circular en Chile y China (2016), Sudáfrica y Colombia (2017), Japón e Indonesia y la India (2018).
+70 COM (2019) 22.
+11
+
+--- Página 13 ---
+Al mismo tiempo, es preciso dar a los consumidores los medios para poder elegir con
+conocimiento de causa y que el sector público intensifique sus esfuerzos a través de una
+contratación pública sostenible.
+Con el apoyo de la Comisión, los Estados miembros —especialmente en regiones que corren
+el riesgo de no cumplir los objetivos de reciclaje fijados para 2020 o que se enfrentan a
+desafíos específicos 71 — y las empresas tendrán que redoblar sus esfuerzos para aplicar la
+legislación revisada en materia de residuos y desarrollar mercados para las materias primas
+secundarias. El objetivo es garantizar que los materiales que vuelven a la economía sean
+rentables y seguros para los ciudadanos y el medio ambiente.
+La UE también debe seguir apoyando la investigación, la innovación y la inversión en los
+sectores prioritarios señalados 72 en el plan de acción. Basándose en el ejemplo de la Estrategia
+europea para el plástico en una economía circular, muchos otros sectores con un elevado
+impacto ambiental y potencial de circularidad como las tecnologías de la información, los
+equipos electrónicos, la movilidad, el entorno construido, la minería, el mobiliario, los
+alimentos y bebidas o los textiles podrían beneficiarse de un enfoque holístico similar del tal
+forma que se conviertan en circulares. En ninguno de ellos se ha aprovechado todavía el pleno
+potencial del mercado único de la UE 73 .
+La aplicación de la estrategia de bioeconomía recientemente actualizada 74 y el marco de
+energías renovables revisado 75 ayudará a avanzar hacia el uso de los recursos biológicos de
+manera circular, respetando los límites ecológicos y contribuyendo a detener la pérdida de
+diversidad biológica.
+Como se indica en la visión estratégica europea a largo plazo de una economía próspera,
+moderna, competitiva y climáticamente neutra para 2050 76 , la transición hacia una economía
+circular y una economía climáticamente neutra debería hacerse conjuntamente, sobre la base
+de una firme ambición industrial y aprovechando la ventaja de la que las empresas de la UE
+disfrutan por haber sido pioneras en estos ámbitos 77 . Los nuevos modelos empresariales
+circulares, el reciclaje, la eficiencia energética y de los materiales y los nuevos patrones de
+consumo tienen un potencial importante para reducir las emisiones mundiales de gases de
+efecto invernadero. Fomentar este enfoque conjunto en las empresas —incluidas las pymes—
+y en las comunidades puede reducir los costes de producción y al mismo tiempo apoyar
+nuevas formas de interacción empresarial, como la simbiosis industrial. Además, la
+circularidad y la sostenibilidad en la obtención, el uso y el tratamiento de las materias primas
+(en particular las fundamentales) serán esenciales para garantizar la seguridad necesaria de los
+suministros, la igualdad de condiciones con los competidores del sector y el liderazgo
+mundial de la UE en la producción de tecnologías facilitadoras y de baja emisión de carbono.
+71 Para acelerar el desarrollo de la economía circular, también debe prestarse especial atención a aquellas regiones con
+características específicas que dan lugar a importantes desafíos respecto al medio ambiente y los recursos, por ejemplo, en el
+ámbito de la gestión de residuos, como las islas u otras regiones ultraperiféricas de la UE.
+72 Plásticos, residuos de alimentos, materias primas fundamentales, residuos de construcción y demolición y productos de
+biomasa y bioproductos.
+73 COM (2018) 772 final.
+74 COM (2018) 673 final.
+75 DO L 328 de 21.12.2018, p. 82. Directiva 2018/2001 relativa al fomento del uso de energía procedente de fuentes
+renovables.
+76 COM (2018) 773 final.
+77 COM (2017) 479 final, «Invertir en una industria inteligente, innovadora y sostenible. Estrategia renovada de política
+industrial de la UE».
+12
+
+--- Página 14 ---
+La inteligencia artificial y la digitalización 78 tienen el potencial de optimizar el uso de la
+energía y los recursos y de facilitar información que respalde los modelos empresariales
+circulares y las opciones de consumo responsables. No obstante, la economía digital circular
+debe tener un impacto positivo neto en los recursos y abordar los desafíos importantes, entre
+otros, el riesgo de fomentar patrones de consumo insostenibles, acortar la durabilidad de los
+productos inteligentes y comprometer la seguridad de los datos empresariales sensibles.
+Por encima de todo, la transición a la economía circular refuerza la cohesión social y
+territorial, favorece una distribución equilibrada del empleo, cumpliendo las normas de salud
+y seguridad, y permite generar un crecimiento equitativo y sostenible.
+5 C ONCLUSIONES
+La aplicación del Plan de acción para la economía circular ha acelerado la transición hacia
+una economía circular en Europa. Al mismo tiempo, una visión compartida más sólida de la
+economía circular no puede sino impulsar los esfuerzos actuales por modernizar la base
+industrial de la UE a fin de consolidar su ventaja competitiva mundial y conservar y restaurar
+el capital natural de la UE.
+Estos elementos, junto con las actuaciones del Plan de acción saldadas con éxito que se
+señalan en el presente informe, pueden servir de ayuda y guía para el trabajo futuro de las
+instituciones europeas, los Estados miembros, las empresas y los interlocutores sociales.
+78 COM (2015) 192 final, «Una Estrategia para el Mercado Único Digital de Europa».
+13
