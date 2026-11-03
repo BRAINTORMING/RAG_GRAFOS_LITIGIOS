@@ -1,0 +1,3475 @@
+--- Página 1 ---
+[Sin texto reconocible]
+
+--- Página 2 ---
+[Sin texto reconocible]
+
+--- Página 3 ---
+en marcha
+Manual
+Estadoverude
+MINISTERIO DEL MEDIO AMBIENTE
+
+--- Página 4 ---
+La dirección y contenido de la guía versión 2.3 han estado a cargo de
+Carlos Rungruangsakorn , Jefe del Departamento
+de Gestión Ambiental Local del Ministerio del Medio Ambiente, y
+María José Esquivel , profesional del Departamento de Gestión Ambiental Local.
+El Manual contó con la colaboración de:
+Pablo Fernandois, profesional del Departamento de Economía Circular.
+Jaime Ugalde, profesional de la División de Educación Ambiental y Participación Ciudadana.
+Las profesionales: Sandra Briceño, Belén Sepúlveda, Antonia Biggs y Blanca Torres.
+
+--- Página 5 ---
+ÍNDICE
+01 ANTECEDENTES 6
+02 PROCEDIMIENTO 8
+03 ACCIONES PREVIAS 10
+3.1. Suscripción del Convenio 10
+3.2. Contraparte Oficial y Comunicado 10
+04 COMITÉ ESTADO VERDE 11
+4.1. Introducción 11
+4.2. Constitución y Funcionamiento 12
+4.3. Convocatoria 13
+4.4. Comunicación 13
+05 ETAPA 1: PRE-ACREDITACIÓN 14
+5.1. Diagnóstico 14
+5.2. Diseño Plan Anual 27
+5.3. Expediente Final para la Pre-Acreditación 31
+06 ETAPA 2: ACREDITACIÓN 33
+6.1. Ejecución del Plan 33
+6.2. Comité Estado Verde 33
+6.3. Difusión Estado Verde 33
+6.4. Expediente Final para la Acreditación 34
+6.5. Ciclo de Continuidad 35
+6.6. Niveles de Acreditación 36
+07 ANEXOS 38
+7.1. Anexo 1 39
+7.2. Anexo 2 48
+7.3. Anexo 3 51
+7.4. Anexo 4 57
+7.5. Anexo 5 99
+7.6. Anexo 6 99
+7.7. Anexo 7 102
+7.8. Anexo 8 107
+
+--- Página 6 ---
+6 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+1. ANTECEDENTES
+El programa Estado Verde tiene como propósito fomentar una cultura
+ambiental en los funcionarios del aparato público de nuestro país,
+invitándolos a estar a la altura de grandes desafíos ambientales, en un
+nivel global, nacional, regional y local. Para ello, debemos sumarnos a los
+cambios de paradigmas y conductas tendientes a formar una sociedad más
+sustentable, desafío en el que el sector público tiene un rol fundamental.
+El programa Estado Verde tiene como fin último, ser un instrumento que
+permita a las instituciones realizar su aporte en disminución de los impactos
+ambientales que producimos desde las oficinas públicas, generando una
+conciencia ambiental en forma colaborativa, constructiva y proactiva para
+que la generaciones presentes y venideras disfruten de nuestro patrimonio
+ambiental y de un mejor medio ambiente.
+Esperamos convertirnos en el primer Estado, en toda Latinoamérica, que
+integra, sobre la base de sus funcionarios y funcionarias, una gestión
+cultural y sustentable en toda su administración pública a lo largo y ancho
+de nuestro país.
+¿Qué es el programa de Estado Verde?
+Es un programa cuyo objetivo central es generar una cultura ambiental
+que permita que las instituciones públicas incorporen políticas, principios
+y prácticas amigables con el medio ambiente, y la conservación de los
+recursos, tanto en la administración de las dependencias físicas como en la
+gestión de los procesos administrativos.
+Este programa se plantea como un instrumento voluntario de gestión, que
+busca aportar al cumplimiento a la Sustentabilidad en el Sector Público,
+permitiendo, además, contribuir al cumplimiento de objetivos y desafíos que
+tiene el país -nacionales e internacionales- en materia de sustentabilidad,
+para desarrollar acciones que aporten, particularmente, al cumplimiento de
+los Objetivos de Desarrollo Sostenible de la Agenda 2030.
+¿Cuáles son sus objetivos?
+- Empoderar a los funcionarios y funcionarias, y a los colaboradores y
+colaboradoras, para que incorporen la variable ambiental en sus hábitos
+y conductas laborales.
+- Disminuir los impactos ambientales generados por los organismos de la
+administración del Estado en su operación diaria.
+
+--- Página 7 ---
+01 - ANTECEDENTES 7
+- Generar un plan de educación y capacitación permanente para el personal
+en materias relativas a la temática ambiental, en general.
+- Contribuir, progresivamente, a la gestión sustentable de los organismos
+estatales.
+¿Cómo se implementa?
+A través de una estrategia de transformación, que desarrolla la misma
+institución adscrita al proceso y que considera el factor ambiental en el
+uso de materiales, en la adquisición de productos y servicios, en el manejo
+de residuos, en el uso racional del agua y energía, en la capacitación y
+sensibilización permanente en trabajadores y trabajadoras, entre otros
+aspectos; con todas estas acciones se genera una disminución del impacto
+ambiental institucional.
+
+--- Página 8 ---
+8 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+2. PROCEDIMIENTO
+El programa Estado Verde se inicia mediante la firma de un convenio entre
+la Subsecretaría del Medio Ambiente y la institución pública respectiva. Una
+vez aprobado el convenio -mediante resolución exenta- se inicia el proceso
+de acreditación.
+El siguiente flujograma muestra una vista general de este proceso:
+Comunicado a todo
+Conformación del
+el personal (1) Comunicado a todo
+Convenio Comité
+Nombramiento de el personal (3)
+Estado Verde
+contraparte
+Diseño
+Comunicado a todo Desarrollo del Nivel
+del Plan e Informe
+el personal (2) diagnóstico Pre-Acreditado
+ETAPA 1
+Auditoría Auditoría
+In situ Documental
+MMA MMA
+Revisión de hitos Sello Verde
+Ejecución Expediente
+(Comité Según acreditación
+del Plan Final
+Estado Verde) lograda:
+- Básica
+- Intermedia
+- Excelencia
+- Excelencia
+Auditoría Auditoría sobresaliente
+In situ Documental
+MMA MMA
+
+--- Página 9 ---
+02 - PROCEDIMIENTO 9
+Tiene una duración aproximada de 6 meses y consiste, principalmente,
+en: designar a la contraparte que liderará el proceso; constituir el
+Comité Estado Verde; elaborar el diagnóstico; diseñar el plan anual
+junto con sus metas e indicadores de cumplimiento; y desarrollar el
+PRIMERA expediente correspondiente.
+ETAPA
+La auditoría documental, por su parte, consiste en la revisión
+exhaustiva del informe que presenta la institución. Este es evaluado
+por los auditores teniendo como referencia los requisitos establecidos
+en el Manual Estado Verde. Según los resultados obtenidos, la
+institución podrá obtener la pre-acreditación de Estado Verde.
+Tiene una duración de 12 meses, aproximadamente, período donde
+se inicia la ejecución del Plan Anual y los compromisos planteados en
+la primera etapa. Durante esta fase, se realizan 2 nuevas auditorías
+SEGUNDA
+(presencial y documental). Finalizada esta etapa, se debe elaborar el
+ETAPA Informe Final y, según los resultados obtenidos, la institución podrá
+obtener su acreditación en el Nivel Básico, Intermedio o Excelencia,
+según corresponda. La acreditación tiene una vigencia de un año.
+Con el propósito de mantener actualizada a las instituciones participantes
+respecto a la ejecución y los requisitos de las distintas etapas del programa,
+el Departamento de Gestión Ambiental Local del Ministerio del Medio
+Ambiente, generará directivas anualmente de actualización de contenido
+para este manual y los documentos anexos del programa.
+A continuación, se describirán las distintas acciones que se deben realizar
+en cada etapa. Además de explicar estas acciones se detallarán los medios
+de prueba que se deben recopilar en cada uno de los procesos.
+
+--- Página 10 ---
+10 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+3. ACCIONES PREVIAS
+3.1 Suscripción del Convenio
+Medios de prueba
+Para iniciar la ejecución del programa Estado Verde, el Jefe o la Jefa de
+cada Servicio deberá firmar un convenio con la autoridad máxima de la
+Subsecretaría del Medio Ambiente. En este documento se establecen las
+condiciones que debe cumplir la institución para lograr la acreditación. En
+esta etapa, es importante dejar estipulado qué dependencias o instalaciones
+se incluyen en este compromiso suscrito: pudiendo ser a toda la organización,
+o bien solo la casa matriz, o las oficinas/sucursales regionales, u otras
+dependencias de la organización.
+• Convenio Firmado.
+La fecha de la resolución exenta de la Subsecretaría del Medio Ambiente,
+que aprueba el convenio, se considerará para todos los efectos, como el día
+de inicio del proceso de acreditación.
+3.2 Contraparte Oficial y Comunicado Medios de prueba
+Se deberá nombrar a un encargado o una encargada oficial para que coordine
+el proceso, quien será, además, el Coordinador o la Coordinadora Técnico(a)
+del Comité Estado Verde. Cabe destacar que, durante todo el proceso, podrá
+contar con la asistencia técnica del equipo de auditoría del área de Gestión
+Ambiental Local del Ministerio del Medio Ambiente.
+Además, se deberá comunicar en forma explícita y clara a los funcionarios y
+• Convenio Firmado.
+funcionarias -mediante un correo electrónico, circular o memo interno- que
+• Instructivo o resolución
+la institución ha sumido este nuevo desafío y que requiere el compromiso y la de nombramiento del
+participación de todo el personal. Asimismo, se debe informar el nombre de coordinador(a) del proceso de
+quien coordinará el programa y solicitar, expresamente, que se le entreguen certificación.
+todas las facilidades para su implementación, invitándoles a participar en • Correo electrónico, circular y/o
+esta iniciativa. memo de distribución interna
+firmado por el Jefe del Servicio.
+
+--- Página 11 ---
+04 - COMITÉ ESTADO VERDE 11
+4. COMITÉ ESTADO VERDE
+4.1 Introducción
+La gestión ambiental institucional es un proceso transversal, que involucra a
+toda la estructura jerárquica de una institución y, por ende, a todos quienes
+la componen.
+En este contexto, el Comité Estado Verde (CEV) constituye un instrumento
+participativo esencial, cuyos principios rectores fundamentales deberán ser:
+la participación colaborativa; la responsabilidad y convicción; la prevención;
+la coordinación; el realismo; y el gradualismo.
+Se entenderá por participación-colaborativa a una instancia en que los
+funcionarios y las funcionarias, así como las jefaturas, puedan expresar sus
+opiniones e involucrarse con mayor profundidad en el proceso de cambio
+e integración de los factores ambientales que afectarán las tareas diarias
+de la institución. Este principio busca promover que las distintas divisiones,
+departamentos y oficinas generen asociatividad y se involucren en la gestión
+ambiental de la institución.
+Por su parte, el principio de la responsabilidad y convicción no recae
+exclusivamente en los coordinadores del programa, este se extiende a
+todo el personal y autoridades, quienes deben participar activamente para
+modificar sus hábitos y conductas laborales. A todos les toca asumir un rol
+en el proceso de instalación del “Estado Verde”.
+El tercer principio tiene que ver con la prevención , cuyo propósito es evitar
+la generación de problemas o deterioros ambientales por medio de diversas
+acciones anticipadas.
+El cuarto principio consiste en la coordinación , es decir, la naturaleza
+intersectorial e interdisciplinaria de la gestión ambiental. Se debe generar
+transversalidad y sinergia entre las divisiones, departamentos y oficinas
+involucrados, para desarrollar “asociaciones” múltiples, que potencien la
+gestión ambiental institucional.
+El quinto principio es el realismo , siendo fundamental en el desarrollo de
+la planificación y el éxito de la gestión de un “Estado Verde”, por cuanto las
+metas deben ser alcanzables, es decir, se deben tener presente los recursos,
+la capacidad y la factibilidad de los logros. El sexto principio y último, muy
+ligado al anterior, es el gradualismo , que contempla la necesidad de que,
+progresiva y permanentemente, se vaya estructurando, construyendo o
+reformando la gestión ambiental institucional.
+
+--- Página 12 ---
+12 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+4.2 Constitución y Funcionamiento
+El Comité Estado Verde deberá estar conformado por representantes de
+cada una de las divisiones o unidades de trabajo, siendo obligatoria la
+representación de la División de Administración y Finanzas o su equivalente,
+y deberá constituirse mediante un acto de carácter formal (Resolución
+interna, por ejemplo).
+El número total de integrantes del CEV estará dado por el total de divisiones
+y/o departamentos existentes . Asimismo, deberán formar por parte de
+este, las dependencias que, por distintas razones, no tengan el carácter de
+división o departamento, para evitar su exclusión.
+Los miembros del CEV deberán ser elegidos y elegidas por sus pares a través
+de los mecanismos que la institución estime pertinente (votación, cargo
+voluntario u otros sistemas).
+Los integrantes del CEV tendrán derecho a voz y voto . Asimismo, tendrán
+el deber de comunicar a toda la unidad administrativa qué representan
+los acuerdos, informes, avances y tareas. A su vez, deberán supervisar el
+cumplimiento de las metas ambientales acordadas en el CEV para cada área.
+Será responsabilidad de la institución conformar, convocar y dar continuidad
+de funcionamiento al CEV.
+1) Presidencia Ejecutiva
+Se sugiere que la presidencia del CEV recaiga en la Jefatura de Administración
+y Finanzas del servicio, o el cargo equivalente.
+En lo que respecta a sus funciones, estas son: convocar a reunión, aprobar la
+tabla, declarar abierta la sesión, permitir a los participantes presentar sus
+opiniones, dirigir las votaciones, teniendo el voto de desempate; informar
+sobre el progreso de las metas ambientales alcanzadas y reorientar, por
+mandato del comité, las acciones para alcanzar las metas institucionales.
+2) Secretaría
+En general, quien ejerza en la secretaría actuará de ministro o ministra de fe
+de los actos del CEV, llevando los registros de lo decidido y, además, siendo
+la persona responsable de la preparación de las reuniones, sus actas y la
+comunicación interna.
+3) Coordinación Técnica
+Este cargo corresponde al especialista que deberá ir comunicando el avance
+de las metas ambientales y el resultado de los indicadores de las acciones
+ambientales de corto plazo, tanto en un nivel global como en uno relativo
+a la división u oficina, según sea el caso. Trabajará cooperativamente con
+todos los miembros del comité para asegurar que estos ayuden a recabar los
+
+--- Página 13 ---
+04 - COMITÉ ESTADO VERDE 13
+datos para alimentar los indicadores. Y será la contraparte oficial y canal de
+comunicación con el MMA.
+En aspectos generales, el CEV tendrá como principales funciones: supervisar
+el avance de las metas ambientales; apoyar las líneas de trabajo priorizadas
+y cooperar para que el proceso de implementación del Programa Estado
+Verde se instale exitosamente en las respectivas divisiones u oficinas.
+4.3 Convocatoria
+Medios de prueba
+El comité deberá juntarse, al menos, cada dos meses. Para esto se notificará
+• Acta de conformación del CEV. mediante correo electrónico a los miembros del CEV, con al menos una
+semana de antelación, a fin de que estos puedan prepararse para acudir a
+la misma. Si en el comité se debatiera un tema particularmente complejo,
+es conveniente enviar previamente, junto a la convocatoria, un resumen
+de este, a fin de que, al momento de su discusión, el comité no dilate
+• Lista de Integrantes. innecesariamente la reunión.
+La notificación debe indicar: su calidad –reunión ordinaria o extraordinaria-;
+su propósito; la fecha; la hora; el lugar; y la tabla a tratar (como se mencionó
+• Resolución de aprobación. anteriormente, el/la secretario(a) tiene a cargo esta responsabilidad).
+4.4 Comunicación
+La autoridad deberá comunicar en forma explícita y taxativa a los
+• Circular interna comunicando a
+los integrantes del CEV. funcionarios y funcionarias, mediante un correo electrónico, circular y/o
+memo, la constitución del Comité Estado Verde, sus funciones y cargo. Es
+importante mencionar que se puede aprovechar esta instancia para reiterar
+el nuevo desafío a todo el personal, invitándolos a participar de la iniciativa.
+• Acta de las reuniones.
+
+--- Página 14 ---
+14 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+5. ETAPA 1:
+PRE-ACREDITACIÓN
+5.1 Diagnóstico
+Medios de prueba
+El diagnóstico tiene como objetivo que la institución pueda determinar y
+reflexionar sobre los impactos ambientales que se generan a partir de los • Declaración de existencia de PI.
+consumos y las conductas que están implícitas en las operaciones diarias
+• En caso de existencia:
+de los funcionarios y las funcionarias en el cumplimiento de su misión. Su
+1. Informe que indique y
+elaboración nos permite generar una línea base que será el insumo para describa vigencia, difusión e
+los desafíos ambientales que el Comité Estado Verde determinará en forma implementación.
+gradual y realista para la etapa de acreditación.
+A continuación, se presenta la pauta de monitoreo para determinar el estado
+actual, en materia de gestión ambiental interna, de la institución. Esta debe
+2. Documento con resumen
+ser aplicada por el comité, en las dependencias institucionales indicadas en descriptivo.
+el convenio.
+a) Política Interna de Autogestión Ambiental
+Declaración de Existencia. Sí No Fecha
+3. Copia de política formalizada.
+Existe una política interna de
+autogestión ambiental.
+Si la respuesta es sí, responder las siguientes preguntas: 4. Medios de prueba de difusión
+e implementación (fotografías,
+a) ¿Cuál es su vigencia? informativos, convocatorias,
+etc.).
+b) ¿Cómo fue su difusión interna?
+c) ¿Cómo se desarrolló su implementación?
+d) Efectuar un resumen descriptivo de la política.
+
+--- Página 15 ---
+05 - ETAPA 1: PRE-ACREDITACIÓN 15
+b) Uso del Papel
+i. Identificar cuál es la unidad responsable de la compra de papel.
+ii. Descripción cuantitativa de uso de papel en la institución.
+Gasto papel por
+funcionario anual
+Total de resmas de papel Gasto Total Número de
+Y
+adquiridas por año Anual funcionarios
+Cantidad de resmas
+por funcionario al año
+iii. Descripción cuantitativa del porcentaje de uso de papel reciclado en la
+institución.
+Resmas de papel reciclado Total de resmas % de papel
+100
+adquiridas por año adquiridas reciclado
+iv. Descripción cuantitativa del porcentaje de publicaciones en papel
+reciclado en la institución.
+Cantidad de publicaciones Total de % de publicaciones
+100
+en papel reciclado por año publicaciones en papel reciclado
+por año
+v. Descripción cuantitativa del porcentaje de publicaciones digitales en la
+institución.
+Cantidad de publicaciones Total de % de publicaciones
+digitales por año 100
+publicaciones digitales
+por año
+vi. Cantidad de papel reciclado al año por personal de la institución.
+Total kg de papel reciclado Número de Cantidad de papel reciclado por
+por año funcionarios/as funcionario/a al año
+vii. Cantidad de impresiones (incluye fotocopias) al año por personal de la
+institución.
+Total de impresiones Número de Cantidad de impresiones por
+por año funcionarios/as funcionario/a al año
+
+--- Página 16 ---
+16 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+viii. Descripción actual del proceso de impresión y fotocopiado en las
+Medios de prueba
+oficinas, prestando atención a las siguientes variables:
+• Impresión en color - indicar calidad (ver en el software)
+• Declaración de:
+• Impresión negro - indicar calidad (ver en el software)
+1. Responsable de
+compra.
+• Impresión una cara
+2. Gasto de papel anual
+• Impresión ambas caras por funcionario(a) y N°
+de resmas.
+• Reutilización de hojas
+3. % de uso de papel
+• Impresión con letra en gris reciclado.
+4. % de publicaciones
+ix. Indicar otros aspectos relevantes en la utilización del papel; por ejemplo, en papel reciclado.
+elaborar cuadernillos de apuntes con papel usado, si existe un protocolo 5. % de publicaciones
+digitales.
+de impresión en la institución, etc.
+6. Cantidad de papel reciclado por
+c) Gestión de Residuos funcionario(a) al año.
+7. Cantidad de impresiones/
+i. Identificar si existen contenedores para reciclaje. En caso de haberlos, fotocopias por funcionario(a) al año.
+indicar la ubicación y tipo (adjuntar fotografía). • Informe del proceso de
+impresión y fotocopiado.
+• Indicar otros aspectos en la
+ii. Cuantificar en Kg. la cantidad de mensual de reciclaje según tipo de
+utilización del papel.
+material (se exceptúa el papel).
+• Otros documentos de respaldo.
+iii. Cuantificar la generación individual al mes de basura, expresándola en
+Kg/funcionario(a).
+Medios de prueba
+iv. Cuantificar la cantidad de toners o cartuchos de tinta utilizados
+mensualmente. • Declaración de:
+1. Ubicación y tipo de
+v. Describir el proceso de gestión de materiales reciclados (responsable contenedores para
+del retiro, convenios con instituciones, etc.). reciclaje.
+2. Cantidad de residuos
+vi. Describir el procedimiento y los materiales utilizados por la empresa reciclados al mes según
+prestadora de servicios de aseo en la oficina, con énfasis en el análisis de material.
+criterios de sustentabilidad en el uso, elección de materiales o químicos, 3. Cantidad de basura total
+disposición de envases, entre otros. al mes Kg/funcionario(a).
+· Cantidad de toners
+vii. Indicar la existencia o ausencia de un punto de acopio para la segregación utilizados al mes.
+de residuos peligrosos dentro de la institución. En caso de existir un · Informe proceso de
+punto, describir su manejo. gestión de materiales
+reciclados.
+· Informe procedimiento y
+materiales de aseo.
+· Informe punto limpio y
+centro de acopio.
+· Otros documentos de
+respaldo.
+
+--- Página 17 ---
+05 - ETAPA 1: PRE-ACREDITACIÓN 17
+Medios de prueba d) Gestión Hídrica
+i. Identificar la cantidad de agua utilizada por funcionario(a) al año:
+• Declaración de:
+1. Cantidad de agua Total de litros de agua Número de Cantidad de lt de agua consumidos
+utilizada consumo anual funcionarios/as por funcionario/a al año
+Lt / funcionario(a) al
+año. ii. Chequear y catastrar el estado de los artefactos hídricos, según los
+2. Informe artefactos siguientes parámetros por piso:
+(consumo hídrico).
+Artefacto Cantidad Bueno Malo Cantidad que
+3. Composición de
+presenta tecnología
+materiales de aseo.
+de ahorro
+Baño (wc)
+4. Medios de
+verificación y otros Lavamanos
+documentos de
+Lavaplatos
+respaldo.
+Otro (riego de
+jardines, duchas)
+iii. Identificar la composición química de los materiales de aseo utilizados,
+detallando si los productos utilizados contienen ingredientes con
+base de cloro, ácidos inorgánicos, entre otros; o bien, si se utilizan
+ambientadores químicos y aerosoles, entendiendo que estos tienen un
+impacto en el medio ambiente.
+
+--- Página 18 ---
+18 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+e) Gestión Energética
+i. Identificar el consumo de electricidad por funcionario(a) al año:
+Total de kw de electricidad Número de Cantidad de kw consumido por
+consumo anual funcionarios/as funcionario/as al año
+ii. Describir el uso del ascensor, estableciendo: número total de viajes,
+mediante un muestreo de destino y frecuencia de utilización. Identificar
+si ascensores tienen sistema de medición de consumo para ver cuánto
+contribuye al consumo total de energía eléctrica.
+Planilla de medición de frecuencia de utilización de ascensores:
+Día: Hora:
+Piso Frecuencia Total
+2
+3
+4
+5
+6
+7
+8
+etc.
+
+--- Página 19 ---
+05 - ETAPA 1: PRE-ACREDITACIÓN 19
+También es posible recopilar la información mediante una encuesta a
+funcionarios(as) y colaboradores, según el siguiente ejemplo:
+Encuesta uso de ascensores
+Estimad@ Funcionario@: El/la institución se encuentra implementado el programa Estado
+Verde, que busca que tanto en nuestras instalaciones físicas como en los procesos administrativos que
+desarrollamos, se reflejen políticas y principios de cuidado ambiental y conservación de recursos. El
+programa será implementado en las oficinas ubicadas en dirección , y durante la primera etapa
+se realizará un diagnóstico acerca de la gestión y políticas ambientales internas en los tópicos de uso
+de papel, residuos, agua, energía, transporte, compras sustentables, Huella-Chile y educación ambiental,
+principalmente. Una vez realizado el diagnóstico se diseñará un plan de gestión ambiental, con medidas
+y metas que tendrán como desafío disminuir el impacto ambiental y la huella de carbono de nuestra
+institución:
+Por medio de la aplicación de esta encuesta, podremos conocer el uso que dan los(as) funcionarios(as) a
+los ascensores, como parte de diagnóstico de cultura ambiental y de uso de energía. Muchas gracias por
+tus respuestas!
+Uso de ascensor No uso de ascensor
+N° Pregunta Cantidad de No, uso No, trabajo en
+Si
+pisos escalera el primer piso
+¿Usas ascensor cuándo
+1
+llegas al trabajo?
+Frecuencia
+(cantidad de
+Durante la jornada laboral,
+2 veces al día)
+usa ascensor?
+Durante la hora de
+3
+almuerzo, usa ascensor?
+Usa ascensor cuando se
+4
+retira del trabajo?
+
+--- Página 20 ---
+20 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+iii. Elaborar un catastro de equipos computacionales y artefactos eléctricos
+presentes en las distintas oficinas (calefactores, hervidores, luminarias y
+lámparas, ventiladores y otros).
+Respecto a la clasificación de los equipos o artefactos, se deberá considerar
+el tipo y consumo de estos, para lo cual se adjunta como referencia la
+siguiente tabla. Cabe mencionar que el consumo de los aparatos en estado
+“Stand by” también llamado “consumo vampiro”, representa entre un 5% y
+un 10% del consumo total en electricidad dentro de un hogar (Ministerio de
+Energía, 2018).
+Equipo / Artefacto Encendido en Potencia Stand by (W/H):
+Consumo
+(W/H):
+Ampolleta Eficiente 11 11 0
+Ampolleta Eficiente 20 20 0
+Ampolleta 100 0
+incandescente 100W
+Ampolleta 60 0
+incandescente 60W
+Tubo Fluorescente 40 0
+Ampolleta Led 7 0
+Ventilador 90 5
+Estufa Eléctrica 1500 10
+Televisor 100 15
+Computador 100 15
+(Pantalla + Torre)
+Impresora 500 8
+Scanner 300 3
+Pantalla Computador 60 10
+Hervidor Eléctrico 1800 5
+Horno Eléctrico 1500 10
+Horno Microondas 2000 10
+Refrigerador 600 -
+Teléfono Inalámbrico 20 5
+Respecto a la clasificación de los equipos o artefactos, se deberá considerar
+el tipo y consumo de estos, para lo cual se adjunta como referencia la
+siguiente tabla. Cabe mencionar que el consumo de los aparatos en estado
+“Stand by” también llamado “consumo vampiro”, representa entre un 5% y
+un 10% del consumo total en electricidad dentro de un hogar (Ministerio de
+Energía, 2018).
+
+--- Página 21 ---
+05 - ETAPA 1: PRE-ACREDITACIÓN 21
+iv. Levantar un informe de tiempo (horas-minutos) sobre el uso de
+computadores, luces, aire acondicionado, por piso y en ausencia de
+personal, en horario de colación y fin de la jornada laboral, para esto
+orientarse según la siguiente tabla (observar por dos semanas en forma
+intercalada):
+Tabla de observación
+A. Luces encendidas en oficina sin personal
+Semana 1
+Hora Lu Ma Mi Ju Vi Observaciones Total de oficinas existentes
+8:00-9:30
+13:00-14:30
+17:00-18:30
+Semana 2
+Hora Lu Ma Mi Ju Vi Observaciones Total de oficinas existentes
+8:00-9:30
+13:00-14:30
+17:00-18:30
+B. PC encendidos: Pantalla (personal ausente)
+Semana 1
+Hora Lu Ma Mi Ju Vi Observaciones Total de pantallas
+8:00-9:30
+13:00-14:30
+17:00-18:30
+Semana 2
+Hora Lu Ma Mi Ju Vi Observaciones Total de pantallas
+8:00-9:30
+13:00-14:30
+17:00-18:30
+C. PC encendidos: CPU (personal ausente)
+Semana 1
+Hora Lu Ma Mi Ju Vi Observaciones Total de CPU
+8:00-9:30
+13:00-14:30
+17:00-18:30
+Semana 2
+Hora Lu Ma Mi Ju Vi Observaciones Total de CPU
+8:00-9:30
+13:00-14:30
+17:00-18:30
+
+--- Página 22 ---
+22 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+D. Aires acondicionados encendidos (personal ausente)
+Semana 1
+Hora Lu Ma Mi Ju Vi Observaciones Total de aires acondicionados
+8:00-9:30
+13:00-14:30
+17:00-18:30
+Semana 2
+Hora Lu Ma Mi Ju Vi Observaciones Total de aires acondicionados
+8:00-9:30
+13:00-14:30
+17:00-18:30
+Computadores
+Número de computadores encendidos Número de Porcentaje computadores
+sin funcionarios/as por piso computadores por piso encendidos sin utilizar por piso
+Luces
+Cuántas luces encendidas sin Número de luces Porcentaje luces encendidas
+funcionarios/as por piso por piso sin utilizar por piso
+Nota: no se deben contabilizar las luces de pasillo.
+Aire acondicionado (sistema de climatización para calor y frío)
+Aire acondicionado encendido en área Cuántas áreas con aire Porcentaje aire acondicionado
+sin funcionarios/as por piso acondicionado por piso encendidos sin utilizar por piso
+v. En caso de que el servicio cuente con sistemas de autogeneración de
+energía eléctrica (generador de combustión, paneles fotovoltaicos u
+otro), deberá especificar su rendimiento, gasto (combustible), potencial
+energético, cobertura, entre otros.
+
+--- Página 23 ---
+05 - ETAPA 1: PRE-ACREDITACIÓN 23
+Medios de prueba
+• Declaración de:
+1. Cantidad de electricidad
+utilizada KW/funcionarios(as) al
+año.
+2. Uso del ascensor.
+3. Catastro de equipos
+computacionales y artefactos
+eléctricos.
+4. Informe de uso de equipos y
+artefactos eléctricos en ausencia
+de los(as) funcionarios(as).
+5. Medios de verificación y otros
+documentos de respaldo
+
+--- Página 24 ---
+24 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+f) Compras Sustentables y Economía Circular Medios de prueba
+i. Indicar si posee una política de compras públicas sustentables, de
+acuerdo con las directrices entregadas por ChileCompra (revisar Anexo • Declaración de:
+N° 4). 1. Existencia/ausencia
+de política de compras
+ii. Indicar si los siguientes productos o servicios consideran criterios de sustentables.
+sustentabilidad al momento de su adquisición:
+2. Productos/
+• Equipos eléctricos con sello o etiqueta de eficiencia energética. Servicios adquiridos
+con criterios de
+sustentabilidad.
+• Químicos de limpieza: Limpiadores a base de cloro, ácidos inorgánicos,
+ambientadores químicos y aerosoles. Productos biodegradables y/o
+3. Proveedores
+productos concentrados.
+evaluados con criterios
+o sellos sustentables.
+• Pinturas y barnices: Alto rendimiento, bajo contenido de compuestos
+orgánicos volátiles COV y metales pesados. · Medios de
+verificación fechas
+• Alimentos: Productos de temporada local y/o de producción local. de licitación,
+TDR’s, cálculo de
+tipos productos
+• Vehículos livianos y medianos: Alto rendimiento de combustible y
+sustentables.
+norma de emisión Euro VI (equivalente o superior).
+• Computadores: Equipos eficientes energéticamente (certificación · Medios de
+Energy Star). verificación y otros
+documentos de
+respaldo.
+• Multifuncionales: Equipos eficientes energéticamente (Certificación
+Energy Star).
+• Papel de impresión (resmas): Con manejo sustentable de bosques,
+proveniente de residuos agroindustriales o con contenido reciclado.
+• Servicios de catering: Uso de menaje reutilizable, evitando el
+desechable.
+• Ampolletas: Tecnología LED y una vida útil igual o superior a 15.000
+hrs.
+iii. Indicar si se usan los siguientes sellos para seleccionar proveedores,
+para más información revisar Anexo 4.2:
+Sellos de HuellaChile .
+Sello Empresa Mujer .
+Sello ProPyme .
+Sello Turismo Sustentable .
+Sello Acuerdo de Producción Limpia (APL).
+
+--- Página 25 ---
+05 - ETAPA 1: PRE-ACREDITACIÓN 25
+iv. Indicar si se utilizan los criterios de sustentabilidad para las compras de
+la entidad (por ejemplo, para productos más específicos asociados a las
+funciones de entidad).
+v. Indicar si existen medidas relativas a servicios que no incluyan el uso de
+artículos desechables, como, por ejemplo, que se evite la adquisición de
+productos con envases de un solo uso.
+vi. Determinar en forma sumativa, los tipos de productos que se consumen
+en la institución, diferenciando aquellos con criterios ambiental versus
+sin criterio sustentable.
+Tipo productos adquiridos Total de tipología de % de productos con
+100
+con criterios sustentables productos por año criterios sustentables
+g) Baja de Bienes Muebles
+Indicar el procedimiento establecido para los bienes muebles que hayan
+sido destruidos o que se encuentren deteriorados u obsoletos técnicamente.
+Medios de prueba
+• Declaración de:
+1. Procedimiento a seguir para los bienes muebles que han sido dado de baja.
+Medios de prueba h) Transporte
+i. Contabilizar la cantidad de vehículos híbridos (si hubiese) y la cantidad
+• Declaración de: de vehículos convencionales.
+• Catastro de vehículos
+híbridos y convencionales. ii. Indicar la existencia de una política de fomento en el uso de la bicicleta
+• Declaración de y vehículo compartido.
+existencia/ausencia de
+política de fomento en
+iii. Evaluar el espacio destinado para el estacionamiento de bicicletas, en
+el uso de la bicicleta y
+vehículo compartido. comparación con la demanda del personal(realizar encuesta).
+• Análisis de encuesta
+iv. Estudiar los contratos de transporte terrestre y analizar las posibilidades
+aplicada a funcionarios(as).
+de priorizar aquellos que utilicen vehículos híbridos.
+• Informe de contratos de
+transporte terrestre.
+v. Indicar el uso anual de combustible diferenciándolo del petróleo, gas y
+• Informe uso de
+bencina. En caso del uso de gas, la medida deberá ser en metros cúbicos.
+combustible.
+• Medios de verificación vi. Realizar encuestas sobre origen-trabajo de los(as) funcionarios(as). Para
+y otros documentos de
+su ejecución, revisar formato tipo en Anexo 6.
+respaldo.
+
+--- Página 26 ---
+26 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+i) Educación Ambiental Interna Medios de prueba
+i. ¿Existen procesos de inducción formal interna para el personal en las
+temáticas de reciclaje, cuidado del agua, eficiencia energética, entre • Declaración de:
+otros? (En el caso de existir estos procesos, adjuntar el programa de 1. Existencia/ausencia
+capacitación, el número de sesiones realizadas y la lista de asistencia). de programa de
+capacitación
+ii. ¿Existen, en los lugares de trabajo, señaléticas informativas que llamen ambiental para
+funcionarios(as).
+al cuidado de las temáticas recién mencionadas? (En caso de existir,
+realizar catastro por piso, indicar lugar y adjuntar fotografía).
+2. Programa de
+capacitación.
+iii. Indicar cantidad total de funcionarios y funcionarias, incluyendo planta,
+contrata, honorario, código del trabajo u otra modalidad de contratación.
+3. Catastro de
+Realizar este listado separado por género y estamento (Directivos, elementos de difusión
+Profesionales, Técnicos, Administrativos y Auxiliares). ambiental.
+4. Planilla
+funcionarios(as) por
+estamento y género.
+· Medios de
+verificación
+(presentaciones,
+fotografías,
+calendarios, listas de
+asistencia, etc.).
+j) Huella Chile
+i. ¿La institución se encuentra registrada en el programa Huella-Chile o su
+equivalente?
+Medios de prueba
+ii. ¿Ha recibido alguna acreditación en algunos de sus niveles?
+ii. ¿Se han realizado capacitaciones relacionadas con la huella de carbono
+• Declaración de:
+institucional?
+• Comprobante de
+registro en Huella-
+Chile.
+• Comprobante de
+acreditación recibida
+(sólo si corresponde).
+• Medios de
+verificación de
+capacitaciones y
+otros documentos de
+respaldo.
+
+--- Página 27 ---
+05 - ETAPA 1: PRE-ACREDITACIÓN 27
+5.2 Diseño Plan Anual
+Medios de prueba
+Una vez efectuado el diagnóstico, se debe proceder a su sistematización,
+• Declaración de: análisis y presentación ante el CEV. En dicha instancia, se establecen qué
+1. Política Interna prioridades serán abordadas en el plan anual.
+de Autogestión
+Ambiental. Sin perjuicio de lo anterior, para lograr la acreditación que entrega el
+Ministerio del Medio Ambiente, el Plan Anual deberá tomar en cuenta los
+2. Medidas/Metas siguientes componentes, que serán desarrollados durante la Etapa 2:
+definidas.
+a) Generar o actualizar una Política Interna de Autogestión Ambiental
+3. Registro Huella- con participación del personal. Dependiendo del diagnóstico, se deberá
+Chile.
+realizar una de las siguientes acciones:
+4. Compras a.i) Si el resultado del diagnóstico arroja que no existe Política Interna de
+Sustentables.
+Autogestión Ambiental, la institución deberá comprometerse a elaborar
+este instrumento de manera participativa.
+5. Plan de Capacitación
+de funcionarios(as).
+a.ii) Si el resultado del diagnóstico arroja que existe una Política Interna
+de Autogestión Ambiental elaborada sin participación, la institución
+6. Medidas de baja de
+bienes muebles. deberá comprometerse a su revisión y actualización.
+7. Campaña a.iii) Si el resultado del diagnóstico arroja que existe un Política Interna
+Comunicacional. de Autogestión Ambiental actualizada, la institución deberá difundirla
+activamente y capacitar al personal acerca del instrumento.
+• Respaldo de la aprobación del
+Plan por el CEV. b) Establecer , al menos, una medida en cada uno de los siguientes ámbitos,
+incorporando metas concretas en cada una de ella:
+b.i) Uso del papel: Con el objetivo de reducir el consumo y/o aumentar el
+reciclaje y reutilización del papel.
+b.ii) Gestión de Residuos : Con el objetivo de reducir la generación de
+residuos, implementar o fortalecer los sistemas de reciclaje, aumentar
+la cantidad de materiales reciclados, identificar y gestionar residuos
+peligrosos.
+b.iii) Gestión hídrica: Con el objetivo de generar una reducción de
+consumo.
+
+--- Página 28 ---
+28 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+b.iv) Gestión energética: Con el objetivo de generar una reducción de
+consumo.
+b.v) Transporte : Con el objetivo de promover el transporte sustentable
+entre el personal y/o disminuir el impacto generado por el transporte
+asociado a las acciones propias de la institución.
+Se debe tener en cuenta que al final de la Etapa 2 , debe existir
+cumplimiento de las metas propuestas en cada uno de los ámbitos a
+desarrollar.
+c) Se recomienda que al momento de diseñar las medidas, sean considerados
+aspectos de gran importancia, como la participación activa del personal
+de la institución, tanto en el diseño, como en la implementación; la
+educación y sensibilización al mismo, junto con el desarrollo de acciones
+de difusión que apoyen la implementación; inversiones (en aquellas
+instituciones que tengan la posibilidad de realizar inversiones, se sugiere
+la instalación de nuevas tecnologías, equipamiento y/o infraestructura);
+y la gestión de medidas creativas , tales como instructivos internos de
+gestión, nombramiento de los(as) funcionarios(as) monitores(as) que
+promuevan buenas prácticas en las oficinas, incorporación de acciones
+de reducción en metas institucionales, entre otros.
+d) Realizar capacitaciones relacionadas con el programa Huella-Chile
+y/o cálculo de huella de carbono institucional: Con el afán de aportar a
+las metas nacionales ante el Cambio Climático, las instituciones deberán
+realizar capacitaciones sobre el programa Huella-Chile y/o acerca del
+cálculo de huella de carbono institucional.
+e) Compras sustentables y economía circular: Establecer un protocolo,
+reglamento o compromiso de compras públicas sustentables, cuyo
+contenido esté basado en el Anexo 4 y en la realidad de la entidad.
+Asimismo, en forma obligatoria, la entidad deberá cumplir con el punto
+“e.v” (ver Anexo 5) y realizar, al menos, una de las siguientes medidas:
+e.i) Considerar los criterios para los cinco bienes y servicios indicados
+en el Instructivo de Aplicación de Criterios Sustentables desarrollado
+por el Ministerio de Medio Ambiente (revisar Anexo 4.2, vehículos,
+computadores, multifuncionales, resmas de papel, servicios de catering).
+e.ii) Considerar los criterios transversales para proveedores indicados en
+el Instructivo de Aplicación de Criterios Sustentables desarrollado por el
+Ministerio de Medio Ambiente (revisar Anexo 4.2).
+e.iii) Servicios y producción de eventos: Servicios que no incluyan el
+uso de artículos desechables (de un solo uso) tales como: bolsas, vasos,
+platos, cubiertos, bandejas, bombillas, entre otros; en su lugar que sean
+
+--- Página 29 ---
+05 - ETAPA 1: PRE-ACREDITACIÓN 29
+reemplazados por artículos reusables, reciclables o biodegradables/
+compostables, con opciones de alimentación vegetariana y/o sin
+ingredientes de origen animal y/o producción local. Para garantizar el
+adecuado manejo de los residuos derivados de los artículos reciclables y
+biodegradables/compostables, se debería considerar el establecimiento
+de contenedores para su almacenamiento segregado y posterior reciclaje
+en lugares autorizados.
+e.iv) Regalos corporativos: Productos que sean derivados de fuentes
+renovables, que contengan materiales reciclables y reciclados, que no
+contengan sustancias peligrosas, que no utilicen envases de ningún tipo
+o que este sea reducido y de material reciclado y reciclable, y que cuente
+con certificaciones de manejo forestal sustentable, si corresponde.
+e.v) Productos y servicios: adquisición de productos y servicios que
+incentiven el desarrollo de modelos circulares, orientados a prevenir
+la generación de residuos e incentivar su reúso y aprovechamiento por
+parte del proveedor, o facilitar su reciclaje al final de su ciclo de uso. Por
+ejemplo, evitar la adquisición de productos con envases de un solo uso;
+evitar la compra de productos en envases multicapa que no se pueden
+reciclar, entre otros.
+e.vi) Considerar otros criterios sustentables para los productos o servicios
+o un criterio transversal para proveedores.
+Sin perjuicio de lo anterior, la institución suscrita al programa deberá
+incorporar, gradualmente, nuevas acciones que emanen de las directivas
+anuales del programa Estado Verde. El fundamento se basa en el progresivo
+aumento de criterios de consumo sustentable y el ecodiseño.
+
+--- Página 30 ---
+30 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+f) Educación Ambiental: Llevar a cabo ciclos de capacitación para
+el personal. La cantidad de funcionarios y funcionarias a capacitar
+será acordada en conjunto con el Ministerio del Medio Ambiente. Las
+capacitaciones deberán considerar diversas materias, como, por ejemplo:
+buenas prácticas ambientales en la oficina, gestión de residuos, ahorro
+energético, ahorro de agua, transporte sustentable, cambio climático,
+huella de carbono, entre otras.
+g) Bajas de bienes muebles: Establecer un protocolo, reglamento o
+compromiso que indique el procedimiento para los bienes muebles que
+se encuentren deteriorados u obsoletos técnicamente. Promover su
+reutilización.
+h) Campaña comunicacional: Se debe ejecutar una campaña interna de
+forma permanente, que permita alcanzar las metas y exigencias que
+establece la acreditación (su diseño deberá ser entregado como parte
+del informe final de la Etapa 1). El éxito en su implementación depende,
+principalmente, del apoyo y de la participación de los funcionarios y
+las funcionarias. Es por esto, que resulta importante que se entregue
+la mayor cantidad de información a través de los distintos medios que
+dispone cada una de las instituciones/servicios. Revisar el formato tipo
+para elaborar esta estrategia comunicacional en el Anexo 7.
+i) Cronograma: Una vez diseñado el Plan Anual, el CEV deberá elaborar un
+cronograma de trabajo que incluya las acciones o compromisos a efectuar
+durante todo el periodo de la Etapa 2, en cada uno de los componentes
+recién detallados. Revisar el formato tipo para elaborar cronograma de
+trabajo en el Anexo 8.
+
+--- Página 31 ---
+05 - ETAPA 1: PRE-ACREDITACIÓN 31
+5.3) Expediente final para la Pre-Acreditación
+El expediente de la Etapa 1 es la conclusión del primer proceso y debe ser un
+fiel reflejo de lo realizado durante este periodo. Debe incluir los siguientes
+componentes:
+a) Declaración de cumplimiento de los componentes exigidos en el programa
+firmado por el Jefe o la Jefa del Servicio (ver formato en Anexo 1).
+b) Copia de correos electrónicos, memos o circulares, según sea el caso, de la
+difusión interna.
+c) Copia de la resolución que nombra a la contraparte técnica.
+d) Copia del documento oficial (ej. Resolución) que crea el Comité Estado
+Verde.
+e) Copia de las actas y asistencia a las reuniones del Comité Estado Verde.
+f) Diagnóstico realizado en la institución.
+g) Diseño Plan Anual.
+h) Cronograma de ejecución del plan anual.
+i) Solicitud de homologación de actividades: el programa reconoce el
+trabajo realizado con anterioridad, siempre y cuando no supere los 4 años
+de antigüedad (ver. 6.4).
+j) Indicar la etapa de acreditación que se desea lograr, es decir: básica,
+intermedia o excelencia. Este aspecto deberá considerar el punto anterior
+para determinar su nivel y lo decidido por el comité Estado Verde, lo que
+deberá quedar firmado en acta por los miembros.
+k) Comprometerse a que el logo Estado Verde y sus metas estén en la página
+web mediante la utilización de un banner.
+El informe deberá ser entregado al Ministerio del Medio Ambiente, División
+de Educación Ambiental y Participación Ciudadana.
+El ministerio tendrá un plazo de 15 días hábiles para revisar el expediente
+que contiene el informe, y de ser necesario, podrá solicitar antecedentes
+complementarios a la institución en vías de acreditación.
+Terminada la revisión, el ministerio informará mediante oficio si la
+institución ha obtenido la pre-acreditación. Si fuese así, podrá hacer uso del
+sello respectivo correspondiente a la etapa obtenida. Esta fase tendrá una
+duración de un año.
+
+--- Página 32 ---
+32 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+En aquellos casos en que los requisitos no sean cumplidos según las
+directrices del Programa Estado Verde, se podrá otorgar un plazo adicional
+para su cumplimiento.
+
+--- Página 33 ---
+06 - ETAPA 2: ACREDITACIÓN 33
+6. ETAPA 2:
+ACREDITACIÓN
+6.1) Ejecución del Plan
+Comunicada oficialmente la pre-acreditación, se inicia la segunda etapa del
+proceso, la ejecución total del plan diseñado en la Etapa 1. La duración de
+esta etapa será de 12 meses, aproximadamente.
+Tanto el plan como el cronograma constituirán la guía mediante la cual se
+irán revisando los avances y el cumplimiento de los compromisos realizados
+por la institución.
+En este marco, los auditores del Misterio del Medio Ambiente realizarán al
+menos dos auditorías in situ, con el propósito de comprobar los avances en
+la ejecución del plan, utilizando para ello la ficha de seguimiento de Estado
+Verde (ver Anexo 2). Las auditorías se realizarán ante la presencia del Comité
+Estado Verde, garantizando que todos los actores involucrados puedan
+participar de dicho proceso. Asimismo, se podrá consultar aleatoriamente al
+personal el nivel de conocimiento que tiene sobre la acreditación.
+En el caso que fuese necesario, se podrán realizar ajustes en el cronograma,
+no así en las metas y los compromisos realizados.
+6.2) Comité Estado Verde
+El CEV deberá seguir operando, con reuniones bimestrales, donde se tratarán
+los avances y dificultades en la implementación. En este marco, para efectos
+de la auditoría e informe final, se deberá dejar constancia mediante un acta
+y una lista de asistencia.
+6.3) Difusión Estado Verde
+El proceso de difusión es un aspecto relevante en el programa porque
+permite mostrar a la comunidad el trabajo que se encuentra desarrollando
+la institución.
+Por ello, el logotipo de Estado Verde debe incluirse en la página web,
+indicando el nivel alcanzado y los compromisos en que están trabajando.
+También se podrán poner los objetivos de desarrollo sustentable y otros que
+reconozcan el sistema de acreditación mediante la directiva respectiva.
+
+--- Página 34 ---
+34 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Además, se sugiere poner el logo en el pie de firma de los correos
+institucionales.
+6.4) Expediente Final para la Acreditación
+El Expediente Final es la conclusión del proceso y debe ser un fiel reflejo de
+lo realizado. Debe incluir los siguientes componentes:
+a) Declaración de cumplimiento de los componentes comprometidos en el
+plan firmado por el Jefe o la Jefa del Servicio (Ver formato Anexo 3).
+b) Política ambiental institucional aprobada por resolución.
+c) Informe de ejecución y cumplimiento de las metas en los ámbitos del
+reciclaje, gestión hídrica, uso del papel, gestión energética, transporte
+compras sustentables y baja de bienes muebles. Se deberán adjuntar los
+medios de prueba correspondientes.
+d) Registro de capacitaciones en Huella-Chile y/o cálculo de huella de
+carbono.
+e) Informe de capacitación a funcionarios(as), que incluya temáticas
+abordadas, fotografías y lista de asistencia.
+f) Informe de la campaña comunicacional interna, adjuntando medios de
+prueba como fotografías, comunicados, entre otros.
+g) Informe del proceso de difusión interna y del sitio web.
+El expediente deberá ser entregado al Ministerio del Medio Ambiente,
+División de Educación Ambiental y Participación Ciudadana.
+El ministerio tendrá un plazo de 20 días hábiles para revisar el expediente
+que contiene el informe, y si fuese necesario podrá solicitar antecedentes
+complementarios a la institución.
+Terminada la revisión, el ministerio informará mediante oficio el resultado
+obtenido por la institución. Si recibe la acreditación podrá hacer uso del
+sello respectivo con el correspondiente nivel.
+En aquellos casos en que los requisitos no sean cumplidos al 100%, se
+evaluará la posibilidad de otorgar un plazo adicional para el cumplimiento.
+
+--- Página 35 ---
+06 - ETAPA 2: ACREDITACIÓN 35
+6.5) Ciclo de Continuidad
+Las instituciones que alcancen un nivel básico o intermedio podrán avanzar
+a las siguientes fases formulando nuevos compromisos y metas, teniendo
+como referencia el diagnóstico inicial.
+En el caso que la entidad haya alcanzado el nivel de excelencia, esta podrá
+optar al nivel de excelencia sobresaliente, que estará contenido en el manual
+respectivo o directiva.
+En todos los casos, la acreditación obtenida tendrá la duración de un año.
+6.6) Niveles de Acreditación
+a) Etapa 1: Pre-Acreditación
+Si la entidad logra el proceso, la pre-acreditación recibirá un sello estándar
+y único. Este deberá ir en un lugar destacado del sitio web institucional.
+Además, la institución podrá usar el logo en los documentos físicos o
+PRE ACREDITADA
+digitales que se generen, y en espacios visuales o informativos que estime
+conveniente. Estos sellos corresponden a:
+b) Etapa 2: Acreditación
+Una vez que la institución logre la acreditación, podrá optar a distintos
+niveles de reconocimiento, siempre que cumpla o comprometa medidas
+adicionales a las mínimas exigidas en las Etapas 1 y 2 del presente manual.
+La institución deberá comunicar al Ministerio del Medio Ambiente su
+intención de optar a algún nivel de acreditación específico, al momento de
+entregar su informe final.
+Luego de la acreditación, las instituciones serán auditadas al menos una vez
+al año, con el fin de evaluar la mantención de los logros y metas alcanzadas.
+El sello deberá ir en un lugar destacado del sitio web institucional. Además,
+la institución podrá usar el logo en los documentos físicos o digitales que
+se generen y en espacios visuales o informativos que estime conveniente.
+A continuación, se presentan los niveles y requisitos establecidos para cada
+uno de los sellos:
+
+--- Página 36 ---
+36 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Estado Verde - Desarrolla y aprueba Política Interna de
+Nivel Básico Autogestión Ambiental.
+- Define al menos una medida y su
+correspondiente meta en cada uno de los
+siguientes ámbitos:
+Uso de Papel, Gestión de Residuos, Gestión
+NIVEL BÁSICO
+Hídrica y Energética, Compras sustentables y
+Transporte.
+- Desarrolla las medidas de Economía circular.
+- Realiza capacitaciones sobre Programa
+Huella-Chile y/o cálculo de huella de carbono
+- Cumple con ciclos de capacitación del
+personal.
+- Ejecuta campaña comunicacional .
+Estado Verde - Hace extensiva la aplicación de la Política
+Nivel Intermedio Interna en algunas oficinas regionales,
+provinciales, entre otras.
+- Define al menos dos medidas y sus
+correspondientes metas para los 6 ámbitos
+recién mencionados.
+NIVEL INTERMEDIO
+- Desarrolla las Medidas de Economía circular.
+- Desarrolla Protocolo para la Baja de Bienes
+Muebles.
+- Realiza capacitaciones sobre Programa
+Huella-Chile y/o cálculo de huella de carbono
+a al menos al 70% del personal.
+- Implementa inversión dirigida a la gestión
+energética e/o hídrica (compra de termos,
+contenedores de reciclaje, interruptores,
+grifería para ahorro hídrico, etc.).
+- Involucra al menos al 70% del personal en
+el plan de capacitación (puede considerar
+proveedores de servicios).
+
+--- Página 37 ---
+06 - ETAPA 2: ACREDITACIÓN 37
+Estado Verde - Aplicación de la Política Interna en todas las
+Nivel Excelencia oficinas a nivel nacional.
+- Define al menos tres medidas y sus
+correspondientes metas para los 6 ámbitos
+recién mencionados.
+- Realiza capacitaciones sobre Programa
+Huella-Chile y/o cálculo de huella de carbono
+al 100% del personal, o realiza cálculo de
+huella de carbono
+- Define medida/meta de sustentabilidad
+en actividades en el giro de la institución
+(atención de usuarios, relación comunitaria).
+- Cumple con el plan de capacitación para el
+100% del personal.
+Compromisos adicionales (al menos uno):
+- Incorpora acciones de sustentabilidad en los
+indicadores de desempeño institucional.
+- Implementa inversión mayor para la gestión
+energética y/o hídrica (paneles fotovoltaicos,
+vehículos híbridos, climatización eficiente,
+termopaneles, sistemas de monitoreo
+de consumo de agua, sistemas de riego
+inteligente, captación de aguas lluvia, etc.).
+NIVEL EXCELENCIA
+
+--- Página 38 ---
+38 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+7. ANEXOS
+
+--- Página 39 ---
+07 - ANEXOS 39
+7.1 Anexo 1
+DECLARACIÓN DE CUMPLIMIENTO DE LOS COMPONENTES EXIGIDOS - ETAPA 1
+PRE-ACREDITACIÓN ESTADO VERDE Nº FOLIO:
+INSTITUCIONALIDAD
+EXPEDIENTE:
+El/la jefe/a del servicio (indicar cargo), Sr(a) representante de
+(institución), certifica que se ha dado cumplimiento a los productos exigibles
+de acuerdo a los requisitos establecidos para la Pre-Acreditación Estado Verde y se ha informado a todos(as) los(as) funcio-
+narios(as) sobre el logro de este compromiso. Se adjuntan los documentos probatorios.
+Compromisos desarrollados Coordinador(a) Técnico (a)
+Nombramiento del coordinador técnico (Firma y nombre)
+Comunicados a todo el personal
+Conformación Comité Estado Verde (CEV)
+Diagnóstico Ambiental interno
+- Política Interna de Autogestión Ambiental
+- Uso de papel
+- Gestión de residuos
+- Gestión hídrica
+- Gestión energética
+- Compras sustentables.
+- Baja bienes muebles
+- Transporte
+- Capacitación de funcionarios(as)
+- Registro en Huella Chile
+- Campaña comunicacional
+Diseño del plan anual
+Cronograma etapa
+Etapa de acreditación a lograr
+Compromiso banner y logo Estado Verde
+Fecha:
+Nombre y firma Autoridades:
+
+--- Página 40 ---
+40 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Contraparte Oficial y Comunicado
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Instructivo de nombramiento del coordinador(a)
+del proceso de certificación.
+Correo electrónico, circular o memo de
+distribución interna firmado por la Jefatura
+del Servicio.
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Conformación Comité Estado Verde (CEV)
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Acta de conformación.
+Lista de integrantes indicando División/
+Departamento/Sección/ Oficina/Otro al que
+pertenece.
+Resolución de aprobación.
+Circular interna, informando los integrantes.
+Actas de reuniones.
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Política Interna de Autogestión ambiental
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Existe una política interna de Autogestión
+Ambiental.
+Vigencia.
+Difusión interna.
+Implementación.
+Resumen descriptivo de la política.
+Copia de política formalizada.
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+
+--- Página 41 ---
+07 - ANEXOS 41
+Uso del papel
+ANTECEDENTES SÍ NO CANTIDAD RESPALDO* OBSERVACIONES
+(indicar unidad de medida)
+Identificación de la unidad responsable de
+la compra de papel en la institución.
+Descripción de uso y gasto de papel anual
+en la institución.
+Descripción del porcentaje de uso de papel
+reciclado en la institución.
+Descripción del porcentaje de publicaciones
+en papel reciclado en la institución.
+Descripción del porcentaje de publicaciones
+en formato digital en la institución.
+Cantidad de papel reciclado por funciona-
+rio(a) al año en la institución.
+Cantidad de impresiones y/o fotocopiados
+por funcionario(a) al año en la institución.
+Descripción actual del proceso de impresión
+y fotocopiado.
+Otros aspectos relevantes.
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Gestión de Residuos
+ANTECEDENTES SÍ NO CANTIDAD RESPALDO* OBSERVACIONES
+Existencia, ubicación y tipos de contenedores para reciclaje.
+Cuantificación en Kg. de la cantidad mensual de reciclaje
+según tipo de material (excepto papel).
+Cuantificación de generación mensual de basura por fun-
+cionario(a) en Kg/funcionario(a).
+Cantidad de toners o cartuchos de tinta utilizados mensual-
+mente.
+Descripción de proceso de gestión de
+materiales reciclados.
+Descripción del procedimiento y materiales utilizados por
+empresa prestadora de servicios de aseo.
+Identificación de existencia de un punto limpio y centro de
+acopio para residuos peligrosos dentro de la institución.
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+
+--- Página 42 ---
+42 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Gestión Hídrica
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Identificación de cantidad de agua (Lts) utilizada
+por persona al año.
+Catastro del estado de los baños y llaves de agua.
+Identificación de la composición de los materiales
+de aseo utilizados.
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Gestión Energética
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Identificación de la cantidad de electricidad (kw)
+utilizada por persona al año.
+Descripción del uso del ascensor.
+Catastro de equipos computacionales y artefactos
+eléctricos.
+Informe de tiempo de uso de computadores, luces
+encendidas, uso de aire condicionado por piso, en
+ausencia de personal.
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Compras sustentables y economía circular
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Protocolo, Reglamento o Compromiso de compras
+públicas sustentables, de acuerdo con el Anexo 4 y
+la realidad de la entidad.
+Uso de criterios sustentables para los cinco bienes
+y servicios (considerados en el instructivo).
+Uso de criterios sustentables para Proveedores
+(sellos considerados en el Instructivo).
+Uso de otros criterios sustentables (que no están
+en el Instructivo).
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+
+--- Página 43 ---
+07 - ANEXOS 43
+Detalle
+Criterios para Bienes y Servicios (Considerados en Instructivo)
+PRODUCTO / SERVICIO CRITERIO SUSTENTABLE ¿DÓNDE SE USA EL CRITERIO? ¿OBLIGATORIO O DE
+CM / LICITACIÓN / TD) EVALUACIÓN?
+Vehículos Bajas emisiones de CO
+2
+Euro 6
+Computadores Energy Star
+Impresoras Energy Star
+Papel de Impresión FSC / PEFC o proveniente de
+residuos agroindustriales
+Papel reciclado
+Servicios de Catering Menaje reutilizable
+Criterios para Proveedores (Considerados en el Instructivo)
+CRITERIO SUSTENTABLE / SELLO ¿DÓNDE SE USA EL CRITERIO? ¿OBLIGATORIO O DE EVALUACIÓN?
+CM / LICITACIÓN / TD) /
+Compromiso y sellos de Huella Chile
+Sello Empresa Mujer
+Sello ProPyme
+Sello Turismo Sustentable
+Sello Acuerdo de producción Limpia
+(APL)
+Otros Criterios Sustentables
+CRITERIO SUSTENTABLE / ¿EN QUÉ PRODUCTOS / ¿DÓNDE SE USA EL CRITE- ¿OBLIGATORIO O
+SELLO SERVICIOS SE USA? RIO? CM / LICITACIÓN / TD) / DE EVALUACIÓN?
+Nombre y firma de Coordinador(a) Técnico (a)
+
+--- Página 44 ---
+44 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Baja Bienes Muebles
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Existencia/ausencia de protocolo, reglamento o
+compromiso que indique procedimiento de baja
+de bienes muebles
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Transporte
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Cantidad de vehículos híbridos y cantidad de vehí-
+culos convencionales.
+Declaración de existencia/ausencia de política
+de fomento en el uso de la bicicleta y vehículo
+compartido.
+Informe de análisis de encuesta aplicada a al
+personal, para la evaluación de espacio y demanda
+de estacionamiento de bicicletas utilizadas en
+términos de la demanda.
+Informe de análisis de contratos de transporte.
+Uso anual de combustible diferenciándolo del
+petróleo, gas y bencina en litros o M3 según
+corresponda.
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Educación Ambiental interna
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Existencia/ausencia de programa de capacitación
+ambiental para el personal.
+Catastro de elementos de difusión ambiental/
+Estado Verde.
+Cantidad total de funcionarios y funcionarias
+(planta, contrata, honorario, Código del Trabajo u
+otra modalidad de contratación). Indicar separado
+por género y estamento (Directivos, Profesionales,
+Técnicos, Administrativos y Auxiliares).
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+
+--- Página 45 ---
+07 - ANEXOS 45
+Huella-Chile
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Comprobante de registro en Huella – Chile.
+Comprobante de acreditación recibida.
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Diseño del Plan Anual
+ANTECEDENTES MEDIDA META RESPALDO* OBSERVACIONES
+Política Interna de Autogestión Ambiental
+Uso del Papel
+Gestión de Residuos
+Gestión Hídrica
+Gestión Energética
+Compras Sustentables
+Baja Bienes Muebles
+Huella-Chile
+Transporte
+Capacitación a los(as) colaboradores(as)
+Campaña Comunicacional Interna
+Cronograma Etapa 2
+Etapa de Acreditación a Lograr
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+
+--- Página 46 ---
+46 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+FORMULARIO DE SOLICITUD DE HOMOLOGACIÓN DE ACTIVIDADES Nº FOLIO:
+EXPEDIENTE:
+El/la jefe/a del servicio (indicar cargo), Sr(a) representante de
+(institución), declara que el o los siguiente(s) componente(s) o actividades(s)
+a la fecha se encuentra(n) desarrollado(s) o implementado(s) en la institución. Conforme a ellos solicita su homologación
+en el programa.
+Actividad Indicar Medio de Prueba Firma del de Coordinador(a) Técnico (a)
+Fecha:
+Cantidad de hojas:
+Nombre y firma de auditor(a)
+
+--- Página 47 ---
+07 - ANEXOS 47
+DECLARACIÓN DE ACREDITACIÓN A POSTULAR Nº FOLIO:
+EXPEDIENTE:
+El/la jefe/a del servicio (indicar cargo), Sr(a) representante de
+(institución), declara que con el fin de dar continuidad al trabajo realizado
+en el marco del Programa Estado Verde, la institución se compromete a desarrollar y/o implementar los componentes y
+actividades referentes a las obtención de la Acreditación BÁSICA / INTERMEDIA /EXCELENCIA , esto conforme a exigencias
+y requisitos definidos para el logro de dicho nivel de acreditación, y dentro de los tiempos estipulados por el programa.
+Nombre y firma de Coordinador(a) Técnico (a)
+
+--- Página 48 ---
+48 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+7.2 Anexo 2
+FICHA DE SEGUIMIENTO DE ESTADO VERDE AUDITORÍA ETAPA 1 IN SITU
+COORDINADOR/A AMBIENTAL: NOMBRE AUDITOR/A:
+FECHA AUDITORÍA:
+HORA:
+Desarrollo de la auditoría
+ACTIVIDADES PORCENTAJE DE AVANCE OBSERVACIONES
+0% - 100 %
+CONTRAPARTE OFICIAL
+Contraparte Oficial y Comunicado a todo el
+personal
+COMITÉ ESTADO VERDE
+Conformación Comité Estado Verde (CEV)
+DIAGNÓSTICO
+Política Interna de Autogestión Ambiental
+Uso del papel
+Gestión de Residuos
+Gestión Hídrica
+Gestión energética
+Transporte
+Huella-Chile
+Compras sustentables
+Educación Ambiental Interna y Campañas
+de Difusión.
+Baja de Bienes Muebles
+DISEÑO DEL PLAN ANUAL
+Diseño del Plan Anual
+
+--- Página 49 ---
+07 - ANEXOS 49
+FICHA DE SEGUIMIENTO DE ESTADO VERDE AUDITORÍA ETAPA 2 IN SITU N°s 1 Y 2
+COORDINADOR/A AMBIENTAL: NOMBRE AUDITOR:
+FECHA AUDITORÍA:
+HORA:
+A) AVANCES
+El/la auditor/a deberá tener presente y a la vista las medidas y metas suscritas por la institución.
+Actividades Meta Comprometida Porcentaje de avance 0-100 Observaciones
+Uso del papel
+Gestión de Residuos
+Gestión hídrica
+Gestión energética
+Transporte
+Compras sustentables
+Baja Bienes Muebles
+B) POLÍTICA INTERNA DE AUTOGESTIÓN AMBIENTAL
+Actividades Avance 0-100 Observaciones
+C) HUELLA-CHILE
+Actividades Avance 0-100 Observaciones
+
+--- Página 50 ---
+50 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+D) CAPACITACIÓN A FUNCIONARIOS(AS)
+Actividades Avance 0-100 Observaciones
+E) CAMPAÑA COMUNICACIONAL INTERNA
+Actividades Avance 0-100 Observaciones
+F) ACTIVIDADES ASIMILADAS
+Actividades Avance 0-100 Observaciones
+G) ACCIONES DE DISTINCIÓN
+Actividades Avance 0-100 Observaciones
+
+--- Página 51 ---
+07 - ANEXOS 51
+7.3 Anexo 3
+DECLARACIÓN DE CUMPLIMIENTO DE LOS COMPONENTES EXIGIDOS ETAPA 2
+ACREDITACIÓN ESTADO VERDE INSTITUCIÓN Nº FOLIO:
+EXPEDIENTE:
+El/la jefe/a del servicio (indicar cargo), Sr(a) representante de
+(institución), certifica que se ha dado cumplimiento a los productos exigibles
+de acuerdo a los requisitos establecidos en el Programa Estado Verde y se ha informado a todos(as) los(as) funciona-
+rios(as)sobre el logro de este compromiso. Se adjuntan los documentos probatorios.
+Compromisos desarrollados Coordinador(a) Técnico(a)
+Funcionamiento Comité Estado Verde (CEV)
+Ejecución del Plan Anual Diseño e implementación de Política
+Interna de Autogestión Ambiental
+Ejecución de Medidas Comprometidas
+- Uso de Papel
+- Gestión de Residuos
+- Gestión Hídrica
+- Gestión Energética
+- Compras Sustentables
+- Baja Bienes Muebles
+- Transporte
+Capacitación de funcionarios (as)
+Huella Chile (nombre)
+Campaña Comunicacional
+Difusión Interna y del Sitio Web
+Fecha:
+Cantidad de hojas:
+Nombre y firma de auditor(a)
+
+--- Página 52 ---
+52 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Funcionamiento del Comité Estado Verde (CEV)
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Lista de integrantes indicando División/ Departa-
+mento/Sección/Oficina/Otro al que pertenece
+Actas de reuniones
+Listas de asistencia
+Informe de actividades desarrolladas
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Política Interna de Autogestión Ambiental
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Política Elaborada
+Resolución de aprobación
+Difusión interna
+Implementación
+Descripción del proceso Participativo
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Uso del Papel
+ANTECEDENTES SÍ NO CANTIDAD RESPALDO* OBSERVACIONES
+Descripción de Medida desarrollada
+Cumplimiento de Metas
+Otras acciones relevantes
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+
+--- Página 53 ---
+07 - ANEXOS 53
+Gestión de Residuos
+ANTECEDENTES SÍ NO CANTIDAD RESPALDO* OBSERVACIONES
+Descripción de Medida desarrollada
+Cumplimiento de Meta
+Otras acciones relevantes
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Gestión Hídrica
+ANTECEDENTES SÍ NO CANTIDAD RESPALDO* OBSERVACIONES
+Descripción de Medida desarrollada
+Cumplimiento de Meta
+Otras acciones relevantes
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Gestión Energética
+ANTECEDENTES SÍ NO CANTIDAD RESPALDO* OBSERVACIONES
+Descripción de Medida desarrollada
+Cumplimiento de Meta
+Otras acciones relevantes
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+
+--- Página 54 ---
+54 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Compras Sustentables y Economía Circular
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Descripción de Medida desarrollada
+Cumplimiento de Meta
+Otras acciones relevantes
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Baja Bienes Muebles
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Descripción de Medida desarrollada
+Cumplimiento de Meta
+Otras acciones relevantes
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Transporte
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Descripción de Medida desarrollada
+Cumplimiento de Meta
+Otras acciones relevantes
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+
+--- Página 55 ---
+07 - ANEXOS 55
+Educación Ambiental Interna
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Ejecución de ciclos de capacitación
+ambiental para funcionarios(as)
+Presentaciones, listas de asistencia
+y fotografías
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Huella - Chile
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+capacitaciones para el cálculo de la
+huella de carbono
+Comprobante de registro en
+Huella – Chile
+Diagnóstico de emisiones directas
+por compra de combustibles fósiles:
+Gas Licuado, Gas Natural, Diésel,
+Gasolina, Gases refrigerantes
+Diagnóstico de emisiones indirectas
+por consumo eléctrico
+Comprobante de acreditación
+recibida
+Otras acciones relevantes
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+Campaña Comunicacional Interna
+ANTECEDENTES SÍ NO RESPALDO* OBSERVACIONES
+Ejecución del plan de comunicación
+Elementos de difusión ambiental/
+Estado Verde utilizados
+Campañas, acciones de difusión,
+fotografías, etc.
+Compromiso logo Estado Verde y
+banner en página web
+*Indicar cantidad de documento de respaldo
+Nombre y firma de Coordinador(a) Técnico (a)
+
+--- Página 56 ---
+56 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+FORMULARIO DE DECLARACION INCUMPLIMIENTO DE UNA Nº FOLIO:
+ACTIVIDAD COMPROMETIDA:
+EXPEDIENTE:
+El/la jefe/a del servicio (indicar cargo), Sr(a) representante de
+(institución), declara que el o los siguiente(s) componente(s) o activi-
+dades(s) a la fecha no se encuentra(n) desarrollado(s) o implementado(s) en el servicio.
+Componente o actividad inexistente Causa Firma del de Coordinador(a) Técnico (a)
+Fecha:
+Cantidad:
+Nombre y firma de auditor(a)
+
+--- Página 57 ---
+07 - ANEXOS 57
+7.4 Anexo 4
+DIRECTIVA DE CONTRATACIÓN PÚBLICA N°25
+“RECOMENDACIONES PARA LA CONTRATACIÓN DE BIENES Y SERVICIOS INCORPORANDO CRITERIOS AMBIENTALES Y DE EFICIENCIA ENERGÉTICA”
+I. GENERALIDADES
+1. Introducción
+Las Directivas de Contratación son orientaciones y recomendaciones generales, elaboradas por la Dirección
+ChileCompra, de acuerdo con su función asesora, reconocida en el artículo 30 letra a), de la Ley Nº 19.886 y
+en el artículo 104 bis del Reglamento de ese cuerpo legal. Estas buenas prácticas, que se difunden a través de
+las directivas, favorecen una mejor gestión de los procesos de compra, dentro del marco legal vigente y de las
+políticas de Gobierno en la materia.
+En esta función asesora, la Dirección ChileCompra considera fundamental establecer los conceptos y parámetros
+básicos que faciliten a los organismos integrantes de la Administración del Estado, desarrollar, fomentar y
+potenciar la realización de procedimientos de contratación que contribuyan al desarrollo sustentable del país.
+2. Contratación Sustentable
+Para efectos de la presente directiva, y según lo establecido en la Directiva N° 13, publicada en 2011, deberá
+entenderse por “contratación sustentable” los procesos de contratación pública, en los que se busca un adecuado
+equilibrio entre los aspectos sociales, económicos y ambientales de las contrataciones que realicen las
+instituciones del Estado 1 .
+Internacionalmente, se ha definido el concepto de Compras Públicas Sostenibles , como la “contratación de
+bienes, servicios e infraestructura de una manera de maximizar el valor por el dinero en todo el ciclo de vida de
+lo contratado. Esto requiere que las entidades públicas tomen decisiones que resulten en huellas ecológicas más
+bajas y mayores beneficios sociales” 2 .
+El equilibrio entre lo económico, lo social y lo medioambiental, no solo debe referirse a las características de las
+condiciones intrínsecas del bien o servicio a requerir, sino que también deben aplicarse en la identificación de las
+necesidades de la respectiva Entidad que requiere la contratación, así como en la definición y características de
+todo el proceso de contratación.
+1- Las condiciones fundamentales de contratación sustentable se establecen en la directiva N° 13, publicada por la Dirección de Compras y
+Contratación Pública en 2008:
+http://www.chilecompra.cl/index.php?option=com_phocadownload&view=category&id=12&Itemid=547
+2- Manual para agentes de Compras Públicas de la Red Interamericana de Compras Gubernamentales (RICG). Implementando Compras
+Públicas Sostenibles en América Latina y el Caribe. Elaborado por “The International Institute for Sustainable Development”. Disponible en:
+https://www.iisd.org/sites/default/files/publications/iisd-handbook-ingp-es.pdf
+
+--- Página 58 ---
+58 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+incluyendo la formulación y condiciones de las respectivas bases de licitación o
+términos de referencia, la definición de los criterios de evaluación, la posterior
+selección y adjudicación de la o las ofertas que resulten seleccionadas y la
+gestión de contratos respectiva.
+Hasta ahora, la promoción de contrataciones sustentables se ha traducido
+mayoritariamente en la recomendación de uso de criterios de evaluación para
+ser incorporados en las respectivas bases de licitación, tales como:
+- Condiciones de empleo y remuneración 3
+- Contratación de personas en situación de discapacidad
+- Eficiencia energética
+- Impacto medioambiental
+- Otras materias de alto impacto social
+Sin embargo, siendo pertinente el establecimiento y aplicación de los criterios
+de evaluación señalados, resulta fundamental realizar un análisis previo sobre
+el bien o servicio que se requiere adquirir.
+3. Objetivo de la Directiva
+En relación con lo anterior, esta Directiva busca transformarse en una
+herramienta de apoyo en el desarrollo del análisis planteado, considerando,
+especialmente, dos materias relacionadas con la sustentabilidad ambiental:
+la “eficiencia energética” y el “impacto medioambiental”, lo anterior respecto
+de la adquisición de cuatro productos específicos (vehículos, lámparas 4 , papel
+y productos de calefacción). El desarrollo de un análisis previo para determinar
+el bien o servicio a adquirir, la aplicación de criterios de sustentabilidad
+ambiental y un adecuado equilibrio entre las consideraciones técnicas y
+económicas permitirá al Estado adquirir bienes o servicios que generen un
+menor impacto negativo en el medio ambiente, observando los principios de
+ahorro, eficacia y eficiencia, los que deben tenerse siempre en consideración
+en materia de contratación administrativa. A su vez, este tipo de compras,
+en conjunto con la implementación de una política de contratación pública
+sustentable, generará incentivos a las empresas para desarrollar sus propias
+políticas ecológicas y contribuirá a crear un mercado receptivo a nuevas
+tecnologías y soluciones innovadoras 5 .
+1- 3- El Decreto 1410, del Ministerio de Hacienda de mayo de 2015, que modifica el Reglamento de la Ley de Compras Públicas, indica que
+para licitaciones o contrataciones periódicas se deberá siempre incorporar como criterio de evaluación las mejores condiciones de empleo y
+remuneraciones.
+4- La Directiva no considera recomendaciones para alumbrado público.
+5- Adaptado de UNEP (http://www.unep.fr/scp/procurement/) y “Política de Compras Públicas Socialmente Responsables, De la sustentabi-
+lidad a la responsabilidad social”, disponible en: http://www.comprassustentables.cl/index.php?option=com_ phocadownload&view=cate-
+gory&id=2&Itemid=2
+
+--- Página 59 ---
+07 - ANEXOS 59
+Cabe señalar que los bienes considerados en la presente Directiva son aquellos pertenecientes a los rubros
+priorizados por la Dirección ChileCompra para la introducción de criterios de sustentabilidad en su “Política de
+Compras Públicas Socialmente Responsables” 6 , publicada en el año 2012. Dichos rubros están alineados con
+los recomendados por la Unión Europea y por la Red Interamericana de Compras Gubernamentales 7 . Además,
+considerando que la calefacción a leña es una de las principales fuentes de material particulado (MP), se incluyen
+también recomendaciones para adquirir productos de calefacción que minimicen los efectos negativos de
+contaminación asociados 8 .
+En este documento, además, se describen cada uno de los productos (vehículos, lámparas, papel y productos de
+calefacción) y las principales características ambientales que deben ser evaluadas al momento de determinar
+el bien requerido, a fin de determinar el impacto total que implica la adquisición de productos estándar versus
+productos con un mejor rendimiento ambiental. Debemos destacar que las recomendaciones realizadas para
+“lámparas” se refieren a iluminación interior y no a alumbrado público.
+En definitiva, el objetivo de esta Directiva es entregar pautas y lineamientos a los organismos públicos regidos
+por la Ley Nº 19.886, para que en la contratación de estos bienes y servicios consideren, en la determinación o
+definición del requerimiento, elementos relacionados a la sustentabilidad ambiental 9 .
+6- Ver “Política de Compras Públicas Socialmente Responsables, De la sustentabilidad a la responsabilidad social”, disponible en http://www.
+comprassustentables.cl/index.php?option=com_ phocadownload&view=category&id=2&Itemid=2 y ver “Situación e impacto de la política de
+compras verdes en el Mercado Público”, mimeo.
+7- Manual para agentes de Compras Públicas de la Red Interamericana de Compras Gubernamentales (RICG). Implementando Compras
+Públicas Sostenibles en América Latina y el Caribe. The International Institute for Sustainable Development – 2015.
+8- Ver en: http://alertas.mma.gob.cl/recomendaciones-generales/
+9- Referencias Bibliográficas:
+- ChileCompra, 2012. Política de compras públicas socialmente responsables, de la sustentabilidad a la responsabilidad social. Disponible en:
+http://www.comprassustentables.cl/index.php?option=com_ phocadownload&view=category&id=2&Itemid=2
+- ChileCompra, 2012. Situación e impacto de la política de compras verdes en el Mercado Público.
+- Greenpeace, 2013. Guías para un consumo responsable de productos forestales. El Papel. Cómo reducir el consumo y optimizar el uso y
+reciclaje de papel. Disponible en: http://www.greenpeace.org/espana/Global/espana/report/other/el-papel.pdf
+- Ministerio de Energía, 2013. Resolución Exenta 60. Fija estándar mínimo de eficiencia energética para lámparas no direccionales para
+iluminación general y su programa de implementación. Disponible en: http://www.sec.cl/transparencia/docs2014/resolucion_60_2014.pdf
+- Ministerio del Medio Ambiente, 2012. Informe del Estado del Medio Ambiente. Disponible en: http://www.mma. gob.cl/1304/w3-
+article-52016.html
+- Ministerio del Medio Ambiente, 2014. Planes de Descontaminación Atmosférica. Estrategia 2014-2018. Disponible en: http://www.
+cumplimiento.gob.cl/wp-content/uploads/2014/03/Estrategia_Nacional_de_ Descontaminacion_Atmosferica_2014_2018.pdf
+- Ministerio del Medio Ambiente, 2014. Aproximación a las compras públicas sustentables: Con énfasis en el análisis costo beneficio. Disponible
+en: http://portal.mma.gob.cl/wp-content/uploads/2015/02/Manual_ Compras_Publicas_Sustentables_MMA_BMUB_espanol.pdf
+- The International Institute for Sustainable Development, 2015. “Implementando Compras Públicas Sostenibles en América Latina y el
+Caribe”, Manual para agentes de Compras Públicas de la Red Interamericana de Compras Gubernamentales (RICG). Disponible en: http://
+ricg.org/el-iisd-anuncia-el-lanzamiento-del-handbook- implementando-compras-publicas-sostenibles-en-america-latina-y-el-caribe/
+contenido/436/es/
+en: http://www.mma.gob.cl/1304/w3-article-52016.html
+- Ministerio del Medio Ambiente, 2014. Planes de Descontaminación Atmosférica. Estrategia 2014-2018. Disponible en: http://www.
+cumplimiento.gob.cl/wp-content/uploads/2014/03/Estrategia_Nacional_de_ Descontaminacion_Atmosferica_2014_2018.pdf
+- Ministerio del Medio Ambiente, 2014. Aproximación a las compras públicas sustentables: Con énfasis en el análisis costo beneficio. Disponible
+en: http://portal.mma.gob.cl/wp-content/uploads/2015/02/Manual_ Compras_Publicas_Sustentables_MMA_BMUB_espanol.pdf
+- The International Institute for Sustainable Development, 2015. “Implementando Compras Públicas Sostenibles en América Latina y el
+Caribe”, Manual para agentes de Compras Públicas de la Red Interamericana de Compras Gubernamentales (RICG). Disponible en: http://
+ricg.org/el-iisd-anuncia-el-lanzamiento-del-handbook- implementando-compras-publicas-sostenibles-en-america-latina-y-el-caribe/
+contenido/436/es
+
+--- Página 60 ---
+60 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+II PAUTAS PARA LA CONTRATACIÓN DE BIENES Y SERVICIOS INCORPORANDO CRITERIOS AMBIENTALES Y DE
+EFICIENCIA ENERGÉTICA
+Esta Directiva busca apoyar a los distintos organismos para considerar como variables de decisión en los procesos
+de adquisición las inversiones iniciales, los costos de operación y mantención a lo largo de la vida útil de los
+productos, y los plazos totales de los contratos de servicios, siguiendo las pautas que se expondrán en esta
+Directiva.
+Lo anterior fomenta la incorporación de un análisis más integral, que va más allá de centrar la decisión de compra
+en función del precio. Además, promueve la consideración de criterios que permiten valorar el desempeño de un
+producto o servicio a lo largo de todo su ciclo de vida, el impacto que éste genera en la salud de las personas, y la
+disposición del bien cuando ya ha concluido su vida útil.
+A este respecto, es conveniente destacar, además, la reciente aprobación de la Ley Marco para la Gestión de
+Residuos y Responsabilidad Extendida del Productor (Ley REP), cuyo objetivo es disminuir la generación de
+residuos en Chile e incrementar las tasas de valorización de estos incorporando nuevos instrumentos de gestión
+ambiental. Esta ley responsabiliza a fabricantes e importadores de seis productos prioritarios (aceites lubricantes,
+aparatos eléctricos y electrónicos, baterías, envases y embalajes, neumáticos y pilas) de organizar y financiar la
+recuperación de los residuos generados por sus productos 10 .
+Para facilitar la tarea que esta Ley impone sobre los compradores públicos, la Dirección ChileCompra prevé la
+emisión de una Guía Práctica de aplicación de la Ley de Fomento al Reciclaje (Ley REP) para compradores públicos.
+A. Definición de Requerimientos
+La definición de los requerimientos de productos y servicios amigables con el medio ambiente puede tener en
+cuenta características relacionadas con el respeto medioambiental en el proceso de producción, la durabilidad
+del producto o servicio, la posibilidad de ser reparado, su posible desmontaje y reutilización, la minimización, el
+tratamiento y la eliminación de los residuos, entre otros.
+En ese contexto, se puede señalar que tanto las empresas como el Estado, en su calidad de consumidores de bienes
+o servicios, aumentan su eficiencia en términos económicos al adquirir productos más rentables, lo cual puede
+estar asociado a productos más duraderos (mayor vida útil), con menores costos de mantención y operación, con
+estándares altos de eficiencia energética, o que pueden ser reciclados fácilmente, disminuyendo los costos de
+disposición final de residuos 11 .
+10- Ley Marco para la Gestión de Residuos y Responsabilidad Extendida del Productor, número 20.920, promulgada el 17 de mayo de 2016
+por la Presidenta Michelle Bachelet. Ver más en: http://portal.mma.gob.cl/nueva-ley-de-reciclaje-impone-a-las-empresas-el- financia-
+miento-y-metas-de-recoleccion-y-valorizacion-de-los-residuos-que-generan- sus-productos/
+11- Manual de Compras Públicas Sustentables, Con Énfasis en el Análisis Costo-Beneficio http://portal.mma.gob.cl/wp-content/
+uploads/2015/02/Manual_Compras_Publicas_ Sustentables_MMA_BMUB_espanol.pdf
+
+--- Página 61 ---
+07 - ANEXOS 61
+El hecho de adquirir productos con mayor vida útil o con posibilidades de reparación y reutilización puede
+repercutir en un ahorro significativo en el uso de los recursos públicos y, por otro lado, generar un menor impacto
+negativo sobre el medio ambiente. Como consecuencia, a la hora de realizar la definición de requerimientos del
+producto o servicio que se desea adquirir, es importante considerar:
+a). Que el producto o servicio satisfaga las necesidades específicas de la institución compradora.
+b). Que el producto o servicio tenga todas las características técnicas que permitan dar respuesta a la necesidad
+de la institución compradora en armonía con la protección del medio ambiente. En este sentido, se recomienda
+tener en cuenta, por ejemplo, las siguientes consideraciones:
+• Generación de un impacto ambiental bajo, lo que es verificable mediante el uso de sellos, etiquetas y/o
+certificaciones, nivel de eficiencia energética 12 , u otras.
+• Los costos de operación del producto o servicio, según la información disponible.
+• Los costos de mantención o reposición que requiere el producto para su correcto funcionamiento.
+• Los costos o convenios de disposición final de productos o residuos generados.
+c). Que la empresa y/o industria productora del bien a adquirir cumpla con estándares de producción limpia,
+validado mediante certificaciones públicas y reconocidas.
+d). Que los beneficios de adquirir un producto sean superiores a los costos sociales de ello (efectos sobre la salud
+de la población, asociados por ejemplo a la emisión de contaminantes).
+A continuación, y considerando todo lo ya expuesto, se detalla el análisis a realizar respecto de cada uno de los
+siguientes productos:
+A.1 Lámparas (ampolletas):
+La importancia en la definición de las lámparas a adquirir radica, principalmente, en que el sector público es
+un gran consumidor de energía en la iluminación de sus sedes. Debido a que la generación eléctrica proviene
+en su mayoría del funcionamiento de centrales termoeléctricas (50%), este consumo genera diversos efectos
+negativos al medio ambiente relacionados, principalmente, con la emisión de gases de efecto invernadero y de
+material particulado, afectando negativamente la calidad del aire. Por estos motivos, es relevante evaluar los
+impactos ambientales asociados a la producción y consumo de distintos tipos de ampolletas para iluminación
+interior, considerando los costos y beneficios de la adquisición de productos que cuenten con una tecnología
+más eficiente.
+12- Para más detalles sobre este punto, consulte las diferentes guías sobre productos amigables con el medio ambiente (respecto a Eficien-
+cia Energética disponible en el sitio Web de la Agencia Chilena de Eficiencia Energética www.acee.cl, “Aproximación a las Compras Públicas
+Sustentables: Con énfasis en el Análisis Costo Beneficio”, disponible en página web del Ministerio del Medio Ambiente HYPERLINK “http://
+portal.mma.gob.cl/ wp-content/uploads/2015/02/Manual_%20Compras_Publicas_Sustentables_MMA_ BMUB_espanol.pdf” http://portal.
+mma.gob.cl/wp-content/uploads/2015/02/Manual_ Compras_Publicas_Sustentables_MMA_BMUB_espanol.pdf o sobre rendimiento de
+vehículos en el sitio www.consumovehicular.cl
+
+--- Página 62 ---
+62 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+En concreto, los criterios para tener en cuenta al momento de determinar
+qué lámpara adquirir para la iluminación de los espacios interiores de los
+organismos públicos, son los siguientes:
+a) Eficiencia energética: Para la evaluación de este punto se debe considerar,
+principalmente, la etiqueta de eficiencia energética de ampolletas existente
+en el país, la cual contiene información sobre el consumo energético,
+calificando a las lámparas tipo A+ como las más eficientes y las de tipo
+G como las menos eficientes . Según la estandarización otorgada por la
+etiqueta de eficiencia energética, se recomienda adquirir lámparas tipo A+.
+b) Tecnología empleada: Dependiendo de la tecnología empleada, las
+lámparas se pueden agrupar en incandescentes, halógenas, compactas
+fluorescentes (CFL) y de tecnología LED.
+Productos evaluados Puntaje
+Incandescente
+Halógena
+LFC
+LED
+Elaboración Ministerio del Medio Ambiente 13
+De acuerdo con el esquema anterior, la tecnología LED es la que presenta una
+mayor eficiencia, por lo que se recomienda su utilización.
+En relación con la tecnología empleada, cabe destacar que, a contar del 18 de
+diciembre de 2015, la Resolución Exenta N° 60 de 2013 14 , del Ministerio de
+Energía, que fija estándares mínimos de eficiencia energética para lámparas
+no direccionales, estableció la prohibición de comercialización, por parte
+del fabricante y/o importador, de lámparas incandescentes 15 que tengan un
+13- Manual de Compras Públicas Sustentables: Con Énfasis en el Análisis Costo-Beneficio: http://portal.mma.gob.cl/wp-content/
+uploads/2015/02/Manual_Compras_Publicas_ Sustentables_MMA_BMUB_espanol.pdf
+14- http://www.sec.cl/transparencia/docs2014/resolucion_60_2014.pdf
+15- Se entiende por lámparas incandescentes aquellas de filamento de tungstenos para uso doméstico y alumbrado general, que presentan
+una potencia nominal entre 25 W y 200 W, lámparas de forma A o PS; lámparas transparentes, esmeriladas o de acabado blanco; y casquillos
+E26 o E27, de acuerdo con el alcance y campo de aplicación de la Norma IEC 60064/2005.
+
+--- Página 63 ---
+07 - ANEXOS 63
+índice de eficiencia energética mayor o igual a 80%. En la práctica, lo anterior
+se traduce en:
+• Se prohíbe la comercialización, por parte del fabricante y/o importador,
+de lámparas incandescentes cuya clase de eficiencia energética sea D, E,
+F o G, para potencias iguales o superiores a 25 W, una vez que transcurran
+24 meses desde la dictación de la resolución.
+c) Vida útil: La vida útil de cada una de las lámparas disponibles en el mercado
+se expresa en las fichas técnicas del fabricante, según la cantidad de horas de
+vida útil. Se sugiere comprar aquellas lámparas que posean mayor vida útil.
+d) Contenido de mercurio: Al igual que la vida útil, el contenido de mercurio de
+las lámparas se encuentra expresado en las fichas técnicas del fabricante. Se
+sugiere adquirir sólo lámparas que no contengan mercurio. Excepcionalmente,
+tratándose de lámparas compactas fluorescentes o tubulares fluorescentes,
+se podrá aceptar, como contenido máximo, los siguientes tipos de lámparas:
+Tipo de lámpara Contenido de mecurio
+Lámpara compacta fluorescente 3
+Lámparas tubulares fluorescentes T5 4
+Lámparas tubulares fluorescentes T8 5
+Fuente: Manual para agentes de Compras Públicas de la Red Interamericana de Compras
+Gubernamentales (RICG) 16
+Tomando en consideración la tecnología, la vida útil, el contenido de mercurio
+(Hg), el costo de inversión y la eficiencia, las lámparas se pueden agrupar de
+acuerdo con el siguiente detalle:
+Vida Útil Contenido Costo inversión Eficacia
+Estrellas Tecnología
+en horas Hg (mg/unidad) ($ Chileno) 17 (lumen/w)
+Incandescente 1.000 0 $490 11,7
+Halógena 2.000 5 $3.578 13,5
+CFL (Compacta
+6.500 5 $7.862 49,7
+Fuorescente)
+LED 20.000 0 $22.294 110,5
+16- Manual para agentes de Compras Públicas de la Red Interamericana de Compras Gubernamentales (RICG). Implementando Compras
+Públicas Sostenibles en América Latina y el Caribe. Página 37
+17- Precios promedio año 2013.
+
+--- Página 64 ---
+64 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+En resumen, si solo se tuviera en consideración el precio (costo de inversión) para determinar la mejor alternativa
+de adquisición de lámparas para iluminación interior, nuestra decisión sería adquirir la ampolleta incandescente,
+puesto que son las más económicas. Sin embargo, haciendo una evaluación más amplia e integral, considerando
+los costos totales al cabo de un determinado periodo de tiempo, el costo de inversión, el costo de operación, la
+vida útil y la eficiencia tendríamos una respuesta distinta, como queda reflejado en el siguiente cuadro:
+Tecnología Consumo Vida Útil Costo Horas Recambio Costo Consumo anualizado Costo total
+(W hora) en horas inversión (c) uso x (e)=(d/b) inversión (g)=(a x 0,1012 x d) anualizado
+(a) año (d) x año (f)=(c x e) (h)=(f + g)
+Incandescente 100 1.000 $490 2.340 2,34 $1.147 23.685 $24.832
+Halógena 50 2.000 $3.578 2.340 1,17 $4.186 11.843 $16.029
+CFL (Compacta
+20 6.500 $7.862 2.340 0,36 $2.830 4.737 $7.567
+Fuorescente)
+LED 14 20.000 $12.294 2.340 0,12 $1.438 3.316 $4.754
+Donde:
+Valor del Kilowatt= $101,219; Valor del Watts=$0,101219.
+(d) Horas de uso x año: 45 horas semanales x 52 semanas= 2.340 horas.
+(e) Recambio: Se obtiene de dividir horas de uso (d) x año por la vida útil en horas (b).
+(f) Costo de inversión x año: Costo de inversión (c) x Recambio (e).
+(g) Consumo anualizado: Consumo (a) x Valor del kilowatt x Horas de uso por año (d).
+(h) Consumo total anualizado: Costo de Inversión por año (f) x Consumo anualizado (g).
+En virtud de lo expuesto, en la medida que transitemos desde una tecnología menos eficiente a una más eficiente,
+tendremos, en el tiempo, un costo menor. Por ello, la sugerencia es realizar adquisiciones no solo pensando en el
+costo de inversión inicial; se debe hacer un análisis previo que considere el tiempo de recambio, las horas de uso
+y el consumo en un periodo de tiempo.
+A.2 Vehículos:
+Las causas de la contaminación atmosférica, que sufren la mayoría de las ciudades de Chile, son variadas; sin
+embargo, una de las principales fuentes emisoras responsables del deterioro en la calidad del aire corresponde
+a las fuentes móviles. En ese contexto, y puesto que el Estado adquiere un volumen importante de vehículos, es
+importante evaluar los efectos ambientales que generan la compra y operación de estos. Corresponde, entonces,
+analizar, en términos de costos y beneficios, la posibilidad de adquirir vehículos con mejor rendimiento ambiental.
+Del mismo modo, la mantención periódica del vehículo, en lugares establecidos y reconocidos por las marcas
+fabricantes, junto con asegurar su disponibilidad, permitirá que se mantengan las condiciones óptimas de
+funcionamiento y cumplimiento de las normas de emisión permitidas por la autoridad.
+Los elementos más importantes para considerar al momento de determinar qué vehículo adquirir y/o arrendar
+son los siguientes:
+• Eficiencia Energética: Cada organismo que pretenda adquirir un vehículo nuevo, debe evaluar el rendimiento
+en función del consumo del combustible.
+
+--- Página 65 ---
+07 - ANEXOS 65
+• El uso que tendrá el vehículo: Si el vehículo será utilizado mayoritariamente para efectuar tramos
+interurbanos, se debiese considerar como criterio el rendimiento en carretera del vehículo; si, por el contrario,
+se usará mayoritariamente en tramos urbanos, se debiese usar como criterio el rendimiento en ciudad.
+Si no está definido el uso mayoritario que se dará al vehículo se puede usar como criterio la evaluación del
+rendimiento mixto.
+Datos oficiales, que permiten comparar el rendimiento de los vehículos nuevos bajo las mismas condiciones
+(condiciones estandarizadas de laboratorio), están disponibles en la página Web www.consumovehicular. cl.
+Este portal permite comparar, entre todos los modelos nuevos de vehículos, aquellos con mejores rendimientos,
+expresado en kilómetros por litro.
+• Nivel de emisión de gases de efecto invernadero: En este criterio corresponde evaluar, para cada vehículo
+que se piense adquirir o arrendar, el nivel de emisión de gases de efecto invernadero, el cual se representa a
+través del factor de emisión (FE), medidos en gramos de CO2 por km recorrido (gCO2/km) . Esta información
+está disponible en forma oficial para cada vehículo nuevo en el sitio www.consumovehicular.cl. En esta página
+se puede comparar el nivel de emisiones de CO2 de cada modelo de vehículo que se comercializa en el país.
+• Nivel de emisiones de contaminantes locales: El nivel de emisión de contaminantes locales para vehículos
+está representado mediante la norma de emisión bajo la cual se ha homologado el vehículo. Se recomienda
+adquirir aquellos vehículos que se encuentren por sobre la norma vigente, es decir, que cumplan normas
+más estrictas o que sean cero emisión . Esta información también se despliega en la etiqueta de eficiencia
+energética y está disponible a través de la página Web: www.consumovehicular.cl
+18- Manual de Compras Públicas Sustentables, Con Énfasis en el Análisis Costo-Beneficio: http://portal.mma.gob.cl/wp-content/
+uploads/2015/02/Manual_Compras_Publicas_ Sustentables_MMA_BMUB_espanol.pdf
+
+--- Página 66 ---
+66 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Comparador de vehículos 1/3
+Comparador de vehículos 2/3
+Comparador de vehículos 3/3
+· Para más información, se recomienda consultar el Manual de Compras
+Públicas Sustentables publicado por el Ministerio del Medio Ambiente 18 .
+18- Manual de Compras Públicas Sustentables, Con Énfasis en el Análisis Costo-Beneficio: http://portal.mma.gob.cl/wp-content/
+uploads/2015/02/Manual_Compras_Publicas_ Sustentables_MMA_BMUB_espanol.pdf
+
+--- Página 67 ---
+07 - ANEXOS 67
+A.3 Papel de Impresión:
+En un nivel mundial, la demanda y consumo de papel han aumentado en forma considerable durante los últimos
+años. En Chile este consumo también ha ido en aumento, siendo el sector público uno de los consumidores más
+relevantes, debido al alto volumen de papel de escritura e impresión que se utiliza en el ejercicio de la función
+pública.
+Los impactos ambientales que se generan en la producción de papel están asociados, principalmente, al consumo
+de agua, energía y materia prima (fibra virgen o fibra reciclada), los cuales están fuertemente relacionados con
+el consumo de recursos forestales y con la carga de contaminantes tanto a la atmósfera como a los cuerpos
+de agua 19 . Por estos motivos, y dados los efectos ambientales que este sector industrial presenta, resulta
+imprescindible avanzar en la reducción y minimización de los impactos ambientales asociados a la fabricación
+de papel y promover estrategias para la disminución de su consumo y un aumento en las exigencias ambientales
+en su compra.
+En este sentido, los criterios más importantes que deben ser considerados al momento de determinar el papel a
+adquirir son los siguientes:
+a). Procedencia de materia prima para la fabricación de papel: Se debe preferir aquellos papeles que han sido
+fabricados con materia prima que provenga de bosques manejados sustentablemente . Esta información puede
+ser verificada a través de distintas certificaciones nacionales e internacionales (Ejemplo: CERTFOR 20 , PEFC 21 , FSC 22 ).
+b). Contenido de fibra reciclada: Este criterio tiene que ver con el consumo de materias primas para la fabricación
+de papel. Mientras más alto sea el porcentaje de fibra reciclada contenida en el papel, menor será el uso de
+materias primas (cantidad de árboles por tonelada de papel), menor el consumo de agua y el consumo de
+energía ; por lo tanto, menor impacto y presión sobre el medio ambiente.
+Este criterio puede ser verificado a través de certificaciones (FSC o certificaciones equivalentes) o información
+en la ficha del producto.
+19- La industria papelera y de celulosa ocupa el quinto lugar del sector industrial en consumo mundial de energía, y utiliza más agua por
+cada tonelada producida que cualquier otra industria. Guía para un Consumo responsable de productos forestales – Greenpeace – octubre
+2014.
+20- http://www.corma.cl/medioambiente/sustentabilidad-ambiental/certificacion-de-manejo- forestal-sustentable
+21- http://www.certfor.org/
+22- https://us.fsc.org/
+
+--- Página 68 ---
+68 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+c). Contenido de cloro: Se debe preferir aquel papel libre de cloro elemental , ya que este corresponde a un
+compuesto altamente contaminante. Esta información puede ser verificada a través del expediente técnico
+del fabricante o a través de la solicitud de una declaración jurada.
+Para más información, se recomienda consultar el Manual de Compras Públicas Sustentables publicado por el
+Ministerio del Medio Ambiente 23 , y la Minuta de Papel publicada por ChileCompra 24 .
+A.4 Productos de calefacción:
+La contaminación atmosférica es uno de los principales problemas ambientales que afectan a Chile, dado
+que un gran número de centros poblados están sometidos a altas concentraciones de material particulado
+(MP), contaminante que ocasiona graves problemas a la salud humana y al medio ambiente. Sus efectos se
+reflejan en enfermedades cardiorrespiratorias, daño a los ecosistemas acuáticos y terrestres y problemas de
+visibilidad, entre otros.
+La calefacción representa uno de los principales consumos de energía de las edificaciones, en el caso de las de
+tipo residencial representa el 56% del consumo total de energía, lo que se ve aumentado considerablemente
+en la zona centro sur de Chile, donde llega al 83% del total de energía consumida.
+Este consumo, en la zona ya indicada, proviene en un 81% de la quema de leña, en un 9% del uso de gas
+natural, en un 5% del uso de parafina, en un 4% del uso de gas licuado, y el resto del uso de carbón, electricidad
+y pellets.
+El uso de leña como fuente de energía para calefacción es el principal contribuyente a la mala calidad del
+aire por contaminación de MP2.5 en la mayoría de las ciudades de la zona centro y sur de Chile. Las elevadas
+emisiones son atribuibles a varias razones, entre las que se destaca la existencia de una alta demanda
+energética, calefactores con tecnologías deficientes, mala operación de los equipos por parte de los usuarios,
+uso de leña con alto contenido de humedad y defectuosa aislación térmica en las viviendas y recintos.
+Los impactos del consumo de leña y de la generación de agentes atmosféricos contaminantes son de índole
+económicos (adquisición de equipos de calefacción, combustible, mantenciones), sociales (efectos en la salud
+de la población asociados a emisiones contaminantes) y medioambientales (contaminación del aire, impactos
+en el bosque nativo, entre otros), por lo tanto, se sugiere tener en consideración todos estos aspectos al
+momento de evaluar algún producto o servicios asociado a calefacción.
+23- Manual de Compras Públicas Sustentables, Con Énfasis en el Análisis Costo-Beneficio: http://portal.mma.gob.cl/wp-content/
+uploads/2015/02/Manual_Compras_Publicas_ Sustentables_MMA_BMUB_espanol.pdf
+24- http://www.compr assust ent ables.cl/index.php?option=com_phocadownloa d&view=cat egory&download=23:guia-de-compr a-y-con-
+sumo-sost enible-de- papel&id=2:documentos&Itemid=2
+
+--- Página 69 ---
+07 - ANEXOS 69
+Se propone que los organismos públicos que tengan la necesidad de implementar algún sistema de calefacción
+en sus instalaciones o cambiarlo, en el caso que su sistema sea antiguo o defectuoso, sigan las siguientes
+recomendaciones, con el objetivo de minimizar los costos económicos, sociales y medioambientales asociados
+a la calefacción, de modo de promover una compra sustentable.
+Diagrama de decisión en relación con medidas de calefacción
+1ª Etapa Aislación Térmica 2º Sistema de Calefacción 3ª Etapa Combustible
+¿Es necesario aplicar medidas ¿Qué opciones de sistema de ¿Cuáles son las opciones de
+de aislación térmica? calefacción están disponible? combustible para calefac-
+cióndisponible?
+Asesoría técnica Asesoría técnica
+Priorización: Priorización: Asesoría técnica
+1. Infiltración 1. Centralizada Priorización: Según criterio
+2. Techumbre 2. Unitaria del comprador
+3. Muros
+4. Ventanas
+Fuente: Elaboración Ministerio del Medio Ambiente.
+Etapas:
+1. Aislación: Variados estudios indican que la aislación térmica es la mejor medida (costo-eficiencia) para
+mejorar la calefacción de un recinto ya que permite reducir el consumo de combustible mediante la disminución
+de las fugas de calor. Es más, solo mejorando la aislación térmica es posible reducir la demanda energética de
+un recinto en más de un 40% 25 , generando ahorros directos en el gasto de operación en calefacción.
+Se recomienda el siguiente orden de medidas de aislación:
+• Reparación de filtraciones: sellado de infiltraciones por puertas y ventanas, evitando el flujo de aire del
+exterior y fuga de calor desde el interior.
+• Techumbre: mejoramiento de la aislación térmica de la techumbre. Es este lugar por donde mayormente se
+pierde calor desde un recinto.
+• Muro: incorporación de materiales aislantes térmicamente en los muros exteriores del recinto.
+• Piso: mejoramiento de la aislación del piso.
+• Ventanas: cambio de ventanas corrientes por otras compuestas de materiales que sufran menores pérdidas
+de calor.
+En cualquier caso, se deben determinar las medidas de aislación necesarias para el recinto en consideración de
+sus características y particularidades propias.
+25- Reducción estimada a partir del proyecto “Programa de inversión pública para fomentar el reacondicionamiento térmico del parque
+construido de viviendas”, Ministerio de Vivienda y Urbanismo, MINVU (2007).
+
+--- Página 70 ---
+70 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Para establecer estándares mínimos de aislación térmica de las edificaciones , se recomienda considerar
+los siguientes documentos:
+• Edificaciones de uso residencial: artículo 4.1.10 de la Ordenanza General de la Ley General de Urbanismo
+y Construcciones (DS Nº47 MINVU del año 1992) 26 .
+• Edificaciones de uso público: Términos de referencia estandarizados de eficiencia energética y confort
+ambiental, para licitaciones de diseño y obra, según zonas geográficas del país y según tipología de
+edificios 27 .
+Además de lo anterior, en Chile existen sistemas de acreditación de estándares de eficiencia energética y
+de consideraciones ambientales como la Calificación Energética de Viviendas (CEV) 28 que mide la eficiencia
+energética de las edificaciones del tipo residencial y la Certificación de Edificio Sustentable (CES) 29 que aborda
+aspectos medioambientales para edificaciones de uso público.
+Adicionalmente, se podrán utilizar otras certificaciones utilizadas internacionalmente, como por ejemplo LEED,
+BREEM, entre otras, para las que se deberán construir criterios de evaluación, considerando otorgar puntajes
+en función de rangos de puntaje asociados a la reducción de los consumos de energía en calefacción.
+2. Definir el sistema de calefacción: Si está acorde con las necesidades del comprador, se recomienda la
+adquisición de un sistema centralizado de calefacción por sobre uno unitario. En general, estos sistemas
+de calefacción centralizados (calderas) poseen una eficiencia superior hasta en un 30% por sobre las
+convencionales unitarias. Esto trae consigo beneficios económicos para el(la) usuario(a) y ambientales para la
+ciudadanía, ya que generan menores emisiones, las que además pueden ser reducidas a través de un sistema
+de abatimiento de partículas. Además, este sistema brinda una mejor distribución del calor debido a que es
+posible calefaccionar varios espacios simultáneamente.
+De ser posible únicamente la instalación de un equipo unitario (calefactor), se deberá preferir:
+• Equipos de una alta eficiencia térmica y bajas emisiones de contaminantes, evitando aquellos de
+llama abierta.
+• Sistemas de calefacción con tiro forzado (escape de gases de la combustión al exterior de la construcción)
+con el fin de evitar contaminación intra-domiciliaria, que es de mayor impacto negativo a la salud que la
+contaminación atmosférica.
+26- http://www.minvu.cl/opensite_20061113165715.aspx
+27- http://arquitectura.mop.cl/eficienciaenergetica/Paginas/default.aspx
+28- Para más información visitar la web www.calificacionenergetica.cl
+29- Para más información visitar la web www.certificacionsustentable.cl
+
+--- Página 71 ---
+07 - ANEXOS 71
+Respecto del rendimiento de los equipos para calefacción , conocido como el cociente entre la energía
+producida y la energía suministrada al equipo , se presenta la siguiente tabla con información, respecto de
+rendimientos referenciales dependiendo del tipo de equipo a utilizar:
+Rendimiento
+Equipo de calefacción
+energético (%)
+Bomba de calor suelo-aire o suelo-agua 360,0
+Bomba de calor agua-agua o agua-aire 340,0
+Bomba de calor aire- agua o aire-aire 260,0
+Caldera a gas con condensación encendido electrónico control modulado 85,3
+Caldera a petróleo 80,0
+Caldera a gas sin condensación encendido electrónico control modulado 75,0
+Caldera a gas sin condensación encendido electrónico control on/off 74,5
+Caldera a gas sin condensación encendido piloto control modulado 71,0
+Caldera a gas sin condensación encendido piloto control on/off 70,5
+Caldera a pellet 65,0
+Equipo localizado a gas con evacuación de gases 62,0
+Equipo localizado sin evacuación de gases al exterior 60,0
+Caldera a leña 60,0
+Calefactor localizado a leña 52,0
+Por lo expuesto, se sugiere la adquisición de productos con mayor rendimiento energético, es decir, una
+“Caldera a gas con condensación encendido electrónico control modulado” por sobre una “Caldera a pellet”, y
+una “Caldera a pellet por sobre un “Calefactor localizado a leña”.
+3. Definir combustible: La elección del combustible queda a criterio de quien compre, debido a que dependerá
+de la oferta disponible, de las prioridades que le otorgue a las variables económicas, sociales y ambientales
+mencionadas y de las regulaciones vigentes que podría haber en cada zona en particular que limite el uso de
+alguno de ellos (por ejemplo, Planes de Descontaminación Atmosférica).
+Sin perjuicio de las regulaciones vigentes, se recomienda no utilizar calefactores unitarios a leña en aquellas
+zonas saturadas o latentes 30 por MP10 o MP2,5.
+30- Para más información consultar el documento “Planes de Descontaminación Atmosférica. Estrategia 2014-2018” disponible en:
+http://www.mma.gob.cl/1304/articles-56174_ PlanesDescontaminacionAtmosEstrategia_2014_2018.pdf
+
+--- Página 72 ---
+72 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+En cualquier caso, esta elección debe hacerse de manera informada teniendo en consideración las ventajas y
+desventajas que cada combustible presenta por sobre otro, las cuales son resumidas en la siguiente tabla, que
+considera las dimensiones de precio del combustible, emisiones de material particulado (MP) y emisiones de
+gases de efecto invernadero (GEI).
+Combustible Precio Emisiones MP Emisiones GEI
+(Material Particulado) (Gases Efecto Invernadero)
+Electricidad Alto Bajo Medio
+Gas Alto Bajo Medio
+Petróleo/Diesel Medio Medio Alto
+Parafina Medio Medio Alto
+Biomasa - Pellets Bajo Medio Bajo
+Biomasa - Leña Bajo Alto Bajo
+Nota: los rangos mencionados en la tabla son referenciales e intentan reflejar el impacto del ciclo de vida completo de los combustibles.
+Fuente: Elaboración MMA.
+Fuente: www.calefaccionsustentable.cl
+
+--- Página 73 ---
+07 - ANEXOS 73
+Fuente: www.calefaccionsustentable.cl
+A continuación, se detallan algunas recomendaciones específicas sobre
+esta materia:
+• Si la opción elegida es biomasa , se recomienda la adquisición de
+pellets debido a su alta eficiencia y buena combustión, lo que minimiza
+las emisiones al medioambiente.
+• Si la única alternativa factible es leña , se recomienda:
+• Comprar leña certificada , debido a que se garantiza que el nivel de
+humedad sea inferior al 25%, generando más calor, ahorrando volumen y
+arrojando menos contaminación al aire.
+• Compra de leña seca , asegurándose que esta tenga un nivel de humedad
+menor al 25% 31 para una buena combustión e, idealmente, provenir de
+un bosque manejado sustentablemente.
+• Se recomienda adquirir un medidor de humedad de leña de modo de
+verificar que el producto adquirido tenga las características deseadas, aun
+después de períodos posteriores a la compra del producto, asegurándose de
+mantener la leña protegida de la lluvia o de alta concentración de humedad.
+• Por último, prefiera productos certificados: Actualmente existen
+diferentes tipos de sellos que identifican a la leña que cumple con
+determinados criterios, lo que puede ayudar en la decisión del comprador.
+Ejemplo de lo anterior es el sello del Sistema Nacional de Certificación de
+Leña (SNCL) 32 y el sello del Acuerdo de Producción Limpia (APL), los que son
+equivalentes en cuanto a criterios de calidad y origen del combustible.
+31- Al momento de ser comercializada.
+32- http://www.lena.cl/certificacion-de-lena/
+
+--- Página 74 ---
+74 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Anexo 4.1
+FORMATO DE PROTOCOLO, REGLAMENTO O COMPROMISO SOBRE COMPRAS
+SUSTENTABLES
+Fecha: dd/mm/aaaa
+(Insertar nombre de entidad compradora), a contar de esta fecha, la entidad se compromete en realizar compras
+más sustentables utilizando como guía el “Instructivo de Aplicación de Criterios Sustentables” (en adelante,
+Instructivo) y sus actualizaciones, desarrollado por el Ministerio de Medio Ambiente. Asimismo, la entidad
+podrá utilizar otras herramientas como las directivas de compras sustentables elaboradas por la Dirección de
+ChileCompra.
+En concreto, la entidad se compromete a:
+• Preferir vehículos de transmisión manual (a excepción de que no haya disponibilidad de mercado) y
+considerar dentro de la evaluación, criterios de bajas emisiones de CO2 (según Instructivo) y criterios de
+bajas emisiones de gases contaminantes.
+• Respecto de los computadores (de escritorio y All in One) y las multifuncionales adquiridas o arrendadas,
+considerar dentro de la evaluación que el equipo sea energéticamente eficiente (p.ej. con sello Energy Star).
+• Respecto del papel de impresión (resmas, principalmente), preferir papel con manejo sustentables de
+bosques (p.ej. con sello FSC o PEFC), papel proveniente de residuos agroindustriales o papel con contenido
+reciclado en al menos un 50%.
+• Respecto de los servicios de catering y similares, contratados por la entidad, preferir servicios que usen
+menaje o utensilios reutilizables, para evitar la generación de residuos de menaje y utensilios desechables.
+Se podrán hacer excepciones en servicios especiales que lo requieran.
+• Respecto de la evaluación de oferentes y proveedores, preferir y fomentar proveedores que posean sellos
+de la iniciativa de HuellaChile, Sello Empresa Mujer, Sello ProPyme, según recomendaciones del Instructivo.
+• Estimar de forma periódica los beneficios ambientales y económicos de las compras sustentables realizadas
+por la entidad.
+
+--- Página 75 ---
+07 - ANEXOS 75
+Anexo 4.2
+INSTRUCTIVO DE APLICACIÓN DE CRITERIOS SUSTENTABLES A
+1.- Antecedentes
+1.1 ¿CUÁL ES EL DESAFÍO QUE ESTAMOS ENFRENTANDO?
+Chile ha sido una de las economías de más rápido crecimiento en Latinoamérica, permitiendo una significativa
+reducción de la pobreza 1 . El país, también, ha tenido un alza constante en su Índice de Desarrollo Humano
+(IDH) 2 en las últimas décadas, ubicándolo dentro de los países con un desarrollo humano muy alto 3 . A pesar
+de estos resultados, Chile se enfrenta a problemas ambientales y sociales. La contaminación atmosférica, el
+tratamiento de residuos, amenazas sobre la biodiversidad, el cambio climático, entre otros aspectos, afectan
+la salud humana e impactan significativamente en el medioambiente. Uno de los modos para hacer frente
+a estos problemas está en desarrollar patrones de producción y consumo que sean sustentables, es decir,
+que permitan generar un desarrollo económico y social, teniendo en cuenta variables medioambientales que
+aseguren el menor impacto negativo en el entorno.
+En ese sentido, una de las herramientas para contribuir en este avance más sustentable es la compra que
+realizan las entidades del Estado. En efecto, el Estado de Chile en su conjunto, es el mayor comprador de bienes
+y servicios a nivel nacional, con un gasto de $6,8 billones de pesos (sobre 10.000 millones de USD 4 ) durante el
+año 2016 5 , lo que representa más de un 4% del PIB nacional 6 . Estos volúmenes representan una oportunidad
+imprescindible para utilizar el poder de compra del Estado para promover modelos de producción y consumo
+sustentables, aportando al cumplimiento de objetivos nacionales y compromisos internacionales en materia
+de sustentabilidad, y asimismo, contribuyendo de manera efectiva a un desarrollo social y económico que sea
+armónico con el medio ambiente.
+A Obtenido de: https://ccps.mma.gob.cl/wp-content/uploads/2019/06/Instructivo-de-Compras-P%C3%BAblicas-Sustentables.pdf
+La actividad “Instructivo de Aplicación de Criterios Sustentables” corresponde a un documento complementario al “Plan Nacional de
+Compras Públicas Sustentables”. Estas dos actividades son parte de proyecto “Avanzando y midiendo el consumo y la producción sosteni-
+ble para una economía baja en carbono en Chile”, desarrollado por el Ministerio del Medio Ambiente de Chile, la consultora Cicloambien-
+te y ONU Medio Ambiente, y financiado por la Iniciativa Internacional sobre el Clima (ICI siglas en inglés) y el Ministerio Federal del Medio
+Ambiente, Conservación de la Naturaleza y Seguridad Nuclear (BMUB siglas en inglés) de Alemania.
+1- Banco Mundial, 2017. Documento online “Panorama general de Chile”. Obtenido de: http://www.bancomundial.org/es/country/chile/
+overview
+2- El IDH se calcula a partir de un conjunto de indicadores como las tasas de alfabetización, los años de escolaridad, la esperanza de vida
+al nacer y el ingreso per cápita. A partir de este índice, se busca medir el éxito de los países en promover el desarrollo de las capacidades
+de las personas. Descripción obtenida de Naciones Unidas.
+3- Organización de las Naciones Unidas, 2015. Comunicado de prensa “Chile se ubica dentro del grupo de países con un nivel de Desarro-
+llo Humano muy alto. Sin embargo, dentro de ese mismo grupo, es el que tiene mayor desigualdad”. Obtenido de: http://www.cl.undp.org/
+content/dam/chile/docs/desarrollohumano/undp_cl_idh_comunicado 20chileno_informe_mundial_2015.pdf
+4- Utilizando el valor de cambio del Banco Central del 30 diciembre 2016 ($667,29 pesos chilenos).
+5- Fuente: Balance de Gestión Integral año 2016, Ministerio de Hacienda, Dirección de Compras y Contratación Pública, marzo 2017.
+6- Fuente: Base de Datos Estadísticos, Banco Central de Chile, Obtenido de: http://si3.bcentral.cl/Siete/secure/cuadros/arboles.aspx?id-
+Cuadro=CCNN2013_P0_V2
+
+--- Página 76 ---
+76 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+1.2 ¿QUÉ ES LA COMPRA PÚBLICA SUSTENTABLE?
+La compra pública sustentable se define como “el proceso en el que las entidades públicas satisfacen sus
+necesidades de bienes y servicios considerando el valor por el dinero en todo el ciclo de vida, buscando el uso
+óptimo de los recursos del Estado y la generación de beneficios para la entidad, la sociedad y la economía en su
+conjunto, al mismo tiempo que reducen los impactos negativos sobre el medio ambiente” (definición adaptada
+MMA- ChileCompra).
+En términos prácticos, también se podría decir que la compra pública sustentable es el uso óptimo de los
+recursos del Estado en sus adquisiciones de bienes y servicios, considerando criterios de sustentabilidad en el
+ámbito económico, social y ambiental.
+Por último, la compra pública sustentable es entendida como un medio o un instrumento para contribuir con
+los desafíos o compromisos en sustentabilidad de la entidad compradora dentro de su contexto local, nacional
+y global.
+1.3 COSTOS Y BENEFICIOS DE LA COMPRA PÚBLICA SUSTENTABLE
+La compra pública genera efectos positivos y negativos, que se distribuyen entre distintos actores de la
+sociedad y en el entorno (p.ej. se pueden distribuir en la misma entidad compradora, en grupos de personas en
+zonas específicas o en el medioambiente). A modo de ejemplo, una entidad decide incorporar un requisito de
+eficiencia energética 7 para sus compras de computadores, lo cual trae tres efectos principales: (1) es probable
+que el precio de adquisición del computador sea distinto; (2) el consumo energético (y costo mensual) se
+reduce durante el uso del computador; y (3) la entidad compradora emite menos cantidad de gases de efecto
+invernadero (GEI) 8 debido al menor consumo de energía. Para el caso del efecto 1 y 2, los costos y beneficios
+son asimilados por la propia entidad y, al realizar un análisis de costos desde la adquisición hasta el uso del
+equipo, permitiría saber si, económicamente, es conveniente para la entidad. Para el efecto 3, en tanto, los
+beneficios de emitir menos GEI son recibidos por la sociedad en su conjunto y el medioambiente, ya que
+contribuye a mitigar el cambio climático y sus potenciales efectos negativos en Chile y en el planeta. Existen
+métodos para traducir las emisiones evitadas de GEI a beneficios económicos, permitiendo evaluar todos los
+costos y beneficios (de los tres efectos mencionados) en una unidad de medida única: dinero. Esto permite
+tomar mejores decisiones tanto en un nivel de Estado como respecto de la entidad individual.
+De esta manera, el Estado, como organismo que busca el bienestar de la sociedad en su conjunto, debe
+considerar no solo el precio del bien o servicio sino también los costos y beneficios externos a las entidades
+compradoras, priorizando un enfoque de ciclo de vida.
+7- Se requiere a equipos que poseen un menor consumo de energía durante el uso en comparación a un equipo convencional, por ejem-
+plo, los computadores con el sello Energy Star tienen eficiencia energética.
+8- Son gases que se emiten a la atmósfera y provocan un aumento de la temperatura media del planeta, causando el cambio climático.
+El cambio climático puede generar efectos nocivos en la disponibilidad de recursos hídricos, biodiversidad, pérdidas de suelos cultivables,
+generar precipitaciones intensas, aluviones, desbordes de ríos, olas de calor y empeorar las malas condiciones de ventilación en ciudades.
+
+--- Página 77 ---
+07 - ANEXOS 77
+2 Generalidades del Instructivo
+2.1 ¿CUÁL ES EL OBJETIVO DE ESTE INSTRUCTIVO?
+El objetivo general de este instructivo es quesea una herramienta para que las entidades del Estado puedan
+incorporar la sustentabilidad en sus procesos de compra, a través de la aplicación de criterios sustentables.
+Nota:
+Se busca que la aplicación de este instructivo permita ayudar al cumplimiento de objetivos
+y desafíos, nacionales e internacionales, que tiene el país en materia de sustentabilidad,
+así como, también posicionar a la compra pública sustentable como una herramienta
+efectiva para la reducción de los impactos de la adquisición de bienes y servicios. En el
+Anexo 1, se muestran estos objetivos y desafíos en materia de sustentabilidad.
+Incorporar la sustentabilidad
+en sus procesos de compra
+2.2 ¿CUÁLES SON LOS BENEFICIOS DE APLICAR EL INSTRUCTIVO
+Los beneficios de la aplicación del instructivo son:
+1. Reducir los impactos ambientales y sociales de la entidad compradora a través de sus compras.
+2. Integrar los criterios de sustentabilidad de manera eficiente sin sobrecargar al personal de la
+entidad compradora en los procesos de compra.
+3. Permitir a las entidades públicas comprar de manera más sustentable, sin generar un costo
+económico significativo y asegurando disponibilidad de bienes y servicios en el mercado.
+4. Permitir que la entidad sea vista como un ejemplo por sus pares y comunidad en general, lo que
+trae un efecto comunicacional positivo.
+2.3 ¿QUÉ INFORMACIÓN CONTIENE ESTE INSTRUCTIVO?
+El instructivo contiene la siguiente información:
+• Los bienes y servicios que podrían integrar criterios de sustentabilidad en todas las entidades comprado-
+ras del Estado de Chile.
+• Los criterios y verificadores que pueden ser aplicados en los procesos de compra (Tienda ChileCompra
+Express, Licitaciones y Tratos Directos) para los bienes y servicios recomendados.
+• Los beneficios ambientales y económicos derivados de la compra de bienes y servicios con criterios de
+sustentabilidad.
+• Datos sobre la disponibilidad de bienes y servicios con criterios sustentables en el mercado chileno.
+
+--- Página 78 ---
+78 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+3.- Aplicación del Instructivo
+Este instructivo considera la integración de criterios sustentables para 5 categorías de bienes y servicios
+específicos, así como, criterios para los proveedores en general sin importar la categoría de bien o servicio o
+el rubro.
+3.1 CRITERIOS SUSTENTABLES PARA BIENES Y SERVICIOS
+Los bienes y servicios considerados son:
+Categoría 1: Vehículos livianos y medianos.
+Categoría 2: Computadores de escritorio y All in One.
+Categoría 3: Impresoras y multifuncionales.
+Categoría 4: Papel de impresión.
+Categoría 5: Servicios de catering o coffee break o similares.
+
+--- Página 79 ---
+07 - ANEXOS 79
+3.1.1
+Categoría 1:
+Vehículos livianos y medianos
+3.1.1.1 Descripción / alcance
+Esta sección incluye los vehículos nuevos (cero kilómetros) de tamaño liviano y mediano, de propulsión a
+combustible fósiles, eléctricos e híbridos. No se consideran los vehículos arrendados o usados.
+3.1.1.2 Criterios y verificadores
+Nombre de criterio Descripción de criterio Medio de verificación
+Bajas emisiones de CO por Los vehículos son de transmisión mecá- El oferente declara la transmisión y las
+2
+kilómetro del vehículo nica (cuando sea posible) y tienen bajas emisiones de CO del vehículo en su ficha
+2
+emisiones de CO por kilómetro recorrido. técnica. Las emisiones de CO deben ser
+2 2
+Se entenderá por bajas emisiones a todo obtenidas de acuerdo con los datos dispo-
+vehículo liviano y mediano que no superen nibles en www.consumovehicular.cl o los
+los siguientes niveles (gCO /km) según ca- datos entregados por el Centro de Control
+2
+tegoría de vehículo: y Certificación Vehicular (3CV).
+Carrocería g/km
+Hatchback 140
+Sedán 160
+Station wagon y SUV 190
+Furgón y mini bus 190
+Camioneta 210
+Nota: Estas categorías de carrocería están dadas se-
+gún el 3CV del MTT.
+Bajas emisiones de gases Los vehículos nuevos (cero km) cumplen El oferente declara la norma Euro o Tier
+contaminantes (norma Euro) con la norma Euro VI o equivalente. (EPA) del vehículo en su ficha técnica. Esta
+norma del vehículo debe ser obtenida de
+acuerdo con los datos disponibles en www.
+consumovehicular.cl o los datos entrega-
+dos por el Centro de Control y Certificación
+Vehicular (3CV).
+
+--- Página 80 ---
+80 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+3.1.1.3 Costos y beneficios
+Criterio Costos y beneficios económicos Beneficios ambientales
+Bajas emisiones de CO por Hay tres aspectos positivos en términos Comparando las emisiones de CO de los ve-
+2 2
+kilómetro del vehículo. económicos para la entidad compradora: hículos de bajas emisiones versus las emi-
+• Respecto de las camionetas a propulsión siones promedio de los vehículos adquiridos
+diésel, los vehículos de bajas emisiones por las entidades en años anteriores, se pue-
+resultaron tener un precio promedio muy den evitar a lo menos la siguiente cantidad
+similar a los vehículos por sobre el límite de toneladas de CO por vehículo conside-
+2
+de emisión (210 g/km). rando un uso de 100.000 km en 5 años:
+• Los vehículos de bajas emisiones tienen Carrocería Toneladas de CO
+2
+un mejor rendimiento de combustible, lo
+Hatchback 0,1
+cual ayuda a ahorrar dinero durante el uso
+Sedán 1,1
+del vehículo.
+Station wagon y SUV 2,3
+• Los vehículos de transmisión mecánica
+en la mayoría de los casos tienen un precio Furgón y mini bus 2,4
+más bajo que los vehículos de transmisión Camioneta 1,4
+automática del modelo equivalente.
+Bajas emisiones de gases Es posible que los vehículos con norma El beneficio principal es la reducción de
+contaminantes (norma Euro). Euro VI puedan tener un precio mayor que los efectos en la salud de las personas por
+los vehículos Euro V de similares caracte- las emisiones de gases contaminantes.
+rísticas. Sin embargo, existe un beneficio Esta reducción de efectos en la salud de-
+en la salud de las personas por evitar la pende de la zona o ciudad donde se esté
+emisión de gases contaminantes (véase: utilizando el vehículo. A modo ejemplo, si
+beneficios ambientales). se compra un vehículo diésel Euro 6 en vez
+de un diésel Euro 5, las emisiones evitadas
+en 20.000 km son de 2 kg de NOx. Estas
+emisiones evitadas equivalen a un ahorro
+entre 0,23 UF (en Copiapó) y 0,79 UF (en
+Santiago).
+Nota: La información de los beneficios económicos y ambientales fueron obtenidos gracias al informe: “Análisis de Costo-Beneficio:
+Criterios Sustentables para Compras Públicas” del Ministerio de Medio Ambiente (2018).
+3.1.1.4 Observaciones de mercado actual
+Criterio Sobre mercado actual
+Bajas emisiones de CO por Los límites establecidos como bajas emisiones aseguran que al menos el 40% de las
+2
+kilómetro del vehículo. versiones de vehículos están disponibles en el mercado. La tabla siguiente muestra los
+porcentajes de versiones de vehículos disponibles por carrocería:
+Carrocería Disponibilidad de versiones de vehículos
+Hatchback 41%
+Sedán 43%
+Station wagon y SUV 57%
+Furgón y mini bus 48%
+Camioneta 42%
+Nota: Datos obtenidos de registro vehicular 3CV considerando vehículos Euro V y Euro VI.
+Bajas emisiones de gases La disponibilidad actual (septiembre 2018) de vehículos Euro VI es muy reducida para el
+contaminantes (norma Euro). caso las camionetas y los furgones.
+
+--- Página 81 ---
+07 - ANEXOS 81
+3.1.1.5 Cómo aplicar los criterios?
+En primer lugar, se recomienda evaluar si el criterio puede ser aplicado como un criterio obligatorio (el bien o
+servicio debe cumplir con el criterio) o como un criterio de evaluación (el bien o servicio puede cumplir con el
+criterio, de manera que, si cumple, se le dará mayor puntaje al momento de evaluar las opciones).
+Criterio Criterio obligatorio / Compra a través de Tienda Compra a través de
+Criterio de evaluación ChileCompra Express licitaciones o trato directo
+Bajas emisiones de CO por • Obligatorio o Actualmente, la tienda de En caso de que este criterio
+2
+kilómetro del vehículo. • De Evaluación con un pun- ChileCompra no permite vi- sea usado como criterio de
+taje entre 10-20%. sualizar las emisiones de CO admisión tanto en licitación
+2
+del vehículo o la norma Euro. como en trato directo, se
+Nota: Si es utilizado como un criterio
+de admisión (obligatorio), se reco- Por ende, será necesario ob- puede agregar la descrip-
+mienda evaluar previamente la dis- tener esta información, la ción del criterio y verifica-
+ponibilidad de vehículos en el mer- cual puede ser obtenida de dor en los requisitos básicos
+cado según los otros requisitos del
+dos posibles fuentes: del vehículo.
+vehículo que establezca la entidad.
+• La página www.consumo- En caso de que el criterio
+Bajas emisiones de gases • De Evaluación con un pun- vehicular.cl , la cual tiene un sea usado como criterio de
+contaminantes (norma Euro). taje entre 1-5%. buscador fácil de utilizar. evaluación para las licita-
+• Consultar directamente al ciones, se puede agregar
+proveedor del vehículo. la descripción del criterio y
+verificador como un factor
+de evaluación.
+
+--- Página 82 ---
+82 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+3.1.2
+Categoría 2:
+Computadores
+3.1.2.1 Descripción / alcance
+Esta sección incluye la adquisición y arriendo de computadores de escritorio y All in One.
+3.1.2.2 Criterios y verificadores
+Nombre de criterio Descripción de criterio Medio de verificación
+Equipo energéticamente efi- El producto es eficiente energéticamente El equipo posee alguna Ecoetiqueta tipo I
+ciente (certificado en Energy de acuerdo con las normas ENERGY STAR o (elaborada en base a ISO 14024) como TCO
+Star). equivalente. Más información en: https:// Certified, Rótulo Ecológico ABNT (Brasil),
+www.energystar.gov/ European Ecolabel, Blue Angel de Alemania
+(Blaue Engel), Nordic Swan (Países Nórdi-
+cos) u otra. Si el producto no cumple con lo
+anterior, el oferente presenta la ficha téc-
+nica del equipo, la donde menciona que el
+equipo cumple con la norma Energy Star.
+3.1.2.3 Costos y beneficios
+Criterio Costos y beneficios económicos Beneficios ambientales
+Equipo energéticamente efi- Los precios de adquisición de un equipo Consumo de energía anual por computa-
+ciente (certificado en Energy Energy Star suelen ser muy similares a un dor de escritorio promedio:
+Star). equipo sin Energy Star. Además, el consu- • Energy Star: 177,06 kWh.
+mo de energía durante el uso del equipo • Convencional: 408,40 kWh.
+es mucho menor en el caso de los equipos Se ahorraría alrededor de 231 kWh por
+Energy Star. Un computador de escritorio equipo anualmente.
+Energy Star consume alrededor de un 57% Emisiones anuales de CO por computador
+2
+menos aproximadamente. Este menor con- de escritorio promedio:
+sumo de energía se traduce en un ahorro • Energy Star: 56,78 kgCO .
+2
+monetario para la entidad anualmente. • Convencional: 130,97 kgCO .
+2
+Se evitaría alrededor de 74 kg CO2 por
+equipo anualmente.
+Nota: Se considera un factor de emisión de
+0,321 kgCO e/ kWh del Sistema Eléctrico Nacional.
+2
+10- Factor de emisión del Sistema Eléctrico Nacional proyectado para el año 2019 en el escenario C. Este valor fue obtenido a través de
+la División de Prospectiva y Política Energética del Ministerio de Energía.
+Nota: La información de los beneficios económicos y ambientales fueron obtenidos gracias al informe: “Análisis de Costo-Beneficio:
+Criterios Sustentables para Compras Públicas” del Ministerio de Medio Ambiente (2018).
+
+--- Página 83 ---
+07 - ANEXOS 83
+3.1.2.4 Observaciones de mercado actual
+Criterio Sobre mercado actual
+Equipo energéticamente efi- En el mercado chileno, existen computadores de escritorio que mencionan el sello Ener-
+ciente (certificado en Energy gy Star en sus fichas técnicas. Estos computadores suelen ser de marcas internacionales
+Star). (como HP y Lenovo). Por el contrario, las marcas de computadores nacionales, las cuales,
+suelen ser armadas (computadores de escritorio) en Chile no tienen el sello Energy Star.
+3.1.2.5 ¿Cómo aplicar los criterios?
+En primer lugar, se recomienda evaluar si el criterio puede ser aplicado como un criterio obligatorio (el bien o
+servicio debe cumplir con el criterio) o como un criterio de evaluación (el bien o servicio puede cumplir con el
+criterio, de manera que, si cumple, se le dará mayor puntaje al momento de evaluar las opciones).
+Y, en segundo lugar, se entregan recomendaciones para comprar a través de la modalidad de convenio marco
+(Tienda ChileCompra Express) y a través de la modalidad de licitaciones o trato directo.
+Criterio Criterio obligatorio / Compra a través de Tienda Compra a través de
+Criterio de evaluación ChileCompra Express licitaciones o trato directo
+Equipo energéticamente • Obligatorio o Actualmente, la tienda de En caso de que este criterio
+eficiente (certificado en • De Evaluación con un pun- ChileCompra permite visua- sea usado como criterio de
+Energy Star). taje entre 5-15%. lizar en la ficha del producto admisión tanto en licitación
+(sección “atributos exten- como en trato directo, se
+Nota: Si es utilizado como un cri-
+terio de admisión (obligatorio), se didos”) si el computador de puede agregar la descrip-
+recomienda evaluar previamente la escritorio cumple con Ener- ción del criterio y verifica-
+disponibilidad de equipos en el mer- gy Star. dor en los requisitos básicos
+cado según los requisitos que esta-
+En el caso de los equipos All del equipo.
+blezca la entidad.
+in One, se pueden identificar En caso de que el criterio
+algunos equipos con Energy sea usado como criterio de
+Star en la ficha del producto evaluación para las licita-
+(sección “descripción”). ciones, se puede agregar
+la descripción del criterio y
+verificador como un factor
+de evaluación.
+
+--- Página 84 ---
+84 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+3.1.3
+Categoría 3:
+Impresoras multifuncionales
+3.1.3.1 Descripción / alcance
+Esta sección incluye la adquisición y arriendo de impresoras y multifuncionales de inyección a tinta y láser.
+3.1.3.2 Criterios y verificadores
+Nombre de criterio Descripción de criterio Medio de verificación
+Equipo energéticamente efi- El producto es eficiente energéticamente El equipo posee alguna Ecoetiqueta tipo I
+ciente (certificado en Energy de acuerdo con las normas ENERGY STAR o (elaborada en base a ISO 14024) como TCO
+Star). equivalente. Más información en: Certified, Rótulo Ecológico ABNT (Brasil),
+https://www.energystar.gov/ European Ecolabel, Blue Angel de Alemania
+(Blaue Engel), Nordic Swan (Países Nórdi-
+cos) u otra. Si el producto no cumple con
+lo anterior, el oferente presenta la ficha
+técnica del equipo, la cual menciona que
+el equipo cumple con la norma Energy Star.
+3.1.3.3 Costos y beneficios
+Criterio Costos y beneficios económicos Beneficios ambientales
+Equipo energéti- Es posible que un equipo con Energy Star Consumo de energía anual (kWh) por impresora multifuncional:
+camente eficien- sea usualmente de precio más alto que
+Tipo Energy Star Sin Energy Star
+te (certificado en un equipo sin Energy Star. Sin embargo,
+Energy Star). el consumo de energía durante el uso del Inyección a tinta 6,0 12,4
+equipo es mucho menor en el caso de los Láser Monocromo (1-10 ppm) 52 78
+equipos Energy Star. Una multifuncional Láser Monocromo (11-20 ppm) 52 120
+Energy Star consume un 52% aproxima- Láser color (1-44 ppm) 78 328
+damente. Este menor consumo de energía
+se traduce en un ahorro monetario para la En base a los consumos energéticos, las emisiones de CO
+2
+entidad anualmente. evitadas por impresora multifuncional por año son:
+Tipo Emisiones evitadas (kgCO )
+2
+Inyección a tinta 2,1
+Láser Monocromo (1-10 ppm) 8,4
+Láser Monocromo (11-20 ppm) 21,8
+Láser color (1-44 ppm) 80,3
+Nota: Se considera un factor de emisión de 0,321 kgCO2e/kWh del Sistema
+Eléctrico Nacional
+Nota: La información de los beneficios económicos y ambientales fueron obtenidos gracias al informe: “Análisis de Costo-Beneficio:
+Criterios Sustentables para Compras Públicas” del Ministerio de Medio Ambiente (2018).
+
+--- Página 85 ---
+07 - ANEXOS 85
+3.1.3.4 Observaciones de mercado actual
+Criterio Sobre mercado actual
+Equipo energéticamente eficiente La mayoría de las impresoras más vendidas en años pasados indican Energy Star en sus fichas
+(certificado en Energy Star). técnicas. Las marcas más vendidas son: Epson, HP y Brother.
+3.1.3.5 ¿Cómo aplicar los criterios?
+En primer lugar, se recomienda evaluar si el criterio puede ser aplicado como un criterio obligatorio (el bien o
+servicio debe cumplir con el criterio) o como un criterio de evaluación (el bien o servicio puede cumplir con el
+criterio, de manera que, si cumple, se le dará mayor puntaje al momento de evaluar las opciones).
+Y, en segundo lugar, se entregan recomendaciones para comprar a través de la modalidad de convenio marco
+(Tienda ChileCompra Express) y a través de la modalidad de licitaciones o trato directo.
+Criterio Criterio obligatorio / Compra a través de Tienda Compra a través de
+Criterio de evaluación ChileCompra Express licitaciones o trato directo
+Equipo • Obligatorio Actualmente, no existe informa- En caso de que este criterio sea usado para
+energéticamente • De Evaluación con un puntaje ción en la Tienda de ChileCom- la admisión, tanto en licitación como en trato
+eficiente entre 5-15%. pra Express sobre si el equipo directo, se puede agregar la descripción del
+(certificado en tiene certificación Energy Star. criterio y verificador en los requisitos básicos
+Nota: Si es utilizado como un cri-
+Energy Star). Por ende, sería necesario con- del equipo.
+terio de admisión (obligatorio), se
+sultar al proveedor. En caso de que el criterio sea usado para la
+recomienda evaluar previamente la
+disponibilidad de equipos en el mer- evaluación de licitaciones, se puede agregar la
+cado según los requisitos que esta- descripción del criterio y verificador como un
+blezca la entidad. factor de evaluación.
+11- Factor de emisión del Sistema Eléctrico Nacional proyectado para el año 2019 en el escenario C. Este valor fue obtenido a través de
+la División de Prospectiva y Política Energética del Ministerio de Energía.
+
+--- Página 86 ---
+86 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+3.1.4
+Categoría 4:
+Papel de impresión
+3.1.4.1 Descripción / alcance
+Esta sección incluye las resmas de papel para impresión y fotocopiado de tamaño A4, carta y oficio.
+3.1.4.2 Criterios y verificadores
+Nombre de criterio Descripción de criterio Medio de verificación
+Papel proveniente de mane- Para cumplir con este criterio, se puede El producto posee alguna Ecoetiqueta tipo
+jo sustentable de bosques cumplir con alguna de las siguientes op- I (elaborada en base a ISO 14024) como
+o proveniente de residuos ciones: Sello Ambiental Colombiano (SAC), Rotulo
+agroindustriales 1. El papel proviene de bosques manejados Ecológico ABNT (Brasil), European Ecolabel,
+de manera sustentable, según estándar de Blue Angel de Alemania (Blaue Engel), Nor-
+Forest Stewardship Council (FSC), están- dic Swan (Países Nórdicos), Green Seal de
+dar de Programme for the Endorsement EEUU., etc.
+of Forest Certification (PEFC) o un estándar Si el producto no cumple con lo anterior,
+equivalente. puede:
+2. El papel está hecho en base a residuos 1. Para el caso de papel proveniente de
+agroindustriales (como residuos agrícolas manejo sustentable de bosques, el ofe-
+que quedan después de la cosecha, bagazo rente debe suministrar un producto que
+o caña de azúcar, cáscara de arroz, residuos cumpla con la certificación FSC, PEFC o
+de la semilla de algodón, etc.). equivalente.
+2. Para el caso de residuos agroindustria-
+les, el oferente debe suministrar una ficha
+técnica del producto que incluya:
+• composición del producto indicando el
+residuo agroindustrial;
+• su origen (empresa y proceso de producción);
+• fecha de emisión y
+• la empresa emisora.
+Papel reciclado El papel contiene por lo menos un 50 de El oferente debe suministrar una ficha técnica
+fibras de material reciclado (provenien- del producto que incluya al menos:
+tes de pre-consumo, post-consumo o una • composición del producto diferenciando
+mezcla de ambas). el papel reciclado post-consumo y
+pre-consumo;
+• origen (empresa y proceso de producción);
+• fecha de emisión y
+• La empresa emisora.
+
+--- Página 87 ---
+07 - ANEXOS 87
+3.1.4.3 Costos y beneficios
+Criterio Costos y beneficios económicos Beneficios ambientales
+Papel proveniente de manejo susten- El uso de este criterio no representa un Las certificaciones FSC y PEFC se preo-
+table de bosques o proveniente de re- costo adicional para la entidad com- cupan de proteger y generar un manejo
+siduos agroindustriales pradora. Muchas marcas lo cumplen sustentable de bosques. Esto se tradu-
+(por ejemplo: Chamex, Equalit, Report, ce, básicamente, en protección de la
+Magnum, Ecplipse y Prisa). biodiversidad, almacenamiento de car-
+bono, cuidado de los recursos naturales
+y respeto por las comunidades.
+No se pudo estimar con cifras los bene-
+ficios ambientales.
+Papel reciclado Sólo se identificó y acreditó una mar- Las emisiones de CO que se evitan al
+2
+ca de papel reciclado tamaño carta y comprar una resma cuyo contenido re-
+A4 (revisión agosto 2018). Esta marca ciclado sea del 50%, es de 1,06 kg de
+es Chamex Eco, que se encuentra en la CO . Este valor fue calculado sobre la
+2
+Tienda de ChileCompra Express y tiene base de la comparación entre las emi-
+un precio ligeramente mayor ($21 por siones de GEI en el ciclo de vida de una
+resma) en comparación al promedio de resma con contenido reciclado (50%) y
+precios de ocho marcas. una resma sin contenido reciclado.
+Nota: La información de los beneficios económicos y ambientales fueron obtenidos gracias al informe: “Análisis de Costo-Beneficio:
+Criterios Sustentables para Compras Públicas” del Ministerio de Medio Ambiente (2018).
+3.1.4.4 Observaciones de mercado actual
+Criterio Sobre mercado actual
+Papel proveniente de manejo sus- La mayoría de las marcas de resmas en el mercado chileno cumplen con la certifi-
+tentable de bosques o provenien- cación FSC o PEFC. Algunas de estas marcas son: Chamex, Equalit, Report, Magnum,
+te de residuos agroindustriales Eclipse y Prisa. Estas marcas suelen ser de las de menor precio en la Tienda de Chile-
+Compra Express.
+Papel reciclado Sólo se identificó y acreditó una marca de papel reciclado tamaño carta y A4 (revisión
+agosto 2018). Esta marca es Chamex Eco , la cual se encuentra en la Tienda de Chile-
+Compra Express a un precio competitivo.
+3.1.4.5 ¿Cómo aplicar los criterios?
+En primer lugar, se recomienda evaluar si el criterio puede ser aplicado como uno obligatorio (el bien o servicio
+debe cumplir con el criterio) o como uno de evaluación (el bien o servicio puede cumplir con el criterio, de
+manera que, si cumple, se le dará mayor puntaje al momento de evaluar las opciones).
+Y, en segundo lugar, se entregan recomendaciones para comprar a través de la modalidad de convenio marco
+(Tienda ChileCompra Express) y a través de la modalidad de licitaciones o trato directo.
+
+--- Página 88 ---
+88 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Criterio Criterio obligatorio / Compra a través de Tienda Compra a través de
+Criterio de evaluación ChileCompra Express licitaciones o trato directo
+Papel proveniente de • Obligatorio o Actualmente, la tienda de En caso de que este criterio
+manejo sustentable de • De Evaluación con un pun- ChileCompra permite iden- sea usado para la admisión,
+bosques o proveniente de taje entre 10-30%. tificar algunas remas de pa- tanto en licitación como
+residuos agroindustriales pel que tiene el sello FSC o en trato directo, se puede
+Nota: En caso de que el proveedor
+cumpla con el criterio “papel reci- PEFC. Esto, gracias a que la agregar la descripción del
+clado”, no es necesario cumplir con imagen del envase en la fi- criterio y verificador en los
+este criterio sólo cuando el porcen- cha de producto permite di- requisitos básicos del papel.
+taje de papel reciclado sea de un
+ferenciar si el producto tiene En caso de que el criterio
+100%.
+el sello FSC o PEFC (la ma- sea usado para la evaluación
+Papel reciclado • De evaluación con puntaje yoría de las veces). Sin em- de licitaciones, se puede
+entre 1-5%. bargo, la ficha de producto agregar la descripción del
+no indica en ninguna de sus criterio y verificador como
+tres secciones (descripción, un factor de evaluación.
+características del producto
+y atributos extendidos) que
+el producto cumpla con FSC
+o PEFC.
+El oferente debe suministrar
+una ficha técnica del pro-
+ducto que incluya al menos:
+• composición del produc-
+to diferenciando el papel
+reciclado post-consumo y
+pre-consumo;
+• origen (empresa y proceso
+de producción);
+• fecha de emisión y
+• La empresa emisora.
+12- http://www.mercadopublico.cl/TiendaFicha/Ficha?idProducto=1533457
+
+--- Página 89 ---
+07 - ANEXOS 89
+3.1.5
+Categoría 5:
+Servicios de Catering y Coffee Break
+3.1.5.1 Descripción / alcance
+Esta sección incluye los servicios de alimentación para eventos varios de la entidad compradora. Estos servicios
+pueden ser desayunos, coffee breaks, almuerzos, comidas u otros.
+3.1.5.2 Criterios y verificadores
+Nombre de criterio Descripción de criterio Medio de verificación
+Uso de menaje reutilizable Para evitar totalmente la utilización de El oferente declara el uso de materiales reu-
+menaje desechable (un solo uso), el ofe- tilizables para el servicio solicitado. La decla-
+rente ocupa en el evento menaje de ma- ración debe indicar el material por utilizar en
+terial reutilizable (vidrio, metal, losa, por- los siguientes tipos de menaje (cuando sea
+celana, etc.) para servir los bebestibles y aplicable):
+alimentos. Esto incluye vasos, tazas, platos, • Vasos y tazas.
+vajillas y cubiertos. • Platos y vajillas.
+• Cubiertos.
+3.1.5.3 Costos y beneficios
+Criterio Costos y beneficios económicos Beneficios ambientales
+Uso de menaje reutilizable Podría traer un aumento leve de pre- Es importante mencionar que para que
+cios. Sin embargo, este aumento puede sea ambientalmente conveniente el
+darse solo en algunos casos, únicamen- uso de menaje reutilizable, este debe
+te cuando son eventos sobre 100 per- usarse sobre 321 veces, en compara-
+sonas, ya que la mayoría de los provee- ción a vaso de poliestireno expandido
+dores suelen entregar sus servicios con (plumavit) 13 .
+menaje reutilizable.
+Nota: La información de los beneficios económicos y ambientales fueron obtenidos gracias al informe: “Análisis de Costo-Beneficio:
+Criterios Sustentables para Compras Públicas” del Ministerio de Medio Ambiente (2018).
+13- Este valor corresponde al promedio de veces que debería reutilizarse una taza de cerámica en comparación a un vaso desechable de
+plumavit. Esta información fue obtenida del estudio de Clean Water Fund (2016), el que hace una revisión de estudios de ACV que indican
+la cantidad de veces que debería ser usado el menaje reutilizable para ser ambientalmente conveniente, va desde 70 hasta 1.006 veces
+-con un promedio 321 veces- comparando la taza de cerámica con el vaso de poliestireno; y valores desde 31 hasta 120 veces -con un
+promedio de 56 veces- comparando la taza de cerámica con el vaso de polipapel. Esta variación de cantidad de veces depende de las
+condiciones locales y prácticas de cuidado y lavado del menaje.
+
+--- Página 90 ---
+90 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+3.1.5.4 Observaciones de mercado actual
+Criterio Sobre mercado actual
+Uso de menaje reutilizable La mayoría de los proveedores tanto PYMES como grandes empresas utilizan maneje
+reutilizable para proveer estos servicios.
+3.1.5.5 ¿Cómo aplicar los criterios?
+En primer lugar, se recomienda evaluar si el criterio puede ser aplicado como uno obligatorio (el bien o servicio
+debe cumplir con el criterio) o uno de evaluación (el bien o servicio puede cumplir con el criterio, de manera
+que, si cumple, se le dará mayor puntaje al momento de evaluar las opciones).
+Y, en segundo lugar, se entregan recomendaciones para comprar a través de la modalidad de convenio marco
+(Tienda ChileCompra Express) y mediante la modalidad de licitaciones o trato directo.
+Criterio Criterio obligatorio / Compra a través de Tienda Compra a través de
+Criterio de evaluación ChileCompra Express licitaciones o trato directo
+Uso de menaje reutilizable • Obligatorio o Actualmente, la tienda de En caso de que este criterio
+• De Evaluación con un pun- ChileCompra no indica en la sea usado como criterio de
+taje entre 10-30%. ficha del servicio, si el ser- admisión tanto en licita-
+vicio considera el uso de ción como en trato directo,
+Nota: Se recomienda que para even-
+tos masivos o eventos con alta pro- material desechable o reu- se puede agregar la des-
+babilidad de rompimiento o pérdida tilizable. cripción del criterio y veri-
+del menaje (p.ej. eventos deportivos, ficador en los requisitos de
+Por ende, se recomienda
+recitales, celebraciones al aire libre),
+consultar directamente al menaje.
+se utilice este criterio como un cri-
+terio de evaluación y se recomiende proveedor. En caso de que el criterio
+el uso de material resistente a caí- sea usado como criterio de
+das (p.ej. plásticos reutilizables).
+evaluación para las licita-
+ciones, se puede agregar
+la descripción del criterio y
+verificador como un factor
+de evaluación.
+
+--- Página 91 ---
+07 - ANEXOS 91
+3.2 CRITERIOS SUSTENTABLES PARA PROVEEDORES
+Los criterios para proveedores, o también llamados criterios transversales,
+están asociados a cinco iniciativas públicas del Estado de Chile:
+1.-Huella de Chile:
+Es un programa gratuito, voluntario y en línea, por medio del cual toda
+organización, sin importar el sector o rubro, puede cuantificar, informar y
+gestionar sus emisiones de gases de efecto invernadero (GEI), las cuales
+son responsables del fenómeno del cambio climático. HuellaChile posee
+un sistema de reconocimientos (sellos) que permite diferenciar a las
+organizaciones que han realizado esfuerzos en la mitigación del cambio
+climático (descripción obtenida de www.huellachile.cl). Estos sellos son:
+Sello de Cuantificación:
+Se otorga a las organizaciones registradas en el programa HuellaChile, que
+cuantifican, reportan y verifican sus emisiones de GEI.
+Sello de Reducción:
+Se otorga a las organizaciones que, además de cuantificar, reportar y
+verificar sus emisiones GEI, implementan acciones que logran reducirlas,
+o que incrementan las remociones. Estas reducciones o incremento deben
+estar verificadas por un organismo independiente.
+Sello de Neutralización:
+Se otorga a las organizaciones que, además de implementar acciones de
+reducción y/o remoción de sus emisiones de GEI, adquieren créditos de
+carbono (bonos) de proyectos nacionales, para neutralizar sus emisiones de
+GEI restantes.
+Sello de Excelencia:
+Es el nivel asociado a una excelencia en la gestión de GEI a nivel organizacional.
+Los requisitos para la obtención del reconocimiento de excelencia son:
+participar en el programa HuellaChile por al menos un año; contar con la
+cuantificación de GEI a nivel organizacional de al menos dos años; haber
+alcanzado el nivel de Reducción de GEI de HuellaChile, presentando la
+declaración e informe del programa, entre otros requisitos.
+
+--- Página 92 ---
+92 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+2.- Acuerdos de Producción Limpia (APL):
+Es un convenio de carácter voluntario celebrado entre una asociación
+empresarial representativa de un sector productivo y los organismos públicos
+competentes en materias de sustentabilidad, cuyo objetivo es aplicar la
+Producción Limpia a través de metas y acciones específicas en un plazo
+determinado. Los proveedores que obtienen el certificado de cumplimiento
+de APL (o el sello estrella Azul) son los que lograron cumplir con las metas
+acordadas (descripción obtenida de http://www.agenciasustentabilidad.cl/
+pagina/apl).
+3.-Sello Empresa Mujer:
+La Dirección de ChileCompra y ChileProveedores crearon el Sello Empresa
+Mujer, el cual identifica a las empresas lideradas por mujeres. En el caso de
+que el proveedor sea una persona natural, la única condición necesaria es
+ser mujer y en el caso de que el proveedor sea una persona jurídica, éste
+cumple con dos condiciones: (1) el 50% de la propiedad de la empresa
+corresponde a una o más mujeres y (2) el representante legal o gerente
+general es mujer (descripción obtenida de http://www.chileproveedores.cl/
+SelloEmpresaMujer.aspx).
+4.- Sello ProPyme:
+El Sello ProPyme se crea en el Ministerio de Economía, Fomento y Turismo
+con el fin de garantizar mejores condiciones para las empresas de menor
+tamaño del país. El sello se les entregará a las entidades que cumplan con
+pagar a sus proveedores empresas de menor tamaño en un plazo máximo de
+30 días corridos (definición obtenido de www.sellopropyme.cl).
+5.- Sello S de Turismo Sustentable:
+Es una distinción impulsada por la Mesa Nacional de Sustentabilidad Turística
+(Subsecretaría de Turismo, Subsecretaría de Medio Ambiente, Federación
+de empresas de turismo de Chile, Centro Vincular de la PUCV, entre otros).
+El Sello S garantiza que un servicio turístico cumple con criterios globales
+de sustentabilidad en los ámbitos sociocultural, medioambientales y
+económicos. El Sello S aplica solo para servicios de alojamientos turísticos,
+tour operadores y agencias de viaje operando en Chile (descripción obtenida
+de http://www.chilesustentable.travel/ distinción).
+
+--- Página 93 ---
+07 - ANEXOS 93
+3.2.1 Criterios transversales (dirigidos al proveedor)
+3.2.1.1 Descripción / alcance
+Los criterios transversales pueden utilizarse para las compras de cualquier tipo de bien o servicio (a excepción
+del sello S). Esto se debe a que el criterio o exigencia va dirigida a las operaciones o prácticas del proveedor,
+más que a un atributo del bien o servicio. No obstante, a continuación, se entregan recomendaciones de uso
+de sellos según tipo de bienes y servicios. Estas recomendaciones están basadas en la disponibilidad actual
+de empresas con Acuerdos de Producción Limpia (APL), Sello Empresa Mujer, ProPyme y Sello S. En el caso de
+HuellaChile, las recomendaciones están basadas en la disponibilidad de empresas participando en la iniciativa,
+así como, sectores que suelen tener emisiones importantes de gases de efecto invernadero.
+Nombre de criterio Descripción de criterio Medio de verificación
+Huella de Chile Servicios de construcción y mantenimiento (para obras medianas y grandes).
+Servicios de alimentación (casinos primordialmente).
+Servicios de alojamiento y arriendo de espacios en hoteles. Consultorías y asesorías.
+Compra y arriendo de vehículos (automotoras y concesionarios). Servicios de transporte de
+pasajeros por bus.
+Servicios de correspondencia.
+Servicios de data center y almacenamiento de datos. Servicios de telefonía, internet y tele-
+visión.
+Suministradores de artículos de oficina.
+Acuerdos de Producción Servicios de impresión.
+Limpia (APL) Servicios de alojamiento y arriendo de espacios en hoteles.
+Sello Empresa Mujer Todos los bienes y servicios.
+Sello ProPyme Servicios de construcción y mantenimiento (para obras medianas y grandes). Servicios de
+alimentación (casinos primordialmente).
+Servicios de alojamiento y arriendo de espacios en hoteles. Servicios financieros.
+Servicios de transporte aéreo de pasajeros.
+Sello S de Turismo Servicios de alojamiento y arriendo de espacios en hoteles. Servicios de turismo (tours y
+Sustentable operadoras de viajes).
+
+--- Página 94 ---
+94 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+3.2.1.2 Criterios y verificadores
+Nombre de Descripción de criterio Medio de verificación
+criterio
+Participación en El proveedor cumple con alguno de los siguientes nive- En el caso que el proveedor esté registrado
+HuellaChile les de participación o sellos de la iniciativa HuellaChile: en el programa de HuellaChile, este debe-
+1. Se encuentra registrado en el programa HuellaChile. rá presentar el correo de confirmación de
+2. Se encuentra registrado en el programa HuellaChile, inscripción en HuellaChile o correo de re-
+obteniendo el sello de CUANTIFICACIÓN dentro de los cepción de carta de compromiso voluntario
+dos años anteriores a la fecha de compra. conforme a procesos del programa Huella-
+3. Se encuentra registrado en el programa HuellaChile, Chile (más detalles www.huellachile.cl).
+obteniendo el sello de REDUCCIÓN dentro de los dos
+años anteriores a la fecha de compra. En el caso que el proveedor haya obtenido
+4. Se encuentra registrado en el programa HuellaChile, algunos de los sellos, este deberá entre-
+obteniendo el sello de NEUTRALIZACIÓN dentro de los gar el certificado respectivo emitido por
+dos años anteriores a la fecha de compra. HuellaChile.
+5. Se encuentra registrado en el programa HuellaChile,
+obteniendo el sello de EXCELENCIA dentro de los dos
+años anteriores a la fecha de compra.
+El puntaje obtenido por el proveedor dependerá del nivel
+o sello según la siguiente tabla:
+Nivel o Sello Porcentaje del puntaje
+para este criterio
+Registrado en HuellaChile 15%
+Sello Cuantificación 50%
+Sello Reducción 75%
+Sello Neutralización 90%
+Sello Excelencia 100%
+Participación en El proveedor ha participado y cumplido con las metas y El proveedor entrega el certificado de
+Acuerdo de Pro- actividades de un Acuerdo de Producción Limpia vigente. cumplimiento de APL o el Sello Estrella
+ducción Limpia Azul vigente.
+(APL)
+Sello Empresa Si el proveedor es una persona natural, la única condi- El proveedor tiene el certificado o Se-
+Mujer ción es ser mujer. llo Empresa Mujer vigente otorgado
+Si el proveedor es una persona jurídica, se solicita cum- por ChileCompra. Más información en:
+plir con dos condiciones: http://www.chileproveedores.cl/SelloEm-
+presaMujer.aspx
+• Que más del 50% de la propiedad de la empresa sea de
+una o más mujeres,
+• Que su representante legal o gerente general sea mujer.
+Sello ProPyme El proveedor paga a sus proveedores empresas de me- El proveedor tiene el certificado o Sello
+nor tamaño en un plazo máximo de 30 días corridos. ProPyme vigente.
+Sello S de Turis- El proveedor cumple con estándares de sustentabilidad El proveedor tiene el certificado o Sello S
+mo Sustentable asociados al Sello S entregado por la Mesa Nacional de vigente u otro certificado equivalente.
+Sustentabilidad Turística u otro estándar basado en el
+Global Sustainable Tourism Council (GSTC).
+
+--- Página 95 ---
+07 - ANEXOS 95
+3.2.1.3 Costos y beneficios estimados
+Criterio Costos y beneficios económicos Beneficios ambientales
+Los cinco sellos anteriores A excepción del sello Empresa HuellaChile: La participación de empresas en HuellaChile
+(HuellaChile, APL, Empresa Mujer, se estima que los provee- asegura el compromiso y realización de esfuerzos para
+Mujer, ProPyme y Sello S) dores con los sellos (HuellaChile, reducción las emisiones de gases de efecto invernadero
+APL, ProPyme y Sello S) podrían y mitigar el cambio climático. Esta potenciales reducción
+tener un precio superior en com- depende los niveles de exigencia (sellos) y las acciones lle-
+paración con proveedores sin vadas a cabo por la organización participante.
+sello. APL: Los acuerdos de producción limpia apuntan a distintos
+aspectos ambientales, tales como consumo de energía,
+consumo de agua, emisiones contaminantes, generación
+de residuos, etc.
+Empresa Mujer: La preferencia de empresas con el sello
+mujer permite fomentar el éxito y continuidad de iniciati-
+vas lideradas por mujeres. También promueve la emplea-
+bilidad de mujeres en cargos alta jerarquía.
+ProPyme: La preferencia de comprar a empresas con el se-
+llo, promueve la protección y estabilidad de MIPYMES.
+Sello S: Las empresas que tienen el sello han realizado ac-
+ciones para reducir sus impactos ambientales, sociales y
+económicos negativos.
+3.2.1.4 Observaciones de mercado actual
+Criterio Sobre mercado actual
+Participación en Según la página de HuellaChile, la cantidad de empresas privadas con sellos son las siguientes:
+HuellaChile • Sello Cuantificación: 56 empresas.
+• Sello Reducción: 6 empresas.
+• Sello Neutralización: 1 empresa.
+• Sello Excelencia: 1 empresa.
+Más información en: http://www.huellachile.cl/organizaciones-con-reconocimientos/
+Participación en Según el buscador de proveedores de ChileProveedores, hay 114 organizaciones con el sello estrella
+Acuerdo de azul o certificado de APL. Los proveedores son de varios sectores tales como: universidades, produc-
+Producción ción y comercialización de alimentos, maquinaria y materiales industriales, restaurantes, entre otros.
+Limpia (APL) Más información en: http://www.chileproveedores.cl/
+Sello Empresa Según datos del 2017, existen cerca de 370 proveedores con el sello Empresa Mujer y más de 19.000
+Mujer personas naturales con el sello.
+Sello ProPyme Según la página del sello ProPyme hay 171 empresas con el sello. Más información en: http://www.
+sellopropyme.cl/?page_ id=40&adhesion=2&sector=0
+Sello S de Según la página del sello S, hay 151 proveedores con alguna distinción de sello S. Dentro de estos
+Turismo proveedores se puede diferenciar lo siguiente:
+Sustentable • Alojamientos (hoteles, hostales, etc.): 106 empresas.
+• Agencias y tour turísticos: 45 empresas.
+
+--- Página 96 ---
+96 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+3.2.1.5 ¿Cómo aplicar los criterios?
+En primer lugar, se recomienda evaluar si el criterio puede ser aplicado como uno obligatorio (el bien o servicio
+debe cumplir con el criterio) o como uno de evaluación (el bien o servicio puede cumplir con el criterio, de
+manera que, si cumple, se le dará mayor puntaje al momento de evaluar las opciones).
+Y, en segundo lugar, se entregan recomendaciones para comprar a través de la modalidad de convenio marco
+(Tienda ChileCompra Express) y mediante de la modalidad de licitaciones o trato directo.
+Criterio Criterio obligatorio / Compra a través de Tienda Compra a través de
+Criterio de evaluación ChileCompra Express licitaciones o trato directo
+Participación en HuellaChile • De Evaluación con un pun- Actualmente, la tienda de Se puede agregar la des-
+taje entre 1-10 %. ChileCompra permite visua- cripción del criterio y veri-
+lizar en la ficha del producto ficador como un factor de
+Participación en Acuerdo de
+(sección “atributos extendi- evaluación.
+Producción Limpia (APL)
+dos”) si el proveedor cumple Para el caso de los sellos
+Sello Empresa Mujer con sello APL, Sello Empresa APL, Empresa Mujer y Pro-
+Mujer y sello ProPyme. Pyme, las fichas de provee-
+Sello ProPyme dor permiten identificar la
+presencia de sellos.
+
+--- Página 97 ---
+07 - ANEXOS 97
+• ANEXO I: OBJETIVOS DEL INSTRUCTIVO Y VÍNCULO CON POLÍTICAS Y COMPROMISOS INTERNACIONALES
+La compra pública sustentable es una herramienta que apoya el cumplimiento de las políticas y programas
+nacionales en materia de sustentabilidad. Por lo tanto, este instructivo determina objetivos generales basados
+en compromisos internacionales del Estado de Chile y en las políticas y programas nacionales asociados a la
+sustentabilidad. A continuación, se muestran los objetivos asociados a la sustentabilidad, los cuales fueron
+considerados para la elaboración del presente instructivo.
+En la siguiente figura, se presentan los objetivos y desafíos de sustentabilidad considerados para la elaboración
+de este instructivo:
+Figura 1. Objetivos y desafíos considerados.
+Cambio Climático y Energía Reducir las emisiones de gases de efecto invernadero (GEIs) y el con-
+sumo energético, mediante el uso tecnologías de eficiencia energética,
+promoción de HuellaChile y otras medidas.
+Prevención, Reutilización y Reciclaje de Residuos Reducir la generación de residuos en el país.
+Emisiones Atmosféricas Evitar o reducir las emisiones de gases de contaminación local.
+Equidad de Género Promover la equidad de género en el sector privado y la industria.
+Empresa de Menor Tamaño Proteger las operaciones de las empresas de menor tamaño en los dis-
+tintos rubros económicos.
+Elaboración propia
+Cabe mencionar, que cada objetivo está vinculado, al menos, a uno de los criterios sustentables que están
+presentes en este instructivo. Estos objetivos podrían ser ampliados en actualizaciones posteriores, así como,
+cada entidad podría abordar otros objetivos según su situación y contexto 14 .
+A continuación, se presenta la fuente de los objetivos establecidos, es decir, los compromisos internacionales
+o programas nacionales que dan base a los objetivos.
+• CAMBIO CLIMÁTICO Y ENERGÍA
+Objetivo:
+• Reducir las emisiones de gases de efecto invernadero (GEIs) y el consumo energético, mediante el uso
+tecnologías de eficiencia energética, promoción de HuellaChile y otras medidas.
+• Fuente:
+• Firma del Acuerdo de Paris en el cual Chile se compromete a reducir sus emisiones de CO2 por unidad de PIB
+en un 30% con respecto al nivel alcanzado en 2007, entre otros compromisos.
+• Existencia de la Programa Nacional de Consumo y Producción Sustentable que establece una línea de acción
+para energía limpias y eficiencia energética.
+• Existencia de la “Energía 2050: Política Energética de Chile 2050” que establece metas sobre eficiencia
+energética y fomento a las ERNC (entre otros aspectos) para el año 2030 y 2050.
+• Objetivo 7 de los ODS: Garantizar el acceso a energía asequible, segura, sostenible y moderna para todos.
+• Objetivo 13 de los ODS: Adoptar medidas urgentes para combatir el cambio climático y sus efectos.
+14- Por ejemplo, objetivos asociados a los recursos hídricos del país, podría ser un desafío importante para la zona norte debido a la
+escasez y disponibilidad del agua, en este marco, la entidad compradora de tal zona podría tener un mayor interés en avanzar en este
+aspecto ambiental por sobre otros..
+
+--- Página 98 ---
+98 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+• RESIDUOS
+Objetivo:
+• Reducir la generación de residuos peligrosos y no peligrosos en el país.
+• Fomentar la reutilización y valorización de los residuos en el país.
+• Promover la eficiencia de los recursos.
+• Fuente:
+• Línea de acción transversal sobre la gestión de residuos dentro del Programa Nacional de Consumo y
+Producción Sustentable, en la cual se establece disminuir los residuos generados por todos los sectores de
+la economía.
+• Objetivo 12 de los ODS: Garantizar modalidades de consumo y producción sostenibles. Dentro de este
+objetivo se encuentra: “reducir considerablemente la generación de desechos mediante actividades de
+prevención, reducción, reciclado y reutilización”.
+• EMISIONES ATMOSFÉRICAS:
+Objetivo:
+• Evitar o reducir las emisiones atmosféricas con énfasis en las zonas que hayan sido declaradas como
+saturadas o latentes.
+• Fuente:
+• Se mencionan dentro de la Línea de acción Ciudades Sustentables del Programa Nacional de Consumo y
+Producción Sustentable, el cual señala la reducción de la contaminación en ciudades y fomentar viajes en
+medios de transporte bajos en emisiones.
+• La meta 11.6 de los ODS señala “de aquí a 2030, reducir el impacto ambiental negativo per cápita de las
+ciudades, incluso prestando especial atención a la calidad del aire y la gestión de los desechos municipales
+y de otro tipo”.
+• EQUIDAD DE GENERO
+Objetivo:
+• Promover la equidad de género en el sector privado e industria.
+• Fuente:
+• Objetivo 5 de los ODS: Lograr la igualdad entre los géneros y empoderar a todas las mujeres y las niñas.
+• EMPRESAS DE MENOR TAMAÑO
+Objetivo:
+• Proteger las operaciones de las empresas de menor tamaño en los distintos rubros económicos y facilitar
+su acceso a la compra pública.
+• Fuente:
+• Dentro del Objetivo 9 “Industria, Innovación e Infraestructura” de los ODS, se menciona la meta “9.3 Aumentar
+el acceso de las pequeñas industrias y otras empresas, particularmente en los países en desarrollo, a los
+servicios financieros, incluidos créditos asequibles, y su integración en las cadenas de valor y los mercados”.
+
+--- Página 99 ---
+07 - ANEXOS 99
+7.5 Anexo 5 Economía Circular
+No adquirir en forma progresiva los siguientes bienes:
+a) Bolsas de plástico de un solo uso, salvo aquellas indispensables para la salubridad;
+b) Bombillas plásticas;
+c) Envases de servicios, tales como: platos, vasos, tazas, tapas de unos y otros, cubiertos, de plástico de un solo
+uso utilizados para bebidas y alimentos de consumo humano;
+d) Todo tipo de bebestibles en botellas plásticas de un solo uso; y
+e) Artículos de merchandising de plásticos utilizados en actividades de difusión en general.
+f) La priorización de compras con proveedores que dispongan entrega de productos a granel (papel higiénico,
+papel de impresión, entre otros).
+7.6 Anexo 6 Transporte
+PROGRAMA ESTADO VERDE
+ENCUESTA DE USO DE TRANSPORTE DIARIO DE PERSONAS
+Estimad@ Funcionario@: La institución se encuentra implementado el programa Estado Verde, que busca
+que tanto en nuestras instalaciones físicas como en los procesos administrativos que desarrollamos, se re-
+flejen políticas y principios de cuidado ambiental y conservación de recursos. El programa será implementa-
+do en las oficinas ubicadas en dirección, y durante la primera etapa se realizará un diagnóstico acerca de la
+gestión y políticas ambientales internas en los tópicos de uso de papel, residuos, agua, energía, transporte,
+compras sustentables, Huella-Chile y educación ambiental, principalmente. Una vez realizado el diagnós-
+tico se diseñará un plan de gestión ambiental, con medidas y metas que tendrán como desafío disminuir el
+impacto ambiental y la huella de carbono de nuestra institución:
+Por medio de la aplicación de esta encuesta, podremos conocer los modos de transportes usados por los(as)
+funcionarios(as), esto como parte de diagnóstico de cultura ambiental. ¡Muchas gracias por tus respuestas!
+
+--- Página 100 ---
+100 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Comuna o Ciudad de Procedencia:
+1.- ¿Qué medio de transporte utilizas generalmente para trasladarte desde tu casa hasta el Servicio?
+(Marque con una X la o las opciones, según corresponda)
+Tipo vehículo (Marque con una X la Distancia
+o las opciones, según aproximada de ida
+corresponda) (KM)
+a) Vehículo propio Híbrido
+Eléctrico
+Convencional Diesel
+Convencional Gasolina
+b) Vehículo compartido Híbrido
+Eléctrico
+Convencional Diesel
+Convencional Gasolina
+c) Transporte público Bus interurbano
+Bus local
+Bus Transantiago
+Metro
+Metrotren
+d) Bicicleta Todo el año
+Estacional (primavera - verano)
+Algunos días de la semana
+Otro
+e) Motocicleta
+f) Taxi
+g) Colectivo
+h) Caminando
+f) Otro: (Mencionar)
+Si marcó vehículo propio o compartido, indique cuántas personas viajan con usted
+1 2 3 4 o más
+2.- Si utilizas bicicleta:
+a) ¿Tienes un lugar habilitado en el Sí
+Servicio? No
+b) En caso de que tu respuesta sea Es un espacio común
+afirmativa, favor responder: Es un espacio asignado para ti
+c) Evalúa de 1 a 7 el espacio para Nota (1 a 7):
+estacionar bicicletas, donde 1 es Indica el fundamento de tu respuesta:
+“muy malo” y 7 “muy bueno”
+
+--- Página 101 ---
+07 - ANEXOS 101
+d) ¿Consideras que es necesario Sí
+habilitar más espacios para
+No
+estacionar bicicletas?
+e) ¿Qué medidas/elementos de se- Casco
+guridad utilizas al transportarte Elementos reflectantes
+en bicicleta?
+Luces
+Uso de Ciclovías
+Mantención periódica de la bicicleta (ruedas, frenos, etc.)
+No utilizas audífonos
+Otro
+3.- Si NO utilizas bicicleta:
+Por favor indica la o las razones No tengo bicicleta
+más importantes
+Mi casa está muy lejos del trabajo
+Lo considero peligroso como medio de transporte (pocas ciclovías o de mala calidad)
+Es muy lento o engorroso como medio de transporte
+Falta o deficiente equipamiento e infraestructura para estacionar bicicletas
+Falta o deficiente equipamiento e infraestructura para asearme y cambiarme de ropa
+El clima no me lo permite
+Problemas de salud o estado físico
+Otro
+4.- Por favor, indica propuestas de mejora de las políticas de fomento de uso de la bicicleta a nivel institucional:
+
+--- Página 102 ---
+102 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+7.7 Anexo 7 Campaña comunicacional
+ESTRATEGIA DE COMUNICACIONES
+ESTADO VERDE
+1. Antecedentes:
+Elaborar una estrategia de comunicaciones para el Programa Estado Verde, nos permitirá contribuir
+al cumplimiento del principal objetivo de esta iniciativa, cual es involucrar a los(as) funcionarios(as) y
+colaboradores de la institución en la aplicación de políticas y principios amigables con el medio ambiente. A la
+vez que, facilita el compromiso de los(as) funcionarios(as) con la implementación de estas medidas, y propicia
+un cambio conductual en favor de un objetivo común.
+De esta manera, la estrategia debe tener como norte principal empoderar a los(as) funcionarios(as) para que
+incorporen en sus hábitos y conductas laborales la variable ambiental, y, por lo tanto, internalicen hábitos más
+eficientes en el uso de materiales de oficinas, en el manejo de los residuos sólidos, y en el uso de los recursos
+hídricos y energéticos.
+La estrategia nos permitirá disponer de un marco ordenador de diversas acciones, actividades, mensajes e hitos
+comunicacionales al interior del servicio, para asegurar la visibilidad del programa y la entrega de información
+necesaria y oportuna para los(as) funcionarios(as) y colaboradores de la institución.
+Los temas ambientales son cada día un motivo de mayor preocupación para la ciudadanía, la que se encuentra
+más empoderada y sensibilizada sobre la materia. Esto, por cierto, es un plus para asegurar el éxito del
+Programa Estado Verde al interior de las instituciones del Estado. Asimismo, la puesta en marcha de un
+proceso de modernización del sector público tendiente a digitalizar los procesos administrativos y disminuir
+consecuentemente el uso del papel, crea sinergias para implementar políticas e instrumentos más amigables
+con el medio ambiente.
+La estrategia debe ser simple y orientada a responder las siguientes preguntas:
+• ¿Cómo vamos a instalar el programa Estado Verde al interior de la institución?
+• ¿Cómo logramos difundir los objetivos del programa y lograr el compromiso de los(as) funcionarios(as) y
+colaboradores?
+• ¿Qué herramientas utilizaremos para promover el programa al interior de la institución?
+• ¿En cuánto tiempo desarrollaremos nuestro plan?
+Al momento de elaborar la estrategia debemos considerar algunos elementos:
+
+--- Página 103 ---
+07 - ANEXOS 103
+2. Diagnóstico:
+Es fundamental tener claridad del uso de los espacios y ambientes de trabajo, de las zonas y áreas de mayor
+tráfico y de la existencia de lugares de encuentro. Asimismo, tener claridad de la cultura organizacional, de las
+celebraciones internas, canales de comunicación usados al interior, etc. Y por supuesto, y lo más importante,
+contar con un diagnóstico de los(as) funcionarios(as). Saber identificar liderazgos para sumarlos al programa,
+conocer los comportamientos más frecuentes, y también las amenazas que podría enfrentar la implementación
+del programa. Por ejemplo, el grado de resistencia que puede tener la implementación de ciertas medidas de
+reciclaje o de eficiencia hídrica o energética.
+El diagnóstico también nos permite conocer la existencia o ausencia de recursos para desarrollar herramientas
+de apoyo.
+3. Objetivos:
+General: Promover el programa Estado Verde al interior de la institución, como un instrumento de gestión
+ambiental que contribuye al desarrollo de políticas amigables con el medio ambiente, y al posicionamiento del
+servicio como referente ambiental al interior del aparato estatal.
+Específicos:
+• Difundir los alcances del Programa Estado Verde entre los(as) funcionarios(as)de la institución, contribuyendo
+a generar una cultura organizacional más amigable con el medio ambiente.
+• Establecer canales de información institucionales que se usarán para difundir los alcances del programa.
+• Levantar un castro de acciones y actividades que desarrolla la institución, para ser aprovechadas como
+canal informativo del Programa
+• Definir ideas fuerza que actúen como elementos motivadores para asegurar el compromiso de los(as)
+funcionarios(as) del servicio o ministerio con el programa Estado Verde.
+• Definir y diseñar soportes comunicacionales para difundir el Programa.
+• Identificar espacios y ambientes comunes que se usarán como soportes para instalar herramientas
+informativas del programa.
+4. Uso del Manual de Normas Gráficas:
+El Ministerio del Medio Ambiente proporcionará un breve manual de marca para el uso del logotipo de
+Estado Verde. Sin embargo, su aplicación en las diversas piezas gráficas y soportes comunicacionales será
+responsabilidad de cada institución, previendo el resguardo de las normas generales del programa.
+
+--- Página 104 ---
+104 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+5. Establecer el relato:
+Es relato es el argumento que explica el programa, sus beneficios y alcances. Es fundamental en la estrategia,
+pues es el hilo comunicacional que conduce el desarrollo del programa. Son, en definitiva, las ideas fuerza que
+están detrás del sistema. Cada institución deberá definir cuáles son estas ideas, sabiendo que:
+a) Chile será un país pionero en Latinoamérica y entre las naciones de la OCDE en transformar las instituciones
+públicas en un Estado Verde.
+b) Al finalizar el Gobierno del Presidente Piñera, habrá 140 instituciones trabajando en Estado Verde,
+involucrando a los tres poderes del Estado.
+c) Forma parte de los compromisos del Gobierno para transformar al Estado en un “Estado Moderno, inteligente,
+cercano e innovador al servicio de los ciudadanos, para llegar a un Chile sin papeles al 2025”, así como
+también aporta a la línea de la eficiencia hídrica y energética que nos hemos impuesto como país.
+d) El programa significará un cambio drástico, sustantivo, en la cultura de los(as) funcionarios(as) públicos(as).
+Con el esfuerzo y el compromiso de todos(as), queremos terminar con las luces encendidas fuera del horario
+de trabajo, con el agua corriendo y la imagen del funcionario público bajo una ruma de papeles.
+6. Definir el mensaje:
+¿Qué vamos a comunicar? ¿Cuál es el mensaje estratégico y motivador, que aglutine la implementación del
+Programa Estado Verde al interior de la organización? Generalmente, se trata de una frase breve, que tiene
+potencia y que se usa en forma complementaria al logotipo de Estado Verde.
+Este mensaje debe ser simpe y concreto, pero importante para los(as) funcionarios(as), y, sobre todo, que tras
+de él se sientan identificados, prestos a actuar. Además, este mensaje debe evidenciar lo importante que es
+que los(as) funcionarios(as) se sientan parte de la solución del problema.
+Por ejemplo:
+• “Seremos el primer ministerio en implementar una política sustentable, súmate a Estado Verde”.
+• “La acción climática es ahora, súmate a Estado Verde”.
+
+--- Página 105 ---
+07 - ANEXOS 105
+7. Definir Plan Comunicacional:
+La estrategia debe elaborar un plan de comunicación, o sea, definir el conjunto de herramientas, hitos o
+actividades que se usarán para informar, crear lazos y motivar a los(as) funcionarios(as) tras el logro de los
+objetivos de Estado Verde.
+El plan debe considerar algunos elementos como:
+Actividad Actores Descripción Vocería Mensaje Producto
+Lanzamiento Máxima autoridad Máxima autoridad Autoridad Seremos el primer Comunicado
+Estado Verde de la institución, de la institución Representante ministerio en publicado en in-
+integrantes del da a conocer el del Comité Estado implementar una tranet, con archivo
+Comité interno, programa e invita Verde política sustenta- fotográfico.
+representantes de a los(as) funciona- ble, pero esto lo RRSS (twitter,
+Representante de
+la asociación de rios(as)a sumarse. lograremos entre Instagram y fa-
+la Asociación de
+funcionarios(as), todos. Súmate a cebook) oficiales
+Funcionarios(as).
+jefes de División Estado Verde. informan .
+y/o Departamen-
+tos. Equipo de
+Bienestar, etc.
+Instalación de TIC´s, Comunica- Diseño del banner El banner debe Banner publicado.
+banner de Estado ciones . debe ser aproba- contener informa-
+Verde en sitio web do por el Comité ción sobre el pro-
+institucional interno. grama, integran-
+tes del Comité,
+breves mensajes
+de la autoridad y
+de los(as) funcio-
+narios(as).
+Elaboración de Comité interno, Piezas gráficas Mensajes genera- Piezas gráficas
+material digital TIC’s y Comunica- como protecto- les del programa
+de difusión del ciones res de pantallas, y específicos para
+programa Estado complementos promover
+Verde para pie de firma,
+uso de logo en
+papelería institu-
+cional, etc.
+
+--- Página 106 ---
+106 MANUAL ESTADO VERDE
+Ministerio del Medio Ambiente
+Boletín digital Comité interno, Contar con un Mini entrevista a Súmate a Estado Boletín mensual
+interno TIC’s y Comunica- boletín digital funcionarios(as). Verde.
+ciones del programa con sobre beneficios,
+frecuencia men- y destacar el lado El lado verde de
+sual para informar verde de los(as) nuestros funcio-
+sobre las princi- funcionarios(as) narios(as).
+pales acciones del en su vida per-
+Programa sonal.
+Identificar hitos Comité interno Identificar los Miembros del Depende de la Piezas gráficas
+institucionales o principales hitos Comité Estado ocasión alusivas para ser
+ambientales de la organización Verde enviadas por co-
+o efemérides am- rreo institucional,
+bientales, instan- promoción para
+cias donde Estado celebración con
+Verde puede estar cero residuos, etc.
+presente envian-
+do un mensaje,
+entregando un
+reconocimiento,
+etc. (Aniversario
+institucional, día
+mundial del medio
+ambiente, Día del
+Reciclaje, Fiestas
+Patrias, etc).
+8. Definición de un Plan de Medios Digitales y Redes Sociales:
+Las redes sociales ocupan hoy un lugar muy importante a la hora de transmitir mensajes, no solo por la
+información entregada, sino también, por la “viralización” que se hace de las mismas.
+Estas ofrecen un medio económico, ubicuo y masivo, y han generado muchas expectativas debido al potencial
+para dar apoyo a diferentes funciones de una organización. Las posibilidades de comunicación basadas en los
+medios digitales facilitan el trabajo colaborativo, y en particular, las redes sociales ayudan en la difusión de
+información y conocimiento haciéndola más eficiente.
+En este marco, es esencial definir una estrategia de medios digitales y redes sociales que nos permitan
+posicionar el Programa Estado Verde entre los stakeholder de la organización, pues, pese a que Estado Verde es
+un programa interno, es conveniente que la ciudadanía sepa y conozca los esfuerzos que hace la organización
+para implementar políticas amigables con el medio ambiente.
+Se hará uso de Facebook, canal de YouTube, cuenta de Twitter, Instagram institucionales para anunciar el
+compromiso de la organización con el Programa y los avances que reporta.
+
+--- Página 107 ---
+02 - PROCEDIMIENTO 107
+7.8 Anexo 8 Cronograma
+CRONOGRAMA DE ACCIÓN
+DESCRIPCIÓN DE
+COMPONENTE ACTIVIDAD MES
+LOGRO ESPERADO
+1.- Política Interna de 1. 1 Actividad xx
+1 2 3 4 5 6 7 8 9 10 11 12
+Autogestión Ambiental 1. 2 Actividad xx
+2.-Uso de Papel 2. 1 Actividad xx
+2. 2 Actividad xx
+3.-Gestión de Residuos 3. 1 Actividad xx
+3. 2 Actividad xx
+4.-Gestión Hídrica 4. 1 Actividad xx
+4. 2 Actividad xx
+5.-Gestión Energética 5. 1 Actividad xx
+5. 2 Actividad xx
+6.-Compras Sustentables 6. 1 Actividad xx
+6. 2 Actividad xx
+7.-Baja Bienes Muebles 7. 1 Actividad xx
+7. 2 Actividad xx
+8.-Transporte 8. 1 Actividad xx
+8. 2 Actividad xx
+9.- Capacitación de 9. 1 Actividad xx
+funcionarios(as) 9. 2 Actividad xx
+10.-Huella Chile 10. 1 Actividad xx
+10. 2 Actividad xx
+11.- Campaña 11. 1 Actividad xx
+Comunicacional 11. 2 Actividad xx
+12. -Difusión Interna y del 12. 1 Actividad xx
+sitio Web 12. 2 Actividad xx
+13.-Funcionamiento CEV
+14.- Preparación expediente
+final
+15.-Otros
+Total de actividades
+compromisos por mes
+(llenar con números)
+
+--- Página 108 ---
+Este manual fue elaborado con el mayor cuidado hacia el medio ambiente,
+ocupándose papel 100% reciclado y pigmentos orgánicos.
