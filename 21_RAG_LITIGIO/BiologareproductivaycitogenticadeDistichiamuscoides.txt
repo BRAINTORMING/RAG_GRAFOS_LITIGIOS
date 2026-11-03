@@ -1,0 +1,474 @@
+--- Página 1 ---
+P. Gonzáles et al . - Biología reproductiva y citogenética de Distichia muscoides ISSN 0373-580 X
+Bol. Soc. Argent. Bot. 51 (1): 123-133. 2016
+Biología reproductiva y citogenética de d istichia muscoides
+(Juncaceae)
+PAÚL GONZÁLES 1 , MERY SUNI 2,3 , ROCÍO DEANNA 4,5 , MARISEL A. SCALDAFERRO 4,6 ,
+ELENA CASTAÑEDA 7 , DÁMASO W. RAMIREZ 1,8 , NIELS VALENCIA 3,9 y ASUNCIÓN CANO 1,3
+Summary : Reproductive biology and cytogenetics of Distichia muscoides (Juncaceae). The genus
+Distichia Nees & Meyen (Juncaceae) has three species from South America, and the most widely
+distributed is Distichia muscoides Nees & Meyen. This dioecious species is the main component of the
+wetlands, an important ecosystem of the high Andean region. In this work, different biological aspects of D.
+muscoides were studied: 1) pollen viability through indirect staining techniques; 2) the stigmatic receptivity
+through hydrogen peroxide test; 3) the viability of the seeds; and 4) cytogenetic studies using fluorescent
+chromosome banding CMA/DA/DAPI. The results show that staminate flowers of D. muscoides have pollen
+with a high percentage of viability (100%); pistillate flowers reach the stigmatic receptivity once stigma
+branches develop their maximum length (4 mm) and remain in this state for at least two days. The number
+of ovules per ovary is 34, and the number of seeds per fruit is 25. The seeds germinated since day 15,
+showing 92% of viability and, an average on germination time of 18.4 days. The species has 2n = 80-84
+chromosomes and the fluorescent banding showed two pairs of terminal bands CMA + /DAPI - , associated
+with nucleolar organizer regions (NORs). Karyological and reproductive data for this genus are here
+reported for the first time.
+Key words : Seed viability, dioecy, stigmatic receptivity, chromosome number, fluorescent banding,
+Juncaceae.
+Resumen : El género Distichia Nees & Meyen (Juncaceae) está formado por tres especies nativas de
+Sudamérica, siendo Distichia muscoides Nees & Meyen la más ampliamente distribuida (Kirschner et al.,
+2002). Esta especie dioica es el componente principal de los bofedales, ecosistema muy importante de
+la región altoandina. En este trabajo se estudiaron distintos aspectos biológicos de D. muscoides como:
+1) la viabilidad del polen por medio de métodos indirectos de coloración; 2) la receptividad estigmática a
+través de una prueba con peróxido de hidrógeno; 3) la viabilidad de las semillas mediante su germinación;
+y 4) sus datos citogenéticos, empleando la técnica de bandeo cromosómico fluorescente CMA/DA/DAPI.
+Los resultados muestran que las flores estaminadas presentan polen con un porcentaje alto de viabilidad
+(100%); las flores pistiladas alcanzan la receptividad estigmática una vez que las ramas del estigma
+desarrollan su máxima longitud (4 mm) y permanecen en este estado al menos durante dos días. El número
+promedio de óvulos por ovario es 34, y el número promedio de semillas por fruto es 25. Las semillas
+germinaron a partir del día 15, mostrando 92% de germinación y un tiempo promedio de germinación de
+18,4 días. La especie posee 2n = 80-84 cromosomas y el bandeo de fluorescencia mostró dos pares de
+bandas terminales CMA + /DAPI - , asociadas a regiones organizadoras nucleolares (NORs). Se reportan por
+primera vez datos reproductivos y cariológicos para esta especie.
+Palabras clave : Viabilidad de semillas, dioecia, receptividad estigmática, número cromosómico, bandeo
+de fluorescencia, Juncaceae.
+1 Laboratorio de florística, Departamento de Dicotiledóneas, Museo de Historia Natural, Universidad Nacional Mayor de
+San Marcos (UNMSM), Av. Arenales 1256, Lima, Perú. E-mail: pgonzalesarce@hotmail.com
+2 Laboratorio de Fisiología Vegetal, Facultad de Ciencias Biológicas (UNMSM), Lima, Perú.
+3 Instituto de Investigación de Ciencias Biológicas Antonio Raimondi, Facultad de Ciencias Biológicas (UNMSM), Lima,
+Perú.
+4 Instituto Multidisciplinario de Biología Vegetal (CONICET-UNC), Casilla Postal 495, 5000, Córdoba, Argentina.
+5 Facultad de Ciencias Químicas (UNC), Córdoba, Argentina.
+6 Facultad de Ciencias Exactas, Físicas y Naturales (UNC), Córdoba, Argentina.
+7 Facultad de Ciencias Biológicas (UNMSM), Lima, Perú.
+8 Área de Ecología, Cursos Básicos de Ciencias, Universidad Científica del Sur, Lima, Perú.
+9 Dep. Ecología, Museo de Historia Natural (UNMSM), Lima, Perú.
+123
+
+--- Página 2 ---
+Bol. Soc. Argent. Bot. 51 (1) 2016
+i ntroducción los estigmas receptivos se proyectan por encima
+del ápice del brote y el denso almohadillado. En
+La familia Juncaceae es probablemente la menos contraste, las flores estaminadas de Distichia
+estudiada dentro del orden Poales en cuanto a nacen en pedúnculos largos elevados por encima
+estudios de reproducción, anatomía y citología del almohadillado (Balslev, 1996; Kirschner et al. ,
+(Záveská Drábková, 2013). Esta familia alberga 2002).
+450 especies en ocho géneros y tiene una amplia El polen en la familia Juncaceae permanece
+distribución en las regiones templadas y árticas de unido en tétradas, rodeado de una capa común
+ambos hemisferios. En los Andes Sudamericanos derivada de las células madre del polen denominado
+son nativos los géneros Distichia Nees & Meyen , esporocine (Wille, 1882, citado por Balslev, 1996).
+Patosia Buchenau y Oxychloe Phil., creciendo en Los granos de polen de Distichia y sus parientes
+forma de almohadillados. cercanos ( Oxycloe y Patosia ) son relativamente
+Distichia muscoides Nees & Meyen es una más grandes que los del género Juncus L., lo que
+planta dioica que forma almohadillados densos y indicaría una mayor adaptación a la anemofilia de
+duros de varios metros de diámetro. Se encuentra este último género (Balslev, 1996).
+ampliamente distribuida desde Colombia hasta Dentro de Juncaceae se han realizado estudios
+Argentina entre los 3800 y 4600 m s.n.m. (Balslev, citogenéticos tradicionales o mediante tinción
+1996; Kirschner et al ., 2002). Se caracteriza por fluorescente, principalmente en Juncus L. (x =
+ser el componente principal de los bofedales, 20) y Luzula DC. (x = 6), aunque el 58% de sus
+formaciones vegetales hidromórficas que se taxones permanece citogenéticamente desconocido
+desarrollan en fondos de quebradas, pendientes o (Záveská Drábková, 2013). Los complementos
+en planicies altoandinas (Valencia et al. , 2013). cromosómicos de las especies pertenecientes a
+Distichia muscoides puede formar islas flotantes Juncaceae usualmente forman series poliploides,
+en suelos pantanosos, colmatar cuerpos de agua o siendo los números más comunes correspondientes
+crecer en las márgenes de los arroyos. El hábitat a especies diploides: 2n = 12 y 2n = 40 (Záveská
+“bofedales’’ en donde se desarrolla D. muscoides Drábková, 2013). También se ha reportado
+tienen un rol importante en la regulación del balance aneuploidía en Oxychloe, género más emparentado
+hídrico a nivel regional y local (Weberbauer, 1945; con Distichia (Balslev, 1996; Záveská Drábková,
+Tovar, 1973). Además, estos ecosistemas son 2013), y se ha observado la presencia de centrómero
+considerados sensibles, debido a su alta fragilidad difuso en algunos géneros de la familia (Bozek et
+y a las amenazas que le aquejan, por ejemplo la al., 2012; Bureš et al., 2013). Distichia y Patosia
+extracción de D. muscoides ‘‘turba’’ para uso como Buchenau son dos géneros de la familia Juncaceae
+combustible (Ferreyra, 1979). hasta el momento cariológicamente desconocidos.
+Se piensa que la principal forma de reproducción El presente trabajo tiene como objetivo evaluar
+de estas plantas es la asexual, donde las raíces distintos aspectos de la biología reproductiva
+de Distichia se forman a lo largo de los tallos y citogenética de D. muscoides, tales como la
+ascendentes, penetrando la cubierta densa de vainas viabilidad del polen, la receptividad estigmática,
+foliares, desarrollando ramas nuevas de igual grosor la viabilidad de las semillas, el rol del agua como
+que la rama principal (Ruthsatz, 1978). En cuanto vector de polen y la citogenética, reportando la
+a su periodo reproductivo, la floración empieza primera aproximación de su número cromosómico.
+en agosto y termina en noviembre; los primeros Se abordan estos aspectos a fin de indagar los
+frutos inmaduros se pueden observar a inicios posibles efectos de estos atributos en la eficiencia
+de enero, mientras que los maduros se observan reproductiva.
+hacia fines de mayo, aparentemente este ciclo
+sería temporalmente irregular pudiendo repetirse
+anualmente o cada dos o tres años (D. W. Ramírez, m ateriales y m étodos
+com. pers.). Estas plantas son dioicas con flores
+“unisexuales” y solitarias, las cuales se originan en Estudios reproductivos
+la axila de una hoja del tallo. Las flores pistiladas El material proviene de la zona de Rosaspata
+de Distichia nacen en pedúnculos cortos, y sólo (Distrito de Vinchos, Prov. Huamanga, Dpto.
+124
+
+--- Página 3 ---
+P. Gonzáles et al . - Biología reproductiva y citogenética de Distichia muscoides
+Ayacucho, Perú) a 4500 m s.n.m. (Fig. 1A). Los máxima encontradas para el diámetro ecuatorial
+sitios de colección fueron visitados entre el 17-18 (DE), eje polar (EP), incluyendo la exina y
+de octubre del 2014 (voucher Gonzáles et al. 3400a, diámetro de poros. Se tomaron como mínimo 5
+planta femenina, 3400b, planta masculina; USM). mediciones. Las fotos fueron tomadas con cámaras
+Se colectó material de 15 y 25 cm de diámetro de un microscopio digital Leica ICC50 y cámaras
+“champas” provenientes de cuatro almohadillados manuales digitales Canon PowerShot SX110 IS
+que se encontraban a inicio de floración (dos plantas (Universidad Nacional Mayor de San Marcos,
+masculinas y dos femeninas separadas por más de Perú). La terminología utilizada en la descripción
+50 metros). Las plantas fueron aclimatadas en una polínica fue tomada de Faegri & Iversen (1964),
+cámara de flujo laminar con fotoperiodo 12:12 y Heusser & Moar (1973) y Hesse et al. (2009).
+termoperiodo de 16°C en la noche y 25°C en el día, Para evaluar la receptividad estigmática,
+durante ocho días. se establecieron cuatros estadios de las flores
+Se realizó una caracterización de las flores femeninas de D. muscoides tomando como
+masculinas y femeninas, donde se cuantificaron parámetro la longitud del pistilo (Tabla 1; Fig. 2).
+las dimensiones de cada atributo vinculado con La receptividad de los estigmas se detectó a través
+la reproducción sexual de la especie (Tabla 1). de la prueba de peróxido de hidrógeno (Galen &
+Para el caso de las flores masculinas, se tomaron Plowright, 1987). Fueron extraídos los estilos con
+las medidas de cinco flores luego de la antesis. la precaución de no dañar el estigma para evitar
+La viabilidad del polen fue evaluada mediante falsos positivos; los mismos fueron montados sobre
+el método indirecto de coloración. Se realizó la un porta-objetos donde se le agregó una gota de
+tinción con carmín acético, asumiendo a los granos peróxido de hidrógeno 3%, considerando como
+de polen fuertemente teñidos como viables y a los receptivos aquellos estigmas que presentaban
+de tinción baja o no teñidos como no viables. Se burbujeo. Para cada estadio, se realizaron cinco
+evaluó en 10 campos, los cuales fueron observados repeticiones.
+con microscopio óptico a 40X de aumento. La viabilidad de las semillas se estimó como
+Para la caracterización morfológica de los el porcentaje de germinación. Se utilizaron 228
+granos de polen, se realizaron observaciones con semillas que fueron desinfectadas con hipoclorito
+microscopio óptico a 40X. Para cada carácter de sodio al 2,6% por 30 min y se enjuagaron tres
+estudiado se menciona la dimensión mínima y veces con agua destilada estéril. Se sembraron en
+Tabla 1. Dimensiones de los atributos florales de las flores masculinas adultas (indicando dimensiones
+del gineceo reducido) y en cuatro estadios de flores femeninas de Distichia muscoides indicando la
+receptividad correspondiente.
+Flores Flores femeninas
+Características
+masculinas Estadio 1 Estadio 2 Estadio 3 Estadio 4
+N° de óvulos 35 30 39 32
+Receptividad/ Lugar Nula Baja y apical Alta y general No receptivo
+Largo de la flor (mm) 0,75-0,95 4,19 7,42 11,64 11,04
+Largo del Ovario (mm) 0,20-0,21 0,775 1,62 2,72 3,1
+Ancho del Ovario (mm) 0,17-0,23 0,31 0,874 1,3 1,4
+Largo del estilo (mm) 0,13-0,16 1,39 1,99 4,08 4,07
+Largo de las ramas estigmáticas (mm) 0,26-0,43 2,2 4,02 4,85 4,8
+Color de las ramas estigmáticas blanquecinas blanquecinas blanquecinas rojizo Marrón
+Largo del filamento 0,16-0,17
+Largo de anteras 1,67-2,59
+Largo del mucrón 0,11-0,12
+125
+
+--- Página 4 ---
+Bol. Soc. Argent. Bot. 51 (1) 2016
+Fig. 1. A: Hábitat bofedal. B: Planta masculina. C: Flor estaminada. D: Viabilidad del polen, 40x. E: Porción
+de la flor estaminada mostrando un tépalo externo, un estambre y el gineceo reducido. F: Vista lateral del
+polen bajo tinción con carmín acético. G-H: Vista general del polen sin tinción. I: Estambre del verticilo
+interno. J: Estambre del verticilo externo.
+126
+
+--- Página 5 ---
+P. Gonzáles et al . - Biología reproductiva y citogenética de Distichia muscoides
+Fig. 2. A: Planta femenina en fructificación. B: Planta femenina en floración. C: Flor pistilada. D: Desarrollo
+del ovario (1 y 2: segundo estadio; 3: tercer estadio; 4 y 5: cuarto estadio). E: Sección longitudinal del ovario
+en el segundo estadio. F: Ampliación del ápice de las ramas estigmáticas papilosas. G-H: Receptividad
+estigmática positiva a la prueba del peróxido de hidrógeno (G. estadio 2; H. estadio 3). I: Sección transversal
+del fruto. J: Flor en estadio 1. K: Flor en estadio 2. L: Flor en estadio 3. M: Semillas.
+127
+
+--- Página 6 ---
+Bol. Soc. Argent. Bot. 51 (1) 2016
+placas de Petri con papel de filtro húmedo con agua 1956). Finalmente, los preparados se secaron a
+destilada, para luego colocarlas en una cámara temperatura ambiente durante tres días. El bandeo
+de germinación con fotoperiodo 16:8 a 28°C; las se realizó mediante tinción triple (CDD) con los
+placas fueron regadas periódicamente a fin de fluorocromos cromomicina A3, distamicina A
+mantener constantes las condiciones de humedad. y 4’-6-diamidino-2-fenilindol (CMA/DA/DAPI)
+Se consideraron germinadas a las semillas con según Schweizer (1980) y Schweizer & Ambros
+radícula emergente mayor a 0,5 mm. Las placas (1994) con pequeñas modificaciones.
+fueron revisadas cada cuatro días, retirando las
+semillas germinadas; el recuento de semillas
+germinadas se llevó de 15 a 30 días después de r esultados
+haber sido sembradas. Esta evaluación fue realizada
+entre los meses de noviembre y diciembre de Estudios reproductivos
+2014 en el Instituto Multidisciplinario de Biología Se caracterizaron las flores estaminadas maduras
+Vegetal. Las semillas utilizadas fueron colectadas de D. muscoides cuyo resultado se muestran en la
+en campo el 20 de mayo del 2013, procedentes del Tabla 1. En todas las flores examinadas se encontró
+departamento de Cusco-Perú (voucher Gonzáles et un gineceo rudimentario menor a 1 mm de largo
+al. 2567; USM). (Fig. 1 E).
+La participación del agua como vector de polen Los granos de polen de D. muscoides están
+fue evaluado mediante el número de semillas organizados en tétradas tetraédricas de 20,3-22,6
+producidas por fruto, que corresponde al número μm de diámetro ecuatorial y 20,0-22,1 μm de
+de óvulos fertilizados, asumiendo que a mayor diámetro polar con exina tectada, psilada, de 1 μm.
+oferta de polen por acción del agua, brinda mayor La exina es delgada y aparentemente desaparece
+número de óvulos fertilizados. Para ello se diseñó donde se tocan los cuatro granos; es lisa pero con
+un sistema de colecta de frutos donde se buscaron pequeños gránulos en los bordes de los granos y
+almohadillados que tengan una parte constantemente las suturas entre los cuatro granos son visibles a
+sumergida en el agua y otra no. Se colectaron través de él (Fig. 1 F-H). La viabilidad del polen
+frutos de 5 almohadillados considerando estos dos fue muy alta observando todos los granos de polen
+estratos. Además se colectaron semillas al azar en fuertemente teñidos, de forma y tamaño similar,
+todo el área del almohadillado para considerarlo indicando un 100% de viabilidad (Fig. 1 D).
+como control. Se analizaron 30 frutos por estrato Los estigmas se presentaron receptivos solo en
+y se aplicó el análisis de varianza (ANOVA) con el los estadios dos y tres (Tabla 1; Fig. 2 G-H) aunque
+programa Past (Hammer et al. , 2001). en el estadio tercero avanzado, se evidenció la
+presencia de un mayor burbujeo (Fig. 2 G). En el
+Estudios cariológicos primer y cuarto estadio no mostró una reacción
+Se utilizaron ápices radicales de semillas positiva con el peróxido de hidrógeno.
+colectadas en el Dpto. Cusco-Perú (voucher Las flores pistiladas del primer estadio son 3 mm
+Gonzáles et al. 2567, USM). Para la obtención más pequeñas que en el segundo, y en este último
+de preparados cromosómicos se utilizaron raíces a su vez son 3 mm más pequeñas que en el tercero,
+pre-tratadas con una solución saturada de para- mientras que este estadio no se diferencia del
+diclorobenceno a temperatura ambiente y oscuridad cuarto. Las diferencias en los tamaños de las flores
+durante 2 h. Se fijaron en solución Farmer (alcohol pistiladas del segundo y tercer estadio, se deben
+etílico: ácido acético, 3:1) y se conservaron a 4°C principalmente al grado de desarrollo del estilo y
+durante las primeras 24 horas, y luego a -20°C del ovario, ya que las ramas estigmáticas en ambos
+hasta su uso. Se realizaron las preparaciones estadios son de tamaño similar (Tabla 1, Fig. 2). A
+cromosómicas mediante digestión enzimática de pesar de que las ramas estigmáticas manifestaron
+las raicillas con celulasa 2% y pectinasa 1% a diferencias de coloración, en todos los estadios
+37°C durante 150 min (Schwarzacher et al. , 1980). se evidenció la presencia de abundantes papilas
+Luego, los ápices radicales fueron aplastados translúcidas, principalmente en la cara adaxial.
+con ácido acético 60% y se retiró el cubreobjeto En el cuarto estadio, (Fig. 2 D4-5) el ovario tiene
+mediante congelamiento con CO líquido (Bowen, mayor tamaño que en los estadios anteriores.
+2
+128
+
+--- Página 7 ---
+P. Gonzáles et al . - Biología reproductiva y citogenética de Distichia muscoides
+El porcentaje de germinación de las semillas de d iscusión
+D. muscoides resultó muy elevado (92%), entre los
+15 y 30 días luego de haber sido sembradas (Tabla Estudios reproductivos
+2). Cabe resaltar que cerca del 82% germinaron Todas las dimensiones obtenidas en las flores
+en los primeros 19 días, obteniéndose un tiempo estaminadas y pistiladas se encuentran dentro del
+promedio de germinación de 18,4 días. rango de variación de las especies reportadas por
+Respecto a la participación del agua como vector Balslev (1996) y por Kirschner et al. (2002). En
+de polen, el promedio del número de semillas para este trabajo, se reporta por primera vez la existencia
+el tratamiento control fue de 27, correspondiendo 25
+para la parte expuesta y 26 para la parte sumergida
+(Fig. 4). El análisis de varianza indicó que no
+hay diferencias significativas entre los diferentes
+tratamientos (p = 0,8949). El número promedio de
+óvulos por ovario es 34 ± 3,916 con un mínimo de
+25 y un máximo de 40, y el número promedio de
+semillas por fruto es 25 ± 4,835 con un mínimo de
+10 y un máximo de 40 (éxito reproductivo de 75%).
+Estudios cariológicos
+Los recuentos cromosómicos resultaron
+dificultosos debido a la presencia de numerosos
+cromosomas, pudiéndose estimar que su número
+se encuentra entre 2n = 80 y 2n = 84. Mediante
+la técnica de bandeo cromosómico CMA/DA/
+DAPI, se detectaron 4 bandas CMA + /DAPI -
+en el complemento cromosómico, asociadas a
+regiones organizadoras nucleolares (NORs). Un
+par de bandas se observó en dos cromosomas
+metacéntricos (m) de mayor tamaño, mientras
+que el segundo par se asoció a dos cromosomas
+submetacéntricos (sm) de menor tamaño (Fig. 3).
+La presencia de cromosomas con la morfología
+descripta (m y sm), denota la existencia de una
+constricción primaria.
+Tabla 2. Número de semillas germinadas de
+Distichia muscoides según los días después de
+sembrarlas.
+Días después del sembrado Semillas germinadas
+15 71
+19 111
+23 18
+27 11
+Fig. 3. Cromosomas metafásicos de D. muscoides
+31 0 con bandeo cromosómico fluorescente CMA/DA/
+DAPI. A. Bandeo CMA. B. Bandeo DAPI. Las
+Total de semillas germinadas 211
+flechas indican las bandas CMA + /DAPI - y la escala
+Semillas sin germinar 17 representa 5 μm.
+129
+
+--- Página 8 ---
+Bol. Soc. Argent. Bot. 51 (1) 2016
+Fig. 4. Número de semillas promedio por fruto en los distintos tratamientos.
+de un pistilodio o gineceo rudimentario en las flores (Balslev, 1996).
+estaminadas de 0,7-1,0 mm de largo, que solo había En el segundo y tercer estadio el estigma se
+sido reportado para D. acicularis con un tamaño encontró receptivo, sin embargo en el tercer
+de 1,5 mm de largo (Balslev, 1996; Kirschner et estadio se observó una mayor cantidad de burbujeo
+al. , 2002), pudiendo ser un carácter constante en sobre el estigma que podría asociarse a una
+todas las especies del género (D. W. Ramírez, com. mayor receptividad. Cabe mencionar que en el
+per.). Estos tipos de flores representarían un estado segundo estadio, la reacción se limitó al ápice del
+transitorio en la evolución a la unisexualidad. estigma a comparación del estadio tres, donde
+La forma tetraédrica del polen de D. muscoides es la reacción fue en toda la superficie estigmática.
+muy particular y permite diferenciarlas a este nivel En el primer estadio (preantesis) aparentemente
+de otros grupos taxonómicos (polen en monadas) que no hay receptividad estigmática, sin embargo,
+habitan turberas (Torres et al. , 2012), exceptuando la mayoría de las flores evaluadas mostraron
+los de Oxychloe y Patosia quienes probablemente indicios de estrés dejando la probabilidad que en
+tengan una conformación similar. En el presente esta etapa exista una receptividad muy baja. Si se
+trabajo se reporta el polen de D. muscoides , de 20-23 confirma esta posibilidad, incrementaría aún más
+μm de diámetro. Estos resultados no concuerdan con las oportunidades de polinización y fecundación
+los registrado por Torres et al. (2012) para esta misma (Balslev, 1996). El ovario del cuarto estadio (Fig. 2
+especie proveniente de las turberas altoandinas de D) tiene mayor tamaño que en los anteriores, lo que
+Jujuy, cuyas dimensiones oscilan entre los 50-52 estaría indicando que los óvulos están fertilizados
+μm. La exina en D. muscoides es delgada, cuya y estarían pasando por una etapa de crecimiento,
+adaptación está vinculada con la anemofilia, que es por lo que el estigma tampoco sería receptivo en
+el modo dominante de la polinización en Juncaceae esta etapa.
+130
+
+--- Página 9 ---
+P. Gonzáles et al . - Biología reproductiva y citogenética de Distichia muscoides
+Los géneros que forman almohadillados óptimas de germinación superiores. Esto
+( Distichia, Oxychloe y Patosia ) han desarrollado podría explicar la causa del alto porcentaje de
+unisexualidad y dioecia como mecanismos de germinación de sus semillas a 28°C. Asimismo,
+aislamiento. Las flores pistiladas se ocultan en el almacenamiento por 18 meses a temperatura y
+las axilas de las hojas, y sólo los estigmas se humedad del ambiente (21°C y 80% en promedio)
+proyectan por encima de las almohadillas. Las podría haber influido negativamente en la
+flores estaminadas se levantan en pedicelos viabilidad de estas semillas, ya que estos factores
+largos por encima del almohadillado y están conjuntamente con las condiciones de maduración,
+expuestos a polinizadores. En D. muscoides , un son importantes en el mantenimiento de la
+almohadillado constituye un clon y produce flores viabilidad de las mismas (Roberts 1972; Berrie,
+de un solo sexo. Almohadillados de sexos opuestos 1984; Soplin, 1988). El fotoperiodo considerado
+puede crecer muy cerca uno del otro, y las flores para esta evaluación constaba de 75% de horas luz
+estaminadas y pistiladas pueden estar sólo a unos y 25% de horas en la oscuridad, resultando en un
+pocos centímetros de distancia o pueden estar alto porcentaje de germinación, el cual nos podría
+separados por varios metros. Durante la floración, indicar indirectamente un efecto positivo de la luz
+las flores están dispersas sobre toda la superficie del en estas semillas; esto indicaría que aparentemente
+almohadillado. La gran mayoría de flores pistiladas las semillas de D. muscoides son fotoblásticas
+son polinizadas, como lo demuestra la presencia de positivas al igual que otras plantas altoandinas
+cápsulas con semillas (Fig. 2 A). como Puya raimondi (Berrie 1984; Vadillo et al. ,
+En cuanto al desarrollo del fruto, el ovario 2004). Sin embargo, sería necesario evaluar su
+incrementa entre 2 a 3 mm de largo en un mes, respuesta en oscuridad.
+duplicando su tamaño. Se estima que este proceso El periodo de germinación obtenido en el
+tardaría entre tres y cuatro meses hasta la maduración presente trabajo se encuentra entre los días 15 y 30
+del fruto y posterior liberación de las semillas. Por después de haber sembrado las semillas (tiempo
+lo general, se puede observar que cerca del 50% de promedio de germinación de 18,4 días), lo que
+los óvulos no llegan a ser fecundados. Sin embargo, podría permitir su establecimiento en la temporada
+esta disminución del éxito reproductivo se estaría húmeda en su hábitat.
+mitigando con una producción masiva de flores y la Balslev (1996) sugirió que el agua podría actuar
+una alta viabilidad de las semillas. como vector de polen, sin embargo en el presente
+Las semillas de D. muscoides y O. andina Phil. estudio no se encontraron diferencias significativas
+son muy similares porque ambas presentan una en la producción de semillas entre los frutos
+cubierta reticulada, aunque O. andina tiene una colectados bajo el nivel del agua y totalmente
+reticulación regular a comparación de la superficie expuestos. Por ello concluimos que el principal o
+irregularmente reticulada de D. muscoides (Fig. 2 M). único vector de polen en D. muscoides es el viento,
+Esta similitud entre las semillas de las dos especies estando presente y con fuerte intensidad en su
+indica una estrecha relación y similares mecanismos medio natural.
+de dispersión entre ellas (Balslev, 1996). Las estrategias reproductivas como el desarrollo
+En los Andes, las temperaturas promedio suelen de largos pedicelos de las flores estaminadas que
+ser muy bajas, condición que podría influir en la elevan las anteras y dejan expuesto el polen a
+temperatura óptima de germinación de semillas los agentes dispersantes, la producción masiva
+de plantas altoandinas. Este es el caso de la de flores estaminadas y pistiladas, así como una
+germinación de las semillas de Puya raimondi buena exposición de las ramas estigmáticas con alta
+Harms, donde temperaturas mayores a 21°C la receptividad hacen más eficiente la polinización
+afectan negativamente (Berrie, 1984; Vadillo et y fecundación. Otro aspecto importante es el
+al. , 2004). Sin embargo, plantas con crecimiento desarrollo de un ginóforo que se alarga luego de
+almohadillado presentes en esta zona, como D. la senescencia de la flor para compensar el corto
+muscoides , tienen la capacidad de moderar la pedicelo de las flores femeninas, levantándose
+temperatura de su entorno y endógena (Salisbury por encima del almohadillado y exponiendo la
+& Spomer, 1964; Arroyo et al. , 1982; Nyakatya & cápsula madura para que las semillas puedan
+McGeoch, 2008), por lo que poseen temperaturas dispersarse libremente. Asimismo, la alta viabilidad
+131
+
+--- Página 10 ---
+Bol. Soc. Argent. Bot. 51 (1) 2016
+de las semillas resulta ser otra estrategia para el género, la existencia de constricción primaria
+mantenimiento de las poblaciones. Estas cualidades permitió identificar cromosomas monocéntricos
+probablemente han hecho que esta especie logre en Distichia . Sería necesario aplicar técnicas de
+alcanzar un gran éxito en su reproducción sexual, citogenética molecular para mapear físicamente las
+en comparación a las especies de sus géneros secuencias centroméricas, con el fin de corroborar
+hermanos como O. andina Phil. y P. clandestina estos resultados. Por lo tanto, es preciso ampliar
+(Phil.) Buchenau, las cuales no presentan un los estudios citogenéticos en cuanto a taxones y
+ginóforo. En O. andina, las longitudes de los técnicas, para ser capaces de inferir tendencias
+pedicelos de las flores pistiladas y estaminadas son evolutivas que ayuden a entender la diversificación
+similares (Balslev, 1996). Si a esto le sumamos de esta familia en un contexto biológico, ecológico
+la unisexualidad y la dioecia presentes en D. y filogenético.
+muscoides , se puede señalar que la reproducción
+sexual representa un mecanismo de éxito que le
+permite incrementar su variabilidad genética y a gradecimientos
+asegurar el flujo de genes.
+A Elluz Huamán y Warner Aparco por el
+Estudios cariológicos apoyo en el trabajo de campo, a José Roque y
+Se presenta por primera vez el número Héctor Aponte por la revisión de manuscrito y sus
+cromosómico de D. muscoides . Según la hipótesis importantes sugerencias, al Consejo Nacional de
+filogenética de Záveská Drábková & Vlček (2010), Investigaciones Científicas y Técnicas (CONICET)
+Distichia pertenece a un grupo monofilético, y al Instituto Multidisciplinario de Biología Vegetal
+junto con especies de Juncus sec. Graminifolii , por el apoyo a esta investigación.
+Marsippospermum Desv., Oxychloe y Patosia.
+En estos géneros, el número cromosómico básico
+varía entre x = 8 y x = 20, mientras que se ha Bi B liografía
+reconstruido que el ancestro común del clado tiene
+x = 20 (Záveská Drábková, 2013). Según estos ARROYO, M. T. K., R. PRIMACK, & J. ARMESTO.
+1982. Community studies in pollination ecology
+datos, además de que los conteos cromosómicos de
+in the high temperate Andes of central Chile. I.
+este grupo usualmente son múltiplos de 20 (Záveská
+Pollination mechanisms and altitudinal variation.
+Drábková, 2013), y que nuestros análisis muestran Amer. J. Bot. 69: 82-97.
+la presencia de NORs en dos pares cromosómicos BALSLEV, H. 1996. Juncaceae. Flora Neotropica 68:
+diferentes, se concluye que D. muscoides es 1-167.
+tetraploide, y probablemente alopoliploide. BERRIE, A M. M. 1984. Germination and dormancy. In:
+La distribución de diploides, agmatoploides, WILKINS, M. B. (ed.). Advanced plant physiology,
+poliploides, agmatopoliploides, aneuploides y pp. 440-468. The Pitman Press, Marshfield.
+simploides es compleja dentro de Juncaceae, BOWEN, C. C. 1956. Freezing by liquid carbon dioxide
+in making slides permanent. Stain Technol. 31: 87-
+como también la distribución de los números
+90.
+cromosómicos sobre el árbol filogenético más
+BOZEK, M., A. R. LEITCH, I. J. LEITCH, L. ZÁVESKÁ
+reciente (Záveská Drábková, 2013), sumado a DRÁBKOVÁ & E. KUTA. 2012. Chromosome and
+que el 58 % de sus especies son cariológicamente genome size variation in Luzula (Juncaceae), a genus
+desconocidas. with holocentric chromosomes. Bot. J. Linn. Soc.
+La presencia de cromosomas holocéntricos 170: 529-541.
+ha sido reportada tanto en Juncaceae como en BUREŠ, R. P., F. ZEDEK & M. MARKOVÁ.
+Cyperaceae (Bozek et al., 2012; Bureš et al., 2013. Holocentric chromosomes . Springer, Vienna.
+2013), siendo considerada una sinapomorfía FAEGRI, K. & J. IVERSEN. 1989. Textbook of pollen
+analysis. 4th ed. Blackburn Press, Caldwell.
+para el clado constituido por ambas familias
+FERREYRA, R. 1979. Sinopsis de la flora peruana,
+(Plunkett et al., 1995). Sin embargo, la presencia
+Gymnospermas y Monocotiledóneas. Los Pinos,
+de esta clase de cromosomas solo ha podido ser Lima.
+demostrada satisfactoriamente en Luzula (Bureš GALEN, C. & R. C. PLOWRIGHT. 1987. Testing the
+et al., 2013). A diferencia de lo observado en este accuracy of using peroxidase activity to indicate
+132
+
+--- Página 11 ---
+P. Gonzáles et al . - Biología reproductiva y citogenética de Distichia muscoides
+stigma receptivity. Can. J. Bot. 65: 107-111. TORRES, G. R., L. C. LUPO, A. C. SÁNCHEZ, & K.
+HESSE, M., H. HALBRITTER, M. WEBER, R. SCHITTEK. 2012. Aportes a la flora polínica de
+BUCHNER, A. FROSCH-RADIVO & S. ULRICH. turberas altoandinas, Provincia de Jujuy, noroeste
+2009. Pollen Terminology: An illustrated handbook. argentino. Gayana Bot. 69: 30-36.
+Springer Science & Business Media, Wien, New TOVAR, O. 1973. Comunidades vegetales de la Reserva
+York. Nacional de Vicuñas de Pampas Galeras, Ayacucho,
+HEUSSER, C. J. & N. T. MOAR. 1973. Pollen and Perú . Publ. Mus. Hist. Nat. “Javier Prado” 27: 1-32.
+spores of Chile: Modern types of the Pteridophyta, VADILLO, G., M. SUNI, & A. CANO. 2004. Viabilidad
+Gymnospermae, and Angiospermae. New Zeal. J. y germinación de semillas de Puya raimondii Harms
+Bot. 11: 389-391. (Bromeliaceae). Revista Per. Biol. 11: 71-78.
+KIRSCHNER, J., H. BALSLEV, A. ČEŠKA, J. COFFEY VALENCIA, N., A. CANO, A. DELGADO, H.
+SWAB, E. EDGAR, C. GARCÍA-HERRÁN, L. TRINIDAD, & P. GONZÁLES. 2013. Composición
+HÄMET-AHTI, Z. KAPLAN, L. J. NOVARA, V. y cobertura de la vegetación de bofedales en un
+S. NOVIKOV & A. WILTON. 2002. Juncaceae macrotransecto este-oeste en los Andes centrales
+1: Rostkovia to Luzula . In: ORCHARD, A. E., del Perú. In: ALONSO, A., F. DALLMEIER &
+J. BLEYERVEEN, A. J. G. WILSON & B. G. SERVAT. (eds.). Monitoreo de Biodiversidad
+KUCHLMAYR (eds). Species Plantarum: Flora lecciones de un megaproyecto transandino , pp.
+of the World. Part 6: 1-237. Australian Biological 278-293. Smithsonian Institution Scholarly Press,
+Resources Study, Canberra. Washington, DC.
+NYAKATYA, M. & M. MCGEOCH. 2008. Temperature WEBERBAUER, A. 1945. El mundo vegetal de los
+variation across Marion Island associated with Andes peruanos. Lumen, Lima.
+a keystone plant species ( Azorella selago Hook. WILLE, J. N. F. 1882. Om pollenkornenes udvikling
+(Apiaceae)). Polar Biol. 3: 139-151. hos Juncaceer og Cyperaceer. Skr. Vidensk.-Selsk.
+PLUNKETT, G. M., D. E. SOLTIS, P. S. SOLTIS & Christiania, Math.-Naturvidensk. Kl. 16:1-4.
+R. E. BROOKS. 1995. Phylogenetic relationships ZÁVESKÁ DRÁBKOVÁ, L. 2013. A Survey of
+between Juncaceae and Cyperaceae: insights from Karyological Phenomena in the Juncaceae with
+rbcL sequence data. Amer. J. Bot. 82: 520-525. Emphasis on Chromosome Number Variation and
+RUTHSATZ, B. 1978. Las plantas en cojín de los Evolution. Bot. Rev. 79: 401-446.
+semi-desiertos andinos del noroeste Argentino: Su ZÁVESKÁ DRÁBKOVÁ, L & Č. VLČEK. 2010.
+distribución local como adaptación a los factores Molecular phylogeny of the genus Luzula DC.
+climáticos, edáficos y antropogénicos de sus (Juncaceae, Monocotyledones) based on
+ambientes. Darwiniana 21: 491-539. plastome and nuclear ribosomal regions: A case
+SALISBURY, P. D. & G. G.SPOMER. 1964. Leaf of incongruence, incomplete lineage sorting and
+temperatures of alpine plants in the field . Planta 60: hybridization. Molec. Phylog. Evol. 57: 536-551.
+497-505.
+SCHWEIZER, D. 1980. Simultaneous fluorescent
+staining of R bands and specific heterochromatic
+regions (DA-DAPI bands) in human chromosomes.
+Cytogenet. Cell Genet. 27: 190-193.
+SCHWEIZER, D. & P. F. AMBROS. 1994. Chromosome
+banding. Stain combinations for specific regions. In:
+GOSDEN, J. R. (ed .). Methods in molecular biology
+29. Chromosome analysis protocols, pp. 97-112. Recibido el 27 de agosto de 2015, aceptado el 14 de
+Humana Press, Totowa. octubre de 2015.
+133
+
+--- Página 12 ---
+[Sin texto reconocible]
