@@ -1,0 +1,1225 @@
+--- Página 1 ---
+INFORME TÉCNICO DE FISCALIZACIÓN AMBIENTAL
+Examen de Información
+FAENA MINERA CERRO COLORADO
+DFZ‐2022‐2368‐I‐RCA
+SEPTIEMBRE 2022
+Nombre Firma
+Aprobado Claudia Pastore H. X
+Claudia Pastore H.
+División de Fiscalización
+Elaborado Tamara González G. X
+Tamara González G.
+Fiscalizadora Región de Tarapacá
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+
+--- Página 2 ---
+Contenido
+1 RESUMEN..........................................................................................................................................................3
+2 IDENTIFICACIÓN DE LA UNIDAD FISCALIZABLE. ...............................................................................................5
+3 INSTRUMENTOS DE CARÁCTER AMBIENTAL FISCALIZADOS. ...........................................................................6
+4 ANTECEDENTES DE LA ACTIVIDAD DE FISCALIZACIÓN. ....................................................................................6
+5 HECHOS CONSTATADOS. ..................................................................................................................................8
+6 CONCLUSIONES. ............................................................................................................................................ 31
+7 ANEXOS. ......................................................................................................................................................... 40
+2
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+
+--- Página 3 ---
+1 RESUMEN.
+El presente documento da cuenta de los resultados de la actividad de examen de la información realizado por la
+Superintendencia del Medio Ambiente (SMA) en conjunto con la Dirección General de Aguas (DGA), ambos de la región de
+Tarapacá, a la unidad fiscalizable “Compañía Minera Cerro Colorado”, localizada en la comunas de Pica y Pozo Almonte,
+provincia del Tamarugal, Región de Tarapacá, en base a la revisión de los antecedentes remitidos por la Dirección General
+de Aguas de la región de Tarapacá mediante el ORD. N°85 de fecha 24 de agosto de 2022 y el Informe Técnico de Fiscalización
+N°09/2022 de fecha 27 de julio de 2022, así como también del ORD. N°97 de fecha 22 de septiembre de 2022 y el Informe
+Técnico de Fiscalización N°12 de fecha 14 de septiembre de 2022 y a la información remitida por el Titular, en consideración
+al requerimiento de información formulado a través de la Resolución Exenta TPCA N°55 de fecha 05 de septiembre de 2022.
+El motivo de la actividad de fiscalización correspondió a la investigación de los dos hallazgos reportados por la Dirección
+General de Aguas (DGA), en consideración al cumplimiento de la medida cautelar decretada por el Primer Tribunal
+Ambiental a la Compañía Minera Cerro Colorado (Rol D‐10‐2021), a saber:
+1. Incumplimiento de medida cautelar decretada por el Primer Tribunal Ambiental, relacionada con la superación por
+parte de Compañía Minera Cerro Colorado de caudales de extracción de aguas subterráneas desde pozos de producción
+P1, P2, P3, P4 y P‐R, según consta a partir de pozos de control LA‐02,LA‐03, LA‐04 y LA‐05.
+2. Incumplimiento del deber de reportar las extracciones efectivas de conformidad a la exigencia contenida en la RCA
+correspondiente, esto en tanto, según consta en Tabla N°6 existen periodos específicos en el mes de mayo del presente
+año sin reportabilidad de información, como además falta total de reportería en línea desde el 03 de junio de 2022.
+Así como también, se revisó la utilización de los 25 l/s para la operación del Sistema de Recarga Artificial (SRA) y el riego del
+bofedal Lagunillas.
+El proyecto minero Cerro Colorado, propiedad de la Compañía Minera Cerro Colorado Ltda. (CMCC), se ubica en la Región
+de Tarapacá aproximadamente a 9 kilómetros de la localidad de Mamiña. Se encuentra en operación desde 1992 y basa su
+producción, de 130.000 toneladas de cátodos al año (ton/año), en la explotación a cielo abierto de su yacimiento de cobre,
+mientras que el posterior procesamiento del mineral se realiza mediante chancado en tres etapas: Lixiviación en pilas,
+extracción por solventes y electro‐obtención. En la actualidad CMCC cuenta con una capacidad instalada para el
+procesamiento de mineral de hasta 60.000 toneladas por día (tpd). El proyecto considera continuar con la actual operación
+de la Compañía Minera Cerro Colorado Ltda. hasta el año 2023, explotando sus reservas de mineral sin modificar el proceso
+y manteniendo el nivel de producción autorizado, esto es alrededor de 217 ktpd como promedio diario.
+Las materias relevantes objeto de la fiscalización incluyeron revisar el Incumplimiento de medida cautelar decretada por el
+Primer Tribunal Ambiental, relacionada con la superación por parte de Compañía Minera Cerro Colorado de caudales de
+extracción de aguas subterráneas desde pozos de producción P1, P2, P3, P4 y P‐R, según consta a partir de pozos de control
+LA‐02,LA‐03, LA‐04 y LA‐05; el Incumplimiento del deber de reportar las extracciones efectivas de conformidad a la exigencia
+contenida en la RCA correspondiente, esto en tanto, según consta en Tabla N°6 existen periodos específicos en el mes de
+mayo del presente año sin reportabilidad de información, como además falta total de reportería en línea desde el 03 de
+junio de 2022 y el Funcionamiento del Pozo P3 y la utilización de los 25 l/s para la operación del Sistema de Recarga Artificial
+(SRA) y el riego del bofedal Lagunillas.
+Con relación al incumplimiento del deber de reportar las extracciones efectivas de conformidad a la exigencia contenida en
+la RCA correspondiente y según consta en Tabla N°6 existen periodos específicos en el mes de mayo del presente año sin
+reportabilidad de información, es preciso indicar que el motivo de la falta de información correspondió a una interrupción
+en el envío desde la base de datos, alojada en la plataforma Cloudwater, a la plataforma de Monitoreo de Extracciones
+Efectivas de la DGA. En el caso de los caudales instantáneos de los días: 23‐05‐2022 a las 4:00, en el Pozo P1 (OB‐0104‐64)
+y Pozo PR (OB‐0103‐175) y; 24‐05‐2022 a las 19:00, en el Pozo P1 (OB‐0104‐64), los valores no fueron cargados debido a
+una interrupción en la transmisión de datos desde los equipos instalados en los pozos de extracción hacia la base de datos
+(plataforma Cloudwater), a causa de condiciones atmosféricas específicas y/o inestabilidad propia de la señal de internet
+y/o sateli‐‐tal de la zona de alta cordillera en donde se encuentra habilitado el sistema de telemetría de CMCC.
+3
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+
+--- Página 4 ---
+Respecto a la falta total de reportería en línea desde el 03 de junio de 2022, es preciso indicar que se debió a la interrupción
+en el envío de datos desde la base de datos alojada en la plataforma Cloudwater, a la plataforma de Monitoreo de
+Extracciones Efectivas de la DGA, debido a que con fecha 3 de junio de 2022, CMCC modificó el representante asignado en
+dicha Plataforma (usuario y clave de acceso). Este cambio de representante, por una inadvertencia, no fue comunicado al
+equipo a cargo de la operación y funcionamiento del sistema de telemetría, generando una interrupción en la transmisión
+automática de los caudales desde la base de datos del Centro de Control a la de Monitoreo de Extracciones Efectivas de la
+DGA, lo cual se corrigió el día 12 de agosto de 2022.
+Con fecha 12 de agosto de 2022 y 14 de septiembre de 2022, los datos no reportados correspondientes a los indicados en
+la Tabla N°6 como los datos del 3 de junio en adelante, fueron enviados desde la base de datos del centro de control
+“Cloudwater” a la plataforma de Monitoreo de Extracciones Efectivas de la DGA.
+Cabe señalar, que mediante el Ord. N°97 de fecha 22 de septiembre de 2022, la DGA informó seis nuevos períodos sin
+reporte de extracciones de aguas subterráneas desde los pozos P‐1, P‐3 y PR. No obstante, diariamente se realiza un registro
+manual de los datos. Cabe mencionar que, en el mes de septiembre de 2022, se instalaron dataloggers en cada uno de los
+tres pozos de extracción (P‐1, P‐3 y P‐R), lo que permitirá, en el caso de futuras interrupciones en la transmisión, contar con
+un respaldo de los datos instantáneos registrados en forma horaria en cada pozo
+En relación con el pozo P3 (LA‐3), el cual es el encargado de abastecer de agua al Sistema de Riego Artificial (SRA), es posible
+señalar que durante las actividades de fiscalización realizadas por la DGA los días 18‐10‐2021, 14‐06‐2022, 19‐07‐2022, 19‐
+08‐2022, 29‐09‐2022 y 26‐10‐2022, se constató que dicho pozo se encontraba en funcionamiento y además se obtuvo un
+registro del totalizador en cada ocasión, verificando el caudal instantáneo de extracción y el caudal que correspondía a la
+distribución hacia el Sistema de Riego Artificial (SRA) del bofedal Lagunillas.
+En relación con la utilización de los 25 l/s para la operación del Sistema de Recarga Artificial (SRA) y el riego del bofedal
+Lagunillas, se constató que tanto el pozo P3 (LA‐3) como el pozo PR se encontraban en funcionamiento, pudiendo verificar
+el caudal que correspondía a la distribución hacia el Sistema de Riego Artificial (SRA) del bofedal Lagunillas, donde al sumar
+ambos caudales se obtiene el valor de 25 l/s comprometido. Sólo en una de las fiscalizaciones realizadas se constató que el
+pozo PR no se encontraba en funcionamiento, por lo cual en dicha ocasión el volumen destinado al riego del bofedal se
+extrajo en su totalidad desde el pozo P3.
+Entre los hechos constatados que representan hallazgos se encuentran: la superación del caudal total de extracción de aguas
+subterráneas estipulado en 69 l/s en los pozos P‐1, P‐3 y P‐R, específicamente en 13 horarios del día 18‐05‐2022 con valores
+superados que van entre 70,72 l/s – 72,97 l/s y 15 horarios del día 19‐05‐2022 con valores que van entre 72,17 l/s – 72,72
+l/s.
+4
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+
+--- Página 5 ---
+2 IDENTIFICACIÓN DE LA UNIDAD FISCALIZABLE.
+2.1 Antecedentes Generales.
+Identificación de la Unidad Fiscalizable: Estado operacional de la Unidad Fiscalizable:
+Faena Minera Cerro Colorado. En operación.
+Región: Ubicación específica de la unidad fiscalizable:
+Tarapacá. Faena Minera Cerro Colorado.
+Provincia:
+Del Tamarugal.
+Comunas:
+Pica y Pozo Almonte.
+Titular de la unidad fiscalizable: RUT o RUN:
+Compañía Minera Cerro Colorado. 94.621.000‐5
+Domicilio titular: Correo electrónico:
+Calle Esmeralda N°340, piso 6, edificio Esmeralda, ciudad de alejandro.b.heilbron@bhp.com
+Iquique, región de Tarapacá. sandra.moreira@bhp.com
+Teléfono:
++56225795390
+Identificación representante legal: RUT o RUN:
+Alejandro Heilbron Batista. 23.488.329‐1
+Domicilio representante legal: Correo electrónico:
+Calle Esmeralda N°340, piso 6, edificio Esmeralda, ciudad de alejandro.b.heilbron@bhp.com
+Iquique, región de Tarapacá. sandra.moreira@bhp.com
+Teléfono:
++56225795390
+5
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+
+--- Página 6 ---
+3 INSTRUMENTOS DE CARÁCTER AMBIENTAL FISCALIZADOS.
+Identificación de Instrumentos de Carácter Ambiental fiscalizados.
+Tipo de N°
+N° Fecha Comisión/ Institución Descripción
+instrumento
+01‐10‐2015 Comisión de Evaluación Continuidad Operacional Cerro
+1 RCA 69/2015
+región de Tarapacá Colorado.
+06‐01‐2022 Comisión de Evaluación Continuidad Operacional Cerro
+2 RCA 2022010013
+región de Tarapacá Colorado.
+Paralización de extracción de aguas
+subterráneas desde el sector de
+Lagunillas, Región de Tarapacá, de los
+Medida 19‐08‐2021 Primer Tribunal pozos de producción P1, P2, P3 y P4
+2 Rol D‐10‐2021
+cautelar Ambiental de la Compañía Minera Cerro
+Colorado Limitada, en un plazo de 90
+días, a partir del1o de octubre de
+2021.
+4 ANTECEDENTES DE LA ACTIVIDAD DE FISCALIZACIÓN.
+4.1 Motivo de la Actividad de Fiscalización.
+Motivo Descripción
+X De Oficio.
+Motivo:
+El motivo de la actividad de fiscalización ambiental correspondió a la investigación de los
+dos hallazgos reportados por la Dirección General de Aguas (DGA), en consideración al
+cumplimiento de la medida cautelar decretada por el Primer Tribunal Ambiental a la
+Compañía Minera Cerro Colorado (Rol D‐10‐2021), a saber:
+1. Incumplimiento de medida cautelar decretada por el Primer Tribunal Ambiental,
+X No programada relacionada con la superación por parte de Compañía Minera Cerro Colorado de
+caudales de extracción de aguas subterráneas desde pozos de producción P1, P2, P3,
+P4 y P‐R, según consta a partir de pozos de control LA‐02,LA‐03, LA‐04 y LA‐05.
+2. Incumplimiento del deber de reportar las extracciones efectivas de conformidad a la
+exigencia contenida en la RCA correspondiente, esto en tanto, según consta en Tabla
+N°6 existen periodos específicos en el mes de mayo del presente año sin reportabilidad
+de información, como además falta total de reportería en línea desde el 03 de junio de
+2022.
+6
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+
+--- Página 7 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+4.2 Revisión Documental.
+4.2.1 Documentos Revisados.
+Organismo
+ID Nombre del documento revisado Origen/ Fuente del documento Observaciones
+encomendado
+1 ORD. N°85 de fecha 24‐08‐2022,
+junto al Informe Técnico de Documentación entregada por la Dirección General de Aguas Fiscalización en terreno realizada durante
+‐‐‐
+Fiscalización N° 09/2022 de fecha de la región de Tarapacá. los días 14‐06‐2022 y 19‐07‐2022.
+27‐07‐2022.
+2 Carta N°195/2022 de fecha 15 de Documentación solicitada al Titular a través de la Resolución
+septiembre de 2022, junto a sus Exenta TPCA N°55/2022 de fecha 05 de septiembre de 2022, ‐‐‐ ‐‐‐‐
+anexos, CMCC. SMA.
+3 ORD. N°97 de fecha 22‐09‐2022,
+junto al Informe Técnico de Documentación entregada por la Dirección General de Aguas Fiscalización en terreno realizada el día 19‐
+‐‐‐
+Fiscalización N° 12/2022 de fecha de la región de Tarapacá. 08‐2022.
+14‐09‐2022.
+Carta N°221/2022 de fecha 14 de Documentación solicitada al Titular a través de la Resolución
+4 octubre de 2022, junto a sus Exenta TPCA N°064/2022 de fecha 30 de septiembre de 2022, DGA ‐‐‐
+anexos, CMCC. SMA.
+5 Ord. N°19/2022 de fecha 02‐12‐ ‐‐‐
+Ord. TPCA N°256/2022 de fecha 29‐11‐2022, SMA ‐‐‐
+2022 junto a sus anexos, DGA.
+Informe Técnico de Fiscalización
+6 N°05/2021 de fecha 18‐10‐2021, Información proporcionada por la DGA. ‐‐‐ ‐‐‐
+DGA.
+7
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 8 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+5 HECHOS CONSTATADOS.
+5.1 Incumplimiento del deber de reportar las extracciones efectivas: según consta en Tabla N°6 existen periodos específicos en el mes
+de mayo del presente año sin reportabilidad de información, como además falta total de reportería en línea desde el 03 de junio de
+2022.
+Número de hecho constatado: 1
+Hechos:
+I. Con fecha 24 de agosto de 2022, esta Superintendencia recepcionó el ORD. N°85 de la Dirección General de Aguas de la Región de Tarapacá (en adelante,
+“la DGA”), de fecha 24 de agosto de 2022 (Anexo 1), el cual hace referencia a lo siguiente (énfasis agregado):
+“(…) vengo en informar en relación a la solicitud del Primer Tribunal Ambiental, asociada a causa Rol D‐10‐2021, referente a posibles sanciones que en derecho
+correspondan. En este sentido es menester señalar ciertos hallazgos constatados por este Servicio, mediante Informe Técnico de Fiscalización DGA N°09 de
+fecha 27 de julio de 2022, que pueden sintetizarse en lo siguiente:
+a) Con fecha 27 de julio del presente año, este Servicio realizó el Informe Técnico de Fiscalización N° 09/2022, el cual, da cuenta sobre lo decretado por el
+Primer Tribunal Ambiental sobre el segundo período de régimen cautelar entre los días 91 hasta el 180 inclusive, donde se instruye a la Dirección General de
+Aguas la fiscalización y el reporte sobre el efectivo cumplimiento de la medida cautelar decretada.
+b) Que respecto a dicho Informe Técnico, este Servicio constata en el punto N° 7. OTRAS CONSIDERACIONES, hallazgos respecto al sistema de monitoreo en
+línea y en tiempo real de la extracción de aguas subterráneas en la cuenca de Lagunillas.
+c) Que en este mismo sentido, las obligaciones de mantener un monitoreo en línea e información en tiempo real de las extracciones de aguas subterráneas
+en la cuenca de Lagunillas, corresponden al resuelvo 1.1.j, de la Resolución Exenta N° 67 de 7 de julio de 2011, de Comisión de Evaluación de la Región de
+Tarapacá, que modificó las RCAs N°22/97 y N°102/2002, menciona lo siguiente: "CMCC deberá mantener el sistema de monitoreo de los pozos de extracción
+de agua hasta el cese definitivo de la extracciones existente de la cuenca de Lagunillas y ampliarlo a nuevos pozos que se construyan, si corresponde, a efectos
+de monitorear en tiempo real la extracción del recurso, monitoreo que deberá estar conectado en línea con la Dirección Regional de Aguas".
+II. Que, a mayor detalle, en el mencionado punto N°7. ‘OTRAS CONSIDERACIONES’ de su Informe Técnico de Fiscalización N° 09/2022 (Anexo 1), la DGA señala
+lo siguiente respecto al sistema de monitoreo en línea y en tiempo real de la extracción de aguas subterráneas en la cuenca de Lagunillas (énfasis agregado):
+“Según los datos informados por el titular en la plataforma D.G.A. de Monitoreo de Extracciones Efectivas para el mes de Mayo de 2022, en la captaciones
+OB‐0104‐64, OB‐0104‐66 y OB‐0104‐175, el titular no ha presentado información respecto a las extracciones de agua subterráneas realizadas en algunos
+periodos, tal como se aprecia en la Tabla N°6:
+8
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 9 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Tabla N°6: Resumen periodos sin reportar información.
+III. Que, adicionalmente, en la misma sección de su Informe Técnico de Fiscalización, la DGA agrega que: “En este mismo sentido, en lo que respecta los reportes
+de extracciones efectivas correspondientes al mes de junio y julio del presente año, el titular ha realizado reportes horarios para las captaciones; P‐1 (OB‐
+0104‐64), P‐3 (OB‐0104‐66) y P‐R (OB‐0104‐175) solo hasta el día 03 de junio del presente año” ;
+IV. Que, por lo expuesto anteriormente, con el objetivo de esclarecer los hechos informados por la DGA, mediante la Resolución Exenta TPCA N°55/2022 de
+fecha 05 de septiembre de 2022 (Anexo 2), se solicitó la siguiente información complementaria al titular:
+1. Informar motivo/causa por el cual: a) no se realizaron los cinco (5) reportes de las extracciones de aguas subterráneas en los períodos indicados en la
+Tabla N°6 del Informe Técnico de Fiscalización N° 09/2022 de la DGA, y b) se interrumpió el reporte de extracciones efectivas desde el día 03 de junio
+del presente año 2022, según se indica en el mismo Informe Técnico. Deberán acompañarse medios de verificación que permitan acreditar los
+antecedentes que se informen.
+2. Informar si la falta de reportabilidad especificada en el punto 1 anterior, ha conllevado pérdida de registros de monitoreo de las extracciones de aguas
+subterráneas, o bien si dichos datos pudieron ser recuperados en forma posterior, en cuyo caso deberán ser reportados en respuesta al presente
+requerimiento. Deberán acompañarse medios de verificación que permitan acreditar los antecedentes que se informen.
+3. Informar:
+a) Las medidas/acciones correctivas llevadas a cabo para subsanar la falta de reportabilidad especificada en el punto 1 anterior y para evitar la
+ocurrencia de nuevas situaciones de este tipo.
+b) El estado actual del sistema de monitoreo en línea en todos los puntos de extracción de aguas subterráneas en la cuenca de Lagunillas. Deberán
+acompañarse medios de verificación que permitan acreditar los antecedentes que se informen.
+9
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 10 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+V. De acuerdo a lo solicitado, el Titular respondió a la SMA a través de la Carta N°195/2022 de fecha 15 de septiembre de 2022 (Anexo 3), textualmente lo
+siguiente:
+1. Informar motivo/causa por el cual: a) no se realizaron los cinco (5) reportes de las extracciones de aguas subterráneas en los períodos indicados en
+la Tabla N°6 del Informe Técnico de Fiscalización N° 09/2022 de la DGA, y b) se interrumpió el reporte de extracciones efectivas desde el día 03 de
+junio del presente año 2022, según se indica en el mismo Informe Técnico. Deberán acompañarse medios de verificación que permitan acreditar los
+antecedentes que se informen.
+Respuesta:
+Respecto a lo consultado en la letra a) del primer requerimiento de información, en el Informe Técnico de Fiscalización DGA N°09/2022, se indica “Según los
+datos informados por el titular en la plataforma D.G.A. de Monitoreo de Extracciones Efectivas para el mes de mayo de 2022, en las captaciones OB‐0104‐64,
+OB‐0104‐66 y OB‐0104‐175, el titular no ha presentado información respecto a las extracciones de agua subterráneas realizadas en algunos periodos, tal
+como se aprecia en la Tabla N°6:
+Al respecto, es posible indicar, que una vez recibido el Informe Técnico de Fiscalización N°09/2022 del pasado 11 de agosto de 2022, de manera inmediata
+CMCC procedió a revisar y analizar los periodos sin información indicados en la Tabla N°6 de dicho informe. En base a esta revisión es posible indicar que:
+i. El motivo de la falta de información en la Plataforma de Monitoreo de Extracciones Efectivas de la DGA en los periodos señalados en la Tabla N°6
+del informe de fiscalización (exceptuando los indicados en el punto ii) siguiente) correspondía a una interrupción en el envío de datos desde la base
+de datos, alojada en la plataforma Cloudwater 1 , a la plataforma de Monitoreo de Extracciones Efectivas de la DGA. En este caso, los caudales de los
+1
+De acuerdo con lo requerido en la resolución que dispuso la medida cautelar de fecha 14 de febrero de 2022 por parte del Ilustre Primer Tribunal Ambiental de Antofagasta (“Medida Cautelar”), con respecto a la exigencia establecida en
+la Resolución Exenta N° 67, del 07 de julio de 2011, de la Comisión de Evaluación de la Región de Tarapacá (“Resolución Exenta N°67/2011”), dentro del plazo conferido por el Tribunal, CMCC procedió con la implementación de un sistema
+de monitoreo en línea y en tiempo real, de la extracción de aguas subterráneas desde la cuenca de Lagunillas.
+Para ello, se instaló un sistema que permite la recolección de datos de caudales medidos por los flujómetros instalados en los pozos de extracción P‐1, P‐3 y P‐R, que corresponden a los pozos habilitados por CMCC para la extracción de
+aguas subterráneas, y su transmisión con frecuencia horaria, a la plataforma de Monitoreo Extracciones Efectivas de la Dirección General de Aguas (“DGA”).
+10
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 11 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+períodos mencionados fueron transmitidos a través del sistema de transmisión en línea a la base de datos del centro de control (Cloudwater), pero
+producto de un error de transmisión éstos no fueron recepcionados en la plataforma de la DGA.
+A partir de la revisión antes mencionada, con fecha 12 de agosto de 2022 y 14 de septiembre de 2022, se realizó un envío excepcional de información
+desde la base de datos base de datos del centro de control (la cual se aloja en la plataforma “Cloudwater”, ver Anexo 1 “Informe de Cumplimiento
+Implementación del Sistema de Monitoreo en Línea y en Tiempo Real de la Extracción de Aguas Subterráneas en la Cuenca de Lagunillas”), a la
+plataforma de Monitoreo de Extracciones Efectivas de la DGA, los que podrán ser visualizados una vez que dicha plataforma actualice su visualización
+al público. En el Anexo 2, se presenta copia de los caudales cargados desde la base de datos a la plataforma de Monitoreo de Extracciones Efectivas
+de la DGA, para los periodos indicados en la Tabla N°6 Informe Técnico de Fiscalización N°09/2022 de la DGA).
+ii. En el caso de los caudales instantáneos de los días:
+‐ 23.05.2022 a las 4:00, en el Pozo P1 (OB‐0104‐64) y Pozo PR (OB‐0103‐175) y;
+‐ 24.05.2022 a las 19:00, en el Pozo P1 (OB‐0104‐64).
+No fue posible cargar caudales instantáneos. La falta de dicha información se debió a una interrupción en la transmisión de datos desde los equipos
+instalados en los pozos de extracción hacia la base de datos alojada en la plataforma Cloudwater. Este tipo de interrupciones ocurren debido a
+condiciones atmosféricas específicas y/o inestabilidad propia de la señal de internet y/o satelital de la zona de alta cordillera en donde se encuentra
+habilitado en sistema de telemetría de CMCC.
+Esta ausencia de información, se ve subsanada por el registro manual de volúmenes extraídos desde los pozos de extracción P‐1, P‐3 y P‐R, de acuerdo
+a lo indicado en la Respuesta N°2, siguiente.
+Respecto a lo consultado en la letra b) del primer requerimiento de información, en el Informe Técnico de Fiscalización DGA N°09/2022, se indica “…en lo
+que respecta a los reportes de extracciones efectivas correspondientes al mes de junio y julio del presente año, el titular ha realizado reportes horarios
+para las captaciones P1 (OB‐0104‐64), P3 (OB‐0104‐66) y PR (OB‐0103‐175) solo hasta el día 3 de junio del presente año”.
+En base a la revisión realizada por CMCC para el periodo señalado, se identificó que el motivo que justificaba los periodos sin información correspondía a una
+interrupción en el envío de datos desde la base de datos alojada en la plataforma Cloudwater, a la plataforma de Monitoreo de Extracciones Efectivas de la
+DGA. En este caso en particular, los datos no fueron cargados en la plataforma de Monitoreo de Extracciones Efectivas de la DGA debido a que, con fecha 3
+de junio de 2022, CMCC modificó el representante (usuario y clave de acceso) de CMCC asignado en dicha Plataforma. Este cambio de representante, por una
+inadvertencia, no fue comunicado al equipo a cargo de la operación y funcionamiento del sistema de telemetría, generando una interrupción en la transmisión
+automática de los caudales desde la base de datos del Centro de Control a la de Monitoreo de Extracciones Efectivas de la DGA. En Anexo 3 se presenta como
+antecedente el “formulario de solicitud de cambio del usuario informante” o representante de CMCC en la plataforma de la DGA, firmado ante notario, y
+presentado ante la DGA en la fecha antes señalada.
+La instalación de este sistema fue iniciada con fecha 07 de abril de 2022 y fue informada a la SMA mediante la emisión del informe denominado CMCC‐HSE‐ R‐RE‐104/2022 “Informe de Cumplimiento Implementación del Sistema de
+Monitoreo en Línea y en Tiempo Real de la Extracción de Aguas Subterráneas en R‐RE‐104/2022 “Informe de Cumplimiento Implementación de la Cuenca de Lagunillas” de fecha Mayo, 2022 ( ver Anexo 1 ).
+11
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 12 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Sin perjuicio de lo anterior, con fecha 12 de agosto de 2022 se procedió a configurar el nuevo usuario en el sistema de transmisión en línea de datos, y así
+mismo se procedió a realizar una carga excepcional de información desde la base de datos a la plataforma de Monitoreo de Extracciones Efectivas de la DGA.
+Los caudales registrados desde el 3 de junio de 2022 en adelante, que se encontraban disponibles en la base de datos fueron cargados en la Plataforma de
+Monitoreo de Extracciones Efectivas de la DGA. Lo anterior, puede ser verificado al descargar la información desde el acceso público a la plataforma
+de Monitoreo de Extracciones Efectivas de la DGA.
+Cabe precisar, que sin perjuicio de lo señalado en el párrafo anterior, durante este periodo se registraron interrupciones, es decir, periodos (horas) sin registro
+de datos de caudal producto de condiciones atmosféricas extremas y/o interrupciones de la señal de internet (ver Respuesta 2). En el Anexo 4, se presenta
+copia de los datos cargados en plataforma de Monitoreo de Extracciones Efectivas de la DGA para el periodo antes señalado).
+2. Informar si la falta de reportabilidad especificada en el punto 1 anterior, ha conllevado pérdida de registros de monitoreo de las extracciones de
+aguas subterráneas, o bien si dichos datos pudieron ser recuperados en forma posterior, en cuyo caso deberán ser reportados en respuesta al
+presente requerimiento. Deberán acompañarse medios de verificación que permitan acreditar los antecedentes que se informen.
+Respuesta:
+En cuanto a este segundo requerimiento de información, tal como fue indicado en la respuesta anterior, los datos de caudal disponibles en la base de datos
+del sistema de telemetría implementado por CMCC en Lagunillas, tanto de los períodos indicados en la Tabla N°6 del Informe Técnico de Fiscalización
+N°09/2022 como del 3 de junio de 2022 en adelante, fueron cargados en la plataforma de Monitoreo de Extracciones Efectivas de la DGA.
+De esta manera y atendiendo los hallazgos referidos por la DGA en su informe, CMCC actualizó los registros en la plataforma de la DGA, subsanando en parte
+el error de carga de datos identificados desde el 03 de junio de 2022, inclusive, con la información disponible.
+Lo anterior puede ser verificado al descargar la información desde el acceso público a la Plataforma de Extracciones Efectivas de la DGA (ver Anexo 2 y 4 de
+la presente respuesta al requerimiento de información de la SMA).
+Cabe precisar, que tal como se indicó en la respuesta anterior, en el caso de eventos de condiciones atmosféricas extremas y/o interrupciones de la señal de
+internet, se producirán interrupciones en la transmisión de datos en línea, es decir, se generan periodos (horas) sin registro de datos de caudal. A continuación,
+se indican las acciones que CMCC ha realizado para prevenir la perdida de información debido a interrupciones del sistema de transmisión de datos.
+Aun en los casos de interrupción de datos y previo a la implementación de acciones que permiten prevenir la pérdida de información, es importante destacar
+que CMCC controla las extracciones efectivas desde cada uno de los pozos de extracción de CMCC (P‐1, P‐3 y P‐R) mediante el registro manual desde los
+totalizadores dispuestos en cada uno de dichos pozos.
+Este control se realiza diariamente (cada seis horas del día en los pozos P‐1 y P‐3 y una vez al día en el pozo P‐R) y permite llevar el registro de las extracciones
+en volumen de manera diaria y mensual. En el Anexo 5 se presentan los registros respectivos de los meses de mayo a agosto de 2022.
+12
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 13 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Los registros mensuales de volúmenes extraídos son reportados, mediante formularios de la DGA en la Plataforma de Extracciones Efectivas de la DGA y en
+el informe de control de los registros de caudal diario remitidos a la DGA, ambos reportados con frecuencia mensual. En Anexo 6 se presenta el respaldo de
+ambos reportes para los meses de mayo a julio 2022.
+De este modo, este respaldo manual en base a los totalizadores permite ante vacíos de información de la transmisión instantánea de datos, contar con
+información diaria y mensual, permitiendo verificar el cumplimiento de los caudales de extracción de aguas subterráneas de CMCC.
+3. Informar:
+a) Las medidas/acciones correctivas llevadas a cabo para subsanar la falta de reportabilidad especificada en el punto 1 anterior y para evitar la
+ocurrencia de nuevas situaciones de este tipo.
+b) El estado actual del sistema de monitoreo en línea en todos los puntos de extracción de aguas subterráneas en la cuenca de Lagunillas. Deberán
+acompañarse medios de verificación que permitan acreditar los antecedentes que se informen.
+Respuesta:
+Respecto a lo consultado en la letra a), para subsanar la falta de reportabilidad especificada en el punto 1, en primer lugar, se revisó el contenido de la base
+de datos alojada en la plataforma Cloudwater, identificando los registros de extracción de agua pertenecientes a los pozos P‐1, P‐3 y P‐R que estaban
+disponibles en esta base y no habían sido transmitidos a la plataforma de la DGA. A continuación, se realizó un envío excepcional de información desde esta
+base de datos, hasta la plataforma de Monitoreo de Extracciones Efectivas de la DGA, conforme se indicó en la Respuesta 1 del presente documento.
+Cabe indicar que el sistema de medición y transmisión de datos de extracciones de agua de Lagunillas fue diseñado originalmente considerando los siguientes
+equipos: flujómetros (totalizadores), datalogger, equipos de radio CM100bat, transmisión vía internet mediante equipos Gateway CM500 Lorawan,
+transmisión vía satelital y un Centro de Control en internet, denominado plataforma Cloudwater. En particular, los dataloggers, corresponden a equipos
+capaces de almacenar en su memoria interna y de forma continua los datos registrados en los flujómetros. Esta configuración es, precisamente, la que permite
+resolver problemas de interrupción temporal en las señales de radio, internet o satelital, pues los datalogger almacenan los datos registrados, y una vez
+superada la interrupción en la señal, los datalogger envían los registros almacenados en su memoria interna a la base de datos alojada en el Centro de Control.
+Cabe señalar que, sin perjuicio del diseño del sistema de transmisión, el cual consideraba la instalación de dataloggers en cada uno de los pozos, no fue posible
+instalar estos aparatos al momento de iniciar la transmisión de datos en abril de 2022. Lo anterior fue debido a una falta de stock de este tipo de equipos a
+nivel nacional, por lo que fue necesaria su importación desde fábrica, siendo estos recepcionados en el mes de julio y configurados durante el mes de agosto.
+Su instalación tuvo lugar en el mes septiembre del presente año, según se documenta en el Anexo 7 , tal como constató en terreno el Ilustre Primer Tribunal
+Ambiental, por medio de inspección personal de 9 de septiembre de 2022.
+Es, justamente para evitar nuevas situaciones de falta de reportabilidad, que se cuenta con estos datalogger en terreno. En particular, a la fecha de envío del
+presente informe, los dataloggers de los pozos P‐1 y P‐3 se encuentran operando (Foto 1), es decir, registrando y transmitiendo los datos a la base de datos
+en Cloudwater (durante lo que resta del mes se considera a que dicho sistema se encuentra en periodo de prueba). En el caso del pozo P‐R, el datalogger fue
+instalado, no obstante, su configuración se encuentra en proceso y se espera que esta se complete durante el mes de septiembre. Así, los datos procedentes
+de los flujómetros serán registrados en los datalogger y, a continuación, serán enviados a través de una antena especial (Foto 2) al Gateway CM500 Lorawan;
+que es el equipo que transmite la información al Centro de Control (plataforma Cloudwater).
+13
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 14 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+En conclusión, en caso de nuevas interrupciones en las señales de radio, internet y satelital, que afecten a la reportabilidad, esta podrá ser subsanada en
+base a la información almacenada en los dataloggers.
+En forma complementaria, se ha elaborado un procedimiento de trabajo específico para los sistemas de telemetría encargados de transmitir la información
+de extracciones de agua. Este documento interno de CMCC define las acciones, responsables y plazos de respuesta en caso de que se presente alguna anomalía
+en los sistemas de telemetría (Anexo 8. PRG‐192 Gestión de Información de Telemetría). Dentro de los alcances de este procedimiento, cabe destacar que se
+formalizan mecanismos de coordinación interna, los sistemas de registro de información y la documentación de las soluciones aplicadas en caso de ocurrir
+algún incidente.
+Respecto a lo consultado en la letra b), “estado actual del sistema de monitoreo en línea” del tercer requerimiento de información, a continuación, se describen
+los equipos instalados actualmente en los pozos de extracción de Lagunillas, los que conforman los sistemas de medición y de transmisión de los datos:
+‐ En los pozos P‐1, P‐3 y P‐R existe un flujómetro que registra el caudal instantáneo (m3/hora) y el volumen total (m3) de agua extraída (Foto 3). Estos
+instrumentos cuentan con un Certificado de Calibración vigente.
+‐ La medición registrada en cada flujómetro es enviada mediante un cable a un sistema denominado CM100bat (Foto 4), el que envía una señal de radio
+hasta un equipo Gateway CM500 Lorawan (Foto 5). Este dispone de un chip universal y transmite, a través de internet y en tiempo real, las mediciones del
+flujómetro hasta una base de datos soportada en una aplicación denominada Cloudwater.
+‐ En cada pozo se cuenta, además, con un sistema de transmisión de datos redundante por vía satelital (Foto 6), que envía una señal en paralelo a la
+emisión de radio de Gateway CM500 Lorawan. Esta transmisión vía satélite es recibida por la base de datos alojada en la plataforma Cloudwater.
+‐ Para prevenir la pérdida de datos de los flujómetros cuando se interrumpen las señales de radio, internet o satélite, es que se ha instalado un datalogger
+en cada pozo (Foto 1). Estos equipos tienen una autonomía de 3 días en caso de desconexión a la corriente eléctrica y una capacidad de almacenamiento de
+datos equivalente a 3 años de mediciones. De este modo, la información de los flujómetros será registrada en forma continua en los datalogger y se enviará
+a la plataforma de Cloudwater, automáticamente, una vez superado el incidente.
+‐ Cloudwater es una plataforma que reside en internet, en una nube, que tiene la capacidad de almacenar información en su base de datos. Esta aplicación
+es un Centro de Control que provee el servicio de envío de datos a la plataforma de la DGA, en línea y en tiempo real. Además, Cloudwater permite la descarga
+de archivos y muestra esta información en pantalla mediante gráficos o reportes (Foto 7).
+A modo de conclusión, cabe informar que se encuentran instalados los equipos que permiten la transmisión redundante, vía internet y satelital, de los datos
+registrados en los flujómetros de los pozos de extracción de agua P‐1, P‐3 y P‐R. Estos datos son enviados en tiempo real y en línea a la plataforma Cloudwater,
+que es el Centro de Control que envía esta información al software de Monitoreo de Extracciones Efectivas de la DGA.
+Para resolver posibles problemas de perdida de información producto de interrupciones de la señala de transmisión en línea, recientemente se han instalado
+un datalogger en cada pozo. Estos equipos permiten el almacenamiento de las mediciones de caudal instantáneo obtenidas en los respectivos flujómetros.
+Los dataloggers se encuentran en proceso de configuración, entrando en operación durante el mes de septiembre.”
+14
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 15 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+VI. Con fecha 01 de septiembre de 2022, esta Superintendencia recepcionó el Oficio N°135/2022 de fecha 31 de agosto de 2022 del Primer Tribunal Ambiental
+(Anexo 4), mediante el cual solicitó informar acerca de la implementación de las medidas o acciones de fiscalización y/o sanción, en relación a los hallazgos
+reportados por la Dirección General de Aguas (DGA), a saber:
+2. Incumplimiento del deber de reportar las extracciones efectivas de conformidad a la exigencia contenida en la RCA correspondiente, esto en tanto, según
+consta en Tabla N°6 existen periodos específicos en el mes de mayo del presente año sin reportabilidad de información, como además falta total de reportería
+en línea desde el 03 de junio de 2022.
+VII. Mediante el Ord. N°97 de fecha 22 de septiembre de 2022 (Anexo 5), la DGA remitió a la SMA el Informe Técnico de Fiscalización N°12 de fecha 14 de
+septiembre de 2022, elaborado en consideración a la actividad de inspección realizada en terreno durante el día 19 de agosto de 2022, en el cual se indicó
+lo siguiente:
+i. 7. OTRAS CONSIDERACIONES.
+Respecto al sistema de monitoreo en línea y en tiempo real de la extracción de aguas subterráneas en la cuenca de Lagunillas. Este Servicio presenta
+la Tabla N°6 con el detalle:
+Tabla N°6: Resumen periodos sin reportar información.
+VIII. Del examen de información de la documentación revisada, es posible indicar lo siguiente:
+Ord. N°85/2022, DGA:
+ Con relación a la “no realización de los cinco (5) reportes de las extracciones de aguas subterráneas en los períodos indicados en la Tabla N°6” , el Titular
+informó que el motivo de la falta de información en la Plataforma de Monitoreo de Extracciones Efectivas de la DGA, correspondió a una interrupción en el
+envío de datos desde la base de datos, alojada en la plataforma Cloudwater, a la plataforma de Monitoreo de Extracciones Efectivas de la DGA. En este caso,
+los caudales de los períodos mencionados fueron transmitidos a través del sistema de transmisión en línea a la base de datos del centro de control
+(Cloudwater), pero producto de un error de transmisión estos no fueron recepcionados en la plataforma de la DGA.
+15
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 16 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+En el caso de los caudales instantáneos de los días: 23.05.2022 a las 4:00, en el Pozo P1 (OB‐0104‐64) y Pozo PR (OB‐0103‐175) y; 24.05.2022 a las 19:00, en
+el Pozo P1 (OB‐0104‐64), no fue posible cargar dichos valores, debido a una interrupción en la transmisión de datos desde los equipos instalados en los pozos
+de extracción hacia la base de datos (plataforma Cloudwater). Este tipo de interrupciones ocurren debido a condiciones atmosféricas específicas y/o
+inestabilidad propia de la señal de internet y/o satelital de la zona de alta cordillera en donde se encuentra habilitado el sistema de telemetría de CMCC.
+ Respecto a “la interrupción del reporte de extracciones efectivas desde el día 03 de junio del 2022” , el Titular indicó que se debió a la interrupción en el envío
+de datos desde la base de datos alojada en la plataforma Cloudwater, a la plataforma de Monitoreo de Extracciones Efectivas de la DGA. Los datos no fueron
+cargados en la plataforma de Monitoreo de Extracciones Efectivas de la DGA debido a que, con fecha 3 de junio de 2022, CMCC modificó el representante
+(usuario y clave de acceso) de CMCC asignado en dicha Plataforma. Este cambio de representante, por una inadvertencia, no fue comunicado al equipo a
+cargo de la operación y funcionamiento del sistema de telemetría, generando una interrupción en la transmisión automática de los caudales desde la base
+de datos del Centro de Control a la de Monitoreo de Extracciones Efectivas de la DGA (Imagen 1).
+Al respecto, el día 12 de agosto de 2022 se procedió a configurar el nuevo usuario en el sistema de transmisión en línea de datos, y así mismo se realizó una
+carga excepcional de información desde la base de datos a la plataforma de Monitoreo de Extracciones Efectivas de la DGA. Los caudales registrados desde
+el 3 de junio de 2022 en adelante, que se encontraban disponibles en la base de datos fueron cargados en la Plataforma de Monitoreo de Extracciones
+Efectivas de la DGA.
+ En relación con la falta de reportabilidad de la información , el Titular indicó que con fecha 12 de agosto de 2022 y 14 de septiembre de 2022, los datos no
+reportados fueron enviados desde la base de datos del centro de control “Cloudwater” a la plataforma de Monitoreo de Extracciones Efectivas de la DGA,
+tanto aquellos indicados en la Tabla N°6 como los datos del 3 de junio en adelante.
+Lo anterior puede ser verificado al descargar la información desde el acceso público a la Plataforma de Extracciones Efectivas de la DGA, así como también a
+través de la documentación que se adjunta al presente Informe (Anexo 3), donde es posible constatar una planilla de fecha 07‐09‐2022, denominada “Registro
+Caudales Mayo 2022”, la cual presenta los caudales del mes de mayo del 2022, de las captaciones denominadas “OB‐0104‐64, OB‐0104‐66 y OB‐0103‐175”
+y también la planilla denominada “Registro Caudales Junio Agosto 2022” de fecha 15‐09‐2022, la cual da cuenta de las extracciones realizadas en las
+captaciones denominadas “OB‐0104‐64, OB‐0104‐66 y OB‐0103‐175” en el período que va entre el 03‐06‐2022 y el 12‐08‐2022. Al respecto, en las Imágenes
+2 a 4 se presenta un resumen con los caudales que no fueron reportados a la DGA, diferenciado por lugar de extracción.
+En forma adicional, el Titular adjuntó el documento denominado “Registro volúmenes extraídos” en el cual se detallan las lecturas diarias del totalizador
+(m 3 ) realizadas en la Bomba 1 y Bomba 3, en cuatro horarios (3:00, 9:00, 15:00 y 21:00), de los meses mayo, junio, julio y agosto de 2022, así como también
+el volumen extraído en 24 horas (m 3 ) y una lectura diaria del totalizador en el Pozo PR correspondiente a los meses de mayo a agosto de 2022. Respecto a
+este último Pozo PR, es preciso señalar que en el mes de agosto 2022 hubo tres (3) periodos en los cuales el volumen extraído fue 0 m 3 , éstos son desde el
+04‐08‐2022 al 08‐08‐2022, 17‐08‐2022 al 19‐08‐2022 y el día 21‐08‐2022.
+Cabe precisar, que en el caso de eventos de condiciones atmosféricas extremas y/o interrupciones de la señal de internet, se producirán interrupciones en
+la transmisión de datos en línea, es decir, se generan periodos (horas) sin registro de datos de caudal. De acuerdo a lo anterior, es importante destacar que
+CMCC controla las extracciones efectivas desde cada uno de los pozos de extracción P‐1, P‐3 y P‐R mediante el registro manual desde los totalizadores
+dispuestos en cada uno de dichos pozos.
+16
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 17 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+ Entre las acciones correctivas llevadas a cabo para subsanar la falta de reportabilidad especificada , CMCC revisó el contenido de la base de datos alojada en
+la plataforma Cloudwater, identificando los registros de extracción de agua pertenecientes a los pozos P‐1, P‐3 y P‐R que estaban disponibles y no habían
+sido transmitidos a la plataforma de la DGA, realizando un envío excepcional de información desde esta base de datos, hasta la plataforma de Monitoreo de
+Extracciones Efectivas de la DGA.
+Cabe señalar que el sistema de medición y transmisión de datos de extracciones de agua de Lagunillas fue diseñado originalmente considerando los siguientes
+equipos: flujómetros (totalizadores), equipos de radio CM100bat, transmisión vía internet mediante equipos Gateway CM500 Lorawan, transmisión vía
+satelital, un Centro de Control en internet denominado plataforma Cloudwater y datalogger. Estos últimos, guardan en su memoria interna y de forma
+continua los datos registrados en los flujómetros, pudiendo almacenar datos registrados aun cuando haya una interrupción temporal en las señales de radio,
+internet o satelital y una vez restablecida la señal, realizan el envío de los registros almacenados en su memoria interna a la base de datos alojada en el
+Centro de Control.
+No obstante lo anterior, al momento de iniciar la transmisión de datos en abril de 2022, no fue posible instalar los dataloggers, por falta de stock a nivel
+nacional, por lo cual fueron importados desde fábrica, siendo estos recepcionados en el mes de julio, configurados durante el mes de agosto e instalados en
+el mes de septiembre 2022.
+ Para evitar la ocurrencia de nuevas situaciones de este tipo , es posible informar que con fecha 15 de septiembre de 2022, los dataloggers de los pozos P‐1 y
+P‐3 se encuentran operando y hasta fines de septiembre 2022 en “modo de prueba” (Fotografía 1). El datalogger del pozo P‐R fue instalado, no obstante, su
+configuración se encuentra en proceso y se espera que esta se complete durante el mes de septiembre. Así, los datos procedentes de los flujómetros serán
+registrados en los datalogger y, a continuación, serán enviados a través de una antena especial (Fotografía 2) al Gateway CM500 Lorawan; que es el equipo
+que transmite la información al Centro de Control (plataforma Cloudwater).
+Además, en forma complementaria al almacenamiento de la información en los dataloggers, CMCC elaboró un procedimiento de trabajo específico para los
+sistemas de telemetría encargados de transmitir la información de extracciones de agua. Este documento interno de CMCC define las acciones, responsables
+y plazos de respuesta en caso de que se presente alguna anomalía en los sistemas de telemetría.
+ Respecto al estado actual del sistema de monitoreo en línea , el Titular informó que se encuentran instalados los equipos que permiten la transmisión
+redundante, vía internet y satelital, de los datos registrados en los flujómetros de los pozos de extracción de agua P‐1, P‐3 y P‐R, siendo enviados en tiempo
+real y en línea a la plataforma Cloudwater, y luego al software de Monitoreo de Extracciones Efectivas de la DGA. Además, para resolver posibles problemas
+de perdida de información producto de interrupciones de la señal de transmisión en línea, con fecha 15 de septiembre de 2022 se instaló un datalogger en
+cada pozo, el cual almacena las mediciones de caudal instantáneo obtenidas en los respectivos flujómetros. Los dataloggers se encuentran en proceso de
+configuración, entrando en plena operación durante el mes de septiembre.
+Ord. N°97/2022, DGA:
+ Con relación a la “no realización de los seis (6) reportes de las extracciones de aguas subterráneas en los períodos indicados en la Tabla N°6” , se revisó la
+planilla denominada “Registro Caudales Junio Agosto 2022” de fecha 15‐09‐2022, la cual da cuenta de las extracciones realizadas en las captaciones
+17
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 18 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+denominadas “OB‐0104‐64, OB‐0104‐66 y OB‐0103‐175” en el período que va entre el 03‐06‐2022 y el 12‐08‐2022, pudiendo constatar que efectivamente
+existe ausencia de los datos de la extracción de aguas subterráneas en la cuenca de Lagunillas en los pozos P‐1, P‐3 y PR.
+IX. De acuerdo a lo constatado, se elaboró un nuevo requerimiento de información al Titular, cuyo objetivo fue esclarecer los hechos informados por la DGA y
+analizados en conjunto, por lo cual mediante la Resolución Exenta TPCA N°064 de fecha 30 de septiembre de 2022 (Anexo 6), se solicitó al Titular lo siguiente:
+1. Informar motivo/causa por el cual no se realizaron los seis (6) reportes de las extracciones de aguas subterráneas en los períodos indicados en la Tabla
+N°6 del Informe Técnico de Fiscalización N°12/2022 de la DGA. Deberán acompañarse medios de verificación que permitan acreditar los antecedentes
+que se informen.
+2. Informar si la falta de reportabilidad especificada en el punto 1 anterior, ha conllevado pérdida de registros de monitoreo de las extracciones de aguas
+subterráneas, o bien si dichos datos pudieron ser recuperados en forma posterior, en cuyo caso deberán ser reportados en respuesta al presente
+requerimiento. Deberán acompañarse medios de verificación que permitan acreditar los antecedentes que se informen.
+3. Informar: a) las medidas/acciones correctivas llevadas a cabo para subsanar la falta de reportabilidad especificada en el punto 1 anterior y para evitar la
+ocurrencia de nuevas situaciones de este tipo y b) el estado actual del sistema de monitoreo en línea en todos los puntos de extracción de aguas
+subterráneas en la cuenca de Lagunillas. Deberán acompañarse medios de verificación que permitan acreditar los antecedentes que se informen.
+X. Al respecto, el Titular respondió a través de la Carta N°221/2022 de fecha 14 de octubre de 2022 junto a sus anexos (Anexo 7), informando textualmente lo
+siguiente:
+1. Informar motivo/causa por el cual no se realizaron los seis (6) reportes de las extracciones de aguas subterráneas en los períodos indicados en la Tabla
+N°6 del Informe Técnico de Fiscalización N°12/2022 de la DGA. Deberán acompañarse medios de verificación que permitan acreditar los antecedentes
+que se informen.
+Respuesta:
+En lo relación a lo consultado, tal como señala el Informe Técnico de Fiscalización DGA N°12/2022 los caudales de extracción no reportados en la Plataforma
+de Monitoreo de Extracciones Efectivas de la DGA durante el mes de julio y agosto corresponden a los señalados en la Tabla 6.
+Tabla 6. Resumen períodos sin reportar información.
+18
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 19 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+El motivo o causa por el cual no fue posible cargar caudales instantáneos en la Plataforma de Monitoreo de Extracciones Efectivas de la DGA en estos 6
+periodos, corresponde a una interrupción en la transmisión de datos desde los equipos instalados en los pozos de extracción hacia la base de datos del sistema.
+Este tipo de interrupciones sistema de telemetría implementado en Lagunillas ocurren debido a condiciones atmosféricas específicas y/o inestabilidad propia
+de la señal de internet y/o satelital de la zona de alta cordillera en donde se encuentra habilitado en sistema de telemetría de CMCC.
+Esta ausencia de información (períodos señalados en la Tabla N°6 del Informe de Fiscalización DGA N°12/2022) fue subsanada por medio del registro manual
+de volúmenes extraídos desde los pozos de extracción P‐1, P‐3 y P‐R, tal como se explica en detalle en la Respuesta N°2 siguiente, y con las acciones adicionales
+que CMCC ha implementado a partir del mes de septiembre detalladas en la Respuesta N°3 incluida en el presente documento.
+2. Informar si la falta de reportabilidad especificada en el punto 1 anterior, ha conllevado pérdida de registros de monitoreo de las extracciones de aguas
+subterráneas, o bien si dichos datos pudieron ser recuperados en forma posterior, en cuyo caso deberán ser reportados en respuesta al presente
+requerimiento. Deberán acompañarse medios de verificación que permitan acreditar los antecedentes que se informen.
+Respuesta:
+Tal como se indicó en la respuesta anterior, en el caso de eventos de condiciones atmosféricas extremas y/o interrupciones de la señal de internet, se producen
+interrupciones en la transmisión de datos desde el sistema de telemetría de CMCC, producto de lo cual se generan periodos (horas) sin registro de datos de
+caudal, tal como lo ha indicado la DGA en su informe de fiscalización.
+En el caso de interrupciones en la transmisión, esta ausencia de información se ve subsanada mediante:
+‐ El registro manual que CMCC realiza desde los totalizadores dispuestos en cada uno de dichos pozos. Este control se realiza diariamente (cada seis
+horas del día en los pozos P‐1 y P‐3 y una vez al día en el pozo P‐R), lo que permite llevar el registro de las extracciones efectivas en volumen de
+manera diaria y mensual.
+En el Anexo 1 se presentan los registros respectivos de los meses de julio y agosto de 2022 de los pozos P‐1, P‐3 y PR.
+‐ Adicionalmente, y tal como se informó en Carta CMCC 195/2022, en el mes de septiembre de 2022, se instalaron dataloggers en cada uno de los tres
+pozos de extracción, lo que permitirá, en el caso de futuras interrupciones en la transmisión, contar con un respaldo de los datos instantáneos
+registrados en forma horaria en cada pozo (ver detalle en la Respuesta N°3 siguiente).
+‐ A mayor abundamiento, los registros mensuales de los volúmenes extraídos de cada pozo son reportados, en la Plataforma de Extracciones Efectivas
+de la DGA ( registro por formulario ingresado una vez al mes en la Plataforma de Monitoreo de Extracciones Efectivas ) y los registros de extracción
+tanto diarios, como mensuales de cada pozo, son a su vez reportados a la DGA, en la Minuta Declaración Mensual de Caudales bombeados desde
+Pozos en sector de Lagunillas, actividades de Desagüe del Rajo y registro de Niveles en Pozos de Observación. En el Anexo 2, se adjuntan los reportes
+emitidos a la DGA para relativo a los meses de julio y agosto 2022.
+De este modo, este respaldo manual en base a los totalizadores permite, ante vacíos de información de la transmisión instantánea de datos, contar con
+información diaria y mensual, verificando de esta forma el cumplimiento de los caudales de extracción de aguas subterráneas autorizados.
+19
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 20 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+3. Informar: a) las medidas/acciones correctivas llevadas a cabo para subsanar la falta de reportabilidad especificada en el punto 1 anterior y para evitar
+la ocurrencia de nuevas situaciones de este tipo y b) el estado actual del sistema de monitoreo en línea en todos los puntos de extracción de aguas
+subterráneas en la cuenca de Lagunillas. Deberán acompañarse medios de verificación que permitan acreditar los antecedentes que se informen.
+Respuesta :
+En relación a lo consultado en la letra a), para evitar nuevas situaciones de falta de reportabilidad, durante el mes de septiembre de 2022, se procedió con la
+instalación de dataloggers en cada uno de los pozos P‐1, P‐3 y P‐R (Foto 1). En particular, los dataloggers corresponden a equipos capaces de almacenar en
+su memoria interna y de forma continua los datos registrados en los flujómetros. Esta configuración es, precisamente, la que permite resolver problemas de
+interrupción temporal en las señales de radio, internet o satelital, pues los dataloggers almacenan los datos registrados, y una vez superada la interrupción
+en la señal, los dataloggers envían los registros almacenados en su memoria interna a la base de datos alojada en el Centro de Control.
+Los datos registrados en los dataloggers, procedentes de los flujómetros son enviados a través de una antena especial (Foto 2) al Gateway CM500 Lorawan;
+que es el equipo que transmite la información al Centro de Control (plataforma Cloudwater).
+En conclusión, en caso de nuevas interrupciones en las señales de radio, internet y satelital, que afecten a la reportabilidad, esta podrá ser subsanada en base
+a la información almacenada en los dataloggers.
+En forma complementaria, se ha elaborado un procedimiento de trabajo específico para los sistemas de telemetría encargados de transmitir la información
+de extracciones de agua. Este documento interno de CMCC define las acciones, responsables y plazos de respuesta en caso de que se presente alguna anomalía
+en los sistemas de telemetría (Anexo 3. PRG‐192 Gestión de Información de Telemetría). Dentro de los alcances de este procedimiento, cabe destacar que se
+formalizan mecanismos de coordinación interna, los sistemas de registro de información y la documentación de las soluciones aplicadas en caso de ocurrir
+algún incidente.
+Respecto a lo consultado en la letra b), “estado actual del sistema de monitoreo en línea” a continuación, se describen los equipos instalados actualmente en
+los pozos de extracción de Lagunillas, los que conforman los sistemas de medición y de transmisión de los datos:
+‐ En los pozos P‐1, P‐3 y P‐R existe un flujómetro que registra el caudal instantáneo (m3/hora) y el volumen total (m3) de agua extraída (Foto 3). Estos
+instrumentos cuentan con un Certificado de Calibración vigente.
+‐ La medición registrada en cada flujómetro es enviada mediante un cable a un sistema de denominado CM100bat (Foto 4), el que envía una señal de
+radio hasta un equipo Gateway CM500 Lorawan (Foto 5). Este dispone de un chip universal y transmite, a través de internet y en tiempo real, las
+mediciones del flujómetro hasta una base de datos soportada en una aplicación denominada Cloudwater.
+‐ En cada pozo se cuenta, además, con un sistema de transmisión de datos redundante por vía satelital (Foto 6), que envía una señal en paralelo a la
+emisión de radio de Gateway CM500 Lorawan. Esta transmisión vía satélite es recibida por la base de datos alojada en la plataforma Cloudwater.
+‐ Para prevenir la pérdida de datos de los flujómetros cuando se interrumpen las señales de radio, internet o satélite, es que se ha instalado un
+datalogger en cada pozo (Foto 1). Los dataloggers de los pozos P‐1 y P‐3 se encuentran configurados y en operación (estuvieron en modo de prueba
+20
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 21 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+hasta el 14.09.2022). En el caso del pozo P‐R, el datalogger fue instalado, no obstante, su configuración se encuentra en proceso y se espera que
+esta se complete durante el mes de octubre. Estos equipos tienen una autonomía de 3 días en caso de desconexión a la corriente eléctrica y una
+capacidad de almacenamiento de datos equivalente a 3 años de mediciones. De este modo, la información de los flujómetros será registrada en
+forma continua en los datalogger y se enviará a la plataforma de Cloudwater, automáticamente, una vez superado el incidente.
+‐ Cloudwater es una plataforma que reside en internet, en una nube, que tiene la capacidad de almacenar información en su base de datos. Esta
+aplicación es un Centro de Control que provee el servicio de envío de datos a la plataforma de la DGA, en línea y en tiempo real. Además, Cloudwater
+permite la descarga de archivos y muestra esta información en pantalla mediante gráficos o reportes (Foto 7).
+A modo de conclusión, cabe informar que:
+i) Se encuentran instalados los equipos que permiten la transmisión redundante, vía internet y satelital, de los datos registrados en los
+flujómetros de los pozos de extracción de agua P‐1, P‐3 y P‐R. Estos datos son enviados en tiempo real y en línea a la plataforma Cloudwater,
+que es el Centro de Control que envía esta información al software de Monitoreo de Extracciones Efectivas de la DGA.
+ii) Para resolver posibles problemas de perdida de información producto de interrupciones de la señal de transmisión en línea, en el mes de
+septiembre se ha instalado un datalogger en cada pozo, tal como constató en terreno el Ilustre Primer Tribunal Ambiental, por medio de
+inspección personal de 9 de septiembre de 2022 (Anexo 4). Estos equipos permiten el almacenamiento de las mediciones de caudal
+instantáneo obtenidas en los respectivos flujómetros. Los dataloggers de los pozos P‐1 y P‐3 se encuentran configurados y en operación
+(estuvieron en modo de prueba hasta el 14.09.2022). En el caso del pozo P‐R, la configuración de su datalogger se encuentra en proceso y
+se espera que esta se complete durante el mes de octubre.
+XI. Con fecha 29 de noviembre de 2022 a través del Ord. TPCA N°256/2022 (Anexo 8), la SMA envió a la DGA la información remitida por el Titular para el análisis
+dentro de sus competencias. De acuerdo a lo anterior, la DGA respondió a la SMA mediante el Ord. N°19 de fecha 02 de diciembre de 2022 (Anexo 9),
+indicando textualmente lo siguiente:
+“Junto con saludarla cordialmente y respecto a la información presentada por parte de vuestro Servicio en el marco de las actividades de Fiscalización
+Ambiental asociadas a la medida cautelar del Primer Tribunal Ambiental de fecha 14 de febrero de 2022, Causa Rol D‐10‐2021 (Luis Eliecer Jara Alarcón con
+Compañía Minera Cerro Colorado Limitada), este Servicio cumple con informar a Ud. lo siguiente:
+ Se adjunta a este Ordinario Informe Técnico DGA Tarapacá de Fiscalización N°14 de fecha 17 de octubre de 2022, que informa al Primer Tribunal Ambiental
+respecto a los reportes sobre extracciones que realizó por parte de Compañía Minera Cerro Colorado Ltda. al software de Monitoreo de Extracciones
+Efectivas de la DGA, periodo comprendido desde el 03 de junio hasta el 16 de Agosto del presente año.
+ En conjunto a lo anterior, además se adjunta el Informe Técnico DGA Tarapacá de Fiscalización N°18 de fecha 14 de noviembre de 2022, el cual informa
+al Primer Tribunal Ambiental sobre las fiscalizaciones ambientales realizadas en terreno sobre el sector de Salar de Lagunillas, para las fechas
+comprendidas 29 de septiembre y 26 de octubre del presente año.”
+21
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 22 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Mediante el Informe Técnico de Fiscalización N°14/2022 de fecha 17/10/2022, la DGA informó al Primer Tribunal Ambiental lo siguiente:
+“2. SOFTWARE MONITOREO DE EXTRACCIONES EFECTIVAS
+De acuerdo a lo requerido por el Primer Tribunal Ambiental, este Servicio revisó la información proporcionada por parte de la titular, a través del Software de
+monitoreo de extracciones efectivas (MEE), respecto a las siguientes captaciones:
+Pozo P‐1 Código Software de Extracciones Efectivas DGA OB‐0104‐64
+Pozo P‐3 Código Software de Extracciones Efectivas DGA OB‐0104‐66
+Pozo PR Código Software de Extracciones Efectivas DGA OB‐0103‐175
+En base a lo anterior, es posible señalar lo siguiente:
+2.1 Respecto a eventuales interrupciones de transmisión de datos, aducidas por la titular, a la plataforma de Monitoreo de Extracciones Efectivas DGA,
+actualmente dicha plataforma mantiene la información de las extracciones para las fechas solicitadas por su Ilustrísima. Sin embargo, no fue posible constatar
+en el software ingresos por la titular de alertas informando o dando cuenta sobre problemas y/u omisiones de información, que es lo que procedería realizar
+frente a una posible interrupción.
+2.2 Por otro lado, se constató que los datos ingresados por la titular para la captación PR (OB‐0103‐175) en las fechas de junio y julio (se adjunta Anexo N°1
+Tabla de extracciones) no se realizaron extracciones de aguas subterráneas horarias, a modo de ejemplo, día 1 de julio como promedio de extracción diaria,
+la titular realizó una extracción de 13.9 L/s desde el PR.
+2.3 En este mismo sentido, en el pozo PR (OB‐0103‐175) se verificó omisión de información. Así, la última información de extracción indicada para el mes de
+julio corresponde al día 31, para luego volver a informar recién desde el día 04 de agosto; omitiendo de esta forma información de la extracción de aguas de
+los días 1, 2 y 3 de agosto del presente año.
+2.4 En relación con el pozo PR, en los meses de julio y mayoritariamente agosto, en diferentes días, la titular no realizó extracciones horarias de aguas, a modo
+de ejemplo, el día 26 de agosto, desde las 07:00 de la mañana hasta las 12:00 horas del día 27 de agosto, el pozo PR no extrajo aguas desde el acuífero,
+entendiéndose que para este periodo no se cumple con el objetivo de abastecimiento hídrico del SRA del Bofedal de Lagunillas.
+2.5 Finalmente se adjuntan a este Informe Técnico, planillas con información de las extracciones de aguas subterráneas realizadas por la titular para vuestro
+análisis.”
+22
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 23 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Mediante el Informe Técnico de Fiscalización N°18/2022 de fecha 14/11/2022, la DGA informó al Primer Tribunal Ambiental lo siguiente:
+Respecto al sistema de monitoreo en línea y en tiempo real de la extracción de aguas subterráneas en la cuenca de Lagunillas. Este Servicio presenta la Tabla
+N°7 con el detalle:
+Tabla N°7: Resumen periodos sin reportar información.
+Finalmente, Compañía Minera Cerro Colorado Ltda., con fecha 14 de octubre de 2022, ingresó a este Servicio el documento denominado Carta N°199/2022,
+el cual incluye los caudales bombeados desde los pozos localizados en el sector de Lagunillas, niveles registrados en pozos de observación LA‐02, LA‐03, LA‐04
+y LA‐05 y actividades de desagüe del rajo, periodo de septiembre de 2022.
+Posteriormente con fecha, 11 de noviembre del presente año, ingresa a este Servicio un segundo documento denominado como Carta N°246/2022, el cual
+incluye los caudales bombeados desde los pozos localizados en el sector de Lagunillas, niveles registrados en pozos de observación LA‐02, LA‐03, LA‐04 y LA‐
+05 y actividades de desagüe del rajo, periodo de octubre de 2022.
+23
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 24 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Registros
+Imagen 1.
+Descripción del medio de prueba:
+Formulario de solicitud de cambio del usuario informante” o representante de CMCC en la plataforma de la DGA, firmado ante notario, y presentado ante la DGA.
+24
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 25 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Registros
+CÓDIGO OBRA FECHA HORA MEDICIÓN CAUDAL (L/S) PLATAFORMA CMCC COMENTARIO
+21‐05‐2022 19:00 42,96 ‐‐ ‐‐
+21‐05‐2022 20:00 43,31 ‐‐ ‐‐
+21‐05‐2022 21:00 42,61 ‐‐ ‐‐
+21‐05‐2022 22:00 42,78 ‐‐ ‐‐
+21‐05‐2022 23:00 42,78 ‐‐ ‐‐
+21‐05‐2022 00:00 42,78 ‐‐ ‐‐
+22‐05‐2022 01:00 42,78 ‐‐ ‐‐
+22‐05‐2022 02:00 42,96 ‐‐ ‐‐
+22‐05‐2022 03:00 42,96 ‐‐ ‐‐
+22‐05‐2022 04:00 42,78 ‐‐ ‐‐
+22‐05‐2022 05:00 42,61 ‐‐ ‐‐
+22‐05‐2022 06:00 42,61 ‐‐ ‐‐
+22‐05‐2022 07:00 42,96 ‐‐ ‐‐
+22‐05‐2022 08:00 42,78 ‐‐ ‐‐
+22‐05‐2022 09:00 42,96 ‐‐ ‐‐
+22‐05‐2022 10:00 42,96 ‐‐ ‐‐
+22‐05‐2022 11:00 42,96 ‐‐ ‐‐
+22‐05‐2022 12:00 42,96 ‐‐ ‐‐
+22‐05‐2022 13:00 42,96 ‐‐ ‐‐
+22‐05‐2022 14:00 42,78 ‐‐ ‐‐
+22‐05‐2022 15:00 43,13 ‐‐ ‐‐
+22‐05‐2022 16:00 42,78 ‐‐ ‐‐
+OB‐0104‐64 22‐05‐2022 17:00 43,13 ‐‐ ‐‐
+22‐05‐2022 18:00 42,96 ‐‐ ‐‐
+22‐05‐2022 19:00 43,13 ‐‐ ‐‐
+22‐05‐2022 20:00 ‐‐ 42,61 No reportado DGA
+22‐05‐2022 21:00 ‐‐ 42,96 No reportado DGA
+22‐05‐2022 22:00 ‐‐ 42,78 No reportado DGA
+22‐05‐2022 23:00 ‐‐ 42,78 No reportado DGA
+23‐05‐2022 00:00 ‐‐ 42,78 No reportado DGA
+23‐05‐2022 01:00 ‐‐ 42,96 No reportado DGA
+23‐05‐2022 02:00 ‐‐ 42,78 No reportado DGA
+23‐05‐2022 03:00 ‐‐ 42,61 No reportado DGA
+23‐05‐2022 04:00 ‐‐ Sin información Sin señal P1 y PR
+23‐05‐2022 05:00 ‐‐ 42,96 No reportado DGA
+23‐05‐2022 06:00 ‐‐ 42,78 No reportado DGA
+23‐05‐2022 07:00 ‐‐ 42,78 No reportado DGA
+23‐05‐2022 08:00 42,78 ‐‐ ‐‐
+23‐05‐2022 09:00 ‐‐ 42,78 No reportado DGA
+23‐05‐2022 10:00 43,13 ‐‐ ‐‐
+23‐05‐2022 11:00 42,96 ‐‐ ‐‐
+23‐05‐2022 12:00 42,78 ‐‐ ‐‐
+23‐05‐2022 13:00 42,78 ‐‐ ‐‐
+25
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 26 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+23‐05‐2022 14:00 42,96 ‐‐ ‐‐
+23‐05‐2022 15:00 42,96 ‐‐ ‐‐
+23‐05‐2022 16:00 42,96 ‐‐ ‐‐
+23‐05‐2022 17:00 42,96 ‐‐ ‐‐
+23‐05‐2022 18:00 42,96 ‐‐ ‐‐
+23‐05‐2022 19:00 ‐‐ 42,96 No reportado DGA
+23‐05‐2022 20:00 42,78 ‐‐ ‐‐
+23‐05‐2022 21:00 42,78 ‐‐ ‐‐
+23‐05‐2022 22:00 42,78 ‐‐ ‐‐
+23‐05‐2022 23:00 42,61 ‐‐ ‐‐
+23‐05‐2022 00:00 42,78 ‐‐ ‐‐
+24‐05‐2022 01:00 42,61 ‐‐ ‐‐
+24‐05‐2022 02:00 42,78 ‐‐ ‐‐
+24‐05‐2022 03:00 42,61 ‐‐ ‐‐
+24‐05‐2022 04:00 42,61 ‐‐ ‐‐
+24‐05‐2022 05:00 42,78 ‐‐ ‐‐
+24‐05‐2022 06:00 42,78 ‐‐ ‐‐
+24‐05‐2022 07:00 42,78 ‐‐ ‐‐
+24‐05‐2022 08:00 42,78 ‐‐ ‐‐
+24‐05‐2022 09:00 42,78 ‐‐ ‐‐
+24‐05‐2022 10:00 42,96 ‐‐ ‐‐
+24‐05‐2022 11:00 ‐‐ 42,78 No reportado DGA
+24‐05‐2022 12:00 42,96 ‐‐ ‐‐
+24‐05‐2022 13:00 42,78 ‐‐ ‐‐
+24‐05‐2022 14:00 42,96 ‐‐ ‐‐
+24‐05‐2022 15:00 42,96 ‐‐ ‐‐
+24‐05‐2022 16:00 42,96 ‐‐ ‐‐
+24‐05‐2022 17:00 42,78 ‐‐ ‐‐
+24‐05‐2022 18:00 42,78 ‐‐ ‐‐
+24‐05‐2022 19:00 ‐‐ Sin información Sin información
+24‐05‐2022 20:00 42,96 ‐‐ ‐‐
+Fuente: Elaboración propia en base a información proporcionada por CMCC.
+Imagen 2.
+Descripción del medio de prueba:
+Captación OB‐0104‐64: Caudales cargados desde la base de datos a la plataforma de Monitoreo de Extracciones Efectivas de la DGA, para los periodos que no reportaban información.
+26
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 27 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Registros
+CÓDIGO OBRA FECHA HORA MEDICIÓN CAUDAL (L/S) PLATAFORMA CMCC COMENTARIO
+22‐05‐2022 19:00 5,42 ‐‐ ‐‐
+22‐05‐2022 20:00 ‐‐ 5,42 No reportado DGA
+22‐05‐2022 21:00 ‐‐ 5,59 No reportado DGA
+22‐05‐2022 22:00 ‐‐ 5,59 No reportado DGA
+22‐05‐2022 23:00 ‐‐ 5,59 No reportado DGA
+23‐05‐2022 00:00 ‐‐ 5,59 No reportado DGA
+23‐05‐2022 01:00 ‐‐ 5,59 No reportado DGA
+OB‐0104‐66
+23‐05‐2022 02:00 ‐‐ 5,42 No reportado DGA
+23‐05‐2022 03:00 ‐‐ 5,42 No reportado DGA
+23‐05‐2022 04:00 ‐‐ 5,42 No reportado DGA
+23‐05‐2022 05:00 ‐‐ 5,59 No reportado DGA
+23‐05‐2022 06:00 ‐‐ 5,59 No reportado DGA
+23‐05‐2022 07:00 ‐‐ 5,59 No reportado DGA
+23‐05‐2022 08:00 ‐‐ 5,59 No reportado DGA
+23‐05‐2022 09:00 5,59 ‐‐ ‐‐
+Fuente: Elaboración propia en base a información proporcionada por CMCC.
+Imagen 3.
+Descripción del medio de prueba:
+Captación OB‐0104‐66: Caudales cargados desde la base de datos a la plataforma de Monitoreo de Extracciones Efectivas de la DGA, para los periodos que no reportaban información.
+27
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 28 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Registros
+CÓDIGO OBRA FECHA HORA MEDICIÓN CAUDAL (L/S) PLATAFORMA CMCC COMENTARIO
+22‐05‐2022 19:00 19,7 ‐‐ ‐‐
+22‐05‐2022 20:00 ‐‐ 19,7 No reportado DGA
+22‐05‐2022 21:00 ‐‐ 19,7 No reportado DGA
+22‐05‐2022 22:00 ‐‐ 19,64 No reportado DGA
+22‐05‐2022 23:00 ‐‐ 19,7 No reportado DGA
+23‐05‐2022 00:00 ‐‐ 19,7 No reportado DGA
+OB‐0103‐175 23‐05‐2022 01:00 ‐‐ 19,64 No reportado DGA
+23‐05‐2022 02:00 ‐‐ 19,64 No reportado DGA
+23‐05‐2022 03:00 ‐‐ 19,7 No reportado DGA
+23‐05‐2022 04:00 ‐‐ Sin información Sin señal P1 y PR
+23‐05‐2022 05:00 ‐‐ 19,7 No reportado DGA
+23‐05‐2022 06:00 ‐‐ 19,7 No reportado DGA
+23‐05‐2022 07:00 ‐‐ 19,7 No reportado DGA
+23‐05‐2022 08:00 ‐‐ 19,64 No reportado DGA
+23‐05‐2022 09:00 19,6 ‐‐ ‐‐
+Fuente: Elaboración propia en base a información proporcionada por CMCC.
+Imagen 4.
+Descripción del medio de prueba:
+Captación OB‐0103‐175: Caudales cargados desde la base de datos a la plataforma de Monitoreo de Extracciones Efectivas de la DGA, para los periodos que no reportaban información.
+28
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 29 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Registros
+Fotografía 1. Fotografía 2.
+Descripción del medio de prueba: Descripción del medio de prueba:
+Datalogger instalado junto al pozo P‐3. Equipos idénticos a este ya se encuentran instalados Antena instalada en el pozo P‐R. Envía la señal almacenada en el datalogger hasta el equipo
+en los pozos P‐1 y P‐R. Gateway CM500 Lorawan.
+Fotografía 3. Fotografía 4.
+Descripción del medio de prueba: Descripción del medio de prueba:
+Flujómetro instalado en pozo P1. Equipo de transmisión vía radio modelo CM100bat, instalado en el pozo P‐R. Envía la señal
+registrada en el flujómetro hasta el equipo Gateway CM500 Lorawan. Equipos idénticos a
+este se encuentran instalados en pozos P‐1 y P‐3.
+29
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 30 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Registros
+Fotografía 5. Fotografía 6.
+Descripción del medio de prueba: Descripción del medio de prueba:
+Equipos de transmisión de datos instalados en el pozo P1. A la izquierda, modelo Gateway Detalle del equipo de transmisión de datos por vía satelital.
+C500 Lorawan que recibe la señal enviada por los CM100bat y la transmite vía internet a
+Cloudwater. A la derecha, equipo de transmisión de datos vía satélite.
+Fotografía 7.
+Descripción del medio de prueba:
+Ejemplo de gráfica desplegada por la plataforma Cloudwater. En este caso, muestra
+registros obtenidos en línea y en tiempo real el 09 de septiembre desde el pozo P‐3.
+30
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 31 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+5.2 Incumplimiento de medida cautelar decretada por el Primer Tribunal Ambiental, relacionada con la superación por parte de
+Compañía Minera Cerro Colorado de caudales de extracción de aguas subterráneas desde pozos de producción P1, P2, P3, P4 y P‐R,
+según consta a partir de pozos de control LA‐02,LA‐03, LA‐04 y LA‐05.
+Número de hecho constatado: 2
+Antecedentes:
+ Con fecha 14 de febrero de 2022, el Primer Tribunal Ambiental dictó una nueva medida cautelar que comprende un régimen escalonado de restricción en la
+extracción de agua desde el acuífero Lagunillas, la que se establece en cuatro períodos desde la fecha de la resolución hasta la perpetuidad. A continuación se
+detallan los períodos del régimen cautelar:
+Periodo 1.
+Restricción de caudal 54 l/s para operación, más 25 l/s para el Sistema de Riego Artificial (SRA).
+Duración: 90 días corridos desde la fecha de esta Resolución.
+Condición operativa: en caso de registrarse en el periodo en cuestión un descenso entre el umbral intermedio y el umbral limite identificados en la Tabla N°1, en
+alguno de los pozos de control LA‐02, LA‐03, LA‐04 o LA‐05, se debe retroceder a un caudal de operación de 0 l/s.
+Periodo 2.
+Restricción de caudal de 69 l/s para operación, más 25 l/s para SRA.
+Duración: inmediatamente a continuación del periodo anterior, desde el día 91 hasta el día 180.
+Condición operativa 1: en caso de registrarse en el periodo en cuestión un descenso entre el umbral intermedio y el umbral límite identificados en la Tabla N°1, en
+alguno de los pozos de control LA‐02, LA‐03, La‐04 o LA‐05, se debe retroceder a un caudal de operación de 54 l/s.
+Condición operativa 2: en caso de registrarse en el periodo en cuestión un descenso mayor que el umbral límite identificados en la Tabla N°1, en alguno de los
+pozos de control LA‐02, LA‐03, LA‐04 o LA‐05, se debe retroceder a un caudal de operación 0 l/s.
+Posteriormente, para el tercer período, desde el día 181 hasta el 31 de diciembre de 2023, se permite la extracción establecida en la RCA N°13, que aprobó las
+medidas de mitigación para la recuperación del acuífero Lagunillas del proyecto Cerro Colorado, y también se determinan restricciones en caso de descenso, hasta
+llegar a cero litro por segundo en caso de un descenso mayor al umbral.
+Por último, para el cuarto período, desde el 31 de diciembre de 2023 a perpetuidad, se prohíbe la extracción de agua para operación y solo se permite la extracción
+de 25 litros por segundo para el SRA. Además, se debe consolidar el traspaso del 100 por ciento de los derechos de aprovechamiento de agua de propiedad de la
+demandada en el sector Lagunillas a la Dirección General de Aguas (DGA).
+ RCA N°2022010013 de fecha 06‐01‐2022, Comisión de Evaluación Región de Tarapacá, que califica ambientalmente el proyecto “Continuidad Operacional
+Cerro Colorado”, Considerando 16.2.2. Medidas para impactos significativos fase de operación. Recurso hídrico subterráneo. Medida OHI‐1. HI‐1 cambio de
+punto de extracción del agua utilizada para el sistema de recarga artificial (SRA) del Bofedal Lagunillas, a partir del año 2022 desde el Pozo P‐3 a un nuevo
+Pozo P‐R.
+La medida considera desplazar la extracción destinada al riego de Lagunillas desde el Pozo P‐3 al pozo denominado PR, alejándolo del acuífero de Lagunillas, de
+manera de facilitar la disminución del plazo de la recuperación de sus niveles en el área del Bofedal.
+31
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 32 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Hechos:
+I. Mediante el ORD. N°85 de fecha 24 de agosto de 2022 junto al Informe Técnico de Fiscalización N°09/2022 de fecha 27 de julio de 2022 (Anexo 1) la Dirección
+General de Aguas de la Región de Tarapacá, a través del punto N°7. ‘OTRAS CONSIDERACIONES’ señaló lo siguiente respecto a los caudales de extracción de
+aguas subterráneas en los pozos P‐1 (OB‐01‐04), P‐3 (OB‐0104‐66) Y P‐R (OB‐0104‐175):
+“Por otro lado, además se verifica que existen algunos periodos en que la sumatoria caudales horarios de extracción de aguas subterráneas de acuerdo a los
+pozos P‐1 (OB‐01‐04); P‐3 (OB‐0104‐66) y P‐R (OB‐0104‐175), superan el caudal de 69 l/s, según se indica en la Tabla N°6.
+Tabla N°6. Rango de fecha en que se supera el caudal de extracción de 69 l/s + 25 (SRA) (Periodo régimen cautelar 2).
+32
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 33 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+II. Con fecha 01 de septiembre de 2022, esta Superintendencia recepcionó el Oficio N°135/2022 de fecha 31 de agosto de 2022 del Primer Tribunal Ambiental
+(Anexo 4), mediante el cual solicitó informar acerca de la implementación de las medidas o acciones de fiscalización y/o sanción, en relación a los hallazgos
+reportados por la Dirección General de Aguas (DGA), a saber:
+1. Incumplimiento de medida cautelar decretada por el Primer Tribunal Ambiental, relacionada con la superación por parte de Compañía Minera Cerro
+Colorado de caudales de extracción de aguas subterráneas desde pozos de producción P1, P2, P3, P4 y P‐R, según consta a partir de pozos de control LA‐
+02,LA‐03, LA‐04 y LA‐05.
+III. Mediante el Ord. N°97 de fecha 22 de septiembre de 2022 (Anexo 5), la DGA remitió a la SMA el Informe Técnico de Fiscalización N°12 de fecha 14 de
+septiembre de 2022, elaborado en consideración a la actividad de inspección realizada en terreno durante el día 19 de agosto de 2022, en el cual se indicó
+lo siguiente:
+i. 6. FISCALIZACIÓN DE POZOS DE PRODUCCIÓN.
+Pozo P3 (LA‐3)
+El primer pozo en ser fiscalizado fue el denominado como pozo P3 (LA‐3), el cual al momento de las inspecciones se encontraba en uso. A continuación,
+se describe lo observado en ambas constataciones en terreno:
+Inspección de fecha 19 de agosto del año 2022
+a) Según lo registrado por el totalizador de la obra, se verificó un caudal instantáneo de extracción de 72 m 3 /h, lo que corresponde a un caudal
+instantáneo aproximado de 20 l/s. Es dable mencionar además, y tal como se pudo corroborar en terreno, el pozo P3 (LA‐3) distribuía 20,04 l/s al
+Sistema de Riego Artificial (SRA) para el bofedal de Lagunillas.
+Pozo PR
+Finalmente el último pozo de extracción de aguas en ser fiscalizado fue el denominado como pozo PR, el cual, al momento de la inspección no se
+encontraba en uso, no se pudo constatar el totalizador ya que se encontraba apagado, si fue posible verificar el nivel estático del pozo PR, el cual se
+encuentra a los 30, 76 metros.
+Por otro lado, y de acuerdo a lo comentado por el Sr. Rubén Aravire Vázquez, el problema del pozo obedece a un inconveniente de la bomba,
+encontrándose el pozo detenido desde el lunes, es decir 5 días aproximado hasta la fecha de la inspección. Finalmente tal como fue mencionado por
+el Sr. Rubén Aravire Vázquez el caudal utilizado para el SRA proviene del pozo P‐3.
+Es dable indicar que el compromiso del pozo PR, corresponde a un cumplimiento de la medida de mitigación OHI‐1, cuyo fin, es la de desplazar la
+extracción destinada al riego de Lagunillas desde el pozo P‐3 al pozo denominado PR, alejándola del acuífero de Lagunillas de manera de facilitar la
+disminución del plazo de la recuperación de sus niveles en el área del bofedal.
+Revisados los antecedentes que se ingresaron en esas fechas a la oficina de partes de este Servicio, es posible mencionar que por parte del titular no
+existe aviso o notificación sobre el desperfecto del pozo PR.
+33
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 34 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+IV. Del examen de la información remitida por la DGA mediante el Ord. N°85/2022, se constata la superación del caudal total de extracción de aguas subterráneas
+estipulado en 69 l/s en los pozos P‐1, P‐3 y P‐R, específicamente en 13 horarios del día 18‐05‐2022 con valores superados que van entre 70,72 l/s – 72,97 l/s
+y 15 horarios del día 19‐05‐2022 con valores que van entre 72,17 l/s – 72,72 l/s.
+Tabla N°1. Detalle de la superación de los 69 l/s por extracción de aguas subterráneas en los pozos P‐1, P‐3 y P‐R entre el 18‐05‐2022 y el 19‐05‐2022.
+N° FECHA HORA Q total RESTRICCIÓN SUPERACIÓN
+(L/s) Q total ‐ 25 (l/s) (l/s)
+1 18‐05‐2022 09:00 93,73 72,73 3,73
+2 18‐05‐2022 11:00 95,99 70,99 1,99
+3 18‐05‐2022 12:00 95,91 70,91 1,91
+4 18‐05‐2022 13:00 95,85 70,85 1,85
+5 18‐05‐2022 14:00 95,72 70,72 1,72
+6 18‐05‐2022 15:00 97,78 72,78 3,78
+7 18‐05‐2022 16:00 97,78 72,78 3,78
+8 18‐05‐2022 17:00 97,6 72,6 3,6
+9 18‐05‐2022 18:00 97,72 72,72 3,72
+10 18‐05‐2022 19:00 97,54 72,54 3,54
+11 18‐05‐2022 20:00 97,97 72,97 3,97
+12 18‐05‐2022 21:00 97,78 72,78 3,78
+13 18‐05‐2022 22:00 97,78 72,78 3,78
+14 19‐05‐2022 00:00 97,5 72,5 3,5
+15 19‐05‐2022 01:00 97,72 72,72 3,72
+16 19‐05‐2022 02:00 97,54 72,54 3,54
+17 19‐05‐2022 04:00 97,41 72,41 3,41
+18 19‐05‐2022 05:00 97,35 72,35 3,35
+19 19‐05‐2022 06:00 97,46 72,46 3,46
+20 19‐05‐2022 07:00 97,53 72,53 3,53
+21 19‐05‐2022 09:00 97,5 72,5 3,5
+22 19‐05‐2022 10:00 97,5 72,5 3,5
+23 19‐05‐2022 11:00 97,54 72,54 3,54
+24 19‐05‐2022 12:00 97,17 72,17 3,17
+25 19‐05‐2022 13:00 97,59 72,59 3,59
+26 19‐05‐2022 14:00 97,72 72,72 3,72
+27 19‐05‐2022 15:00 97,54 72,54 3,54
+28 19‐05‐2022 16:00 97,72 72,72 3,72
+Fuente: Elaboración propia en base a la información proporcionada por DGA.
+34
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 35 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+V. Con relación a lo indicado por la DGA a través del Ord. N°97/2022, es posible señalar que el Titular no reportó a la DGA así como tampoco a la SMA, el
+inconveniente ocurrido en la bomba del Pozo PR aproximadamente el día 15 de agosto de 2022, ya que al momento de la inspección (19‐08‐2022) la DGA
+constató que dicho pozo no se encontraba en uso. Cabe señalar, que de la revisión del documento denominado “Registro volúmenes extraídos” en el cual
+se detalla el volumen extraído en 24 horas (m 3 ) y una lectura diaria del totalizador en el Pozo PR correspondiente a los meses de mayo a agosto de 2022, se
+constató que efectivamente desde el día 17‐08‐2022 al 19‐08‐2022 el volumen extraído en 24 hrs (m 3 ) fue 0 m 3 .
+No obstante lo anterior, al momento de la inspección de la DGA, el Pozo P‐3 se encontraba en funcionamiento, aun cuando la Medida de Mitigación OHI‐1
+del proyecto “Continuidad Operacional Cerro Colorado”, considera desplazar la extracción destinada al riego de Lagunillas desde el Pozo P‐3 al Pozo PR, con
+el objetivo de disminuir el plazo de recuperación de los niveles de agua en el Bofedal.
+VI. De acuerdo a lo constatado, se elaboró un nuevo requerimiento de información al Titular, cuyo objetivo fue esclarecer los hechos informados por la DGA y
+analizados en conjunto, por lo cual mediante la Resolución Exenta TPCA N°064 de fecha 30 de septiembre de 2022 (Anexo 6), se solicitó al Titular lo siguiente:
+4. Informar: a) motivo/causa por el cual al momento de la inspección de la DGA del día 19 de agosto de 2022, el Pozo PR no se encontraba en uso. b)
+motivo/causa por el cual no se reportó el incidente ocurrido en el Pozo PR tanto a la DGA como a la SMA. c) si han ocurrido otros periodos sin
+funcionamiento del Pozo PR, detallar motivo/causa. Deberán acompañarse medios de verificación que permitan acreditar los antecedentes que se
+informen.
+XII. Al respecto, el Titular respondió a través de la Carta N°221/2022 de fecha 14 de octubre de 2022 junto a sus anexos (Anexo 7), textualmente lo siguiente:
+4. Informar: a) motivo/causa por el cual al momento de la inspección de la DGA del día 19 de agosto de 2022, el Pozo PR no se encontraba en uso. b)
+motivo/causa por el cual no se reportó el incidente ocurrido en el Pozo PR tanto a la DGA como a la SMA. c) si han ocurrido otros periodos sin
+funcionamiento del Pozo PR, detallar motivo/causa. Deberán acompañarse medios de verificación que permitan acreditar los antecedentes que se
+informen.
+Respuesta:
+Respecto a lo consultado en la letra a), es posible indicar que el pozo PR se encontraba detenido desde el día 15.08.2022 por falla en el generador que provee
+energía al pozo, retomando su operación normal el 21.08.2022. El equipo generador que provee la energía requerida para el funcionamiento del sistema de
+extracción, comenzó a funcionar de manera inestable, lo cual generaba inestabilidad y fluctuaciones en el bombeo (registros en el sensor de flujo). Producto
+de lo anterior fue necesario detener la bomba del pozo PR y su respectivo suministro eléctrico, hasta reparar el generador y así evitar daños en los equipos de
+bombeo.
+El medio de verificación de esta detención corresponde el registro de caudales diarios de extracción desde los pozos de Lagunillas, el cual se incluye en el
+Anexo 2 Tabla 2‐1, de la Minuta Declaración Mensual de Caudales bombeados desde Pozos en sector de Lagunillas, actividades de Desagüe del Rajo y registro
+de Niveles en Pozos de Observación, enviada a la DGA con fecha 28.09.2022, la cual se adjunta como parte del Anexo 2 de la presente respuesta a este
+requerimiento de información.
+Así mismo, en el Anexo 5 del presente documento, se adjunta como medio de verificación adicional, el formulario de registro de las detenciones de los pozos
+de extracción de Lagunillas para el mes de agosto 2022.
+35
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 36 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+Sin perjuicio de la detención del Pozo PR, es importante mencionar que el suministro de agua del Sistema de Recarga Artificial del bofedal Lagunillas, se
+mantuvo con un valor medio diario de aproximadamente 25 l/s (alimentado por el pozo P‐3), tal como se puede verificar en el Anexo 2 Tabla 2‐1, de la Minuta
+Declaración Mensual de Caudales bombeados desde Pozos en sector de Lagunillas, actividades de Desagüe del Rajo y registro de Niveles en Pozos de
+Observación, enviada a la DGA con fecha 28.09.2022, la cual se adjunta como parte del Anexo 2 de la presente respuesta a este requerimiento de información.
+Respecto a lo consultado en la letra b), de acuerdo con lo establecido en la Resolución Exenta 89 del 2011 de la Comisión de Evaluación de la Región de
+Tarapacá, CMCC presenta a la SMA y DGA su plan general de mantenciones rutinarias de manera anual (en Anexo 6 se presenta el último Plan de
+Mantenciones enviado a la SMA). Adicionalmente, existe el compromiso de informar cuando existan reparaciones mayores imprevistas, de los equipos que
+componen el sistema de extracción de Lagunillas. En el caso de la detención identificada en el pozo PR durante la inspección realizada por la DGA el pasado
+19.08.2022, no se consideró una reparación mayor y, por lo tanto, no fue informada.
+Respecto a lo consultado en la letra c), en el caso del mes de agosto, es posible indicar que el pozo PR ha tenido las siguientes detenciones:
+‐ Entre el 02.08.2022 y 08.08.2022, el pozo PR se detuvo debido a una reparación requerida en la tubería de alimentación del SRA desde el pozo PR.
+‐ El día 13.08 se detiene el bombeo desde el pozo PR entre las 9:00 y 16:40 horas, para realizar trabajos de mantenimiento en las líneas de distribución
+del SRA.
+‐ Entre el 15.08 y 21.08 se detiene el bombeo por falla en sensor de flujo, ya que el equipo generador trabaja en forma inestable, por lo que se decide
+detener pozo, para reparación, y evitar daños mayores en el equipo.
+‐ Entre el 25.08 y 27.08 nuevamente se detiene pozo PR por adecuación de los sectores de riego del SRA.
+En el Anexo 5 se adjuntan los formularios que registran dichas detenciones.
+Al igual que la detención ocurrida entre el 15.08.2022 y 21.08.2022 el suministro de agua del Sistema de Recarga Artificial (SRA) del bofedal Lagunillas, se
+mantuvo con un valor medio diario de aproximadamente 25 l/s (alimentado por el pozo P‐3), tal como se puede verificar la Tabla 2‐1 (Anexo 2) de la Minuta
+Declaración Mensual de Caudales bombeados desde Pozos en sector de Lagunillas, actividades de Desagüe del Rajo y registro de Niveles en Pozos de
+Observación, enviada a la DGA con fecha 28.09.2022, la cual se adjunta como parte del Anexo 2 de la presente respuesta a este requerimiento de información.
+36
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 37 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+5.3 Utilización de los 25 l/s para la operación del Sistema de Recarga Artificial (SRA) y el riego del bofedal Lagunillas.
+Número de hecho constatado: 3
+Antecedentes:
+Resolución Exenta N°2022010013/2022 “Continuidad Operacional Cerro Colorado” de fecha 06 de enero de 2022. Considerando 12.2.2 Sector Lagunillas.
+“Como se indicó precedentemente, en el Sector Lagunillas se encuentran localizados los pozos de extracción de agua subterránea desde donde CMCC obtiene los
+recursos hídricos necesarios para el beneficio de los minerales en el Sector Mina y para la operación del sistema de recarga artificial del mismo bofedal de Lagunillas.
+(…)
+Conforme a la RCA N°69/2015, CMCC contemplaba extraer 135 l/s, como promedio anual, desde el campo de pozos Lagunillas, de los cuales 110 l/s son destinados a
+la operación de la faena minera y 25 l/s al Sistema de Riego Artificial (SRA) del bofedal para su mantención. Este caudal de riego sería posteriormente reducido,
+conforme a la calendarización del Plan de Trabajo del Bofedal Lagunillas aprobado por la Res. Exenta N° 67/2011, y actualizado por la RCA N°69/2015.”
+Hechos:
+I. La Dirección General de Aguas de la Región de Tarapacá mediante el Informe Técnico de Fiscalización N°05/2021 de fecha 18 de octubre de 2021 (Anexo 10),
+a través del punto N°4 Descripción de la Inspección, indicó textualmente lo siguiente respecto a la operación del Sistema de Recarga Artificial (SRA) el cual
+opera en el bofedal Lagunillas:
+“Respecto del segundo pozo fiscalizado en terreno, se procedió a inspeccionar las partes y obras asociadas al pozo P3 (LA‐3), el cual al momento de la
+inspección se encontraba en uso. En dicho pozo, y según lo registrado por el totalizador de la obra, se verificó un caudal instantáneo de extracción de 91,3
+m 3 /h, Jo que corresponde a un caudal aproximado de 25,36 l/s.
+Es dable mencionar además, que el pozo P3 (LA‐3) corresponde al pozo encargado abastecer de agua al Sistema de Riego Artificial (SRA) para el bofedal de
+Lagunillas.”
+Fotografía 8. Totalizador funcionando pozo P3 (LA‐3).
+Fuente: Informe Técnico de Fiscalización N°05/2021, DGA.
+II. A su vez, mediante el punto 5. Fiscalización de Pozos de Producción del Informe Técnico de Fiscalización N°09/2022 de fecha 27‐07‐2022 (Anexo 1), se
+constató que el pozo P3 (LA‐3) se encontraba en uso tanto en la actividad realizada el día 14‐06‐2022, donde se registró un valor de caudal instantáneo de
+37
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 38 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+extracción de 5,5 l/s y la distribución de 5,31 l/s al Sistema de Riego Artificial (SRA) para el bofedal Lagunillas y en el pozo PR se registró un caudal instantáneo
+de extracción de 20,01 l/s . Así como también en la fiscalización realizada el día 19‐07‐2022, donde se registró un valor de caudal instantáneo de extracción
+de 5,83 l/s y la distribución de 5,48 l/s al Sistema de Riego Artificial (SRA) para el bofedal Lagunillas y en el pozo PR se registró un caudal instantáneo de
+extracción de 20,03 l/s.
+En forma adicional, durante la actividad realizada el día 19‐08‐2022, se registró en el pozo P3 un caudal instantáneo de extracción de 20 l/s, y la distribución
+de 20,04 l/s al Sistema de Riego Artificial (SRA) para el bofedal de Lagunillas. En dicha ocasión se constató que el pozo PR no se encontraba en funcionamiento,
+debido a un inconveniente en la bomba.
+Fotografía 9. Caudal utilizado para Sistema de Riego Artificial (SRA) desde pozo P3 (LA‐3), registrado el día 19‐08‐2022.
+Fuente: Informe Técnico de Fiscalización N°12/2022, DGA.
+III. Mediante el Informe Técnico de Fiscalización N°18 de fecha 14 de noviembre de 2022, la DGA a través del punto 5. Fiscalización de Pozos de Producción,
+informó la realización de dos actividades de inspección al Pozo P3, las cuales se detallan a continuación: el día 29‐09‐2022 se constató un caudal instantáneo
+aproximado de 5,92 l/s y la distribución de 5,39 l/s al Sistema de Riego Artificial (SRA) para el bofedal Lagunillas y en el pozo PR se registró un caudal
+instantáneo de extracción de 19,44 l/s; el día 26‐10‐2022 se constató un caudal instantáneo aproximado de 5,83 l/s y la distribución de 5,70 l/s al Sistema de
+Riego Artificial (SRA) para el bofedal Lagunillas y en el pozo PR se registró un caudal instantáneo de extracción de 19,58 l/s
+IV. En relación con el pozo P3 (LA‐3) y el pozo PR, encargados de abastecer de agua al Sistema de Riego Artificial (SRA), es posible señalar que durante las
+actividades de fiscalización realizadas por la DGA, se constató que se encontraban en funcionamiento y además se obtuvo un registro del totalizador en cada
+ocasión, verificando el caudal instantáneo de extracción y el caudal que correspondía a la distribución hacia el Sistema de Riego Artificial (SRA) del bofedal
+Lagunillas, donde al sumar ambos caudales se obtiene el valor de 25 l/s. Sólo en una de las fiscalizaciones realizadas se constató que el pozo PR no se
+encontraba en funcionamiento, por lo cual en dicha ocasión el volumen destinado al riego del bofedal se extrajo en su totalidad desde el pozo P3.
+38
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 39 ---
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
+6 CONCLUSIONES.
+Los resultados de las actividades de fiscalización, asociados los Instrumentos de Carácter Ambiental indicados en el punto 3, permitieron identificar ciertos hallazgos que
+se describen a continuación.
+Materia específica objeto
+N° Hecho
+de la fiscalización Exigencia asociada Hallazgo
+constatado
+ambiental
+Con fecha 14 de febrero de 2022, el Primer Tribunal Ambiental dictó una
+nueva medida cautelar que comprende un régimen escalonado de
+restricción en la extracción de agua desde el acuífero Lagunillas, la que
+Incumplimiento de medida
+se establece en cuatro períodos desde la fecha de la resolución hasta la
+cautelar decretada por el
+perpetuidad. A continuación se detallan los períodos del régimen
+Primer Tribunal Ambiental,
+cautelar: Se constató la superación del caudal total de
+relacionada con la
+Periodo 2. extracción de aguas subterráneas estipulado
+superación por parte de
+‐ Restricción de caudal de 69 l/s para operación, más 25 l/s para SRA. en 69 l/s en los pozos P‐1, P‐3 y P‐R,
+Compañía Minera Cerro
+‐ Duración: inmediatamente a continuación del periodo anterior, específicamente en 13 horarios del día 18‐05‐
+2 Colorado de caudales de
+desde el día 91 hasta el día 180. 2022 con valores superados que van entre
+extracción de aguas
+‐ Condición operativa 1: en caso de registrarse en el periodo en 70,72 l/s – 72,97 l/s y 15 horarios del día 19‐
+subterráneas desde pozos
+cuestión un descenso entre el umbral intermedio y el umbral límite 05‐2022 con valores que van entre 72,17 l/s –
+de producción P1, P2, P3,
+identificados en la Tabla N°1, en alguno de los pozos de control LA‐ 72,72 l/s.
+P4 y P‐R, según consta a
+02, LA‐03, La‐04 o LA‐05, se debe retroceder a un caudal de operación
+partir de pozos de control
+de 54 l/s.
+LA‐02,LA‐03, LA‐04 y LA‐
+‐ Condición operativa 2: en caso de registrarse en el periodo en
+05.
+cuestión un descenso mayor que el umbral límite identificados en la
+Tabla N°1, en alguno de los pozos de control LA‐02, LA‐03, LA‐04 o
+LA‐05, se debe retroceder a un caudal de operación 0 l/s.
+39
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+
+--- Página 40 ---
+7 ANEXOS.
+N° Anexo Nombre Anexo
+1 ORD. N°85 de fecha 24 de agosto de 2022, DGA región de Tarapacá.
+2 Resolución Exenta TPCA N°55/2022, de fecha 05 de septiembre de 2022, SMA.
+3 Carta N°195/2022 de fecha 15 de septiembre de 2022, junto a sus anexos, CMCC.
+4 Oficio N°135/2022 de fecha 31 de agosto de 2022, Primer Tribunal Ambiental.
+5 Ord. N°97 de fecha 22 de septiembre de 2022, DGA.
+6 Resolución Exenta TPCA N°064 de fecha 30 de septiembre de 2022, SMA.
+7 Carta N°221/2022 de fecha 14 de octubre de 2022 junto, CMCC.
+8 Ord. TPCA N°256/2022 de fecha 29 de noviembre de 2022, SMA.
+9 Ord. N°19/2022 de fecha 02 de diciembre de 2022, DGA.
+10 Informe Técnico de Fiscalización N°05/2021 de fecha 18 de octubre de 2021, DGA.
+40
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, oficina 71, Iquique / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799.
