@@ -1,0 +1,820 @@
+--- Página 1 ---
+Hydrogeol J (2018) 26:705 – 719
+DOI 10.1007/s10040-017-1647-4
+PAPER
+Local climate change induced by groundwater
+overexploitation in a high Andean arid watershed, Laguna
+Lagunillas basin, northern Chile
+Konstantin Scheihing 1 Uwe Tröger 1
+&
+Received: 3 November 2016 / Accepted: 17 July 2017 / Published online: 14 August 2017
+# Springer-Verlag GmbH Germany 2017
+Abstract The Laguna Lagunillas basin in the arid Andes of groundwater should avoid a decline of near-surface ground-
+northern Chile exhibits a shallow aquifer and is exposed to water below 2 m bgl and take groundwater-climate interac-
+extreme air temperature variations from 20 to − 25 °C. tions into account when identifying and monitoring potential
+Between 1991 and 2012, groundwater levels in the Pampa environmental impacts.
+Lagunillas aquifer fell from near-surface to ~15 m below
+ground level (bgl) due to severe overexploitation. In the same Keywords Chile . Climate change . Land surface
+period, local mean monthly minimum temperatures started a temperature . Groundwater management
+declining trend, dropping by 3 – 8 °C relative to a nearby ref-
+erence station. Meanwhile, mean monthly maximum summer
+temperatures shifted abruptly upwards by 2.7 °C on average in Introduction
+around 1996. The observed air temperature downturns and
+upturns are in accordance with detected anomalies in land- The Pampa Lagunillas and the related wetland Laguna
+surface temperature imagery. Two major factors may be caus- Lagunillas are situated in the remote arid Andes of northern
+ing the local climate change. One is related to a water-table Chile at an elevation of >4,000 m above sea level (asl), at
+decline below the evaporative energy potential extinction 19.55 °S, 68.5 °W (Fig. 1a,b). In 1982 the Chilean central
+depth of ~2 m bgl, which causes an up-heating of the bare soil water directorate (DGA) granted BHP Billiton (BHP) instan-
+surface and, in turn, influences the lower atmosphere. At the taneous water withdrawal rights from the respective aquifer of
+same time, the removal of near-surface groundwater reduces 300 L/s (DGA resolution No. 425; Yáñez Fuenzalida and
+the thermal conductivity of the upper sedimentary layer, Molina Otárola 2008). Groundwater was intended to be used
+which consequently diminishes the heat exchange between in the Cerro Colorado copper mine, situated 45 km further
+the aquifer (constant heat source of ~10 °C) and the lower west, which started commercial production in 1994. Water
+atmosphere during nights, leading to a severe dropping of withdrawals started after the year 1991.
+minimum air temperatures. The observed critical water-level In 2002 it was noted by the local community (Aymara) that
+drawdown was 2 – 3 m bgl. Future and existing water- the wetland of the Laguna Lagunillas basin together with the
+production projects in arid high Andean basins with shallow five related springs had dried out, due to a severe decrease of
+the water table (Yáñez Fuenzalida and Molina Otárola 2008;
+Larraín and Poo 2010). As part of the penalty imposed on
+This article is part of the topical collection on B Climate-change research BHP, the company agreed to irrigate the wetland artificially
+by early-career hydrogeologists ^ (with water from the same aquifer, ~25 L/s, starting in ~2006)
+and to take care of its full restoration on a long-term basis
+* Konstantin Scheihing (Yáñez Fuenzalida and Molina Otárola 2008; BHP Billiton
+kscheihing@gmx.de 2015). However, as part of the actual water management plan,
+water withdrawals from the aquifer continue. BHP reports
+Department of Applied Geosciences, Hydrogeology Research today ’ s water withdrawals to be ~130 L/s (BHP Billiton
+1
+Group, Technische Universität Berlin, Berlin, Germany 2015). At the same time, BHP wants to extend the operation
+
+--- Página 2 ---
+706 Hydrogeol J (2018) 26:705 – 719
+of the Cerro Colorado mine up to the year 2023, for which an
+environmental impact study is still being carried out, also in-
+cluding the Laguna Lagunillas watershed (BHP Billiton 2015;
+SEA 2014).
+While direct impacts on flora and fauna due to water
+shortage are usually considered in such impact studies,
+under the given extreme weather conditions in the arid
+Andes, climatic implications should also be taken into
+account, as demonstrated by this study. Maximum and
+minimum daily air temperatures in austral summer can
+reach up to 20 °C and can fall in winter down to
+− 25 °C (this study). At the same time, land surface
+temperatures (LST) of relevant sedimentary basins fluc-
+tuate between 50 °C and < − 20 °C (this study).
+Determining the interplay between groundwater with-
+drawals, soil moisture, atmospheric water vapour, and land-
+surface and lower atmosphere temperatures, was the objective
+of earlier studies (Boucher et al. 2004; Lo and Famiglietti
+2013; Zou et al. 2014; Alkhaier et al. 2012a, b; Zeng et al.
+2016, 2017; Maxwell and Kollet 2008). Shallow groundwater
+is associated with wetter soil profiles because of upward water
+and vapour fluxes (Alkhaier et al. 2012a). Solar energy ab-
+sorption due to evaporation, by soil moisture and near-surface
+groundwater, is known to have a regulating impact on both
+land-surface temperatures and maximum air temperatures in
+the lower atmosphere (Lakshmi et al. 2003; Whan et al. 2015;
+Berg et al. 2014; Alkhaier et al. 2012a, b). Apart from that,
+near-surface groundwater increases the thermal conductivity
+of top-soil layers (Alkhaier et al. 2012a).
+Therefore, although it is understood theoretically that
+near-surface groundwater plays a vital role in energy
+balances between the lower atmosphere, the ground sur-
+face and the subsurface, in practice (in terms of envi-
+ronmental management), there is seldom awareness re-
+garding its regulating function on local climates. This
+may also be due to numerous climate change studies
+that rely on large-scale modelling approaches which
+are understandably limited in complexity and often hard
+to test for accuracy and impact in relation to a specific
+site. Opposed to that, this case study is based on long-
+term monitoring data and hence is able to examine the
+concrete relation between a decrease of water tables and
+changes in daily and monthly minimum and maximum
+air temperatures at a mismanaged arid Andean water-
+production site. By a statistical analysis of time series
+from two nearby meteorological stations over 29 years,
+tangible climatic changes can be quantified.
+As far as the authors are aware, the given publication
+Fig. 1 a Map of central South America (study area marked by red investigates unstudied effects of prominent feedbacks
+rectangle ). b Topographic map of the area of the study together with between shallow groundwater and air temperatures in
+relevant meteorological stations
+the arid Andes. Based on the observed phenomenon, a
+recommendation for groundwater management practices
+in related Andean environments is proposed.
+
+--- Página 3 ---
+Hydrogeol J (2018) 26:705 – 719 707
+Study area approximately 12 km south of station MLL, close to a peren-
+nial stream.
+The Laguna Lagunillas (LL) basin is a typical Altiplano Time-series data of water-table depth for the LL were col-
+sedimentary basin in the arid Andes of northern Chile lected by BHP and were usually measured twice a month,
+(Fig. 1a,b). It is enclosed by Oligocene to Miocene beginning in 1991. By Chilean law, all relevant data are avail-
+volcanic and plutonic rocks with a longitudinal able to the public (ODEA 2016; DGA 2015). Unfortunately,
+Miocene to Quaternary sedimentary fill called Pampa there are a few periods where precipitation and temperature
+Lagunillas (Sernageomin 2003; Kikuchi and Ferré data are missing. Monthly precipitation data for station MLL
+2016). The latter makes up the exploited unconfined are missing for (DGA 2015): Apr to Jun 1993, Apr 1995 to
+shallow aquifer which originally (prior to 1992) exhib- Jan 1997, Nov 1999, March 2010 and Dec 2011. Missing
+ited a total water saturated thickness of ~30 m (at well daily temperature data from station MCC and MLL are sum-
+LA-4) to ~135 m (at well LA-3) with a hydraulic con- marized in Table 1. The times series show that 10% of the
+ductivity of 0.3 to 30 m/day (Montgomery and potential total number of days are associated with missing data
+Associates 2005; Kikuchi and Ferré 2016; Fig. 2a,b). and that the missing data points are randomly distributed over
+Around the wetland Lagunilllas, in the south of the the whole dataset.
+basin, a salar (salt flat) can be found. In total, the basin Only at station MLL is a larger data gap present,
+stretches over an elevation range of 4,000 – 4,800 m asl between Apr 1995 and Jan 1997; however, the missing
+and covers an area of 194 km 2 . Mean annual precipita- data points have little impact on the overall evaluation,
+tion is ~140 mm (at ~4,050 m asl); more than 80% of as the observation period is in total 29 years and
+the precipitation falls during austral summer (Houston discussed temperature changes are being reflected
+2006b). Due to its remote locality, few relevant scien- strongly in the data.
+tific studies have been published on the area of work so To quantify trends in the water-level time series data, linear
+far. regression (LR) was applied. To identify statistically the sig-
+Groundwater temperatures in the shallow Pampa nificant change points in relevant time series, two non-
+Lagunillas aquifer are around 8 – 13 °C (Montgomery and parametric homogeneity tests (Pettitt ’ s test and Buishand ’ s
+Rosko 1996; Kikuchi and Ferré 2016). Similar shallow test) were used (Pettitt 1979; Buishand 1982). Neither test
+groundwater temperatures are associated with the Salar del requires assumptions about the distribution of the analysed
+Huasco basin (Fig. 1); however, deeper groundwater and ris- data, and missing data points were ignored in the assessment.
+ing springs in the Salar del Huasco basin can reach 15 – 20 °C The Pettitt ’ s test is based on the null hypothesis ( H
+0) that
+(PUC 2009; Scheihing et al. 2017; Uribe et al. 2015). These the respective time series is homogeneous. It assess whether
+groundwater temperatures lie notably above the annual mean the variables follow one or more distributions that have the
+air temperatures in the region of 5 °C (9 °C during summer same location parameter (Pettitt 1979). If this is proved false,
+months; Risacher et al. 2003), which is commonly a threshold the alternative hypothesis ( H t
+a) is true, that there is a time
+for expected groundwater temperatures. The Andean from which the variables show a change of the location pa-
+Altiplano of northern Chile is known for its steep geothermal rameter, making it thus possible for the change point t to be
+gradients; therefore, geothermal energy sources can influence determined.
+groundwater temperatures (Herrera et al. 2016; Sanchez- The null hypothesis of Buishand ’ s test is that the variables
+Alfaro et al. 2015; Reyes and Vidal 2011; Tassi et al. 2010; follow one or more distributions that have the same mean. If
+Aravena et al. 2016). However, such high groundwater tem-
+peratures are not proven for the Laguna Lagunillas basin. Table 1 Descriptive statistics of daily minimum ( dmin ) and maximum
+( dmax ) temperature datasets of station MCC and MLL (1983 – 2012). SD
+standard deviation
+Data and methodology Station MCC Station MLL
+Tdmin Tdmax Tdmin Tdmax
+Hydrological data
+No. of days (1983 – 2012) 10,592 10,592 10,592 10,592
+Daily meteorological data used in this study originate from No. of days with missing data 1,088 918 1,079 1,339
+station Lagunillas (MLL, ~4,030 m asl); the data are collected No. of available data points 9,504 9,674 9,513 9,253
+by DGA. Temperature data were available for the period Min − 19.6 − 0.5 − 26.0 − 3.8
+Jan 1983 to Dec 2011; as a reference, temperature data from Max 13.0 25.5 14.8 23.8
+the Collacagua station (MCC, ~4,013 m asl) were used for the
+Mean − 5.9 15.0 − 7.8 13.5
+same period. The MCC station is likewise maintained by
+SD 4.8 3.8 6.1 3.5
+DGA and it is situated in the adjacent Salar del Huasco basin
+
+--- Página 4 ---
+708 Hydrogeol J (2018) 26:705 – 719
+this is proved false, the alternative hypothesis is true, that there different spectral images of different years and under different
+exists a time t from which the variables change in terms of the seasonal conditions. A detailed quantitative assessment of re-
+mean. The respective change point t can then be identified. spective data was impeded by the sporadic unavailability of
+Both tests work with a significance level α of 5% (meaning a respective imagery. Occasionally occurring cloud cover also
+confidence interval 95%). Indicated p -values are a measure of reduced the applicable dataset.
+risk of being wrong when rejecting the null hypothesis. If the The presented data for 2000 – 2014 were based on measure-
+p -value is higher than the significance level, the null hypoth- ments taken by the ASTER remote sensory devices on board
+esis cannot be rejected. NASA ’ s Terra satellite which started observations in 1999
+Further, the Mann-Kendall test was executed to identify (NASA 2017). Imagery prior to 2000 originated from the
+long-term trends in respective time series (Kendall and Landsat 5 satellite (USGS 2017). Both satellites possess ther-
+Gibbons 1990; Yue and Wang 2004; Lehmann 2006). When mal infrared (TIR) sensors which detect land-surface temper-
+analysing autoregressive-temperature-time series, an adjusted ature anomalies; however, to calculate absolute surface tem-
+form of the Mann-Kendall test is usually applied (Yue and peratures from this data, atmospheric correction parameters
+Wang 2004). Cross-correlation of the two time-series was need to be obtained from atmospheric models, typically made
+quantified by the Pearson correlation coefficient (Lehmann available by NASA (NASA 2014; Barsi et al. 2005; Jiménez-
+2006; Kendall and Gibbons 1990), which measures the degree Muñoz and Sobrino 2003). Yet, NASA does not provide this
+of linear correlation between two variables for a preset number data for dates prior to 2000, which inhibits the conversion of
+of time steps (lag), to explain how much of the variability of a TIR-band data from Landsat 5 imagery into absolute temper-
+variable is explained by another variable. ature values (NASA 2014); nevertheless, a comparison of
+TIR-data from Landsat 5 was carried out based on a rescaling
+Thermal infrared bands and land-surface temperature of raster data values from 0 to 1. At the same time, presented
+data from remote sensing devices absolute LST values from the ASTER data were provided as a
+standard product derived from NASA (NASA LP DAAC
+To verify changes detected in air-temperature-time series, an 2017). Absolute accuracy of used imagery is indicated as
+assessment of thermal infrared and land-surface temperature 1.5 °C in an environment with surface temperatures of ~27
+(LST) data was carried out by a qualitative comparison of and ±2 °C globally (Barsi et al. 2005; NASA 2002). For data
+0 300
+Springs become Start of
+dry wetland irrigation
+5 250
+10 200
+] l
+g
+b
+m [
+e l 15 150
+b Temperature
+a t
+r changes set in
+e t
+a
+W 20 100
+25 50
+P [mm/month]
+30 0
+Date
+Jan-91 Jan-92 Jan-93 Jan-94 Jan-95 Jan-96 Jan-97 Jan-98 Jan-99 Jan-00 Jan-01 Jan-02 Jan-03 Jan-04 Jan-05 Jan-06 Jan-07 Jan-08 Jan-09 Jan-10 Jan-11 Jan-12
+P at MLL LA7 LA5 LA4 LA3 LA1
+a b
+LR (LA7) LR (LA5) LR (LA4) LR (LA3) LR (LA1)
+Fig. 2 a Precipitation ( P , blue bars ) and water-table depth ( coloured between October 1992 (undisturbed conditions) and October 2005, based
+circles ) in five observation wells in the Laguna Lagunillas basin, 1991 – on data reported by Errol L. Montgomery and Associates (2005) ( arrows
+2012. b Comparison of resulting groundwater-level contour lines mark approximate groundwater flow direction)
+
+--- Página 5 ---
+Hydrogeol J (2018) 26:705 – 719 709
+from the ASTER TIR-sensors, it is also possible to compare Montgomery and Associates 2005). At the same time,
+day and night imagery (spatial resolution 90 m). Landsat 5 false colour Landsat imagery depicts the general retreat
+TIR-data provide only day imagery in the area of work (spatial of surface vegetation associated with the wetland area
+resolution 120 m, resampled to 30 m by NASA). where groundwater levels were found originally not more
+than ~0.2 m bgl (observation well LA-5). The ground-
+water level at the local meteorological station in 1991
+Results stood at ~1 m bgl (LA-3). Comparing groundwater-
+level contour lines between 1992 and 2005 demonstrates
+Water-level drawdowns from 1991 to 2012 that the whole sedimentary basin experienced a water-
+level decline of ~6 m compared to natural conditions in
+Figure 2a displays the water-table decline in the LL from 1991 this period (groundwater-level contour line 4,028 m asl
+to 2012 (no data available between June 1991 and January in 1992 compared to contour line 4,022 m asl in 2005).
+1994; the positions of observation wells in the LL are The strongest water-level declines were associated with
+displayed in Fig. 2b). While water tables measured in 1991 the production wells.
+reflected natural conditions in the watershed, during the fol-
+lowing two decades the water levels fell severely. At the end Daily and monthly minimum and maximum temperatures
+of 2011, well LA-1 showed a net decline of 18.5 m, LA-3 of at stations MLL and MCC between 1983 to 2012
+10.8 m, LA-4 of 10.4 m, LA-5 of 10 m and levels at LA-7 fell
+by 13.5 m; hence the water table fell on average by 0.5 – 1 m/ Figure 3 displays daily and monthly minimum and maximum
+year. The declining trend is approximated by respective linear air temperature data for the meteorological stations MLL and
+regression trend lines (Fig. 2a). MCC. MCC serves as a reference station due to its location
+Years of increased precipitation dampened the decline only 12 km south of station MLL, and its similar elevation and
+a little (e.g. 1999 and 2001; Fig. 2b). The slight hydrological environment (see section ‘ Data and
+groundwater recovery in 2005 is likely explained by a methodology ’ ).
+copper production decrease (as reported by BHP), in- Both datasets are separated into two sub datasets, 1983 –
+duced by an earthquake in the region of the Cerro 1995 (subset 1) and 1997 – 2012 (subset 2), in Fig. 3. This is
+Colorado mine (GFZ 2015). Jumps in the time-series because there is a 2-year data gap in the time series of station
+probably reflect the operational management of the re- MLL between 1995 and 1997. At the same time, it is approx-
+spective production wells (Fig. 2). Between 1995 and imately in this period where a change in the time series is seen
+1999, when temperature changes begin to be detectable to begin (see also section ‘ Quantification of temperature
+(see next section), drawdowns totaled 2 – 3 m compared changes at MLL regarding the reference station MCC ’ ).
+to natural conditions (Fig. 2a). At MCC, mean monthly maximum (mmax) tempera-
+Figure 2b documents the change of the groundwater tures oscillate between 8 and 20 °C throughout a year.
+flow direction and groundwater contour lines between Mean monthly minimum (mmin) temperatures at MCC
+the years 1992 and 2005 (based on data from Errol L. plot between 3 and − 12 °C. Very similar temperature
+25 MLL1 mmax (no trend) MLL2 mmax (declining trend, increment of 25 MCC1 mmax (no trend) MCC2 mmax (rising trend)
+°C] variance and highest dmax)
+[
+x 20 20
+a
+m
+m 15 15
+d
+n
+a 10
+x 10
+a
+m
+d 5 5
+0 0
+MLL2 mmin (declining trend, increment of MCC2 mmin (rising trend)
+10 10 MCC1 mmin (no trend)
+MLL1 mmin (no trend) variance and decline of lowest dmin)
+C] 5 5
+° [
+n 0 0
+i
+m -5 -5
+m
+d -10 -10
+n
+a -15 -15
+n i
+m -20 -20
+d
+-25 -25
+J-83 J-84 J-85 J-86 J-87 J-88 J-89 J-90 J-91 J-92 J-93 J-94 J-95 J-96 J-97 J-98 J-99 J-00 J-01 J-02 J-03 J-04 J-05 J-06 J-07 J-08 J-09 J-10 J-11 J-83 J-84 J-85 J-86 J-87 J-88 J-89 J-90 J-91 J-92 J-93 J-94 J-95 J-96 J-97 J-98 J-99 J-00 J-01 J-02 J-03 J-04 J-05 J-06 J-07 J-08 J-09 J-10 J-11
+DATE DATE
+MCC dmin MCC mmin 2-year centered average (mmin)
+MCC dmin MCC mmin 2-year centered average (mmin)
+MLL dmax MLL mmax 2-year centered average (mmax) MCC dmax MCC mmax 2-year centered average (mmax)
+Fig. 3 Daily ( d ) minimum and maximum and monthly ( m ) mean minimum and maximum temperatures at station MCC and MLL
+
+--- Página 6 ---
+710 Hydrogeol J (2018) 26:705 – 719
+ranges can be identified for time series MLL1 mmax
+and MLL1 mmin respectively; however, the 2-year av-
+erage of MLL1 mmax tends to lie at ~2 °C below the
+2-year average of the time series MCC1 mmax.
+High cross-correlation coefficients (0.7, at lag 0) for trend
+lines of MCC1 mmax and MLL1 mmax, as well as MCC1
+mmin and MLL1 mmin, demonstrate that respective temper-
+atures at both stations follow the same cycles of slight up and
+down turns between 1983 and 1995 (Fig. 4); however, the
+same calculation for the period 1997 – 2012 reveals that the
+trend lines of both stations decouple. No positive cross-
+correlation can be verified for this period.
+This phenomenon can also be quantified by the modified
+Mann-Kendall trend test for autoregressive time series (after
+Yue and Wang 2004). While mean monthly temperatures for
+MCC1 and MLL1 do not follow any apparent trend (accord-
+ing to the modified Mann-Kendall test), mean monthly tem-
+peratures for time series MCC2 follow a slightly rising trend,
+and data of MLL2, in contrast, follow a declining trend
+(Table 1).
+Table 2 summarizes the descriptive statistics of all datasets.
+In particular, the strong increase, rising from 18.0 to 47.0, of
+the variance between MLL1 and MLL2 daily minimum tem-
+peratures (dmin) is striking. The increase of variance demon-
+strates that temperature up and downturns are less buffered;
+also, the mean of series MLL2 dmin is 3 °C lower than that of
+MLL1 dmin. In parallel, average daily maximum (dmax) tem-
+peratures at MLL rise by ~2 °C. Differences between data
+from MCC1 and MCC2 are much more moderate and are in
+the range of expected natural variations.
+Correlations between the southern oscillation index
+and mmin temperature data from station MCC
+Naturally occurring temperature fluctuations as well as pre-
+cipitation variations in the Central Andes and northern Chile
+were earlier associated with the El Niño Southern Oscillation;
+in particular with the Southern Oscillation Index (SOI; Lavado
+Casimiro et al. 2012; Houston 2006b; Cerveny et al. 1987). At
+reference station MCC it can be seen that the 2-year trend line Fig. 4 Cross-correlation calculations for 2-year centred average trend
+lines of mmax and mmin temperatures of stations MCC and MLL ( dashed
+of mmin temperatures correlates positively and is statistically
+lines mark 95% confidence interval)
+significant with the SOI between 1984 and 2011 (Fig. 5),
+which implies that during La Niña conditions, strong easterly
+trade winds favour warmer night conditions in the area of the
+study. However, it is reasonable to assume that temperature time
+A positive correlation between mmax temperatures of sta- series at station MCC reflect natural temperature variations in
+tion MCC and the SOI cannot be established, which indicates the locality of the area of the study. There are two reasons for
+that there are additional or other influencing factors. Mmin this: (1) cross-correlations between dmin and dmax tempera-
+temperatures represent night temperatures and mmax temper- tures at station MCC and MLL for the period 1983 – 1995
+atures approximately reflect the midday temperatures. Effects demonstrate a high, statistically significant correlation at lag
+associated with cloud cover, in particular, can affect dmax 0 (section ‘ Daily and monthly minimum and maximum tem-
+temperatures significantly, which could be a reason for the peratures at stations MLL and MCC between 1983 to 2012 ’ ),
+differing observations. which implies that both stations followed the same
+
+--- Página 7 ---
+Hydrogeol J (2018) 26:705 – 719 711
+Table 2 Descriptive statistics and modified Mann-Kendall test calculations (for Fig. 3). SD standard deviation
+MCC1 dmax MCC2 dmax MLL1 dmax MLL2 dmax MCC1 dmin MCC2 dmin MLL1 dmin MLL2 dmin
+Descriptive statistics
+Minimum − 0.5 1.1 − 2.8 − 3.8 − 18.6 − 19.6 − 17.2 − 26.0
+Maximum 25.5 24.9 22.4 23.8 9.6 13.0 14.8 12.8
+1st quartile 12.0 12.5 10.6 12.0 − 10.0 − 9.0 − 9.0 − 14.8
+Median 15.0 15.4 12.8 14.6 − 7.0 − 6.0 − 6.3 − 9.7
+3rd quartile 17.8 18.0 14.8 17.0 − 3.0 − 2.0 − 3.3 − 4.2
+Mean 14.8 15.0 12.5 14.4 − 6.3 − 5.4 − 6.0 − 9.3
+Variance ( n ) 15.4 14.2 9.8 13.4 22.6 23.8 18.0 47.0
+SD ( n ) 3.9 3.8 3.1 3.7 4.7 4.9 4.2 6.9
+Modified Mann-Kendall test statistics
+Trend No Rising No Declining No Rising No Declining
+Sen ’ s slope - 0.008 - − 0.006 - 0.01 - − 0.009
+p -value (two-tailed) 0.196 0.022 0.953 < 0.0001 0.709 0.013 0.665 0.003
+α (significance level) 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05
+temperature trends during this time; (2) the 2-year trend line of here encountered effects on mmin temperatures were stronger
+mmin temperatures at station MCC correlates over a period of than on mmax temperatures (variance rose by 160% for mmin
+29 years with the SOI, which is a major climate index for the compared to 35% for mmax).
+Southern Pacific region (Trenberth 1984; Stenseth et al. 2003; Figure 7a depicts the variations of average mmin tempera-
+Ropelewski and Halpert 1987). tures during austral summer (December – February) and winter
+(June – August) from 1984 to 2012. The annual temperature
+Quantification of temperature changes at MLL differences between station MLL and the reference station
+with reference to station MCC MCC were calculated. The temperature differences for both
+seasons demonstrate a declining trend since the beginning of
+To assess structural breaks in the annual variance of dmin and water withdrawals in 1992 (according to the Mann-Kendall
+dmax temperatures, two homogeneity tests were applied — test, Table 4). While differences prior to 1992 fall into a range
+Pettitt ’ s test and Buishand ’ s test (Table 3). Both tests identify of ±1 °C, the time series declines to values of up to − 8 °C in
+structural breaks for the annual variance time series at station the following years. Local maxima for time series of station
+MLL (Fig. 6). These occurred approximately in the period MCC and MLL seem to be associated with La Niña conditions
+1994 – 1997 for dmin temperatures and in 1999 – 2001 for (see section ‘ Correlations between the Southern Oscillation
+dmax (data gaps in 1995 and 1996). Index and mmin temperature data from station MCC ’ ).
+At the same time, no structural break can be detected for the In conclusion, mmin temperatures in winter have been
+time series of station MCC. The detected shift in values of lowered by about 3 – 8 °C compared to expected natural con-
+variance indicate a relatively fast (non-linear) and local system ditions as approximately represented by the reference station
+change that affected, particularly, extreme minimum and max- MCC. Additionally, the resulting yearly temperature differ-
+imum air temperatures in the Laguna Lagunillas basin. The ences show a declining trend. Likewise, mmin temperatures
+0.4
+4
+3 0.3
+La Nina conditions
+2 0.2
+1
+0.1
+0
+0
+-1 0 3 6 9
+-9 -6 -3 12
+-12
+-2 -0.1
+El Nino conditions
+SOI / MCC mmin [-] -3 Cross-correlation -0.2
+-4
+-0.3
+J-84 J-85 J-86 J-87 J-88 J-89 J-90 J-91 J-92 J-93 J-94 J-95 J-96 J-97 J-98 J-99 J-00 J-01 J-02 J-03 J-04 J-05 J-06 J-07 J-08 J-09 J-10 -0.4
+Lag
+MCC mmin (standardized 2-year centered average) SOI Date
+Fig. 5 Correlation between MCC mmin temperatures (standardized only for visualization) and the SOI ( dashed lines mark 95% confidence interval)
+
+--- Página 8 ---
+712 Hydrogeol J (2018) 26:705 – 719
+Table 3 Results of homogeneity tests (for Fig. 6 and Fig. 7b). t = change (the southern part of the displayed area in Fig. 8), the strongest
+point (year), α = significance level. The p -value is two-tailed temperature anomalies correspond consistently with the pe-
+Parameter Pettitt ’ s test Buishand ’ s test rennial stream network. In section I (the northern part, Fig.
+8), the strong anomalies are associated with the Lagunillas salt
+Variance MLL dmax (Fig.6 ) flat and the respective wetland area, where groundwater levels
+t 1999 2001 were shallower than 0.5 m bgl in 1991 (Fig. 2). By Oct-1995,
+p -value 0.010 0.006 the anomaly in the eastern wetland area in section I had dis-
+α 0.05 0.05 appeared almost completely, which corresponds to a decline
+Variance MLL dmin (Fig.6 ) of the water table to below 2 m bgl. In parallel, the data visu-
+t 1994 1994 alizes the development of a heat anomaly in the central basin
+p- value < 0.0001 < 0.0001 of the LL watershed (section I). TIR data values in images of
+α 0.05 0.05 November 1991 and 1993 are lower than values in October
+Variance MCC dmin (Fig.6 ) 1995 and 1997. This anomaly remains persistently during the
+t - - coming years; Fig. 9 depicts absolute surface temperatures
+p -value 0.255 0.208 based on ASTER data for Nov-2000, Nov-2004, Oct-2007
+α 0.05 0.05 and Nov-2014.
+Variance MCC dmax (Fig.6 ) The conversion of TIR-band anomalies into absolute tem-
+t - - peratures reveals that diurnal LSTs during October and
+p -value 0.621 0.135 November plot between 23 and 54 °C, which is several de-
+α 0.05 0.05 grees above air temperature (13 – 20 °C) and is caused by a
+Monthly max (mmax) summer temperatures (Fig.7 b) conversion of solar energy into heat energy in the upper sec-
+t 1995 1995 tion of the sedimentary layer (Alkhaier et al. 2012a). Land
+p -value < 0.0001 < 0.0001 surfaces around station MLL are 10 – 20 °C hotter than around
+α 0.05 0.05 the remaining wetland area (near-surface groundwater) be-
+cause solar energy received by water humidity and saturated
+in summer fell by up to ~4 °C with regard to the reference a
+station and resulting temperature differences show concor- 20
+dantly a declining trend. 18
+16
+Figure 7b displays the development of average mmax tem-
+14
+peratures for the summer and winter seasons at station MCC 12
+and MLL. From 1992 onward, the respective difference func- 10
+Variance [-] 8
+tion shows no apparent trend for both seasons. The only re-
+6
+markable observation is made for mmax temperatures of the 4
+summer season where around the year 1996 (data gap in 1996 2
+0 Structural break in annual variance - stronger
+and 1997) a shift of mmax temperatures by ~2.7 °C occurs — b
+temperature fluctuations from ~1994 and ~1999 on
+60
+slightly different change point to the structural break in the
+50
+respective variance time series (Fig. 6; Table 3).
+40
+Development of land-surface temperatures based 30
+on satellite imagery 20
+Variance [-]
+10
+Based on selected imagery of TIR data from Landsat 5 and 0
+ASTER measurements, a qualitative assessment of the devel-
+1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010
+opment of eventual LST anomalies was carried out (see sec-
+Year
+tion ‘ Thermal infrared bands and land-surface temperature
+MLL dmin MCC dmin
+data from remote sensing devices ’ ). Figure 8 displays the m1=17 m2=45.3
+rescaled TIR data from the Landsat 5 satellite, masked by MCC dmax MLL dmax
+the extension of relevant sedimentary basins. The images were m1=9.5 m2=13.3
+all taken around midday (local time). Orange colours represent Fig. 6 Annual variance of a dmax and b dmin temperatures at MCC and
+higher land-surface temperatures (LSTs), while white areas MLL with change points as calculated by Pettitt ’ s test ( m = mean).
+Structural breaks occur in the years ~1994 and ~1999 at station MLL.
+mark the lowest LSTs. Generally, low-temperature anomalies
+Time series of station MCC exhibit no structural break for the whole
+are associated with near-surface water resources. In section II observation period
+
+--- Página 9 ---
+Hydrogeol J (2018) 26:705 – 719 713
+a b
+C] ° C] C]
+[ 4 6 ° 20 4 °
+e C] °
+r Start of water withdrawals
+u t
+a 2 4 18 2
+r
+e
+p 0 2
+m 16 ~2.7 ° C 0
+e t
+r -2 0 shift
+e
+m 14 -2
+m -4 -2 No clear trend
+u
+s
+n i 12 -4
+-6 -4 Temperature difference [
+m Temperature difference [
+m Start of water withdrawals
+-8 -6 mmax summer temperature [ 10 -6
+La Nina La Nina La Nina strong C]
+-2 8 C] ° C] 15 4 °
+C] La Nina 2012 ° 2012
+° [
+-4 6
+e r 13 2
+u t -6 4
+a r -8 2
+e 11 0
+p -10 0
+m
+e t -12 -2
+r 9 -2
+e t -14 -4
+n i
+w -16 -6 7 No clear trend -4
+n i -18 -8 Temperature difference [ Temperature difference [
+m Start of water withdrawals Start of water withdrawals
+m -20 -10 mmax winter temperature [ 5 -6
+1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012
+Year Year
+Difference MCC mmin winter MLL mmin winter Difference MCC mmax winter MLL mmax winter
+MCC mmin summer MLL mmin summer MCC mmax summer MLL mmax summer
+Fig. 7 Comparisons of the development of a mmin temperatures and b mmax temperatures, at stations MLL and MCC for summer and winter periods
+(1984 – 2012)
+sediments (higher soil moisture) is, in great part, consumed by temperatures (night temperatures) already occurred.
+evaporation processes (Alkhaier et al. 2012a; Berg et al. 2014; Independent of the year, LSTs in section II are 4 – 10 °C higher
+Lakshmi et al. 2003). The extinction depth of the evaporative than in section I; the relative difference of LST between sec-
+energy potential in the arid Andean environment is 2 m bgl tions I and II appears to increase slightly over time.
+(Houston 2006a); consequently, the data demonstrate that sur- In Fig. 11, the same anomaly is observed when comparing
+face water and near-surface groundwater cause negative images of different seasons during the year 2008. In austral
+anomalies in LSTs by up to 20 °C. Cooler sediment bodies winter (Jul-2008), a widespread anomaly is displayed around
+occurring in the northern section of the LL basin in Nov-2000 section I (~6 °C lower than in section II); however, images of
+and Nov-2014 could indicate infiltrating recharge — probably Jan-2008, Aug-2008 and Oct-2008 also illustrate the
+mountain front recharge (Kikuchi and Ferré 2016). phenomenon.
+Subsequently, night LSTs will be examined. Figure 10 visu- The strongest negative anomalies that are associated with
+alizes land-surface temperatures of the early night (always the dry salar areas, can be caused by the differing thermal
+~03:17 h GMT; the time difference to Santiago de Chile is – properties of the associated surface salt-flat deposits compared
+3 h in austral summer and – 5 h in austral winter).
+In response to a strong storm event in 2001, the Lagunillas Table 4 Results of Mann-Kendall trend tests (for Fig. 7a,b).
+salt flat area was still flooded in May 2002; therefore, in the α = significance level. The p -value is two-tailed
+image of June 2002, a large positive heat anomaly is observed
+Parameter Difference in summer Difference in winter
+in the Salar area. Generally, winter LSTs plot between − 24 and
+0 °C. Throughout the years, it can be observed that LSTs close Monthly min (mmin) (Fig. 7a)
+to the surface and near-surface groundwater are considerably Trend Declining Declining
+warmer compared to areas with a deeper groundwater level Sen ’ s slope − 0.187 − 0.385
+(differences of up to 20 °C), which implies that near-surface p -value 0.012 0.005
+water resources function as a heat source during the night in α 0.05 0.05
+the area of the study. Monthly max (mmax) (Fig. 7b)
+However, the imagery also demonstrates that there is a Trend No No
+negative heat anomaly associated with the LL watershed Sen ’ s slope - -
+around the respective meteorological station when compared
+p -value 0.132 0.124
+to LST around station MCC. Note that in 2002 (earliest avail-
+α 0.05 0.05
+able image) the main climate changes with regard to mmin
+
+--- Página 10 ---
+714 Hydrogeol J (2018) 26:705 – 719
+Fig. 8 Rescaled diurnal TIR-band imagery from Landsat 5 for dates prior to 2001
+to valley sediments (the porosity of surface salt-flat deposits temperatures of the winter and summer time series (Figs. 6
+can reach up to 50%; Warren 2006). Another factor may be the and 7) provides evidence that the recorded climatic change is
+total aquifer thickness, which is lowest in the southern mar- not a product of an eventual consecutive error that was intro-
+ginal area (southern section). duced after the data gap between 1995 and 1997. Likewise,
+the observed climatic changes also can not be attributed to a
+regional climate forcing affecting the locality, because a cross-
+Discussion correlation of the temperature time series with an uninfluenced
+nearby reference station demonstrates a decoupling of respec-
+Together with an ongoing groundwater overexploitation in the tive trend lines after the year 1997 (Fig. 4, and section
+LL basin, a change in air temperatures and anomalies in sur- ‘ Quantification of temperature changes at MLL with reference
+face temperatures can be detected. Since the beginning of to station MCC ’ ). This emphasizes that there is a local factor
+water withdrawals, mmin winter temperatures (night temper- superimposing natural climatic trends at station MLL. It is
+atures) in the LL basin have fallen by 3 – 8 °C compared with a proposed that the continuously declining water table in the
+reference station. Also, mmin temperatures during summer LL basin is the cause for this local climatic change.
+fell by 2 – 4 °C (Fig. 7). Time series show a declining trend Generally speaking, shallow groundwater is associated
+between 1992 and 2012, although intermittent temperature with wetter soil profiles due to the upward water and vapour
+upturns occur. These appear to be triggered by La Niña con- fluxes (Alkhaier et al. 2012a). The effect of solar energy ab-
+ditions, and hence strong easterly trade winds (Figs. 5 and 7). sorption by soil moisture and near-surface groundwater due to
+Several non-linear effects have also been observed; mmax evaporation has been studied before and is known to have a
+summer temperatures (day temperatures) rose relatively regulating impact on both land-surface temperatures and max-
+abruptly by 2.7 °C on average around the years 1995 – 1997. imum air temperatures in the lower atmosphere (Lakshmi
+During the same period, the variance of mmin temperatures et al. 2003; Whan et al. 2015; Berg et al. 2014; Alkhaier
+and, later, mmax temperatures also shifted to a new mean (Fig. et al. 2012a, b). The observed increase of land-surface tem-
+6). perature around station MLL is probably induced by the low-
+In particular, the presence of different continuous trends ering of the water table from less than 1 m bgl to depths below
+and non-linear shifts concerning mmax and mmin the evaporative energy potential extinction depth (~2 m bgl;
+
+--- Página 11 ---
+Hydrogeol J (2018) 26:705 – 719 715
+Fig. 9 ASTER diurnal land-surface temperatures of October and November imagery (2000 – 2014)
+Houston 2006a; Hernández-López et al. 2014). This goes, This process could facilitate a significant heat exchange between
+very likely, hand-in-hand with a decrease of the soil moisture the lower atmosphere and the shallow groundwater and give a
+in the top layers (Alkhaier et al. 2012a). The water table possible explanation for processes that would buffer the extreme
+around station MLL fell below 2 – 3 m bgl in the period be- air temperature downturns during winter nights (from ~5 °C
+tween 1995 and 1997; hence, the absorption of solar energy down to ~ − 20 °C). The total aquifer thickness can play an
+by evaporative processes ceased and instead caused a stronger additional role in this process as well as an eventual influence
+up-heating of respective surface sediments, which, in turn, of steep geothermal gradients (see section ‘ Study area ’ ). Night
+could have influenced temperatures of the lower atmosphere LSTs indicate that in response to a groundwater level decline,
+and would explain the abrupt rise of mmax summer tempera- night surface temperatures also decline. This is in accordance
+tures by a mean of 2.7 °C around the years 1995 – 1997. The with findings of Alkhaier et al. (2012b) who reported for a shal-
+abruptness could be explained by the high drawdown rates of low aquifer in Syria, where air temperatures dropped during the
+0.5 – 1 m/year. A collapse of the capillary rise process in the night to − 5 °C, that groundwater caused an up-heating of night
+vadose zone, due to the ongoing rapid water-level decline, surface temperatures when found above ~4 m bgl. In the Andean
+could be another influencing factor. environment, the temperature gradient between night air temper-
+Related effects can play a role when it comes to mmin tem- atures and the groundwater reservoir is even higher. In response
+peratures. It is known that the presence of shallow groundwater to an ongoing water-level decline, the provided heat flux from
+significantly increases the thermal conductivity of the saturated the subsurface to the surface and hence to the lower atmosphere
+top sediment layers, which facilitates a higher heat transfer be- is probably reduced continuously, and hence mmin temperatures
+tween the atmosphere and subsurface (Alkhaier et al. 2012a). could fall lower.
+Near-surface groundwater is by convection connected to a con- However, while absolute mmin temperatures appear
+stant heat reservoir of 10 °C (average groundwater temperature). to follow a declining trend until 2012 (Fig. 7), the re-
+During the day, near-surface groundwater could heat up above spective variance time series (Fig. 6) shows a non-linear
+10 °C and cool slowly down during dusk, according to the tem- shift. This could be explained by the disappearance of
+perature gradient with regard to the lower atmosphere. As soon the up-heating effect during the daytime of shallow
+as shallow-water temperature drops significantly below 10 °C, groundwater by solar energy. Groundwater below 2 m
+the convection processes within the saturated sediment could bgl, which is much less thermally connected to the sur-
+provide a constant heat flux from the lower layers in the aquifer. face layers, will probably show a relatively constant
+
+--- Página 12 ---
+716 Hydrogeol J (2018) 26:705 – 719
+Fig. 10 ASTER night land-surface temperatures (winter imagery 2002 – 2014)
+temperature of ~10 °C throughout a 24-h day, whereas level drawdown rates of 0.5 – 1 m/year (Fig. 2). In particular,
+near-surface groundwater could experience a notable up- the dropping of near-surface groundwater levels below 2 – 3 m
+heating when surface temperatures rise above 30 °C (al- bgl appears to be a critical threshold.
+so in winter). This is confirmed by Hernández-López There could be multiple consequences of this local
+et al. (2014) who carried out laboratory evaporation climate change. Effects on the ecosystem such as plants,
+experiments with soil from the Salar del Huasco basin insects, birds, small reptiles and rodents, particularly
+(variation of surface temperature: 40-50°C, spectrum of around the concerned wetland, would need to be studied
+groundwater temperatures at 30-50 cm bgl: 22-30°C). further. At the same time, impacts on meteorological
+Hence, shallow groundwater would function here again, parameters such as evaporation could be a consequence.
+on the one hand as a heat storage, and on the other as a Higher mmax temperatures in summer can lead to an
+thermal conductor. increased evaporation of the precipitation that falls al-
+Nevertheless, to gain a deeper understanding of the causes most exclusively during the summer months. Maximum
+and different environmental feedbacks implied in the ob- temperatures are a major controlling factor when it
+served climatic change, further research is required. A climatic comes to actual evaporation in the Andes of northern
+modelling respecting interactions between the subsurface, sur- Chile (Houston 2006a).
+face and lower atmosphere could yield more detailed insights. The extreme climatic environment of the arid Andes seems
+For now, the area affected by the described local climate to fortify feedbacks between hydrological and atmospheric
+change can only be estimated. It is assumed that the central parameters. The given case study is of interest also in terms
+valley of the Pampa Lagunillas, where shallow groundwater of water management measures when planning, executing and
+has prevailed and LST data consequently show changes or monitoring groundwater production projects in similar envi-
+anomalies, is the only area concerned. This is an area of ap- ronments. Water resources in arid Andean high-elevation
+proximately 30 km 2 around the Lagunillas wetland at eleva- aquifers are, so far, a mostly untouched and attractive resource
+tions below 4050 m asl. in an otherwise water-scarce environment (PUC 2009). The
+According to the given data, the changes in temperature great majority of respective closed Andean basins exhibit very
+began to set in around the years 1995 – 1999 and developed similar geological and environmental characteristics (Risacher
+relatively fast, which is likely explained by the high water- et al. 2003).
+
+--- Página 13 ---
+Hydrogeol J (2018) 26:705 – 719 717
+Fig. 11 ASTER night land-surface temperatures for various months in 2008
+The presented data demonstrate for the first time that, apart 1995 and 1997 by 2.7 °C on average. The observed changes
+from other negative environmental effects, a severe overexploi- are accompanied by an increase of variance of the respective
+tation in arid Altiplano basins can have a serious impact on the time series data. Air temperature changes are in accordance with
+local climate, which is a point that has been hardly considered detected anomalies in land-surface temperature imagery.
+so far. A first best-practice recommendation for ongoing and A regional climatic forcing affecting the locality can be
+future projects could be to prevent water-level drawdowns be- excluded as a reason for the observed variations due to a
+low 2 m bgl in areas with near-surface groundwater. demonstrated decoupling of air temperature trends from an
+uninfluenced nearby reference station in the Salar del
+Huasco basin. In this context, it is shown that particularly
+Conclusions variations of mean monthly minimum air temperatures in the
+area of the study are normally in high correlation with varia-
+The Laguna Lagunillas basin in the arid Andes of northern Chile tions of the Southern Oscillation Index (SOI).
+is exposed to extreme climatic conditions with air temperature In conjunction with a review of results of thematically re-
+variations from 20 to − 25 °C. Land surface temperatures can vary lated studies, it is proposed that two major factors caused the
+between − 25 °C (winter nights) to +50 °C (summer days). Since local climate change, one of which is related to a dropping of
+the beginning of water withdrawals from the shallow Pampa the water table below the evaporative energy potential extinc-
+Lagunillas aquifer in ~1992, groundwater drawdown rates have tion depth of ~2 m bgl in large areas of the basin. Solar energy
+varied between 0.5 and 1 m/year. As a consequence of the on- that was earlier consumed by evaporative processes during
+going overexploitation and the linked retreat of the near-surface daytime, contributes now to an up-heating of the top sedimen-
+groundwater level, a local climate change can be observed. tary layer which in turn influences maximum temperatures. At
+In the concerned area, average minimum winter air tempera- the same time, the removal of near-surface groundwater re-
+tures follow from 1992 to 2012 a declining trend and dropped by duces the thermal conductivity of the upper sedimentary layer
+approximately 3 – 8 °C. Average minimum summer air tempera- continuously, which consequently reduces the heat exchange
+tures fell by 2 – 4 °C. At the same time, mean monthly maximum between the aquifer (constant heat source of ~10 °C) and the
+summer air temperatures shifted distinctly upwards between lower atmosphere. Hence, night temperature downturns that
+
+--- Página 14 ---
+718 Hydrogeol J (2018) 26:705 – 719
+drop to ~ − 20 °C are less effectively buffered; nevertheless, Southern Oscillation. Mon Weather Rev 115(2):620 – 623. doi:10.
+further research is required to clarify the interactions between 1175/1520-0493(1987)115<0620:APIOAR>2.0.CO;2
+DGA (2015) Información Oficial Hidrometeorológica y de Calidad de
+the subsurface and the lower atmosphere and to examine the
+Aguas en Línea [Official online information: hydrometeorology and
+processes involved, which exhibit continuous as well as non- water quality]. http://snia.dga.cl/BNAConsultas/reportes. Accessed
+linear characteristics. 20 December 2015
+In the extreme climatic environment of the arid Andes, Errol L. Montgomery and Associates. (2005) Resumen de los Resultados
+del Desarrollo y Aplicación de un Modelo de Flujo de Agua
+feedbacks between hydrological and atmospheric parameters
+Subterránea en la Cuenca Salar de Lagunillas [Summary of results
+appear to be strongly fortified. The observed critical water- for the development and application of a groundwater flow model in
+level drawdown of the near-surface groundwater in this case the Salar de Lagunillas basin]. Calle Asturias no. 138, Montgomery,
+study is ~2 – 3 m bgl before non-linear climatic changes occur. Santiago, Chile
+GFZ (2015) Access to GEOFON and EIDA data archives. http://eida.gfz-
+For future and existing water production projects in arid
+potsdam.de/webdc3/. Accessed 19 December 2015
+and semi-arid Andean Altiplano basins, it is recommended
+Hernández-López MF, Gironás J, Braud I, Suárez F, Muñoz JF (2014)
+to take groundwater – climate interactions into account when Assessment of evaporation and water fluxes in a column of dry
+executing environmental impact studies and monitoring. A saline soil subject to different water table levels. Hydrol Process
+best-practice recommendation for water withdrawals from 28(10):3655 – 3669. doi:10.1002/hyp.9912
+Herrera C, Custodio E, Chong G, Lamban LJ, Riquelme R, Wilke H,
+high arid Andean basins could be to prevent a water-level
+Jodar J, Urrutia J, Urqueta H, Sarmiento A, Gamboa C, Lictevout
+decline of near-surface groundwater levels below 2 m bgl. E (2016) Groundwater flow in a closed basin with a saline shallow
+lake in a volcanic area: Laguna Tuyajto, northern Chilean Altiplano
+of the Andes. Sci Total Environ 541:303 – 318. doi:10.1016/j.
+Acknowledgements This study was financed by CONICYT (National scitotenv.2015.09.060
+Commission for Science and Technology, Chile). The first author appre-
+Houston J (2006a) Evaporation in the Atacama Desert: an empirical study
+ciates the support of the Early Career Hydrogeologists ’ Network (ECHN)
+of spatio-temporal variations and their causes. J Hydrol 330(3 – 4):
+of the International Association of Hydrogeologists (IAH). The authors
+402 – 412. doi:10.1016/j.jhydrol.2006.03.036
+would like to thank all involved reviewers who helped develop the final
+Houston J (2006b) Variability of precipitation in the Atacama Desert: its
+article by their constructive comments.
+causes and hydrological impact. Int J Climatol 26(15):2181 – 2198.
+doi:10.1002/joc.1359
+Jiménez-Muñoz JC, Sobrino JA (2003) A generalized single-channel
+References method for retrieving land surface temperature from remote sensing
+data. J Geophys Res 108(D22). doi:10.1029/2003JD003480
+Kendall MG, Gibbons JD (1990) Rank correlation methods, 5th edn.
+Alkhaier F, Flerchinger GN, Su Z (2012a) Shallow groundwater effect on Oxford Univ. Press, New York
+land surface temperature and surface energy balance under bare soil Kikuchi CP, Ferré TPA (2016) Analysis of subsurface temperature data to
+conditions: modeling and description. Hydrol Earth Syst Sci 16(7): quantify groundwater recharge rates in a closed Altiplano basin,
+1817 – 1831. doi:10.5194/hess-16-1817-2012 northern Chile. Hydrogeol J. doi:10.1007/s10040-016-1472-1
+Alkhaier F, Su Z, Flerchinger GN (2012b) Reconnoitering the effect of Lakshmi V, Jackson TJ, Zehrfuhs D (2003) Soil moisture-temperature
+shallow groundwater on land surface temperature and surface ener- relationships: results from two field experiments. Hydrol Process
+gy balance using MODIS and SEBS. Hydrol Earth Syst Sci 16(7): 17(15):3041 – 3057. doi:10.1002/hyp.1275
+1833 – 1844. doi:10.5194/hess-16-1833-2012 Larraín S, Poo P (2010) Conflictos por el agua en Chile-Entre los
+Aravena D, Muñoz M, Morata D, Lahsen A, Parada MÁ, Dobson P derechos humanos y las reglas de mercado [Water conflicts in
+(2016) Assessment of high enthalpy geothermal resources and Chile: between human rights and the rules of the free market], 1st
+promising areas of Chile. Geothermics 59:1 – 13. doi:10.1016/j. edn. Chile Sustenable, Santiago, Chile
+geothermics.2015.09.001 Lavado Casimiro WS, Labat D, Ronchail J, Espinoza JC, Guyot JL
+Barsi JA, Schott JR, Palluconi FD, Hook SJ, Butler JJ (2005) Validation (2012) Trends in rainfall and temperature in the Peruvian Amazon-
+of a web-based atmospheric correction tool for single thermal band Andes basin over the last 40 years (1965 – 2007). Hydrol Process.
+instruments. Earth Observing Syst X:58820. doi:10.1117/12.619990 doi:10.1002/hyp.9418
+Berg A, Lintner BR, Findell KL, Malyshev S, Loikith PC, Gentine P Lehmann E (2006) Nonparametrics: statistical methods based on ranks
+(2014) Impact of soil moisture – atmosphere interactions on surface 1st revised edn. Springer, New York
+temperature distribution. J Clim 27(21):7976 – 7993. doi:10.1175/ Lo M-H, Famiglietti JS (2013) Irrigation in California ’ s Central Valley
+JCLI-D-13-00591.1 strengthens the southwestern U.S. water cycle. Geophys Res Lett
+BHP Billiton (2015) BHP Billiton Chile sustainability report 2014. http:// 40(2):301 – 306. doi:10.1002/grl.50108
+www.bhpbilliton.com/~/media/bhp/documents/society/reports/2014/ Maxwell RM, Kollet SJ (2008) Interdependence of groundwater dynam-
+csr-eng150518sustainabilityreport2014bhpbillitonchileoperations. ics and land-energy feedbacks under climate change. Nat Geosci
+pdf. Accessed 17 May 2016 1(10):665 – 669. doi:10.1038/ngeo315
+Boucher O, Myhre G, Myhre A (2004) Direct human influence of irriga- Montgomery E, Rosko M (1996) Groundwater exploration and wellfield
+tion on atmospheric water vapour and climate. Clim Dyn 22(6 – 7). development in the Pampa Lagunillas y Pampa Lirima areas,
+doi:10.1007/s00382-004-0402-4 Iquique, Chile. Rev Geol Chile 23(2). doi:10.5027/andgeoV23n2-
+Buishand TA (1982) Some methods for testing the homogeneity of rain- a03
+fall records. J Hydrol 58(1 – 2):11 – 27. doi:10.1016/0022-1694(82) NASA (2002) ASTER Surface kinetic temperature product indications.
+90066-X https://asterweb.jpl.nasa.gov/content/03_data/01_Data_Products/
+Cerveny RS, Skeeter BR, Dewey KF (1987) A preliminary investigation release_surface_kinetic_temperatur.htm. Accessed 26 February
+of a relationship between South American snow cover and the 2017
+
+--- Página 15 ---
+Hydrogeol J (2018) 26:705 – 719 719
+NASA (2014) Atmospheric correction parameter calculator. http:// Sernageomin (2003) Geological map of Chile: digital version, 1:1,000,000.
+atmcorr.gsfc.nasa.gov/. Accessed 3 March 2015 www.ipgp.fr/~dechabal/Geol-millon.pdf. Accessed 17 May 2016
+NASA (2017) Advanced spaceborne thermal emission and reflection Stenseth NC, Ottersen G, Hurrell JW, Mysterud A, Lima M, Chan K-S,
+radiometer (ASTER). https://asterweb.jpl.nasa.gov/. Accessed 7 Yoccoz NG, Adlandsvik B (2003) Review article: studying climate
+March 2017 effects on ecology through the use of climate indices — the North
+NASA LP DAAC (2017) ASTER Level 2 surface temperature product Atlantic oscillation, El Nino Southern Oscillation and beyond. Proc
+retrieval. https://search.earthdata.nasa.gov/. Accessed 26 February Biol Sci 270(1529):2087 – 2096. doi:10.1098/rspb.2003.2415
+2017 Tassi F, Aguilera F, Darrah T, Vaselli O, Capaccioni B, Poreda RJ,
+ODEA (2016) Observatorio del Agua [Water resources observatory]. Delgado Huertas A (2010) Fluid geochemistry of hydrothermal sys-
+www.odea.cl. Accessed 7 December 2016 tems in the Arica-Parinacota, Tarapacá and Antofagasta regions
+Pettitt AN (1979) A non-parametric approach to the change-point prob- (northern Chile). J Volcanol Geotherm Res 192(1 – 2):1 – 15. doi:10.
+lem. Appl Stat 28(2):126. doi:10.2307/2346729 1016/j.jvolgeores.2010.02.006
+Trenberth KE (1984) Signal versus noise in the Southern Oscillation.
+PUC (2009) Levantamiento Hidrogeológico para el Desarrollo de nuevas
+Mon Weather Rev 112(2):326 – 332. doi:10.1175/1520-0493(1984)
+fuentes de Agua en áreas prioritarias de la zona norte de Chile,
+112<0326:SVNITS>2.0.CO;2
+Regiones XV, I, II y III [Hydrogeological study for the development
+Uribe J, Muñoz JF, Gironás J, Oyarzún R, Aguirre E, Aravena R (2015)
+of new water resources in northern zones of Chile, regions XV, I, II
+Assessing groundwater recharge in an Andean closed basin using
+and III]. documentos.dga.cl/REH5161v4.pdf. Accessed 13
+isotopic characterization and a rainfall-runoff model: Salar del
+May 2016
+Huasco basin. Chile Hydrogeol J. doi:10.1007/s10040-015-1300-z
+Reyes N, Vidal A (2011) Geothermal exploration at Irruputuncu and Olca
+USGS (2017) Landsat data retrieval. http://glovis.usgs.gov/. Accessed 7
+volcanoes: pursuing a sustainable mining development in Chile.
+March 2017
+GRC Trans 35:983 – 986
+Warren JK (2006) Evaporites: sediments, resources and hydrocarbons.
+Risacher F, Alonso H, Salazar C (2003) The origin of brines and salts in Springer, Berlin
+Chilean salars: a hydrochemical review. Earth Sci Rev 63(3 – 4):249 – Whan K, Zscheischler J, Orth R, Shongwe M, Rahimi M, Asare EO,
+293. doi:10.1016/S0012-8252(03)00037-0 Seneviratne SI (2015) Impact of soil moisture on extreme maximum
+Ropelewski CF, Halpert MS (1987) Global and regional scale precipita- temperatures in Europe. Weather Clim Extremes 9:57 – 67. doi:10.
+tion patterns associated with the El Niño/Southern Oscillation. Mon 1016/j.wace.2015.05.001
+Weather Rev 115(8):1606 – 1626. doi:10.1175/1520-0493(1987) Yáñez Fuenzalida N, Molina Otárola R (2008) La gran minería y los
+115<1606:GARSPP>2.0.CO;2 derechos indígenas en el norte de Chile [Big mining and the rights
+Sanchez-Alfaro P, Sielfeld G, van Campen B, Dobson P, Fuentes V, Reed of indigenous people in northern Chile], 1st edn. Ciencias humanas.
+A, Palma-Behnke R, Morata D (2015) Geothermal barriers, policies Estado y pueblos indígenas, LOM, Santiago
+and economics in Chile: lessons for the Andes. Renew Sust Energ Yue S, Wang C (2004) The Mann-Kendall test modified by effective
+Rev 51:1390 – 1401. doi:10.1016/j.rser.2015.07.001 sample size to detect trend in serially correlated hydrological series.
+Scheihing KW, Moya CE, Tröger U (2017) Insights into Andean slope Water Resour Manag 18(3):201 – 218. doi:10.1023/B:WARM.
+hydrology: reservoir characteristics of the thermal Pica spring sys- 0000043140.61082.60
+tem, Pampa del Tamarugal, northern Chile. Hydrogeol J 119(2):33. Zeng Y, Xie Z, Yu Y, Liu S, Wang L, Zou J, Qin P, Jia B (2016) Effects of
+doi:10.1007/s10040-017-1533-0 anthropogenic water regulation and groundwater lateral flow on
+SEA (2014) Informe Consolidado N° 2 de Solicitud de Aclaraciones, land processes. J Adv Model Earth Syst 8(3):1106 – 1131. doi:10.
+Rectificaciones y/o Ampliaciones al Estudio de Impacto 1002/2016MS000646
+Ambiental del Proyecto B Proyecto Continuidad Operacional Cerro Zeng Y, Xie Z, Zou J (2017) Hydrologic and climatic responses to global
+Colorado ^ Second consolidated report: request for clarification, rec- anthropogenic groundwater extraction. J Clim 30(1):71 – 90. doi:10.
+tification and/or amplification of the environmental impact study of 1175/JCLI-D-16-0209.1
+the project B Operational continuation project of Cerro Colorado) ^ . Zou J, Xie Z, Yu Y, Zhan C, Sun Q (2014) Climatic responses to anthro-
+http://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento? pogenic groundwater exploitation: a case study of the Haihe River
+docId=70/4c/3458d2195a9a0439fd12881b7b693532e730. basin, northern China. Clim Dyn 42(7 – 8):2125 – 2145. doi:10.1007/
+Accessed 26 February 2017 s00382-013-1995-2
