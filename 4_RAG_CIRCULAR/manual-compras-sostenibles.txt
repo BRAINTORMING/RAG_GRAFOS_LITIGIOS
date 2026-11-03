@@ -1,0 +1,432 @@
+--- Página 1 ---
+a
+GRUPO
+PRINCZ
+> MANUAL DE
+COMPRAS SOSTENIBLES
+
+--- Página 2 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+ÍNDICE
+1. Introducción 3
+2. Compromiso de Grupo Princz 4
+3. Metodología 5
+Objetivo del Manual 5
+Objetivo General 5
+Objetivos Específicos 5
+Alcance 5
+4. Marco Teórico 7
+Compras Sostenibles: ¿Qué son las compras sostenibles? 7
+4.1 Dimensión Económica 8
+4.2 Dimensión Social 9
+4.3 Dimensión Ambiental 10
+4.4 Gobernanza y Transparencia 10
+4.5 Relación con los ODS 10
+5. Estándares de Compras Sostenibles 11
+5.1 Estándares Económicos 11
+5.2 Estándares Sociales 11
+5.3 Estándares Ambientales 12
+5.4 Proceso de Etapabilidad 12
+6. Características de Sostenibilidad y Etiquetado 13
+6.1 Características de Sostenibilidad 13
+6.2 Etiquetas de Sustentabilidad 13
+6.3 Etiquetas Legales y de Seguridad (Obligatorias) 14
+6.4 Proceso de Verificación 14
+7. Proveedores y Carta de Compromiso 14
+8. Conclusión 15
+2
+
+--- Página 3 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+1. Introducción
+El presente manual, se enmarca dentro de la Estrategia de Sustentabilidad de Grupo Princz.
+El mismo busca contribuir a la Agenda 2030 para el Desarrollo Sostenible, aportando de
+forma especial a los Objetivos de Desarrollo Sostenible número 8, 9, 12 y 17.
+A la vez, este Manual de Compras Sostenibles establece los estándares y lineamientos que
+Grupo Princz espera de todos sus proveedores. Su propósito es orientar la relación comercial
+hacia prácticas alineadas con criterios ambientales, sociales y de gobernanza (ESG) , en
+concordancia con los compromisos de la empresa en materia de sostenibilidad.
+El manual tiene carácter obligatorio para todos los proveedores de bienes y servicios. Quie-
+nes deseen mantener o iniciar una relación con Grupo Princz deberán ajustarse a las pautas
+aquí definidas o, en su defecto, comprometerse a iniciar un proceso de mejora continua.
+Este documento se organiza en los siguientes apartados:
+• Compromiso de Grupo Princz: describe la visión y las acciones de la empresa en materia
+de sostenibilidad.
+• Estándares de Compras Sostenibles: detalla los criterios económicos, sociales y ambienta-
+les que se deberán cumplir.
+• Certificaciones y Etiquetado: establece las certificaciones y sellos valorados por la empresa.
+• Evaluación y Seguimiento: explica el procedimiento de control y monitoreo de proveedores.
+• Carta de Cumplimiento: documento anexo que cada proveedor debe firmar como condi-
+ción de contratación.
+De esta manera, el Manual no sólo comunica las exigencias de Grupo Princz, sino que tam-
+bién brinda una guía práctica y concreta para que los proveedores puedan adaptarse, mejo-
+rar y evolucionar hacia un modelo más sostenible.
+3
+
+--- Página 4 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+2. Compromiso de Grupo Princz
+Grupo Princz es una empresa argentina con más de 75 años de trayectoria, conformada por
+tres unidades productivas: Princz (San Martín), Ipasa (Ushuaia) y Pruminir (San Justo). Con
+una dotación de más de 250 colaboradores, de distintas generaciones, géneros y realidades,
+hemos consolidado una cultura de innovación, calidad y sostenibilidad. Nuestra estrategia
+empresarial se basa en tres ejes centrales ESG:
+1. Ambiental:
+• Objetivo: carbono neutralidad en 2040. Coordinado por el Comité de Sustentabilidad.
+• Medición de la huella de carbono bajo estándar GHG Protocol y compensación de huella.
+• Certificación BioPreferred (USDA) para nuestro aceite epoxidado de soja (ESBO), que
+sustituye plastificantes de origen fósil por biobasados.
+• Implementación de paneles solares, acuerdos de abastecimiento de energías renovables
+y transición a montacargas eléctricos.
+• Programas internos de reciclaje, compostaje, reutilización de materiales (como pallets de
+madera) y con un proyecto de Scrap 0.
+2. Social:
+• Compromiso con la diversidad e inclusión a través de comités especializados.
+• Alianza con Fundación Espartanos, ADDEI y escuelas, entre otros para el programa de
+empleabilidad social.
+• Desarrollo de pasantías, becas y capacitaciones para jóvenes.
+• Políticas de espacios de trabajo seguros e inclusivos.
+• Reconocimiento en Great Place to Work.
+3. Gobernanza:
+• Manuales y protocolos internos de ética, integridad y transparencia.
+• Estrategia de compras sostenibles en construcción con clausulas sociales y ambientales.
+• Participación activa en iniciativas de sostenibilidad..
+• Procesos de auditoría ISO 9001:2015 con calificaciones destacadas.
+En síntesis, la sustentabilidad es para el Grupo Princz una convicción y una oportunidad. Una
+convicción porque creemos firmemente que es el único camino posible para proyectar un
+futuro viable; y una oportunidad porque nos permite innovar, ser más competitivos, y gene-
+rar un impacto positivo real, tanto en el planeta como en las personas.
+4
+
+--- Página 5 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+3. Metodología
+La implementación de Compras Sostenibles en Grupo Princz se basa en una metodología
+estandarizada que integra criterios ESG en todo el ciclo de abastecimiento. Este enfoque
+garantiza transparencia, equidad y trazabilidad en cada etapa del proceso, desde la selec-
+ción de proveedores hasta la evaluación de resultados.
+Objetivo del Manual
+Ser una guía para los procesos de adquisiciones de bienes y servicios llevados a cabo por la
+empresa.
+Objetivo General
+Alinear los intereses perseguidos por el Grupo Princz en materia de sustentabilidad bajo un
+abordaje ESG integral, generando una cadena de valor y ecosistema de empresas compro-
+metidas con el desarrollo sostenible.
+Objetivos Específicos
+i. Comprender el concepto de compras sostenibles
+ii. . Conocer los requerimientos para comenzar a ser proveedor
+iii. Implementar una etapabilidad en el proceso de selección de proveedores para contar con
+compras sostenibles
+Alcance
+Aplicable para todos los procesos de compra llevados a cabo por Grupo Princz.
+Responsabilidades: El área de Desarrollo Organizacional es la responsable de la adecuada
+aplicación del presente manual (capacitaciones, su comprensión y adhesión). Contando con
+el área de Compras como área soporte.
+5
+
+--- Página 6 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+La metodología se compone de cinco fases principales:
+1. Definición de Criterios de Sostenibilidad
+• Los criterios económicos, sociales y ambientales establecidos en este Manual constituyen
+la base de la política de compras sostenibles.
+• Se valorarán especialmente las certificaciones y etiquetas ambientales reconocidas, así
+como políticas verificables en materia de ética, inclusión y responsabilidad social.
+2. Selección y Homologación de Proveedores
+• Todo proveedor deberá completar la Carta de Compromiso y presentar documentación
+respaldatoria.
+• La homologación se realizará considerando la procedencia de los materiales, procesos de
+producción, condiciones laborales y prácticas de gestión ambiental.
+3. Evaluación y Contratación
+• Los procesos de contratación priorizarán a los proveedores que acrediten estándares ESG,
+ofrezcan productos o servicios sustentables y contribuyan al desarrollo económico local.
+• Se garantizarán procesos de licitación y selección transparentes, con igualdad de condi-
+ciones para todas las partes.
+4. Monitoreo y Seguimiento
+• Se establecerán indicadores de desempeño (KPI) para evaluar periódicamente el grado
+de cumplimiento de los proveedores en materia de sostenibilidad.
+• El monitoreo podrá incluir auditorías documentales, visitas a planta y encuestas de des-
+empeño socioambiental.
+5. Mejora Continua y Alianzas Estratégicas
+• Grupo Princz promoverá instancias de capacitación y acompañamiento para proveedo-
+res, con el objetivo de facilitar la transición hacia prácticas más sostenibles.
+• Se fomentará la cooperación y el aprendizaje conjunto como parte de una estrategia de
+valor compartido.
+6
+
+--- Página 7 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+4. Marco Teórico
+Compras Sostenibles: ¿Qué son las compras sostenibles?
+Para comenzar, es importante distinguir entre dos conceptos clave dentro del enfoque de
+sostenibilidad: consumo sostenible y compra sostenible. El primero hace referencia a los
+bienes o servicios que son adquiridos por usuarios finales, es decir, los consumidores. Por su
+parte, la compra sostenible se refiere al proceso de abastecimiento que llevan adelante
+las organizaciones, particularmente las empresas, con el objetivo de adquirir bienes o
+servicios que les permitan desarrollar sus actividades económicas y comerciales. Ambos
+conceptos están directamente relacionados con criterios ambientales, sociales y éticos, y su
+integración es esencial para avanzar hacia modelos de producción y consumo responsables.
+Departamento
+Individuos
+de compras
+Adquisición de
+bienes y servicios
+Criterios ambientales,
+socioeconómicos y éticos
+Compra Institucional Consumo
+responsable responsable
+En este caso, nos enfocaremos específicamente en las compras sostenibles que realiza la
+empresa, reconociendo que todo proceso de adquisición implica un impacto, ya sea positivo,
+negativo o neutro, sobre el ambiente, la sociedad o determinados grupos de interés. Por ello,
+es fundamental rediseñar estos procesos para maximizar los impactos positivos y mitigar los
+negativos.
+Uno de los principios centrales para una política de compras responsables es el del valor
+por dinero. Este concepto no se limita únicamente al precio de un bien o servicio, sino que
+incorpora otras variables como la calidad, las necesidades que satisface, sus condiciones
+de uso, los recursos que emplea y los beneficios sociales y ambientales asociados. En
+otras palabras, se trata de considerar no sólo el valor monetario inmediato, sino también los
+costos indirectos (o costos ocultos) y las oportunidades de generar impacto positivo tanto
+para la empresa como para la comunidad.
+7
+
+--- Página 8 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+En el ámbito del sector privado, los criterios de compras sostenibles deben definirse con
+base en ciertos principios fundamentales. Deben ser coherentes con los objetivos de desa-
+rrollo sostenibles, y alinearse con las regulaciones ambientales, sociales y económicas vigen-
+tes. Asimismo, es necesario que estén sustentados en información de referencia validada,
+que sean objetivos, redactados de manera clara y comprensible, y que incluyan un modo
+explícito de verificación. Además, estos criterios deben estar directamente relacionados con
+el objeto contractual y su incorporación debe aplicarse de forma gradual, respetando los
+principios de transparencia y funcionando como un incentivo para el mercado. Dentro de
+este marco, se identifican tres grandes tipos de criterios de sostenibilidad mencionados
+anteriormente: económicos, sociales y ambientales:
+4.1 Dimensión Económica
+Las prácticas de sostenibilidad económica promueven el uso eficiente y responsable de los
+recursos financieros, al tiempo que aseguran la transparencia en los procesos de contrata-
+ción. Grupo Princz establece que todos los proveedores deberán garantizar condiciones
+comerciales justas, precios competitivos, calidad certificada y dentro de lo posible, prácticas
+de gestión que favorezcan la innovación y el desarrollo de las micro, pequeñas y medianas
+empresas (MiPyMEs).
+La sostenibilidad económica implica también la incorporación de criterios de economía
+circular en la oferta de bienes y servicios, priorizando soluciones que reduzcan costos a
+largo plazo y contribuyan a la sustitución de importaciones, la producción nacional y la
+generación de empleo local.
+Una estrategia central de la economía circular es el análisis del ciclo de vida (ACV), que mide
+el impacto ambiental total de un producto o servicio, desde la extracción de materias primas
+hasta su disposición final. Este enfoque permite tomar decisiones más responsables en cada
+etapa de la cadena de valor, considerando el uso de recursos, el consumo energético, las
+emisiones de gases de efecto invernadero, la toxicidad de los materiales y los efectos socia-
+les y económicos asociados.
+8
+
+--- Página 9 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+4.2 Dimensión Social
+La dimensión social pone en el centro a las personas y comunidades impactadas por la
+cadena de valor. La sostenibilidad apunta a reducir desigualdades estructurales y promover
+la inclusión de grupos vulnerables. Esto implica fomentar condiciones laborales dignas,
+garantizar la equidad de género, respetar los derechos humanos y favorecer el acceso al
+empleo de calidad. Además, las compras sostenibles contribuyen al desarrollo de proveedo-
+res responsables, a la protección de la diversidad cultural y al fortalecimiento de las comuni-
+dades locales, promoviendo una participación activa y equitativa en toda la cadena de valor.
+Por ello, Grupo Princz establece que sus proveedores deberán respetar los derechos huma-
+nos, garantizar condiciones laborales dignas, erradicar cualquier forma de trabajo infantil o
+forzoso, y fomentar la equidad de género y la inclusión de grupos vulnerables.
+Asimismo, se valorará la adopción de prácticas de diversidad e inclusión, la participación en
+programas de empleabilidad social y la contribución al bienestar comunitario. El compromiso
+social se entiende como parte esencial del contrato entre empresa y proveedor: no se trata
+solo de intercambiar bienes o servicios, sino de generar un impacto positivo en la sociedad.
+9
+
+--- Página 10 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+4.3 Dimensión Ambiental
+En cuanto a lo ambiental, se priorizan productos y servicios que minimicen su impacto
+durante todo el ciclo de vida. Se valora el uso de materias primas renovables, reciclables o
+reutilizables, la eficiencia energética, la logística de bajo impacto y los procesos de produc-
+ción sustentables. Esta perspectiva busca reducir residuos, emisiones, contaminación y uso
+innecesario de recursos, promoviendo una economía circular y responsable. El objetivo es
+lograr un consumo consciente que no comprometa al entorno, al tiempo que se fomenta la
+innovación ambiental y se alinean las operaciones con los desafíos del cambio climático.
+La dimensión ambiental exige a los proveedores incorporar procesos y productos que mini-
+micen su huella ecológica, reduciendo impactos negativos durante todo el ciclo de vida de
+los bienes o servicios ofrecidos. Esto incluye:
+• Uso de materias primas recicladas, reutilizables o provenientes de fuentes renovables
+certificadas.
+• Reducción de emisiones de gases de efecto invernadero y consumo de energía.
+• Incorporación de energías renovables en la producción.
+• Disminución de residuos y sustancias peligrosas, priorizando logística de bajo impacto
+ambiental.
+Grupo Princz entiende que no es suficiente cumplir con la normativa vigente, sino que se
+debe ir más allá, anticipando riesgos ambientales y adoptando estándares globales de
+sustentabilidad.
+4.4 Gobernanza y Transparencia
+La gobernanza es el pilar que conecta las tres dimensiones (económica, social y ambiental),
+asegurando que las prácticas sostenibles sean efectivas, verificables y trazables.
+La sostenibilidad requiere, además, un marco de gobernanza sólido. Los proveedores debe-
+rán contar con políticas claras de integridad, transparencia y ética empresarial. Se valorará
+la existencia de códigos de conducta, mecanismos de debida diligencia, reportes de susten-
+tabilidad y canales de comunicación con los grupos de interés.
+4.5 Relación con los ODS
+Este Manual se alinea con los siguientes ODS prioritarios para Grupo Princz:
+1. ODS 8: Trabajo decente y crecimiento económico.
+2. ODS 9: Industria, innovación e infraestructura.
+3. ODS 12: Producción y consumo responsables.
+4. ODS 13: Acción por el clima.
+5. ODS 17: Alianzas para lograr los objetivos.
+10
+
+--- Página 11 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+5. Estándares de Compras Sostenibles
+Grupo Princz establece que sus proveedores deben cumplir con un conjunto de estándares
+mínimos de sostenibilidad, alineados con los criterios ESG y los Objetivos de Desarrollo
+Sostenible. Estos estándares no buscan ser un requisito excluyente de manera inmediata,
+sino una hoja de ruta progresiva: entendemos que la sostenibilidad se construye en etapas
+y que cada proveedor se encuentra en un punto distinto de madurez. El compromiso de
+Princz es acompañar a los proveedores en este proceso, brindando lineamientos claros,
+evaluando avances y reconociendo las mejoras implementadas.
+5.1 Estándares Económicos
+Los proveedores deberán:
+• Garantizar precios competitivos y condiciones comerciales justas.
+• Asegurar la calidad de bienes y servicios mediante sistemas de gestión certificados (ISO
+9001 o equivalentes).
+• Contar con políticas de integridad, transparencia y prevención de conflictos de interés.
+• Incorporar prácticas de economía circular (reutilización, reciclaje, optimización de recursos).
+• Favorecer el desarrollo de la industria local y la sustitución de importaciones.
+• Incluir a MiPyMEs y empresas de triple impacto en su cadena de valor.
+Se valorarán certificaciones como: ISO 9001, ISO 37001 (anticorrupción), programas de
+compliance y reportes de debida diligencia, entre otras.
+5.2 Estándares Sociales
+Los proveedores deberán:
+• Respetar los derechos humanos y laborales en todas sus operaciones.
+• Erradicar el trabajo infantil y forzoso.
+• Garantizar condiciones de trabajo seguras y dignas, en cumplimiento con normas de
+higiene y seguridad.
+• Promover la equidad de género, diversidad e inclusión en sus equipos.
+• Incluir acciones de formación y desarrollo de capacidades para sus colaboradores.
+• Favorecer el empleo inclusivo, integrando a personas con discapacidad o provenientes de
+contextos de vulnerabilidad.
+Se valorarán certificaciones y adhesiones como: SA8000 (responsabilidad social), ISO
+45001 (seguridad y salud en el trabajo) o programas de equidad de género, diversidad e
+inclusión, entre otros.
+11
+
+--- Página 12 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+5.3 Estándares Ambientales
+Los proveedores deberán:
+• Minimizar el impacto ambiental en todas las etapas del ciclo de vida de sus productos.
+• Reducir emisiones de gases de efecto invernadero y consumo de energía.
+• Incorporar energías renovables y tecnologías limpias en sus procesos.
+• Optimizar la gestión de residuos, priorizando la reutilización y el reciclaje.
+• Evitar el uso de sustancias peligrosas, materiales no biodegradables o contaminantes.
+• Favorecer el uso de materias primas renovables, reciclables o certificadas (ej. FSC para
+madera, BioPreferred para biobasados).
+Se valorarán certificaciones y sellos como: ISO 14001 (gestión ambiental), certificación
+BioPreferred (biobasados), FSC/PEFC (manejo forestal sostenible), Carbon Neutral,
+adhesión al Pacto Global de Naciones Unidas, entre otros.
+5.4 Proceso de Etapabilidad
+Princz entiende que no todos los proveedores podrán cumplir de inmediato con estos están-
+dares. Por eso, el Manual establece un enfoque de etapabilidad, donde los proveedores
+deben comprometerse formalmente a iniciar el camino hacia la sostenibilidad y demostrar
+avances progresivos con reportes periódicos. Este proceso incluye:
+- Compromiso inicial: Firma de la Carta de Compromiso de cumplimiento y compromiso
+de mejora.
+- Implementación gradual: Adopción de buenas prácticas en plazos acordados con la
+empresa.
+- Verificación y mejora continua: Evaluación de avances mediante indicadores de sosteni-
+bilidad y auditorías internas.
+12
+
+--- Página 13 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+6. Características de Sostenibilidad y Etiquetado
+Grupo Princz establece que todos los productos y servicios adquiridos deberán cumplir con
+criterios de sostenibilidad y etiquetado responsable, tanto en lo ambiental y social como
+en lo legal y técnico.
+6.1 Características de Sostenibilidad
+Se espera que los proveedores prioricen productos y servicios que:
+• Eviten sustancias peligrosas o contaminantes persistentes (ej. metales pesados, PVC sin
+aditivos seguros, solventes tóxicos).
+• Cumplan con normativas nacionales e internacionales de sostenibilidad (ej. Ley de Enva-
+ses, Ley de Presupuestos Mínimos Ambientales, REACH en Europa, RoHS en electrónica).
+• Minimicen la generación de residuos y emisiones contaminantes.
+• Incorporen componentes biobasados o certificados por programas internacionales (ej.
+BioPreferred – USDA, FSC, PEFC, FairTrade).
+• Favorezcan la eficiencia energética en su producción, uso y disposición.
+• Tengan un ciclo de vida diseñado bajo principios de economía circular (reparables, mo-
+dulares, reutilizables).
+• Utilicen materias primas recicladas, reciclables o renovables.
+6.2 Etiquetas de Sustentabilidad
+Los proveedores deberán garantizar la trazabilidad y comunicación transparente del
+impacto de sus productos mediante etiquetas reconocidas. Se valorarán, entre otras:
+• ISO 14001 (autodeclaraciones ambientales).
+• FSC/PEFC (madera y papel de origen sostenible).
+• Ecolabel, Energy Star, Ecoetiqueta IRAM, o equivalentes.
+• USDA BioPreferred (contenido biobasado).
+• Carbon Neutral / Huella de Carbono Certificada.
+• FairTrade o Comercio Justo (impacto social positivo).
+13
+
+--- Página 14 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+6.3 Etiquetas Legales y de Seguridad (Obligatorias)
+En productos industriales, químicos o de uso sensible, es obligatorio que los proveedores
+aseguren un etiquetado técnico y legal completo, que incluya:
+• Fichas de Datos de Seguridad (FDS/SDS) conforme a la normativa del Sistema Global-
+mente Armonizado (SGA/GHS).
+• Etiquetas con pictogramas de riesgo (inflamabilidad, toxicidad, corrosión, etc.).
+• Número de lote, fecha de producción y vencimiento.
+• Normativas IRAM – ISO aplicables según la categoría del producto.
+• Cumplimiento con normativas de organismos nacionales (ej. ANMAT, SENASA, Secretaría
+de Ambiente) e internacionales cuando corresponda.
+• Información clara sobre condiciones de almacenamiento, manipulación y disposición
+final segura.
+6.4 Proceso de Verificación
+Princz exigirá a los proveedores la presentación de:
+- Copia de las certificaciones vigentes de sostenibilidad.
+- Ejemplares de fichas técnicas y fichas de seguridad.
+- Evidencia de cumplimiento con etiquetado legal en cada entrega.
+7. Proveedores y Carta de Compromiso
+La selección de proveedores del Grupo Princz se regirá por el cumplimiento de los estánda-
+res establecidos en este manual. Todos los proveedores deberán firmar la Carta de Compro-
+miso, en la cual se comprometen a:
+• Adoptar progresivamente criterios ESG (ambientales, sociales y de gobernanza).
+• Cumplir con las normativas legales y ambientales vigentes.
+• Implementar prácticas de mejora continua en materia de sustentabilidad.
+• Asegurar la trazabilidad y transparencia en sus procesos, productos y servicios.
+El compromiso con esta Carta de Compromiso será condición necesaria para mantener y
+fortalecer la relación comercial con Grupo Princz.
+14
+
+--- Página 15 ---
+> MANUAL DE COMPRAS SOSTENIBLES
+8. Conclusión
+El presente manual de Compras Sostenibles constituye una guía clara y práctica para orien-
+tar a todos los proveedores del Grupo Princz hacia un modelo de gestión responsable,
+alineado con los más altos estándares internacionales en materia ambiental, social y de
+gobernanza (ESG). Su propósito no es solo establecer lineamientos, sino también consolidar
+una cultura compartida en la que cada eslabón de la cadena de valor asuma un rol activo en
+la construcción de un futuro más sostenible.
+En Princz creemos firmemente que el desarrollo económico debe ir de la mano de la protec-
+ción del ambiente, el respeto por las personas y la transparencia en los procesos. Por eso,
+asumimos compromisos concretos: certificaciones nacionales e internacionales, incorpora-
+ción de tecnologías limpias, medición y compensación de nuestra huella de carbono, uso de
+energías renovables, certificación biobased en nuestros productos, y programas de inclusión
+laboral que reflejan nuestro compromiso con la diversidad y la equidad. Estos logros marcan
+el rumbo de nuestra estrategia de sustentabilidad, pero entendemos que no podemos reco-
+rrer este camino solos: necesitamos el acompañamiento de nuestros proveedores.
+La invitación es clara: los proveedores no son meros actores externos, sino socios estratégi-
+cos en este desafío. El cumplimiento de los criterios aquí establecidos, junto con la firma de
+la Carta de Compromiso, no implica una exigencia inmediata y absoluta, sino el inicio de un
+proceso de mejora continua, progresivo y colaborativo. La etapa que hoy comenzamos es la
+de transitar juntos hacia una cadena de valor que genere impactos positivos en lo económi-
+co, lo social y lo ambiental, multiplicando los beneficios para toda la comunidad.
+El Grupo Princz reafirma así su compromiso de liderar con el ejemplo, de escuchar y acom-
+pañar a cada proveedor en este camino, y de proyectar una industria argentina que sea
+referente regional en innovación, responsabilidad y sustentabilidad. Confiamos en que,
+trabajando en conjunto, podremos dejar una huella positiva y duradera: una industria más
+justa, más verde y más humana.
+15
