@@ -1,0 +1,292 @@
+--- Página 1 ---
+Aprobado por Comité de Expertos:
+Comité Experto Firma
+DRAFT
+Carlos Espinoza
+Sergio Iriarte
+Rodrigo P a rdo
+1
+
+--- Página 2 ---
+Fecha : 8 April 2024
+Para: Comité de Expertos
+De: Jesús Maza – Eyleen Barrales / Principal Permisos Mayores
+Tema: Estrategia de selección del bofedal de control en sector Lagunillas
+1 Propósito
+CMCC debe seleccionar un ecosistema de control que sirva de referencia en su gestión del bofedal Lagunillas. El propósito de este
+documento es identificar las variables ambientales relevantes a medir en el bofedal de control y definir una estrategia para conducir
+este proceso.
+2 Antecedentes
+2.1 Solicitudes sobre un bofedal de control
+Hay tres instancias que exigen a CMCC contar con un bofedal de control:
+a. La Resolución N° 67/2011 y las RCA N° 69/2015 y 13/2022.
+b. La Sentencia del Primer Tribunal Ambiental, de 21 de noviembre de 2023.
+c. Global Standard para el Cierre. Bases de conocimiento para el Cierre Definitivo en Lagunillas.
+A continuación, se detalla cada solicitud, de acuerdo con lo señalado previamente:
+a) Resolución N° 67/2011 y las RCA N° 69/2015 y 13/2022
+En la Resolución N° 67/2011 1 , en el marco de los alcances del “P lan de seguimiento de variables ambientales relevantes ” 2 , se establece
+una exigencia consistente en contar con “áreas de control” que sean medidas/monitoreadas en forma paralela al bofedal Lagunillas,
+para poder distinguir variaciones naturales de aquellas otras que estuviesen relacionadas con un uso o efecto antrópico. DRAFT
+“ Adicionalmente, el plan de manejo considera el seguimiento de áreas de control, sin actividad antrópica, con el objeto de med ir y controlar
+el comportamiento en el tiempo de los componentes ambientales (vegetación azonal y espejos de agua), para generar la s herramientas
+para discriminar entre las variaciones naturales y aquellas de origen antrópico en el área de manejo de Lagunillas ” .
+Esta exigencia aparece nuevamente en 2015, durante la evaluación ambiental del EIA Proyecto Continuidad Operacional de Cerro
+Colorado (PCOCC). En particular, dentro de los alcances del Plan de Seguimiento de variables ambientales relevantes, al abordar la
+Etapa de Mantención (2024-2032) 3 , CMCC se compromete a dar seguimiento a:
+“un sistema testigo, a objeto de emular en el Sistema de Recarga Artificial (SRA) las variaciones de carácter natural observa das, que derivan
+de la variabilidad climática. De esta forma, se implementará en el Plan de Manejo de Lagunillas una herramienta qu e permite minimizar los
+riesgos de generar un manejo alejado de las variaciones ambientales naturales del sistema”.
+En el proceso del año 2015 se plantean las condiciones físicas que debe cumplir este ecosistema y tras completar un análisis
+comparando varias alternativas, CMCC propone al bofedal Jornuni – Falla Lirima, como el “candidato elegible” . Este humedal se ubica
+en la pampa de Lirima a una altitud de 4.024 msnm, sobre la coordenada UTM 511.800 E y 7.805.600 N (Figura 1.5-29 de la Adenda 3).
+1 Que modifica a las RCAs N° 22/1997 y 102/2002, que aprueban los proyectos EIA Expansión de Cerro Colorado y DIA Mejoramiento Strecht Plan,
+respectivamente.
+2 Res. N° 67/2011, Numeral 1.2, letra b, iv Plan de seguimiento de variables ambientales relevantes”, del Plan de trabajo para el manejo de las
+funciones ecosistémicas del Sistema Lacustre de Lagunillas
+3 EIA PCOCC, Adenda 3, Anexo 1.5.1. Plan de Manejo Consolidado del Bofedal Lagunillas. Junio 2015.
+2
+
+--- Página 3 ---
+La caracterización de este bofedal fue presentada en detalle en el proceso de evaluación ambiental del EIA Proyecto Continuidad
+Operacional Cerro Colorado (PCOCC) 4 , en las respuestas 1.5.6 y 6.1 de la Adenda 3.
+Posteriormente, en la Adenda 3 complementaria (Anexo 7), presentada al SEIA en septiembre de 2021, se reproduce el texto referido
+a un Área o Formación Testigo y se repite la propuesta de considerar al bofedal Jornuni-Falla Lirima como el área testigo.
+b) Sentencia del Primer Tribunal Ambiental (1TA).
+La Sentencia de este tribunal exige el cumplimiento de seis medidas específicas. La tercera de ellas conlleva la selección de un bofedal
+control, en base al cual se actualice la imagen objetivo del bofedal Lagunillas.
+43. La Medida N° 3 consiste en estudiar la evolución natural de los sistemas vegetacionales (bofedales) altoandinos en la cue nca de
+Lagunillas considerando entre otros aspectos el potencial efecto del cambio climático global y, en su mérito, como resultado del análisis,
+presentar al Servicio de Evaluación Ambiental (“SEA”), conforme al artículo 25 quinquies de la LBGMA, la actualización del Pl an de Trabajo
+Lagunillas establecido en la Resolución Exenta N°67/2011, de la COEVA, en base a la actualización de l a Imagen Objetivo del bofedal
+Lagunillas. Adicionalmente, en caso de requerirse un manejo temprano de las variables ambientales relevantes mientras se tram ite el
+procedimiento, CMCC propondrá al SEA la adopción de las medidas provisionales que fueren pertinentes y útiles para estos efectos, de
+acuerdo con el artículo 32 Ley Nº19.880 que Establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos
+de la Administración del Estado o (“LTA”).
+44. La implementación de la medida es consistente con la imagen objetivo del bofedal en términos de que se acopla y complemen ta con los
+compromisos ambientales adquiridos por CMCC en el marco de las Resolución de Calificación Ambiental N° 67/2011, N° 69/20 15 y
+N°13/2022.
+c) Global Standard para el Cierre. Bases de conocimiento para el Cierre Definitivo en Lagunillas
+Dentro de los alcances del Cierre Definitivo de Lagunillas y, alineado con el cumplimiento del Global Standard de Cierre y Legado de
+DRAFT
+BHP, se considera necesario contar con un bofedal de control o referencia para incrementar las bases de conocimiento de la relación
+entre el sistema hídrico y de biodiversidad. En este ecosistema se pretenden monitorear variables bióticas y abióticas, para poder
+comparar su evolución natural con la que muestre el bofedal Lagunillas.
+2.2 Resumen de Requerimientos sobre Bofedal de Control
+La Tabla 1 muestra las condiciones específicas que debe cumplir y/o poseer el bofedal de control según cada fuente origen que realizó
+la solicitud.
+En general, las solicitudes expuestas muestran bastante coincidencia en cuanto a los requisitos que debe cumplir este espacio natural,
+con algunas excepciones (Tabla 1). Por ejemplo, en el proceso de evaluación ambiental del EIA PCOCC se indicó que una de las
+condiciones generales para la selección del bofedal fuese su pertenencia a una cuenca aledaña a Lagunillas, mientras que el 1TA
+plantea que dicho humedal se encuentre ubicado en la misma cuenca o en una próxima.
+En relación a los objetivos de las solicitudes, estos coinciden en cuanto a que el humedal de control permitirá determinar la evolución
+natural de los ecosistemas y, conforme a ella, se podrá ajustar la gestión del bofedal Lagunillas. Sin perjuicio de lo anterior, el 1TA
+extiende esta idea comprometiendo a CMCC a que actualice la imagen objetivo del bofedal contando con información del área de
+control. Y, a partir de esta posible modificación, presente al SEA un Plan de Trabajo actualizado 5 .
+4 El EIA PCOCC fue aprobado mediante la RCA N° 69/2015 y su complementaria RCA N° 13/2022.
+5 ( Considerando 43). El 1TA incluso va más allá, pues CMCC es instruida a que proponga al SEA la adopción de las medidas provisionales que fueren
+pertinentes y útiles, formando parte de un “ manejo temprano de las variables ambientales relevantes ”; mientras se formaliza la actualización del
+Plan de Trabajo.
+3
+
+--- Página 4 ---
+Tabla 1. Objetivos y condiciones específicas.
+Origen de la
+Objetivos Condiciones específicas a cumplir
+exigencia
+Resolución N° - Registrar las variaciones naturales que se Condiciones generales:
+67/2011 y las derivan de la variabilidad climática. - Ubicada en cuencas aledañas a Lagunillas
+RCA N° 69/2015 - Para poder considerar estas variaciones en la - Sin intervención industrial.
+y 13/2022 gestión del Sistema de Recarga Artificial (SRA) y Condiciones específicas:
+del bofedal Lagunillas. - Corresponder a un sistema azonal de flujo regional.
+- Contar con aportes de aguas subterráneas y superficiales controlados por
+un sistema aluvional de arenas y gravas.
+- Ubicarse en un sector climáticamente homólogo al bofedal de Lagunillas.
+- Poseer aportes de agua de condición química similar.
+- Estar dominado por estructuras de cojines, especialmente de O. andina,
+con un aporte relativo de cobertura vegetacional entre 70 y 90%.
+- Contar con fauna silvestre asociada al bofedal, representada por Pato
+Juarjual, Guayata, Cuervo de Pantano, Pato Jergón Chico, Suri, Zorro Culpeo,
+entre otros.
+- Ser un área de forrajeo para ganado camélido y/o burros.
+Sentencia del - Estudiar la evolución natural del bofedal de
+Primer Tribunal referencia o “control”, considerando, el
+Ambiental potencial efecto del cambio climático global. El bofedal de referencia debe pertenecer a la misma cuenca o sus
+- Para actualizar la Imagen Objetivo del bofedal alrededores.
+Lagunillas.
+- Y con ello, actualizar el Plan de Trabajo
+Lagunillas establecido en la Res. N°67/2011,
+Bases de - Objetivo 2. Llenar vacíos de información
+conocimiento sobre biodiversidad, evaluar imagen-objetivo e
+para el Cierre incrementar el conocimiento de elementos
+Definitivo en sensibles del Humedal Lagunillas. No se han establecido condiciones específicas.
+Lagunillas - Determinar las condiciones futuras esperadas
+para los humedales de Lagunillas y sistemas
+DRAFT
+similares, incluido el cambio climático
+2.3 Características de la Imagen Objetivo del Bofedal Lagunillas (Condición Actual)
+Según lo indicado en el EIA PCOCC, la imagen objetivo para la recuperación del bofedal Lagunillas consiste en una formación vegetal
+con, al menos, un 70% de cobertura conformada por plantas propias del bofedal y con una composición dominada por cojines de las
+especies Oxychloe andina y Zameioscirpus atacamensis. Como antecedente adicional, la Adenda 3 (2015) presenta la distribución de
+coberturas esperada o de referencia del bofedal Lagunillas en la fase de recuperación “Climax” (Tabla 2). Cabe indicar que estos valores
+se refieren a una superficie de 8,3 ha determinada en la línea de base levantada por CMCC en 2009.
+4
+
+--- Página 5 ---
+Tabla 2. Distribución de coberturas esperada del bofedal Lagunillas.
+Fuente: EIA PCOCC. Adenda 3, Tabla 1.5-7.
+En el año 2021, dentro de la Adenda complementaria N ° 3 6 , en el denominado Plan de Manejo del Bofedal lagunillas Consolidado, se
+define la imagen objetivo del siguiente modo:
+Imagen objetivo : Como se ha indicado anteriormente, la imagen objetivo se ha definido como la meta establecida para esta etapa según la
+RE N°67/2011, es decir, alcanzar un 70% de cobertura de especies propias del bofedal al término de año 2016. Esta imagen objetivo se
+establece en función de ciertos parámetros (superficie, cobertura vegetal y composición de especies del bofedal), los que per miten niveles
+de flexibilidad en términos de otros parámetros, como la disposición de la cobertura vegetal. De esta forma, el sistema podrá adaptarse a
+DRAFT
+eventuales cambios en la forma en que se verificará la recuperación del sistema de surgencias naturales (puntos caudales del afloramiento
+de surgencias).
+Este concepto se complementa con el de “Naturalidad”, conforme a lo indicado en esta Adenda.
+Naturalidad : El concepto de naturalidad se entiende como el cumplimiento de la imagen objetivo del bofedal de Lagunillas, en cuanto ésta
+refleja lo que se estableció como imagen del bofedal antes de ser afectado, que por lo tanto se corresponde con la imagen del bofedal que
+el sistema podrá sostener al término del Plan de Manejo. De esta forma, la naturalidad equivale a la imagen objetivo que el sistema será
+capaz de sustentar una vez alcanzada la recuperación del acuífero y por tanto del funcionamiento de las surgencias naturales, bajo los
+supuestos antes mencionados.
+No obstante, en el texto de la RCA 69/2015 7 y, posteriormente, en la RCA 13/2022 8 se exigió un valor umbral del 78 % de cobertura de
+especies propias de bofedal.
+“se considera dejar establecido como exigencia de cumplimiento lo establecido en la RCA N° 69/2015, esto es que se deberá mantener
+como valor mínimo un 78% de la cobertura de especies propias del bofedal, porcentaje, que actualmente, se encuentra cumplido.
+6 Que da respuesta al ICSARA complementario n° 3. Cabe indicar que, en cumplimiento de lo resuelto por el 2° TA (Rol R-141-2017 (acumulada a
+los autos Rol R-142-201, de 8 de febrero de 2019), la Comisión de Evaluación de la Región de Tarapacá, por medio de la Resolución Exenta N° 78,
+de 1° de octubre de 2019, dispuso retrotraer el procedimiento de evaluación ambiental del Proyecto, hasta la elaboración de u n segundo ICSARA,
+en las materias indicadas en la citada Sentencia. El segundo ICSARA complementario fue emitido el 30 de octubre de 2019 por el SEA de Tarapacá y
+fue respondido por CMCC mediante la Adenda Complementaria N° 2 en enero de 2020.
+7 Numeral 11. Condiciones o exigencias para la ejecución del presente proyecto. (11.25) El titular debe asegurar que la cobertura vegetacional propia
+del bofedal será de a lo menos un 78%.
+8 RCA N° 13/2022. Numeral 16.2.5. Plan de Trabajo para el manejo de las funciones ecosistémicas del Sistema Lacustre Lagunillas .
+5
+
+--- Página 6 ---
+Asimismo, respecto de la fase de abandono del proyecto, se debe establecer que la condición natural de cobertura del bofedal no
+supere un 5% del rastrojo o mantillo, valor usualmente utilizado para este tipo de vegetación azonal.
+Por otra parte, se debe señalar, sobre la última observación del oficio antes citado, que ésta obedece principalmente a dejar constancia
+que los umbrales identificados, serán los medidos post lluvias, entre marzo a abril de cada año, esto por corresponder a la época
+de mayor expresión fotosintética producto de la mayor disponibilidad hídrica.
+En consecuencia, existe una diferencia entre la definición de imagen objetivo que se plantea en la Adenda 3 (2021), con un 70 % de
+especies propias de bofedal, y lo indicado en las RCAs N° 69/2015 y 13/2022, que elevan este porcentaje al 78%; debiendo considerarse
+como válida esta última cifra. El parámetro adicional a tener en cuenta en la imagen objetivo es la cobertura máxima de rastrojo o
+mantillo, que no debe superar el 5%. Sobre un total de 8,3 ha, estas cifras suponen 6,5 ha de especies propias de bofedal, 0,4 ha de
+rastrojo o mantillo y 1,4 ha del resto de categorías.
+En síntesis, la imagen objetivo está definida en términos de cobertura del suelo y comprende los siguientes indicadores:
+• 78% del suelo ocupado por especies propias de bofedal, predominando los cojines ( Oxicloe y Zameioscirpus ).
+• 5% de mantillo o rastrojo.
+• 17% integrado por especies ajenas al bofedal + suelo desnudo + agua y canales.
+Cabe señalar que la construcción de una imagen objetivo del bofedal Lagunillas depende de dos agentes forzantes que son (1) la
+disponibilidad de agua y (2) los cojines, pues ambos elementos disponen de la capacidad de modelar las condiciones de este espacio
+natural, influyendo en las condiciones de hábitat en otras especies. En particular, debido a que generan cambios en la riqueza y
+composición de ensambles .
+2.4 Actualización de la Imagen Objetivo del Bofedal Lagunillas
+La necesidad de contar con una imagen objetivo actualizada está expresada en la Sentencia del 1TA, como actividad previa y necesaria
+para “ actualizar el manejo a largo plazo del sistema Lagunillas ”. A su vez, el fallo hace énfasis en la consideración del cambio climático
+DRAFT
+y las variables relevantes. Este proceso consta entonces de dos etapas:
+Se estructura en función de 2 etapas, la primera referida a estudiar la evolución natural del bofedal lagunillas y del bofedal de referencia o
+“control”. Este último perteneciente a la misma cuenca o sus alrededores, cuestión primordial en la expresión territorial que la medi da
+persigue al acotarse a un ecosistema de humedal altoandino. Con lo anterior, se avanza a la etapa 2, que es ajustar la imagen objetivo,
+incorporando la variable cambio climático. Se tiene especial atención en la definición y cuantificación de las variables relevantes.
+Las variables ambientales relevantes (VAR) (Tabla 3), a las que se refiere este texto del 1TA, fueron definidas en los sucesivos Planes
+de Trabajo presentados a la autoridad desde 2011 en adelante. Comprenden siete variables que están referidas al bofedal (entre los
+que está contenida la fauna íctica y el nivel del agua subterránea) y una más respecto a la laguna, que es la superficie del espejo de
+agua.
+Además, se definieron Variables Ambientales Complementarias (VAC), entre las cuales destaca el seguimiento de la fauna acuática de
+la laguna Huantija, las cuales se resumen en la Tabla 3.
+6
+
+--- Página 7 ---
+Tabla 3. Variables ambientales relevantes y complementarias.
+DRAFT
+7
+
+--- Página 8 ---
+3 Estrategia para la Selección del Bofedal de Control
+La estrategia de selección comprende criterios y actividades a ejecutar. Además, se debe contar con la validación de la comunidad y,
+en su caso, las servidumbres que permitan el acceso al sector elegido, para ejecutar el monitoreo.
+3.1 Alternativas en la Selección del Bofedal de Control
+Preliminarmente, se ha identificado un conjunto de 12 alternativas para la selección del bofedal de Control (Figura 1 y Tabla 4). De
+ellas, seis se encuentran en la cuenca endorreica de Lagunillas y las seis restantes están localizadas en las cuencas exorreicas cercanas
+de Collacagua y Lirima. Entre estas alternativas cabe mencionar al Bofedal Jornuni-Falla Lirima, el que fue descrito por CMCC en 2015
+como el candidato elegible 9 .
+Las alternativas se han agrupado en tres categorías:
+• Bofedales ya evaluados en 2015, en el marco del EIA PCOCC (Adenda 3, pregunta 1.5.6)
+• Bofedales de los “sectores aledaños”, que cuentan con información del PSA desde 2016.
+• Alternativas adicionales ubicadas en la cuenca aledaña de Collacagua.
+Tabla 4. Alternativas preliminares para la selección de un bofedal de control
+Nombre Cuenca Predio Servidumbre Grupo Estudios Previos
+Lirima Chauhin Lirima Lirima No Evaluado en 2015 Si
+Jornuni Falla Lirima Lirima Lirima No Evaluado en 2015 Si
+Huella Rinconada Lagunillas Cancosa En trámite Sectores aledaños Si
+Guallacagua Lagunillas Cancosa En trámite Sectores aledaños Si
+Guantija Lagunillas Cancosa En trámite DRAFT Sectores aledaños Si
+Salasalani Lagunillas Cancosa En trámite Sectores aledaños Si
+Llacho Lagunillas Cancosa En trámite Sectores aledaños Si
+Coniri Lagunillas Cancosa Si Sectores aledaños Si
+Quenoa Collacagua Collacagua No Alternativa adicional No
+Collacagua 1 Collacagua Collacagua No Alternativa adicional No
+Collacagua 2 Collacagua Collacagua No Alternativa adicional No
+Collacagua 3 Collacagua Collacagua No Alternativa adicional No
+9 EIA PCOCC. Adenda N° 3 (2015) y Adenda N° 3, complementaria, Anexo 7 (2021). “ Luego de ejecutar el trabajo de selección, se propuso como Área
+Testigo al bofedal "Jornuni‐Falla Lirima", el que comparte la mayoría de las características evaluadas con el bofedal de Lagu nillas, mostrando solo una
+menor expresión de cojines que éste último. Sin embargo, las condiciones fundamentales, como tipo de acuífero, de alimentación, configuración de
+surgencias y química de aguas, lo hacen un candidato elegible .
+8
+
+--- Página 9 ---
+DRAFT
+Figura 1. Alternativas preliminares para la selección del bofedal de Control.
+9
+
+--- Página 10 ---
+3.2 Criterios de Selección
+A partir de los antecedentes disponibles, se considera, de forma preliminar, los siguientes criterios para la selección del bofedal de
+control:
+Criterios Técnicos.
+• Estar ubicado en la cuenca de Lagunillas o en una cuenca aledaña, Lirima o Collacagua.
+• Contar con aportes de aguas subterráneas y/o superficiales controlados por un sistema aluvional de arenas y gravas.
+• Contar con formaciones azonales dominada por una vegetación de cojines, especialmente de O. andina , con un aporte relativo
+de cobertura vegetacional entre 70 y 90%.
+• Contener fauna íctica nativa (e.g. Orestias ).
+• Proveer servicios ecosistémicos, y específicamente, alimento para el ganado doméstico.
+Criterios Administrativos.
+• Primera preferencia: Contar con una servidumbre existente o en trámite.
+• Segunda preferencia: Requerir nuevas servidumbres y vías ambientalmente seguras de acceso.
+Criterios Sociales.
+• Primera preferencia: Contar con un relacionamiento existente (acuerdos) que permitan la ejecución de actividades de
+monitoreo.
+• Segunda preferencia: Requerir de nuevos acuerdos con la comunidad propietaria de los terrenos.
+3.3 Actividades a Ejecutar
+La selección de un bofedal de control es una tarea que requiere del respaldo de una empresa que preste servicios ambientales, que
+DRAFT
+cuente con profesionales especializados en humedales, tanto en los aspectos de respaldo hidrogeológico como sus aspectos bióticos.
+Las actividades a ejecutar deberán estar enfocadas en la elaboración de una caracterización biótica e hidrogeológica, de carácter
+general, de las alternativas identificadas u otras que se puedan añadir. Este análisis debe verificar si se cumplen o no los criterios de
+selección del bofedal de control.
+Una vez que se hayan descartado aquellas alternativas que no cumplen los aspectos técnicos, se elegirá el bofedal de control en base
+a los criterios administrativos y sociales. Así, las actividades a ejecutar son:
+1. Contratación de una empresa con experiencia en humedales, que cuente con profesionales especializados en la evaluación
+de aspectos bióticos e hidrogeológicos de estos espacios naturales.
+2. Elaboración de informe con caracterización ambiental de alternativas. Considera trabajos de gabinete y visita de inspección a
+terreno.
+3. Análisis conjunto de criterios técnicos, administrativos y sociales. Esta tarea se ejecutará con apoyo del Área de Comunidades
+y Área Legal).
+4. Aplicación de metodología de ranking de las alternativas según los resultados de los criterios analizados.
+5. Selección de alternativa preferente, posterior a la recomendación técnica emitida por el Comité de Expertos.
+6. Información y/o validación con la comunidad propietaria de los terrenos.
+7. Elaboración de informe final de la Medida 3 (Fallo del 1TA).
+8. Difusión de la Medida 3, en el marco del cumplimiento de la Medida 6 del mismo fallo.
+9. Información al SMA de la selección del bofedal de control, en cumplimiento de lo exigido por la Res. N° 67/2011, RCA N°
+69/2015 y RCA N° 13/2022.
+10
+
+--- Página 11 ---
+En cuanto a la contratación de la empresa que tenga experiencia en bofedales, se sugiere llevar a cabo una cotización a CEDRE M,
+BIORNAT y CEA, a través de CMCC, y asignarla mediante una Sole Source a la mejor oferta general que combine aspectos técnicos y
+económicos.
+DRAFT
+11
