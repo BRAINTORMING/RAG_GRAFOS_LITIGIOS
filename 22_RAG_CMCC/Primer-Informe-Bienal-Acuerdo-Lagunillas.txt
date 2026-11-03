@@ -1,0 +1,2266 @@
+--- Página 1 ---
+Fojas 12785
+doce mil setecientos ochenta y cinco
+INFORME BIENAL
+Acuerdo de Transacción Lagunillas
+Fecha 21 de noviembre, 2025
+Para Ilustre Primer Tribunal Ambiental de Antofagasta
+De Compañía Minera Cerro Colorado Limitada (CMCC)
+Re Informe Bienal N°1 Acuerdo de Transacción Lagunillas, causa Rol D-10-2021.
+
+--- Página 2 ---
+Fojas 12786
+doce mil setecientos ochenta y seis
+Índice
+1. Resumen Ejecutivo ..................................................................................................... 5
+2. Objetivo ....................................................................................................................... 6
+3. Introducción................................................................................................................. 6
+3.1 Contexto general del Acuerdo................................................................................ 6
+3.2 Resultados esperados del Acuerdo de Lagunillas .................................................. 8
+3.3 Marco jurídico y regulatorio del Acuerdo y Relacionamiento Comunitario .............. 8
+4. Descripción Medidas del Acuerdo ............................................................................. 10
+4.1 Medida 1 (M1): Restricciones operacionales adicionales a los Estándares de la
+Medida Cautelar del IPTA de 14 de febrero de 2022 ................................................. 10
+4.2 Medida 2 (M2): Extensión de la vigencia del Comité de Expertos durante Período
+de Cierre Lagunillas 2024–2033 ................................................................................ 11
+4.3 Medida 3 (M3): Actualización de Imagen Objetivo del Plan de Trabajo para el
+Manejo de las Funciones Ecosistémicas del Sistema Lacustre de Lagunillas ............ 12
+4.4 Medida 4 (M4): Compensación por pérdida neta de carbono en bofedal Lagunillas
+.................................................................................................................................. 13
+4.5 Medida 5 (M5): Compensación de un humedal altoandino similar o equivalente al
+bofedal Lagunillas ...................................................................................................... 14
+4.6 Medida 6 (M6): Plan de divulgación Lagunillas y de las medidas del Acuerdo ..... 15
+4.7 Interacción entre las medidas del Acuerdo .......................................................... 15
+5. Estado de avance de la implementación de las Medidas del Acuerdo ....................... 16
+5.1 Medida 1 – Restricciones operacionales adicionales ........................................... 17
+5.1.1. Estado actual Medida 1 ................................................................................ 17
+5.1.2. Ejecución Medida 1 ...................................................................................... 17
+5.1.3. Verificadores ................................................................................................ 18
+5.2 Medida 2 – Comité de Expertos (2024–2033) ...................................................... 22
+5.2.1. Estado actual Medida 2 ................................................................................ 22
+5.2.2. Ejecución Medida 2 ...................................................................................... 22
+5.2.3. Verificadores ................................................................................................ 26
+5.3 Medida 3 – Actualización de Imagen Objetivo del Plan de Trabajo para el Manejo
+de las Funciones Ecosistémicas del Sistema Lacustre de Lagunillas ........................ 27
+5.3.1. Estado actual Medida 3 ................................................................................ 27
+5.3.2. Ejecución de la Medida 3 ............................................................................. 28
+5.3.3. Servicios Relacionados ................................................................................ 29
+5.3.4. Verificadores ................................................................................................ 32
+5.4 Medida 4 – Compensación por pérdida neta de carbono en bofedal Lagunillas ... 35
+2
+
+--- Página 3 ---
+Fojas 12787
+doce mil setecientos ochenta y siete
+5.4.1. Estado actual Medida 4 ................................................................................ 35
+5.4.2. Ejecución de la Medida 4 ............................................................................. 35
+5.4.3. Servicios Relacionados ................................................................................ 36
+5.4.4. Verificadores ................................................................................................ 37
+5.5 Medida 5 – Compensación de un Humedal Altoandino similar o equivalente al
+bofedal Lagunillas ...................................................................................................... 43
+5.5.1. Estado actual Medida 5 ................................................................................ 43
+5.5.2. Ejecución Medida 5 ...................................................................................... 43
+5.5.3. Servicios Relacionados ................................................................................ 44
+5.5.4. Verificadores ................................................................................................ 45
+5.6 Medida 6 – Plan de Divulgación Lagunillas y de las medidas del Acuerdo........... 48
+5.6.1. Estado actual Medida 6 ................................................................................ 48
+5.6.2. Ejecución Medida 6 ...................................................................................... 48
+5.6.3. Servicios Relacionados ................................................................................ 49
+5.6.4. Verificadores ................................................................................................ 50
+6. Principales desafíos en la implementación del Acuerdo ............................................ 51
+6.1. Intervención de terceros coadyuvantes del demandante de autos que han
+buscado impedir la ejecución exitosa del manejo del sector Lagunillas ..................... 51
+6.1.1. Intervención de terceros coadyuvantes del demandante de autos en el marco
+del juicio que terminó por medio del Acuerdo de Lagunillas ................................... 51
+6.1.2. Tramitación de cambio en punto de captación de agua para el
+funcionamiento del SRA: tramitación ante DGA y la obstaculización de Carlos
+Farhan ................................................................................................................... 53
+6.1.3. Las recientes acciones de protección del Sr. Farhan ante la Corte de
+Apelaciones de Iquique destinadas a impedir la operación del SRA ...................... 55
+6.2 Desafíos en la gestión presupuestaria ................................................................. 56
+6.3 Desafíos asociados a la implementación de las Fases 2 y 3 de la Medida 5 ....... 56
+7. Evolución de niveles del campo de pozos ................................................................. 56
+8. Gastos asociados a medidas del Acuerdo ................................................................. 60
+9. Próximos pasos y compromisos de los próximos 2 años ........................................... 63
+10. Conclusiones........................................................................................................... 65
+Anexos
+Verificadores Medida 1
+Verificadores Medida 2
+Verificadores Medida 3
+3
+
+--- Página 4 ---
+Fojas 12788
+doce mil setecientos ochenta y ocho
+Verificadores Medida 4
+Verificadores Medida 5
+Verificadores Medida 6
+Verificadores Respaldo Gastos
+4
+
+--- Página 5 ---
+Fojas 12789
+doce mil setecientos ochenta y nueve
+1. Resumen Ejecutivo
+En cumplimiento del Acuerdo de Transacción aprobado por el Ilustre Primer Tribunal
+Ambiental de Antofagasta (en adelante “IPTA”) en la causa Rol D-10-2021 (en adelante
+el “Acuerdo de Lagunillas” o el “Acuerdo”), Compañía Minera Cerro Colorado Limitada
+(en adelante “CMCC”, “Cerro Colorado” o la “Compañía”) presenta el primer Informe
+Bienal de estado de avance de implementación del Acuerdo, correspondiente al período
+comprendido entre noviembre de 2023 y noviembre 2025. Este informe sistematiza el
+estado de avance de las seis medidas comprometidas (denominadas, M1 a M6), cuyo
+objetivo central es la recuperación del acuífero Lagunillas, la protección del bofedal
+asociado y la compensación de impactos ambientales derivados de la operación histórica
+del campo de pozos de CMCC.
+Durante este período, CMCC ha logrado avances en la ejecución técnica, administrativa
+y financiera de las medidas. La Medida 1 (M1) , se encuentra ejecutada en su totalidad,
+destacando el cese definitivo del bombeo operacional, la renuncia de los derechos de
+aprovechamiento de aguas (salvo los caudales destinados al abastecimiento del Sistema
+de Recarga Artificial (SRA) en ejecución) y la publicación de la información ambiental en
+la plataforma web oficial del Acuerdo (www.acuerdoslagunillas.cl). En relación con la
+Medida 4 (M4) , se destaca la instalación de infraestructura de monitoreo de carbono, la
+estimación de pérdida de captura de carbono y el desarrollo de un plan de compensación.
+Las Medidas 2 (M2), 3 (M3), 5 (M5) y 6 (M6) se encuentran en ejecución, con hitos
+relevantes iniciados como la conformación y operación del Comité de Expertos, el
+desarrollo de estudios hidrogeológicos y ecosistémicos, la metodología de identificación
+de humedales equivalentes para compensación, y la sistematización de datos
+ambientales para divulgación científica.
+La gestión presupuestaria ha permitido comprometer recursos significativos en
+servicios especializados, con un enfoque en trazabilidad, calidad técnica y
+acreditación de verificadores . Se han ejecutado parcialmente los presupuestos de las
+Medidas 2, 3, 4 y 6, mientras que la Medida 5, con un horizonte de ejecución hasta el año
+2043, ha iniciado sus primeras fases con estudios técnicos.
+El informe también identifica los principales desafíos en la implementación del Acuerdo,
+incluyendo aspectos técnicos, jurídicos y de gobernanza, y propone próximos pasos para
+los siguientes dos años, orientados a consolidar la ejecución de las medidas establecidas
+en el Acuerdo.
+En conjunto, las acciones implementadas contribuyen de manera coherente y tangible al
+manejo ambiental de largo plazo que CMCC debe emplear conforme a sus autorizaciones
+ambientales, en actual desarrollo, y sujeto a la fiscalización de la SMA (Resoluciones
+Exentas Nº67/2011, RCA Nº69/2015 y RCA Nº13/2022).
+5
+
+--- Página 6 ---
+Fojas 12790
+doce mil setecientos noventa
+2. Objetivo
+El presente documento constituye el primer informe bienal de seguimiento de la
+implementación del Acuerdo de Transacción de Lagunillas , aprobado por el IPTA
+mediante resolución de fecha 21 de noviembre de 2023, en el contexto de la causa Rol
+D-10-2021.
+Este informe se enmarca en el deber de reportabilidad consignado en el numeral 45 del
+Acuerdo, que establece la obligación de CMCC de entregar cada dos años al IPTA un
+reporte sistematizado y resumido sobre el estado de avance de implementación de las
+Medidas del Acuerdo.
+Los objetivos del presente informe son:
+• Informar al IPTA sobre el estado de avance de implementación de las
+medidas comprometidas , detallando avances, logros, desafíos y ajustes en su
+ejecución.
+• Sistematizar el estado de avance técnico, financiero y regulatorio de cada
+medida, conforme a los verificadores definidos en el Acuerdo de Lagunillas.
+• Identificar desafíos y ajustes en la ejecución del acuerdo , proponiendo
+recomendaciones accionables para fortalecer la trazabilidad, fiscalización,
+ejecución y gobernanza del Acuerdo.
+• Contribuir a la trazabilidad judicial y ambiental del Acuerdo como equivalente
+jurisdiccional, conforme al artículo 44 de la Ley N°20.600.
+• Facilitar el ejercicio de los buenos oficios del IPTA , conforme a lo previsto en
+el Acuerdo, para asegurar su correcta implementación.
+Este informe se estructura en secciones que abordan la descripción de medidas, estado
+de implementación, próximos hitos y conclusiones, en línea con los principios de
+transparencia y rendición de cuentas establecidos en el Acuerdo de Lagunillas.
+3. Introducción
+3.1 Contexto general del Acuerdo
+El presente documento tiene por objeto informar, sistematizar y dejar registro de las
+actividades ejecutadas entre noviembre de 2023 y noviembre de 2025, detallando el nivel
+de avance en la implementación de las medidas, los principales logros y los desafíos o
+ajustes en la ejecución del Acuerdo de Transacción suscrito entre el Sr. Luis Eliecer
+Jara Alarcón, y CMCC, en el marco de la causa Rol D-10-2021, seguida ante el IPTA.
+El Acuerdo fue aprobado por el IPTA mediante resolución de fecha 21 de noviembre de
+2023 , conforme al artículo 44 de la Ley N°20.600, adquiriendo el carácter de sentencia
+6
+
+--- Página 7 ---
+Fojas 12791
+doce mil setecientos noventa y uno
+firme y ejecutoriada para todos los efectos legales. En consecuencia, el Acuerdo
+constituye un equivalente jurisdiccional que puso término a la controversia entre el
+demandante y CMCC respecto de los efectos derivados de la operación del campo de
+pozos de CMCC en el área de Lagunillas.
+El objeto del Acuerdo de Lagunillas es constituir un conjunto de medidas coherentes
+con el manejo ya existente y en curso del sector Lagunillas (anterior a la demanda), para
+abordar lo que las partes denominaron como el “Problema Central” . Este problema
+central es aquel evidenciado al momento de dictar la Resolución N°67/2011 que llevó a
+la revisión de la RCA de CMCC, consistente en el descenso de los niveles del acuífero
+Lagunillas como consecuencia de la operación histórica del campo de pozos, lo que
+habría generado un retraso en la recuperación del acuífero y una afectación al
+Bofedal Lagunillas . Las medidas establecidas en el Acuerdo fueron concebidas como
+acciones correctivas adicionales a aquellas ya establecidas en las resoluciones
+ambientales vigentes de CMCC para el manejo del ecosistema Lagunillas (Resolución
+Exenta Nº67/2011, RCA Nº69/2015 y RCA Nº13/2022) o las que las reemplacen,
+modifiquen o sucedan en el futuro, que no forman parte del Acuerdo y que están sujetas
+a la fiscalización de la Superintendencia del Medio Ambiente (“SMA”).
+En este contexto, el Acuerdo de Lagunillas viene a complementar la estrategia para
+hacerse cargo de este Problema Central, estableciendo la ejecución de seis medidas
+(M1 a M6), alineadas y que operan de forma adicional y coherente con el plan de manejo
+que CMCC ya ejecutaba en el bofedal de Lagunillas.
+Las seis Medidas del Acuerdo (M1 a M6) están orientadas a los siguientes objetivos
+específicos:
+• Restringir la operación del campo de pozos de Lagunillas en su tiempo de vida útil
+remanente.
+• Acotar la incertidumbre respecto de los tiempos de recuperación de los niveles del
+acuífero Lagunillas.
+• Actualizar el manejo de largo plazo del sistema Lagunillas.
+• Compensar los flujos de carbono que hubieran sido generados y/o no captados
+en el bofedal de Lagunillas.
+• Compensar los efectos materia del juicio en un ecosistema equivalente.
+• Difusión de conocimiento científico en base a la experiencia de Lagunillas y la
+implementación de las medidas del Acuerdo.
+7
+
+--- Página 8 ---
+Fojas 12792
+doce mil setecientos noventa y dos
+3.2 Resultados esperados del Acuerdo de Lagunillas
+Como resultado del desarrollo de las Medidas (M1 a M6) del Acuerdo, en conjunto y de
+forma integrada con el Plan de Trabajo Lagunillas en desarrollo desde el año 2006 y con
+vocación de largo plazo hasta el año 2078, buscan generar como beneficio ambiental:
+• Minimizar el impacto del bombeo histórico desde el campo de pozos.
+• Mejorar el manejo de incertidumbres propias de las proyecciones de recuperación
+del acuífero en los términos ordenados por el Ilustre Segundo Tribunal Ambiental
+(“ISTA”) y la Excelentísima Corte Suprema 1 .
+• Revisar y en su caso actualizar el marco normativo del Plan de Trabajo Lagunillas.
+• Compensar las emisiones de gases de efecto invernadero que pudieron haberse
+captado, considerando al sector Lagunillas tanto como fuente emisora de estos
+gases como sumidero de estos.
+• Compensar el área históricamente impactada de Lagunillas en un ecosistema tipo
+bofedal altoandino equivalente a Lagunillas, en superficie que permite considerar
+el área de manejo del Plan de Trabajo Lagunillas como una ganancia ambiental
+neta.
+• Contribuir a la generación y difusión del conocimiento científico, y educación
+ambiental en base a un manejo ininterrumpido y con vocación de largo plazo de
+un ecosistema tipo humedal altoandino, experiencia que puede ser replicada en
+otros manejos similares.
+3.3 Marco jurídico y regulatorio del Acuerdo y Relacionamiento
+Comunitario
+En este apartado se hace una breve referencia al marco normativo y regulatorio que
+resulta aplicable al Acuerdo de Lagunillas. En el plano de la regulación nacional, destaca
+el artículo 44 de la Ley N° 20.600 que crea los Tribunales Ambientales, el cual establece
+el principio de indemnidad en materia de transacciones ambientales; y la Ley N°19.300
+de Bases Generales del Medio Ambiente y su reglamento (D.S. N°40/2012).
+Asimismo, cabe mencionar las Resoluciones de Calificación Ambiental vigentes
+(Resolución N°67/2011, RCA N°69/2015 y RCA N°13/2022), que constituyen el marco
+técnico que debe armonizarse con las medidas del Acuerdo.
+Este marco normativo garantiza que el Acuerdo, en tanto equivalente jurisdiccional, no
+solo haya puesto término definitivo a la controversia judicial que le dio origen, sino que
+contribuya efectivamente a la recuperación del ecosistema Lagunillas.
+1 ISTA, sentencia de 8 de febrero de 2019 en causa Rol R-141-2017. CS, sentencia de 13 de enero
+de 2021 en causa Rol N°8573-2019.
+8
+
+--- Página 9 ---
+Fojas 12793
+doce mil setecientos noventa y tres
+Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema
+Lacustre Lagunillas
+También conocido como el “Plan de Manejo de Lagunillas”, es un instrumento técnico-
+ambiental vigente desde 2006, que hoy se encuentra actualizado, y es regulado por las
+Resoluciones de Calificación Ambiental (RCA N°67/2011, RCA N°69/2015 y RCA
+N°13/2022). Su objetivo es conservar y restaurar las funciones ecosistémicas del bofedal
+Lagunillas mediante monitoreo continuo, control de niveles freáticos y manejo adaptativo.
+Este plan constituye el marco operativo sobre el cual se articulan las medidas del Acuerdo
+de Transacción, y cualquier modificación sustantiva debe ser evaluada por el Servicio de
+Evaluación Ambiental conforme al artículo 25 quinquies de la Ley N°19.300.
+Sistema de Recarga Artificial (SRA)
+El SRA es una infraestructura diseñada para acelerar la recuperación del acuífero
+Lagunillas mediante la reinyección de agua en el sistema lacustre. Tras el cese del
+bombeo operacional en enero de 2024, el uso de agua subterránea quedó restringido
+exclusivamente al funcionamiento del SRA, con un caudal máximo de 25 L/s, en
+cumplimiento de la normativa ambiental y del Acuerdo de Transacción.
+Comité de Expertos
+El Comité de Expertos fue creado como obligación ambiental en la RCA N°13/2022 y su
+vigencia, en virtud de lo establecido en el Acuerdo de Lagunillas, se extenderá hasta el
+2033. Su función es revisar modelos hidrogeológicos, evaluar incertidumbres y proponer
+ajustes técnicos para garantizar la recuperación del acuífero Lagunillas.
+Relacionamiento con Comunidad Indígena Aymara de Cancosa
+CMCC ha mantenido una relación formal con la Comunidad Indígena Aymara de Cancosa
+(en adelante, la “Comunidad” o “CIAC”) desde la década de los 90’, en virtud de la
+existencia de infraestructura operacional en el sector de Lagunillas.
+Según se ha expuesto en este informe, CMCC debe cumplir con diversas obligaciones
+ambientales vigentes que emanan de RCA en dicho sector y que justifican la presencia
+de CMCC, a través de empresas colaboradoras, en cuanto al desarrollo de distintas
+tareas técnico-ambientales periódicas. Lo anterior, en el marco de planes de manejo y
+monitoreo del nivel freático, cobertura acojinada y variables ambientales
+complementarias del bofedal existente.
+Como consecuencia de lo anterior, CMCC y la Comunidad han acordado instancias de
+diálogo para avanzar en conjunto respecto de este objetivo ambiental. A la fecha, las
+partes han puesto en marcha la instancia de gobernanza denominada “Mesa Técnico
+Ambiental”, con la participación de los dirigentes de la organización indígena, asesoría
+técnica independiente de su que apoya a la Comunidad y representantes de las áreas
+internas de CMCC vinculantes al monitoreo de variables ambientales del acuífero. Dicha
+gobernanza, de carácter bimensual, permite canalizar preocupaciones y arribar en
+9
+
+--- Página 10 ---
+Fojas 12794
+doce mil setecientos noventa y cuatro
+acuerdos de participación en las planificaciones de carácter ambiental, de cualquier
+naturaleza, ya sea emanadas de una RCA, como resultado de iniciativas voluntarias o
+provenientes de obligaciones mandatadas por Tribunales de Justicia.
+Complementariamente, las partes han avanzado en acuerdos relativos a instrumentos de
+participación y diálogo que habilitan los siguientes beneficios: a) formalizar y regular la
+participación indígena en tareas de cumplimiento ambiental de CMCC; b) regular la
+interacción de empresas colaboradoras en el territorio; y c) canalizar la información entre
+las partes de manera ágil y eficaz.
+4. Descripción Medidas del Acuerdo
+4.1 Medida 1 (M1): Restricciones operacionales adicionales a los
+Estándares de la Medida Cautelar del IPTA de 14 de febrero de 2022
+La Medida 1 (M1) , tiene como objeto y fin reducir el bombeo de caudales para fines
+operacionales a valores más exigentes que el caudal más estricto fijado en la medida
+cautelar dictada por el IPTA el 14 de febrero de 2022 (54 L/s), minimizando así el impacto
+en la fuente de la actividad generadora del mismo (operación del campo de pozos).
+Esta medida se clasifica dentro del acuerdo como una medida de mitigación destinada a
+la recuperación del acuífero, en este mismo sentido, su finalidad se centra en reducir el
+bombeo de aguas subterráneas hasta cese total (salvo 25 L/s promedio mensual para el
+funcionamiento del SRA).
+Lo anterior, se traduce en la implementación de restricciones adicionales a los caudales
+extraídos con fines operaciones desde el acuífero de Lagunillas, en los siguientes
+términos:
+• A partir de octubre del 2023, CMCC extraerá un caudal promedio mensual máximo
+de 45 L/s con fines operacionales, más el caudal promedio mensual de 25 L/s
+destinado al funcionamiento del SRA. Este caudal es más estricto que el más
+restrictivo de la medida cautelar del 2022.
+• A partir del 1 de noviembre de 2023 hasta el 31 de diciembre de 2023, CMCC
+extraerá un caudal promedio mensual máximo de 31 L/s, como promedio mensual,
+con fines operacionales, más el caudal destinado al funcionamiento del SRA.
+• A contar del 1° de enero de 2024, CMCC cesará el bombeo de los pozos de
+Lagunillas para fines operacionales, manteniendo únicamente un bombeo de
+hasta 25 L/s, promedio mensual, para fines del SRA en ejecución.
+• Enviar una carta de invitación a la Dirección General de Aguas (DGA) para
+conformar una Mesa de Trabajo para implementar la renuncia de los derechos de
+aprovechamiento de aguas de CMCC en la Cuenca de Lagunillas ordenada por la
+RCA N°13/2022, salvo los caudales destinados al SRA en ejecución.
+10
+
+--- Página 11 ---
+Fojas 12795
+doce mil setecientos noventa y cinco
+• Dentro del primer semestre del 2024, CMCC habilitará un repositorio con la
+información de la evolución del acuífero al término del bombeo operacional en
+diciembre 2023.
+Para lo anterior, se dispuso la ejecución de la medida desde que la resolución del IPTA
+por medio de la cual se aprobó el Acuerdo se encontrase firme y ejecutoriada.
+En este sentido, la Medida 1 (M1), al añadir restricciones adicionales al caudal extraído
+para fines operacionales a partir de la aprobación del Acuerdo, permite minimizar el
+impacto en la fuente de la actividad generadora del mismo (operación del campo de
+pozos). La implementación de esta medida permite mejorar el manejo de incertidumbres
+propias de las proyecciones de recuperación del sistema Lagunillas, analizadas y
+estudiadas como parte del alcance de la Medida 3 (M3), que busca estudiar la evolución
+natural de los sistemas vegetacionales (bofedales) altoandinos en la cuenca de Lagunillas
+considerando entre otros aspectos el potencial efecto del cambio climático global, lo que
+permite redefinir metas ecosistémicas alcanzables y sostenibles, y actualizar
+técnicamente el Plan de Manejo de Lagunillas.
+4.2 Medida 2 (M2): Extensión de la vigencia del Comité de Expertos
+durante Período de Cierre Lagunillas 2024–2033
+La Medida 2 (M2) , se encuentra dentro de las medidas destinadas a la recuperación del
+acuífero de Lagunillas y tiene como objetivo la extensión de la vigencia de la figura del
+Comité de Expertos (originalmente previsto hasta diciembre de 2023) hasta la
+recuperación del primer nivel, validando así la proyección de recuperación más inmediata
+de la RCA N° 13/2022.
+Así, la citada extensión temporal del Comité de Expertos viene a completar lo dispuesto
+en la RCA N° 13/2022 al extender la vigencia del Comité de Expertos por 10 años
+adicionales respecto de lo establecido en la mencionada autorización ambiental,
+generando una ganancia ambiental al minimizar la incertidumbre en el proceso de
+recuperación de los niveles ordenados por el ISTA y la Excma. Corte Suprema.
+Para lo anterior, el Acuerdo dispone las siguientes labores para el Comité de Expertos:
+• Revisar las actualizaciones comprometidas de la herramienta predictiva y sus
+proyecciones (modelo hidrogeológico), verificando los plazos de recuperación de
+niveles.
+• Identificar aquellos aspectos que generan mayor incertidumbre en los pronósticos
+y evaluar la posibilidad de reducir esa incertidumbre.
+• Evaluar la pertinencia de desarrollar sensibilizaciones o análisis de incertidumbre,
+y definir la configuración de estos análisis.
+• Evaluar la necesidad de implementar medidas adicionales para lograr los plazos
+de recuperación de niveles comprometidos.
+11
+
+--- Página 12 ---
+Fojas 12796
+doce mil setecientos noventa y seis
+• Velar por la incorporación de los efectos del Cambio Climático de manera
+actualizada (el estado del arte), en la predicción de la recuperación de niveles del
+acuífero.
+• Revisar los informes anuales del Plan de Trabajo Lagunillas, proponiendo ajustes
+o mejoras a sus alcances y metodologías.
+• En cuanto a la Medida 3 (M3) el Comité se encargará de emitir recomendaciones
+técnicas a los procesos de selección del bofedal de control y a los estudios de
+gabinete realizados.
+• En cuanto a la Medida 5 (M5) el Comité se encargará de emitir recomendaciones
+técnicas en el proceso de selección del humedal altoandino y revisar los alcances
+de los estudios ambientales propuestos a desarrollar en el humedal seleccionado.
+Finalmente, deberá habilitar un repositorio que contenga la información que dé cuenta de
+los informes de revisión y/o recomendaciones del Comité de Expertos. Dicha difusión, se
+realizará a través de los medios de comunicación efectivos en el marco de la Medida 6
+(M6).
+Como se observa, el Comité de Expertos provee soporte técnico transversal, facilitando
+la toma de decisiones que forman parte de la implementación de las Medidas M3 (M3) y
+M5 (M5), asegurando coherencia científica en su implementación y en su divulgación,
+según lo dispuesto en la Medida 6 (M6).
+El plazo estimado de la Medida 2 (M2) es de 10 años de recuperación de los niveles
+(entre los años 2024 y 2033).
+4.3 Medida 3 (M3): Actualización de Imagen Objetivo del Plan de
+Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema
+Lacustre de Lagunillas
+La Medida 3 (M3) se clasifica dentro de aquellas destinadas a la recuperación del bofedal
+Lagunillas y, tal como su nombre lo señala, tiene por finalidad estudiar la evolución natural
+de los sistemas vegetacionales (bofedales) altoandinos en la cuenca de Lagunillas
+considerando, entre otros aspectos, el potencial efecto del cambio climático global y, en
+su mérito, como resultado del análisis, presentar al Servicio de Evaluación Ambiental
+(“SEA”), conforme al artículo 25 quinquies de la Ley 19.300 de Bases Generales del Medio
+Ambiente (“LBGMA”), la actualización de la Imagen Objetivo del bofedal Lagunillas
+establecido en la Resolución Exenta N°67/2011, de la COEVA.
+Su alcance se centra en dos etapas:
+• Etapa 1: Estudiar la evolución natural del bofedal Lagunillas y del bofedal de
+control en la misma cuenca o sus alrededores. Para este estudio, se seleccionará
+el bofedal Lagunillas y uno o más bofedales de comparación de acuerdo con las
+variables forzantes a estudiar definidas en el Acuerdo.
+12
+
+--- Página 13 ---
+Fojas 12797
+doce mil setecientos noventa y siete
+• Etapa 2: Ajustar la Imagen Objetivo y actualizar el Plan de Trabajo de Lagunillas
+que se encuentra vigente, conforme a lo dispuesto en el artículo 25 quinquies de
+la LBGMA.
+El Acuerdo ha dispuesto para su ejecución un plazo estimado de 36 meses desde que la
+resolución del IPTA que apruebe el Acuerdo se encuentre certificada como firme y
+ejecutoriada.
+4.4 Medida 4 (M4): Compensación por pérdida neta de carbono en
+bofedal Lagunillas
+La Medida 4 (M4) es una medida contemplada en el Acuerdo para la compensación de
+componentes ambientales y servicios ecosistémicos del sector Lagunillas y tiene por
+objeto complementar el Plan de Trabajo Lagunillas, como vehículo que permita
+compensar como ganancia ambiental las emisiones de gases de efecto invernadero
+(“GEI”), tanto potencialmente generadas como aquellas no absorbidas por el bofedal
+Lagunillas, entre los años 1998 y 2020.
+Para lo anterior, el alcance de esta Medida 4 (M4) comprende las siguientes acciones:
+• Estimar las emisiones de carbono y/o la capacidad de captura de carbono en la
+biomasa total original de la vegetación que conformaba el bofedal de Lagunillas.
+• Cuantificar las emisiones y/o la pérdida o ganancia en la capacidad de captura de
+carbono, que se genera ante la disminución o aumento del tamaño del bofedal;
+así como el cambio, en dicha capacidad, producto de los efectos del cambio
+climático.
+• Aplicar esta cuantificación en el cambio que se produjo entre los años 1998 y 2020
+en el bofedal de Lagunillas.
+• Identificar y seleccionar uno o más mecanismos de compensación conforme a los
+criterios rectores. Se considerará como primera fuente de compensación la
+absorción de carbono que pudiese generarse a partir de actividades asociadas a
+la Medida 5 (M5).
+• Robustecer el conocimiento de la productividad actual de la vegetación presente
+en bofedales altoandinos, mediante la instalación de equipamiento (Torre Eddy
+Covariance) que permita registrar dicha información en el bofedal de Lagunillas.
+Como se verá más adelante, la Medida 4 (M4) y la Medida 5 (M5) están orientadas a
+robustecer el Plan de Trabajo Lagunillas y son complementarias, ya que la primera
+permite compensar como ganancia ambiental las emisiones de gases de efecto
+invernadero, tanto potencialmente generadas como aquellas no absorbidas por el bofedal
+Lagunillas, entre los años 1998 y 2020, considerando como primera fuente de
+compensación de emisiones la absorción de carbono que pudiese generarse a partir de
+13
+
+--- Página 14 ---
+Fojas 12798
+doce mil setecientos noventa y ocho
+actividades asociadas a la Medida 5 (M5) , mediante la conservación y puesta en valor de
+un humedal altoandino que presente características similares o equivalentes al bofedal
+Lagunillas, preferentemente localizados en la Región de Tarapacá.
+El plazo estimado para la ejecución de esta Medida es de 24 meses contados desde que
+la resolución del IPTA que apruebe el Acuerdo se encuentre firme y ejecutoriada.
+4.5 Medida 5 (M5): Compensación de un humedal altoandino similar o
+equivalente al bofedal Lagunillas
+La Medida 5 (M5) , se clasifica, al igual que la Medida 4, como una de aquellas destinadas
+a la compensación de componentes ambientales y servicios ecosistémicos del sector
+Lagunillas y tiene por objeto contribuir a la conservación y puesta en valor de un humedal
+altoandino que presente características similares o equivalentes al bofedal Lagunillas,
+preferentemente localizados en la Región de Tarapacá.
+Esta Medida, se justifica por ser una ganancia ambiental en la mejora de un ecosistema
+adicional y equivalente al bofedal Lagunillas, generando un valor ambiental agregado al
+manejo del Sistema Lagunillas referido en la Medida 3 (M3).
+El alcance y ejecución de esta Medida fue establecida en las siguientes 6 fases:
+• Fase 1: Definición de metodología y gobernanza para la selección del humedal
+para fines de conservación.
+• Fase 2: Identificación y evaluación de humedales preseleccionados.
+• Fase 3: Selección de humedal.
+• Fase 4: Definición de Plan de conservación para el sitio seleccionado.
+• Fase 5: Ejecución de las acciones de conservación y seguimiento.
+• Fase 6: Integración del conocimiento adquirido en la recuperación del bofedal de
+Lagunillas con la conservación de un bofedal equivalente para la mejora continua.
+Al igual que las medidas anteriores, se espera la difusión de los resultados obtenidos en
+la ejecución de esta medida según el alcance de la Medida 6 (M6).
+Los plazos estimados para la puesta en marcha de las fases descritas anteriormente son
+los siguientes:
+• Fase 1: 6 meses.
+• Fase 2: 24 meses.
+• Fase 3: 6 meses.
+• Fase 4: 20 meses.
+• Fase 5: 15 años.
+• Fase 6: 15 años (paralelo a fase 5).
+14
+
+--- Página 15 ---
+Fojas 12799
+doce mil setecientos noventa y nueve
+4.6 Medida 6 (M6): Plan de divulgación Lagunillas y de las medidas del
+Acuerdo
+La Medida 6 (M6) , es clasificada por el Acuerdo como una medida asociada a la
+divulgación del conocimiento científico y educación ambiental de las acciones de mejora
+en el sector de Lagunillas. Esta medida tiene por objeto y fin aportar al conocimiento
+científico y educación ambiental, respecto de la experiencia acumulada del Plan de
+Trabajo Lagunillas y de las Medidas del Acuerdo.
+Para estos efectos, la Medida 6 (M6) se focaliza en la puesta en valor del trabajo de
+restauración realizado en sector Lagunillas, además de difundir el conocimiento científico
+generado por el Plan Lagunillas y las medidas del Acuerdo (M1, M3, M4 y M5).
+Dentro del alcance de la Medida 6 (M6), podemos identificar las siguientes acciones:
+• Revisión histórica del plan de manejo por un panel experto y multidisciplinario,
+incluyendo información sobre su estado actual y su evolución en el tiempo.
+• Elaboración de una estrategia de difusión científica, que permita dar a conocer los
+resultados y avances en la investigación relacionada con la data histórica del
+monitoreo del bofedal Lagunillas.
+• Identificación de revistas científicas indexadas en la Web of Science, libros
+especializados, congresos y eventos especializados para la publicación y difusión
+de los resultados.
+El plazo estimado para su ejecución es de 36 meses contados desde que la resolución
+del IPTA por medio de la cual apruebe el Acuerdo se encuentre firme y ejecutoriada.
+4.7 Interacción entre las medidas del Acuerdo
+En conclusión, las 6 medidas descritas, conforman un enfoque sinérgico que aborda el
+objetivo del Acuerdo, según se observa del siguiente diagrama de flujo (ver Figura 4.1) y
+que se relacionan también en el tiempo de ejecución de cada una de ellas (ver Figura
+4.2).
+15
+
+--- Página 16 ---
+Fojas 12800
+doce mil ochocientos
+Figura 4.1: Diagrama de flujo de interacciones entre medidas del Acuerdo de Transacción.
+Fuente: Elaboración propia.
+Figura 4.2: Línea de tiempo de la implementación de las medidas del Acuerdo de Lagunillas
+(hasta el año 2034). Fuente: Elaboración propia.
+5. Estado de avance de la implementación de las Medidas del
+Acuerdo
+Se presenta a continuación el estado de avance de la implementación por Medida (M1 a
+M6).
+16
+
+--- Página 17 ---
+Fojas 12801
+doce mil ochocientos uno
+5.1 Medida 1 – Restricciones operacionales adicionales
+5.1.1. Estado actual Medida 1
+Estatus general Ejecutada
+Monto Gastado No aplica
+Verificadores
+1.a. Reportes mensuales a DGA. Ejecutado
+1.b. Registro gráfico del cese de bombeo. Ejecutado
+1.c. Carta a DGA para conformar mesa de trabajo sobre derechos de
+Ejecutado
+agua.
+1.d. Actos jurídicos de renuncia de derechos de agua. Ejecutado
+1.e. Certificado de publicación web con gráficos de niveles de pozos. Ejecutado
+5.1.2. Ejecución Medida 1
+La Medida 1 del Acuerdo de Transacción estableció restricciones adicionales al bombeo
+de agua subterránea en el sector Lagunillas, con el objetivo de reducir los efectos de las
+extracciones sobre el acuífero y avanzar en su recuperación. Para cumplir con esta
+exigencia, CMCC implementó una reducción progresiva de caudales operacionales,
+pasando de los límites fijados en la medida cautelar dispuesta por el IPTA el 14 de febrero
+de 2022 (54 L/s) a valores más estrictos: menos de 45 L/s en octubre de 2023 y 31 L/s
+en noviembre del mismo año, hasta alcanzar el cese total del bombeo con fines
+operacionales en enero de 2024. Desde esta fecha, la extracción se limitó exclusivamente
+al funcionamiento del Sistema de Recarga Artificial (SRA), con un máximo de 25 L/s
+conforme a la RCA N°13/2022, minimizando así los efectos en la fuente de la actividad
+generadora (operación del campo de pozos).
+La acreditación de esta medida se reforzó con acciones complementarias, como el
+desmantelamiento físico del pozo P-1 en octubre de 2024 y la renuncia formal a 125 L/s
+de derechos de aprovechamiento de aguas en marzo del mismo año, quedando vigente
+solo el caudal necesario para el funcionamiento del SRA. Además, se promovió la
+coordinación institucional mediante la invitación a la DGA para constituir una Mesa de
+Trabajo sobre el destino de los derechos de agua, asegurando trazabilidad y
+transparencia en la gestión.
+Finalmente, CMCC garantizó la difusión pública del proceso y sus resultados mediante la
+publicación del sitio web oficial www.acuerdoslagunillas.cl en junio de 2024, que incluye
+información sobre la evolución del acuífero y la implementación de las medidas. Estas
+acciones, junto con los reportes mensuales enviados a la DGA y los registros gráficos del
+cese de bombeo, acreditan la ejecución integral de los verificadores asociados a la
+Medida 1 (M1).
+17
+
+--- Página 18 ---
+Fojas 12802
+doce mil ochocientos dos
+5.1.3. Verificadores
+1.a. Reportes mensuales a la DGA.
+Desde diciembre de 2022, CMCC ha remitido de manera continua y sistemática los
+reportes mensuales a la Dirección General de Aguas (“DGA”). Estos informes incluyen
+los registros de caudales de bombeo y los niveles freáticos de los pozos de observación
+LA-02, LA-03, LA-04 y LA-05, ubicados en el sector Lagunillas. La información ha sido
+enviada conforme a los formatos técnicos establecidos por la autoridad. En particular, y
+para efectos de la Medida M1 (M1), en Anexo Verificadores Medida 1.a. se adjuntan las
+minutas correspondientes a los meses de octubre, noviembre y diciembre 2023, las
+cuales permiten verificar la reducción progresiva de caudales operacionales
+implementada. Estos reportes permiten demostrar la ejecución del verificador 1.a.
+1.b. Registro gráfico que dé cuenta cese de bombeo desde los pozos de Lagunillas.
+De acuerdo con lo especificado por el verificador 1.b. del Acuerdo de Transacción, se ha
+elaborado un registro gráfico que evidencia el cese de bombeo con fines operacionales
+desde los pozos de extracción en Lagunillas. Dicho registro es elaborado con la
+información de extracción total desde los pozos que es reportada vía telemétrica a la
+plataforma de la DGA (Monitoreo de Extracciones Efectivas – MEE).
+Figura 5.1: Gráfico del registro de bombeo mensual de los pozos PR, P-1 y P-3 entre febrero
+2022 y septiembre del 2025. Fuente: Elaboración propia.
+De la Figura 5.1 es posible observar lo siguiente:
+• Octubre 2023: CMCC redujo el caudal promedio mensual para fines operacionales
+a menos de 45 L/s desde pozo P-1, manteniéndose el caudal destinado al Sistema
+18
+
+--- Página 19 ---
+Fojas 12803
+doce mil ochocientos tres
+de Recarga Artificial (SRA), que se mantuvo en torno a 25 L/s desde pozo P-3 y
+PR, conforme a la RCA N°13/2022.
+• Noviembre–Diciembre 2023: El caudal promedio mensual para fines
+operacionales se redujo aún más, alcanzando un máximo menor a 31 L/s desde
+pozo P-1, además del caudal del SRA desde pozo P-3 y PR.
+• Desde enero 2024: Se produjo el cese total del bombeo con fines operacionales
+desde los pozos de Lagunillas, manteniéndose únicamente el bombeo para el
+SRA, con un promedio mensual de hasta 25 L/s, conforme a la RCA N°13/2022.
+• Febrero 2024: El pozo PR, exclusivo para alimentar el SRA, detuvo su uso. Cabe
+señalar que se registró una prueba de bombeo notificada en MEE entre el 27 de
+marzo y el 30 de abril de 2024.
+Adicionalmente, se informa que en octubre de 2024 se ejecutó el desmantelamiento de
+la infraestructura del pozo P-1, lo que constituye evidencia directa del cese de bombeo
+operacional desde dicho pozo. Complementariamente, las Figuras 5.2 y 5.3 muestran
+fotografías del proceso de desmantelamiento físico del pozo P-1.
+Figura 5.2: Fotografía del proceso de desmantelamiento del pozo P-1 en octubre del 2024.
+Fuente: Elaboración propia.
+19
+
+--- Página 20 ---
+Fojas 12804
+doce mil ochocientos cuatro
+Figura 5.3: Fotografías después del proceso de desmantelamiento del pozo P-1.
+Fuente: Elaboración propia.
+Con respecto al pozo P-3, la planilla de registros de extracción mensual de dicho pozo
+(Anexo Verificadores Medida 1.b.) da cuenta de que, desde enero de 2024 en adelante,
+toda la extracción realizada ha sido destinada exclusivamente al sustento del Sistema de
+Recarga Artificial, sin fines operacionales.
+En conjunto, estas evidencias permiten demostrar la ejecución del verificador 1.b.,
+demostrando que desde enero de 2024 no se ha realizado bombeo con fines
+operacionales desde los pozos de extracción en Lagunillas, y que el uso de agua
+subterránea se ha restringido exclusivamente al funcionamiento del SRA, en línea con los
+compromisos asumidos por CMCC en sus autorizaciones ambientales.
+1.c. Carta de invitación a la DGA para efectos de constituir la Mesa de Trabajo para el
+destino de los derechos de aprovechamiento de aguas
+Durante el mes de enero de 2024, CMCC envió formalmente una carta a la Dirección
+General de Aguas, invitándola a constituir una Mesa de Trabajo para definir el destino de
+los derechos de aprovechamiento de aguas en el sector Lagunillas. Esta acción responde
+directamente a demostrar la ejecución del verificador 1.c. del Acuerdo de Transacción.
+20
+
+--- Página 21 ---
+Fojas 12805
+doce mil ochocientos cinco
+La carta fue enviada y registrada en la misma fecha, constituyendo un paso en el proceso
+de coordinación institucional para la gestión de los derechos de agua de CMCC, en el
+contexto del cese de bombeo operacional. La conformación de esta instancia tuvo como
+propósito facilitar el diálogo técnico y jurídico entre CMCC y la autoridad competente, a
+través de dos reuniones sostenidas durante el mes de marzo del 2024, las cuales
+permitieron avanzar en la definición de medidas complementarias que aseguren la
+trazabilidad y sustentabilidad del proceso de recuperación del acuífero. (ver Anexo
+Verificadores Medida 1.c)
+1.d. Copias autorizadas de los actos jurídicos que den cuenta de la Renuncia a derechos de
+aprovechamiento de aguas
+En complemento a la renuncia efectuada por CMCC en el mes de enero de 2023 al
+ejercicio de 150 L/s de los derechos de aprovechamiento de agua en conformidad con lo
+exigido por la RCA Nº13/2022, el 22 de marzo de 2024, CMCC renunció formalmente a
+125 L/s de derechos de aprovechamiento de aguas, conforme a lo establecido en la
+Medida 1 (M1) del Acuerdo. Esta renuncia quedó inscrita en el Registro de Propiedad de
+Aguas del Conservador de Bienes Raíces de Pozo Almonte, a fojas 144, N°72 del año
+2024.
+Para acreditar esta acción, el 15 de abril de 2024, CMCC presentó una carta al Director
+General de Aguas, Sr. Rodrigo Sanhueza Bravo, acompañando la siguiente
+documentación:
+• Copia autorizada de reinscripción de fojas 278 N°146 del año 2017 del Registro
+de Propiedad de Aguas del Conservador de Bienes Raíces de Pozo Almonte, de
+fecha 4 de abril de 2024, donde consta al margen la renuncia inscrita a fojas 144,
+N°72 del año 2024 de 22 de marzo de 2024.
+• Copia autorizada de inscripción en el Registro de Propiedad de Aguas del
+Conservador de Bienes Raíces de Pozo Almonte, practicada a fojas 144, N°72 del
+año 2024 de 22 de marzo de 2024 que da cuenta de la renuncia a 125 litros por
+segundo.
+• Certificado de dominio vigente emitido el 5 de abril de 2024, por el Conservador
+de Bienes Raíces de Pozo Almonte que confirma que la inscripción de fojas 278
+N°146 del año 2017 mantiene vigente 25 litros por segundo.
+Posteriormente, la carta fue ingresada oficialmente en la DGA el 24 de abril de 2024, bajo
+el número de proceso 18011398 y solicitud N°296535, según consta en los correos
+adjuntos. Todos los documentos comentados en este apartado están disponibles en
+Anexo Verificador Medida 1.d, demostrando la ejecución del verificador 1.d. del Acuerdo
+de Transacción.
+21
+
+--- Página 22 ---
+Fojas 12806
+doce mil ochocientos seis
+1.e. Publicación de información sobre recuperación del acuífero
+Tal como lo establece el acuerdo, dentro del primer semestre de 2024, en particular el 28
+de junio de 2024, fue publicada la página web oficial del Acuerdo de Lagunillas:
+www.acuerdoslagunillas.cl , en la cual CMCC habilitó un repositorio con la información de
+la evolución del acuífero al término del bombeo operacional. Esta plataforma fue
+certificada por la empresa Accionet SpA el 1 de julio de 2024 (ver Anexo Verificadores
+Medida 1.e), y contiene gráficos que muestran la evolución de los niveles de agua en los
+pozos LA-02, LA-03 y LA-04, demostrando la ejecución del verificador 1.e. y lo establecido
+por la Medida 6 (M6).
+Adicionalmente, el 02 de julio de 2024, se enviaron cartas informativas a las
+organizaciones Comunidad Indígena Aymara de Cancosa, Comunidad Indígena Aymara
+de Lirima y Asociación Indígena Aymara y Quechua Emprendedores de Collacagua, con
+el objetivo de comunicar la publicación del sitio web del Acuerdo de Lagunillas. En dichas
+comunicaciones se les invitó a visitar la plataforma y a compartir recomendaciones que
+contribuyan a mejorar y enriquecer su contenido informativo.
+5.2 Medida 2 – Comité de Expertos (2024–2033)
+5.2.1. Estado actual Medida 2
+Estatus general En ejecución
+Monto Gastado USD 46.348
+Verificadores
+2.a. Minutas de hallazgos y recomendaciones de las actualizaciones
+En ejecución
+del Modelo Hidrogeológico de Lagunillas.
+2.b. Carta Gantt de medidas recomendadas (en caso de ser
+No aplica
+requeridas).
+2.c. Registro de publicación de primer informe de revisión del Comité
+Ejecutado
+de Expertos.
+5.2.2. Ejecución Medida 2
+Como parte del proceso de implementación del Acuerdo de Lagunillas, CMCC ha
+implementado la Medida 2 (M2), que contempla la extensión funcionamiento del Comité
+de Expertos establecido en la RCA N°13/2022 entre los años 2024 y 2033.
+La conformación del Comité de Expertos tuvo lugar en el mes de mayo de 2022, de
+acuerdo con lo establecido en la RCA N°13/2022. El Comité está constituido por 3
+miembros, designados de común acuerdo entre CMCC y las Direcciones Regionales de
+la DGA, Servicio Agrícola y Ganadero (SAG) y SEREMI de Medio Ambiente (MMA), todos
+de la Región de Tarapacá. Sus integrantes son los siguientes profesionales:
+22
+
+--- Página 23 ---
+Fojas 12807
+doce mil ochocientos siete
+a) Rodrigo Pardo , Licenciado en Ciencias del Mar de la Universidad Católica del Norte
+(1996), Doctor en Ciencias Biológicas con mención Ecología y Biología Evolutiva de la
+Universidad de Chile (2010), Magíster en Ciencias Biológicas c/m Ecología y Biología
+Evolutiva de la Universidad de Chile (2005), y Diplomado en estadística y Minería de
+Datos de la Universidad de Santiago (2014).
+b) Sergio Iriarte , Geólogo. Ha desarrollado múltiples proyectos en hidrogeología, así
+como en geología regional, geotermia y glaciología. Trabajó 10 años en el Servicio
+Nacional de Geología y Minería (Chile) desarrollando proyectos de geología regional e
+hidrogeología.
+c) Carlos Espinoza , Ingeniero Civil, con mención en Hidráulica de la Universidad de
+Chile, Máster de Ciencias en Ingeniería Ambiental de la Universidad de Illinois (1994) y
+Doctor en Ingeniería Ambiental (1997). Becas Presidente de la República y Fullbright.
+El Comité de Expertos ha mantenido su actual estructura (es decir, 3 integrantes en las
+especialidades descritas), con soporte de personal de CMCC y de los consultores que
+desarrollen las actualizaciones del modelo comprometidas en la RCA N°13/2022. El
+Comité se ha reunido de manera mensual desde el 30 de enero de 2024 hasta la fecha
+de cierre del presente informe, con el fin de:
+• Revisar las actualizaciones comprometidas de la herramienta predictiva y sus
+proyecciones (modelo hidrogeológico), verificando los plazos de recuperación de
+niveles.
+• Identificar aquellos aspectos que generan mayor incertidumbre en los pronósticos
+y evaluar la posibilidad de reducir esa incertidumbre.
+• Evaluar la pertinencia de desarrollar sensibilizaciones o análisis de incertidumbre,
+y definir la configuración de estos análisis.
+• Evaluar la necesidad de implementar medidas adicionales para lograr los plazos
+de recuperación de niveles comprometidos.
+• Velar por la incorporación de los efectos del Cambio Climático de manera
+actualizada (el estado del arte), en la predicción de la recuperación de niveles del
+acuífero.
+• Revisar los informes anuales del Plan de Trabajo Lagunillas, proponiendo ajustes
+o mejoras a sus alcances y metodologías.
+Las sesiones mensuales del Comité de Expertos se registran mediante minutas de
+reunión las cuales se publican de manera regular en la página web del acuerdo.
+En este sentido, las actividades del citado Comité se traducen en la elaboración de los
+siguientes documentos:
+23
+
+--- Página 24 ---
+Fojas 12808
+doce mil ochocientos ocho
+• Memorándum de revisión de Informe de Actualización del Modelo Hidrogeológico
+de Lagunillas 2022-2023.
+• Memorándum de revisión de Informe de Actualización del Modelo Hidrogeológico
+de Lagunillas 2023-2024.
+• Minuta de comentarios al Informe del Plan de Manejo de las Funciones
+Ecosistémicas del Sistema Lacustre de Lagunillas.
+En cuanto a la Medida 3 (M3) , el Comité Expertos ha realizado las siguientes labores:
+• Emisión de una recomendación técnica en el proceso de selección del bofedal de
+control, de acuerdo con las variables forzantes establecidas en el Acuerdo.
+• Revisión de estudios de gabinete y entrega de recomendaciones.
+Con respecto a esta medida, a la fecha el Comité ha elaborado los siguientes
+documentos:
+• Memorándum de Estrategia de Selección de Bofedal de Control.
+Con fecha 8 de abril del 2024, el Comité de Expertos elaboró un Memorándum
+estableciendo la estrategia para la Selección del Bofedal de Control, indicando en
+dicha instancia los criterios técnicos para la citada selección, además de la
+recomendación de 12 bofedales en cuencas o sectores aledaños al bofedal
+Lagunillas. El citado informe sentó las bases para posteriormente licitar el servicio
+de estudio para la Selección del Bofedal de Control.
+• Minuta de Recomendación Técnica en la Selección del Bofedal de Control.
+Desde el mes de junio del 2024, el Comité de Expertos participó en la revisión de
+las Bases Técnicas para la adjudicación del Servicio de Selección del Bofedal de
+Control. Posteriormente, el Comité fue actor clave en la revisión de los entregables
+del servicio contratado, participando de manera activa en la revisión de los
+informes preliminares que daban cuenta de los resultados en terreno, como a su
+vez de las versiones del informe final, el cual analizaba los datos obtenidos para
+finalmente recomendar el Bofedal de Control más adecuado para su selección.
+Todo lo anteriormente señalado, consta en la minuta resumen elaborada por el
+Comité de Expertos ya señalada, con fecha 13 de enero de 2025.
+24
+
+--- Página 25 ---
+Fojas 12809
+doce mil ochocientos nueve
+Adicionalmente, en relación con la Medida 5 (M5) , el Comité de Expertos ha realizado las
+siguientes labores:
+• Emisión de recomendación técnica en el proceso de selección de un humedal
+altoandino, similar o equivalente al bofedal Lagunillas.
+Como se verá más adelante, la Medida 5 (M5) se compone de 6 fases, las cuales
+apuntan a lograr una compensación de un humedal altoandino equivalente al
+Bofedal Lagunillas. En este sentido, cabe hacer presente que las labores del
+Comité de Expertos se centran específicamente en las fases iniciales establecidas
+en el Acuerdo, esto es, Fase 1: Definición de metodología y gobernanza para la
+selección del humedal para fines de conservación, Fase 2: Identificación y
+evaluación de humedales preseleccionados y Fase 3: Selección de Humedal.
+Pues bien, a la fecha y respecto a este punto en cuestión, durante el año 2024 se
+llevó a cabo la ejecución de la Fase 1, que permitió definir y establecer una ruta
+técnica para la compensación de biodiversidad del bofedal Lagunillas, definiendo
+criterios ecológicos, sociales y territoriales para identificar humedales
+equivalentes, y diseñar el marco de gobernanza para su selección e
+implementación. Todo lo anterior, con el objeto de desarrollar una herramienta que
+permita diseñar, evaluar y construir distintos proyectos de conservación y
+restauración de la biodiversidad como alternativas de compensación.
+Este proceso culminó con la elaboración de un informe denominado “Ruta hacia
+la Compensación equivalente de la Biodiversidad del Bofedal Lagunillas”, que fue
+objeto de revisión por parte del Comité de Expertos, según consta en la emisión
+de la Minuta de hallazgos, propuestas y recomendaciones al informe, de fecha 11
+de noviembre del 2024. En este sentido, cabe destacar que dichas observaciones
+fueron incorporadas al citado informe, generándose una nueva versión final en el
+mes de diciembre del 2024.
+• Revisión de los alcances de los estudios ambientales propuestos a desarrollar en
+el humedal y los informes de seguimiento que se elaboren.
+En concordancia con lo señalado en el punto anterior, y al haber finalizado la Fase
+1, se comenzó con la ejecución de la Fase 2, esto es, la identificación y evaluación
+de humedales preseleccionados. Para lo anterior, se encuentra en curso un
+estudio de identificación las distintas variables territoriales y legales que forman
+parte del área de interés de análisis para la selección del Humedal de
+Compensación. El Comité de Expertos revisará el citado informe mediante la
+correspondiente emisión de una Minuta de hallazgos, propuestas y
+recomendaciones a la preselección de las áreas de estudio.
+25
+
+--- Página 26 ---
+Fojas 12810
+doce mil ochocientos diez
+Finalmente, se ejecutarán estudios en los sitios preseleccionados para verificar
+las condiciones de similitud o equivalencia con el humedal de Lagunillas.
+En este sentido y en relación con la citada Medida, el Comité ha confeccionado a la fecha
+los siguientes documentos:
+• Minuta que resume hallazgos, propuestas y recomendaciones al informe Ruta
+hacia la Compensación Equivalente de la Biodiversidad del Bofedal Lagunillas.
+5.2.3. Verificadores
+2.a. Minuta que resume hallazgos y recomendaciones del Comité de Expertos, en cada
+revisión de las actualizaciones comprometidas de la herramienta predictiva (el Modelo)
+y sus proyecciones.
+Entre los documentos publicados se encuentran:
+• Transversal:
+o Minuta de comentarios al Informe del Plan de Manejo de las Funciones
+Ecosistémicas del Sistema Lacustre de Lagunillas.
+o Minuta de comentarios al “Modelo Hidrogeológico de Lagunillas 2023”.
+o Minuta de comentarios al “Modelo Hidrogeológico de Lagunillas 2024”.
+• Medida 3:
+o Memorándum sobre la Estrategia de Selección del Bofedal de Control en
+el sector Lagunillas, aprobado por el Comité.
+o Minuta de Recomendación Técnica en la Selección del Bofedal de Control
+• Medida 5:
+o Minuta de comentarios a la “Ruta hacia la Compensación equivalente de
+la Biodiversidad del Bofedal Lagunillas”.
+Las minutas antes mencionadas se presentan en el Anexo Verificadores Medida 2.a.
+2.b. Carta Gantt de implementación de la medida respectiva, en caso de que deba ser
+adoptada en base a la recomendación del Comité de Expertos.
+En el marco de la implementación de las medidas del Acuerdo, se estableció una rutina
+mensual de sesiones con el Comité de Expertos, lideradas por el equipo de CMCC a
+cargo de la ejecución del Acuerdo, que permiten revisar el estado de avance de las
+acciones comprometidas.
+El seguimiento se realiza mediante este sistema de trabajo periódico y continuo, el cual
+es registrado mensualmente mediante minutas de trabajo que son públicas en la web del
+Acuerdo (y que se adjuntan como parte del Anexo Verificadores Medida 2.b.). Esta
+26
+
+--- Página 27 ---
+Fojas 12811
+doce mil ochocientos once
+periodicidad de las sesiones no ha hecho necesaria la elaboración de una Carta Gantt
+específica para esta medida.
+2.c. Registro de publicación de primer informe de revisión del Comité de Expertos a través
+de medios de comunicación efectivos, como la página web del sistema Lagunillas.
+El Acuerdo de Lagunillas establece la obligación de CMCC de difundir los análisis del
+Comité de Expertos, a través de medios de comunicación efectivos, como parte del plan
+de difusión y socialización de la Medida 6 (M6) . Tal como lo establece el Acuerdo, dentro
+del primer semestre de 2024, en particular el 28 de junio de 2024, fue publicada la página
+web oficial del Acuerdo de Lagunillas: www.acuerdoslagunillas.cl, en la cual CMCC ha
+publicado un repositorio con la información que da cuenta de los informes de revisión y/o
+recomendaciones del Comité de Expertos:
+• Minuta de comentarios al Informe del Plan de Manejo de las Funciones
+Ecosistémicas del Sistema Lacustre de Lagunillas.
+• Minuta de comentarios al “Modelo Hidrogeológico de Lagunillas 2023”.
+• Memorándum sobre la Estrategia de Selección del Bofedal de Control en el sector
+Lagunillas, aprobado por el Comité.
+• Minuta de comentarios a la “Ruta hacia la Compensación equivalente de la
+Biodiversidad del Bofedal Lagunillas.
+Las minutas antes mencionadas se presentan en el Anexo Verificadores Medida 2.c.
+Sin perjuicio de lo anteriormente señalado, el Comité de Expertos participa de sesiones
+mensuales de trabajo con CMCC, las cuales permiten llevar registro de la participación
+de sus miembros en los distintos requerimientos del Acuerdo. Dichas sesiones mensuales
+tuvieron su inicio en enero del año 2024 y se mantienen hasta la fecha, en donde se deja
+constancia de los temas tratados mediante el levantamiento de actas, con asistencia de
+los participantes, registro de temas tratados y acciones pendientes y finalizadas, tanto del
+Comité de Expertos, como de CMCC. Dichas minutas se encuentran publicadas en el
+sitio web de Lagunillas por lo que se encuentran a disposición del público en general.
+5.3 Medida 3 – Actualización de Imagen Objetivo del Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del Sistema Lacustre
+de Lagunillas
+5.3.1. Estado actual Medida 3
+Estatus general En ejecución
+Monto Gastado USD 1.059.523
+Verificadores
+27
+
+--- Página 28 ---
+Fojas 12812
+doce mil ochocientos doce
+3.a. Informe de caracterización de los bofedales estudiados Ejecutado
+3.b. Informe de estimación de la evolución natural de los sistemas
+vegetacionales estudiados (bofedales) considerando el potencial En ejecución
+efecto del cambio climático global
+3.c. Informe final de evaluación de la Imagen Objetivo del bofedal
+En ejecución
+Lagunillas establecido en la Resolución Exenta N°67/2011
+3.d. Petición de actualización de Imagen Objetivo del Bofedal
+No iniciado
+Lagunillas y/o desarrollo de estudios adicionales
+5.3.2. Ejecución de la Medida 3
+Con el propósito de estudiar la evolución natural de los sistemas vegetacionales
+altoandinos (bofedales) en la cuenca de Lagunillas —considerando, entre otros factores,
+el potencial efecto del cambio climático— CMCC ha iniciado una serie de estudios
+técnicos y ambientales orientados a robustecer el conocimiento ecosistémico del área.
+En caso de que dichos estudios concluyan que es necesario actualizar la Imagen Objetivo
+del bofedal Lagunillas, se someterá dicha propuesta a consideración del Servicio de
+Evaluación Ambiental (SEA), conforme a lo establecido en el artículo 25 quinquies de la
+Ley N°19.300. Esta actualización se realizaría sobre la base de la Resolución Exenta
+N°67/2011 de la COEVA, con el fin de ajustar las metas de restauración del Plan de
+Trabajo Lagunillas a las nuevas condiciones ecosistémicas proyectadas.
+Durante el período informado, CMCC avanzó en la caracterización de bofedales y en la
+selección de un bofedal de control, tarea desarrollada por la empresa Centro de Ecología
+Aplicada (CEA). Este proceso culminó con la elección del bofedal a utilizar como sitio de
+referencia, lo que fue validado por el Comité de Expertos conforme a lo establecido en la
+Medida 2 (M2).
+A continuación, se dio inicio al desarrollo de estudios hidrogeológicos y ecosistémicos a
+cargo de la empresa GHD, los cuales incluyen campañas estacionales, modelación
+hidrogeológica conceptual y numérica, e integración de variables bióticas y climáticas,
+con la finalidad de realizar un análisis ambiental integrado. De forma complementaria, se
+incorporarán análisis de vulnerabilidad frente al cambio climático, mediante un servicio
+especializado ejecutado por la empresa Hidroestudios, cuyos resultados alimentarán el
+modelo ecosistémico en desarrollo. Este modelo ha sido fortalecido con una serie de
+estudios adicionales (topografía de terreno y geofísica) que permitirán robustecer los
+análisis requeridos.
+Estos avances permiten acreditar el progreso en la implementación de los verificadores
+asociados a la Medida 3 (M3). Los próximos pasos contemplan la finalización de los
+estudios de evolución natural, la integración de escenarios climáticos y la eventual
+solicitud de actualización de la Imagen Objetivo ante el SEA. Con ello, CMCC busca
+asegurar que el Plan de Trabajo Lagunillas se mantenga alineado a condiciones
+ecosistémicas proyectadas que sea razonables, factibles y sostenibles en el largo plazo.
+28
+
+--- Página 29 ---
+Fojas 12813
+doce mil ochocientos trece
+5.3.3. Servicios Relacionados
+• Servicio: Estudio de caracterización y selección de Bofedal de Control para
+monitoreo comparativo con Lagunillas.
+o Empresa: Centro de Ecología Aplicada (CEA).
+o Objetivo: Evaluar alternativas de bofedales en la Región de Tarapacá
+mediante criterios técnicos, con el fin de seleccionar un sitio de control que
+permita comparar su evolución natural con la del bofedal Lagunillas.
+o Alcance: Este servicio aborda el componente de monitoreo comparativo
+exigido por el Acuerdo, mediante la selección de un bofedal de control
+adecuado que permita evaluar la evolución natural de un ecosistema
+similar al de Lagunillas. Esto permite establecer una línea base externa y
+fortalecer la interpretación de los resultados de recuperación del sistema
+Lagunillas actuales y futuros.
+o Estado de avance: Estudio finalizado; se seleccionó el bofedal de control,
+validado por el Comité de Expertos mediante minuta técnica.
+• Servicio: Estudios hidrogeológicos y ambientales asociados al plan de
+recuperación del bofedal Lagunillas.
+o Empresa: GHD.
+o Objetivo: Desarrollar modelos hidrogeológicos y caracterizar la
+biodiversidad que permitan realizar un análisis ambiental integrado, con el
+objetivo de proyectar la evolución ecosistémica del sistema Lagunillas,
+considerando el cese del Sistema de Recarga Artificial (SRA) y los efectos
+del cambio climático.
+o Alcance: Este servicio constituye el núcleo técnico de la Medida 3 (M3),
+al desarrollar los modelos hidrogeológicos y ambientales que permiten
+proyectar la evolución del ecosistema Lagunillas tras el cese del SRA.
+Además, incorpora la caracterización biótica y el componente climático,
+entre otros elementos clave para definir la necesidad de proponer una
+actualización de la imagen objetivo.
+o Estado de avance:
+ Campañas de otoño, invierno ejecutadas; campaña de primavera
+en curso y campaña de verano programada para marzo de 2026.
+ Modelo conceptual hidrogeológico finalizado; modelo numérico en
+desarrollo.
+ Avance del informe Análisis de Componentes Ambientales
+entregado el 5 de noviembre de 2025. La versión final será
+entregada en junio de 2026.
+ Incorporación del estudio de cambio climático prevista a partir de
+noviembre 2025.
+ Entrega final de informes actualizados programada entre mayo y
+julio de 2026.
+29
+
+--- Página 30 ---
+Fojas 12814
+doce mil ochocientos catorce
+• Servicio: Estudio de cambio climático para el sector Lagunillas.
+o Empresa: Hidroestudios.
+o Objetivo: Evaluar la vulnerabilidad ecosistémica de los bofedales
+Lagunillas y de control frente al cambio climático, mediante análisis de
+modelos de circulación global (GCM, por sus siglas en inglés), generación
+de series futuras de variables meteorológicas, y proyecciones climáticas
+hasta el año 2100, considerando escenarios Socioeconómicos
+compartidos (SSP, por sus siglas en inglés) y estándares técnicos de
+CMCC.
+o Alcance: Este servicio complementa el trabajo de GHD al abordar el
+componente de cambio climático, requerido para proyectar escenarios
+futuros y evaluar la vulnerabilidad del ecosistema Lagunillas. Sus
+resultados alimentan directamente el modelo ecosistémico en desarrollo y
+permiten ajustar las estrategias de recuperación en función de las
+condiciones climáticas proyectadas.
+o Estado de avance: Informe de vulnerabilidad e informe de cambio
+climático están finalizados; ambos estudios actualmente en proceso de
+revisión por parte del Comité de Expertos. Talleres técnicos realizados con
+CMCC e informes técnicos serán integrados al modelo ecosistémico de
+Lagunillas en desarrollo por GHD.
+• Servicio: Levantamientos topográficos mediante tecnología RPAS ( Remotely
+Piloted Aircraft System ), mediante vuelos de drones en Lagunillas y el bofedal de
+control.
+o Empresa: Sociedad Pacheco Hermanos Ltda. (Aerosoluciones).
+o Objetivo: Ejecutar levantamientos aerofotogramétricos de alta resolución
+en los sectores Lagunillas y el bofedal de control utilizando drones
+certificados por la Dirección General de Aeronáutica Civil (DGAC) y
+tecnología PPK ( Post-Processed Kinematic ) y RTK ( Real-Time Kinematic ),
+sin instalación de marcas fijas permanentes, para generar productos
+topográficos como ortofotografías, curvas de nivel, modelos digitales de
+elevación, nubes de puntos y planimetría.
+o Alcance: Este servicio proporciona insumos técnicos para la
+caracterización espacial y geomorfológica del sistema Lagunillas y del
+bofedal de control, permitiendo la integración de estos datos en los
+modelos ecosistémicos en desarrollo. Robustece la ejecución del servicio
+de GHD.
+o Estado de avance:
+ Campaña en Lagunillas realizada en enero de 2024; vuelos
+ejecutados y procesamiento de datos en gabinete finalizados.
+ Campaña en el bofedal de control realizada en febrero de 2025;
+vuelos y trabajos de gabinete finalizados.
+ Productos finales entregados.
+30
+
+--- Página 31 ---
+Fojas 12815
+doce mil ochocientos quince
+ Los resultados serán usados como insumos para el servicio que
+actualmente está desarrollando GHD.
+• Servicio: Estudios geofísicos mediante tomografía eléctrica, refracción sísmica y
+análisis multicanal de ondas superficiales (MASW, por sus siglas en inglés).
+o Empresa: Geodatos.
+o Objetivo: Brindar un complemento técnico a los estudios hidrológicos,
+geológicos e hidrogeológicos para el entendimiento del bofedal Lagunillas
+y de control.
+o Alcance: Este servicio contribuye al entendimiento del comportamiento
+físico del subsuelo, mediante estudios geofísicos que permiten identificar
+estructuras que controlan el flujo de agua subterránea y la dinámica de las
+vertientes. Sus resultados fortalecen los modelos hidrogeológicos a
+desarrollar por GHD y aportan evidencia sobre la recuperación del
+acuífero.
+o Estado de avance: Campaña ejecutada durante febrero de 2025 en
+bofedal Lagunillas y durante marzo de 2025 en el bofedal de control;
+informes finales entregados. Los resultados fueron usados como insumos
+para el servicio que actualmente está desarrollando GHD.
+• Servicio: Asesoría técnica en recursos hídricos.
+o Profesional: Rodrigo González Alarcón.
+o Objetivo: Brindar soporte técnico a CMCC en la gestión de estudios
+hidrológicos e hidrogeológicos, incluyendo revisión crítica de reportes,
+validación metodológica, identificación de riesgos, y participación en
+sesiones de trabajo con consultoras y el Comité de Expertos.
+o Alcance: Este servicio apoya la gestión técnica y táctica de la Medida 3
+(M3), mediante la revisión crítica de entregables, validación metodológica
+y levantamiento de riesgos. Su rol como contraparte técnica permite
+asegurar la calidad de los estudios hidrogeológicos y facilitar el cierre de
+brechas identificadas por el Comité de Expertos y/o el equipo de CMCC.
+o Estado de avance: Servicio iniciado en mayo de 2025 con duración
+prevista de 12 meses. Se han realizado sesiones semanales de
+coordinación, revisión de entregables técnicos y elaboración de minutas y
+notas técnicas para facilitar la toma de decisiones y el cierre de brechas.
+• Servicio: Asesoría experta en biota y limnología.
+o Profesional: Cristián González López.
+o Objetivo: Apoyar técnicamente el desarrollo de la componente biológica,
+asegurando que los estudios de biodiversidad, flora, fauna y limnología
+realizados por GHD se mantengan alineados con los objetivos del Acuerdo
+y las guías metodológicas del SEA. La asesoría incluye revisión crítica de
+31
+
+--- Página 32 ---
+Fojas 12816
+doce mil ochocientos dieciseis
+documentos, participación en reuniones técnicas, talleres estratégicos y
+campañas de terreno.
+o Alcance: Este servicio fortalece el componente biótico y limnológico de la
+Medida 3 (M3), asegurando que los estudios de biodiversidad y calidad de
+agua realizados por GHD se ajusten a los objetivos del Acuerdo y a los
+estándares técnicos del SEA. Este servicio incluye la revisión crítica de
+entregables, validación metodológica y levantamiento de riesgos. Su rol
+como contraparte técnica permite asegurar la calidad de los estudios y
+facilitar el cierre de brechas identificadas por el Comité de Expertos y/o el
+equipo de CMCC.
+o Estado de avance: Servicio iniciado en junio de 2025, con duración
+prevista de 12 meses. Se han realizado sesiones semanales de
+coordinación, revisión de entregables técnicos, y participación en talleres.
+Los entregables incluyen minutas técnicas, recomendaciones técnicas y
+presentaciones especializadas.
+5.3.4. Verificadores
+3.a. Informe de caracterización de los bofedales estudiados: cumplido con la ejecución de la
+Etapa 0 (Desarrollo de informe de caracterización de los bofedales estudiados), de la
+Medida 3 del Acuerdo.
+Durante el primer semestre de 2024, CMCC desarrolló una estrategia de selección para
+identificar un bofedal de control en el sector de Lagunillas. Esta estrategia incluyó criterios
+técnicos (ubicación, tipo de vegetación, presencia de fauna nativa, servicios
+ecosistémicos), administrativos (existencia de servidumbres y accesos seguros) y
+sociales (relacionamiento con comunidades locales).
+Para ejecutar esta tarea, CMCC contrató los servicios del Centro de Ecología Aplicada
+(CEA), quienes elaboraron un informe técnico que incluyó:
+• Revisión de información ambiental de referencia.
+• Visita a 12 alternativas de bofedales en la sección norte de las Cuencas
+Altiplánicas de la Cuenca Pampa del Tamarugal, Región de Tarapacá.
+• Evaluación de similitud con el bofedal Lagunillas, considerando composición,
+estructura, amenazas, presiones, gestión y conservación.
+El análisis se realizó mediante dos métodos: Similitud directa y Análisis Jerárquico de
+Proceso (AHP). Como resultado, se seleccionó el bofedal de control para el monitoreo
+comparativo, debido a la presencia de los componentes clave: Oxychloe andina y
+Orestias. En caso de requerir una alternativa, se sugirió un segundo bofedal, sujeto a
+futuras evaluaciones.
+32
+
+--- Página 33 ---
+Fojas 12817
+doce mil ochocientos diecisiete
+La elección fue confirmada por el Comité de Expertos, quienes emitieron una minuta
+técnica que valida el proceso de selección el día 13 de enero de 2025, acreditando así el
+verificador 3.a. del Acuerdo.
+El informe de selección y la minuta del Comité de Expertos fueron publicados en el sitio
+web www.acuerdoslagunillas.cl , esta publicación forma parte del repositorio de
+documentos técnicos exigido por la Medida 3 (M3) y la Medida 6 (M1) del Acuerdo (ver
+Anexo Verificadores Medida 3.a).
+3.b. Informe de estimación de la evolución natural de los sistemas vegetacionales estudiados
+(bofedales) considerando el potencial efecto del cambio climático global: en ejecución y
+corresponde a la Etapa 1 (Estudio de la evolución natural de bofedal Lagunillas y del
+bofedal de control en la misma cuenca o sus alrededores), de la Medida 3 del Acuerdo.
+Durante el primer semestre de 2025, CMCC inició el servicio de estudios hidrogeológicos
+y biodiversidad con GHD, los cuales tienen como objetivo fortalecer la base técnica para
+la recuperación del sistema lacustre Lagunillas, mediante estudios hidrogeológicos y
+ambientales que permitan proyectar su evolución ecosistémica en el largo plazo. El
+alcance conceptual del servicio se presenta en la Figura 5.4. A noviembre de 2025, el
+proyecto presenta avances significativos en varias de sus líneas de trabajo.
+En particular, a la fecha se han ejecutado dos de las cuatro campañas estacionales en
+terreno proyectadas (otoño e invierno), y se encuentra en ejecución la campaña de
+primavera. La campaña de verano está programada para el primer trimestre de 2026.
+En paralelo, se ha completado el modelo hidrogeológico conceptual del sector del bofedal
+Lagunillas y se está desarrollando el modelo numérico local, el cual incorporará variables
+bióticas y climáticas para simular escenarios futuros de recarga hídrica.
+Durante diciembre se entregará un primer avance de la caracterización de las
+componentes ambientales, basado en los datos recopilados en terreno y antecedentes
+bibliográficos. Esta información permitirá establecer el rol ecológico del agua como
+elemento articulador entre las distintas componentes del ecosistema, y ajustar el modelo
+numérico a indicadores biológicos clave. Adicionalmente, se iniciará el desarrollo de una
+herramienta de simulación ecosistémica que modelará la respuesta del sistema ante
+distintos escenarios de suministro hídrico.
+33
+
+--- Página 34 ---
+Fojas 12818
+doce mil ochocientos dieciocho
+Figura 5.4: Diagrama esquemático de la conceptualización del servicio de GHD. En verde se
+presentan las actividades realizadas, en amarillo aquellas en ejecución y en blanco aquellas no
+iniciadas. Fuente: Elaborado por GHD.
+En los próximos meses, el servicio de GHD contempla la incorporación del estudio de
+cambio climático al modelo numérico (desarrollado por Hidroestudios), lo que permitirá
+evaluar su impacto en la recarga hídrica del sistema. Posteriormente, se ejecutará la
+última campaña de terreno de verano, y entre mayo y julio se realizará la entrega
+actualizada de los informes finales, incluyendo modelos hidrogeológicos, análisis
+integrados y proyecciones ecosistémicas para el bofedal Lagunillas y su humedal de
+control acreditando así los verificadores 3.b. y 3.c. del Acuerdo de Lagunillas.
+3.c. Informe final de evaluación de la Imagen Objetivo del bofedal Lagunillas establecido en la
+Resolución Exenta N°67/2011: en ejecución.
+Actualmente, el informe se encuentra en desarrollo por la empresa GHD , en paralelo a
+los estudios hidrogeológicos y ecosistémicos que forman parte de la Medida 3. Este
+documento integrará los resultados de las campañas estacionales en terreno, la
+modelación hidrogeológica conceptual y numérica, y los análisis de vulnerabilidad
+climática elaborados por Hidroestudios. Además, incorporará insumos críticos como el
+informe de caracterización de bofedales (verificador 3.a) y el estudio de evolución natural
+(verificador 3.b), que constituyen la base técnica para evaluar la factibilidad de actualizar
+la Imagen Objetivo.
+La acreditación del verificador 3.c se materializará con la entrega del Informe Final de
+Evaluación , programada para el primer semestre de 2026. Este documento será clave
+para definir si corresponde o no presentar una solicitud formal ante el SEA para actualizar
+la Imagen Objetivo del bofedal Lagunillas, asegurando que las metas de restauración
+sean realistas, sostenibles y alineadas con las condiciones ecosistémicas proyectadas.
+34
+
+--- Página 35 ---
+Fojas 12819
+doce mil ochocientos diecinueve
+3.d. Petición de actualización de Imagen Objetivo del Bofedal Lagunillas y/o desarrollo de
+estudios adicionales: no iniciado, y corresponde a la Etapa 2 (Ajuste de Imagen Objetivo),
+de la Medida 3 del Acuerdo.
+Este verificador corresponde a la presentación formal ante el SEA para actualizar la
+Imagen Objetivo del bofedal Lagunillas, conforme al artículo 25 quinquies de la Ley
+N°19.300, en caso de que los resultados técnicos lo justifiquen. La solicitud se basa en
+los insumos generados por los verificadores anteriores (3.a, 3.b y 3.c), que permitirán
+definir si las metas ecosistémicas deben ajustarse frente a la evolución natural del sistema
+y los escenarios climáticos proyectados.
+Actualmente, esta etapa no ha comenzado, ya que depende de la entrega del Informe
+Final de Evaluación (verificador 3.c). Una vez completado, CMCC evaluará la necesidad
+de realizar estudios adicionales y, de ser procedente, se ingresará la petición ante el SEA,
+asegurando que las metas del Plan de Trabajo Lagunillas sean realistas, sostenibles y
+alineadas con la normativa vigente.
+5.4 Medida 4 – Compensación por pérdida neta de carbono en bofedal
+Lagunillas
+5.4.1. Estado actual Medida 4
+Estatus general En ejecución
+Monto Gastado USD 493.684
+Verificadores
+4.a. Informe de estimación de generación de GEI y/o pérdida de
+Ejecutado
+captura de carbono
+4.b. Registro de instalación Torre Eddy Covariance y registro de datos Ejecutado
+4.c. Plan de compensación, conforme a criterios rectores Ejecutado
+4.d. Registros de implementación de mecanismos de compensación
+No Iniciado
+de acuerdo con cronograma incluido en el Plan de Compensación
+5.4.2. Ejecución de la Medida 4
+La Medida 4 del Acuerdo de Lagunillas tiene como objetivo estimar las emisiones de
+carbono y/o la capacidad de captura de carbono en la biomasa total original de la
+vegetación que conformaba el bofedal de Lagunillas. Con esto se busca cuantificar el
+cambio que se produjo entre los años 1998 y 2020, época en que éste pudo haber
+generado emisiones o de gases de efecto invernadero y además haber perdido capacidad
+de captura de carbono, para luego desarrollar un plan de compensación mediante
+mecanismos verificables.
+35
+
+--- Página 36 ---
+Fojas 12820
+doce mil ochocientos veinte
+Como objetivo adicional, se busca robustecer el conocimiento sobre la productividad
+actual del ecosistema, mediante la instalación de equipamiento que permita registrar los
+flujos de gases del bofedal.
+Al respecto, durante el período informado, CMCC desarrolló mediante el Centro de
+Excelencia Internacional del Sustainable Minerals Institute (SMI) de la Universidad de
+Queensland, Australia, un estudio de estimación de la pérdida de captura neta de carbono
+en el periodo 1998 - 2020, junto con el diseño del Plan de Compensación, que incorpora
+mecanismos verificables y los criterios rectores del Acuerdo.
+Paralelamente, se implementó la instalación de la Torre Eddy Covariance en julio de
+2025, habilitando el monitoreo continuo de flujos de carbono, la cual se encuentra
+realizando mediciones desde julio 2025 y se mantendrá durante al menos 1 año. El
+monitoreo mensual de flujos de carbono es realizado por la empresa Carbon Real,
+generando datos y reportes especializados con la interpretación de los mismos.
+La implementación de los mecanismos de compensación definidos en dicho Plan se
+encuentra a la espera de la definición del Plan de Compensación parte de la Medida 5
+(M5) que, según lo establecido en el Acuerdo, será la fuente primaria de compensación
+de absorción de emisiones. Sin perjuicio de ello, la estimación y el diseño del Plan
+consolidan una estrategia que contribuye a la compensación y al fortalecimiento del
+conocimiento científico sobre los bofedales altoandinos, que finalizará con la
+implementación completa de los mecanismos de compensación seleccionados.
+5.4.3. Servicios Relacionados
+• Servicio: Estimación de generación de pérdida de captura de carbono; y
+elaboración del Plan de Compensación.
+o Empresa: Centro de Excelencia Internacional del Sustainable Minerals
+Institute (SMI) de la Universidad de Queensland, Australia.
+o Objetivo: Determinar la pérdida neta de captura de carbono del bofedal
+Lagunillas entre 1998 y 2020, y diseñar un plan de compensación que
+permita generar una ganancia ambiental neta mediante mecanismos
+verificables.
+o Alcance: Este servicio busca cuantificar los efectos históricos en
+Lagunillas en materia de GEI y definir mecanismos verificables para
+compensar la pérdida de captura de carbono, en coherencia con los
+criterios rectores del Acuerdo.
+o Estado de avance:
+ Informe Preliminar de Estimación de GEI entregado y revisado por
+el equipo ambiental de CMCC y el Comité de Expertos durante
+junio de 2025.
+ Segunda campaña en terreno programada para la primera
+quincena de diciembre.
+36
+
+--- Página 37 ---
+Fojas 12821
+doce mil ochocientos veintiuno
+ Informe de Estimación de GEI y Plan de Compensación entregados
+el 14 de noviembre de 2025.
+ Propuesta de posibles mecanismos de compensación, incluidos en
+el cronograma del Plan de Compensación.
+• Servicio: Obras civiles y montaje de Torre Eddy Covariance.
+o Empresa: VITAM
+o Objetivo: Instalar infraestructura de soporte para la instalación de la Torre
+Eddy Covariance.
+o Alcance: Este servicio contribuye a la implementación del sistema de
+monitoreo requerido por la Medida 4 (M4), mediante la ejecución de las
+obras civiles y eléctricas para la Torre Eddy Covariance en el bofedal
+Lagunillas.
+o Estado de avance: Obras civiles y eléctricas finalizadas en junio de 2025.
+• Servicio: Implementación y configuración del sistema de monitoreo de la Torre
+Eddy y monitoreo mensual de intercambio de gases.
+o Empresa: Carbon Real
+o Objetivo: Implementar y operar el sistema de monitoreo continuo de
+carbono, generando datos que permitan evaluar si el bofedal Lagunillas
+actúa como sumidero o fuente de CO ₂ .
+o Alcance: Este servicio operacionaliza el sistema de monitoreo continuo de
+carbono, acreditando el verificador de la Medida 4 (M4) relacionado con el
+monitoreo mensual de captura y emisión de CO ₂ . Los datos generados
+permitirán determinar si el bofedal Lagunillas actúa como sumidero o
+fuente de carbono, lo que es clave para ajustar las estrategias de
+compensación y validar los escenarios proyectados en el Plan de
+Compensación.
+o Estado de avance: Torre Eddy Covariance instalada en julio de 2025,
+monitoreo iniciado en julio de 2025; datos en recopilación y análisis en
+curso. Informes mensuales de agosto, septiembre y octubre emitidos.
+5.4.4. Verificadores
+4.a. Informe de estimación de generación de gases con efecto invernadero y/o perdida de
+captura de carbono en la biomasa total original de la vegetación que conformaba el
+bofedal de Lagunillas.
+En base a recopilación de información científica de gabinete, SMI-Chile elaboró un
+informe preliminar de estimación de emisiones, el cual fue revisado por el equipo
+ambiental de CMCC y por el Comité de Expertos. Este documento permitió validar la
+metodología utilizada y ajustar los parámetros de cálculo conforme a los criterios técnicos
+del Acuerdo.
+37
+
+--- Página 38 ---
+Fojas 12822
+doce mil ochocientos veintidos
+De forma paralela, durante mayo 2025, SMI desarrolló una campaña en terreno orientada
+a estimar las emisiones de gases de efecto invernadero no captadas por el bofedal
+Lagunillas entre los años 1998 y 2020. Como resultado de esta primera campaña, y la
+investigación de gabinete realizada, se elaboró el informe que acredita el verificador 4.a.
+No obstante lo anterior, se programó una segunda campaña en terreno para diciembre
+de 2025, con el objetivo de robustecer los datos y entregar una versión actualizada del
+informe, incorporando nuevas mediciones. (ver Anexo Verificadores Medida 4.a).
+4.b. Registro de instalación Torre Eddy Covariance y registro de datos.
+Adicionalmente, como parte del sistema de monitoreo de captura de carbono, se instaló
+una Torre Eddy Covariance en el bofedal Lagunillas (Figura 5.5), cuya infraestructura y
+obras civiles y eléctricas fueron ejecutadas por la empresa VITAM. (ver informe disponible
+en Anexo Verificadores Medida 4.b), según lo requerido en el verificador.
+Figura 5.5: Ubicación Torre Eddy Covariance. Fuente: Carbon Real.
+En las Figuras a continuación, (5.6, 5.7, 5.8 y 5.9) se presentan fotografías de la Torre
+Eddy Covariance y su infraestructura asociada, así como sus componentes eléctricos y
+sensores especializados utilizados para registrar emisiones y capturas de CO2.
+38
+
+--- Página 39 ---
+Fojas 12823
+doce mil ochocientos veintitres
+Figura 5.6: Fotografía de la infraestructura instalada entre junio y julio de 2025.
+Fuente: Carbon Real.
+39
+
+--- Página 40 ---
+Fojas 12824
+doce mil ochocientos veinticuatro
+Figura 5.7: Fotografía de los componentes eléctricos y sensores especializados utilizados
+para registrar emisiones y capturas de CO ₂ en el bofedal Lagunillas. Fuente: Carbon Real.
+La instalación y configuración del sistema, así como la operación mensual del monitoreo
+están a cargo de la empresa Carbon Real, quienes iniciaron la recopilación de datos en
+40
+
+--- Página 41 ---
+Fojas 12825
+doce mil ochocientos veinticinco
+julio de 2025 acreditándose con el verificador 4.b. Este sistema permite medir de forma
+continua los flujos de carbono en el ecosistema, generando una base de datos que será
+utilizada para determinar si el bofedal Lagunillas actúa como sumidero o fuente de CO ₂ .
+Los reportes a la fecha emitidos por Carbon Real se presentan en Anexo Verificadores
+Medida 4.b.
+Figura 5.8: Modelo 3D de la Torre Eddy Covariance y su infraestructura asociada.
+Fuente: Carbon Real.
+Figura 5.9: Fotografía de la Torre Eddy Covariance y su infraestructura asociada, instalada y en
+funcionamiento. Fuente: Carbon Real.
+41
+
+--- Página 42 ---
+Fojas 12826
+doce mil ochocientos veintiseis
+Se espera contar con al menos un año de datos antes de realizar el análisis completo, el
+cual será clave para robustecer las estrategias de compensación y validar los escenarios
+proyectados en el Plan de Compensación.
+4.c. Plan de Compensación, indicando monto (Ton/CO2), plazos (cronograma) y mecanismo
+de compensación a utilizar, conforme a los criterios rectores.
+Junto con la estimación de pérdida neta de captura de carbono, SMI avanzó en el diseño
+del Plan de Compensación de CO ₂ , considerando tanto lineamientos internacionales
+como criterios nacionales definidos en la Resolución Exenta N°1420 del Ministerio del
+Medio Ambiente.
+Durante el servicio, se identificaron alternativas de mecanismos de compensación que
+cumplen con los principios de adicionalidad, verificabilidad y trazabilidad. Se revisaron
+metodologías para establecer el escenario base y se realizó un taller técnico con los
+equipos internos de CMCC, en el que se priorizaron los criterios rectores del Acuerdo en
+relación con los escenarios de compensación proyectados.
+Además, se diseñó un proceso de homologación para la acreditación con programas de
+certificación externos calificados, asegurando la compatibilidad con estándares
+nacionales e internacionales.
+Finalmente, en noviembre 2025, SMI presentó el Plan de Compensación a CMCC,
+acreditando el verificador 4.c. del Acuerdo (ver Anexo Verificadores Medida 4.c).
+4.d. Registros de implementación de mecanismos de compensación de acuerdo con
+cronograma incluido en el Plan de Compensación.
+El objetivo es garantizar que las acciones compensatorias se materialicen en resultados
+verificables, alineados con los criterios rectores del Acuerdo y con estándares nacionales
+e internacionales de trazabilidad y adicionalidad.
+Por los plazos y objetivos definidos en el Acuerdo, así como por la secuencia lógica entre
+medidas, la implementación de mecanismos de compensación depende directamente del
+inicio del Plan de Conservación del humedal compensatorio (Medida 5, Fase 4) toda vez
+que el Acuerdo dispone que la primera fuente de compensación de la Medida 4 (M4) será
+la absorción de carbono que pueda generarse a partir de la ejecución de la Medida 5
+(M5). En este sentido, la estrategia de compensación considera que las acciones
+principales se ejecutarán en el humedal o humedales equivalentes a seleccionar, lo que
+implica que la implementación de los mecanismos debe coordinarse con la puesta en
+marcha del plan de manejo de dicho sitio. Esta interdependencia asegura coherencia
+técnica y maximiza la ganancia ambiental neta.
+En consecuencia, aunque el diseño del Plan de Compensación (verificador 4.c.) ya está
+ejecutado, la selección e implementación de los mecanismos de compensación se
+desarrollará de acuerdo con el cronograma establecido en el Plan, una vez que se
+42
+
+--- Página 43 ---
+Fojas 12827
+doce mil ochocientos veintisiete
+determinen y comiencen a ejecutar las acciones de conservación del humedal
+compensatorio establecido en la Medida 5 (M5). Esta planificación permite garantizar que
+las medidas de compensación se implementen bajo un enfoque integral, verificable,
+alineado con los criterios rectores del Acuerdo y sostenible en el largo plazo.
+5.5 Medida 5 – Compensación de un Humedal Altoandino similar o
+equivalente al bofedal Lagunillas
+5.5.1. Estado actual Medida 5
+Estatus general En ejecución
+Monto Gastado USD 59.964
+Verificadores
+5.a. Fase 1: Informe de propuesta metodológica de evaluación de
+Ejecutado
+humedal y gobernanza.
+5.b. Fase 2: Informe de caracterización de sitios. En ejecución
+5.c. Fase 3: Reporte de selección de humedal. En ejecución
+5.d. Fase 4: Plan de conservación de Humedal seleccionado. No iniciado
+5.e. Fase 5: Reporte de ejecución de medidas y reporte anual de
+seguimiento de acciones de implementación; y registro de No iniciado
+ejecución sustitutiva y equivalente, según corresponda.
+5.f. Fase 6: Mejora continua del Plan de Trabajo Lagunillas y el Plan
+No iniciado
+de conservación del humedal equivalente.
+5.5.2. Ejecución Medida 5
+La Medida 5 (M5) del Acuerdo de Transacción tiene como objetivo compensar por
+equivalencia los efectos sobre el bofedal Lagunillas, mediante la conservación y puesta
+en valor de un humedal altoandino con características similares o equivalentes,
+preferentemente ubicado en la Región de Tarapacá. Esta medida busca generar una
+ganancia ambiental neta, fortaleciendo la biodiversidad y los servicios ecosistémicos en
+un ecosistema adicional, complementando el Plan de Manejo que ejecuta CMCC en
+Lagunillas.
+Durante el período informado, CMCC avanzó en las fases iniciales de la medida. En 2024
+se completó la Fase 1, que consistió en la definición de la metodología y gobernanza para
+la selección del humedal compensatorio, mediante un servicio adjudicado a
+Cienciambiental Consultores S.A. Este trabajo estableció criterios técnicos, ecológicos y
+sociales. Posteriormente, en 2025 se inició la Fase 2, orientada a la identificación y
+evaluación de humedales preseleccionados, con estudios legales a cargo de la empresa
+Andes DataTEC y análisis técnicos desarrollados por Cienciambiental. Adicionalmente,
+el servicio de Cienciambiental iniciado, contempla la ejecución de la Fase 3, que
+43
+
+--- Página 44 ---
+Fojas 12828
+doce mil ochocientos veintiocho
+considera dentro de su alcance la selección del humedal equivalente, proceso que se
+encuentra en preparación y será validado por el Comité de Expertos.
+Estas acciones permiten acreditar el primer verificador (informe metodológico y
+gobernanza) y el avance sustantivo en los verificadores asociados a la Fase 2. Los
+próximos pasos en la ejecución de la medida incluyen la selección del humedal de
+compensación (Fase 3), la definición del plan de conservación del humedal seleccionado
+(Fase 4) y la preparación para la implementación de acciones de conservación y
+seguimiento a largo plazo (Fases 5 y 6). Con ello, CMCC busca asegurar una
+compensación ambiental efectiva, en coherencia con los objetivos del Acuerdo y los
+estándares regulatorios vigentes.
+5.5.3. Servicios Relacionados
+• Servicio: Diseño metodológico y de gobernanza para la selección de humedal
+equivalente al bofedal Lagunillas (Fase 1).
+o Empresa: Cienciambiental Consultores S.A.
+o Objetivo: Establecer una ruta técnica para la compensación de
+biodiversidad del bofedal Lagunillas, definiendo criterios ecológicos,
+sociales y territoriales para identificar humedales equivalentes, y diseñar
+el marco de gobernanza para su selección e implementación.
+o Alcance: Este servicio acredita el primer verificador de la Medida 5 (M5),
+al establecer la metodología técnica y el marco de gobernanza para la
+selección de un humedal equivalente al bofedal Lagunillas. Define criterios
+ecológicos, sociales y territoriales, y propone un marco de gobernanza
+para su selección e implementación, sentando las bases para una
+compensación ambiental equivalente.
+o Estado de avance: Servicio finalizado; informe final entregado en marzo
+de 2025 como primer verificador de la Medida 5 del Acuerdo de Lagunillas.
+• Servicio: Estudio legal de propiedades de suelos en 21 humedales
+preseleccionados (Fase 2).
+o Empresa: Andes DataTEC Servicios Legales.
+o Objetivo: Identificar distintas variables territoriales – legales que
+configuran actualmente el área de interés y analizar la factibilidad, desde
+el punto de vista legal, para acceder razonablemente y de buena fe a
+títulos de ocupación del territorio por parte de CMCC.
+o Alcance: Este servicio aborda la factibilidad legal y territorial de acceder a
+un listado de 21 humedales identificados preliminarmente para una posible
+compensación. Analiza variables jurídicas como propiedad, servidumbres
+y gobernanza, contribuyendo directamente con la acreditación del
+verificador de la Fase 2 de la Medida 5 (M5), y asegurando que la selección
+del humedal compensatorio sea jurídicamente sólida y ejecutable.
+44
+
+--- Página 45 ---
+Fojas 12829
+doce mil ochocientos veintinueve
+o Estado de avance: Estudio en curso; resultados preliminares esperados
+para fines de noviembre de 2025.
+• Servicio: Análisis de alternativas para selección de compensación de bofedal de
+Lagunillas (Fases 2 y 3 según Acuerdo) y sistematización de información (Medida
+6)
+o Empresa: Cienciambiental Consultores S.A.
+o Objetivos:
+1 Aplicación de la guía de Compensación de la Biodiversidad en
+ecosistemas terrestres y acuáticos continentales (SEA, 2023) a un
+listado de 21 posibles humedales previamente identificados.
+2 Cuantificación del impacto ambiental residual generado por la
+disminución de niveles freáticos en el humedal de Lagunillas
+producto de la extracción de agua de CMCC en la cuenca y
+ganancia en Biodiversidad.
+3 Preselección de 5 a 7 sitios mediante la aplicación de la Guía de
+Compensación del SEA.
+4 Ejecutar estudios y análisis en los sitios preseleccionados, para
+verificar las condiciones de similitud o equivalencia con el humedal
+de Lagunillas, en biodiversidad y/o servicios ecosistémicos.
+5 Organizar la información de monitoreo de variables ambientales del
+Plan de Manejo de Lagunillas, bajo estándares de datos
+informáticos para biodiversidad (Medida 6).
+o Alcance: Como parte de este servicio se aplica la Guía de Compensación
+de la Biodiversidad del SEA (2023) y la metodología desarrollada en la
+Fase 1 a los humedales preseleccionados, cuantificando el impacto
+ambiental residual en Lagunillas y la ganancia potencial en biodiversidad.
+Contribuye a la acreditación de los verificadores de las Fases 2 y 3, al
+caracterizar y seleccionar el humedal equivalente. Adicionalmente, este
+servicio cumple con el primer verificador de la Medida 6 (M6), ya que,
+organiza la información ambiental bajo estándares informáticos, según lo
+estipulado por el Acuerdo.
+o Estado de avance: En ejecución; servicio iniciado en septiembre de 2025,
+con una duración estimada de 14 meses.
+5.5.4. Verificadores
+5.a. Informe de propuesta metodológica de evaluación de humedal y gobernanza.
+Durante el primer semestre de 2024, CMCC, en colaboración con la consultora
+Cienciambiental, desarrolló la Fase 1 de la Medida 5 (M5). Esta se centró en la definición
+de la metodología y gobernanza para la selección de un humedal destinado a fines de
+45
+
+--- Página 46 ---
+Fojas 12830
+doce mil ochocientos treinta
+conservación. El servicio consistió en la elaboración de una propuesta metodológica
+robusta, alineada con estándares nacionales e internacionales (SEA, ICMM,
+CopperMark), que establece criterios técnicos, ecológicos y sociales para identificar
+humedales equivalentes al bofedal de Lagunillas.
+El informe entregado incluye herramientas para la planificación sistemática de la
+conservación, metodologías para la estimación del impacto residual y la ganancia neta
+en biodiversidad, y lineamientos para la implementación de planes de manejo adaptativo.
+Este constituye el primer verificador (5.a.) de la Medida 5 (M5), y sienta las bases para
+avanzar hacia una compensación equivalente. (Ver Anexo Verificadores Medida 5.a).
+5.b. Informe de caracterización de sitios.
+Durante el tercer trimestre de 2025, CMCC desarrolló una licitación para realizar estudios
+legales sobre las propiedades de los suelos en los que se encuentran los 21 humedales
+preseleccionados como potenciales sitios de conservación. El servicio fue adjudicado a
+la empresa Andes DataTEC. El estudio tiene por objetivo caracterizar los sitios y analizar
+la factibilidad legal para acceder razonablemente y de buena fe a títulos de ocupación del
+territorio por parte de CMCC, considerando aspectos de propiedad, servidumbres y
+gobernanza territorial. Se espera recibir los resultados preliminares en noviembre de
+2025, y estos serán utilizados como input del servicio en curso de Cienciambiental.
+En septiembre de 2025, CMCC adjudicó mediante licitación el servicio de “Análisis de
+alternativas para selección de compensación de bofedal de Lagunillas”, conforme a la
+metodología definida en la Fase 1 de la medida. La empresa Cienciambiental fue
+seleccionada para desarrollar un estudio técnico orientado a la caracterización de sitios.
+Este servicio corresponde al verificador 5.b de la Medida 5 del Acuerdo, y se estima que
+el informe de caracterización estará disponible entre junio y julio de 2026, abarcando
+análisis técnicos, campañas en terreno y validación por parte del Comité de Expertos.
+5.c. Reporte de selección de humedal.
+En septiembre de 2025, CMCC adjudicó el servicio “Análisis de alternativas para
+selección de compensación de bofedal de Lagunillas” a la consultora Cienciambiental, en
+línea con la ruta técnica establecida previamente en la Fase 1. Este estudio tiene por
+objetivo identificar la(s) mejor(es) opción(es) de humedal equivalente, considerando
+criterios de similitud ecosistémica, viabilidad de conservación, factibilidad legal y
+alineamiento con los objetivos del Acuerdo.
+Es importante destacar que el informe de caracterización de sitios desarrollado en la Fase
+2 (verificador 5.b) constituye un insumo crítico para esta etapa, ya que entrega
+información técnica y legal sobre los humedales preseleccionados, permitiendo aplicar
+los criterios definidos en la metodología y reducir incertidumbre en la toma de decisiones.
+Sobre esta base, el servicio contempla análisis comparativos, campañas en terreno y la
+validación técnica por parte del Comité de Expertos, asegurando que la selección del
+humedal se realice bajo estándares científicos y regulatorios.
+46
+
+--- Página 47 ---
+Fojas 12831
+doce mil ochocientos treinta y uno
+La acreditación del verificador 5.c se materializará con la entrega del Reporte de
+Selección de Humedal, documento que consolidará los resultados del análisis técnico y
+las recomendaciones del Comité de Expertos. Este reporte será clave para iniciar la Fase
+4 (Plan de Conservación), asegurando que la compensación ambiental proyectada, en
+coherencia con los objetivos del Acuerdo y las políticas de biodiversidad vigentes.
+5.d. Plan de conservación de Humedal seleccionado.
+Este verificador corresponde al desarrollo de la Fase 4 de la Medida 5, y consiste en la
+definición del Plan de Conservación para el humedal altoandino seleccionado como sitio
+compensatorio. El plan deberá establecer objetivos claros de conservación, indicadores
+de biodiversidad, mecanismos de seguimiento y estrategias de manejo adaptativo,
+alineados con los criterios técnicos y sociales definidos en la metodología aprobada en la
+Fase 1 y con los resultados obtenidos en las fases anteriores.
+Se espera que la elaboración del Plan de Conservación se inicie una vez validada la
+selección del humedal por el Comité de Expertos y concluya durante el año 2028,
+respetando los plazos establecidos en el Acuerdo. Este plan será la base para
+implementar las fases siguientes (ejecución de acciones y seguimiento a largo plazo),
+asegurando una compensación ambiental efectiva.
+5.e. Reporte de ejecución de medidas y reporte anual de seguimiento de acciones de
+implementación; y registro de ejecución sustitutiva y equivalente, según corresponda.
+La Fase 5 corresponde a la ejecución de las acciones de conservación en el humedal
+seleccionado y el seguimiento anual de su implementación, asegurando que las medidas
+compensatorias se materialicen en resultados verificables. Esta etapa incluye la
+generación de reportes anuales que documenten el avance de las acciones, así como la
+incorporación de registros que acrediten la ejecución sustitutiva y equivalente, en caso de
+ser necesario.
+Este verificador depende directamente de la finalización de la Fase 4 (Plan de
+Conservación), ya que dicho plan definirá los objetivos, indicadores y mecanismos de
+seguimiento que orientarán la implementación. Por ello, la Fase 5 se proyecta para iniciar
+una vez validada la selección del humedal y aprobado su plan de conservación, lo que se
+estima para el año 2028.
+5.f. Fase 6 – Mejora continua del Plan de Trabajo Lagunillas y el Plan de conservación del
+humedal equivalente.
+La Fase 6 tiene como propósito integrar el conocimiento adquirido en las distintas
+acciones ejecutadas en el bofedal Lagunillas en ejecución de las RCA de CMCC y las
+medidas del Acuerdo de Transacción, con la conservación del humedal compensatorio,
+aplicando un enfoque de mejora continua. Esta etapa busca generar sinergias entre
+ambos planes, incorporando aprendizajes técnicos, sociales y ambientales para optimizar
+47
+
+--- Página 48 ---
+Fojas 12832
+doce mil ochocientos treinta y dos
+las estrategias de manejo adaptativo y fortalecer la resiliencia de los ecosistemas
+altoandinos.
+Al igual que la Fase 5, esta etapa depende de los avances en las fases anteriores,
+especialmente la implementación del Plan de Conservación (Fase 4) y la ejecución de
+acciones de conservación (Fase 5). Su desarrollo se proyecta en paralelo con la Fase 5,
+durante un período de 15 años, asegurando que la compensación ambiental no solo
+cumpla con los objetivos iniciales, sino que evolucione en función de los resultados
+obtenidos y las condiciones cambiantes del entorno.
+5.6 Medida 6 – Plan de Divulgación Lagunillas y de las medidas del
+Acuerdo
+5.6.1. Estado actual Medida 6
+Estatus general En ejecución
+Monto Gastado / Adjudicado USD 30.922
+Verificadores
+6.a. Bases de datos de información de variables ambientales. En ejecución
+6.b. Publicación científica en revista indexada o en congreso o eventos
+En ejecución
+especializados.
+6.c. Libro sobre la evolución del humedal de Lagunillas estrategia de
+No iniciado
+socialización de la información científica.
+6.d. Creación de la página web de difusión Ejecutado
+5.6.2. Ejecución Medida 6
+La Medida 6 (M6) del Acuerdo de Transacción tiene como objetivo poner en valor el
+trabajo realizado en el sector Lagunillas y difundir el conocimiento científico generado por
+el Plan de Manejo de Lagunillas y las medidas del Acuerdo. Esta medida busca fortalecer
+la educación ambiental y la transparencia, mediante la sistematización de datos, la
+producción científica y la creación de herramientas de divulgación accesibles para
+comunidades, autoridades y actores técnicos.
+Durante el período informado, CMCC avanzó en la implementación de esta medida con
+hitos relevantes. En junio de 2024, se lanzó la página web oficial del Acuerdo
+( www.acuerdoslagunillas.cl ), que funciona como repositorio público de información,
+cumpliendo con el verificador 6.d. Posteriormente, se inició la organización de bases de
+datos bajo estándares informáticos para biodiversidad, a cargo de la empresa
+Cienciambiental, y además, se definió la estrategia de socialización del conocimiento
+científico, que contempla publicaciones en revistas indexadas, presentaciones en
+congresos y actividades participativas. Adicionalmente, se está trabajando para contratar
+48
+
+--- Página 49 ---
+Fojas 12833
+doce mil ochocientos treinta y tres
+un servicio periodístico para la elaboración de un libro especializado sobre la evolución
+del bofedal Lagunillas, todo esto basado en la información y conocimientos de la empresa
+Biornat, quiénes han ejecutado el Plan de Manejo de Lagunillas desde 2006.
+Estas acciones, acreditan parcialmente los verificadores asociados a la Medida 6 (M6),
+incluyendo la creación del sitio web y el inicio de la sistematización de datos. Los próximos
+pasos contemplan la publicación de artículos científicos, la finalización del libro y la
+ejecución de actividades de divulgación con actores locales y comunidades técnicas,
+consolidando la vocación educativa y participativa del Acuerdo.
+5.6.3. Servicios Relacionados
+• Servicio: Organización de bases de datos y análisis estadístico de variables
+ambientales (Fase 3).
+o Empresa: Cienciambiental Consultores S.A.
+o Objetivo: Sistematizar la información de monitoreo del bofedal Lagunillas
+bajo estándares informáticos para biodiversidad y realizar análisis de
+tendencias temporales.
+o Alcance: Este servicio aborda el primer verificador de la Medida 6 (M6), al
+organizar la información ambiental generada por el Plan de Trabajo
+Lagunillas y las medidas M1, M3, M4 y M5 bajo estándares informáticos
+para biodiversidad. Su ejecución permite consolidar una base de datos
+estructurada que facilita la trazabilidad ambiental del Acuerdo y habilita la
+producción científica y divulgativa de los resultados obtenidos, pudiendo
+dar eventualmente por acreditado el segundo verificador de la medida.
+o Estado de avance: En ejecución; entrega de insumo final esperada entre
+diciembre 2025 y enero 2026.
+• Servicio: Desarrollo, gestión y mantención de la página web oficial del sector
+Lagunillas (Fase 3).
+o Empresa: Accionet SpA.
+o Objetivo: Asegurar la operatividad y correcto funcionamiento de la página
+web del Acuerdo de Lagunillas, incluyendo la carga, organización y
+actualización continua de la información asociada al Acuerdo.
+o Alcance: Este servicio acredita el cuarto verificador de la Medida 6 (M6),
+al habilitar un repositorio digital público que centraliza la información
+técnica del Acuerdo. La plataforma permite difundir los avances de las
+medidas M1 a M6, garantizar la transparencia del proceso y facilitar el
+acceso a los documentos clave por parte de comunidades locales,
+autoridades y actores técnicos.
+o Estado de avance: Ejecutado; sitio web operativo desde junio de 2024.
+49
+
+--- Página 50 ---
+Fojas 12834
+doce mil ochocientos treinta y cuatro
+5.6.4. Verificadores
+6.a. Bases de datos de información de variables ambientales.
+Desde el segundo semestre de 2025, CMCC se encuentra desarrollando la organización
+de bases de datos y análisis estadísticos mediante un servicio “Organización de bases
+de datos y análisis estadístico de variables ambientales” encargado a la empresa
+Cienciambiental, la cual también participa en la ejecución técnica de la Medida 5 (M5).
+Este trabajo contempla la estructuración de la información ambiental bajo estándares
+informáticos para biodiversidad, y se proyecta contar con el entregable entre diciembre
+de 2025 y enero de 2026.
+6.b. Publicación científica en revista indexada o en congreso o eventos especializados
+Este verificador busca garantizar la difusión del conocimiento científico generado por el
+Plan de Manejo Lagunillas y/o las medidas del Acuerdo, mediante publicaciones en
+revistas indexadas y presentaciones en congresos especializados. Durante el período
+informado, CMCC definió la estrategia de producción científica, que contempla la
+participación de empresas ejecutoras de las medidas y del Comité de Expertos,
+asegurando rigor técnico y trazabilidad.
+Actualmente, se encuentra en proceso de definición de los artículos científicos que serán
+desarrollados y publicados en revistas indexadas o presentados en congresos
+especializados. Para estas tareas se considera la participación de las empresas que han
+ejecutado las distintas medidas del Acuerdo, así como del investigador Rodrigo Pardo,
+miembro del Comité de Expertos. Esta producción científica busca sistematizar los
+aprendizajes del Plan de Manejo de Lagunillas y las Medidas M1, M3, M4 y M5,
+contribuyendo a la generación de conocimiento replicable sobre ecosistemas altoandinos.
+6.c. Libro sobre la evolución del humedal de Lagunillas estrategia de socialización de la
+información científica
+Actualmente, CMCC está avanzando en la preparación de un proceso de licitación para
+adjudicar a una empresa de servicios periodísticos que permita capturar y relatar los
+trabajos técnicos desarrollados por la empresa Biornat, responsable del Plan de Manejo
+del Sistema Lagunillas desde 2006. Esto permitirá a CMCC cumplir con la elaboración de
+un libro especializado sobre la evolución del bofedal Lagunillas. Este libro integrará los
+resultados del monitoreo ambiental, las acciones de restauración y los aprendizajes
+institucionales acumulados, presentados en un formato divulgativo que permita su uso en
+contextos educativos, comunitarios y técnicos. Se espera que este producto contribuya a
+fortalecer la educación ambiental y la valorización del ecosistema Lagunillas como
+modelo de restauración de humedales altoandinos.
+50
+
+--- Página 51 ---
+Fojas 12835
+doce mil ochocientos treinta y cinco
+6.d. Creación de la página web de difusión: ejecutado, página web publicada en junio de
+2024 y certificada por Accionet en julio de 2024.
+En junio de 2024, CMCC lanzó la página web oficial del Acuerdo
+(www.acuerdoslagunillas.cl), la cual funciona como repositorio digital de acceso público
+para la divulgación de los avances e información generada a partir del Acuerdo,
+acreditando el verificador 6.d. Esta plataforma ha sido certificada por la empresa Accionet
+SpA y se encuentra operativa, con actualizaciones periódicas de contenido. (Ver Anexo
+Verificadores Medida 6.d.)
+6. Principales desafíos en la implementación del Acuerdo
+De acuerdo con lo establecido en el numeral 45. del Acuerdo, en este acápite se
+desarrollan los principales desafíos que ha debido afrontar CMCC para llevar adelante la
+ejecución del Acuerdo de Lagunillas durante el período informado.
+A modo de síntesis, en lo sucesivo se dará cuenta al IPTA de las dificultades asociadas
+a la intervención de terceros coadyuvantes de este mismo proceso judicial que han
+buscado entorpecer la ejecución del Acuerdo y de los compromisos ambientales de
+CMCC en Lagunillas y de desafíos en la ejecución presupuestaria de algunas de las
+medidas del Acuerdo.
+6.1. Intervención de terceros coadyuvantes del demandante de autos
+que han buscado impedir la ejecución exitosa del manejo del sector
+Lagunillas
+6.1.1. Intervención de terceros coadyuvantes del demandante de autos en el marco
+del juicio que terminó por medio del Acuerdo de Lagunillas
+Según consta en el expediente judicial de la causa D-10-2021 del IPTA, el 13 de
+septiembre de 2022 don Luis Patricio Zúñiga Martínez y don Carlos Yamal Farhan
+Villalobos solicitaron hacerse parte en el procedimiento como terceros coadyuvantes del
+demandante. Ambos “terceros” afirmaban ser titulares de supuestos derechos
+hereditarios sobre la así llamada “Estancia Cancosa”, los cuales habrían adquirido desde
+el año 2022 en sucesivos actos jurídicos, llegando a detentar una cifra cercana al 1% de
+los supuestos derechos sobre la Estancia.
+Es más, el Sr. Farhan adquirió, en los meses de enero y octubre de 2022, derechos
+litigiosos cedidos por el Sr. Luis Jara –demandante en los autos D-10-2021– en contra de
+CMCC por los hechos materia de dicha demanda.
+El 13 de octubre de 2023, el IPTA resolvió tener a los Sres. Zúñiga y Farhan como
+terceros coadyuvantes de la parte demandante.
+51
+
+--- Página 52 ---
+Fojas 12836
+doce mil ochocientos treinta y seis
+Con el propósito de poner término al conflicto iniciado por el Sr. Jara, CMCC celebró
+transacciones destinadas a zanjar la controversia con todos los posibles y supuestos
+titulares de derechos sobre la supuesta “Estancia Cancosa”. Así, el 18 de octubre de
+2022, los Sres. Farhan y Zúñiga suscribieron ante la Notario Público doña Susana
+Belmonte Aguirre una transacción en la que ambos renunciaron a su pretensión de
+dominio y a todo tipo de derechos reales y personales, sobre un área o polígono de
+terreno ubicado al interior del Predio Huantija y de la Estancia Cancosa. Esto es relevante,
+ya que en esta área se encuentran el ecosistema Lagunillas y el campo de pozos de
+CMCC.
+A pesar de haber renunciado a todos los supuestos derechos que invocaba sobre el área,
+los Sres. Farhan y Zúñiga comenzaron, en octubre de 2023, a interponer una serie de
+escritos en la causa que dio origen al Acuerdo, oponiéndose a su ejecución. Lo anterior
+consta a fojas 11.257 del expediente electrónico.
+Desde entonces, el Sr. Farhan ha llevado adelante una serie de acciones destinadas a
+oponerse a la ejecución de este acuerdo y a entorpecer la correcta implementación de
+las medidas de gestión del área de Lagunillas.
+Así, en el expediente consta la apelación que dedujo en contra de la resolución que tuvo
+por aprobado este Acuerdo. Dicho recurso fue declarado inadmisible 2 .
+En paralelo a estos recursos, el Sr. Farhan –en febrero de 2024— formuló ante este IPTA
+un incidente de incumplimiento de la transacción ambiental por la supuesta “imposibilidad
+jurídica” de cumplir con el Acuerdo. El Sr. Farhan fundaba su alegación en que CMCC
+carecería de derechos de aprovechamiento de agua en el pozo PR para su ejecución.
+Este incidente fue correctamente rechazado por el IPTA, al no coincidir con la postura de
+la demandada y demandante a quien el Sr. Farhan coadyuvaba.
+Luego, el señor Farhan continuó con sus intentos por entorpecer la ejecución del Acuerdo,
+ingresando nuevas solicitudes de “rectificación, aclaración o enmienda”, una en agosto
+de 2024 y una en mayo de 2025. Ambas solicitudes fueron denegadas. 3
+Por otro lado, tal como se detalla en el siguiente apartado, CMCC se encuentra a la
+espera que la DGA cumpla con otorgarle el traslado de punto de captación de sus
+derechos de aprovechamiento de agua desde el pozo P3 al pozo PR, según lo establecido
+2 Dicha resolución fue objeto a su vez de un recurso de hecho para ante la Iltma. Corte de
+Apelaciones de Antofagasta y, el rechazo de dicho recurso, por sentencia de 6 de febrero de 2024
+ICA de Antofagasta, Rol Ambiental N°9-2023. fue además objeto de un recurso de casación, por
+sentencia de la Excma. Corte Suprema, sentencia de 5 de abril de 2024, Rol N°7913-2024, el que
+fue declarado inadmisible por la Excma. Corte Suprema en abril de 2024.
+3 El segundo caso originó una nueva ronda de impugnaciones. Frente a lo resuelto por este IPTA,
+el señor Farhan presentó un recurso de apelación, que fue declarado inadmisible. Ello motivo la
+interposición de un recurso de hecho, que fue rechazado por la Iltma. Corte de Apelaciones de
+Antofagasta. Dicho rechazo motivó, a su vez, un recurso de queja ante la Corte Suprema, que
+también terminó siendo declarado inadmisible el 29 de septiembre pasado.
+52
+
+--- Página 53 ---
+Fojas 12837
+doce mil ochocientos treinta y siete
+en la RCA N°13/2022, que complementó a la RCA N° 69/2015. La razón de que dicho
+traslado aún no se haya realizado es precisamente que el Sr. Farhan ha llevado adelante
+una serie de acciones destinadas a impedir que ello se concrete.
+6.1.2. Tramitación de cambio en punto de captación de agua para el funcionamiento
+del SRA: tramitación ante DGA y la obstaculización de Carlos Farhan
+Parte de las acciones contempladas en la RCA N°13/2022 para la protección del bofedal
+Lagunillas consisten en el cambio del punto de captación de aguas subterráneas de
+alimentación del SRA. Así, los derechos de agua que asisten al pozo P3 serían
+trasladados al pozo PR, con miras a favorecer la más rápida recuperación del acuífero.
+CMCC cumplió diligentemente con su obligación, solicitando el traslado del punto de
+captación, en enero de 2017 ante la DGA de Tarapacá. En tal ocasión, el Sr. Jara junto
+con otros miembros de la supuesta comunidad hereditaria que se decía propietaria de la
+“Estancia Cancosa” se hicieron parte en el expediente administrativo oponiéndose a la
+solicitud, al encontrarse el pozo PR al interior de lo que invocaban como su propiedad.
+En consecuencia, para poder autorizar el cambio de punto de captación, la DGA debería
+obtener su autorización como propietarios en base al artículo 42 letra d) del S.D. MOP
+N°203 4 .
+Después de más de 4 años de tramitación, la DGA terminó desechando la oposición y
+otorgando la autorización de cambio de punto de captación mediante la Res. Exenta
+N°354/2020.
+Sin embargo, en enero de 2021 el señor Jara interpuso una reclamación judicial del
+artículo 137 del Código de Aguas ante la Iltma. Corte de Apelaciones de Iquique y, luego
+de que fuera rechazada 5 , un recurso de casación ante la Excma. Corte Suprema 6 . Esta
+última, justo cuando las negociaciones entre las partes de causa tramitada ante el IPTA
+se encontraban en curso, acogió la casación, dejando sin efecto la Res. Exenta
+N°354/2022. La razón dada por Corte Suprema fue que, habiéndose constatado que
+existía un problema de superposición de inscripciones, se requería contar con la
+autorización de todos los poseedores inscritos.
+Esto hizo necesario que CMCC obtuviera una autorización de todos y cada uno de los
+supuestos titulares de derechos en la “Estancia Cancosa”. El Sr. Farhan otorgó dicha
+autorización ante notario el 21 de octubre de 2022, tras haber suscrito la transacción ya
+referida arriba.
+Ahora bien, la DGA también solicitó a CMCC la obtención de escritos de “renuncias de
+acciones” –condición no contemplada en la ley pero que la DGA estimó procedente dada
+4 “ En el evento que el titular de la solicitud no fuere el propietario del terreno, se deberá acompañar
+la autorización escrita del dueño respectivo ”.
+5 Por sentencia de la ICA de Iquique de 16 de septiembre de 2021 en causa Rol Contencioso
+Administrativo N°1-2021.
+6 CS, Sentencia de 27 de septiembre de 2021, Rol N°78.927-2021.
+53
+
+--- Página 54 ---
+Fojas 12838
+doce mil ochocientos treinta y ocho
+la alta litigiosidad asociada al asunto–. La única persona que no otorgó la renuncia
+indicada - a pesar de haberse comprometido a ello – fue el Sr. Farhán. La siguiente acción
+del Sr. Farhan fue la presentación de un escrito ante la DGA Nacional, retractándose
+unilateralmente la autorización que había brindado para el cambio de punto de captación
+de aguas al Pozo PR. A pesar de que dicha retractación no produce efecto alguno, la
+DGA igualmente rechazó la solicitud de traslado del punto de captación a través de la
+Res. DGA N°211/2024 fundándose en ella.
+Esto obligó a CMCC a iniciar una reclamación judicial en contra de dicha resolución,
+tramitada bajo el rol Contencioso Administrativo-183-2024 de la Iltma. Corte de
+Apelaciones de Santiago.
+El 17 de septiembre de 2024, la Iltma. Corte de Apelaciones de Santiago, acogió la
+reclamación judicial de CMCC, dejando sin efecto la Res. DGA N°211/2024 y ordenó
+expresamente a la DGA Regional de Tarapacá que dictara una Resolución Exenta que
+otorgara el cambio de punto de captación hacia el Pozo PR.
+La Iltma. Corte de Apelaciones de Santiago estableció, entre varios otros puntos, que lo
+que se encontraba en juego era precisamente la implementación de una medida de
+mitigación ambiental 7 .
+Como ha sido la constante, el Sr. Farhan dedujo recursos de casación en la forma y en
+el fondo en contra de dicho fallo. Más aún, una vez ingresado dicho recurso en la Excma.
+Corte Suprema, el Sr. Farhan presentó un requerimiento de inaplicabilidad por
+inconstitucionalidad ante el Tribunal Constitucional (Rol de Ingreso 15.980-24-INA). El
+propósito de este recurso era, nuevamente, meramente dilatorio: posponer el
+otorgamiento del traslado del punto de captación, para así presionar a CMCC.
+El recurso ante el Tribunal Constitucional fue rechazado el 19 de agosto de 2025. Luego
+de ello, se alzó la suspensión del procedimiento ante la Excma. Corte Suprema, la que
+finalmente, mediante sentencia dictada con fecha 13 de noviembre de 2025, declaró
+inadmisible la casación en la forma y rechazó el recurso de casación en el fondo
+presentado por el Sr. Farhan, por manifiesta falta de fundamento. Esta resolución fue
+objeto de recurso de reposición el 17 de noviembre del año en curso.
+En este contexto, CMCC se encuentra a la espera de que finalmente la DGA cumpla con
+el fallo de la Iltma. Corte de Apelaciones de Santiago que le ordenó dictara la Resolución
+Exenta que autorice el traslado del punto de captación de aguas hacia el Pozo PR.
+Mientras tanto, como consecuencia de los entorpecimientos del Sr. Farhan y al no poder
+7 “DÉCIMOSEXTO: Que para tal conclusión estos sentenciadores no han podido dejar de tener
+en consideración que la Dirección General de Aguas, tiene entre sus fines estratégicos avanzar
+en materia de recursos hídricos resilientes, velando por el cuidado del medioambiente, por lo que
+al resolver no pudo dejar de tener en consideración que el cambio del punto de captación no se
+ha solicitado con el fin de extraer aguas para continuar una explotación económica en faenas
+mineras, sino para recuperar las aguas de un bofedal, al que la solicitante se encuentra
+obligada conforme las autorizaciones medio ambientales al término de una explotación. ”
+(énfasis agregado)
+54
+
+--- Página 55 ---
+Fojas 12839
+doce mil ochocientos treinta y nueve
+desatender las obligaciones derivadas de la RCA N°13/2022, CMCC ha debido operar el
+SRA por medio del Pozo P3.
+6.1.3. Las recientes acciones de protección del Sr. Farhan ante la Corte de
+Apelaciones de Iquique destinadas a impedir la operación del SRA
+Recientemente, el Sr. Farhan presentó dos acciones de protección ante la Iltma. Corte de
+Apelaciones de Iquique en contra de la Dirección General de Aguas, la Superintendencia
+del Medio Ambiente, CMCC y BHP Group Inc (esta última, entidad que no tiene existencia
+legal).
+El primero de estos recursos fue originalmente declarado inadmisible. Sin embargo, dicha
+resolución fue revertida por la Excma. Corte Suprema. Cabe señalar que el Sr. Farhan
+solicitaba nada menos que la detención del SRA por medio del cese de las extracciones
+del pozo P3.
+En paralelo, el Sr. Farhan presentó un nuevo e idéntico recurso de protección ante la
+misma Iltma. Corte de Apelaciones de Iquique –Rol N°1559-2025—, en contra de los
+mismos recurridos, por los mismos hechos. El petitorio de esta acción demuestra
+nuevamente que se trata de un intento de forzar la suspensión del SRA.
+La Iltma. Corte de Apelaciones de Iquique rechazó ambos recursos, con costas,
+reconociendo que la actuación de CMCC se ha visto obstaculizada o entrabada por la
+acción del recurrente, quien ha pretendido instrumentalizar estas acciones con fines
+particulares. 8
+El Sr. Farhan ha intentado entonces entorpecer no solo el Acuerdo de Lagunillas, sino
+que también impedir la correcta ejecución de las medidas básicas de gestión del área de
+Lagunillas –aquellas medidas que el presente acuerdo buscaba optimizar–,
+especialmente la operación del SRA.
+8 ICA de Iquique, Sentencia de 5 de noviembre de 2025, Rol N°1465-2025 (acumulada a Rol
+N°1559-2025), considerando séptimo.
+55
+
+--- Página 56 ---
+Fojas 12840
+doce mil ochocientos cuarenta
+6.2 Desafíos en la gestión presupuestaria
+Uno de los principales desafíos identificados corresponde a la ejecución financiera de la
+Medida 3 (M3). Si bien el Acuerdo contemplaba un presupuesto inicial de USD
+$1.000.000, la contratación de servicios especializados para estudios hidrogeológicos,
+ecosistémicos y climáticos ha implicado un incremento significativo en los costos,
+alcanzando aproximadamente USD $1.917.841, lo que representa un aumento cercano
+al 92% respecto de lo presupuestado. Este sobrecosto se explica por la complejidad
+técnica de los estudios requeridos y por la limitada oferta de empresas con capacidades
+y disposición para ejecutar trabajos en ecosistemas altoandinos bajo estándares
+científicos, logísticos y regulatorios exigentes. Esta situación ha demandado ajustes en la
+planificación financiera y la priorización de recursos para asegurar la continuidad de los
+servicios críticos.
+6.3 Desafíos asociados a la implementación de las Fases 2 y 3 de la
+Medida 5
+Otro desafío relevante se relaciona con la ejecución de las Fases 2 y 3 de la Medida 5
+(M5), que contemplan la caracterización y selección de humedales altoandinos
+equivalentes al bofedal Lagunillas. Estas fases requieren realizar estudios en múltiples
+sitios dentro de la Región de Tarapacá, algunos de los cuales no cuentan con
+relacionamiento previo con CMCC. Este escenario introduce incertidumbre y por cierto un
+desafío respecto de la autorización de acceso por parte de los propietarios o poseedores
+de dichos sitios para efectuar las mediciones necesarias, lo que podría eventualmente
+retrasar la ejecución más allá de los plazos originalmente previstos.
+Adicionalmente, no existe certeza de que se pueda acceder a todos los sitios
+preseleccionados, lo que incrementa el riesgo de extender los tiempos por factores ajenos
+a la gestión técnica y diligencia desplegada por CMCC. Este aspecto debe ser
+monitoreado, considerando su impacto en la secuencia lógica del Acuerdo y en la
+implementación futura del Plan de Conservación del humedal compensatorio de la
+Medida M5 (M5).
+7. Evolución de niveles del campo de pozos
+El comportamiento histórico de los niveles freáticos en el sector de Lagunillas ha estado
+influenciado por las operaciones de bombeo en los pozos de la zona. Este
+comportamiento se ilustra en la Figura 7.1, donde se presentan los hidrogramas de
+niveles medidos para los pozos LA-02, LA-03, LA-04 y LA-05, cuyas ubicaciones se
+muestran en la Figura 7.2. Por su parte, la Figura 7.3 presenta la evolución del caudal
+bombeado, desagregado a escala de pozo.
+56
+
+--- Página 57 ---
+Fojas 12841
+doce mil ochocientos cuarenta y uno
+Figura 7.1: Hidrogramas pozos LA-02, LA-03, LA-04 y LA-05. Fuente: Elaboración propia.
+Desde fines de 2020, se inició el proceso de recuperación de niveles, el cual ha
+continuado hasta fecha actual a diferentes tasas a lo largo de estos años, según se
+observa en la Figura 7.1.
+57
+
+--- Página 58 ---
+Fojas 12842
+doce mil ochocientos cuarenta y dos
+Figura 7.2: Ubicación pozos de bombeo (verde) y de observación (celeste).
+Fuente: Elaboración propia.
+Figura 7.3: Caudal de bombeo histórico cuenca Lagunillas.
+Fuente: Elaboración propia.
+58
+
+--- Página 59 ---
+Fojas 12843
+doce mil ochocientos cuarenta y tres
+Ahora bien, más allá del comportamiento general del nivel freático a lo largo del tiempo,
+al analizar en detalle el período de recuperación, es posible identificar que la recuperación
+ha ocurrido a diferentes tasas en función tanto del caudal total bombeado como de la
+configuración de pozos utilizada. Así, a modo de ejemplo, en la Figura 7.4 se presenta la
+evolución del nivel freático para el pozo LA-05, desde el inicio de la recuperación en el
+año 2020, en conjunto con el gráfico de bombeo para el mismo período.
+Se aprecia que la recuperación del nivel freático inició durante el segundo semestre del
+año 2020, en respuesta a la disminución progresiva al caudal total bombeado. En enero
+de 2022, el proceso de recuperación se aceleró, coincidiendo con una reducción del
+caudal total bombeado a solo 25 L/s. Luego, durante el resto de 2022 y durante todo el
+año 2023, la recuperación del nivel ocurrió a una tasa sostenida a pesar de haber
+bombeado del orden de 70 L/s como caudal promedio.
+Esta recuperación se logró debido a la activación del bombeo del pozo PR, lo cual permitió
+trasladar una parte del caudal bombeado, a la zona norte del acuífero. De hecho, hacia
+fines de 2023 se observa un incremento de la tasa de recuperación el cual responde tanto
+a la disminución del caudal total bombeado, así como al hecho de estar bombeando
+desde el pozo PR.
+Finalmente, desde enero de 2024, el caudal total bombeado, que corresponde
+únicamente al necesario para el abastecimiento del SRA tras el cese del bombeo
+operacional, proviene exclusivamente del pozo P-3, debido a los obstáculos generados
+por el Sr. Carlos Farhan que han impedido operar el pozo PR, según lo expuesto
+precedentemente.
+59
+
+--- Página 60 ---
+Fojas 12844
+doce mil ochocientos cuarenta y cuatro
+Figura 7.4: Análisis recuperación pozo LA-05.
+Fuente: Elaboración propia.
+8. Gastos asociados a medidas del Acuerdo
+Durante el período de implementación del Acuerdo comprendido entre noviembre de 2023
+y noviembre de 2025, CMCC ha destinado una parte significativa de los recursos
+financieros establecidos en el Acuerdo de Transacción de Lagunillas, en la ejecución de
+servicios técnicos, estudios especializados, infraestructura de monitoreo y acciones de
+divulgación científica (Figura 8.1).
+La gestión presupuestaria ha estado orientada a asegurar la obtención de los
+verificadores definidos para cada medida, priorizando la calidad técnica, la trazabilidad
+ambiental y la coherencia con los objetivos del Acuerdo.
+Los respaldos de los gastos incurridos en el periodo que comprende este informe se
+presentan en Anexo Respaldo Gastos.
+60
+
+--- Página 61 ---
+Fojas 12845
+doce mil ochocientos cuarenta y cinco
+Figura 8.1: Cuadro resumen de los servicios asociados a la implementación de medidas del Acuerdo de Transacción Lagunillas, sin IVA. Nota:
+se considera un valor promedio del dólar de Estados Unidos de América equivalente a 970 CLP.
+61
+
+--- Página 62 ---
+Fojas 12846
+doce mil ochocientos cuarenta y seis
+En la Medida 1 (M1) , no se contempla un gasto directo, dado que las acciones consisten
+en restricciones operacionales, renuncias de derechos de agua y publicación de
+información ambiental. Sin embargo, se han destinado recursos indirectos, esto es,
+recursos no contemplados en el Acuerdo para la actualización de los modelos
+hidrogeológicos, elaboración de gráficos y gestión documental.
+La Medida 2 (M2) cuenta con un presupuesto total de USD 690.000 , destinado a la
+extensión del Comité de Expertos hasta el año 2033. A la fecha, se ha gastado parte de
+este monto mediante la conformación y operación del Comité de Expertos. El seguimiento
+mensual del Comité y la participación en medidas transversales como M3 y M5 implican
+un gasto constante del presupuesto comprometido.
+En la Medida 3 (M3) , se ha comprometido un presupuesto de USD 1.000.000, distribuido
+en USD 600.000 para actividades en terreno y USD 400.000 para gabinete. Este monto
+ha sido ejecutado parcialmente a través de servicios contratados, con empresas como
+GHD, GEODATOS, AEROSOLUCIONES, entre otros, quienes han desarrollado estudios
+de caracterización de bofedales, campañas estacionales, modelos hidrogeológicos,
+análisis ecosistémicos y otros estudios requeridos. La entrega final de informes está
+programada para el primer semestre de 2026, lo que implica que el gasto continuará
+durante 2026 y estimándose un gasto final de aproximadamente USD 1.924.000 para el
+desarrollo de esta medida, siendo aproximadamente un 92% mayor a lo presupuestado
+inicialmente por el acuerdo.
+La Medida 4 (M4) contempla un presupuesto de USD 850.000, distribuido en USD
+250.000 para estudios técnicos, USD 300.000 para actividades de compensación, y USD
+300.000 para la instalación y operación de la torre Eddy Covariance. A la fecha, se ha
+ejecutado la instalación de la torre y se ha iniciado el monitoreo mensual de captura de
+carbono con Carbon Real por un total de aproximadamente USD 388.000 (~30% más de
+lo presupuestado por el Acuerdo). Además, se han contratado los servicios de SMI para
+la Estimación de Emisiones y Diseño del Plan de Compensación, por un total de
+aproximadamente USD 432.000. Se espera que el gasto se incremente significativamente
+a futuro con la implementación de los mecanismos de compensación.
+La Medida 5 (M5) representa el mayor compromiso financiero del Acuerdo, con un
+presupuesto total de USD 15.000.000 . Este monto se ejecutará progresivamente hasta
+junio del 2043, en seis fases que incluyen la definición metodológica, selección de
+humedal, diseño e implementación del plan de conservación, y seguimiento de acciones.
+Actualmente, se han iniciado la ejecución de las fases 1 a 3, con servicios contratados a
+Cienciambiental y Andes DataTEC para estudios legales, caracterización de sitios,
+análisis de alternativas y selección de humedal de compensación. Aunque el gasto
+ejecutado a la fecha es parcial (Fase 1), ya se han comprometido recursos (USD 350.000)
+para estudios técnicos que se extenderán hasta el primer trimestre de 2027 (Fases 2 y
+3) .
+Finalmente, la Medida 6 (M6) cuenta con un presupuesto de USD 400.000 , destinado a
+la sistematización de datos ambientales, producción científica y divulgación. A la fecha,
+62
+
+--- Página 63 ---
+Fojas 12847
+doce mil ochocientos cuarenta y siete
+se ha ejecutado la creación y mantención del sitio web oficial del Acuerdo
+(www.acuerdoslagunillas.cl), y se han contratado servicios con Cienciambiental para la
+organización de bases de datos, y con una empresa especializada para la elaboración de
+un libro. Se espera que el gasto aumente durante el próximo año, con la publicación de
+artículos científicos y la realización de actividades de socialización del conocimiento.
+La planificación financiera ha permitido avanzar en los objetivos del Acuerdo, asegurando
+que los recursos comprometidos se traduzcan en beneficios concretos para el ecosistema
+Lagunillas y su entorno.
+9. Próximos pasos y compromisos de los próximos 2 años
+Medida 1:
+• Continuar con el monitoreo del caudal que abastece el Sistema de Recarga
+Artificial y las actualizaciones periódicas de los niveles de los pozos de control
+de Lagunillas en la página web oficial del Acuerdo.
+• Fortalecer el Modelo Hidrogeológico de Lagunillas , ajustando y robusteciendo
+las proyecciones de recuperación de niveles freáticos.
+• Mantener la coordinación con la DGA , incluyendo el seguimiento de la Mesa de
+Trabajo sobre derechos de agua y la implementación de acuerdos derivados de
+dicha instancia.
+Medida 2:
+• Mantener sesiones mensuales del Comité de Expertos , asegurando la revisión
+continua de los avances técnicos de las medidas M1, M3 y M5.
+• Desarrollar nuevas minutas técnicas que analicen los resultados de las
+campañas de monitoreo, evolución del acuífero, desempeño de los modelos
+hidrogeológicos y/u otros.
+• Publicar informes y recomendaciones técnicas en el repositorio web del
+Acuerdo, asegurando la transparencia y trazabilidad de las decisiones.
+• Evaluar la necesidad de ajustes metodológicos en función de los resultados
+obtenidos en terreno y en gabinete, proponiendo mejoras al Plan de Trabajo
+Lagunillas.
+Medida 3:
+• Desarrollar el informe de estimación de evolución natural de los bofedales
+estudiados, incorporando el potencial efecto del cambio climático global en los
+sistemas vegetacionales altoandinos.
+• Elaborar el informe final de evaluación de la Imagen Objetivo del bofedal
+Lagunillas, conforme a la Resolución Exenta N°67/2011 de la COEVA, y definir si
+es necesario solicitar su actualización.
+63
+
+--- Página 64 ---
+Fojas 12848
+doce mil ochocientos cuarenta y ocho
+• Evaluar la necesidad de estudios adicionales o medidas provisionales ,
+conforme al artículo 25 quinquies de la Ley N°19.300 y la Ley de Procedimiento
+Administrativo (LPA), para precisar la evolución esperada del bofedal Lagunillas.
+• Presentar petición de actualización de Imagen Objetivo del Bofedal Lagunillas
+y/o desarrollo de estudios adicionales que permitan precisar evolución esperada
+en bofedal de Lagunillas, conforme al artículo 25 quinquies de la Ley N°19.300 y,
+en su caso, petición de medidas provisionales al amparo de la LPA.
+Medida 4:
+• Actualizar el informe de estimación de GEI y pérdida de captura de carbono ,
+incorporando los resultados de la segunda campaña en terreno.
+• Continuar el monitoreo mensual de la Torre Eddy Covariance , asegurando la
+recopilación continua de datos sobre captura y emisión de carbono al menos hasta
+junio del 2026.
+• Analizar los datos obtenidos mediante el monitoreo mensual a través de la
+Torre Eddy Covariance , para determinar si el bofedal Lagunillas actúa como
+sumidero o fuente de CO ₂ , y ajustar las estrategias de compensación en función
+de los resultados.
+Medida 5:
+• Ejecutar estudios en los sitios preseleccionados , para verificar condiciones de
+similitud o equivalencia con el bofedal Lagunillas (Fase 2).
+• Finalizar la selección del humedal altoandino para compensación , conforme
+a los criterios definidos en la Fase 1 y validados por el Comité de Expertos (Fase
+3).
+• Iniciar el diseño del Plan de Conservación del humedal seleccionado ,
+incluyendo objetivos de conservación, indicadores de biodiversidad y mecanismos
+de seguimiento (Fase 4).
+Medida 6:
+• Organizar la información de monitoreo ambiental bajo estándares informáticos
+para biodiversidad.
+• Desarrollar y publicar artículos científicos , en revistas indexadas o congresos
+especializados, que sistematicen los resultados del Plan de Trabajo Lagunillas y
+las medidas M1, M3, M4 y M5.
+• Finalizar el libro especializado sobre la evolución del bofedal Lagunillas ,
+integrando los resultados del monitoreo y restauración desde 2006.
+• Ejecutar actividades de divulgación con actores locales y comunidades
+técnicas/científicas , promoviendo la educación ambiental y la valorización del
+ecosistema Lagunillas.
+Transversal:
+64
+
+--- Página 65 ---
+Fojas 12849
+doce mil ochocientos cuarenta y nueve
+• Fortalecer la trazabilidad de la implementación del Acuerdo , mediante la
+sistematización de avances, verificadores y documentación técnica en el
+repositorio web.
+• Consolidar la gobernanza ambiental del Acuerdo , promoviendo la participación
+de actores relevantes y asegurando la coherencia entre medidas.
+10. Conclusiones
+Durante el período reportado en este Primer Informe Bienal, comprendido entre
+noviembre de 2023 y noviembre de 2025, CMCC ha avanzado de manera significativa en
+la implementación de las seis medidas comprometidas en el Acuerdo de Transacción de
+Lagunillas, aprobado por el IPTA en el marco de la causa Rol D-10-2021.
+Este primer informe bienal da cuenta de los avances sustantivos en la ejecución técnica,
+administrativa y financiera de las medidas, reflejando una gestión orientada al
+complemento de las medidas que ya estaban siendo implementadas para la recuperación
+del acuífero Lagunillas, la protección del bofedal asociado y la compensación de efectos
+sobre este.
+La Medida 1 (M1) ha sido cumplida en su totalidad, destacando el cese del bombeo
+operacional, la renuncia a derechos de agua (salvo los caudales destinados al
+abastecimiento del Sistema de Recarga Artificial (SRA) en ejecución) y la publicación de
+información ambiental en la plataforma web oficial del Acuerdo
+(www.acuerdoslagunillas.cl). Las Medidas 2 a 6 (M2 a M6) se encuentran en ejecución,
+con avances relevantes en la conformación y operación del Comité de Expertos, el
+desarrollo de estudios hidrogeológicos y ecosistémicos, la instalación de infraestructura
+de monitoreo de carbono, la metodología de identificación de humedales equivalentes
+para compensación, y la sistematización de datos ambientales para divulgación científica.
+Los resultados obtenidos hasta la fecha evidencian una estrategia integral que articula la
+implementación de las diferentes medidas del Acuerdo, generando conocimiento
+científico y promoviendo la gestión de ecosistemas altoandinos.
+65
