@@ -1,0 +1,524 @@
+--- Página 1 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+VER INFORMACIóN FIRMA DESCARGAR XML IMPRIMIR
+N o 325
+Iquique, 30 de Julio de 2014
+Informe Consolidado Nº 2 de Solicitud de Aclaraciones, Recti fi caciones y/o Ampliaciones al Estudio de Impacto Ambiental del Proyecto
+"Proyecto Continuidad Operacional Cerro Colorado"
+Nombre del Titular : Compañia Minera Cerro Colorado Ltda.
+Nombre del Representante Legal : Cristian Andres Sandoval Gonzalez
+Dirección : Esmeralda 340, piso 4
+El presente Informe Consolidado de Solicitud de Aclaraciones, Recti fi caciones o Ampliaciones complementario al Estudio de Impacto Ambiental del
+proyecto "Proyecto Continuidad Operacional Cerro Colorado", contiene las observaciones generadas por los organismos con competencia ambiental
+que han participado en la revisión del Estudio de Impacto Ambiental.
+La respuesta a este Informe Consolidado deberá expresarse a través de un documento denominado Adenda Nº 2 a el Estudio de Impacto Ambiental
+del proyecto "Proyecto Continuidad Operacional Cerro Colorado", la que deberá entregarse en 11 ejemplares, otorgándose como plazo 90 días
+hábiles.
+Si requiere de un plazo mayor al otorgado para responder, este podrá extenderse, lo cual deberá comunicarlo por escrito a este Servicio, dentro del
+plazo que tiene para responder al Informe Consolidado. Debe tenerse presente que posteriormente a esta fecha, se reanudará el proceso de evaluación
+del proyecto.
+Ante cualquier consulta comunicarse con la Señora Barbara Iturriaga Zamora, dirección de correo electrónico biturriaga.1@sea.gob.cl, número
+telefónico 57-582014.
+1. Descripción de proyecto
+1. Con respecto a la caracterización de los ripios presentada a través de Adenda 1, el Titular deberá incorporar los antecedentes de respaldos
+asociados al análisis de los datos mostrados en la Tabla AD-2 “Caracterización Granulométrica Muestras de Ripio y Grava”. Asimismo
+deberá presentar los antecedentes de respaldo asociados a los datos de humedad, densidad y permeabilidad, indicando especí fi camente
+los tipos de ensayo realizados.
+2. Respecto de la nueva medida de control propuesta para los botaderos de ripios planta 2 asociada a la construcción de drenajes internos, el
+Titular deberá aclarar la ubicación especí fi ca de los mismos, indicando además si las piscinas de captación de lixiviados mencionadas
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 1/15
+
+--- Página 2 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+son piscinas que se construirán o son piscinas existentes. Indicar su ubicación, las medidas de control para las contingencias, detección
+de fugas, entre otros.
+3. El Titular deberá presentar de manera detallada la ubicación de todos los pozos en coordenadas WGS84 e incorporarlos dentro del plano
+correspondiente.
+4. En relación a la Tabla AD-3 “Caudales de desaguado del rajo CMCC” de la Adenda 1, se deberán presentar todos los antecedentes que
+permitan veri fi car los datos de caudales para los años 1 y 5, ya que la sumatoria no concuerda con el valor total mostrado; de igual
+manera se deberán especi fi car los criterios que indican inexistencia de caudal en el sector poniente del rajo entre los años 6-8, así como
+también la inexistencia de caudal de a fl oramiento entre los años 1-3.
+5. El Titular señala en la Adenda 1 que la altura máxima del botadero oeste será de 240 m, sin embargo, dentro de los anexos 1.16 y 1.9 del
+a Adenda 1, se indica una altura máxima de 190 m. Considerando esta diferencia, se solicita aclarar la altura máxima del botadero,
+teniendo en cuenta los parámetros geométricos que garanticen la estabilidad física del mismo. Asimismo, deberá evaluar y presentar el
+análisis de cómo esto puede repercutir en el modelo hidrodinámico, diseño de drenes y diseño de canal de contorno.
+6. El Titular presenta en la Figura AD-21 de la Adenda 1 una línea de tiempo con la ocurrencia de contingencias asociadas a alteraciones de
+calidad de aguas en la zona mina. En este diagrama quedan en evidencia una serie de alteraciones de parámetros de calidad de aguas
+monitoreados, así como reiteradas roturas en las carpetas impermeabilizantes, puntualmente la del Pozo Polvo 2.
+De esta forma y considerando la información aportada, se solicita al Titular presentar el modelo numérico de fl ujo y transporte, en la
+zona de extensión del botadero, considerando un escenario donde la base impermeable, que impediría la generación de in fi ltración hacia
+las aguas subterráneas, pudiera verse afectada en su función, posibilitando con ello nuevos eventos de alteración de parámetros de
+calidad de agua subterránea. Junto con lo anterior, considerando los antecedentes disponibles y los riesgos asociados a las actividades
+mineras durante o después de fi nalizado el período de operación del Proyecto, el Titular deberá presentar una propuesta de plan de
+seguimiento consistente con los riesgos de contaminación, el cual debe permitir detectar y hacer seguimiento de alguna modi fi cación no
+prevista en la calidad de las aguas subterráneas ante posibles recargas provenientes de in fi ltraciones en los botaderos.
+7. En relación al sistema de drenaje de aguas mina, en el EIA se señala que “ Este sistema estará conformado por tres pozos, cuyas
+profundidades varían entre los 250 m y los 120 m, todos de 4 ” de diámetro efectivo. Esto permitirá la instalación de bombas sumergibles
+que extraerán agua de acuerdo a los requerimientos establecidos en la estimación hidrogeológica cuyo valor máximo se estima en 7,1
+l/s para el periodo 2013 – 2023 ”. Al respecto, en la Adenda 1 del Proyecto, en particular la respuesta 8 de la descripción de proyecto, se
+señala en la tabla AD-3 los caudales de desaguado del rajo, por 8 años y con un caudal máximo a extraer de 3,9 l/s. Respecto a la
+descripción de esta actividad, se solicita al Titular aclarar lo siguiente:
+Fecha de inicio del desaguado de la mina. En caso que esta actividad ya se haya iniciado, indicar los volúmenes extraídos y la
+cantidad de puntos de extracción.
+Presentar los antecedentes técnicos que muestren los volúmenes de extracción en el tiempo.
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 2/15
+
+--- Página 3 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+8. En relación a lo señalado por el Titular respecto de la nueva piscina de lodos, se le indica que los proyectos deben asegurar las impermeabilizaciones
+de sus sistemas por medio de un sistema de control, de manera de poder fiscalizar que esta obra cumpla lo diseñado. Por lo anterior, se reitera al
+Titular que deberá implementar un sistema físico de detección de fugas o algún otro método físico, tendiente a asegurar la impermeabilidad de la
+carpeta o geomembrana impermeable, y que permita verificar esta condición, presentando todos los antecedentes técnicos ambientales asociados a
+dicho sistema, para la nueva piscina a construir.
+9. El Titular, a través de los antecedentes presentados, no expresa de manera clara los volúmenes que se requieren o se requerirán por el
+sistema natural de Lagunillas y que deben ser entregados por el sistema de recarga artificial. Cabe señalar que este sistema fue diseñado
+para emular las surgencias naturales del sistema que dan sustento hídrico al ecosistema Lagunillas, por medio de 18 puntos.
+Al respecto, el Titular señala que “ bajo los supuestos de la modelación numérica, las vertientes vuelven a fluir a partir del año 2055, fecha que es
+consistente con la estimación de la recuperación del nivel de referencia en el pozo de monitoreo LA-5, calculada para agosto de 2054, lo que permite
+establecer el inicio de la recuperación de las vertientes. Entre estos supuestos se ha considerado de manera conservadora que se utilizarán 13 l/s
+para abastecer del SRA, ya que el requerimiento hídrico del sistema Bofedal-Laguna Lagunillas estaría entre 8,5 y 13 l/s. Esta proyección representa
+una condición más realista que la utilizada en la evaluación de impacto del Proyecto (20 l/s) que fue establecida en función de la necesidad histórica
+del sistema ”. Por otro lado, se indica por medio del “Informe plan de trabajo para el manejo de las funciones ecosistémicas del sistema lacustre de
+lagunillas - período anual marzo 2012– marzo 2013” que la recarga artificial sobrepasa los 20 l/s a marzo del 2013 y en los antecedentes disponibles
+en el “Sistema Control de Recurso Hídrico” en línea para los meses de abril y mayo del presente año, el caudal medio mensual sobrepasa los 25 l/s.
+Por lo tanto, el Titular deberá presentar en forma detallada y en el tiempo, los consumos de agua que requerirá el bofedal, tanto para su recuperación
+como para su mantención natural, en la situación sin y con proyecto, justi fi cando la ampliación de los puntos de recarga arti fi cial, dado que en un
+principio ya se encontrarían de fi nidas las 18 surgencias señaladas en el párrafo precedente.
+10. En relación a los niveles de aguas subterráneas que se informan producto del seguimiento ambiental de la cuenca de Lagunillas, el Titular deberá
+presentar la forma en la cual se han integrado a los modelos numéricos de aguas subterráneas estos datos, con la finalidad de evaluar la idoneidad de
+estos modelos, ya que se encuentran expresados en distintos sistemas de referencia. Por otra parte, el Titular deberá declarar la forma en que se han
+georrefenciado estos puntos, en particular cómo se ha determinado su altitud de manera que sean comparables.
+2. Plan de cumplimiento de la Legislación Ambiental Aplicable - Permisos Ambientales Sectoriales
+1. Considerando lo señalado en el punto 6.11 del presente informe, y en caso que corresponda, el titular deberá presentar los antecedentes
+que son requisito para el otorgamiento del Permiso Ambiental Sectorial estipulado en el Art. 76 del RSEIA.
+2. En relación a los antecedentes presentados para el Permiso Ambiental Sectorial del artículo 94 del RSEIA, referido a calificación de los
+establecimientos industriales o de bodegaje, en la Adenda 1 el Titular del Proyecto no entrega antecedentes que aseguren el cumplimiento de los
+requisitos y contenidos de dicho permiso. Por cuanto en la Adenda 1, no presenta los antecedentes relacionados con las medidas de control de riesgos
+de accidente y control de enfermedades ocupacionales, lo anterior para efectos de la calificación integral del establecimiento. Por lo tanto, el titular
+deberá presentar todos los antecedentes técnicos y formales para el otorgamiento de este PAS.
+3. En relación a los antecedentes presentados en la Adenda 1 para el Permiso Ambiental Sectorial del artículo 96 del RSEIA, referido a
+permiso para subdividir y urbanizar terrenos rurales; se solicita al Titular complementar los antecedentes acompañados, en especial en lo
+referido a la no generación de núcleos urbanos al borde de la planificación territorial.
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 3/15
+
+--- Página 4 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+4. En relación a los antecedentes presentados en la Adenda 1 para el Permiso Ambiental Sectorial del artículo 106 del RSEIA, referido a obras de
+regularización y defensa de cauces naturales. Considerando los nuevos antecedentes generados producto de este informe, el Titular deberá presentar
+todos los antecedentes técnicos y formales, requisitos para el otorgamiento del referido PAS, para los cauces interceptados por las obras del Proyecto,
+en específico el rajo Mina, el botadero de Lastre Sur y el botadero de Ripios Planta 2.
+3. Efectos, características o circunstancias del Artículo 11 de la Ley que dan origen a la necesidad de efectuar un EIA
+1. Considerando la nueva información que se genere a partir del presente informe, lo señalado en el EIA y su Adenda 1, el Titular deberá presentar de
+manera actualizada todos los efectos, características o circunstancias del Artículo 11 de la Ley que dan origen a la necesidad de efectuar un EIA. Sin
+perjuicio de esto, se solicita al Titular considerar en la evaluación lo siguiente:
+2. Letra a) Riesgo para la salud de la población, debido a la cantidad y calidad de efluentes, emisiones o residuos:
+a) En relación a lo establecido en las normas primarias de calidad del aire, se indica al Titular que:
+ Los resultados entregados por la red de monitoreo de CMCC, para la estación Campamento, clasificada como estación de
+monitoreo con representatividad poblacional para PM10, indican una situación de saturación para la norma diaria y anual.
+ Debido a las obras y acciones que se implementarán, l a localidad de Parca en el año 2016 se encontraría en estado de latencia
+según los antecedentes técnicos presentados tanto en el EIA como en su Adenda 1. Lo anterior, debido a que en el año
+considerado como línea base (año 2011), el valor diario (percentil 98) de material particulado PM10 fue de 139 μg/m 3 N, y
+por consiguiente, una continuidad en la operación del Proyecto aumentaría el aporte de la variable PM10.
+ El Titular identifica como aporte significativo las emisiones generadas por terceros, sin embargo, no se detalla en el
+inventario de emisiones cuáles corresponden a las actividades externas a la operación de la CMCC, que identifica como
+significativas.
+De esta forma, se solicita al Titular reevaluar el impacto ambiental significativo en la calidad del aire del área de influencia, ya que en la
+evaluación no se incorpora la situación de latencia y saturación que se presentaría en la zona debido a la ampliación de la operación.
+Consecuentemente, se deberán proponer medidas que permitan reducir y/o mitigar el aporte de PM10, derivado de la continuidad
+operacional del Proyecto.
+3. Letra b) Efectos adversos significativos sobre la cantidad y calidad de los recursos naturales renovables, incluidos el suelo, agua y aire :
+a) En relación a los niveles de ruido sobre la fauna nativa asociada a hábitat de relevancia, se indica al Titular que:
+ No se entregan los fundamentos ni los antecedentes técnicos referente a la no generación de efectos adversos significativos
+sobre la fauna para el componente ambiental ruido.
+ No se entrega una caracterización de los niveles de ruido presentes en la zona de origen de las especies, con el fin de
+compararlos con los niveles medidos en la zona de relocalización, dado que los antecedentes de la Adenda 1 no establecen
+la equivalencia de entorno sonoro de ambos hábitat (origen y relocalización).
+De esta forma, se solicita al Titular reevaluar el efecto del Proyecto sobre la fauna nativa, debido a los niveles de ruido generados,
+en especial durante la ejecución de tronaduras. Consecuentemente, se deberán proponer las medidas adecuadas para hacerse cargo
+de este impacto, y considerar un plan de seguimiento, que verifique que los niveles de ruido no generen cambios en la densidad
+poblacional, nidificación, reproducción, alimentación, entre otros.
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 4/15
+
+--- Página 5 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+b) Respecto a la vegetación asociada al bofedal Lagunillas, dado que no se evalúa el efecto de la extracción de aguas sobre dicho
+bofedal, se reitera al Titular indicar los antecedentes respecto a la composición de especies vegetacionales esperada al término del
+Proyecto y evaluar los impactos adicionales sobre dicha vegetación y el sustrato que lo sustenta, en cuanto a la modificación del
+suministro hídrico, considerando que originalmente era por escurrimiento y ascenso capilar y que hoy se maneja artificialmente
+por un sistema exclusivo de irrigación superficial. El Titular debe hacerse cargo del impacto adicional vinculado a la pérdida de
+capacidad de endurecimiento de las especies, prolongando en más de 40 años la mantención artificial de la vegetación, por lo que
+deberá considerar las medidas apropiadas que aseguren que la formación vegetal responda o se adapte a los niveles de estrés
+propios de estos ecosistemas y que permitan asegurar su capacidad de adaptación al medio.
+c) En el mismo sentido, se solicita al Titular evaluar el efecto sinérgico o acumulativo de la pérdida de capacidad de adaptación de
+las especies vegetacionales a las condiciones climáticas de la zona, en especial a las diferencias en la disponibilidad hídrica, lo que
+provocará un retardo en los compromisos establecidos en la Resolución de la Comisión de Evaluación Tarapacá 67/2011, la cual
+resolvió a razón de los impactos que generó el Titular sobre el acuífero que pretende seguir explotando . Consecuentemente se
+deberá presentar una propuesta de manejo que apunte al endurecimiento de plantas, en que claramente el impacto en condiciones
+con o sin Proyecto no es el mismo.
+d) Se solicita al Titular presentar los antecedentes y sustento técnico que permitan concluir que desde una situación de demanda
+hídrica de 25 l/s para mantener la vegetación durante el año 2014, pasará a niveles de 8,5 a 13 l/s, al momento en que se estabilice
+la vegetación en la temporada 2018-2019, considerando que la cobertura vegetal será mayor y que el sistema seguirá desconectado
+de las aportes subterráneos. Adicionalmente, las tasas de evapotranspiración serán mayores en la medida en que aumente la
+cobertura vegetacional.
+e) Se Se solicita al Titular reevaluar los efectos adversos del Proyecto sobre el sistema acuífero de Pampa Lagunillas, ya que se reitera al Titular
+que existen efectos ambientales adversos significativos registrados sobre esta componente ambiental y que los planes de manejo y acción,
+estipulados en la Resolución Exenta Nº0067/2011, no tienen previsto reparar los descensos de nivel o los tiempos de recuperación del agua
+subterránea. Consecuentemente, se solicita considerar medidas apropiadas que reviertan estos efectos, considerando que la continuidad
+operacional los incrementa sin hacerse cargo de ellos.
+4. Letra c) Reasentamiento de comunidades humanas, o alteración significativa de los sistemas de vida y costumbres de grupos humanos :
+a) Se reitera al Titular la solicitud de presentar todos los fundamentos técnicos necesarios para evaluar de manera adecuada el
+impacto CRHM-1: "Efecto adverso sobre la disponibilidad de recursos hídricos en la cuenca, debido al desagüe requerido en el
+rajo". Lo anterior, por cuanto la relación y dependencia directa entre el medio físico (recurso hídrico) y el medio humano objeto de
+protección ambiental (localidad de Quipisca) le imprime una gran relevancia a la calificación y ponderación del impacto referido,
+por lo que se deberá justificar fundadamente la valoración realizada. Para lo anterior, el Titular deberá considerar lo siguiente:
+ En la respuesta a la pregunta 4, sección 4 de la Adenda, el Titular plantea que “ Desde el punto de vista hidrogeológico, los
+antecedentes de la modelación han corroborado que el efecto de la disminución del recurso sobre los caudales
+subterráneos, no supera el 5% del caudal correspondiente en la localidad de Quipisca, por lo que la calificación del
+impacto sigue siendo baja desde esa perspectiva. Es relevante indicar también, que esta reducción del flujo pasante en el
+5% expresado, está dentro de los rangos de variabilidad natural que puede presentar el recurso en esa localidad, en
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 5/15
+
+--- Página 6 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+función de los eventos de lluvias estivales y en periodos de ausencia de ellas ”. En virtud de lo antes indicado, el Titular
+deberá justificar la baja significancia considerada para este impacto, junto con demostrar que la reducción del flujo
+pasante está dentro de los rangos de variabilidad natural del sistema.
+ Sin perjuicio del valor del porcentaje de reducción del flujo, y de forma de cautelar cualquier efecto adverso significativo
+sobre el medio humano, el Titular deberá presentar la evaluación del efecto del desagüe del rajo sobre todos los usuarios
+potencialmente afectados en el área de influencia del Proyecto, considerando para ello todos los derechos de
+aprovechamiento de aguas debidamente inscritos. En particular, y haciendo uso del modelo hidrogeológico para el
+escenario ambientalmente más desfavorable, se deberá presentar en forma detallada los resultados de niveles y caudales
+simulados en estos sectores, siendo necesario que la información se explicite por medio de mapas de equipotenciales a
+escala adecuada, así como en tablas con los descensos mensuales en el tiempo en puntos georreferenciados.
+b) Se reitera al Titular la solicitud de presentar todos los fundamentos técnicos necesarios que permitan evaluar de manera adecuada
+el impacto CRHM-2: "Efecto adverso sobre la calidad de las aguas subterráneas, aguas abajo del sector mina, debido a infiltración
+desde botaderos de ripios". Lo anterior, por cuanto la relación y dependencia directa entre el medio físico (recurso hídrico) y el
+medio humano objeto de protección ambiental (localidad de Quipisca) le imprime una gran relevancia a la calificación y
+ponderación del impacto referido, por lo que se deberá justificar fundadamente la valoración realizada. Para lo anterior, el titular
+deberá considerar lo siguiente:
+ En la respuesta a la pregunta 3, sección 4 de la Adenda, se indica que “ El modelo señalado representa una condición
+hipotética (no real) por cuanto no consideró el efecto de retención de humedad que se producirá en los suelos y rocas
+subyacentes a los botaderos, que en su condición natural están secos o con muy bajo contenido de humedad, por lo que
+poseen una capacidad de campo (contenido de humedad que no drena gravitacionalmente y provoca la retención de la
+solución en los intersticios) disponible para retener soluciones ”. Atendido lo anterior, se debe señalar que la predicción y
+evaluación de impactos debe realizarse para el escenario ambientalmente más desfavorable, por lo que los supuestos a
+tener en cuenta deben ser consistentes con dicho escenario, siendo necesario considerar las conclusiones pertinentes que
+deriven del modelo de flujo y transporte del sector Mina para conocer el efecto esperado sobre la calidad de las aguas, y
+con ello evaluar en coherencia el impacto asociado. Complementariamente, y en atención a la respuesta entregada por el
+Titular a la pregunta 3, sección 6 de la Adenda, se evidencia que no ha sido comprobada la hipótesis del contenido de
+humedad bajo los botaderos.
+ De acuerdo a los antecedentes del EIA, “ la afección potencial por incremento de sulfatos sería mínima en las quebradas
+Parca y Guata Guata con un incremento del orden de 30 mg/l de sulfatos, equivalente a menos del 10% de la
+concentración basal de sulfato considerada (332 mg/l), en la localidad de Quipisca ”. Al respecto, el Titular deberá
+ponderar el efecto adverso predicho, junto con presentar la evaluación del impacto sobre todos los usuarios
+potencialmente afectados en el área de influencia del Proyecto, considerando para ello todos los derechos de
+aprovechamiento de aguas debidamente inscritos. En particular, y haciendo uso del modelo hidrogeológico para el
+escenario ambientalmente más desfavorable, se deberá presentar en forma detallada los resultados simulados para las
+concentraciones de los parámetros indicadores de las soluciones infiltradas en estos sectores, siendo necesario que la
+información se explicite por medio de mapas de isoconcentración a escala adecuada, así como en tablas con los valores
+mensuales en el tiempo en puntos georreferenciados.
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 6/15
+
+--- Página 7 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+4. Línea base
+1. Respecto al análisis de precipitaciones, el Titular justifica el uso de la distribución de Gumbel para el análisis de precipitaciones
+extremas y la estimación de curvas IDF, utilizándose una precipitación máxima esperada en 24 horas con un período de retorno de 1.000
+años, para evaluar la generación de infiltraciones desde los botaderos hacia las aguas subterráneas. A su vez, en el EIA el Titular señala
+que las precipitaciones ocurren como eventos esporádicos, de gran intensidad, por lo cual se entiende que el uso de la distribución de
+Gumbel puede ser apropiada para representar datos de eventos extremos, y para estimaciones de escorrentía superficial que ocurren en la
+zona, especialmente durante los meses de invierno altiplánico. Sin embargo, el uso de esta misma metodología no fue justificada para la
+estimación de precipitaciones medias anuales. Lo anterior tiene especial relevancia en los resultados de la modelación numérica y en la
+estimación de los impactos del Proyecto en el sector Mina, puesto que en la modelación se considera una recarga estacionaria en lugar de
+utilizar una recarga efectiva producto de lluvias intensas, siendo considerada una precipitación del orden de 19,6 mm/año equivalente a
+una tasa de recarga diaria igual a 9,8x10-6 m/d. Por todo lo anterior, el Titular deberá presentar todos los antecedentes técnicos
+ambientales que justifiquen el uso de la distribución de Gumbel en la estimación de la precipitación media anual y el uso de una tasa
+diaria como recarga en el modelo hidrogeológico numérico. En este sentido, se debe enfatizar que la predicción y evaluación de impactos
+debe realizarse para el escenario ambientalmente más desfavorable.
+2. Se reitera al Titular que, respecto del Sector de Lagunillas, se debe señalar de manera detallada el porcentaje de cobertura actual de
+plantas vivas y descontar de éste, la superficie ocupada por cojines, que corresponde a plantas que están como rastrojo y mantillo, y que
+formaron parte de la superficie ocupada por plantas muertas, dado que la información presentada no responde a dicha solicitud. De la
+misma forma, se le señala al Titular que los valores entregados no concuerdan con los registros realizados por el órgano competente
+(SAG) en la temporada estival 2014.
+3. Se reitera al Titular que, considerando la biodiversidad del ecosistema lacustre de Lagunillas, y la extensión del área de emplazamiento del acueducto
+y el área mina, justificar técnicamente el esfuerzo de terreno en relación a la representatividad del componente fauna para la Línea Base.
+4. Con respecto a los cauces naturales presentes en el área mina, se ha identificado inconsistencia en la información presentada. Al respecto, se señala al
+Titular que en la Figura del Anexo DP-4 del EIA, se presenta información de quebradas intermitentes que es inconsistente con la delimitación de
+cuencas presentada en la Figura 3.13 del Anexo EI-1 del EIA y que además es inconsistente con los antecedentes presentados para la obtención del
+PAS 106, referido a obras de regularización y defensa de cauces naturales del RSEIA, para el canal de contorno. De esta forma, y considerando que la
+delimitación de estas unidades hidrográficas es esencial para los cálculos hidrológicos e hidráulicos del Proyecto y la evaluación de sus impactos, se
+solicita al Titular presentar en forma detallada la metodología y cartografía base utilizada, para la definición de las cuencas hidrográficas y sus zonas
+de escurrimientos. Al corregir estos aspectos, consecuentemente se deberán evaluar los impactos sobre dichos cauces (generación de aguas de
+contacto) y proponer las medidas adecuadas para hacerse cargo de dichos impactos.
+5. Si bien en la Línea de Base de Patrimonio Cultural se señala la definición de los hallazgos patrimoniales sin protección, se deberá aclarar
+lo siguiente:
+a. Si el sitio CO_01 corresponde a un sitio arqueológico de tiempos históricos, considerando los materiales asociados a la huella.
+b. El sendero CO_41 se identifica como prehispano, sin embargo el sendero CO_12 se identifica como patrimonio cultural no
+protegido, considerando que ambos corresponden al sitio arqueológico S.2 del registro realizado por la consultora Arqueonorte, y
+de acuerdo a las observaciones entregadas en las fichas de registro del Anexo ARQ-1 del EIA.
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 7/15
+
+--- Página 8 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+6. El titular deberá Corregir en el Anexo ARQ-1 Fichas de Registro, la catalogación del sitio CO_09 como Monumento Arqueológico, ya
+que en las fichas aparece como Patrimonio Cultural no protegido.
+7. Respecto de las fotografías solicitadas, se insiste en r emitir fotografías más representativas de los componentes de los sitios. En ese sentido se deberá
+completar la ficha con fotos de los hallazgos del sitio CO_01 (botella y herradura), y fotografías más representativas de los hallazgos CO_42, CO_45,
+CO_50, CO_52, CO_53 y CO_54.
+5. Predicción y evaluación de impactos y situaciones de riesgo
+1. En relación al Área de Influencia del Proyecto, en el memorando técnico “Evaluación hidrogeológica de las condiciones de borde en el
+sector norte, sur, y sureste de la cuenca de Lagunillas”, que forma parte de los antecedentes presentados en el Anexo 4.3c de la Adenda 1,
+el Titular presenta la justificación técnica de los límites norte, sur y sureste del modelo numérico en base a niveles de agua subterránea
+medidos en pozos de monitoreo y estudios geofísicos realizados en dichas zonas.
+Con respecto al límite norte, el perfil TEM L-1, ubicado en la zona norte de la cuenca de Lagunillas (Figura 12), el cual proviene del
+informe geofísico elaborado por Southernrock Geophysics (2013), se observa la presencia de una capa continua de media a baja
+resistividad que se extiende desde la primera estación situada cerca del límite norte de la cuenca del Salar de Lagunillas hasta la última
+estación, a 3,3 km al suroeste. Las resistividades en la zona del límite norte son similares a lo registrado en el sector cercano al pozo de
+monitoreo LA-12, ubicado aproximadamente a 1,7 km al sur de la primera estación del perfil (de acuerdo al Apéndice A del informe de
+Southernrock Geophysics y no a 2,25 km como se menciona en el memorando técnico) lo que indicaría que no existe una desconexión
+física entre el acuífero de Coscaya y el de Lagunillas, por lo tanto, y dado que el descenso en los niveles en la zona norte (pozos LA-11,
+LA-12 y LA-13) entre los años 1993 a 2012, producto del bombeo sería de entre 4 a 6 metros, según los resultados del modelo numérico,
+no es posible descartar un posible impacto sobre el acuífero de Coscaya por la extensión del bombeo que implica el Proyecto. Además,
+los antecedentes presentados no son suficientes para sustentar técnicamente que la ubicación de la divisoria de agua subterránea coincide
+con el límite de la cuenca debido a la ausencia de mediciones de nivel del agua subterránea en la zona y de sondajes que validen las
+interpretaciones realizadas en los estudios geofísicos.
+Al igual que en el límite norte, los antecedentes presentados no permiten descartar los potenciales impactos que produciría la extensión
+del bombeo de los pozos de explotación del presente Proyecto sobre el acuífero de Collacagua, debido a que no existiría una desconexión
+física subterránea con el acuífero de Lagunillas. Cabe destacar que, entre los años 2007 a 2013, los pozos ubicados cerca del límite sur
+(LA-9B) y sureste (LA-10) han registrado un descenso de 2,1 y 1,2 m respectivamente, lo que indica que en dichas zonas ya son
+afectados por el bombeo. Además, los antecedentes presentados no son suficientes para sustentar técnicamente la ubicación de la
+divisoria de agua subterránea en el límite sur y sureste, debido a que, para el caso del límite sur, si bien los niveles medidos en los pozos
+LA-9A, LA-9B y LA-8 indica que la divisoria de agua subterránea no coincide con la divisoria topográfica, los estudios presentados no
+respaldan técnicamente la ubicación del límite impuesta en el modelo numérico (aproximadamente 2 km al sur del pozo LA-9B),
+mientras que en el límite sureste, no hay mediciones disponibles del nivel del agua subterránea (como en el caso del límite sur) y
+estudios que sustenten que la divisoria de agua subterránea coincide con la divisoria topográfica.
+Por lo tanto, y debido a lo anterior, durante el proceso de evaluación es necesaria la construcción de sondajes de exploración y la
+realización y presentación de estudios adicionales que permitan determinar adecuadamente el tipo y ubicación de las conexiones
+subterráneas entre el acuífero de la cuenca de Lagunillas con el acuífero de la cuenca de Coscaya y Collacagua.
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 8/15
+
+--- Página 9 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+El Titular señala en la Adenda 1, que el descenso de los niveles de agua en el acuífero de Lagunillas depende sólo de la transmisividad, el
+almacenamiento y la tasa de bombeo, ya que la tasa de recarga simulada se mantiene constante en el tiempo. En este contexto, al revisar
+las variables señaladas por el titular, específicamente las distribuciones de conductividades hidráulicas del modelo, se observan
+diferencias notorias. En efecto, se señala que la zona 13, que tiene las máximas conductividades hidráulicas, representa “la ignimbrita
+fracturada observada durante la perforación del pozo de exploración LA-4”, pero el pozo indicado intercepta la ignimbrita en la capa 3
+del modelo (Figura 35 del Anexo EI-2 del EIA), y su representación también se extiende a las capas 1 y 2, lo que no es justificado. Otra
+diferencia se observa en los cortes de la Figuras 29 del Anexo EI-2 del EIA, los que no se condicen con la distribución de
+conductividades presentadas en las Figuras 33 a 41 del mismo anexo.
+Asimismo, y en base a los nuevos antecedentes generados, se deberá actualizar, modificar y/o corregir (y presentar para su evaluación en
+esta instancia) el modelo conceptual y numérico del acuífero de Lagunillas y la información presentada en el EIA y Adenda 1 con
+respecto a línea base, evaluación de impactos, medidas de mitigación, compensación y/o reparación si corresponde, además de un plan
+de seguimiento y de alerta temprana de las variables ambientales que pueden ser afectadas por la extensión del bombeo que implica el
+Proyecto. Cabe señalar que el modelo numérico debe ser capaz de predecir los potenciales efectos de la extensión del bombeo por el
+presente Proyecto sobre el acuífero de la cuenca de Coscaya y Collacagua.
+Al respecto, se hace presente que la modelación debe realizarse en los casos más desfavorables, incorporando años secos, asunto relevante para
+predecir los impactos sobre los sistemas sensibles. En este sentido, el uso de una recarga fija promedio de 56,4 l/s no es el escenario más conservador
+desde el punto de vista del medio ambiente.
+2. En relación al Modelo Hidrogeológico Mina, y respecto de lo señalado en la Adenda 1, se solicita al Titular presentar todos los antecedentes
+relacionados con la información de entrada que sirve de input para el modelo mencionado, en esta instancia de evaluación, y no en forma posterior a
+la eventual calificación ambiental del Proyecto. Lo anterior, por las incertidumbres que aún persisten en la evaluación de los impactos CRHM-1 y
+CRHM-2 y por la necesidad de recolectar mayor cantidad de datos para confeccionar e implementar Planes de Alerta Temprana adecuados.
+3. El Titular, justifica el uso del modelo de transporte de solutos de agua subterránea (MT3DMS), el cual se apoya en el modelo
+hidrogeológico numérico (código MODFLOW). Respecto a la confiabilidad de los resultados generados con el modelo de transporte, en
+base a los antecedentes, se verifica que no se ve reflejada una condición de transporte realista, por ejemplo del parámetro sulfato. En
+efecto, esta observación se sustenta en los resultados presentados por el titular en el EIA, los que dan cuenta de que las aguas en el Lago
+Rajo Este y Lago Rajo Oeste no alcanzarían una estabilidad química, incrementándose el sulfato a concentraciones cercanas a los 3250
+mg/l y 9500 mg/l, respectivamente, lo que no se refleja en los resultados de la evolución de sulfato en el acuífero en 10, 20, 50 y 100
+años (Figura 4.29 del Anexo EI-1), por lo que se solicita al Titular una explicación fundada de las diferencias detectadas.
+Junto con lo anterior, y considerando que la confiabilidad de los resultados del modelo de transporte se sustenta primero sobre la base del
+proceso de calibración del modelo de flujo, cabe señalar que el Titular indica que el error de balance de masa resulta inferior al 0.01% de
+la recarga (14,4 l/s), atribuyendo a ello la robustez y buena estabilidad del modelo. Sin embargo, el Titular calibró el modelo en régimen
+permanente ajustando la recarga, lo cual se entiende como una modificación en el modelo conceptual y no como un parámetro
+susceptible de calibrar, por lo que se solicita justificar técnicamente la decisión adoptada.
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 9/15
+
+--- Página 10 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+4. El Titular asegura que las condiciones de suministro hídrico permitirán mantener la fauna íctica y las condiciones de sitio que mantienen el bofedal
+propio a Lagunillas en forma permanente. Sin embargo, se plantea manejar artificialmente un ecosistema no salino y que, en condiciones naturales,
+existe la posibilidad que la irrigación natural sólo pueda mantener un bofedal salino, el que no necesariamente permitirá el desarrollo de fauna íctica,
+que es el bioindicador que se propone para determinar la calidad del sitio. Adicionalmente, la modificación de puntos de irrigación y sus caudales no
+responden a variables objetivas ecosistémicas, por lo que, con los antecedentes presentados, no se puede evaluar con precisión los alcances de éxito
+de la medida, más aún si se considera un plan de manejo artificial que supera los 60 años de ejecución. Al respecto, el Titular deberá presentar todos
+los antecedentes técnicos ambientales que permitan justificar si los requerimientos hídricos de las especies vegetales serán mantenidos por los
+caudales de la vertiente en condición de recuperación, considerando como especie relevante Oxychloe Andina .
+5. Se solicita al Titular presentar de manera detallada la evaluación del impacto sobre la pérdida de capacidad de readaptación de las
+especies del humedal a condiciones naturales, tras un prolongado manejo artificial de suministro hídrico, con niveles de incerteza
+elevados, respecto a cuál será la especie dominante, ya que los requerimientos hídricos de Zameioscyrpus y Oxychloe son diferentes, y
+en función de esto, se deberá analizar y presentar el escenario que se tendrá al final de la fase de cierre, en relación a si será capaz de
+naturalizarse un sistema que se ha mantenido artificialmente por más de 60 años.
+Asimismo, deberá presentar todos los antecedentes que aseguren que el sustrato que sustenta la vegetación azonal hídrica terrestre
+mantendrá sus características en forma natural.
+Adicionalmente, deberá presentar indicadores de éxito adecuados que permitan verificar que se mantenga la naturalidad del sistema una
+vez que cese la extracción del acuífero, considerando que con la continuidad operacional de la explotación; la prolongación por 60 años
+adicionales del restablecimiento de las vertientes naturales resulta excesivo para la verificación del cumplimiento de la recuperación de
+la condiciones ecosistémicas naturales del humedal Lagunillas.
+Cabe mencionar al Titular, que el plazo de recuperación de las vertientes naturales señalado en la Resolución Exenta N° 67/2011, que aprueba el
+“Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema Lacustre Lagunillas”, es de 20 a 30 años posterior al cese de la
+extracción del acuífero.
+6. El Titular indica que la especie Orestias Agasii es considerada una variable complementaria y que la mantención de los flujos asegurará
+la permanencia de la especie en el humedal. Por lo tanto, dicha variable no es evaluada en su totalidad, toda vez que los puntos de
+recarga artificial no tienen relación con las surgencias originales, en el sentido de generar flujos que simulan la condición natural del
+ecosistema.
+Sin embargo, en términos prácticos, la permanencia de la especie no se vincula sólo a un caudal disponible, sino que también se relaciona con el tipo
+de flujo y oxigenación de éste, por lo que el mantener un caudal definido no es el único factor que la altera. En este sentido, el conservar la
+vegetación en el sector, no asegura la mantención de las funciones ecosistémicas planteadas en la Resolución N° 67/2011. Por lo anterior, se solicita
+al Titular presentar todos los antecedentes que permitan evaluar el real impacto que eventualmente se generaría sobre esta especie
+6. Plan de medidas de mitigación, reparación y/o compensación
+1. Considerando la nueva información que se genere a partir del presente informe, lo señalado en el EIA y su Adenda 1, el Titular deberá
+presentar de manera actualizada el Plan de medidas de mitigación, reparación y/o compensación.
+2. Con respecto, a la medida de mitigación propuesta para reducir las concentraciones de material particulado, el titular deberá justificar
+técnicamente el valor de eficiencia de 80% presentado en el EIA, e indica el equipamiento utilizado para obtener este dato (anexo MM1
+“Descripción del sistema de monitoreo de la emisión de material particulado en caminos y respaldo de eficiencias medidas por
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 10/15
+
+--- Página 11 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+aplicación de bischofita”). Considerando lo anterior, el titular deberá proponer nuevas medidas que permitan reducir y/o mitigar el aporte
+de material particulado PM10, derivado de la continuidad operacional del proyecto y que tengan un carácter complementario a la medida
+presentada en el EIA, por cuanto la localidad de Parca se encontraría en estado de latencia, según la propia información proporcionada
+por el titular y la normativa vigente.
+3. El titular señala que la medida de manejo ambiental HIL-1: "Pozo de soporte al suministro de agua de la localidad de Quipisca", asociada
+al impacto CRHM-1, fue reemplazada por la medida "Mejoramiento de captación y distribución del recurso hídrico en Quipisca", la que
+tendría por objeto mejorar el funcionamiento de las bocatomas existentes y la eficiencia en la distribución del recurso, así como
+aprovechar de mejor manera la superficie de riego. En efecto, el titular sólo plantea la necesidad de contar a futuro con un estudio que
+identifique las mejoras al sistema.
+Al respecto, se hace presente que la información sobre este punto es deficiente y no se encuentra suficientemente abordada en los
+contenidos de la Adenda. Por lo anterior el titular deberá presentar de manera detallada la propuesta, considerando lo anteriormente
+indicado, junto con presentar todos los antecedentes que permitan sustentar técnicamente su idoneidad. Además, deberán proponerse
+indicadores de éxito, concretos y fiscalizables.
+4. En relación al Anexo 7.5 de la Adenda, medida HI-1: "Cambio de punto de extracción del agua utilizada en el riego artificial del Bofedal
+de Lagunillas", se reitera al titular que deberá presentar todos los antecedentes que permitan demostrar la efectividad y factibilidad
+técnica y ambiental de la medida de mitigación propuesta asociada al impacto OHI-1: "Efecto adverso significativo en la recuperación de
+los niveles de agua subterránea de la cuenca de Pampa Lagunillas, en particular respecto del tiempo de restablecimiento de estos, una vez
+que CMCC cese el bombeo desde el campo de pozos en el Sector de Lagunillas", el cual ha sido valorado por el titular como negativo y
+significativo. Para que la medida que se haga cargo adecuadamente del efecto adverso significativo que el proyecto genera en materia de
+recursos hídricos, el titular debe considerar :
+ Predicción de los potenciales efectos adversos que pudieran producirse sobre los acuíferos que alimentan a las vegas y bofedales en
+los sectores de Pénjamo y Huella Rinconada.
+ Caracterización de los perfiles geofísicos así como pruebas de bombeo del sector.
+ Ubicación del punto de extracción fuera del área de propiedad de la comunidad de Lirima, según lo ha señalado el titular a partir de la
+reunión de participación ciudadana.
+ Caracterización de la calidad físico-química y microbiológica del cuerpo de agua y compatibilidad con el ecosistema.
+Además se informa al Titular que no es suficiente reducir el tiempo de recuperación del sistema a un promedio de 9 años, dado que los
+períodos para alcanzar el nivel de referencia del año 2001 siguen siendo significativos, oscilando entre 22 y 46 años. Se debe enfatizar
+que lo presentado no es consistente con la magnitud del impacto esperado, ni con la relevancia del componente ambiental afectado, toda
+vez que el sistema acuífero de Pampa Lagunillas ya se encuentra altamente intervenido.
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 11/15
+
+--- Página 12 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+Se indica además que en la Resolución 67/2011, se evaluó el cambio de los puntos de captación en el sistema Lagunillas, ante este
+escenario el titular argumentó:
+“En caso de avanzar con esta alternativa, trasladar el pozo P4 u otro hacia el sector de pampa Penjamo, se requeriría de los
+siguientes estudios:
+• Incorporación de los nuevos antecedentes hidrogeológicos en un modelo numérico de la cuenca y una re-
+evaluación con los nuevos escenarios de extracción de agua.
+• Elaboración de Línea Base de áreas sensibles en el escenario de traslado, por ejemplo, Bofedales Llacho, Bofedal
+Penjamo y el sector de Coscaya
+• Determinación de modelos ecosistémicos conceptuales de áreas sensibles.
+• Evaluación ambiental de los potenciales impactos sobre las áreas sensibles.”
+Dado lo anterior se solicita al titular reevaluar esta medida de manera que se haga cargo adecuadamente del efecto adverso significativo
+que el proyecto genera en materia de recursos hídricos.
+5. El titular no cuantifica el impacto residual sobre los componentes del Ecosistema de Lagunillas y tampoco identifica los posibles sitios
+para compensar por las afectaciones provocadas sobre el mencionado ecosistema. En el caso de ser factible la medida propuesta por el
+titular, esta debe ser evaluada en este proceso y no como lo plantea para el año 2017, posterior a la identificación del sitio el año 2016.
+Tal como se plantea la medida, no permite calcular la magnitud del esfuerzo, como tampoco identificar la imagen objetivo y el alcance
+real de ésta para compensar el impacto en el humedal de lagunillas. Por lo tanto, el titular deberá presentar todos los antecedentes
+técnicos ambientales, en detalle, y de manera acabada, que permitan evaluar en su totalidad la medida propuesta.
+6. El titular propone dos medidas de mitigación, respecto a traslocación de cactáceas, una de las cuales (viverización) se implementaría si la principal no
+resulta. Al respecto, se deberá señalar de dónde provendrá el material que se viverizará y en qué año posterior al trasplante se evaluará el éxito de la
+medida.
+7. En cuanto al plan de perturbación controlada que se implementará, se requerirá la presencia de un profesional al momento en que ejecuten las obras
+más invasivas, de manera de corroborar la ausencia de colonización. Por otra parte, se deberán presentar en detalle los indicadores asociados a esta
+medida.
+8. Respecto de la medida de mejoramiento de hábitat, el indicador de éxito propuesto requiere necesariamente de línea de base de población
+residente para corroborar el éxito de la medida. Por lo tanto, se deberán presentar los antecedentes necesarios para establecer la Línea de
+Base Mencionada.
+9. Se hace presente que la medida voluntaria y complementaria “Plan de Gestión para la Conservación de la Biodiversidad” no se encuentra
+debidamente presentada y detallada, lo que impide conocer los efectos que su implementación pudiera tener sobre los distintos componentes
+ambientales (flora, fauna, vegetación, recurso hídrico), por lo que el titular deberá presentar todos los antecedentes necesarios para evaluar la
+propuesta. Asimismo, se debe recordar que todos los impactos significativos del proyecto deben ser adecuadamente mitigados, compensados y/o
+reparados, aun cuando se comprometan medidas o acciones adicionales de manera voluntaria.
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 12/15
+
+--- Página 13 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+10. Respecto de los hallazgos CO_51 y CO_54 (sendero), se solicita al titular incorporarlos dentro de los sitios a cercar, considerando su cercanía con las
+obras del proyecto.
+11. Considerando lo señalado en el puto anterior, lo señalado en el EIA, Adenda N°1 y la nueva información que pudiere generar producto de este
+informe, se solicita al titular presentar una tabla donde se indique el nombre del sitio, su catalogación final (como Patrimonio cultural sin protección
+legal o como Monumento Arqueológico), tipo de hallazgo, medidas de mitigación, compensación o protección asociadas, incluyendo si la medida ya
+fue ejecutada por compromisos o actividades en el marco de otros proyectos con RCA. En dicha tabla se deberá especificar, sólo en el caso de los
+monumentos arqueológicos, aquellos que requieren el PAS N°76 (incluyendo a los senderos).
+7. Plan de seguimiento de las variables ambientales relevantes que dan origen al EIA
+1. En relación al Plan de Alerta Temprana (PAT) presentado la Adenda 1; se señala al Titular que éste no incorpora una serie de aspectos
+básicos que permitan verificar la evaluación de impactos sobre la calidad de las aguas y disponer de una herramienta de carácter
+preventivo que reduzca las incertidumbres propias de la calificación ambiental. De esta forma, se solicita al Titular presentar un nuevo
+PAT, que incorpore la variable nivel de agua subterránea (desaguado de la mina), y que considere los siguientes aspectos:
+ Definir un conjunto adecuado de puntos de monitoreo, incluyendo la justificación fundada de su representatividad y
+suficiencia,
+ Seleccionar los parámetros indicadores de las posibles soluciones infiltradas desde las obras civiles del sector Mina,
+ Proponer umbrales o niveles de alerta que gatillen la activación de acciones, precisando la metodología de cálculo del
+estadígrafo que mejor represente el comportamiento de línea de base del sistema hídrico, vinculando esta estimación con
+las predicciones del modelo de flujo y transporte para el escenario ambientalmente más desfavorable durante la vida útil
+del Proyecto,
+ Proponer las acciones o medidas concretas a implementar en caso de la superación de los umbrales, justificar su efectividad, e incorporar
+el mecanismo detallado de activación y desactivación de las mismas.
+2. En la Figura AD-50 de la Adenda 1: Quebradas zona de estudio, se presentan las zonas de escurrimiento de aguas superficiales del sector
+Mina, permanentes e intermitentes y por otro lado en la Figura AD-52 de la Adenda 1: Propuesta de ubicación de estaciones
+fluviométricas del mismo documento, se muestran las ubicaciones propuestas para monitoreo de caudales. De lo anterior, se aprecia que
+existe una estación que no se ubica sobre flujos permanentes, por lo cual el titular deberá presentar todos los antecedentes que permitan
+fundamentar la ubicación de estas estaciones y las características del diseño de las mismas, así como las variables frecuencia y forma de
+obtención de los datos, indicando además la forma en que se informará este monitoreo.
+3. Respecto del plan de seguimiento ambiental del recurso hídrico en la cuenca de Lagunillas, deberá evaluarse anualmente su eficiencia en la
+caracterización del sistema, de manera de realizar los ajustes necesarios que permitan hacer un seguimiento efectivo de las relaciones ecosistémicas,
+en particular a los requerimientos y disponibilidad hídrica. Por otra parte, se deberá ampliar la información meteorológica de la cuenca, por medio de
+un análisis de estas variables y habilitar nuevos puntos de monitoreo evaluando la inclusión de nuevos parámetros.
+4. Se reitera al Titular que deberá presentar los indicadores de éxito de las medidas aplicadas en el Humedal de Lagunillas , asociados al plan de cierre y
+postcierre. Lo anterior, por cuanto lo presentado no responde a un plan de manejo acorde con la magnitud del impacto, en cuanto a tiempo de
+recuperación, considerando el impacto de la pérdida de naturalidad y capacidad de adaptación de las plantas en condiciones de riego artificial, las que
+claramente no están abarcadas por la Resolución Exenta N° 67/2011.
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 13/15
+
+--- Página 14 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+5. En el caso del Plan del Seguimiento de Flora y Vegetación (Tabla SE-6), se menciona cómo método de verificación del éxito de la
+medida de compensación, los siguientes indicadores a observar en los individuos de la especie Browningia candelaris y Prosopis alba :
+"estado fitosanitario, vigor, regeneración de tejido vegetativo, turgencia de espinas, generación de floración y semillación". Al respecto,
+el Titular debe señalar la cuantificación de cada uno de los indicadores de éxito esperados durante las etapas de monitoreo indicadas
+(duración y frecuencia), para los ensayos de germinación, sobrevivencia y para la repoblación de las especies antes mencionadas, con el
+objetivo de cuantificar el éxito de las medidas de compensación propuestas.
+6. En relación a la respuesta a lo observado en el capítulo Plan de seguimiento de las variables ambientales relevantes que dan origen al
+EIA, el titular deberá considerar la alteración en el componente capacidad de adaptación de las especies del bofedal a las condiciones
+climáticas de la zona, al ser manejadas con un sistema de irrigación artificial.
+Al respecto, cabe señalar por ejemplo, que la presencia de Oxychloe andina como especie dominante no se condice con la realidad de los
+humedales cercanos a Lagunillas y hay incertidumbre si será autosustentable en la fase de recuperación de caudales de vertientes
+naturales. El plan de transición mencionado por el titular no recoge esta realidad.
+Para lo anterior se solicita definir y presentar formaciones testigo que den cuenta de la naturalidad que debe tener el sistema, influenciado por las
+condiciones climáticas de la zona.
+8. Proposición de consideraciones o exigencias especí fi cas que el titular deberia cumplir para ejecutar el proyecto o actividad
+1. Considerando las observaciones planteadas en el presente ICSARA, el titular deberá presentar las Fichas, tablas y cuadros para facilitar la
+fiscalización, de manera actualizada.
+PATRICIO ALEJANDRO MEZA GUERRERO
+Director (S) Regional del Servicio de Evaluación Ambiental
+Secretario Comisión de Evaluación
+Región de Tarapacá
+BIZ
+C/c:
+Encargado Participación Ciudadana
+Expediente del Proyecto "Proyecto Continuidad Operacional Cerro Colorado"
+Archivo Servicio Evaluación Ambiental, I Región de Tarapaca
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 14/15
+
+--- Página 15 ---
+2/11/26, 10:15 a.m. Documento - 70/4c/3458d2195a9a0439fd12881b7b693532e730
+Firmas Electrónicas:
+Firmado por: SERVICIO DE EVALUACIÓN AMBIENTAL
+Firmado por:
+El documento original está disponible en la siguiente dirección url: https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?
+docId=70/4c/3458d2195a9a0439fd12881b7b693532e730
+VER INFORMACIóN FIRMA DESCARGAR XML IMPRIMIR
+https://info fi rma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=70/4c/3458d2195a9a0439fd12881b7b693532e730 15/15
