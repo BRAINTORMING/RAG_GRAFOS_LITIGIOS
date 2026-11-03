@@ -1,0 +1,479 @@
+--- Página 1 ---
+Dosier Bofedal Pampa Lagunillas — Sección Nueva
+Estrategia de Reclamación Internacional contra BHP: Bolsa de Metales de Londres, Directrices
+de la OCDE y el Punto Nacional de Contacto
+Investigación consolidada a partir de dos fuentes independientes (Perplexity y ChatGPT) —
+fecha de corte: 12 de octubre de 2026
+Nota de alcance y metodología
+Esta sección responde a la pregunta de investigación formulada como mandato de trabajo:
+“¿Qué sabes de la Bolsa de Metales de Londres y el procedimiento para demandar a
+BHP por temas medioambientales siguiendo la pauta de la OCDE?”
+El contenido consolida dos investigaciones independientes entregadas por el usuario (una
+producida con Perplexity, otra con ChatGPT), ambas con fecha de corte del 12 de octubre de
+2026. Se mantiene el mismo criterio editorial aplicado en la sección “Litigios, Sentencias y
+Acuerdos de BHP en Sudamérica” del dosier: donde ambas fuentes coinciden, el dato se trata
+como más confiable; donde una aporta algo que la otra no cubre, se incorpora identificando su
+origen; donde hay matices o énfasis distintos, se señalan en la sección 9 (“Reconciliación entre
+fuentes”) en vez de fundirlos sin dejar rastro.
+Advertencia que ambas fuentes comparten y que encabeza esta sección por su
+importancia: ninguna de las dos atribuye a la Bolsa de Metales de Londres (LME) la capacidad
+de “demandar” a BHP ni de fallar sobre daño ambiental. La pregunta original parte de una
+premisa que debe corregirse antes de construir cualquier estrategia — ver sección 1.
+Como en el resto del dosier, los hallazgos se etiquetan: 🟢 dato verificado por ambas fuentes o
+por una fuente con cita a documento oficial, 🟡 inferencia razonada o recomendación
+estratégica (no un hecho verificado), 🔴 vacío de información o punto a verificar directamente
+antes de actuar.
+1. Aclaración inicial: la Bolsa de Metales de Londres no es un tribunal
+Ambas fuentes coinciden, con el mismo énfasis, en el punto de partida: la London Metal
+Exchange (LME) es un mercado donde se negocian contratos de metales industriales —cobre,
+aluminio, níquel, zinc, plomo, estaño— y se establecen precios de referencia globales. No es un
+organismo de la OCDE, no es un tribunal, y no investiga ni sanciona directamente a una
+minera por daño ambiental 🟢 . Su procedimiento de reclamos se limita a asuntos propios de
+la bolsa: sus miembros, bodegas autorizadas, metales con warrant (certificado de depósito) y
+los benchmarks de precio que administra.
+Es probable que la pregunta original haya confundido dos siglas o conceptos distintos: LME
+(Bolsa de Metales de Londres, un mercado) y PNC/NCP — National Contact Point — (Punto
+
+--- Página 2 ---
+Nacional de Contacto, el mecanismo real para plantear un caso bajo las Directrices de la OCDE).
+Esta sección desarrolla ambas instituciones por separado, porque sí existe una conexión
+indirecta y legítima entre ellas (ver sección 7), pero no es la que la pregunta original
+presuponía.
+1.1 Dónde sí es relevante la LME: su política de abastecimiento responsable
+La LME exige a las marcas de metal registradas en su sistema cumplir una política de
+abastecimiento responsable , que incluye 🟢 (fuente 2, con cita directa a la página oficial de
+la LME):
+• Aplicación de la guía de debida diligencia de la OCDE para cadenas de suministro
+de minerales procedentes de zonas afectadas por conflictos y de alto riesgo.
+• Certificación ISO 14001 de gestión ambiental (o una alternativa equivalente aceptada).
+• Requisitos de seguridad y salud ocupacional.
+BHP declara públicamente que sus programas de abastecimiento responsable están alineados
+con estándares como la LME, The Copper Mark , el ICMM (International Council on Mining
+and Metals) y otros marcos de sostenibilidad, y que su programa de minerales responsables
+sigue los lineamientos de la OCDE 🟢 (fuente 2, citando comunicaciones corporativas de BHP).
+Esto no es, por sí solo, prueba de cumplimiento — es una línea de investigación: contrastar los
+compromisos públicos de BHP con la evidencia ambiental de una operación específica ,
+para determinar si existe una brecha documentable en su debida diligencia declarada (ver
+sección 7).
+La política completa y los canales de contacto están en la página oficial de la LME ( Responsible
+Sourcing ), y el equipo responsable puede contactarse directamente en
+responsiblesourcing@lme.com 🟢 (fuente 2).
+
+--- Página 3 ---
+2. La vía real: el mecanismo de los Puntos Nacionales de Contacto (PNC) de la
+OCDE
+Tres vías de acción frente a un caso ambiental de BHP
+2.1 Qué son las Directrices de la OCDE y qué cubren
+La OCDE mantiene las Líneas Directrices para Empresas Multinacionales sobre Conducta
+Empresarial Responsable , actualizadas en su versión 2023 🟢 (ambas fuentes citan la misma
+edición). Son recomendaciones respaldadas por los gobiernos adherentes para prevenir y
+abordar impactos negativos asociados con las operaciones, productos, servicios y relaciones
+comerciales de las empresas multinacionales. La edición de 2023 incluye explícitamente
+recomendaciones de debida diligencia para impactos adversos relacionados con
+contaminación del agua, aire y suelo, pérdida de biodiversidad y degradación de
+ecosistemas 🟢 (fuente 1, con cita directa al documento oficial de la OCDE) — es decir, cubre
+de forma expresa el tipo de daño central de este dosier.
+2.2 Qué es, y qué no es, el mecanismo de los PNC
+El mecanismo de los Puntos Nacionales de Contacto (PNC) permite que personas, comunidades
+u organizaciones con un interés legítimo presenten un caso —llamado “instancia
+específica” — por un posible incumplimiento de las Directrices por parte de una empresa.
+Ambas fuentes son enfáticas, casi en los mismos términos, en una doble advertencia 🟢 :
+• Es un mecanismo no judicial, voluntario y no contencioso .
+• El PNC no dicta una condena, no impone multas y no puede ordenar
+indemnizaciones . Su función es evaluar si la solicitud merece examen y, si
+corresponde, ofrecer mediación o diálogo para que las partes busquen una solución.
+El resultado posible de una instancia específica es, como máximo: una declaración pública
+final (que puede incluir recomendaciones), un registro documentado de las actuaciones, y —si
+ambas partes aceptan— un proceso de buenos oficios que puede derivar en compromisos de la
+
+--- Página 4 ---
+empresa (medidas de prevención, monitoreo independiente, reparación, participación
+comunitaria, publicación de información, planes con plazos verificables). No garantiza que la
+empresa acepte participar, que se logre un acuerdo, ni que se obtenga compensación
+económica 🟢 (ambas fuentes).
+2.3 El PNC competente para un caso en Chile
+Si el hecho ambiental ocurrió en Chile —como es el caso de Lagunillas—, la vía práctica es el
+PNC de Chile , que funciona dentro de la Subsecretaría de Relaciones Económicas
+Internacionales (SUBREI) 🟢 . La solicitud se presenta mediante un formulario oficial en
+línea (con inicio de sesión vía ClaveÚnica o cuenta local), y también puede entregarse por
+correo postal o presencialmente en la SUBREI 🟢 .
+Si la reclamación involucra decisiones atribuibles a la matriz del grupo en otro país —por
+ejemplo, decisiones corporativas de BHP Group Limited tomadas fuera de Chile—, puede ser
+pertinente examinar también el PNC del país de origen de esa sociedad (Australia o Reino
+Unido, según la entidad). La OCDE mantiene una base de datos pública de instancias
+específicas y orientaciones sobre coordinación entre PNC cuando hay varios países
+involucrados 🟢 (fuente 2). Ninguna fuente recomienda presentar reclamaciones paralelas
+ante varios PNC sin revisar antes sus reglas de competencia y coordinación — fuente 2 lo señala
+expresamente como una práctica a evitar sin análisis previo.
+3. Contenido mínimo de una solicitud de instancia específica
+Ambas fuentes coinciden, con un alto grado de superposición textual, en los elementos mínimos
+que debe contener la solicitud. Se presenta aquí como una lista consolidada y verificada contra
+las reglas de procedimiento oficiales del PNC de Chile (agosto de 2025) , citadas
+directamente por la fuente 1:
+1. Quién presenta el caso y qué interés tiene — persona, comunidad, organización o
+representante autorizado.
+2. Qué empresa o empresas están involucradas — identificar con precisión la filial u
+operación específica y explicar el vínculo con BHP como matriz. Las Directrices pueden
+aplicarse tanto a entidades locales como a la matriz del grupo multinacional.
+3. Qué ocurrió — fechas, lugar, operación, fuentes de contaminación o uso de recursos,
+impactos y personas o ecosistemas afectados.
+4. Qué recomendaciones de la OCDE se consideran incumplidas — en especial las
+disposiciones del Capítulo VI (Medio Ambiente) , junto con derechos humanos o
+debida diligencia si los hechos lo justifican.
+5. Qué respaldo existe — permisos, resoluciones, sentencias, monitoreos, estudios
+técnicos, análisis de agua o suelo, informes públicos, fotografías y testimonios.
+6. Qué procesos paralelos existen — demandas, sanciones administrativas, acuerdos,
+mediaciones u otros reclamos sobre los mismos hechos.
+7. Qué resultado se espera — medidas de prevención, monitoreo independiente,
+reparación ambiental, participación de la comunidad, publicación de información, o un
+plan con plazos verificables.
+
+--- Página 5 ---
+Requisitos de forma: la solicitud puede presentarse en español. No se aceptan reclamos
+anónimos , aunque las reglas contemplan proteger la identidad del solicitante cuando exista
+amenaza o riesgo de represalia 🟢 (fuente 1, cita directa a las reglas del PNC chileno).
+4. Capítulos de las Directrices de la OCDE aplicables a un caso ambiental
+La fuente 2 desarrolla, con más detalle que la fuente 1, qué capítulos específicos de la edición
+2023 conviene invocar según el tipo de impacto. Se incorpora aquí íntegramente por su utilidad
+práctica directa para el caso de Lagunillas:
+Relevancia para un caso de
+Capítulo Contenido agua/bofedal
+Capítulo VI — Medio Gestión de impactos Es el capítulo central y de
+ambiente ambientales, prevención de aplicación directa a la
+daños, sistemas de gestión, extracción de agua
+evaluación de riesgos, subterránea, descenso de
+medidas para prevenir o napas y pérdida de cobertura
+minimizar efectos negativos vegetal del bofedal
+Capítulo II — Principios Debida diligencia, prevención Permite cuestionar si BHP
+generales y mitigación de impactos aplicó un proceso de debida
+negativos, participación diligencia adecuado antes y
+significativa de las partes durante la extracción, y si
+interesadas hubo participación real de las
+comunidades afectadas
+Capítulo IV — Derechos Impactos sobre derechos Relevante cuando el impacto
+humanos internacionalmente ambiental afecta el acceso al
+reconocidos agua, la salud, los medios de
+vida o los derechos de
+comunidades indígenas —
+aplicable si el dosier
+documenta afectación a
+comunidades aymaras o
+atacameñas vinculadas al
+sistema Lagunillas
+Capítulo III — Divulgación Transparencia sobre riesgos, Pertinente solo si existen
+de información impactos, políticas y dudas documentadas sobre si
+desempeño ambiental BHP divulgó de forma
+completa y oportuna la
+información material sobre
+los impactos de Cerro
+Colorado en el acuífero
+🟡 Recomendación de uso: no basta con citar estos capítulos de forma genérica — la fuente 2
+insiste en que la presentación debe explicar qué recomendación específica resulta
+pertinente, cuáles son los hechos concretos, y qué documentación permite
+
+--- Página 6 ---
+relacionarlos con decisiones o actuaciones identificables de la empresa . Citar los cuatro
+capítulos sin esa conexión factual debilitaría la solicitud.
+5. Matriz de evidencia recomendada para un caso de agua/bofedal
+La fuente 2 aporta una matriz de evidencia estructurada por categoría, directamente aplicable
+al tipo de daño documentado en el resto de este dosier (agua, humedales, salares,
+biodiversidad). Se reproduce íntegra por su utilidad operativa, con una columna adicional que
+vincula cada categoría con el material que el dosier de Lagunillas ya reúne en sus otras
+secciones:
+Evidencia que conviene Material ya disponible en
+Elemento reunir este dosier
+Daño ambiental Informes técnicos, estudios Secciones de evidencia
+científicos, imágenes satelital (GDUDEX),
+satelitales, mediciones de comparación con salares de
+agua, suelo o vegetación referencia, anexo de flora y
+Distichia muscoides
+Causalidad Estudios hidrogeológicos, Serie temporal 2001-2026 de
+series temporales, análisis de cobertura de
+impactos acumulativos, agua/vegetación; 🔴
+fuentes que permitan evaluar pendiente: estudio
+explicaciones alternativas hidrogeológico propio que
+descarte explicaciones
+puramente climáticas con el
+mismo rigor que la
+comparación con el Salar del
+Huasco (control) ya aporta
+de forma indiciaria
+Conocimiento empresarial Informes ambientales, RCA N°22/1997, N°102/2002,
+permisos, auditorías, N°69/2015; Resolución
+reportes de sostenibilidad, Exenta N°67/2011 (ya citadas
+comunicaciones públicas de en la sección de antecedentes
+la empresa legales del dosier)
+Debida diligencia Evaluaciones de riesgo, Informe CMCC/BHP “Plan de
+planes de mitigación, Trabajo para el Manejo de las
+medidas preventivas, Funciones Ecosistémicas del
+seguimiento, auditorías Sistema Lacustre de
+independientes Lagunillas” (ya usado en el
+anexo de flora)
+Participación afectada Testimonios, antecedentes 🔴 Vacío — no se ha
+comunitarios, observaciones incorporado al dosier
+presentadas, registros de evidencia directa de consulta
+consultas o participación comunitaria
+
+--- Página 7 ---
+Evidencia que conviene Material ya disponible en
+Elemento reunir este dosier
+Respuesta corporativa Reclamos previos, respuestas Conciliación de noviembre de
+de la compañía, 2023 (Rol D-10-2021), ya
+compromisos, evidencia de documentada en la sección
+cumplimiento o de litigios
+incumplimiento
+Reparación solicitada Medidas concretas, plazos, 🔴 Pendiente de formular
+indicadores verificables, específicamente para una
+seguimiento independiente, eventual instancia OCDE —
+compensaciones cuando las medidas de la conciliación
+proceda de 2023 responden a la vía
+judicial, no necesariamente a
+lo que se pediría en una
+instancia PNC
+Advertencia metodológica explícita de la fuente 2, central para no sobre-argumentar el
+caso: en un caso de desecación de un bofedal, las imágenes satelitales pueden documentar
+cambios en la extensión de la vegetación o de las superficies húmedas, pero por sí solas no
+demuestran que la actividad minera sea la causa : hay que contrastarlas con niveles
+piezométricos, precipitaciones, volúmenes de extracción, antecedentes históricos y otras
+variables relevantes. Esto es coherente con la limitación ya señalada en la sección 5-B de este
+dosier (comparación con salares de referencia): la atribución causal a la extracción minera allí
+expuesta es una inferencia por contraste con un sitio de control, no una medición
+hidrogeológica directa.
+6. Etapas y plazos del procedimiento ante el PNC de Chile
+Etapas del procedimiento ante el PNC de Chile
+
+--- Página 8 ---
+Etapa Qué sucede
+Presentación Se ingresa el formulario y la documentación
+de respaldo. El PNC puede pedir antecedentes
+adicionales
+Evaluación inicial Se analiza si el asunto es pertinente para las
+Directrices, está suficientemente respaldado,
+tiene un vínculo identificable con la empresa,
+y si el diálogo podría contribuir a resolverlo
+Buenos oficios Si el caso avanza y ambas partes aceptan, el
+PNC puede facilitar mediación o conciliación
+Declaración final El PNC publica el resultado del proceso y
+puede formular recomendaciones — se
+publica incluso si no se alcanza un
+acuerdo
+Seguimiento Cuando corresponde, el PNC puede revisar el
+cumplimiento de recomendaciones o
+acuerdos alcanzados
+Plazos (reglas del PNC de Chile, agosto de 2025, citadas por fuente 1): el PNC chileno
+procura concluir las etapas principales en 12 meses desde que la solicitud se declara
+admisible ; si se requiere coordinar con otro PNC (por ejemplo, el de Australia o Reino Unido, si
+la reclamación involucra a la matriz), el plazo indicativo sube a 14 meses . Son plazos
+orientativos — los casos complejos pueden tardar más 🟢 .
+Coexistencia con otros procesos: la existencia de un juicio o procedimiento administrativo
+paralelo no bloquea automáticamente la instancia OCDE. Sin embargo, el PNC puede admitir
+solo parte del caso, o suspenderlo, si considera que continuar podría perjudicar seriamente a
+una parte o interferir con una autoridad judicial o administrativa en curso 🟢 (fuente 1, cita
+directa a las reglas del PNC). Esto es directamente relevante para Lagunillas: la conciliación ya
+aprobada en noviembre de 2023 (Rol D-10-2021) y la audiencia de prueba de marzo de 2026 de
+esa misma causa (ambas documentadas en la sección de litigios del dosier) deberían
+informarse expresamente al PNC en cualquier eventual solicitud, y el PNC podría considerar
+su efecto antes de ofrecer buenos oficios.
+🔴 Advertencia no verificada en ninguna de las dos fuentes, pero jurídicamente
+relevante: no debe suponerse que la presentación de una instancia OCDE suspende los
+plazos de prescripción de una eventual acción judicial. Esto debe confirmarse con asesoría
+legal antes de definir el orden en que se activan las distintas vías.
+7. La conexión con la LME: dos líneas paralelas de investigación
+Retomando la aclaración de la sección 1, la fuente 2 propone dos líneas de trabajo que pueden
+desarrollarse en paralelo:
+
+--- Página 9 ---
+Línea A — Responsabilidad empresarial (vía OCDE)
+Presentar una instancia específica ante el PNC competente, basada en las Directrices de la OCDE
+y en la evidencia verificable del impacto y de la debida diligencia de la empresa (desarrollada
+en las secciones 2 a 6 de esta sección del dosier).
+Línea B — Abastecimiento responsable del metal (vía LME)
+Identificar la marca registrada en la LME vinculada a la producción de la operación
+específica (en este caso, Cerro Colorado o Escondida), el productor responsable de esa marca,
+los documentos de abastecimiento y los requisitos de cumplimiento que efectivamente le
+resulten aplicables. Si existe evidencia relevante de un incumplimiento de esos requisitos,
+comunicarla al equipo de abastecimiento responsable de la LME
+( responsiblesourcing@lme.com ).
+Límite explícito de esta línea, señalado por ambas fuentes con el mismo énfasis: esta vía
+exige una comprobación previa — no puede asumirse que cualquier metal producido por
+BHP, ni toda sociedad del grupo, está cubierto por idénticos requisitos de registro . La
+aplicación debe verificarse respecto de la marca específica y del período correspondiente. La
+suspensión o retirada de una marca de la LME, cuando procediera bajo sus reglas, no equivale
+a una condena judicial contra la matriz BHP ni genera compensación para las comunidades
+afectadas — es, en el mejor de los casos, una consecuencia comercial/reputacional, no jurídica.
+🟡 La LME publica información de cumplimiento y trazabilidad mediante su plataforma
+LMEpassport , que podría ser un punto de partida útil para la verificación previa que ambas
+fuentes exigen antes de activar esta línea — pero ninguna de las dos fuentes documenta si BHP,
+Cerro Colorado o Escondida tienen marcas específicas registradas y activas en ese sistema. Este
+es un vacío a investigar directamente antes de dar por viable la línea B.
+8. Precedentes directamente relacionados con BHP: el caso Cerrejón (Colombia)
+Este es, con amplio margen, el hallazgo más valioso de ambas investigaciones para la estrategia
+del dosier: existen dos precedentes documentados de instancias OCDE presentadas
+específicamente contra BHP (como parte del consorcio accionario de Cerrejón), lo que
+permite anticipar con realismo qué cabe esperar de un proceso similar.
+8.1 Reclamo de comunidades colombianas por Tabaco (2007-2008)
+Campo Detalle
+PNC ante el que se presentó PNC de Australia
+Fecha de presentación 2007
+Demandados BHP Billiton y las demás empresas
+accionistas de Cerrejón en ese momento
+Razón Desalojo forzoso de la comunidad de Tabaco y
+efectos sobre comunidades vinculadas a la
+operación carbonífera de Cerrejón, La
+Guajira, Colombia
+
+--- Página 10 ---
+Campo Detalle
+Resultado En diciembre de 2008 , acuerdo entre
+Cerrejón y la comunidad de Tabaco: US$1,8
+millones para indemnizaciones individuales
+y US$1,3 millones para proyectos
+sostenibles de la comunidad
+Alcance del resultado El reclamo más amplio presentado por otras
+comunidades afectadas no quedó
+completamente resuelto en esta misma
+instancia
+8.2 Reclamo de GLAN sobre Cerrejón (2021-2023)
+Campo Detalle
+PNC ante los que se presentó PNC de Australia, Reino Unido y Suiza
+(presentación coordinada ante tres PNC
+simultáneamente)
+Fecha de presentación 2021
+Demandados BHP, Anglo American y Glencore (las tres
+empresas que entonces compartían la
+propiedad de Cerrejón)
+Razón Impactos ambientales y de derechos
+humanos, y falta de debida diligencia
+Desarrollo Se ofrecieron buenos oficios (mediación),
+pero el reclamante se retiró de la
+mediación en 2022
+Resultado El PNC australiano cerró el caso en 2023
+sin emitir una conclusión sobre el fondo
+de las alegaciones
+8.3 Lectura de estos dos precedentes para la estrategia del dosier
+Ambas fuentes convergen en una misma conclusión, formulada aquí de manera consolidada:
+estos antecedentes muestran que la vía OCDE puede abrir un espacio formal de diálogo y
+dejar un registro público , pero no garantiza que la empresa acepte mediar, ni que se
+obtenga compensación . El caso de Tabaco (2007-2008) es el escenario más favorable
+documentado —terminó en un acuerdo económico concreto—, pero data de una etapa
+temprana del mecanismo PNC y resolvió solo el reclamo de una comunidad específica, no el de
+todas las afectadas. El caso GLAN (2021-2023) es el escenario de resultado nulo: mediación
+ofrecida, luego abandonada por el propio reclamante, cierre sin conclusión sobre el fondo.
+Tampoco debe confundirse que un PNC acepte examinar una solicitud con una
+determinación de que la empresa efectivamente infringió las Directrices — ninguno de
+los dos casos de Cerrejón llegó a esa determinación formal.
+🟡 Para el caso Lagunillas, estos precedentes sugieren fijar expectativas realistas: una instancia
+específica es más defendible como complemento de la vía judicial ya en curso (generar presión
+
+--- Página 11 ---
+pública, un registro internacional, y la posibilidad de buenos oficios) que como un sustituto
+capaz de producir, por sí sola, una indemnización.
+9. Reconciliación entre fuentes
+Tratamiento
+Punto Fuente 1 (Perplexity) Fuente 2 (ChatGPT) adoptado
+Enfoque general Más centrada en el Más centrada en la Se combinan como
+procedimiento estrategia de complementarias:
+formal del PNC investigación y fuente 1 aporta el
+chileno (reglas, preparación del caso marco normativo-
+plazos, requisitos de (identificación de procedimental
+forma), con citas entidad, capítulos (secciones 2, 3, 6 de
+directas a las reglas aplicables, matriz de este documento);
+de procedimiento de evidencia, pasos 1-7) fuente 2 aporta el
+agosto de 2025 marco estratégico-
+documental
+(secciones 4, 5, 7, 8)
+Precedentes de No los menciona Los documenta con Se incorporan
+Cerrejón detalle (Tabaco 2007- íntegramente desde
+2008, GLAN 2021- fuente 2 — es el
+2023) hallazgo más valioso
+de las dos
+investigaciones y no
+tiene contraparte en
+fuente 1
+Capítulos específicos Menciona en general Desarrolla cuatro Se incorpora la tabla
+de las Directrices el Capítulo VI capítulos (II, III, IV, completa de fuente 2,
+OCDE aplicables (medioambiente) VI) con una con el Capítulo VI
+explicación de como eje compartido
+cuándo invocar cada por ambas fuentes
+uno
+Matriz de evidencia No la presenta como La presenta como Se incorpora íntegra
+estructurada tabla tabla de siete desde fuente 2,
+categorías enriquecida con
+referencias cruzadas
+a otras secciones ya
+existentes del dosier
+Conexión LME-OCDE No desarrolla esta La propone como Se adopta la
+como dos líneas articulación “Línea A” (OCDE) y estructura de fuente
+paralelas explícitamente “Línea B” (LME) de 2 por ser más
+forma explícita operativa para el
+dosier
+Advertencia sobre No la menciona La menciona Se mantiene como
+
+--- Página 12 ---
+Tratamiento
+Punto Fuente 1 (Perplexity) Fuente 2 (ChatGPT) adoptado
+prescripción judicial brevemente, sin advertencia ( 🔴 ,
+profundizar sección 6), marcada
+como pendiente de
+verificación legal —
+ninguna fuente la
+desarrolla con
+suficiente detalle
+como para darla por
+zanjada
+Lectura general: a diferencia de la sección anterior del dosier (litigios regionales), donde las
+dos fuentes cubrían en gran medida los mismos casos con distinto nivel de detalle, aquí las
+fuentes son marcadamente complementarias por diseño : fuente 1 funciona como una guía
+de procedimiento (qué es el PNC, cómo se presenta, qué plazos tiene), mientras que fuente 2
+funciona como una guía de estrategia de caso (cómo construir el expediente, qué evidencia
+reunir, qué precedentes existen). No se detectaron contradicciones sustantivas entre ambas en
+los puntos que sí cubren en común.
+10. Estrategia recomendada para el caso Lagunillas
+Siguiendo el orden que propone la fuente 2 (Paso 1 a Paso 7 de su documento original),
+adaptado específicamente al expediente que este dosier ya ha construido:
+1. Delimitar el daño con precisión — ya resuelto en gran medida por las secciones de
+evidencia satelital, flora y antecedentes legales del dosier; falta formular una síntesis de
+una página orientada específicamente a un expediente PNC (distinta, en formato, del
+dosier judicial completo).
+2. Reunir resoluciones y expedientes — ya reunidos: RCA N°22/1997, N°102/2002,
+N°69/2015; Resolución Exenta N°67/2011; sentencia Corte Suprema Rol N°8.573-2019;
+conciliación Rol D-10-2021 (nov. 2023).
+3. Identificar con precisión la entidad y su relación con la matriz — determinar si la
+solicitud debe dirigirse a Compañía Minera Cerro Colorado Limitada
+exclusivamente, o si corresponde nombrar también a BHP Group Limited como matriz,
+documentando qué decisiones correspondían a cada nivel societario. 🔴 Este análisis
+societario específico no está desarrollado todavía en el dosier y es un prerrequisito antes
+de presentar cualquier solicitud.
+4. Contrastar los hechos con los Capítulos II, III, IV y VI de las Directrices (tabla de la
+sección 4), redactando para cada uno la conexión factual específica que exige la fuente 2
+— no basta con citarlos de forma genérica.
+5. Preparar la instancia específica ante el PNC chileno (SUBREI) , usando el
+formulario oficial, e informar expresamente los procesos paralelos ya existentes
+(conciliación de 2023 y su audiencia de prueba de 2026), tal como exige el punto 6 de los
+requisitos de la sección 3.
+
+--- Página 13 ---
+6. Evaluar, como línea separada y de menor prioridad inmediata , si existe una
+marca de cobre de Cerro Colorado o Escondida registrada en la LME que permita activar
+la Línea B (abastecimiento responsable) — requiere la verificación previa señalada en la
+sección 7, hoy no realizada.
+7. Mantener la estrategia judicial chilena como vía independiente , sin asumir que
+una instancia OCDE la sustituye, la suspende o altera sus plazos — confirmar este
+último punto con asesoría legal antes de secuenciar ambas vías.
+🟡 Dado el precedente de Tabaco (resultado favorable parcial) frente al de GLAN (cierre sin
+resultado), y considerando que Lagunillas ya cuenta con una conciliación judicial vigente, la
+instancia OCDE rendiría previsiblemente su mayor valor como mecanismo de seguimiento y
+presión pública sobre el cumplimiento de esa conciliación , más que como una vía para
+reabrir negociación de fondo — una hipótesis de trabajo a validar con el equipo legal del dosier,
+no una conclusión cerrada de esta investigación.
+Fuentes: investigación documental consolidada entregada por el usuario (Perplexity, 12 oct. 2026;
+ChatGPT, 12 oct. 2026), que a su vez citan: London Metal Exchange — página oficial de
+abastecimiento responsable
+(lme.com/Sustainability-and-Physical-Markets/Sustainability/Responsible-sourcing); OCDE —
+Líneas Directrices para Empresas Multinacionales sobre Conducta Empresarial Responsable,
+edición 2023 (oecd.org); SUBREI — Reglas de Procedimiento del PNC de Chile, agosto de 2025, y
+formulario de Solicitud de Instancia Específica (subrei.gob.cl); OECD Watch — fichas de caso
+“Colombian communities vs. BHP Billiton” (Tabaco) y “GLAN vs. BHP” (oecdwatch.org);
+comunicaciones corporativas públicas de BHP (bhp.com). Este documento no sustituye la
+verificación directa de las reglas vigentes del PNC ni asesoría legal especializada antes de
+presentar una solicitud formal.
