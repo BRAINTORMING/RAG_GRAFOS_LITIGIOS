@@ -1,0 +1,1117 @@
+--- Página 1 ---
+Política Nacional de Residuos
+2018-2030
+Ministerio del
+Medio Ambiente
+
+--- Página 2 ---
+INDICE
+PRESENTACIÓN 3
+I. CONTEXTO Y OBJETIVO 4
+II. NECESIDAD DE MODERNIZAR LA GES TIÓN PÚBLICA 6
+III. VISIÓN Y MISIÓN 8
+IV. PRINCIPIOS 9
+V. OBJETIVOS 10
+VI. LÍNEAS DE ACCIÓN 13
+VII. IMPLEMENTACIÓN 14
+VIII. PLAN DE ACCIÓN DE LA POLÍTICA NACIONAL DE RESIDUOS, PERÍODO 2018 - 2022 16
+ANEXO I DIAGNÓSTICO. 20
+ANEXO II GLOSARIO 28
+ANEXO III LISTADO DE LAS PRINCIPALES REGULACIONES NACIONALES RELATIVAS A GESTIÓN DE RESIDUOS 30
+ANEXO IV LISTADO DE DECISIONES Y RECOMENDACIONES DE LA OCDE 33
+Pág. 2
+
+--- Página 3 ---
+PRESENTACIÓN
+MINISTRA DE MEDIO AMBIENTE
+Pág. 3
+
+--- Página 4 ---
+I. CONTEXTO Y OBJETIVO
+El año 2005, el Consejo Directivo de la Comisión Nacional del Medio Ambiente aprobó la Política
+de Gestión Integral de Residuos Sólidos, elaborada por un Comité Técnico 1 interinstitucional
+conformado para el efecto. Su objetivo fue “lograr que el manejo de residuos sólidos se realice con
+el mínimo riesgo para el medio ambiente, propiciando una visión integral de los residuos, que
+asegure un desarrollo sostenible y eficiente del sector” . Para su implementación se crearon las
+Secretarías Ejecutivas de Residuos, tanto a nivel nacional como a nivel regional, las cuales estaban
+a cargo de ejecutar su plan de acción en el corto y mediano plazo.
+En el marco de su implementación podemos destacar la elaboración y entrada en vigencia de los
+reglamentos sobre condiciones sanitarias y de seguridad básicas en los rellenos sanitarios (Decreto
+Supremo N° 189/2005), sobre el manejo de residuos generados en establecimientos de atención
+de salud (Decreto Supremo N°6/2009), y sobre el manejo de lodos generados en plantas de
+tratamiento de aguas servidas (Decreto Supremo N° 4/2009). A su vez, se elaboraron las guías para
+desarrollar planes de gestión municipal de Residuos Sólidos Domiciliarios (RSD), esto
+complementado con difusión y capacitación a funcionarios municipales. Asimismo, con el fin de
+incluir la temática relativa a la valorización de residuos en el aula, se elaboró una guía de apoyo
+docente y un manual para la gestión ambiental en establecimientos educacionales, entre otros
+elementos que se visualizaban como apoyo para alcanzar los objetivos propuestos.
+Otra iniciativa que surgió durante el período de implementación de dicha Política fue el Programa
+Nacional de Residuos 2 , cuyo objetivo es “mejorar las condiciones de salubridad y calidad ambiental
+en centros urbanos y rurales a nivel nacional, a través de la implementación de sistemas integrales
+y sostenibles para el manejo eficiente de residuos sólidos domiciliarios”. Para lograr lo anterior se
+definieron dos objetivos específicos: “ Aumentar el porcentaje de Residuos Sólidos Domiciliarios
+con disposición en instalaciones sanitaria y ambientalmente adecuadas, y cerrar instalaciones de
+disposición final de RSD sin autorización sanitaria o ambiental”.
+En este contexto, se gesta la elaboración del Proyecto de Ley de Residuos y se inician los primeros
+avances en cinco sectores productivos: neumáticos, aceites, equipos de informática, baterías y
+envases. Este proyecto de ley estaba basado en estudios y análisis de normativas aplicables, que
+respaldaban la necesidad de disponer de un instrumento regulatorio que fomentara la prevención
+de la generación de residuos e incentivara al sector productivo a conocer y hacerse cargo de sus
+productos al final de su vida útil.
+Todo lo anterior dio origen a la actual Ley N°20.920: “ Ley Marco para La Gestión de Residuos, la
+Responsabilidad Extendida del Productor y Fomento al Reciclaje” (en adelante Ley de Fomento al
+Reciclaje) , despachada por el Congreso Nacional el 5 de abril , promulgada el 17 de mayo y
+publicada el 1 de junio del año 2016. Esta ley prioriza seis productos, los cuales deberán cumplir
+con un sistema especial de gestión de residuos denominado Responsabilidad Extendida del
+Productor. Junto a lo anterior, la ley aborda los movimientos transfronterizos de residuos y le
+otorga al Ministerio del Medio Ambiente (en adelante Ministerio) facultades legales, y a la
+Superintendencia del Medio Ambiente las facultades sancionatorias, a objeto de dar cumplimiento
+1 Comité Técnico: Constituido por representantes de los ministerios, servicios y demás organismos competentes, cuyo objetivo
+fue llevar adelante el proceso de elaboración de la política. Estuvo integrado por representantes del Ministerio Secretaría General de la
+Presidencia, Ministerio de Salud, Ministerio de Economía, la Subsecretaría de Desarrollo Regional y Administración y la entonces
+Comisión Nacional del Medio Ambiente (CONAMA).
+2 Programa Nacional de Residuos Sólidos a cargo de la Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE)
+Pág. 4
+
+--- Página 5 ---
+a los compromisos y estándares internacionales que apuntan al manejo ambientalmente racional
+de residuos.
+Con la Ley de Fomento al Reciclaje, el Ministerio del Medio Ambiente podrá ejecutar acciones que
+permiten prevenir la generación de residuos e incentivar su valorización, a través del desarrollo de
+nuevos instrumentos normativos. No obstante lo anterior, junto con mejorar la normativa es
+necesario organizar y coordinar los esfuerzos de las instituciones públicas en este ámbito, para
+llevar a cabo acciones conjuntas con los privados y la sociedad que nos permitan abordar y
+mejorar de manera integral y sistémica la gestión de residuos en nuestro país.
+Con esta mirada se actualizó la Política de Gestión Integral de Residuos del año 2005, dando origen
+a la “Política Nacional de Residuos 2018-2030” (en adelante Política), cuya visión es lograr una
+gestión sostenible de los recursos naturales, por medio del enfoque de la economía circular y el
+manejo ambientalmente racional de los residuos, esperando aumentar la tasa de valorización de
+los residuos generados por las actividades económicas y por aquellos de origen domiciliario, a un
+30% al año 2030, con un plan de acción que se revisará y actualizará cada 5 años a partir del año
+2018.
+Para concretar lo anterior se definieron los siguientes cinco objetivos específicos:
+1. Desarrollar e implementar instrumentos para fomentar la aplicación de la jerarquía en el
+manejo de residuos.
+2. Asegurar el acceso a infraestructura para el manejo ambientalmente racional de residuos en
+todo el territorio nacional.
+3. Concientizar a la sociedad sobre los beneficios de la prevención y valorización de residuos para
+generar cambios de conducta.
+4. Levantar, estandarizar y comunicar información asociada a la jerarquía en el manejo de
+residuos.
+5. Crear una nueva institucionalidad.
+A su vez los objetivos se desagregan en 14 líneas de acción, las cuales se agrupan en función de los
+temas, dando origen a 60 acciones específicas, estructurándose de esta forma el Plan de Acción
+contenido de esta Política.
+Pág. 5
+
+--- Página 6 ---
+II. NECESIDAD DE MODERNIZAR LA GESTIÓN PÚBLICA
+El ingreso de Chile a la Organización para la Cooperación y Desarrollo Económico (OCDE), el año
+2010, estableció nuevos requerimientos para nuestro país 3 en materia de gestión de residuos, a
+través de sus decisiones y recomendaciones . En este ámbito, es necesario que el sector público
+dispon ga de una planificación que oriente la asignación del gasto público al cumplimiento de
+dichos requerimientos, en particular lo relativo al compromiso de desarrollar y ejecutar una
+política de gestión de residuos .
+Otro elemento que debe ser considerado, en la línea de los compromisos internacionales, son los
+Objetivos de Desarrollo Sostenible (ODS) 4 en materia de adaptación al cambio climático (Plan
+Nacional de Adaptación al Cambio Climático); consumo y producción sostenibles (Programa
+Nacional de Consumo y Producción Sustentables); y ciudades y asentamientos humanos
+sostenibles, incluyendo la gestión de los residuos, temáticas que deben ser incluidas
+transversalmente en los distintos instrumentos de gestión que desarrolle el Estado.
+Para contribuir a la construcción de un territorio armónico, integrado, seguro e inclusivo, es
+necesario establecer directrices para su ocupación y uso equitativo. En particular, en lo que dice
+relación con la localización de instalaciones de manejo de residuos, en específico aquellas donde
+se eliminan residuos a gran escala, considerando entre otros aspectos, el impacto social derivado
+de su construcción y operación y la atención y prevención de situaciones de conflicto derivadas de
+su gestión. En este ámbito, la Política se vinculará con otros instrumentos de incidencia territorial,
+en particular con la “Política Nacional de Ordenamiento Territorial” (PNOT). A su vez, se
+desarrollarán acciones para enlazar sus definiciones con la elaboración e implementación de los
+“Planes Regionales de Ordenamiento Territorial” (PROT).
+En línea con lo anterior, sobre planificación y prevención se elaborarán instrumentos regulatorios
+orientados específicamente a prevenir la generación de residuos y aumentar su valorización, por
+lo cual se espera que disminuya el desarrollo de proyectos de eliminación de residuos, y en
+consecuencia la demanda de suelo para su emplazamiento.
+Sumado a lo anterior, y respecto de la recuperación de territorios, con la propia definición de
+“Territorios Ambiental y Socialmente Vulnerables” de este Ministerio, la Política se liga con zonas
+donde se desarrollan los “Programas para la Recuperación Ambiental y Social” (PRAS), que
+incorporan entre sus medidas el desarrollo de actividades orientadas a la gestión de residuos.
+En el ámbito de la recuperación de terrenos impactados por el mal manejo de residuos, otro
+desafío que aborda esta Política es la erradicación de vertederos ilegales de residuos sólidos, los
+cuales se ubican de preferencia en comunas de bajos ingresos y con altos índices de
+vulnerabilidad, impactando negativamente sus presupuestos y debiendo éstas asignar recursos
+económicos, equipamiento y personal para clasificar, extraer, transportar y eliminar los residuos
+dispuestos ilegalmente en el espacio público, o aumentando la fiscalización cuando estos se
+ubican en terrenos de privados. En este contexto, la reconversión de los vertederos se enfrenta
+mediante la elaboración y aplicación de una estrategia para su control y erradicación, permitiendo
+de esta forma mejorar los índices de calidad de vida de las personas, disminuyendo con ello la
+3 En Anexo IV se presenta el listado de las decisiones y recomendaciones de la OCDE relacionadas con la gestión de residuos.
+4 ODS: En el año 2015 los estados miembros de la ONU, en conjunto con organismos no gubernamentales, y representantes de la
+ciudadanía de os estados miembros, generaron una propuesta para desarrollar 17 Objetivos de Desarrollo Sostenible (ODS), los cuales
+buscan alcanzar de manera equilibrada tres dimensiones del desarrollo sostenible: el ámbito económico, social y ambiental
+Pág. 6
+
+--- Página 7 ---
+percepción de exclusión y segregación presente en sectores vulnerables, además de los impactos
+ambientales asociados.
+Asimismo, con foco en la prevención, esta problemática se aborda, entre otras acciones
+consideradas en la Política, mediante la elaboración de una estrategia para mejorar la gestión de
+los residuos generados por las actividades de la construcción y demolición, debido a que se
+observa que una fracción de los residuos que se disponen en vertederos ilegales proviene de
+dichas actividades. La estrategia estará basada en prevenir su generación, aumentar su
+valorización y asegurar su trazabilidad, reduciendo de esta manera los impactos ambientales
+negativos y sociales asociados a este fenómeno, incentivando la investigación e innovación para la
+gestión sostenible de dichos residuos.
+Por otra parte, el año 2005, cuando se aprobó la Política de Gestión Integral de Residuos, se
+modificó el Decreto Ley N°3063 sobre Rentas Municipales, estableciéndose una exención general
+del pago de los derechos de aseo a usuarios de viviendas o unidades habitacionales cuando su
+avalúo fiscal fuese inferior a 225 Unidades Tributarias Mensuales. Como consecuencia de lo
+anterior, alrededor del 50% 5 de las propiedades quedaron exentas del pago de los derechos de
+aseo.
+Dicha medida impacta directamente los presupuestos municipales, mermando su capacidad
+financiera para invertir en otras iniciativas que beneficien a la comunidad, afectando
+principalmente esta situación a las municipalidades de menores ingresos. Por ejemplo, la
+Municipalidad de Cañete, cuyo índice comunal de pobreza es de un 38% 6 , el año 2016 recaudó por
+concepto de ingresos derivados del pago de derechos de aseo M$ 46.385. Este valor equivale al
+10% del costo total del servicio, que asciende a M$442.709, en el extremo opuesto, la comuna de
+Las Condes, que posee un nivel de pobreza comunal de un 0,6%, recaudó M$ 10.122.230
+provenientes del pago del servicio de aseo por parte de los usuarios, equivalente al 70% del costo
+total del servicio, el cual alcanzó la suma de M$ 13.366.534 el mismo año. Esta situación es
+socialmente negativa, porque las municipalidades de menores ingresos deben destinar una
+proporción importante de sus recursos para subvencionar este servicio, limitando el desarrollo de
+proyectos de inversión, tales como: construcción y mantenimiento de áreas verdes, mejoramiento
+del alumbrado público, infraestructura deportiva y cultural, entre otros.
+Asimismo, a partir de los datos, podríamos concluir que este subsidio es económicamente
+ineficiente, porque al tratarse de un servicio por el cual el generador de la externalidad negativa
+no paga, no hay incentivos económicos para reducir esta externalidad, situación que se aborda en
+el marco de la presente Política.
+5 Revalúo de bienes raíces habitacionales 2014, Servicio de Impuesto Internos.
+6 Encuesta Caracterización Socioeconómica Nacional, CASEN 2015, Ministerio de Desarrollo Social
+Pág. 7
+
+--- Página 8 ---
+III. VISIÓN Y MISIÓN
+Visión
+Lograr una gestión sustentable de los recursos naturales, a través del enfoque de la economía
+circular y el manejo ambientalmente racional de los residuos.
+Misión
+Implementar la jerarquía en el manejo de residuos con los organismos públicos, privados y la
+participación de la sociedad civil.
+Pág. 8
+
+--- Página 9 ---
+IV. PRINCIPIOS
+Los principios rectores de esta Política son los siguientes:
+a) Educación Ambiental: proceso permanente de carácter interdisciplinario, destinado a la
+formación de una ciudadanía que reconozca valores, aclare conceptos y desarrolle las
+habilidades y las actitudes necesarias para una convivencia armónica entre seres humanos, su
+cultura y su medio bio-físico circundante 7 .
+b) Equidad territorial: Propicia condiciones territoriales de inclusión y cohesión, y abordará los
+diversos desequilibrios territoriales, favoreciendo beneficios y cargas equitativas, el acceso de
+la ciudadanía a los beneficios del desarrollo y la generación de oportunidades orientadas al
+bien común 8 .
+c) Gradualismo: Las obligaciones para prevenir la generación de residuos y fomentar su
+reutilización, reciclaje y otro tipo de valorización serán establecidas o exigidas de manera
+progresiva, atendiendo a la cantidad y peligrosidad de los residuos, las tecnologías disponibles,
+el impacto económico y social y la situación geográfica, entre otros.
+d) Inclusión: Conjunto de mecanismos e instrumentos de capacitación, financiación y
+formalización orientados a posibilitar la integración plena de los recicladores de base en la
+gestión de los residuos, incluidos los sistemas de gestión en el marco de la responsabilidad
+extendida del productor.
+e) Jerarquía en el manejo de residuos: Orden de preferencia de manejo, que considera como
+primera alternativa la prevención en la generación de residuos, luego la reutilización, el
+reciclaje de los mismos o de uno o más de sus componentes y la valorización energética de los
+residuos, total o parcial, dejando como última alternativa su eliminación, acorde al desarrollo
+de instrumentos legales, reglamentarios y económicos pertinentes.
+f) Participación: Considera la participación de la sociedad en su conjunto, en todos sus niveles y
+escalas, haciéndoles partícipes de los beneficios y responsabilidades en el desarrollo del
+territorio 9 .
+g) Preventivo: Conjunto de acciones o medidas que se reflejan en cambios en los hábitos en el
+uso de insumos y materias primas utilizadas en procesos productivos, diseño o en
+modificaciones en dichos procesos, así como en el consumo, destinadas a evitar la generación
+de residuos, la reducción en cantidad o la peligrosidad de los mismos.
+h) Racionalidad ambiental: La gestión integral de residuos se llevará adelante mediante la
+aplicación de las mejores técnicas disponibles, tomando en cuenta la protección del medio
+ambiente, y considerando el ciclo de vida del producto.
+i) Transparencia y publicidad: La gestión de residuos se efectuará con transparencia, de manera
+que la comunidad pueda acceder a la información relevante sobre la materia.
+j) Trazabilidad: Conjunto de procedimientos preestablecidos y autosuficientes que permiten
+conocer las cantidades, ubicación y trayectoria de un residuo o lote de residuos a lo largo de la
+cadena de manejo.
+7 Ley Nº 19.300, Sobre Bases Generales del Medio Ambiente
+8 Política Nacional de Ordenamiento Territorial.
+9 Política Nacional de Ordenamiento Territorial.
+Pág. 9
+
+--- Página 10 ---
+V. OBJETIVOS
+1. Objetivo general
+Prevenir la generación de residuos, incentivar su valorización y manejo adecuado.
+2. Objetivos específicos
+2.1 Desarrollar e implementar instrumentos para fomentar la aplicación de la jerarquía en el
+manejo de residuos.
+La L ey 20.920 , que establece el Marco para la Gestión de R es iduos, la Responsabilidad Ex tendida
+del Productor y Fomento al R eciclaje, le otorga nuevas atribuciones a l Ministerio para elaborar
+instrumentos para implementar la Responsabilidad Extendida del Productor (REP) y prevenir la
+generación de residuos , promoviendo su valo rización, entre otros aspectos.
+En este contexto, la Política considera la elaboración de los decretos para implementar
+gradual mente la REP de los seis productos prioritarios identificados en dicha ley (aparatos
+eléctricos y electrónicos , envases y embalajes , aceites lu bricantes , baterías, neumáticos y pilas), así
+como la elaboración de instrumentos de prevención y valorización de residuos, promoviendo
+además el desarrollo de un mercado para el uso de los materiales reciclados.
+Junto con la elaboración de estos instrume ntos , se propone desarrollar otros orientados a
+desincentivar la disposición final de residuos, por ejemplo a través del establecimiento de un
+impuesto a la eliminación directa, la prohibición de eliminar residuos potencialmente valorizables
+y la introducc ión de incentivos tributarios para el desarrollo de iniciativas que apuntan a la
+prevención y valorización de residuos.
+También se plantea la necesidad de modifica r la Ley de Rentas II , a objeto de disminuir la exención
+del pago por los servicios de manej o de residuos sóli dos domiciliarios por parte de la población.
+Asimismo , haciéndose cargo de la problemática que actualmente afecta a las regiones que
+cue ntan con zonas francas, relativa a la existencia de un impuesto adicional para transportar
+residuos generados en dichas zonas hacia las instalaciones de valorización ubicadas en otras
+regiones del país, se espera eliminar o disminuir el cobro de dicho impuesto .
+En la misma línea del desarrollo y modificación normativa, es necesario f ortalecer la colabor ación
+interinstitucional en materia de inspección y control , con el fin de incentivar el desarrollo de
+prácticas destinadas a garantizar el cumplimiento de la normativa aplicable por parte de los
+regulados.
+Por otra parte , es necesario impulsar la optim ización de procesos y mejoras en la productividad
+del sector de residuos, desde la frontera de producción , por lo tanto, se plantea la promoción de
+instrumentos de fomento de I+D+i (innovación, desarrollo e investigación), esperando como
+resultado un model o sostenible en el tiempo y coherente con la misión del presente instrumento.
+Por último, en el contexto del desarrollo de infraestructura para manejo de residuos, en sinergia
+con la visión de la “Política Nacional de Ordenamiento Territorial”, esta Polít ica contribuirá al
+desarrollo de criterios para definir el emplazamiento de instalaciones de manejo de residuos con
+un enfoque territorial, a objeto de “avanzar de manera más eficiente y eficaz hacia la superación
+Pág. 10
+
+--- Página 11 ---
+de brechas de inequidad, multiplicando la s oportunidades de los habitantes y mejorando su
+calidad de vida, de modo de privilegiar el bien común”.
+2.2 Asegurar el acceso a infraestructura para el manejo ambientalmente racional de residuos en
+todo el territorio nacional.
+Desde el año 2008 se ha a vanzado en la construcción de instalaciones para la disposición final de
+residuos sólidos municipales, con financiamiento del Programa Nacional de Residuos Sólidos del
+Ministerio del Interior, entre otros. N o obstante lo anterior, el 23 % de los residuos ge nerados a
+nivel nacional es enviado a instalaciones de disposición final cuyo estándar está debajo de lo
+establecido por la normativa aplicable.
+En este contexto , el programa se ha orientado, principalmente a la construcción de instalaciones
+de eliminaci ón (rellenos sanitarios), pero últimamente ha financiado iniciativas asociadas a la
+valorización de residuos, entre las cuales destaca la construcción de instalaciones de recepción y
+almacenamiento de residuos para su posterior envío a instalaciones de val orización en la Región
+Metropolitana. No obstante lo anterior, es necesario disponer de mayores recursos públicos a
+objeto de asegurar el acceso a infraestructura para el manejo ambientalmente racional de
+residuos a lo largo de todo el territorio nacional, tanto para la valorización como también para su
+eliminación adecuada.
+Considerando lo anterior, mediante el presente objetivo se pretende desarrollar acciones
+tendientes a aumentar la disponibilidad de recursos públicos y generar capacidades en las
+inst ituciones que pued e n acceder a dichos fondos, incentivando la asociatividad municipal y una
+mirada sistémica a nivel regional que contribuya a su uso eficiente.
+2.3 Concientizar a la sociedad sobre los beneficios de la prevención y valorización de residuos,
+para generar cambios de conducta.
+L a toma de conocimiento por parte de la sociedad, respecto de la presión que hoy se ejerce sobre
+los recursos naturales y el ecosistema , para satisfacer sus necesidades y el modelo de desarrollo
+actual, nos obliga a e jecutar acciones concretas, desde las políticas públicas , para abordar este
+desafío.
+En el contexto de lo recién expresado , por medio de este objetivo se pretende abordar la
+educación ambiental desde la perspectiva formal y no formal , a través de las dis tintas
+herramientas del E stado , generando conciencia en la ciudadanía y forma ndo habilidades prácticas
+sobre el desarrollo sostenible , promoviendo cambios conductuales que estén en armonía con el
+desarrollo social, el crecimiento económico y el cuidado del medio ambiente , incentivando
+conductas acordes con la prevención y valorización de residuos .
+E ste objetivo con sidera también g enerar capacidades al interior de l os organismos del E stado a
+nivel local , regional y nacional , para mejorar la gestión de los residuos , capacitando , por ejemplo,
+sobre nuevas tecnologías.
+En la misma línea , también se espera visibilizar la temática de residuos desde una perspectiva
+positiva , identificando oportunidades de mejora, promoviendo el conoci miento de experiencias
+exito sas , generando espacios de discusión y difusión a través del rec onocimiento de buenas
+prácticas y de iniciativas asociadas a I+D +i (Innovación, Desarroll o e investigación), entre otros.
+Pág. 11
+
+--- Página 12 ---
+2.4 Levantar, estandarizar y comunicar información asociada a la jer arquía en el manejo de
+residuos .
+El disponer de información adecuada sobre gestión de residuos, a nivel nacional, contribuye a
+orientar adecuadamente el desarrollo de políticas públicas y el uso de los recursos, focalizando los
+esfuerzos del Estado, en e l marco de la implementación de la jerarquía en el manejo de residuos.
+El presente objetivo se hará cargo de promover la entrega de información de calidad relativa a la
+gestión de residuos, a nivel público y privado, con el objeto de contribuir a la toma de decisión de
+las autoridades a la hora de desarrollar futuras políticas públicas .
+Junto con ello, se desarrollarán acciones para estandarizar dicha información entre los organismos
+públicos , y en consecuencia mejorar la calidad de nuestras respuestas c on relación al
+cumplimiento de compromisos nacionales e internacionales.
+Finalmente, en el marco de la aplicación del principio de transparencia, se garantizará que la
+información levantada se ponga a disposición de quien la solicite.
+2.5 Crear una nueva institucionalidad.
+Este objetivo se relaciona con la creación de una nueva institucionalidad al alero del Ministerio,
+que responda exclusivamente a promover la implementación de la jerarquía en el manejo de
+residuos a través del desarrollo de acciones, que aseguren su manejo ambientalmente racional.
+Se espera que esta nueva institución sea de carácter público-privado y que brinde apoyo técnico al
+Ministerio en el desarrollo y la implementación de los instrumentos de gestión de residuos para
+solucionar nudos críticos en torno a su gestión, así como también liderar iniciativas que permitan
+aportar al desarrollo sostenible desde la implementación de acciones orientadas a la aplicación de
+la jerarquía en el manejo de residuos y la economía circular, convirtiéndose en un organismo de
+referencia en gestión de residuos a nivel nacional e internacional.
+Pág. 12
+
+--- Página 13 ---
+VI. LÍNEAS DE ACCIÓN
+Para lograr los objetivos señalados se implementarán las siguientes líneas de acción.
+En relación con el primer objetivo “Desarrollar e implementar instrumentos para fomentar la
+aplicación de la jerarquía en el manejo de residuos” :
+1. Implementar la "Ley de Fomento al Reciclaje".
+2. Definir e implementar desde las instituciones del Estado instrumentos para avanzar hacia una
+economía circular.
+3. Desarrollar instrumentos y mecanismos para mejorar la gestión de residuos.
+4. Incentivar la valorización de residuos orgánicos.
+En relación con el segundo objetivo “Asegurar el acceso a infraestructura para el manejo
+ambientalmente racional de residuos en todo el territorio nacional ”:
+1. Dotar de instalaciones adecuadas para eliminar residuos.
+2. Identificar y fomentar el uso de recursos públicos para iniciativas de valorización.
+3. Incentivar mejoras en la gestión de residuos municipales.
+4. Incentivar la valorización de residuos orgánicos.
+5. Contribuir a la implementación de iniciativas orientadas a mejorar la gestión de residuos, en
+territorios ambientalmente vulnerables.
+En relación con el tercer objetivo “Concientizar a la sociedad sobre los beneficios de la
+prevención y valorización de residuos, para generar cambios de conducta” :
+1. Desarrollar programas de transferencia de capacidades, para fomentar la gestión de residuos a
+través de la economía circular en la educación formal y no formal.
+2. Difundir y reconocer prácticas de prevención y valorización de residuos.
+En relación con el cuarto objetivo “Levantar, estandarizar y comunicar información asociada a la
+jerarquía en el manejo de residuos”:
+1. Desarrollar mecanismos para mejorar el levantamiento y calidad de información.
+2. Difundir información.
+En relación con el quinto objetivo “Crear una nueva institucionalidad”:
+1. Elaborar marco normativo
+Pág. 13
+
+--- Página 14 ---
+VII. IMPLEMENTACIÓN
+Sobre el financiamiento para implementar la Política, se consideran aportes valorados de
+funcionarios del Ministerio y de otras instituciones del Estado, quienes contribuirán a la
+materialización de las actividades de su plan de acción. Adicionalmente, se sumarán los recursos
+que anualmente el Ministerio recibe en el marco de la Ley de Presupuesto, y aquellos aportes
+provenientes de entidades extranjeras.
+Desde el punto de vista operativo, para la implementación de la Política a nivel nacional se creará
+una Secretaría Ejecutiva Nacional, instancia que se replicará en cada una de las regiones.
+El Ministerio, a través de esta Política, desarrolló un Plan de Acción a ejecutarse a corto y mediano
+plazo. Las acciones a corto plazo se proyectan para ser cumplidas en dos años, y las de mediano
+plazo en cinco años.
+Cada acción tiene asociado un organismo que se debe responsabilizar por su avance y
+cumplimiento. Dichos organismos podrán ser integrantes permanentes de la Secretaría o
+participar de manera intermitente, mientras se encuentre en desarrollo la acción específica que
+tienen a su cargo.
+La Secretaría Ejecutiva Nacional , presidida por el Ministerio, es una instancia que estará integrada
+por el Ministerio de Salud, el Ministerio del Interior a través de la Subsecretaría de Desarrollo
+Regional y Administrativo, el Ministerio de Desarrollo Social, el Ministerio de Vivienda y
+Urbanismo, y representantes de asociaciones de municipios. Adicionalmente, se invitará a otras
+autoridades que sean parte de las actividades definidas en el Plan de Acción Nacional, según
+corresponda.
+La misión de la Secretaría Ejecutiva Nacional será la conducción, implementación y seguimiento de
+la Política, coordinación de los distintos organismos públicos con competencia en las materias
+respectivas para avanzar en el cumplimiento de los objetivos propuestos, y la interlocución con
+actores externos a las instituciones públicas, como empresas, y representantes de la sociedad civil,
+entre otros.
+La Secretaría Ejecutiva Nacional, entre otras responsabilidades tendrá las siguientes funciones:
+ Difundir la Política, sus contenidos y plan de acción, en todos los niveles del Estado y en los
+distintos espacios participativos de la sociedad civil y el sector privado.
+ Realizar las gestiones técnicas y políticas, de acuerdo a sus competencias, para alcanzar los
+objetivos y acciones definidas en la Política, tanto de las acciones de impacto nacional
+como regional.
+ Trabajar de manera coordinada con los organismos públicos que tengan algún rol definido
+en el plan de acción y que no participen de manera permanente en esta instancia.
+ Proponer soluciones a situaciones de contingencia que incorporen la jerarquía en el
+manejo de residuos y el manejo ambientalmente racional.
+A nivel regional, se crearán Secretarías Ejecutivas Regionales que serán presididas por las
+Secretarías Regionales Ministeriales del Medio Ambiente, y en ellas participarán al menos un
+representante de la Intendencia, del Gobierno Regional, de la Secretaría Regional Ministerial del
+Ministerio de Salud, de la Secretaría Regional Ministerial de Vivienda y Urbanismo, el
+representante regional de la Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE), el
+Pág. 14
+
+--- Página 15 ---
+Ministerio de Desarrollo Social y representantes de municipios y/o asociación que represente a los
+municipios de la región.
+De acuerdo a la realidad de cada región, se invitará a otras autoridades regionales, así como
+actores privados y de la sociedad civil.
+Las Secretarías Ejecutivas Regionales, entre otras responsabilidades tendrán las siguientes
+funciones:
+ Constituirse como una mesa técnica de discusión, planificación y formulación de proyectos
+de prevención, valorización y manejo de residuos, así como de contraparte técnica a
+programas o proyectos relacionados a estos temas.
+ Difundir la Política, sus contenidos y plan de acción en todos los niveles del Estado y en los
+distintos espacios participativos de la sociedad civil y el sector privado.
+ Definir un plan de acción acorde a la realidad regional que incorpore la jerarquía en el
+manejo de residuos y el manejo ambientalmente racional. Por ejemplo, apoyar la
+implementación de la indicación sustitutiva a la Ley Orgánica Constitucional de Gobierno y
+Administración Regional, que otorga responsabilidades a los Gobiernos Regionales en el
+tema de gestión de residuos.
+ Desarrollar e implementar planes de gestión de residuos a nivel regional y/o intercomunal.
+ Realizar las gestiones técnicas y políticas, de acuerdo a sus competencias, para alcanzar los
+objetivos y acciones definidas en la Política.
+ Trabajar de manera coordinada con los organismos públicos que tengan algún rol definido
+en el plan de acción regional y que no participen de manera permanente en esta instancia.
+ Promover la coordinación entre el Gobierno Regional, los municipios y los servicios
+públicos con el fin de avanzar en iniciativas asociadas a la jerarquía en el manejo de
+residuos y manejo adecuado de los mismos.
+ Proponer soluciones a situaciones de contingencia que incorporen la jerarquía en el
+manejo de residuos y el manejo ambientalmente racional.
+ Apoyar a los municipios en la implementación de acciones definidas con el respectivo
+Gobierno Regional.
+Pág. 15
+
+--- Página 16 ---
+VIII. PLAN DE ACCIÓN DE LA POLÍTICA NACIONAL DE RESIDUOS, PERÍODO 2018 - 2022
+Objetivo Líneas de acción N° Acción específica Inicio Término Responsable
+1. Desarrollar e implementar 1. Implementar la "Ley de Fomento al Decretos supremos de metas y otras obligaciones asociadas
+instrumentos para fomentar la Reciclaje"
+aplicación de la jerarquía en el
+manejo de residuos.
+1 Elaborar Decreto Envases y Embalajes 2018 2019 MMA
+2 Elaborar Decreto Neumáticos 2018 2019 MMA
+3 Elaborar Decreto Aceites 2018 2019 MMA
+4 Elaborar Decreto Baterías 2019 2020 MMA
+5 Elaborar Decreto Aparatos Eléctricos y Electrónicos 2019 2020 MMA
+6 Elaborar Decreto Pilas 2019 2020 MMA
+7 Evaluar la incorporación de nuevos productos prioritarios 2019 2021 MMA
+Instrumentos destinados a prevenir la generación de residuos y, o promover su valorización
+8 Incorporar en la agenda legislativa la creación de un incentivo tributario, para evitar que productos 2018 2022 MMA en coordinación con el Ministerio de Hacienda y
+aptos para el uso o consumo se conviertan en residuos. con MINSAL
+9 Elaborar reglamento para establecer los procedimientos que definen la condición de subproducto y el 2019 2020 MMA en coordinación con MINSAL, DIRECTEMAR y otros
+fin de la condición de un residuo. servicios.
+10 Elaborar e implementar el Plan Nacional de Ecodiseño y Etiquetado 2018 2022 MMA en coordinación con CORFO y otros servicios
+competentes
+11 Fomentar modelos inclusivos de gestión de residuos 2018 2022 MMA en coordinación con Agencia de Sustentabilidad y
+Cambio Climático y otros servicios con competencia.
+2. Definir e implementar desde las 12 Promover el desarrollo de mercados para residuos valorizables 2018 2022 MMA en coordinación con MOP, MINVU, MINSAL,
+instituciones del Estado, instrumentos MINENERGIA, SEC, Agencia de Sustentabilidad y Cambio
+para avanzar hacia una economía Climático y otros servicios con competencia.
+circular
+13 Desarrollar e implementar un programa de prevención y separación de residuos en oficinas públicas, 2018 2019 MMA
+asociado a un instrumento vinculante (instructivo presidencial PMG)
+14 Modificar el marco regulatorio para evitar la eliminación de residuos aptos para la valorización 2018 2020 MINSAL en coordinación con el MMA
+Instrumentos económicos que fomenten e incentiven la prevención y valorización para Residuos
+Sólidos Municipales
+15 Modificar la Ley de Rentas II sobre Rentas Municipales para disminuir la exención del pago del derecho 2019 2021 Ministerio del Interior / SUBDERE en coordinación con el
+de aseo. MMA
+16 Realizar análisis tributario para fijar un impuesto específico a la disposición final de residuos. 2018 2022 MMA en coordinación con Ministerio de Hacienda
+17 Realizar análisis tributario para generar incentivos a la valorización de residuos. 2018 2022 MMA en coordinación con Ministerio de Hacienda
+Instrumentos económicos que fomenten e incentiven la prevención y valorización del sector
+productivo
+18 Realizar análisis tributario para fijar un impuesto específico a la disposición final de residuos. 2018 2022 MMA en coordinación con Ministerio de Hacienda
+19 Desarrollar y promocionar instrumentos de financiamiento de I+D+i para iniciativas de prevención y 2019 2022 MMA en conjunto con CORFO y otros servicios con
+valorización de residuos. competencia.
+Pág. 16
+
+--- Página 17 ---
+Objetivo Líneas de acción N° Acción específica Inicio Término Responsable
+1. Desarrollar e implementar 3. Desarrollar instrumentos y Acciones orientadas al sector productivo
+instrumentos para fomentar la mecanismos para mejorar la gestión de
+aplicación de la jerarquía en el residuos.
+manejo de residuos.
+20 Elaborar e implementar una estrategia para mejorar la gestión de re siduos de la construcción, a lo 2018 2022 MINVU en coordinación con el MMA
+largo de su ciclo de vida.
+Zona de catástrofe
+21 Elaborar indicaciones para el manejo de residuos ante la ocurrencia de catástrofes. 2019 2022 ONEMI en coordinación con MMA
+Acciones para la disposición inadecuada
+22 Elaborar e implementar una estrategia de control y erradicación de vertederos ilegales. 2018 2020 MINSAL en coordinación con el MMA
+Acciones de fiscalización
+23 Fortalecer la colaboración interinstitucional en materia de inspección y control. 2018 2022 MMA / SMA en coordinación con MINSAL y otros
+organismos con competencias fiscalizadoras
+Territorio Marítimo y Medio Ambiente Acuático
+24 Desarrollar normativa específica sobre el manejo de residuos de buques, en el marco del protocolo de 2018 2022 MINREL en coordinación con DIRECTEMAR, MMA, MTT y
+MARPOL MINSAL
+25 Desarrollar normativa específica para desincentivar el vertimiento de residuos al mar. 2018 2022 MMA en coordinación con DIRECTEMAR, MINSAL, MTT y
+MINREL
+Territorios aislados o sin cobertura
+26 Elaborar directrices para el desarrollo de planes de gestión de residuos en localidades aisladas. 2018 2022 MMA
+Zona franca y puertos
+27 Definir directrices para la elaboración de planes de gestión de residuos generados en zona franca. 2018 2022 MMA en coordinación con SNA, MINSAL y otros
+organismos con competencia en la materia.
+Equidad territorial para la gestión de residuos
+28 Desarrollar criterios para definir el emplazamiento de instalaciones de manejo de residuos que 2018 2019 MMA en el marco de la Política de Ordenamiento
+incorporen la equidad territorial. Territorial
+4. Incentivar la valorización de residuos Instrumentos transversales
+orgánicos.
+29 Elaborar instrumentos para el manejo ambientalmente racional de residuos orgánicos, considerando 2018 2022 MMA
+la jerarquía en el manejo de residuos.
+30 Desarrollar e implementar un plan de acción de aprovechamiento energético de los residuos orgánicos 2019 2020 MMA en coordinación con MINENERGIA
+(Diversificación de la matriz)
+Acciones para residuos sólidos municipales.
+31 Establecer instrumentos para valorizar los residuos provenientes de parques, áreas verdes, ferias 2019 2022 MMA en coordinación con SUBDERE, Agencia de
+libres, hoteles y restaurantes. Sustentabilidad y Cambio Climático y otros servicios con
+competencia.
+32 Establecer instrumentos para valorizar los residuos orgánicos de origen domiciliario. 2019 2022 MMA en coordinación con SUBDERE
+Acciones para residuos agropecuarios e industriales
+33 Dictar Reglamento para el manejo de lodos generados en sistemas de tratamiento 2018 MINAGRI en coordinación con el MMA
+de efluentes de pisciculturas.
+34 Elaborar reglamento para el manejo y valorización de purines de cerdos 2018 2022 MMA en coordinación con SAG
+35 Elaborar reglamento para el manejo de purines de lecherías 2019 2022 MMA en coordinación con SAG
+36 Elaborar reglamento para el manejo y valorización de guano de aves tanto postura como de carne 2019 2022 MMA en coordinación con SAG
+37 Revisión del reglamento que regula el manejo de lodos provenientes de plantas de tratamiento de 2018 MMA en coordinación con SAG
+efluentes de la industria procesadora de frutas y hortalizas (Decreto Supremo Nº3/2012 MMA) .
+38 Revisión del reglamento para el manejo de lodos generados en plantas 2019 2022 MINSAL en coordinación con MMA
+de tratamiento de aguas servidas (DS N°4/2009 MINSEGPRES).
+Pág. 17
+
+--- Página 18 ---
+Objetivo Líneas de acción N° Acción específica Inicio Término Responsable
+2. Asegurar el acceso a 1. Dotar de instalaciones adecuadas 39 Construir rellenos sanitarios para la disposición final de Residuos Sólidos Municipales. 2018 2022 SUBDERE en coordinación con el MMA
+infraestructura para el manejo para eliminar residuos.
+ambientalmente racional de residuos
+en todo el territorio nacional.
+40 Desarrollar un diagnóstico sobre la factibilidad de valorizar energéticamente los residuos sólidos en 2018 2020 Ministerio de Energía
+Chile mediante tecnologías Waste to Energy
+2. Identificar y fomentar el uso de 41 Difundir y capacitar sobre las metodologías de financiamiento para el desarrollo de proyectos de 2018 2019 MMA
+recursos públicos para iniciativas de valorización.
+valorización.
+Fondo para el reciclaje
+42 Financiar proyectos de infraestructura para fomentar la reutilización, reciclaje y otro tipo de 2018 2022 MMA
+valorización de residuos.
+3. Incentivar mejoras en la gestión de 43 Elaborar planes de gestión de residuos sólidos municipales a nivel regional y comunal 2019 2022 SUBDERE en coordinación con el MMA
+residuos municipales.
+44 Definir elementos necesarios para avanzar en la prevención y valorización de residuos sólidos 2019 2022 SUBDERE en coordinación con el MMA
+municipales, en el marco de la indicación sustitutiva a la Ley Orgánica Constitucional de Gobierno y
+Administración Regional.
+45 Complementar una definición específica en la glosa de residuos SUBDERE para proyectos de 2019 2022 SUBDERE
+prevención y valorización.
+46 Diseñar e implementar proyectos de valorización de residuos orgánicos que permitan reducir las 2019 2022 MINENERGIA, en coordinación con SUBDERE y MIDESO.
+emisiones de gases de efecto invernadero y aumentar el aprovechamiento energético del metano.
+4. Incentivar la valorización de residuos 47 Contribuir a generar las condiciones para aprovechar energéticamente los residuos orgánicos, a través 2018 2022 MINENERGIA, SEC, Agencia de Sustentabilidad y Cambio
+orgánicos. de la implementación del marco regulatorio de seguridad en plantas de biogás y el análisis de Climático, CORFO y MMA.
+factibilidad de proyectos de biogás en distintos sectores agroindustriales
+5. Contribuir a la implementación de 48 Apoyar el desarrollo de planes de gestión de residuos en territorios donde se encuentren operando 2018 2022 MMA en coordinación con MINSAL/SUBDERE y Gobierno
+iniciativas orientadas a mejorar la "Programas para la Recuperación Ambiental y Social". Regional
+gestión de residuos, en territorios
+ambientalmente vulnerables.
+Pág. 18
+
+--- Página 19 ---
+Objetivo Líneas de acción N° Acción específica Inicio Término Responsable
+3. Concientizar a la sociedad sobre 1. Desarrollar programas de 49 Promover la incorporación de la economía circular y la jerarquía en el manejo de residuos en el 2019 2022 MMA en coordinación con MINEDUC
+los beneficios de la prevención y transferencia de capacidades, para currículo escolar.
+valorización de residuos, para fomentar la gestión de residuos a
+generar cambios de conducta. través de economía circular en la
+educación formal y no formal.
+50 Capacitar a través de la Academia Adriana Hoffmann a docentes, ciudadanía y MIPYMES. 2018 2022 MMA
+51 Potenciar las capacidades técnicas de funcionarios públicos en tecnologías para valorizar residuos. (Ej. 2020 2022 MMA
+de acción, primera etapa proyectos para valorización de residuos orgánicos, biodigestores).
+2.Difundir y reconocer prácticas de 52 Promover la prevención y valorización de residuos. 2019 2022 MMA en coordinación con la Agencia de Sustentabilidad
+prevención y valorización de residuos. y Cambio Climático y otros servicios con competencia.
+53 Diseñar e implementar campañas de información y sensibilización orientadas a la comunidad. 2020 2022 MMA
+54 Financiar a través del fondo del reciclaje, actividades de sensibilización ciudadana para fomentar la 2018 2022 MMA
+separación en origen, que contemplen instalaciones de recepción y almacenamiento de residuos y su
+equipamiento.
+55 Otorgar reconocimiento a instituciones sobre buenas prácticas. 2018 2022 MMA en coordinación con Agencia de Sustentabilidad y
+Cambio Climático y otros servicios con competencia.
+4. Levantar, estandarizar y comunicar 1. Desarrollar mecanismos para 56 Incentivar la correcta declaración de información en el RETC. 2020 2022 MMA en coordinación con otros servicios con
+información asociada a la jerarquía mejorar el levantamiento y calidad de competencia.
+en el manejo de residuos. información
+57 Desarrollar mecanismos para armonizar los sistemas de declaración. 2018 2022 MMA en coordinación con otros servicios con
+competencia.
+58 Estandarizar la información disponible en los servicios públicos 2020 2022 MMA
+2. Difundir información 59 Identificar fuentes de información asociada a la gestión de residuos y utilizar los canales de difusión 2018 2022 MMA en coordinación con otros servicios con
+de la instituciones públicas para publicar. competencia.
+5. Crear una nueva institucionalidad 1. Elaborar marco normativo 60 Desarrollar normativa para crear una nueva institucionalidad. 2018 2022 MMA
+SIGLAS
+CORFO :Corporación de Fomento de la Producción MMA : Ministerio del Medio Ambiente
+DIRECTEMAR:Dirección General del Territorio Marítimo y Marina Mercante de Chile MOP : Ministerio de Obras Públicas
+MIDESO : Ministerio de Desarrollo Social MTT : Ministerio de Transportes y Telecomunicaciones
+MINAGRI : Ministerio de Agricultura ONEMI :Oficina Nacional de Emergencia
+MINEDUC : Ministerio de Educación SAG : Servicio Agrícola y Ganadero
+MINENERGIA:Ministerio de Energía SEC :Superintendencia de Electricidad y Combustible
+MINREL : Ministerio de Relaciones Exteriores de Chile SMA :Superintendencia del Medio Ambiente
+MINSAL : Ministerio de Salud SNA : Servicio Nacional de Aduanas
+MINVU :Ministerio de Vivienda y Urbanismo SUBDERE : Subsecretaría de Desarrollo Regional y Administrativo
+Pág. 19
+
+--- Página 20 ---
+ANEXO I DIAGNÓSTICO
+1. Institucionalidad
+Las principales instituciones a cargo de la gestión de residuos son: las municipalidades con la
+función privativa para el aseo y ornato, incluyendo el servicio de extracción de residuos; el
+Ministerio de Salud, a cargo de la protección de la salud de las personas en relación con el manejo
+de residuos; la Subsecretaría de Desarrollo Regional y Administrativo, la cual coordina y apoya a
+las municipalidades en la gestión de residuos a través del Programa Nacional de Residuos Sólidos y
+el Ministerio del Medio Ambiente, a cargo de la proponer políticas y formular normas y planes en
+materia de residuos, entre otros.
+2. Instrumentos
+i) Evolución de la regulación en materia de gestión de residuos.
+Como se observa en la figura 1, a partir del año 1967 nuestro país comienza a adoptar medidas
+para regular el manejo de residuos desde una perspectiva sanitaria. Con el paso del tiempo, la
+normativa se fue perfeccionado y ampliando su ámbito de acción, considerando la protección de la
+salud de las personas y del medio ambiente.
+Otro hito que marca un punto de inflexión a este respecto es el ingreso de Chile a la OCDE, toda
+vez que impulsa a nuestro país a elevar su estándar regulatorio incorporando mejoras en materia
+de gestión de residuos. Lo anterior se evidencia con la entrada en vigencia de la Ley N° 20.920 “Ley
+marco para la Gestión de Residuos, la Responsabilidad Extendida del Productor y Fomento al
+Reciclaje” el 1 de junio del año 2016. Este instrumento contempla, entre otros, el principio
+preventivo y el de la jerarquía en el manejo de residuos, los cuales invitan a tener una mirada
+sistémica en los procesos productivos de bienes y servicios, con el fin de minimizar sus impactos
+ambientales y disminuir los costos a lo largo de todo el ciclo de vida.
+Figura 1: Instrumentos aplicables al manejo de residuos
+Pág. 20
+
+--- Página 21 ---
+ii) Principales normativas aplicables a la Gestión de Residuos Sólidos Municipales
+1967 DFL 725 Código Sanitario , señala que le corresponde a las municipalidades recolectar,
+transportar y eliminar por métodos adecuados, a juicio del Servicio Nacional de Salud, las basuras,
+residuos y desperdicios que se depositen o produzcan en la vía urbana (Publicado en el D.O 1968).
+1979 D.L. 3.063 , Decreto Ley sobre Rentas Municipales (Publicado en el D.O. de 20 de noviembre
+de 1996 y actualizado al 26 de noviembre de 1999).
+1988 Ley Nº 18.695 Orgánica Constitucional de Municipalidades, establece que el aseo y ornato de
+la comuna es una función privativa del municipio.
+2010 Ley 20.417 Otorga a las municipalidades la facultad de proponer y ejecutar medidas
+tendientes a materializar acciones y programas relacionados con medio ambiente; aplicar las
+normas ambientales a ejecutarse en la comuna que sean de su competencia, y elaborar el
+anteproyecto de ordenanza ambiental.
+iii) Financiamiento de la disposición final de residuos sólidos municipales
+Con la modificación de Decreto Ley N°3.063 Sobre Rentas Municipales realizada el año 2005,
+alrededor del 50% de las propiedades quedó exenta del pago por el servicio de recolección,
+transporte y eliminación de residuos sólidos municipales (pago del derecho de aseo). Esta
+exención implica que parte, o en algunos casos la totalidad del gasto debe ser cubierto con
+recursos del presupuesto municipal. Lo anterior podría ser una de las razones que darían cuenta
+de que el 23% de los residuos sea eliminado en vertederos que no alcanzan el estándar normativo
+para este tipo de instalaciones.
+En base a un análisis de la información disponible en el Sistema Nacional de Información Municipal
+(SINIM), relativo al gasto efectuado por las municipalidades de Chile durante el año 2016 por los
+servicios de recolección, transporte y disposición final de residuos, se observa que los municipios
+del país utilizan hasta el 27% de su presupuesto municipal para este fin. Considerando lo anterior,
+el gasto total efectuado por los municipios suma más de 312 mil millones de pesos a nivel nacional
+durante el año 2016. Dicha cifra no considera, entre otros, los gastos efectuados por las
+municipalidades por concepto de administración y supervisión del sistema, por lo cual se estima
+que este porcentaje podría aumentar.
+Como se observa en la Tabla N°1, la demanda de recursos de los presupuestos municipales para
+cubrir esta partida tiene un notorio crecimiento a partir del año 2004, llegando a más de 214 mil
+millones de pesos en el año 2016. Asimismo, el gasto por servicio de aseo municipal ha excedido
+en estos años entre el 46% y el 70% del presupuesto existente para este ítem.
+Tabla 1: Ingresos y gastos municipales por el servicio de aseo en millones de pesos 10 a nivel nacional.
+Item 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+Ingreso por gasto de
+47.276 47.820 47.661 50.695 49.114 55.267 58.511 65.504 70.670 73.014 82.023 95.000 98.221
+derecho de aseo (MM$)
+Gastos servicio de aseo
+87.733 93.612 106.286 117.019 142.910 156.778 163.031 185.056 208.128 225.358 253.861 282.839 312.585
+(MM$)
+Déficir presupuestario
+40.457 45.792 58.625 66.324 93.797 101.511 104.520 119.552 137.459 152.344 171.837 187.840 214.364
+(MM$)
+Fuente: Elaboración propia con datos del Sistema Nacional de Información Municipal (SINIM), SUBDERE, Ministerio del Interior.
+En este contexto, y con el objeto de mejorar la gestión de residuos a nivel nacional, la
+Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE), dependiente del Ministerio del
+10 Fuente. Sistema Nacional de Información Municipal (SINIM), SUBDERE, Ministerio del Interior.
+http://datos.sinim.gov.cl/datos_municipales.php
+Pág. 21
+
+--- Página 22 ---
+Interior, diseñó el Programa Nacional de Residuos Sólidos (PNRS), cuyo objetivo general es
+“Contribuir al desarrollo territorial sostenible a nivel regional, comunal, y local, por medio de la
+implementación de sistemas integrales de gestión de residuos sólidos, que tengan como eje una
+mejora de la calidad ambiental y las condiciones de salubridad".
+El programa se inició con la firma de dos créditos internacionales, uno con el banco alemán KfW y
+otro con el Banco Interamericano de Desarrollo. Actualmente el programa se financia
+íntegramente con recursos públicos, con los cuales se desarrollan estudios de diagnóstico y de pre
+factibilidad de sitios de disposición final; diseño y compra de terrenos para la construcción de
+nuevos rellenos sanitarios o cierres de vertederos; obras de construcción de rellenos sanitarios,
+cierre de basurales y vertederos y compra de maquinaria, normalizaciones y la elaboración de
+planes regionales de gestión de residuos sólidos municipales.
+Al financiar el Estado las inversiones necesarias para construir instalaciones de eliminación
+adecuadas (compra de terreno y construcción de rellenos sanitarios, entre otros), los costos que
+deben pagar las municipalidades para eliminar sus residuos se mantienen relativamente bajos,
+pero no reflejan los costos reales. Desde una perspectiva ambiental sin duda representa una
+mejora, sin embargo, también genera un desincentivo a la valorización de los residuos toda vez
+que las instalaciones para valorizarlos no cuentan con el cofinanciamiento del Estado.
+A continuación se presenta una tabla con un resumen de los proyectos financiados por el PNRS por
+región:
+Tabla 2: Iniciativas financiadas por el Programa Nacional de Residuos Sólidos al año 2017
+Proyectos
+Cie rre de Vertederos Construcción de Rellenos Planes de Gestión de
+Región Valorización
+Planes
+Estudios
+Cierre de Diseño de Construcción Planes Regionales Planes
+de Planes Estudios
+vertederos rellenos de rellenos Comunales en Aprobad os
+de Cierre
+desarrollo
+Arica -
+1 1 2 1 1 2 1 1
+Parinacota
+Tarapacá 1 3 4 4 1 1
+Antofagasta 2 1 6 5 1 1
+Atacama 7 1 1 2 1
+Coquimbo 4 2 1 1 1
+Valparaíso 3 2 2 0 1 1 3
+Metropolitana 1 8
+O´Higgins 1 1 3
+El Maule 2 1 2 1 9
+Biobío 11 5 1 2 9 1 2
+Araucanía 3 15 11 2 2 2
+Los Ríos 4 3 2 1 2 3
+Los Lagos 11 7 10 2 2 2
+Aysén 1 1 3 7 1
+Magallanes 1 1 2 1 1 1
+Totales 52 40 34 26 18 15 9 4 36
+Pág. 22
+
+--- Página 23 ---
+iv) Inclusión de recicladores de base en la valorización de residuos sólidos municipales
+Varios residuos tienen un valor económico, pequeño si se los considera unitariamente pero
+importante si se reúnen grandes cantidades, y más alto aún si se comercializan listos para ser
+procesados. De este modo se inicia una cadena de valor en la que el reciclador es un eslabón
+prioritario. La creciente valoración social por el reciclaje ha permitido instalar la necesidad de la
+actividad del reciclador de base como una pieza clave para la gestión integral de los residuos en el
+país. Adicionalmente, esta valoración se ha ido constituyendo en un factor de progreso para que
+los recicladores puedan plantear sus reivindicaciones de reconocimiento e inclusión al Estado.
+En el año 2016 se aprobó, ante el Consejo de Ministros para la Sustentabilidad, la Política para la
+Inclusión de Recicladores de Base. La Política está diseñada para impulsar la inclusión social,
+económica y ambiental de los recicladores de base en la gestión ambientalmente racional de los
+residuos, y considera entre otros: su protección social, un reconocimiento social de su trabajo, su
+formalización económica, el desarrollo de capacidades empresariales y el acceso a instrumentos
+de fomento productivo, así como el desarrollo de instrumentos que promueven la valorización de
+residuos, ampliando así su nicho de mercado. Se propone regular su actividad y promover su
+formalización y asociación, incorporándolos al tejido social, reconociendo sus derechos y el rol que
+les corresponde en la cadena de la valorización de residuos.
+v) Ley Marco para la Gestión de Residuos, Responsabilidad Extendida del Productor y Fomento
+al Reciclaje
+El ingreso de Chile a la Organización para la Cooperación y Desarrollo Económico (OCDE) presenta
+una serie de desafíos y oportunidades en materia medioambiental. La nueva visión en la gestión
+de residuos requiere reforzar lo que en muchos países se conoce como la Política de las 3R
+(reducir, reciclar, reutilizar). Esto reporta ganancias ambientales al disminuir la generación de
+residuos y aprovechar los recursos presentes en los residuos generados, de modo que el uso de los
+recursos naturales y la disposición final de residuos disminuye, así como los impactos negativos
+correspondientes.
+En este contexto, el Congreso Nacional aprobó el 5 de abril de 2016 la “Ley Marco para la Gestión
+de Residuos, Responsabilidad Extendida del Productor y Fomento al Reciclaje”, la cual establece
+las disposiciones conforme a las cuales se efectuará la gestión de residuos en el territorio nacional,
+de manera de prevenir su generación, fomentar su valorización y efectuar un manejo adecuado de
+ellos, con el objeto de velar por el derecho a vivir en un medio ambiente libre de contaminación.
+Con la promulgación de la Ley, el Ministerio asume la tarea de liderar la gestión de residuos a nivel
+nacional, redefiniendo su enfoque hacia la prevención y la valorización de los residuos, en todos
+sus aspectos.
+Esta ley habilita al Ministerio para desarrollar los instrumentos de gestión ambiental en materia de
+residuos, tales como: ecodiseño; certificación; rotulación y etiquetado; sistemas de depósito y
+reembolso; separación en origen; recolección selectiva; manejo ambientalmente racional de
+residuos, prevención y movimiento transfronterizo de residuos.
+Por otro lado introduce la Responsabilidad Extendida del Productor (REP) en nuestro país. Este
+nuevo instrumento establece que los productores de los productos denominados “prioritarios”
+(envases y embalajes; aparatos eléctricos y electrónicos; baterías; neumáticos; aceites lubricantes
+y pilas) deben hacerse cargo del manejo de los mismos al final de su vida útil. Mediante Decreto
+Supremo, el Ministerio establecerá metas de recolección y metas de valorización, y entre otras
+obligaciones una declaración de productos y registro.
+Pág. 23
+
+--- Página 24 ---
+3. Gestión de residuos
+i) Generación y manejo de residuos sólidos municipales
+Respecto de los datos declarados en el período 2015 en el Sistema Nacional de Declaración de
+Residuos (SINADER), considerando que de 346 comunas que hay a lo largo de Chile declararon
+172, se estimó para el año 2014 una generación de residuos municipales a nivel nacional de 7.4
+millones de toneladas, lo que equivale a una producción per-cápita de 1,1 Kg/Hab/Día. Del total
+generado, las municipalidades declararon una tasa de valorización cercana al 5%.
+Como se observa, no se dispone de cifras concretas respecto de la valorización de residuos, razón
+por lo cual este tema es un desafío en la implementación de la Política, a través del
+establecimiento de mecanismos para mejorar el acceso a la información, identificando su fuente,
+validándola y difundiéndola.
+Figura 2: Tasa estimada de disposición de residuos domiciliarios por región año 2014
+Pág. 24
+
+--- Página 25 ---
+ii) Gestión de residuos peligrosos
+Generación de Residuos Peligrosos según clasificación industrial internacional.
+En el marco de la entrada en vigencia del reglamento de residuos peligrosos, el año 2006 se
+implementó el Sistema Electrónico de Declaración y Seguimiento de Residuos Peligrosos (SIDREP),
+el cual muestra un aumento sustantivo de las cantidades de residuos peligrosos declaradas
+anualmente por los establecimientos que los generan, habiéndose declarado al año 2006 un poco
+más de 100 mil toneladas, alcanzando en el año 2010 un total de más de 400 mil toneladas. A
+contar de ese año, esta cifra ha aumentado progresivamente alcanzando, en el año 2015 un poco
+más de 522 mil toneladas 11 .
+2015
+Código
+Clasificador industrial Internacional Uniforme (CIIU) Generación % del Total
+CIIU
+Total (T)
+A Otras actividades de servicios comunitarios, sociales y personales 13.954 3%
+B Industria manufacturera 195.233 37%
+C Suministro de electricidad 55.859 11%
+D Comercio al por mayor y al por menos 19.607 4%
+E Pesca 1.547 0,3%
+F Explotación de minas y canteras 172.298 33%
+G Agricultura, ganadería, caza y silvicultura 18.809 3,6%
+H Actividades inmobiliarias, empresariales y de alquiler 9.304 1,8%
+I Transporte, almacenamiento y comunicaciones 27.758 5,3%
+J Construcción 2.491 0,5%
+K Servicios sociales y de salud 2.966 0,6%
+L Administración pública y defensa 2.145 0,4%
+M Enseñanza 167 0,03%
+N Hoteles y restaurantes 18 0,003%
+O Intermediación financiera 0 0%
+Q Organizaciones y órganos extraterritoriales 15 0,003%
+Total 522.172 100%
+Tabla 3: Residuos peligrosos declarados en SIDREP 2015
+Origen y destino de residuos peligrosos, año 2015
+En el año 2015 la mayor cantidad de residuos peligrosos se generó en las regiones Metropolitana,
+Antofagasta y Biobío, mientras que el principal destino correspondió a la Región Metropolitana,
+seguida por la Región de Antofagasta, tal como se puede apreciar en el gráfico a
+continuación.
+11 Fuente: MMA, en base a RETC y SIDREP, 2015.
+Pág. 25
+
+--- Página 26 ---
+Origen y destino de residuos peligrosos, año 2015
+Magallanes y la Antártica
+Aysén
+Los Lagos
+Los Ríos
+Araucanía
+Biobío
+Maule
+O'Higgins
+Metropolitana
+Valparaíso
+Coquimbo
+Atacama
+Antofagasta
+Tarapacá
+Arica y Parinacota
+0 20.000 40.000 60.000 80.000 100.000 120.000 140.000 160.000 180.000 200.000
+Toneladas/año
+Generación Peligrosos Disposición Peligrosos
+Figura 4: Generación y destino de residuos peligrosos, Sistema de Declaración de Residuos
+Peligrosos.
+Pág. 26
+
+--- Página 27 ---
+4. Información
+La información disponible en Chile sobre la gestión actual de residuos ha sido muy limitada,
+debido a que se encuentra desagregada en cada uno de los servicios con competencia en la
+materia.
+Por su parte, se dispone de información sobre residuos peligrosos desde el año 2006, la que se
+recoge mediante el Sistema Electrónico de Declaración y Seguimiento de Residuos Peligrosos,
+SIDREP, y ha permitido obtener información sobre la generación y destino de estos residuos
+principalmente de grandes generadores 12 .
+La necesidad del Ministerio de contar con información sobre residuos validada y concentrada en
+un solo lugar permitió desarrollar en el año 2010 un estudio de diseño de un sistema de
+información sobre la generación y el destino de todo tipo de residuos en el país, para ser
+incorporada en el Registro de Emisiones y Transferencia de Contaminantes (RETC).
+En el año 2013 se aprueba el Reglamento del Registro de Emisiones y Transferencias de
+Contaminantes, RETC, en el que se establece la obligación de generadores y destinatarios, así
+como de municipalidades, de entregar información sobre generación y destino de residuos,
+respectivamente. Esta obligación quedó establecida a partir del 30 de marzo del 2015, con
+información correspondiente a la generación y destino de residuos para el año 2014.
+En este contexto, es necesario mejorar el levantamiento de información y a su vez estandarizarla a
+objeto de armonizar la información entregada por los generadores y gestores de residuos, esto
+con el fin de tomar las mejores decisiones para el desarrollo e implementación de acciones que
+permitan llevar a cabo una política pública en la que nuestro país pueda avanzar hacia una gestión
+sostenible de los recursos naturales a través del enfoque de la economía circular y el manejo
+ambientalmente racional de los residuos.
+12
+Deben declarar obligatori amente en la plataforma los que generan más de 12 kg anuales de residuos tóxicos agudos , o más de 12
+toneladas anuales de residuos peligrosos que presenten otra característica de peligrosidad.
+Pág. 27
+
+--- Página 28 ---
+ANEXO II GLOSARIO
+Almacenamiento: Acumulación de residuos en un lugar específico por un tiempo determinado .
+Ciclo de vida de un producto: Etapas consecutivas e interrelacionadas de un sistema productivo,
+desde la adquisición de materias primas o su generación a partir de recursos naturales, hasta su
+eliminación como residuo.
+Ecodiseño: Integración de aspectos ambientales en el diseño del producto, envase, embalaje,
+etiquetado u otros, con el fin de disminuir las externalidades ambientales a lo largo de todo su
+ciclo de vida.
+E conomía circular : C oncepto económico que se interrelaciona con la sostenibilidad, y cuyo
+objetivo es que el valor de los productos, los materiales y los recursos , se mantenga en la
+economía durante el mayor tiempo posible, y que se reduzca al mínimo la generación de residuos.
+Eliminación: Todo procedimiento cuyo objetivo es disponer en forma definitiva o destruir un
+residuo en instalaciones autorizadas.
+Generador: Poseedor de un producto, sustancia u objeto que lo desecha o tiene la obligación de
+desecharlo de acuerdo a la normativa vigente.
+Gestión: Operaciones de manejo y otras acciones de política, de planificación, normativas,
+administrativas, financieras, organizativas, educativas, de evaluación, de seguimiento y
+fiscalización, referidas a residuos.
+Gestor: Persona natural o jurídica, pública o privada, que realiza cualquiera de las operaciones de
+manejo de residuos y que se encuentra autorizada y registrada en conformidad a la normativa
+vigente.
+Manejo: Todas las acciones operativas a las que se somete un residuo, incluyendo, entre otras,
+recolección, almacenamiento, transporte, pretratamiento y tratamiento.
+Manejo ambientalmente racional: La adopción de todas las medidas posibles para garantizar que
+los residuos se manejen de manera que el medio ambiente y la salud de las personas queden
+protegidos contra los efectos perjudiciales que pueden derivarse de tales residuos.
+Mejores técnicas disponibles: a etapa más eficaz y avanzada en el desarrollo de los procesos,
+instalaciones o métodos de operación, que expresan la pertinencia técnica, social y económica de
+una medida particular para limitar los impactos negativos en el medio ambiente y la salud de las
+personas.
+Preparación para la reutilización: Acción de revisión, limpieza o reparación, mediante la cual
+productos o componentes de productos desechados se acondicionan para que puedan reutilizarse
+sin ninguna otra transformación previa.
+Pretratamiento: Operaciones físicas preparatorias o previas a la valorización o eliminación, tales
+como separación, desmontaje, desensamblaje, corte, trituración, compactación, mezclado, lavado
+y empaque, entre otros, destinadas a reducir su volumen, facilitar su manipulación o potenciar su
+valorización.
+Reciclador de base: Persona natural que, mediante el uso de la técnica artesanal y semi industrial,
+se dedica en forma directa y habitual a la recolección selectiva de residuos domiciliarios o
+asimilables y a la gestión de instalaciones de recepción y almacenamiento de tales residuos,
+incluyendo su clasificación y pretratamiento. Sin perjuicio de lo anterior, se considerarán también
+como recicladores de base las personas jurídicas que estén compuestas exclusivamente por
+personas naturales registradas como recicladores de base, en conformidad al artículo 37 de la Ley
+N°20.920 “Ley Marco para la Gestión de Residuos, la Responsabilidad Extendida del Productor y
+Fomento al Reciclaje” .
+Reciclaje: Empleo de un residuo como insumo o materia prima en un proceso productivo,
+incluyendo el coprocesamiento y compostaje, pero excluyendo la valorización energética.
+Recolección: Operación consistente en recoger residuos, incluido su almacenamiento inicial, con el
+objeto de transportarlos a una instalación de almacenamiento, una instalación de valorización o
+de eliminación, según corresponda. La recolección de residuos separados en origen se denomina
+diferenciada o selectiva.
+Pág. 28
+
+--- Página 29 ---
+Residuo: Sustancia u objeto que su generador desecha o tiene la intención u obligación de
+desechar de acuerdo a la normativa vigente.
+Residuos Sólidos Municipales (RSM) 13 : Residuos generados en los hogares como consecuencia de
+las actividades domésticas. Se consideran también aquellos residuos generados en actividades
+comerciales o productivas que por su naturaleza o composición resultan similares a los anteriores,
+que son considerados en el trayecto de recolección
+R eutilización: Acción mediante la cual productos o componentes de productos desechados se
+utilizan de nuevo, sin involucrar un proceso productivo .
+Tratamiento: Operaciones de valorización y eliminación de residuos.
+Valorización: Conjunto de acciones cuyo objetivo es recuperar un residuo, uno o varios de los
+materiales que lo componen y,o el poder calorífico de los mismos. La valorización comprende la
+preparación para la reutilización, el reciclaje y la valorización energética.
+Valorización energética: Empleo de un residuo con la finalidad de aprovechar su poder calorífico.
+13
+NCh 3321/2013, Características de los Residuos Sólidos Municipales.
+Pág. 29
+
+--- Página 30 ---
+ANEXO III LISTADO DE LAS PRINCIPALES REGULACIONES NACIONALES RELATIVAS A GESTIÓN DE RESIDUOS
+Instrumento Regulatorio Autoridad Aplicación
+Competente
+Código Sanitario Decreto con Ministerio de Salud Establece la obligación de las municipalidades de recolectar, transportar y eliminar por
+fuerza de ley N°725/1968 métodos adecuados las basuras, residuos y desperdicios que se depositen o produzcan en
+la vía urbana (Artículo 11 letra b). Por su parte, en el párrafo III del Título II (artículos 78 a
+81) se refiere a los “desperdicios y basuras”; en él se establecen las autorizaciones
+sanitarias de distintas instalaciones de manejo de residuos.
+La versión modificada el año 2005, se refiere al cobro del servicio municipal de extracción
+Decreto Ley N° 3.063/1979, Ley Ministerio del Interior
+de residuos sólidos domiciliarios. Al respecto, establece criterios para cobro diferenciado;
+de Rentas Municipales.
+programas ambientales, incluyendo reciclaje; frecuencia o volúmenes de extracción; o las
+condiciones de accesibilidad; todos ellos criterios que deben establecerse por cada
+municipalidad a través de ordenanzas locales. Finalmente, establece una exención
+general a usuarios cuya vivienda o unidad habitacional tenga un avalúo fiscal igual o
+inferior a 225 unidades tributarias mensuales, así como la facultad para que cada
+municipalidad exima a ciertas personas del pago de la tarifa por el servicio de aseo.
+Res. N° 2444/1980, Norma Ministerio de Salud Ningún basural podrá funcionar sin la autorización sanitaria respectiva del Servicio
+Sanitaria para la operación de Nacional de Salud, la que sólo será otorgada cuando éste constate que el recinto
+basurales. del basural cumple con lo estipulado en las presentes normas. Cualquiera solicitud
+de funcionamiento que no se ajuste en su totalidad a lo prescrito en estas normas,
+sólo podrá ser aprobada por resolución expresa del Director General de Salud.
+Ley N° 18.695/1988, Orgánica de Ministerio del Interior Establece como función privativa de las municipalidades el aseo y ornato de la comuna
+Municipalidades. (Artículo 3 letra f) y atribuye a la unidad de medio ambiente, aseo y ornato el servicio de
+extracción de la basura.
+Decreto Supremo N° 685/1992, Ministerio de Regula el movimiento transfronterizo de desechos peligrosos y estipula obligaciones a las
+en que Chile ratifica el Convenio Relaciones Exteriores Partes para asegurar el manejo ambientalmente racional de los mismos, particularmente
+de Basilea, sobre el control de su disposición.
+los movimientos transfronterizos
+de los desechos peligrosos y su
+eliminación.
+Ley N° 19.300/1994, sobre bases Ministerio del Medio Exige evaluación ambiental a ciertos proyectos vinculados al manejo de residuos (Artículo
+generales del Medio Ambiente. Ambiente 10 letras i, ñ y o). Asimismo, esta ley establece como función del Ministerio del Medio
+Ambiente proponer políticas y formular normas, planes y programas en materias de
+residuos (Artículo 70 letra g).
+Pág. 30
+
+--- Página 31 ---
+Instrumento Regulatorio Autoridad Aplicación
+Competente
+Decreto Supremo N° 298/1994 Ministerio de Establece las condiciones, normas y procedimientos aplicables al transporte por calles y
+Transporte de cargas peligrosas Transporte y caminos, de cargas o sustancias que por sus características, sean peligrosas o representen
+Telecomunicaciones riesgos para la salud de las personas, para la seguridad pública o el medio ambiente.
+Decreto Supremo N°1689/1994 Ministerio de Convenio internacional para prevenir la contaminación por los buques. Regula las
+MARPOL Relaciones Exteriores descargas operacionales de los buques.
+Decreto Supremo N° 594/1999, Ministerio de Salud Establece las condiciones sanitarias y ambientales básicas que deberá cumplir todo lugar
+sobre condiciones sanitarias y de trabajo.
+ambientales básicas en los
+lugares de trabajo.
+Decreto Supremo N° 148/2003, Ministerio de Salud Establece las condiciones sanitarias y de seguridad mínimas a que
+reglamento Sanitario sobre el deberá someterse la generación, tenencia, almacenamiento, transporte, tratamiento,
+Manejo de Residuos Peligrosos. reuso, reciclaje, disposición final y otras formas de eliminación de los residuos peligrosos.
+Res Ex 5582/2005, aprueba Ministerio de Contiene normas y procedimientos para la acreditación de terceros en la ejecución del
+reglamento específico para la Agricultura, Servicio desembarco, transporte, tratamiento y disposición final de la basura orgánica de naves
+acreditación que indica y deroga Agrícola y Ganadero provenientes del extranjero, o desde puertos nacionales ubicados en áreas bajo
+resoluciones N° 606/2003, N° cuarentena interna. Disminuyendo así el riesgo de introducción, diseminación y
+674/2004 y N° 2.042/1981 establecimiento en el territorio nacional de plagas de los vegetales y enfermedades de los
+animales y la protección del medio ambiente, que deberán ser cumplidas por el Tercero.
+Decreto Supremo N°189/2008, Ministerio de Salud Establece condiciones sanitarias y de seguridad básicas en los rellenos sanitarios.
+sobre condiciones sanitarias y de
+seguridad básicas en los rellenos
+sanitarios.
+Decreto Supremo N°6/2009, Ministerio de Salud Establece las condiciones sanitarias y de seguridad básica a las que deberá
+sobre el manejo de residuos someterse el manejo de los residuos generados en establecimientos de atención de salud.
+generados en establecimientos
+de atención de salud.
+Decreto Supremo N°4/2009, Ministerio de Regula el manejo de lodos provenientes de plantas de tratamiento de aguas servidas.
+reglamenta el manejo de lodos Agricultura y Para dicho efecto, establece la clasificación sanitaria de los lodos y las exigencias
+generados en plantas de Ministerio de Salud sanitarias mínimas para su manejo, además de las restricciones, requisitos y condiciones
+tratamiento de aguas servidas. técnicas para la aplicación de lodos en determinados suelos.
+Decreto Supremo N°2/2010, Ministerio de Salud Prohíbe el Movimiento transfronterizo de baterías de plomo usadas desde Chile a
+regula la autorización de terceros países, en tanto exista en el país capacidad para procesar estos residuos
+movimientos transfronterizos de peligrosos.
+residuos peligrosos consistentes
+en baterías de plomo usadas.
+Pág. 31
+
+--- Página 32 ---
+Instrumento Regulatorio Autoridad Aplicación
+Competente
+Decreto Supremo N°3/2012, Ministerio del Medio Regula el manejo de lodos provenientes de plantas de tratamiento de efluentes de la
+regula el manejo de lodos Ambiente industria procesadora de frutas y hortalizas. Con ese objeto, se establecen las exigencias
+provenientes de plantas de sanitarias mínimas para el manejo, restricciones, requisitos y condiciones técnicas para la
+tratamiento de efluentes de la aplicación de lodos en determinados suelos.
+industria procesadora de frutas y
+hortalizas.
+Decreto Supremo N°40/2012, Ministerio del Medio Instrumento para prevenir el deterioro ambiental, que permite introducir la dimensión
+reglamento del Sistema de Ambiente ambiental en el diseño y la ejecución de los proyectos y actividades que se realizan en el
+Evaluación de Impacto país. A través de él se evalúa y certifica que las iniciativas, tanto del sector público como
+Ambiental del sector privado, se encuentran en condiciones de cumplir con los requisitos
+ambientales que les son aplicables.
+Decreto Supremo N°1/2013, Ministerio del Medio Regula el RETC, el cual dispondrá de manera sistematizada, por fuente o agrupación de
+reglamento del registro de Ambiente fuentes, la naturaleza, caudal y concentración de emisiones de contaminantes que sean
+emisiones y transferencias de objeto de una norma de emisión. Registrará la naturaleza, volumen y destino de los
+contaminantes, RETC. residuos sólidos generados por los establecimientos.
+Decreto Supremo N°29/2013, Ministerio del Medio Norma de emisión para las instalaciones de incineración, las instalaciones de co-
+establece norma de emisión para Ambiente incineración que correspondan a hornos rotatorios de cal o a instalaciones forestales y
+incineración, co-incineración y para las instalaciones de co-procesamiento que correspondan a hornos de cemento, que
+co-procesamiento. utilicen combustibles distintos a los tradicionales. Su objetivo es prevenir los efectos
+negativos sobre la salud de la población y los recursos naturales, derivados de las
+emisiones tóxicas provenientes de los procesos de incineración, co-procesamiento y co-
+incineración regulados por este decreto.
+Decreto Supremo N°136/2013 Ministerio de El protocolo establece criterios para aprobar los proyectos relacionados con el
+"Protocolo de Londres" Relaciones Exteriores vertimiento de desechos y otras materias, facilitando la actividad administrativa (Artículo
+4°).
+Ley 20.879/2015, sanciona el Ministerio de El que encargue o realice, mediante vehículos motorizados, no motorizados o a tracción
+Transporte de Desechos hacia Transportes y animal, el transporte, traslado o depósito de basuras, desechos o residuos de cualquier
+Vertederos Clandestinos Telecomunicaciones tipo, hacia o en la vía pública, sitios eriazos, en vertederos o depósitos clandestinos o
+ilegales, o en los bienes nacionales de uso público, será sancionado.
+Ley 20.920/2016, Ley Marco para Ministerio del Medio Establece el marco para la gestión de residuos, la responsabilidad extendida del
+La Gestión de Residuos, la Ambiente productor y fomento al reciclaje, le otorga nuevas atribuciones al Ministerio para elaborar
+Responsabilidad Extendida del instrumentos para implementar la Responsabilidad Extendida del Productor (REP) y
+Productor y Fomento al prevenir la generación de residuos, promoviendo su valorización, entre otros aspectos.
+Reciclaje.
+Pág. 32
+
+--- Página 33 ---
+ANEXO IV LISTADO DE DECISIONES Y RECOMENDACIONES DE LA OCDE
+i. Decisiones y recomendaciones sobre la gestión de residuos
+C(76)155/Final Recomendación sobre una política de gestión de residuos.
+C(78)8/Final Recomendación sobre el reuso y reciclaje de envases de bebidas.
+C(79)218/Final Recomendación sobre la recuperación de papel y cartón usado.
+C(83)180/Final Decisión-Recomendación sobre el transporte transfronterizo de residuos peligrosos.
+C(86)64/Final Decisión-recomendación sobre la exportación de residuos peligrosos fuera del área de la
+OCDE.
+C(90)178/Final Decisión – recomendación sobre la reducción del transporte transfronterizo de residuos.
+C(2001)107/Final Decisión sobre el control de los movimientos transfronterizos de residuos para
+operaciones de valorización.
+C(2004)100 Recomendación sobre la gestión ambientalmente racional de residuos.
+ii. Recomendaciones relacionadas con la prevención
+C(2004)79 Recomendación sobre flujos de materiales y productividad de recursos.
+C(2008)40 Recomendación sobre la productividad de recursos.
+Pág. 33
