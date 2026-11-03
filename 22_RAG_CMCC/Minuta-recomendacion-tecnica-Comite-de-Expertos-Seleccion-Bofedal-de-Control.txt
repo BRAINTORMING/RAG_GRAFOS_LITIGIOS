@@ -1,0 +1,172 @@
+--- Página 1 ---
+MINUTA TÉCNICA 0 3 – COMITÉ DE EXPÉRTOS
+PARA: Cerro Colorado, BHP
+DE: COMITÉ DE EXPERTOS (R CA N°13/2022)
+Carlos Espinoza, Ingeniero Civil. Ph.D en Ingeniería Ambiental
+Sergio Iriarte, Geólogo. MSc. Hidrogeología
+Rodrigo Pardo, Licenciado en Ciencias del Mar. Dr. Ciencias Biológicas
+FECHA: 13 de Enero de 2025
+MATERIA: Revisión experta del estudio de Selección de bofedal de control para evaluar su
+comportamiento natural en comparación con el Bofedal Lagunillas
+Contenido
+1 INTRODUCCIÓN ................................................................................................................................ 1
+1.1 Contexto........................................................................................................................................ 1
+1.2 Objetivo del estudio ....................................................................................................................... 1
+2 REVISIÓN DE LA PROPUESTA TÉCNICA ........................................................................................ 1
+3 REVISIÓN DEL ESTUDIO Y SUS RESULTADOS .............................................................................. 3
+3.1 Entrega preliminar ......................................................................................................................... 3
+3.2 Entrega en versión 1 ..................................................................................................................... 3
+3.3 Entrega en versión 2 ..................................................................................................................... 4
+3.4 Entrega en versión 3 ..................................................................................................................... 4
+3.5 Entrega en versión 4 ..................................................................................................................... 4
+i
+
+--- Página 2 ---
+Carlos Espinoza
+Ingeniero Civil. Ph. D en ingeniería Ambiental
+Sergio Iriarte
+Geólogo. MSc. Hidrogeología
+Rodrigo Pardo
+Licenciado en Ciencias del Mar. Dr. Ciencias Biológicas
+ii
+
+--- Página 3 ---
+1 INTRODUCCIÓN
+1.1 Contexto
+El Proyecto Continuidad Operacional Cerro Colorado (“PCOCC”) fue calificado favorablemente en lo
+ambiental mediante las Resoluciones de Calificación Ambiental (RCA) Nº 69, de fecha 1 de octubre de
+2015 y la RCA complementaria N° 2022010013 de 06 de enero de 2022, siendo ambas emitidas por la
+Comisión de Evaluación de la Región de Tarapacá (en adelante, “RCA N° 69/2015” y “RCA N° 13/2022”;
+respectivamente). En estas resoluciones ambientales, y en la Sentencia del Primer Tribunal Ambiental, de
+21 de nov de 2023, se establece la necesidad de seleccionar un ecosistema testigo o de control que sirva
+de referencia en la gestión del bofedal Lagunillas.
+En ese contexto Cerro Colorado solicitó el apoyo del grupo de especialistas que constituyen el Comité de
+Expertos, conformado por los señores Sergio Iriarte, Carlos Espinoza y Rodrigo Pardo, la revisión de la
+propuesta técnica y los informes emanados por la consultora Centro de Ecología Aplicada, sobre la
+determinación del bofedal control. El propósito de este documento es resumir el proceso de revisión por
+parte del comité de expertos de los antecedentes que culminaron en la identificación de las alternativas de
+bofedales control.
+Para el desarrollo de esta minuta se contó con las propuestas técnicas y los informes de los estudios de
+“Selección de Bofedal de Control”, en sus distintas versiones y complementos.
+1.2 Objetivo del estudio
+Seleccionar uno o más Bofedales de Control para evaluar su comportamiento natural en comparación con
+el Bofedal de Lagunillas durante y posterior aplicación del SRA, en consideración del potencial efecto del
+cambio climático global.
+2 REVISIÓN DE LA PROPUESTA TÉCNICA
+La propuesta inicial del Centro de Ecología Aplicada se recibió el 13 de junio de 2024, en esta versión el
+comité de expertos realizó algunas observaciones, de las que se destacan que:
+• El estudio esta reducido a la comparación con 4 bofedales. Por lo que se sugiere aumentar a 12
+bofedales.
+• En la propuesta no se presentan las metodologías de comparación con el bofedal de Lagunillas.
+• No se presenta una metodología clara de jerarquización entre los bofedales que serían parte del
+estudio.
+• La metodología de imágenes satelitales carece del detalle necesario (periodo de análisis, variables
+de interés, entre otros).
+• No se incluyen variables que son parte de los criterios de selección, como: presencia de Orestias
+y Servicios ecosistémicos.
+1
+
+--- Página 4 ---
+Luego de reuniones de trabajo y la entrega de observaciones por parte del comité de expertos, en la tercera
+versión de la propuesta se aumentó de 4 a 12 bofedales en el análisis; se especificó la metodología de
+comparación y jerarquización; y se definieron los criterios de similitud entre los bofedales. Se establecieron
+los criterios de similitud entre el bofedal Lagunillas y aquellos bofedales considerados como alternativas de
+control. Los criterios se describen a continuación, los cuales fueron jerarquizados y luego se les asignó un
+peso según criterio de experto.
+• Similitud de composición: se determinará en base a los componentes bióticos identificados, siendo
+la flora el criterio de mayor relevancia.
+• Similitud estructural: se basará en características físicas de los subcriterios definidos anteriormente
+• Similitud en amenazas y presiones: se definirá en función de las amenazas a las que están
+expuestos definidos en el punto capitulo anterior
+• Similitud en la gestión, uso y conservación: se evalúa la similitud entre humedales considerando
+los usos actuales definidos en los subcriterios.
+Definiendo un esquema conceptual de jerarquización, asignando pesos ponderados que toman en
+consideración los criterios de la Guía de Sistemas Vegetacionales Azonales Hídricos Terrestres (SVAHT)
+considera la clasificación de Faundez y Ahumada 2009 ( Figura 2-1 ).
+Figura 2-1: Esquema conceptual de la jerarquización y los pesos ponderados propuestos
+Fuente: CEA 2024 (Cotización MCC022_V3)
+El comité de expertos consideró que esta aproximación seria adecuada para alcanzar el objetivo del
+estudio, al presentar una metodología de terreno y análisis de información que permite la comparación y
+jerarquización de distintos bofedales respecto al bofedal de lagunillas.
+2
+
+--- Página 5 ---
+3 REVISIÓN DEL ESTUDIO Y SUS RESULTADOS
+A continuación, se detalla el proceso de revisión y retroalimentación por parte del Comité de Expertos del
+del informe “Selección de bofedal de control para evaluar su comportamiento natural en comparación con
+el Bofedal Lagunillas”, realizado por el Centro de Ecología Aplicada (en adelante CEA). El objetivo de esta
+revisión fue apoyar en el proceso de elección del bofedal en términos técnicos.
+3.1 Entrega preliminar
+En julio de 2024 se entregó la versión inicial del informe Selección de bofedal de control para evaluar su
+comportamiento natural en comparación con el Bofedal Lagunillas”, realizado por el Centro de Ecología
+Aplicada. El comité de expertos realizó observaciones y se reunió con los especialistas del CEA, para
+explicar las observaciones y entregar opciones para subsanarlas. Las principales observaciones fueron:
+El análisis presentado no da cuenta de la variabilidad natural de los ecosistemas, además, falta una mayor
+explicación de los criterios utilizados para la jerarquización de los bofedales en términos de su similitud
+respecto al bofedal de Lagunillas. Se sugirió incorporar la variación de las variables incluidas en el estudio,
+utilizando promedios y estadísticos de variación (ej. Desviación estándar).
+En esta entrega, posiblemente por su carácter preliminar, no se encontró información considerada
+relevante. Para la definición de humedal según el Guía SVAHT, debería estar definido par cada bofedal: el
+tipo de crecimiento de la planta; la existencia de formaciones de cojines compactos; prevalencia de plantas
+rizomatosas; altura de desarrollo de las especies dominantes; y la extensión de la cubierta por
+afloramientos salinos. De la misma forma, faltaban los criterios de similitud en biodiversidad que deberían
+estar basados en atributos de estructura y composición (Composición; Estructura; Amenazas; Presiones;
+y Gestion del uso). Por último, no estaban evaluados los servicios ecosistémicos, y específicamente,
+alimento para el ganado doméstico.
+Se acordó una nueva entrega en la cual serian abordadas las observaciones del comité de expertos.
+3.2 Entrega en versión 1
+En agosto de 2024 se recibió la versión modificada del informe en la que se incluían los resultados
+obtenidos en terreno, los análisis de los datos recopilados y las respuestas a las observaciones entregadas
+por el Comité de expertos. En esta entrega se incorporó un Proceso de Análisis Jerárquico (AHP), el cual
+no estaba comprometido en la propuesta técnica pero que a juicio de los especialistas del CEA aportaba
+en la determinación del bofedal control. Sin embargo, en el documento no estaban detalladas las jerarquías
+de las variables utilizadas en este análisis, como también la justificación de la incorporación de las distintas
+variables, y la forma en que se incluyeron las variables. Consecuentemente, se sugirió incorporar un gráfico
+explicativo, como en la mayoría de los trabajos de este tipo y tablas con los valores de las variables
+utilizadas y la justificación de los pesos asignados. Además, se sugiere incorporar algún análisis que
+entregue sustento estadístico a las divisiones de los clados.
+Cabe destacar que lo incluido en esta versión del informe no se ajustaba a lo ofrecido en la propuesta
+técnica, al no incluirse el análisis de similitud:
+• Similitud de composición: mediante índice de similitud entre los componentes bióticos identificados,
+siendo la flora el criterio de mayor relevancia. Dando especial énfasis análisis de la distribución de
+peces del género Orestias y la especie de Oxychloe en el área de estudio.
+3
+
+--- Página 6 ---
+• Similitud estructural: basada en características físicas como tamaño, forma, profundidad, tipo de
+suelo, fuente hídrica y ubicación geográfica.
+• Similitud en amenazas y presiones: definida en función de las amenazas a las que están expuestos,
+como la contaminación, la degradación del hábitat, el cambio climático, entre otros factores.
+• Similitud en la gestión, uso y conservación: evaluando la similitud entre humedales considerando
+los usos actuales, como por ejemplo la presencia de ganado. Evaluando en este punto los servicios
+ecosistémicos da cada uno.
+3.3 Entrega en versión 2
+La versión 2 del informe con las correcciones se entregó en agosto de 2024, incorporándose la respuesta
+a las observaciones emanadas por el comité de expertos. En este informe se incluyeron los análisis de
+similitud complementando el Proceso de Análisis Jerárquico (AHP), con lo que la jerarquización en términos
+de similitud entre el bofedal de Lagunillas y los bofedales en estudio presentaron a juicio del comité de
+expertos una suficiencia técnica que permitiría justificar de manera robusta la elección de uno o más
+bofedales de control.
+Se realizaron algunas observaciones de forma en el documento y se solicitó una memoria de cálculo de
+los análisis realizados, y la base de datos utilizada.
+3.4 Entrega en versión 3
+En noviembre de 2024 se entregó la versión modificada del informe en la que se incluyeron las memorias
+de cálculo de los análisis utilizados en el estudio. Con esta información el comité de expertos revisó el
+informe y sus respectivos anexos, realizados observaciones de forma y sugiriendo la incorporación en el
+documento de tablas que de cuenta de los datos obtenido y utilizados en el análisis. Además, se sugirió
+revisar la jerarquización de los bofedales en términos de la similitud respecto al bofedal de Lagunillas,
+debido que se mantenía como primera opción un bofedal en el que no se habían detectado Orestias ,
+especie de pez cuya presencia en el bofedal se considera como uno de los requisitos para el bofedal
+control.
+3.5 Entrega en versión 4
+En diciembre de 2024 se recibió el informe junto a los anexos de bases de datos y memorias de cálculo. El
+comité de expertos revisó todos los documentos entregados por el CEA, encontrado que se ajusta a las
+metodologías propuestas, incorporando mejoras en el análisis de la información.
+Por lo anterior, esta versión del informe se encontraría aprobada en términos técnicos por el comité de
+expertos.
+Se estableció que el bofedal de Guantija sería la opción primaria para el monitoreo y control comparativo
+de Lagunillas, dada la presencia de los dos componentes limitantes ( Oxychloe y Orestia s) y mayor similitud
+según ambos métodos (Similitud y AHP). En caso de que se requiera un reemplazo, se sugiere evaluar la
+búsqueda en temporadas más benignas de Orestias en Huella Rinconada lo que la convertiría en la mejor
+alternativa para continuar el seguimiento.
+4
