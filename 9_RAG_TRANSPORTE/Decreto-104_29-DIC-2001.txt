@@ -1,0 +1,636 @@
+--- Página 1 ---
+Decreto 104, TRANSPORTES (2001)
+Decreto 104
+DEROGA D. S. Nº 100/99 DEL MINISTERIO DE TRANSPORTES Y
+TELECOMUNICACIONES Y DE HACIENDA Y APRUEBA REGLAMENTO PARA LA
+ELABORACION DE LOS PLANES DE GESTION ANUAL DE LAS EMPRESAS
+PORTUARIAS CREADAS POR LA LEY Nº 19.542
+MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES; SUBSECRETARIA
+DE TRANSPORTES
+Publicación: 29-DIC-2001 | Promulgación: 10-OCT-2001
+Versión: Última Versión De : 27-MAR-2013
+Texto derogado: 27-MAR-2013;Decreto-96
+Ultima Modificación: 27-MAR-2013 Decreto 96
+Url Corta: https://bcn.cl/3m41c
+DEROGA D. S. Nº 100/99 DEL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES Y DE
+HACIENDA Y APRUEBA REGLAMENTO PARA LA ELABORACION DE LOS PLANES DE GESTION ANUAL DE
+LAS EMPRESAS PORTUARIAS CREADAS POR LA LEY Nº 19.542
+Núm. 104.- Santiago, 10 de octubre de 2001.- Visto: Lo dispuesto en el
+artículo 32 número 8 de la Constitución Política, y lo establecido por la ley Nº
+19.542 que Moderniza el Sector Portuario Estatal, y
+C o n s i d e r a n d o :
+Que desde la creación de las empresas portuarias estatales, dispuesta por la
+ley Nº 19.542, ha transcurrido un período de tiempo suficiente para evaluar los
+parámetros y objetivos fijados por el Gobierno para esas empresas que permitan a
+éstas tener un manejo económicamente eficiente de sus activos, que tiendan a
+preservar y fortalecer los niveles de productividad y eficiencia en la operación
+portuaria y que promuevan la competencia al interior de los puertos.
+Que del estudio y evaluación de dichos parámetros y objetivos realizados por
+profesionales del Ministerio de Hacienda, del Ministerio de Transportes y de
+Telecomunicaciones y del Sistema de Empresas Públicas, del Consejo de la
+Corporación de Fomento de la Producción, se ha determinado la necesidad de
+incorporar, modificar y suprimir determinados indicadores de manera de medir
+adecuadamente los objetivos o metas tanto anuales como estratégicas de las empresas
+portuarias.
+Que las metas que se fijen deben establecerse sobre la base de parámetros
+definidos y objetivos, de manera tal que los resultados puedan ser determinados y
+evaluados con un costo mínimo para cada empresa portuaria.
+D e c r e t o :
+1. Derógase el Decreto Supremo Nº 100/99 de los Ministerios de Transportes y
+Telecomunicaciones y de Hacienda.
+2. Apruébase el presente Reglamento:
+TITULO I
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 1 de 13
+
+--- Página 2 ---
+Decreto 104, TRANSPORTES (2001)
+Artículo 1º: El Plan de Gestión Anual tiene como finalidad promover la
+calidad y eficiencia en la gestión estratégica, operacional y económica de las
+empresas portuarias estatales, así como mejorar continuamente la calidad de la
+prestación de los servicios portuarios.
+Artículo 2º: Las metas y compromisos que contemple el Plan de Gestión Anual
+elaborado por cada empresa deberán estar en concordancia con el Proyecto de
+Presupuesto Anual, el Plan Maestro, el Plan Estratégico y el Calendario Referencial
+de Inversiones respectivo, así como con los planes estratégicos para el sistema
+portuario estatal que establezca el Ministerio de Transportes y Telecomunicaciones de
+conformidad al artículo 50 de la ley Nº 19.542.
+Artículo 3º: El Ministerio de Transportes y Telecomunicaciones mantendrá una
+estadística unificada de los indicadores de gestión de las diversas empresas
+portuarias con el objeto de comparar su evolución.
+Los conceptos financieros que se ocupen en el cálculo de los indicadores
+señalados en el artículo precedente, serán los que utiliza y norma la
+Superintendencia de Valores y Seguros.
+La Utilidad del Ejercicio se considerará antes del impuesto que la grave.
+Artículo 4º: Los indicadores del Plan de Gestión Anual estarán vinculados a
+tres áreas de actividad de las empresas portuarias y se denominarán de la siguiente
+manera: Indicador de Gestión de Servicios al Usuario, Indicador de Gestión
+Económica e Indicador de Gestión Estratégica.
+Tanto el Indicador de Gestión de Servicios al Usuario, como el Indicador de
+Gestión Económica deberán medir la eficiencia alcanzada en aquellos factores que
+deriven directamente de las actividades de la empresa que se desarrollen en aquellas
+áreas que no se encuentren sujetas a concesiones de frentes de atraque, en tanto que
+el Indicador de Gestión Estrátegica sólo para el caso de las empresas que tengan
+frentes de atraque concesionados medirá factores que se relacionen directamente con
+las actividades que se desarrollen en esos frentes de atraque concesionados.
+1. Indicadores de Gestión de Servicios al Usuario.
+Para estos indicadores se definirán por:
+1. Horas de Ocupación de los sitios de atraque por las Naves: es la suma del
+tiempo de ocupación de atraque todas las naves que atracaron en el puerto incluido
+el falso embarque-desembarque y excluido el tiempo de aquellas naves que no
+transfieran carga tales como de pasajeros, pesqueras, científicas u otras. Su
+medición transcurre desde el instante en que se amarra la primera espía al momento
+del atraque, hasta que suelta la última espía al momento del desatraque.
+2. Toneladas transferidas: corresponden al total de toneladas transferidas por el
+puerto, excluyendo aquellas cargas transferidas por razones de estiba de la nave,
+suministro de agua, combustible y rancho de la nave.
+Los indicadores de gestión de Servicios al Usuario deberán medir las
+velocidades de transferencia de la carga, los tiempos de espera de las naves
+(congestión en el puerto) y los costos asociados. Este aspecto se evaluará mediante
+los siguientes factores:
+* Factor Velocidad de Transferencia del Puerto (Is1):
+Is1 = (Toneladas totales transferidas al año) / (Total de horas de ocupación de
+las naves)
+* Factor Tiempo de Espera (Is2):
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 2 de 13
+
+--- Página 3 ---
+Decreto 104, TRANSPORTES (2001)
+Is2 = (Horas totales de espera por falta de sitio al año) / (Número total de
+naves atendidas en el puerto al año)
+2. Indicadores de Gestión Económica.
+Estos indicadores evalúan la gestión económica de las empresas portuarias,
+mediante los siguientes factores:
+* Factor Rentabilidad de los Activos (Ie1):
+Ie1 = Utilidad del Ejercicio / Monto de Activo Fijo
+* Factor Rentabilidad de Patrimonio (Ie2):
+Ie2= Utilidad del Ejercicio/Patrimonio
+* Factor de Eficiencia Operativa (Ie3):
+Ie3 = (Resultado de Explotación + Depreciación) / Ingresos de Explotación
+3. Indicadores de Gestión Estratégica.
+Estos indicadores medirán dos variables distintas y se denominarán Ies1 e Ies2,
+los que deberán ser propuestos por cada empresa y medirán por separado las metas
+estratégicas de la empresa respectiva y serán definidos por el Ministerio de
+Transportes y Telecomunicaciones y de Hacienda, con informe del Sistema de Empresas
+Públicas, del Consejo de la Corporación de Fomento de la Producción, en adelante
+SEP.
+TITULO II
+De la aprobación del Plan de Gestión Anual
+Artículo 5º: El Plan de Gestión Anual deberá formularse una vez al año, en
+forma simultánea con el Proyecto de Presupuesto y será acordado en sesión de
+directorio de la empresa. El Plan de Gestión Anual se presentará a los Ministerios
+de Transportes y Telecomunicaciones, de Hacienda y al SEP, dentro de un plazo de
+quince días corridos a partir de la adopción del acuerdo o a más tardar el 30 de
+noviembre de cada año del período anterior al de su vigencia.
+El Ministerio de Transportes y Telecomunicaciones, con un informe del Ministerio
+de Hacienda, aprobará el Plan de Gestión Anual en una fecha anterior al 1º de
+enero del año siguiente al que se haga la presentación. En caso de que no sea
+aprobada la totalidad de los indicadores contenidos en un Plan de Gestión Anual, los
+valores que regirán serán aquellos que defina el Ministerio de Transportes y
+Telecomunicaciones para tal efecto.
+Artículo 6º: Para la presentación del Plan de Gestión Anual cada empresa
+portuaria deberá establecer un valor presupuestado y otro valor meta para cada uno
+de los indicadores de gestión definidos en el artículo 4º, relativos a la Gestión
+de Servicios al Usuario, a la Gestión Económica y a la Gestión Estratégica. La
+determinación de dichos valores deberá ser debidamente fundada en informes
+técnicos y estadísticos.
+Se entenderá como valor presupuestado el valor del indicador resultante de los
+valores comprometidos en el Presupuesto Anual, sea del Balance Proyectado, del Estado
+de Resultado Proyectado o del Flujo Efectivo o de Caja Proyectado aprobado por el
+Ministerio de Hacienda.
+Se entenderá como valor meta el valor del indicador basado en cifras que
+representan el logro de mayores niveles de eficiencia que aquel para alcanzar el
+valor presupuestado, que propone la empresa para ser aprobado en forma simultánea al
+Proyecto de Presupuesto Anual.
+Se entenderá por Función Creciente aquella en que una gestión óptima genera
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 3 de 13
+
+--- Página 4 ---
+Decreto 104, TRANSPORTES (2001)
+valores mayores.
+Así mismo, se entenderá por Función Decreciente aquella en que una gestión
+óptima genera valores menores.
+Artículo 7º: El Plan de Gestión Anual y sus respectivas modificaciones
+comprenderá un período de un año, contado desde su entrada en vigencia, esto es
+desde el 1º de enero al 31 de diciembre del año siguiente al de su presentación.
+TITULO III
+De las modificaciones al Plan de Gestión Anual
+Artículo 8º: Podrán efectuarse modificaciones al Plan de Gestión Anual en
+los casos de haberse modificado el Calendario Referencial de Inversiones, el Plan
+Maestro, la Planificación Estratégica de la Empresa o en el caso de producirse
+modificaciones sustantivas en las condiciones del mercado que sean de notorio y
+público conocimiento, que signifiquen cambios que afecten gravemente el cumplimiento
+de las metas establecidas originalmente. En este último caso, la modificación
+deberá fundarse en un informe técnico que formará parte del acuerdo de directorio
+que se adopte al efecto. La solicitud de modificación deberá ser entregada por la
+empresa a más tardar el 30 de Septiembre de cada año, salvo que el Ministerio de
+Transportes, por resolución fundada establezca otro plazo.
+Las modificaciones al Plan de Gestión Anual que se adopten de conformidad al
+inciso anterior, se sujetarán en lo pertinente, a las mismas normas que rigen tanto
+para su elaboración como para su presentación, señaladas en el Título anterior.
+Artículo 9º: Las modificaciones al Plan de Gestión Anual producirán todos
+sus efectos legales una vez que se cumplan en lo pertinente las formalidades y
+procedimientos que se señalan en el artículo 5º de este reglamento.
+TITULO IV
+De la evaluación del grado de cumplimiento del Plan
+de Gestión Anual y del procedimiento para fijar los
+montos de los ingresos adicionales
+Artículo 10º: La evaluación de la consistencia de
+la información requerida por los indicadores y la
+certificación del grado de cumplimiento de las metas
+deberá llevarse a cabo por una empresa auditora externa
+a la empresa portuaria. Para los efectos de medición del
+grado de cumplimiento se reconocerá como funciones
+crecientes a los indicadores: Is1,Ie1,Ie2 e Ie3 y como
+función decreciente al indicador Is2. Los indicadores
+derivados de la Gestión Estratégica podrán ser
+crecientes o decrecientes según lo determinen los
+respectivos ministerios. El valor meta será por
+definición más exigente que el presupuestado. Es decir,
+cuando se trate de un indicador creciente la meta será
+de un valor mayor al presupuestado y cuando se trate de
+un indicador decreciente será de un valor menor al
+presupuestado.
+En los indicadores crecientes, a los valores
+determinados como presupuestado y valor meta, de
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 4 de 13
+
+--- Página 5 ---
+Decreto 104, TRANSPORTES (2001)
+conformidad a lo señalado en el artículo 6º, se les
+asignará un grado de cumplimiento de un 100%, si el
+valor real alcanzado es igual o superior al valor de la
+meta. A su vez, se asignará un 50% de cumplimiento, si
+el valor real alcanzado es igual al valor presupuestado.
+Por otra parte, a los valores reales intermedios
+alcanzados entre el valor presupuestado y el valor meta
+se le asignará un valor proporcional. El valor real que
+sea inferior al presupuestado en un 20% de éste se le
+asignará un cumplimiento del 10%. Los valores
+intermedios, inferiores al presupuestado hasta el 20%
+antes citado se les reconocerá un cumplimiento
+proporcional, entre el 10 y 50%. Los valores reales
+inferiores al citado 20% tendrán un cumplimiento igual a
+cero.
+En los indicadores decrecientes, a los valores
+determinados como presupuestado y metas se les asignará
+un grado de cumplimiento de un 100% si el valor real
+alcanzado es igual o inferior al valor de la meta. Se
+asignará un 50% de cumplimiento si el valor real
+alcanzado es igual al valor presupuestado. Los valores
+reales intermedios entre este presupuestado y la meta
+se le asignará un valor proporcional. El valor real que
+sea superior al presupuestado en un 20% de éste se le
+asignará un cumplimiento del 10%. Los valores
+intermedios, superiores al presupuestado hasta el 20%
+antes citado se les reconocerá un cumplimiento
+proporcional, entre el 10 y 50%. Los valores reales
+superiores al citado 20% tendrán un cumplimiento igual a
+cero.
+Con fecha 1º de abril del año siguiente al de la
+aplicación del Plan de Gestión Anual, una empresa
+auditora externa a la empresa portuaria determinará el
+valor de cada uno de los factores y presentará esa
+determinación al Ministerio de Transportes y
+Telecomunicaciones, el que en conjunto con el Ministerio
+de Hacienda, con informe del SEP aprobarán la propuesta
+para cada empresa portuaria.
+Artículo 11: Una vez finalizado el procedimiento definido en el artículo
+anterior para cada uno de los indicadores evaluados por las empresas portuarias, se
+procederá a determinar el grado de cumplimiento del Plan de Gestión Anual de
+acuerdo al siguiente procedimiento:
+a) Cálculo del Porcentaje Cumplimiento del Indicador de Gestión de Servicios al
+Usuario (ISU):
+Se define como:
+Porcentaje de Cumplimiento del ISU = % Is1 * Ks1 + % Is2 * Ks2
+donde % I j i = Porcentaje de cumplimiento de los indicadores de gestión, y
+Ks1 = 0.50 Ks2 = 0.50
+b) Cálculo del Porcentaje Cumplimiento del Indicador de Gestión Económica (IE):
+Se define como:
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 5 de 13
+
+--- Página 6 ---
+Decreto 104, TRANSPORTES (2001)
+Porcentaje de Cumplimiento del IE = % Ie1 * Ke1 + % Ie2 * Ke2 + % Ie3 * Ke3, , y
+Ke1 = 0.25 Ke2 = 0.25 Ke3 = 0.50
+c) Cálculo del Porcentaje Cumplimiento del Indicador de Gestión Estratégica (IES):
+Se define como:
+Porcentaje de Cumplimiento IES = % Iies1 * Kies1 + % Iies2 * Kies2 ,y
+Kes1 = 0.50 Kes2 = 0.50
+Por lo tanto, el porcentaje de cumplimiento del Plan de Gestión Anual (PGA) se
+obtiene como el promedio simple de los porcentajes de cumplimiento de ISU, IE e IES.
+PGA = Porcentaje de Cumplimiento (ISU) *
+Kpga1 + Porcentaje de Cumplimiento (IE) * Kpga2 + Porcentaje de Cumplimiento
+(IES) * Kpga3
+Cada indicador tendrá igual ponderación, por tanto su cumplimiento resultará
+del promedio simple de ellos, salvo que el Ministerio de Transportes y
+Telecomunicaciones en conjunto con el Ministerio de Hacienda con informe del SEP
+asigne una ponderación distinta a los indicadores para determinadas empresas. El
+mismo procedimiento se empleará para los casos en que se determine modificar las
+constantes Ks1, Ks2, Ke1, Ke2, Ke3, Kes1y Kes2.
+Artículo 12: El Ministerio de Transportes y
+Telecomunicaciones y el Ministerio de Hacienda con
+informe del SEP, se pronunciarán sobre la certificación
+del grado de cumplimiento del Plan de Gestión Anual a
+que se refiere el artículo 10º y procederán a determinar
+los montos de los ingresos adicionales que podrá
+percibir cada uno de los directores, de conformidad a lo
+establecido en el artículo 52 de la ley Nº 19.542, de
+acuerdo al siguiente mecanismo:
+Monto a Distribuir = Dieta Asignada * Porcentaje de
+Cumplimiento del Plan de Gestión
+Anual
+Artículo 13: El directorio respectivo deberá determinar la forma y oportunidad
+en que se pagará a sus miembros el monto de los ingresos adicionales a que se
+refiere el artículo anterior, una vez que se realice la certificación a que se
+refiere dicho artículo.
+Artículo 14: El monto adicional a que se refiere el artículo 12 se devengará
+mensualmente, sin perjuicio de que su pago se efectúe para cada director desde el
+momento en que se encuentre totalmente tramitado el decreto que fije los montos de
+los ingresos adicionales que podrán percibir los directores de cada empresa, de
+conformidad al artículo 52 de la ley Nº 19.542.
+Artículos Transitorios:
+Artículo 1º: Para el solo efecto de evaluar los
+Planes de Gestión Anual de las empresas portuarias
+correspondientes al año 2001, el Ministerio de
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 6 de 13
+
+--- Página 7 ---
+Decreto 104, TRANSPORTES (2001)
+Transportes y Telecomunicaciones y de Hacienda con
+informe del SEP, aplicarán los siguientes conceptos:
+1. Indicador de Gestión de Servicios al Usuario.
+Este indicador deberá medir las velocidades de
+transferencia de la carga, los tiempos de espera de
+las naves (congestión en el puerto) y los costos
+asociados. Este aspecto se evaluará mediante los
+siguientes factores:
+* Factor Velocidad de Transferencia del Puerto
+(Is1):
+Is1 = (Toneladas totales transferidas al año) /
+(Total de horas de ocupación de las naves)
+* Factor Tiempo de Espera (Is2):
+Is2 = (Horas totales de espera por falta de sitio
+al año) / (Número total de naves atendidas
+en el puerto al año)
+* Factor Ingresos Uso Infraestructura Portuaria No
+Concesionada (Is3):
+Is3 = Ingresos Uso Frente(s) No Concesionado(s) /
+Toneladas Totales Transferidas Frente(s) No
+Concesionado(s)
+Donde: Ingresos Uso Frente(s) No Concesionado(s)=
+Ingresos por tarifas de muellaje a la nave,
+a la carga y por tarifa por uso de puerto
+* Factor Ingresos Uso Infraestructura Portuaria
+Concesionada (Is4):
+Is4 = Ingresos Uso Frente(s) Concesionado(s) /
+Toneladas Totales Transferidas Frente(s)
+Concesionado(s)
+Donde: Ingresos por Uso Frente(s) Concesionado(s)=
+Ingresos por pagos facturados al
+concesionario por el uso de la
+infraestructura concesionada y por tarifas
+por uso de puerto
+2. Indicador de Gestión Económica.
+Este indicador evalúa la gestión económica de las
+empresas portuarias, mediante los siguientes
+factores:
+* Factor Productividad de Trabajadores sobre Margen
+de la Explotación (Ie1):
+Ie1 = Margen de la Explotación / (Número de
+Empleados de la empresa portuaria * Promedio
+de Horas Trabajadas por Empleado al Año)
+* Factor Productividad de Costos de Explotación
+sobre Toneladas Transferidas (Ie2):
+Ie2 = Costos de la Explotación / (Total de
+Toneladas Transferidas)
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 7 de 13
+
+--- Página 8 ---
+Decreto 104, TRANSPORTES (2001)
+* Factor Rentabilidad de los Activos (Ie3):
+Ie3 = Utilidad del Ejercicio / Monto de Activo
+Fijo
+* Factor Relación Margen de Explotación Patrimonio
+(Ie4):
+Ie4 = Margen de Explotación / Patrimonio
+* Factor Rentabilidad del Patrimonio (Ie5):
+Ie5 = Utilidad del Ejercicio / Patrimonio
+* Factor Relación Deuda Capital (Ie6):
+Ie6 = Pasivo / Patrimonio
+* Factor Desviación Presupuesto Gastos(Ie7):
+Ie7= S k {Raíz cuadrada [(Item de Gasto
+Presupuestado k - Item de Gasto k)2] /Item de
+Gasto Presupuestado k}
+El ítem presupuestado de gastos corresponde al
+último que se haya aprobado por el Ministerio de
+Hacienda, durante el transcurso del año.
+El valor que corresponde al subíndice k va desde 1
+hasta el número total de ítems presupuestarios de
+gastos, de acuerdo a la siguiente tabla:
+Subtítulo 21: Gasto en personal
+Subtítulo 23: Bienes y servicios para la producción
+Subtítulo 24: Desahucio y otras indemnizaciones
+Subtítulo 25 ítem 31: Transferencias corrientes al
+Sector Privado
+Subtítulo 26: Intereses y gastos financieros
+Subtítulo 31: Inversión real
+Subtítulo 50 ítem 90 asignación 001: Amortizaciones
+internas de corto plazo
+* Factor Desviación Presupuesto de Ingresos (Ie8):
+Ie8= S k {Raíz cuadrada [(Item de Ingreso
+Presupuestado k - Item de Ingreso k)2] /Item
+de Ingreso Presupuestado k}
+El ítem presupuestado de ingresos corresponde al
+último que se haya aprobado por el Ministerio de
+Hacienda, durante el transcurso del año.
+El valor que corresponde al subíndice k va desde 1
+hasta el número total de ítems presupuestarios de
+ingresos, de acuerdo a la siguiente tabla:
+Subtítulo 01: Ingresos de operación
+Subtítulo 02: Renta de inversiones
+Subtítulo 04 ítem 41: Venta de activos fijos
+Subtítulo 05: Recuperación de préstamos
+Subtítulo 06: Transferencias
+Subtítulo 07: Otros ingresos
+Subtítulo 08: Endeudamiento
+* Factor Relación Costos Ingresos de Explotación
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 8 de 13
+
+--- Página 9 ---
+Decreto 104, TRANSPORTES (2001)
+(Ie9):
+Ie9 = Costos de Explotación / Ingresos de
+Explotación
+* Factor Variación Resultados No Operacionales
+(Ie10):
+Ie10 = Resultados No Operacionales / Utilidad del
+Ejercicio
+3. Indicador de Gestión Administrativa.
+Este indicador evalúa la gestión administrativa del
+puerto o terminal de cada empresa, así como la
+administración de los contratos de concesión de
+frentes de atraque, mediante los siguientes
+elementos:
+i. Funcionamiento adecuado de los mecanismos de
+control de cumplimiento de las obligaciones y
+derechos establecidos en los respectivos
+contratos de concesión;
+ii. Establecimiento y funcionamiento de mecanismos
+de consultas, reclamos y solución de conflictos
+de los usuarios de los servicios portuarios con
+los operadores de los frentes de atraque;
+iii. Aplicación de normas, medidas de seguridad y de
+prevención de riesgos en las labores que
+realicen los trabajadores de las empresas
+portuarias, informada por los organismos
+competentes;
+iv. Disminución anual del porcentaje de accidentes
+del trabajo que afecte a los trabajadores de
+las empresas portuarias en los puertos o
+terminales que administre la empresa;
+v. Continuidad en la prestación de los servicios
+que requieran los distintos operadores,
+accesibilidad y medidas de descongestión de las
+vías de acceso, diligencia en el
+establecimiento de servidumbres que se
+requieran y adecuada gestión de las existentes.
+Cada empresa deberá establecer un procedimiento
+que permita medir los indicadores que se
+señalan en este número.
+Artículo 2º: El procedimiento para evaluar el grado de cumplimiento de las
+metas deberá llevarse a cabo por una empresa auditora independiente de la empresa
+portuaria. A los valores determinados como mínimos y máximos, en la presentación
+realizada por cada empresa portuaria, para los Indicadores de Gestión de Servicios
+al Usuario y de Gestión Económica respectivamente, se les asignará un grado de
+cumplimiento de la meta de un 80% al valor determinado como mínimo y de un 100 %, al
+valor determinado como máximo respectivamente.
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 9 de 13
+
+--- Página 10 ---
+Decreto 104, TRANSPORTES (2001)
+Artículo 3º: Con fecha 1º de abril del año
+subsiguiente a la presentación del Plan de Gestión
+Anual, una empresa auditora externa de la empresa
+portuaria determinará el valor de cada uno de los
+factores. Estos valores se compararán con cada uno de
+aquellos que se hayan establecido como meta y si estos
+valores se encuentran dentro del rango definido por cada
+empresa en su presentación, se les asignará a cada uno
+de ellos un grado de cumplimiento que se calculará de la
+siguiente forma, según el caso que corresponda:
+Caso 1:
+Cuando para el cumplimiento de la meta se deban
+obtener valores crecientes del factor respectivo,
+corresponderá aplicar la siguiente forma de cálculo:
+Grado de Cumplimiento I ji = (0,80 * I ji máx - I ji
+mín + 0,20 * I ji obtenido) / (I ji máx - I ji mín)
+donde: El subíndice j se identificará como: s para
+indicadores de servicios y e para indicadores
+económicos
+El valor que se asignará al subíndice i irá
+desde 1 hasta el total de los componentes del
+indicador respectivo
+Cuando el resultado obtenido por algún indicador de
+gestión no se encuentre dentro del rango establecido
+entre el valor mínimo y el máximo para dicho
+indicador, el grado de cumplimiento se evaluará de
+la siguiente manera:
+a) Si el resultado obtenido por el indicador está
+por sobre el valor máximo previamente definido en
+un porcentaje superior a un 20%, se considerará
+que la meta fue mal estimada y se definirá
+entonces como nuevo valor mínimo de la meta a
+cumplir para ese ejercicio el resultado obtenido.
+b) Si el indicador obtenido se encuentra entre el
+máximo y un valor superior hasta en un 20% del
+mismo, se considerará que la meta ha sido
+cumplida en un 100%.
+c) Si el valor del indicador resulta menor que el
+mínimo establecido, se entenderá que el grado de
+cumplimiento es 0.
+Caso 2:
+Cuando para el cumplimiento de la meta se deban
+obtener valores decrecientes del factor respectivo,
+corresponderá aplicar la siguiente forma de cálculo:
+Valor de Cumplimiento I ji = (I ji mín - 0,80 * I ji
+máx - 0,20 * I ji
+obtenido) /
+(I ji mín -I ji máx)
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 10 de 13
+
+--- Página 11 ---
+Decreto 104, TRANSPORTES (2001)
+donde: El subíndice j se identificará como: s para
+indicadores de servicios y e para indicadores
+económicos
+El valor que se asignará al subíndice i irá
+desde 1 hasta el total de los componentes del
+indicador respectivo
+Cuando el resultado obtenido por algún indicador de
+gestión no se encuentre dentro del rango establecido
+entre el valor mínimo y el máximo para dicho
+indicador, el grado de cumplimiento se evaluará de
+la siguiente manera:
+a) En el caso de que el resultado obtenido por el
+indicador esté por debajo del valor máximo
+previamente definido en un porcentaje Ie3superior
+a un 20%, se considerará que la meta fue mal
+estimada y se definirá entonces como nuevo valor
+mínimo de la meta a cumplir para ese ejercicio el
+resultado obtenido.
+b) Si el indicador obtenido se encuentra entre el
+máximo y un valor inferior hasta en un 20% del
+mismo, se considerará que la meta ha sido
+cumplida en un 100%.
+c) Si el valor del indicador resulta mayor que el
+mínimo establecido, se entenderá que el grado de
+cumplimiento es 0.
+Con relación al Indicador de Gestión
+Administrativa, el grado de cumplimiento se evaluará en
+un rango de valores comprendido entre 0 y 100. Si el
+valor resultante es menor a 80 se asignará como grado de
+cumplimiento de la meta un valor igual a 0. En el caso
+que el valor resultante sea mayor o igual a 80, se
+entenderá que el grado de cumplimiento de la meta es el
+valor resultante dividido por 100.
+Artículo 4º: El grado de cumplimiento de los compromisos de Gestión
+Administrativa se realizará como sigue:
+Para las empresas que hayan suscrito contratos de concesión de frentes de
+atraque, el funcionamiento adecuado de los mecanismos de control de cumplimiento de
+las obligaciones y derechos establecidos en los respectivos contratos de concesión,
+significará la obtención de 50 puntos y de 12,5 puntos, por cada una de las
+siguientes obligaciones:
+i Establecimiento y funcionamiento de mecanismos de consultas, reclamos y solución
+de conflictos de los usuarios de los servicios portuarios con los operadores de los
+frentes de atraque;
+ii Aplicación de normas, medidas de seguridad y de prevención de riesgos en las
+labores que realicen los trabajadores de las empresas portuarias, informada por los
+organismos competentes;
+iii Disminución anual del porcentaje de accidentes del trabajo que afecte a los
+trabajadores de las empresas portuarias en los puertos o terminales que administre la
+empresa;
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 11 de 13
+
+--- Página 12 ---
+Decreto 104, TRANSPORTES (2001)
+iv Continuidad en la prestación de los servicios que requieran los distintos
+operadores, accesibilidad y medidas de descongestión de las vías de acceso,
+diligencia en el establecimiento de servidumbres que se requieran y adecuada gestión
+de las existentes.
+Para las demás empresas, el cumplimiento de cada una de las obligaciones
+anteriores significará la obtención de 25 puntos.
+Cada empresa deberá establecer un procedimiento que permita medir los
+indicadores que se señalan en este número.
+Artículo 5º: Una vez finalizado el procedimiento
+definido en el número anterior para cada uno de los
+indicadores evaluados por las empresas portuarias, se
+procederá a determinar el grado de cumplimiento del Plan
+de Gestión Anual de acuerdo al siguiente procedimiento:
+a) Cálculo del Porcentaje Cumplimiento del Indicador de
+Gestión de Servicios al Usuario (ISU):
+Se define como:
+Porcentaje de Cumplimiento del ISU = % Is1 * Ks1 + %
+Is2 * Ks2 + % Is3
+* Ks3 + % Is4 * Ks4
+donde % I j i = Porcentaje de cumplimiento de los
+indicadores de gestión
+b) Cálculo del Porcentaje Cumplimiento del Indicador de
+Gestión Económica (IE):
+Se define como:
+Porcentaje de Cumplimiento del IE = % Ie1 * Ke1 + % Ie2
+* Ke2 + % Ie3 * Ke3
++ % Ie4 * Ke4 + %
+Ie5 * Ke5 + % Ie6 *
+Ke6 + % Ie7 * Ke7
++% Ie8 * Ke8 + % Ie9
+* Ke9 + % Ie10 * Ke10
+Por lo tanto, el porcentaje de cumplimiento del Plan
+de Gestión Anual (PGA) se obtiene como sigue:
+PGA = Porcentaje de Cumplimiento (ISU) * Kpga1 +
+Porcentaje de Cumplimiento (IE) * Kpga2 + %
+Indicador de Gestión Administrativa * Kpga3
+Los valores de las constantes (K) se definen como
+sigue:
+. Constantes de Cumplimiento ISU:
+Caso 1: Puertos sin Frentes de Atraque Concesionados
+Ks1 = 0.30
+Ks2 = 0.30
+Ks3 = 0.40
+KS4 = 0.00
+Caso 2: Puertos con Frentes Concesionados y Frentes sin
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 12 de 13
+
+--- Página 13 ---
+Decreto 104, TRANSPORTES (2001)
+Concesionar
+Ks1 = 0.30
+Ks2 = 0.30
+Ks3 = 0.20
+KS4 = 0.20
+Caso 3: Puertos con Todos sus Frentes Concesionados
+Ks1 = 0.30
+Ks2 = 0.30
+Ks3 = 0.00
+KS4 = 0.40
+. Constantes de Cumplimiento IE:
+Ke1 = 0.15
+Ke2 = 0.05
+Ke3 = 0.05
+Ke4 = 0.08
+Ke5 = 0.07
+Ke6 = 0.15
+Ke7 = 0.15
+Ke8 = 0.10
+Ke9 = 0.05
+Ke10 = 0.15
+. Constantes del Porcentaje de Cumplimiento del Plan
+Anual de Gestión:
+Kpga1= 0.35
+Kpga2= 0.35
+Kpga3= 0.30
+Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la
+República.- Carlos Cruz Lorenzen, Ministro de Transportes y Telecomunicaciones.-
+Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
+Lo que transcribo para su conocimiento.- Saluda a Ud., Patricia Muñoz Villela,
+Jefe Depto. Administrativo.
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Nov-2026 página 13 de 13
