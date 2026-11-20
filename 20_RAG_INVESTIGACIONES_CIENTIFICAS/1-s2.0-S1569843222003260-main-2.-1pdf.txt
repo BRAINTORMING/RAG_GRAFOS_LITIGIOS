@@ -1,0 +1,661 @@
+--- Página 1 ---
+International Journal of Applied Earth Observations and Geoinformation 116 (2023) 103138
+Contents lists available at ScienceDirect
+International Journal of Applied Earth
+Observations and Geoinformation
+journal homepage: www.elsevier.com/locate/jag
+Andean peatlands at risk? Spatiotemporal patterns of extreme NDVI
+anomalies, water extraction and drought severity in a large-scale mining
+area of Atacama, northern Chile
+Roberto O. Ch avez ´ a,b,c , Oliver Meseguer-Ruiz a,d , Matías Olea c , Matías Calder on-Seguel ´ e ,
+Karina Yager f , Rosa Isela Meneses g , Jos ´ e A. Lastra c , Ignacio Nú nez-Hidalgo ˜ h,i ,
+Pablo Sarricolea j,m , Roberto Serrano-Notivoli k , Manuel Prieto a,l,*
+a Millenium Nucleus in Andean Peatlands (AndesPeat), Chile
+b Institute of Ecology and Biodiversity (IEB), Chile
+c Laboratorio de Geo-Informaci ´ on y Percepci ´ on Remota, Instituto de Geografía, Pontificia Universidad Cat olica de Valparaíso, Valparaíso 2362807, Chile ´
+d Departamento de Ciencias Hist ´ oricas y Geogr aficas, Universidad de Tarapac ´ a, Luis Emilio Recabarren 2477, Iquique 1101783, Chile ´
+e Departamento de Ciencias Sociales, Facultad de Ciencias Sociales y Jurídicas, Universidad de Tarapac a, Baquedano 1325, Iquique 1101319, Chile ´
+f School of Marine and Atmospheric Sciences, Stony Brook University, Endeavour 145, Stony Brook, NY 11790, USA
+g Instituto de Arqueología y Antropología, Universidad Cat ´ olica del Norte, Le Paige 380, San Pedro de Atacama, Chile
+h Facultad de Ciencias Biol ´ ogicas, Pontificia Universidad Cat ´ olica de Chile, Av Libertador Bernardo O ’ Higgins 340, Santiago, Regi ´ on Metropolitana, Chile
+i Centro de Estudios en Ecología Espacial y Medio Ambiente - Ecogeografía, Santiago, Chile
+j Departamento de Geografía, Universidad de Chile, Portugal 84, Santiago 8331051, Santiago, Chile
+k Departamento de Geografía, Universidad Aut ´ onoma de Madrid, Francisco Tom as y Valiente 1, Madrid 28049, Spain ´
+l Departamento de Ciencias Hist oricas y Geogr ´ aficas, Universidad de Tarapac ´ a, 18 de septiembre 2222, Arica 1010069, Chile ´
+m Center for Climate and Resilience Research (CR)2, Universidad de Chile, Santiago, Chile
+A R T I C L E I N F O A B S T R A C T
+Keywords: In the Andes, multiple human and climatic factors threaten the conservation of bofedales, a type of high altitude
+Atacama Desert peat forming wetland widely distributed in the tropical and subtropical Andes. In northern Chile, climate change
+Bofedal and water extraction for industrial activities are among the most significant threats to these relevant socio-
+Productivity
+hydrological systems hosting indigenous pastoral communities. In this study, we present an integrated anal -
+SPEI
+ysis of Normalized Difference Vegetation Index (NDVI) anomalies, drought severity and water rights granted to
+Npphen
+industry to provide insight on the conservation status of bofedales, historical drivers of their transformation, and
+current threats. Using Landsat satellite imagery from 1986 to 2018, we identify spatio-temporal NDVI changes of
+442 bofedales in one of the leading copper producing regions of the world. The NDVI time series analysis over 32
+growing seasons was used to detect extreme anomalies, i.e. values outside the 95 % of the reference frequency
+distribution, indicating periods of extreme changes in the productivity of these high Andes wetlands. To evaluate
+the relationship between bofedales NDVI extreme periods to drought and continued water extraction activities,
+we combine a climate-based multi-temporal-scale drought index (SPEI) with the geospatial latitudinal distri -
+bution of water rights granted for extractive industries in the study area. Over the time period of analysis, the
+total amount of granted water rights increased 465 % from 1,201 l/s recorded before 1985 to 5,584 l/s in 2018.
+In the areas where the highest amount of water rights are concentrated, i.e. between 21.3 ◦ S and 22.1 ◦ S, “ green ”
+bofedales (NDVI > = 0.23) are practically absent. NDVI of the austral summer (JFM) was highly correlated with
+the severity of drought occurring during the three months of the growing season peak. While our findings show
+bofedal productivity is mostly influenced by precipitation and temperature of the wet season (JFM) during the
+study period, results also raise questions regarding possible bofedal loss occurring over the previous 80 years
+* Corresponding author at: Millenium Nucleus in Andean Peatlands (AndesPeat), Chile. Departamento de Ciencias Hist oricas y Geogr ´ ´ aficas, Universidad de
+Tarapac ´ a, 18 de septiembre 2222, Arica 1010069, Chile.
+E-mail addresses: roberto.chavez@pucv.cl (R.O. Ch ´ avez), omeseguer@academicos.uta.cl (O. Meseguer-Ruiz), matias.olea@pucv.cl (M. Olea), mcalderons@
+academicos.uta.cl (M. Calder on-Seguel), ´ karina.yager@stonybrook.edu (K. Yager), rosa.meneses@alumnos.ucn.cl (R. Isela Meneses), jose.lastra@pucv.cl
+(J.A. Lastra), ianunez1@uc.cl (I. Nú nez-Hidalgo), psarricolea@uchilefau.cl (P. Sarricolea), roberto.serrano@uam.es (R. Serrano-Notivoli), mprieto@academicos. ˜
+uta.cl (M. Prieto).
+https://doi.org/10.1016/j.jag.2022.103138
+Received 24 May 2022; Received in revised form 24 November 2022; Accepted 30 November 2022
+1569-8432/© 2022 Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+--- Página 2 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+prior to the satellite record, wherein water extraction activities have significantly increased according to official
+records.
+1. Introduction explaining the productivity of one to two upcoming growing seasons.
+Therefore, bofedales are sensitive to changes in water availability.
+Since the beginning of the 20th century, in the Atacama Desert of Notwithstanding the socioecological relevance of these ecosystems
+northern Chile, extractive industries have been the most critical threat to at different spatio-temporal scales (Yager et al. 2019, Yager et al. 2021,
+water sources ’ sustainability in the highlands (Y ´ a nez ˜ & Molina 2011). In Cooper et al. 2015, Earle et al., 2003, Squeo et al., 2006), their accel -
+addition to water extraction activities, extreme climate events, including erated degradation and current threats (Ramsar 2018, Yager et al.,
+droughts, stress regional hydrological demands for ecosystem func - 2019), gaps in the current understanding of how both climate and in -
+tioning and production purposes. In the arid Atacama region, dense dustrial activities interact and influence the condition of bofedales and,
+vegetation and surface water are scarce, except for the occurrence of a particularly, their productivity, prevail. Several studies have analyzed
+type of peat-forming high-altitude wetlands, locally known as bofedales the spatial and temporal transformations of bofedales productivity using
+(ok ’ os or uqhu, in Aymara). Bofedales are restricted to the altitudinal satellite imagery (Baldassini et al. 2012, Meza Aliaga and Díaz Villalo -
+belt in the Andes at elevations between 3,000 and 5,000 m.a.s.l. from bos, 2014, Dangles et al. 2017, Ch ´ avez et al., 2019a, Anderson et al.
+southern Peru and Bolivia to northern Chile and north-eastern Argentina 2021). On the other hand, research from the social sciences has devel -
+(Ruthsatz 2012, Squeo et al. 2006). In the western Altiplano they cover a oped rich work on the impacts of the Chilean water model and water
+significant area of about 510 km 2 (Ch avez et al., 2019a). ´ extraction by extractive industries in the highlands. However, many
+Bofedales are key socio-hydrological systems contributing to the studies emphasize the social dimension, and neglect consideration of
+sustainability of mountain ecosystems across the Andes (Yager et al. “ the environment ” (e.g., Babidge 2016, Budds 2010, Y ´ a nez ˜ & Molina
+2021). They regulate water storage and flows; are rich with biodiversity, 2011, Molina 2012, Prieto et al, 2019), a common problem in socio-
+hosting a dense variety of plant and animal species (Meneses et al. environmental studies (Walker 2005). Hence, this research aims to
+2014), and have high carbon sequestration rates which position them as integrate social and environmental perspectives (Lave 2014) of bofedal
+an integral part of the regional and global climate system (Buytaert productivity. To achieve this goal, we study the spatio-temporal dy -
+et al., 2011, Hribljan et al., 2015). Besides, they are vibrant sites to namics of the network of bofedales and markers of their productivity by
+indigenous highland communities, who manage them for developing analyzing the time series of the Normalized Difference Vegetation Index
+herding activities (Yager et al. 2019). (NDVI) over four decades to identify areas experiencing/undergoing
+The formation and sustainability of bofedales depends on adequate extreme productivity changes. We connect this analysis with a multi-
+water inputs (Caballero et al. 2002, Hribljan et al. 2015, Squeo et al. temporal-scale drought index (Standardized Precipitation-
+2006, Anderson et al. 2021), which may be sourced from precipitation, Evapotranspiration Index, SPEI) and the spatio-temporal evolution of
+groundwater, aquifers, and glacier run-off. Due to the hydrological water rights granted for extractive industries in the study area. The SPEI
+inter-dependence of bofedales, their extreme sensitivity to climate is a drought index especially suited for studies of the effects of drought
+variability and change, including variations in precipitation and tem - severity on diverse ecosystems and allows to determine the accumulated
+perature pose several threats to their stability (Bury et al. 2013, Cooper drought severity in a given time period (Labudov a et al. 2017). ´
+et al. 2015, Hribljan et al. 2015, Otto and Gibbons 2017, Zimmer et al. The following questions guide this research: Q1) how is the pro -
+2014). ductivity of bofedales in the latitudinal range where most granted water
+Multiple climatic and human-driven factors threaten the conserva - rights are concentrated?; Q2) what is the relationship between SPEI and
+tion of bofedales (Castro 1997, Loza et al. 2015, Prieto et al. 2019). bofedales productivity at different latitudes and concentrations of
+Among other drivers, extractive industries and climate change consti - granted water rights? and Q3) are extreme productivity changes of
+tute the most significant threat to bofedales due to their direct impact on bofedales temporally or spatially related to changes in the amount of
+hydrological inputs. The Chilean economy depends on mining and the water rights or SPEI?
+spatial concentration of this industry in the hyper arid Atacama Desert This research is focused on the network of bofedales located in the El
+requires a high demand for freshwater for its production processes Loa Province (Antofagasta Region, Northern Atacama Desert, Chile).
+(Sernageomin, 2011, Romero-Toledo et al. 2017). Case-studies in Multiple factors make this area an important study site: it is the province
+northern Chile indicate the gradual disappearance of bofedales in the with the highest concentration of large scale mining activities in Chile
+upper Loa River basin as a result of mining (Cavieres 1985, Villagr an and ´ and in South America, among the leading copper exporting areas in the
+Castro 1997); the effects of water extraction in the groundwater-climate world, it is one of the most vulnerable areas to climate change in the
+interactions in bofedales located at Pampa Lagunillas basin (Scheihing Atacama Desert, and many indigenous communities develop agro -
+and Tr oger, 2018), and the disappearance of bofedales due to mining ¨ pastoral activities in the area. Results from this study advance our
+activities and its impacts on indigenous communities (Castro 1997, knowledge of the geospatial linkages among water status, drought
+Romero-Toledo et al. 2017, Prieto et al. 2019). severity impacts, and the socio-political relationships that are embedded
+Across the Andes, the observed data and projected scenarios show in Andean mountain ecosystems studies in general and bofedales in
+change in regional precipitation patterns and evaporation rates, and particular. In addition, the results of this research that links bofedal
+extended dry periods are expected (Buytaert et al., 2010, Rabatel et al., distribution with socio-economic and climatic processes can provide
+2013, Seth et al. 2010, Vuille et al. 2003). The northern Atacama De - vital information for policy and management plans at various institu -
+sert ’ s highlands are among the most vulnerable areas to climate change tional scales.
+(IPCC 2021), and thus bofedales located in this region face a critical
+situation, mainly due to warming scenarios in northern Chile (Meseguer-
+Ruiz et al. 2018, IPCC 2021), which is marked in the Altiplano (Vuille
+et al. 2015); the increase of dry streaks during the rainy season (Sarri -
+colea and Romero 2015), and changes in the spatiotemporal distribution
+of precipitation (Meseguer-Ruiz et al. 2019, Meseguer-Ruiz et al. 2020).
+Recently, Anderson et al. (2021) found that bofedales productivity is
+closely related to cumulative precipitation and snow persistence,
+2
+
+--- Página 3 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+2. Study area (Cavieres 1985), botanical and ethnobotanical research (Villagr an and ´
+Castro 1997), archaeological surveys (Prieto et al. 2019), oral histories
+This research was conducted in the highland region of the Atacama of herders (Carrasco 2011, Prieto et al. 2019), and historical aerial
+Desert (a biogeographic region known as dry puna, and 3,000 m.a.s.l.), photos (1961 – 1964) provided by the Chilean Military Geographical
+circumscribed to the el Loa Province (Region of Antofagasta, Northern Institute (IGM).
+Chile). 1 This area, shown in pink in Fig. 1, comprises 27.52 km 2 and Due to their adaptation to the altitude and proximity to water tables,
+includes a network of 442 bofedal units according to the digital in - bofedales develop a high rate of plant productivity producing dense
+ventory of Ch ´ avez et al. (2019a). layers of organic matter (Cooper et al. 2015, Hribljan et al. 2015). Its
+production rate is one of the fastest among mountain peatlands and the
+2.1. Climatic characterization ecosystems of the puna (Hribljan et al. 2015). The structuring species of
+the bofedales actively participate in the wetlands ’ functioning and
+The predominant arid conditions of the Atacama Desert are productivity, constituting them as one of the fastest-growing mountain
+explained by the influence of a sub-tropical anticyclone, known as the peatland systems (Loza et al. 2015). Bofedal productivity varies between
+South Pacific High. The Andes Mountain range isolates this desert from different periods in response to climate and meteorological conditions
+the eastern tropical continental climate by blocking the warm and moist and human-driven water availability and growing season length (Squeo
+winds from the Amazon (Houston and Hartley, 2003, Garreaud et al. et al. 2006, Cooper et al. 2015, Yager et al. 2019). The peak productivity
+2009). In these contrasting conditions, the divergence between these occurs in summer which corresponds to the rainy season (Squeo et al.
+two air masses determines a particular rainfall behavior in the high - 2006).
+lands, with high annual and seasonal variability (Romero et al., 2013,
+Garreaud 2000). Annual precipitation is primarily concentrated in the 2.3. Socio-economic context
+austral summer as a consequence of the position of an upper-level an -
+ticyclone in the southeast of the central Andes (i.e., the Bolivian High) Likan-antai are indigenous settlements located at different altitu -
+that drives the so-called South American Monsoon (Sarricolea and dinal levels of the Loa Province (to a lesser extent, there are also
+Romero 2015, Sarricolea and Meseguer-Ruiz 2020). Throughout the rest Quechua communities). They reside permanently in villages (Fig. 1),
+of the year, precipitation is infrequent, even nonexistent. The interan - where agricultural activities predominate, while close to the bofedales
+nual variability of rainfall is related to ENSO, with wet episodes related there are small domestic units (locally known as estancias) located one
+to La Ni na (cold) phase and dry spells during the warm El Ni ˜ no (warm) ˜ or more days ’ walk from the central village. They are occupied
+phase (Sarricolea and Romero 2015). During the summer season, the seasonally for grazing around the bofedales during the summer when
+maximum rainfall occurs at 18 ◦ S (300 mm) and declines towards the there is greater availability of forage due to rainfall. (Castro and Mar -
+south (500 mm at 26 ◦ S) (Meseguer-Ruiz et al. 2020). The W-E altitu - tínez 1996). Human populations have inhabited this area since the early
+dinal gradient determines an increase in precipitation in this direction, Holocene (De Souza 2004, Nú nez and Santoro 2011). Around 1,500BCE, ˜
+with maximum penetration in the research area between 22 ◦ and 24 ◦ S inhabitants developed herding around the vegas, bofedales, and ravines
+(Villagr an ´ and Castro 1997). More specifically, the study area is (Nú nez and Santoro 2011, Jackson and Benavente 2010). Since then, in ˜
+generally classified as a high-altitude semi-desert, with two different the highlands, inhabitants have developed different occupation pat -
+types of climates according to the K oppen-Geiger classification: cold ¨ terns, adaptation practices, socio-economic relations, herding (and to
+semi-arid with dry winter (Bsk(w)) and tundra with dry winter (ET(w)) lesser extent agriculture) many of which rely upon and include man -
+(Sarricolea et al. 2017). agement of the bofedales (Villagr ´ an and Castro 1997). However, since
+the early 20th century, agropastoral societies have undergone substan -
+2.2. Bofedales and productivity tial transformations (Castro and Martínez 1996, Gundermann, 1998,
+Calder on and Prieto, 2020). Among other factors, the drying up of the ´
+Bofedales are mainly composed by cushion plants of the Juncaceae bofedales due to industrial water extraction in certain parts of the study
+family such as Oxychloe andina and Distichia muscoides), associated area has been a determining driver of migration towards urban areas
+with a variety of other vascular plants (e.g., Zameioscirpus atacamensis, (Villagr an and Castro 1997, Prieto et al. 2019). ´
+Phylloscirpus deserticola, Plantago tubulosa), grasses, (e.g. Festuca spp., Starting in the second half of the 19th century, large volumes of
+Deyeuxia spp., Cortaderia atacamensis), and aquatic species (Mimulus surface and groundwater have been extracted in the Loa Province ’ s
+and Ranunculus, Lilaeopsis macloviana, Triglochin striata) (Luebert and highlands for mining activity and water supply of the main cities of our
+Pliscoff 2006, Meneses et al. 2015, Villagr an et al. 1983, Ruthsatz 2012). ´ study area (Villagr an and Castro 1997, Molina 2005, Prieto et al. 2022). ´
+While between 18 and 20 ◦ S, these ecosystems cover extended areas of These activities are especially relevant in the research area, considering
+the highlands, in our research area, they form only small islands or are its leading role in the world production of copper and brine mining (e.g.
+restricted to riparian vegetation associated with rivers and ravines potassium, lithium). These mining activities demand high water con -
+(Villagr an et al. 1983, CIREN 2018, Ch ´ avez et al., 2019a). Fig. 2 shows ´ sumption for all their production phases. Chilean copper production is
+an example of a bofedal unit of the study area. However, in the recent the largest globally (Cochilco, 2020a), in fact, the country ’ s copper
+past and according to historical records, larger areas of the altiplano in production accounted for 28 % of the world total in 2019 (Sernageomin,
+this region were covered by larger bofedales than those registered in the 2020). The Antofagasta region concentrates the most significant pro -
+inventory of Ch avez et al. (2019a), which considers only the period after ´ duction of copper at the national level with 54 % of the total (Serna -
+1986. However, we have verified their existence by reviewing the re - geomin, 2020), and is the largest consumer of water with 41 % of the
+cords of explorers who have extensively described the existence of total inland water used by copper mining in 2019 (Cochilco, 2020b).
+bofedales and bodies of water in the area that no longer exists today Several current mining projects, both in execution and planning, suggest
+(Bertrand 1885, Walcott 1925, Hanson 1926, Risopatr on 1918, Rudolph ´ that this scenario will not change in the short-medium term (Cochilco
+1927). Their narratives have been corroborated by technical documents 2020a). Besides copper mining, the current lithium mining boom is
+threatening several high-altitude salt flats rich in biodiversity (García-
+Sanz et al. 2021, Liu et al., 2019), which share water sources with the
+bofedales of the area. This way, the overexploitation of water resources
+1 The administrative division of Chile is divided into sixteen regions, which
+are the first-level administrative division. In turn, each region is divided into in the area has damaged and threatened the high altitude ecosystems in
+provinces ( provincias ). This research was conducted in El Loa province, which is general and bofedales in particular (Cavieres 1985, Aldunate 1985,
+part of the Antofagasta region. Castro 1997, Liu et al., 2019).
+3
+
+--- Página 4 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+Fig. 1. The study area comprises the bofedal units of the Antofagasta Region, Northern Chile. Bofedales are located at high elevations (above 3,000 m a.s.l.). A total
+of 442 bofedal units were considered in this study. In this map, Bofedal units are represented by points, which correspond to the centroid of the Bofedal polygons
+considered in this study. More spatial detailed information can be found in the dashboard of this paper, .
+available at https://labgrs.shinyapps.io/AEOG_peatlands
+3. Methodological approach Ch avez et al. (2019a), we extracted the NDVI signal through the means ´
+of the median NDVI value of all 30x30 meters Landsat pixels inside each
+The proposed methodological approach aims to answer the three bofedal polygon per month. We calculated the average value for pixels
+research questions proposed in the Introduction section (Q1, Q2 and Q3) when more than one Landsat scene was available for the same month.
+and is presented in the flowchart of Fig. 3. To answer these questions we To assess NDVI anomalies as “ extreme ” , we used the “ npphen ’’ R
+combined three input datasets: water rights granted for mining, Landsat package (Ch avez ´ et al., 2022). This probabilistic approach allows
+NDVI data of each peatland polygon, and gridded rainfall and temper - detailed assessment of extreme events and has been applied to study
+ature data. The following sections (3.1 to 3.3) explain in detail the vegetation disturbances in different ecosystems (e.g. Bowman et al.,
+methods applied to each input dataset as well as the integration of all 2019, Decuyper et al., 2020, Estay et al., 2019, Guti ´ errez et al., 2020),
+variables (3.4). including desert areas (Ch avez et al., 2019a, Ch ´ avez et al., 2019b). ´
+There are two important advantages of this probabilistic approach with
+3.1. NDVI time series and identification of years with extreme anomalies regards to parametric approaches using curve fitting for reconstructing
+the phenological baseline (e.g. bi-logistic or sine functions): i) it adapts
+In this study, we used Landsat imagery from 1986 to 2018 to assess to describe any type of annual phenological behavior and ii) it calculates
+the productivity of all bofedal units (polygons) at different temporal the frequency distribution of the phenological annual cycle, from which
+scales (long-term and annual) and to detect years with extreme pro - anomalies can be assessed in terms of how “ unlikely ” or “ extreme ” they
+ductivity changes, both negative and positive. Monthly NDVI values are (Fig. 4). A practical guide to “ npphen ” can be found in this link http
+were derived from Landsat data (Collection 1 Level 2) and included s://www.pucv.cl/uuaa/labgrs/proyectos/introduction-to-npphen-in-r.
+Paths/Rows: 233/074, 233/075, 233/076, 232/076, 232/077, 001/ The first step in this method is the calculation of a phenological
+075). Collection 2 was not considered since at the date this research was baseline through kernel density estimations (KDE) of the annual NDVI-
+conducted, it still presented technical issues and it was constantly time space (Fig. 4) using all available NDVI records during the reference
+updated. Besides, we carried out a harmonization between the different period. In this study, we aim at detecting extreme anomalies throughout
+Landsat sensors using the coefficients proposed by Roy et al. (2016) for the entire time series and therefore the reference period also included
+Collection 1. For each of the 442 bofedal (polygon) units identified by the complete period of analysis (1986 – 2015). KDE works by averaging
+4
+
+--- Página 5 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+Fig. 2. Example of a bofedal unit of the study area ( – 22.46 ◦ , 67.95 ◦ ) observed from ( a ) NDVI Landsat 8 image and ( b ) from a field photograph. The black arrow in
+the map shows the location and orientation of the photograph.
+the heights of Gaussian kernels calculated in two dimensions (x and y) in these data, we calculated the mean Standardized Precipitation Evapo -
+the NDVI-time space using a two dimension bandwidth h (hx and hy). transpiration Index (SPEI) values (Vicente-Serrano et al. 2010) for the
+This bandwidth is variable and calculated using the multivariate plug-in entire study area, using time scales from 1 to 24 months from January
+selector proposed by Wand and Jones (1994). This way, the reference is 1984 to April 2018. The SPEI, among other drought indices (Balbo et al.
+set as the most frequent annual behavior (dark-red line inside the kernel 2019), such as Palmer Drought Severity index or SPI (Balbo et al. 2019)
+in Fig. 4ab) and NDVI anomalies can be calculated as the difference has been widely used to evaluate the influence of drought severity on
+between the NDVI observations and the most expected phenological vegetation dynamics (Albano et al. 2020, Jin et al. 2020, Luo et al.
+curve. To evaluate how extreme these NDVI anomalies are, the position 2020). The SPEI allows us to detect the temporal window with the
+of the observed NDVI value in the kernel density space is checked highest relationship with a concrete phenomenon.
+(Fig. 4). In this study, we consider extreme negative or positive NDVI
+anomalies (Fig. 4b) when the observed NDVI value is outside the 95 % of 3.3. Water rights
+the historical frequency distribution. This way, we aimed to identify the
+2.5 % of the most extreme negative and 2.5 % of the most extreme Archival research of historic water rights (W R ) was conducted using
+positive years for the entire multi-decadal period of analysis. A complete the official depository of Chilean water rights or “ Direcci on General de ´
+description of the “ npphen ” approach is currently under review for Aguas ” to identify both the distribution and evolution of the water rights
+publication, nevertheless, readers can refer to the following preprint for granted to extractive industries in the study area. Official records of
+more information: Estay and Ch ´ avez (2018). water rights commenced in 1905 and continue through the present. We
+In many cases, the NDVI time series presented months without valid examined data from 1905 till 2018 and looked for breaches and in -
+data (NA) (see Figure S1). To minimize NA dates, we focus on the three consistencies that were corrected when possible using supplemental
+months Jan-Feb-March period, corresponding to the peak of the annual data available from official technical reports (Figueiredo Ferraz Con -
+phenological cycle of bofedales (Figure S1), to construct composites of sultoría e Ingeniería de Proyecto, 1996, Direcci on General de Aguas, ´
+annual NDVI (NDVIJFM) and NDVI anomalies for the 442 bofedal poly - 2004), data located at the Real Estate Registrar (Conservador de Bienes
+gons of the study area. Please notice that in the South Hemisphere the Raíces), court rulings, and field validation. We subtracted from the
+growing season does not coincide with the calendar year. For this analysis the W R that are not currently exploited by industries since they
+reason, the annual phenological cycle was set to start on July 1st, which do not imply effective extraction. Furthermore, we identified these
+is the day of the growing season 1 (DGS 001), and to end on June 30th of former rights by reviewing the payment of fees for not using water
+the following year (DGS 365). rights, field validations, and interviews with experts and government
+officials. We georeferenced the data using GIS software to develop a
+database of the official distribution of water resources between 1905
+3.2. Drought severity determination
+and 2018.
+We used monthly precipitation and temperature series available in
+the CR2MET database (https://www.cr2.cl/datos-productos-grillados/)
+over a 5-km grid for continental Chile (Boisier et al. 2018). According to
+5
+
+--- Página 6 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+Fig. 3. Flowchart of the methods and the three research questions proposed in the introduction (Q1, Q2 and Q3).
+3.4. Data integration correlation. Significant values are considered with a 95 % level. Both
+NDVI and SPEI follow a normal distribution. Pearson correlation is more
+The three variables of interest (SPEI, NDVI, and W R ) that we suited in cases correlating these variables since Spearman works with
+considered in this study have different temporal and spatial dimensions. rank-ordered values. We also calculated Spearman correlations (see
+Therefore, cannot be integrated using a single statistical approach. Supplementary material, Figure S4) and temporal/spatial patterns of the
+Bofedales productivity (NDVIJFM) and anomalies were calculated on a results are not substantially different. We then displayed the spatial
+yearly basis and for each bofedal (spatially discrete), while a single distribution of the Pearson correlation for each bofedal of the study area
+March SPEI was calculated for the entire study area but at different for each width of the SPEI moving window (Supplementary material S3)
+moving windows. The third variable, W R , are related to specific co - and summarized the moving windows at which significant (P ≤ 0.05)
+ordinates and the granted volume flow. Its only temporal feature is the maximum positive (green) or minimum negative (pink) Pearson corre -
+year the right was granted. For this reason, the data integration of these lation to annual NDVI occured.
+three variables was carried out in four steps (gray boxes in Fig. 3): iii) We map the spatial location of the correlations between annual
+i) We map the spatial location of the bofedal units disaggregated by NDVIJFM of single bofedales units and the different March SPEI moving
+different levels of mean annual productivity for the entire period windows together with the granted W R . Along with the maps, and
+(1986 – 2018) together with current (2018) granted W R . Along with the similar to i), we prepared latitudinal profiles by calculating the area of
+maps, we prepared latitudinal profiles of the two variables by calcu - bofedales at 8 different classes of significant correlations (4 negative and
+lating the area of bofedales at 5 different long-term NDVIJFM classes and 4 positive) and the total W R for each 0.1 ◦ of latitude of the study area.
+the total W R for each 0.1 ◦ of latitude of the study area. The hypothesis here was that bofedales at latitudes with higher con -
+ii) For each bofedal unit, we correlated the annual NDVIJFM to the 1- centration of water rights had a weaker relationship to the drought
+to 24-months moving window March SPEI through means of the Pearson conditions (SPEI at the different moving windows).
+6
+
+--- Página 7 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+Fig. 4. Detection of years with extreme NDVI anomalies using the probabilistic “ npphen ” R package and austral summer (January-February-March, or JFM) Landsat
+NDVI records of two Bofedales units. (A) Example of a bofedal (68.07 ◦ S, 22.04 ◦ W) with an extreme positive anomaly in 2014: this year the NDVIJFM records were
+outside the 0.95 reference frequency distribution (RFD), i.e. the positive anomalies belonged to the 2.5 % of the highest NDVI recorded in 32 years. (B) Example of a
+bofedal (67.19 ◦ S, 22.87 ◦ W) with an extreme negative anomaly in 2014: i.e. the negative anomalies belonged to the 2.5 % of the lowest NDVI recorded in 32 years.
+DGS = day of the growing season.
+Fig. 5. Spatial distribution of bofedales and extractive water rights in the study area. a ) Location and size (km2) of the 442 bofedal units and location and granted
+water rights accumulated (and active) by 2018. b ) Latitudinal distribution of bofedales sorted by long-term productivity (1986 – 2018 NDVIJFM). c ) Latitudinal
+distribution of water rights sorted by granted flow (l/s). For latitudinal plots, each bar represents 0.1 ◦ S.
+7
+
+--- Página 8 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+iv) We construct a yearly timeline with the total granted W R , SPEI no clear spatial trends in terms of bofedales size and productivity and
+March 3 and total area of bofedales suffering extreme positive or units of different dimensions and NDVIJFM classes can be observed in the
+negative productivity anomalies. This provides a regional overview of entire latitudinal range. As noted when highlighting the limitations in
+the three variables through time. Finally, we showed specific maps of the discussion section, what is remarkable is the gap with few bofedal
+the years that concentrated more positive or negative productivity units between 21.3 ◦ S and 22.1 ◦ S where most of the W R are located.
+anomalies together with the W R granted that year to visually assess
+whether negative anomalies were spatially related to the presence or
+concentration of W R . 4.2. Spatio-temporal relationship between bofedales productivity and
+To facilitate the visual spatial assessment of the different variables, drought severity
+especially the annual NDVIJFM time series of each of the 442 Bofedales,
+we developed an interactive dashboard combining graphs and maps, From all possible SPEI time scales correlated to bofedales annual
+which is available at https://labgrs.shinyapps.io/AEOG_peatlands/. NDVIJFM, we selected from 1- to 24-months previous to the March SPEI
+Please zoom in to the different bofedal polygons and click inside the because of their higher correlations and because they should be good
+polygon to display the NDVIJFM time series. predictors of the bofedales Summer productivity (NDVIJFM) since March
+is the last month of the annual NDVI growing season peak (Fig. 4 and
+4. Results Figure S2). Correlations to the 24 time scales for the March SPEI were
+calculated for each of the 442 bofedales and the results were summa -
+rized in Fig. 6 by total (km 2 ) and relative (%) area of the bofedales with
+4.1. Spatial distribution of bofedales and water rights
+only significant positive and negative correlations. To construct the
+Fig. 5 shows the distribution of the 442 bofedal units located in the summary presented in Fig. 6A, we check at which March SPEI occurred
+study area together with the 75 W R officially granted by 2018 to the significant (P ≤ 0.05) maximum positive correlation or minimum
+extractive industries, equivalent to a total of 5,584 l/s. Readers can refer negative correlation for each bofedal unit and sum its area to the bar of
+to the on-line dashboard available at https://labgrs.shinyapps. that March SPEI. The results show that, considering all units of the study
+io/AEOG_peatlands/ for more details. W R under current use are area, most of the bofedales have maximum positive correlations to
+concentrated in the north of the study area between 21 ◦ S and 22.4 ◦ S March SPEI 1 (considering only March of each year), 2 (March and
+(Fig. 5-A-C), and only five are located in the southern part of the study February of each year), and 3 (March, February, and January of each
+area with granted flows of only 8.77 l/s. By contrast, bofedales are year). This is an indication that drought severity during the peak of the
+concentrated in the middle and southern part of the study area, with the growing season (January to March) explains the most of bofedales
+main cluster of large units located between 22.9 ◦ S and 23.4 ◦ S. There are productivity of that same year. Although minimum negative correlations
+also occurred for about 10 % of the total area of bofedales for March
+Fig. 6. Barplots summarizing the area of bofedal units with different Pearson correlation factors calculated between the regional Standardized Precipitation
+Evapotranspiration Index of March (March SPEI) and annual NDVI values of January-February-March (NDVIJFM) of individual bofedales and for different time scales
+(1 – 24) for the March SPEI. a) For each window for the March SPEI, we sum the area of all bofedal polygons with significant (P ≤ 0.05) maximum positive (green) or
+minimum negative (pink) Pearson correlation to NDVIJFM. b) For each window for the March SPEI, we show the relative area of the bofedales with maximum or
+minimum correlation (A), but now organized by the different levels of positive (green palette) and negative (red palette) correlations. Please be aware that for some
+March SPEI months the area approaches zero, but it is not zero (e.g. 5, 6) while for others (12,16) is actually zero). (For interpretation of the references to colour in
+this figure legend, the reader is referred to the web version of this article.)
+8
+
+--- Página 9 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+Fig. 7. Location of water rights and bofedales with different Pearson correlation between NDVIJFM and SPEI March 1, 2 and 3 ( a , b , c ) and barplots ( a ’ , b ’ , c ’ )
+showing the area of bofedal units organized by the different levels of significant positive (green palette) and negative (red palette) correlation and by latitude (each
+bar represents 0.1 ◦ latitude). In supplementary material 1, the maps for the 24 SPEI March moving windows are provided. (For interpretation of the references to
+colour in this figure legend, the reader is referred to the web version of this article.)
+9
+
+--- Página 10 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+Fig. 8. Timeline showing a long record of granted water rights in the study area (1958 – 2018), summer drought by means of the SPEI March 3 (1986 – 2018) and the
+bofedales area showing extreme productivity anomalies, accounted by NDVIJFM anomalies that fall outside the 95% of the historical frequency distribu -
+tion 1986 – 2018.
+SPEI 1 and 2, i.e. going the opposite direction as droughts, it almost mainly driven by SPEI.
+disappears for March SPEI 3, which is an indication that the accumu -
+lated drought of three months plays a more important role for bofedales 4.4. Vegetation productivity of bofedales: NDVI anomalies, water rights,
+summer productivity. This is indeed supported by the fact that about 80 and drought
+% of the bofedales area with significant correlations present a correla -
+tion to March SPEI 3 larger than 0.4 (Fig. 6-B). A significant area of Fig. 8 provides an overview of major changes in annual productivity
+bofedales also has a maximum positive correlation to SPEI 13 and 14, for all bofedales in the study area, the drought conditions through the
+which is an indication of the lagged influence of the drought conditions years, and the increasing number of granted W R . Clear steps can be
+in the Summer of the previous growing season. observed on the progressive increment of W R , 1985 being the most
+significant, going from about 1,201 l/s to 2,411 l/s. By 2018, 5,584 l/s
+4.3. Spatial distribution of water rights and bofedales with different levels had been granted in the study area (67 % mining, 25 % drinking water
+of correlation to drought and 8 % industry). In the period from 1986 to 2018 we can observe
+different bofedal areas with extreme positive and negative NDVIJFM
+We display the geographical location of correlation between anomalies, which are explained to some extent by SPEI (there was a
+NDVIJFM of single bofedal units and the 24 different March SPEI in positive Pearson correlation between the area of extreme events and
+Figure S3 along to the location of granted W R (blue dots), while in Fig. 7 SPEI March 3 of 0.3 with a p-value of 0.08). For this calculation, we
+we show only the correlations to March SPEI 1, 2, and 3 (panel A), that consider the area of extreme negative anomalies as negative values. The
+showed large areas of maximum correlations according to Fig. 6. In area of both extreme positive and negative anomalies was never larger
+Fig. 7B, we showed the latitudinal distribution of the correlations than 1 km 2 , which is less than 4 % of the total area covered by bofedales
+weighted by bofedales area for each of the three SPEI. Open bars in our study area. Overall, only local and no regional extreme produc -
+represent non-significant correlations. From this figure, no clear spatial tivity changes in bofedales can be observed in the spatio-temporal
+patterns can be observed from the location of different correlations framework of this study. In fact, Fig. 9 shows that the location of bofe -
+between annual productivity and drought in regard to the location of dal units with extreme anomaly years vary in location for different years,
+water rights. Indeed, bofedales with non-significant correlations and the which is an indication that local rather than regional drivers would
+few bofedal units with negative correlation to SPEI are distributed along explain extreme changes in bofedales productivity dynamic.
+with the entire latitudinal range and not spatially related to the presence
+of W R . This supports that the annual productivity of the photosynthet -
+ically active bofedales of the study area over the last three decades is
+10
+
+--- Página 11 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+Fig. 9. Location of water rights and bofedales with extreme NDVIJFM anomalies for selected years (those with larger bofedal areas of positive or negative extreme
+anomalies as indicated in Fig. 8).
+5. Discussion did not show good positive correlations with the SPEI 3 (March), we can
+hypothesize that they may be affected by snowmelt accumulated during
+As shown in section 4.2, the highest SPEI-NDVI correlations are the previous winter season. Another explanation could be that these
+found for SPEI March 3, which is expected because it considers the bofedales have been punctually affected by torrential precipitation (high
+drought severity in the growing season (Ch avez ´ et al., 2019a). daily concentration) that affects the bofedal productivity (Craine et al.
+Throughout the growing season, the drought sensitivity of vegetation 2012) as runoff velocity increases, producing gully erosion (Hartman
+varies depending on the phenological stage of the dominant species, et al. 2016). We have conducted preliminary visual validation of this
+reproductive stages and the high growth vegetative period being more phenomenon in sloping and basin bofedales in the study area and further
+susceptible to drought (Hahn et al. 2021). The high correlation found for north. The SPEI cannot detect these types of extreme events since it is an
+SPEI March 13 and 14 suggests a lagged effect of the drought conditions index that considers only monthly precipitation values. It has also been
+of the previous year, which is in line with the findings of Anderson et al. demonstrated that the interannual precipitation variability may have
+(2021), who demonstrated that climate variables, specifically precipi - negative effects in arid sites ecosystems with mean annual precipitation
+tation and snow persistence, from 2 years before were strongly associ - over 300 mm/yr, such as in the study area (Gherardi and Sala 2019).
+ated with bofedales productivity. For the bofedales whose productivity Several indices exist for drought studies based on climatic variables
+11
+
+--- Página 12 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+such as the Palmer Drought Severity Index, the Standardized Precipi - Atacama Desert s highlands. We analyzed the time series of the NDVI ́
+tation Index (SPI) or the SPEI, used in this study. The SPI (McKee et al., over 32 growing seasons to determine areas experiencing extreme
+1993) uses precipitation data and allows the determination and quan - negative or positive changes in productivity. While several studies have
+tification of drought severity and has been used worldwide at different evaluated the productivity of bofedales in the Andes using satellite im -
+temporal and spatial scales. However, changes in climatic conditions, as agery, this analysis is the first to research the interaction between these
+it is in the Andean Altiplano, can violate the stationarity assumption of variables by considering a drought index and the history of water
+SPI, inducing erroneous interpretations (Blain et al., 2022). To overcome extraction by industries. We found that most bofedales positively
+this problem, SPEI considers both precipitation and temperature data for correlate with SPEI 1, 2 and 3. This indicates that drought during the
+its calculation and contemplates a climatic water balance at different peak of the growing season explains most of the summer productivity
+timescales. Moreover, it includes temperature as a complementary behavior. While there are minimal negative correlations for approxi -
+variable to compute the potential evapotranspiration. Despite SPEI was mately 25 % of the total bofedales area of SPEI 1, these are not observed
+originally calculated for each 5x5 km pixel of our study area, we used for SPEI 2 and 3. This situation would indicate that the three-month
+the mean SPEI considering the predominantly homogeneous orography cumulative drought has greater weight for the productivity of bofe -
+(literally Altiplano means in Spanish “ high and flat ” ) and has the same dales during the growing season. In the areas with the highest concen -
+Koppen-Geiger climate (Sarricolea et al. 2017). Other studies have also tration of water rights, NDVI-SPEI correlations were not different from
+used mean SPEI for greater areas (e.g. Turco et al. 2017), avoiding heavy the rest of the bofedales. However, this is due to the fact that the
+raster calculations and facilitating the interpretation of the spatio- negative effects of mining water extractions between 21.3 ◦ S and 22.1 ◦ S
+temporal patterns of correlations. This way, in this study differences most likely occurred in that area prior to the availability of satellite
+in correlation for all possible temporal aggregations and time lags could images.
+be related to particular productivity conditions of the bofedal units. The fact that the Atacama Desert is one of the regions of the planet
+Our results provide a good diagnostic of the current status of bofe - with the highest water demand due to mining activities, in addition to
+dales in one of the most active mining areas of Chile and South America being an area highly vulnerable to climate change, demands further
+and insights of which areas should be prioritized in monitoring efforts. research to provide insights for the development of policy and man -
+These are the few bofedales units between 21.3 ◦ S and 22.1 ◦ S, where agement plans for water and related ecosystems. To this end, this study
+most of the W R are located, as well as the bofedales in the north (Fig. 5). provides relevant information of which bofedales are currently under
+Considering the individual responses of each bofedal to the interacting higher threat (21 ◦ – 23.5 ◦ S) at a regional level, considering the latitudinal
+effects of water extraction and drought behavior, impacts on their pro - overlap between current “ green ” bofedales and active W R . In turn, the
+ductivity should be studied at the unit level separately. Indeed, several importance of these ecosystems for the region ’ s indigenous communities
+unique factors in each unit merit consideration through in situ studies at makes their conservation an urgent environmental justice issue to be
+the individual bofedal unit level (topography, management, over - considered. The imminent transformation of the Chilean water man -
+grazing, extreme events, etc.). While this research focused exclusively agement model within the current political debate opens the window for
+on changes in bofedal productivity concerning drought and water this type of consideration, mainly for the purpose of recognizing the
+extraction, recent literature has shown in detail that local herder prac - social and environmental value of these ecosystems, which are practi -
+tices are also an essential factor in understanding the productivity cally absent to date.
+behavior of these ecosystems (Yager et al. 2021). Thus, to improve our
+knowledge in the future, we aim to incorporate into our studies the CRediT authorship contribution statement
+diverse bofedal management techniques developed by herders (e.g.,
+irrigation, burning, fencing). Roberto O. Ch avez: ´ Methodology, Formal analysis, Conceptualiza -
+Literature has shown that remote sensing techniques are helpful to tion, Investigation, Resources, Data curation, Writing – original draft,
+understanding the transformations of bofedal productivity (Garcia and Writing – review & editing. Oliver Meseguer-Ruiz: Conceptualization,
+Otto 2015, Dangles et al. 2017, Ch ´ avez et al., 2019a). Despite this po - Methodology, Formal analysis, Investigation, Data curation, Writing –
+tential, the fact that intensive water extraction began in the study area original draft, Writing – review & editing. Matías Olea: Methodology,
+before the availability of satellite imagery limits us from analyzing the Formal analysis, Investigation, Data curation, Writing – original draft,
+direct relation between bofedal productivity, precipitation and tem - Writing – review & editing, Visualization. Matías Calder on-Seguel: ´
+perature behavior, and water extraction prior to 1986 (when the Landsat Conceptualization, Methodology, Formal analysis, Investigation, Data
+Thematic Mapper instrument started acquiring images for our study site curation, Writing – original draft, Writing – review & editing, Project
+on a systematic way). The digital inventory of bofedales carried out by administration. Karina Yager: Conceptualization, Investigation,
+Ch avez et al. (2019a), used a base for this study, considered only ´ “ green ” Writing – review & editing. Rosa Isela Meneses: Investigation, Writing
+bofedales, i.e. with NDVI > = 0.23 and, for this reason, bofedales that – review & editing. Jos e A. Lastra: ´ Investigation, Writing – review &
+could have been “ green ” before 1986 would not be considered in this editing, Visualization. Ignacio Nú nez: ˜ Investigation. Pablo Sarricolea:
+study. This situation is especially relevant given that the area with the Investigation, Writing – review & editing. Roberto Serrano-Notivoli:
+most significant extraction of water has a reduced presence of bofedales Investigation, Writing – review & editing. Manuel Prieto: Conceptual -
+in terms of area and productivity (Fig. 5), which shows that areas with ization, Methodology, Formal analysis, Investigation, Resources,
+high concentration of water rights show much less bofedal abundance. Writing – original draft, Writing – review & editing, Supervision, Project
+However, as mentioned above, large areas of bofedales existed prior to administration, Funding acquisition.
+the study period in areas where the water rights are concentrated. For
+this reason, a retrospective study before 1986 would be very relevant to
+explain the existence of this bofedales gap. While this matter was not Declaration of Competing Interest
+considered in this paper, in the near future we expect to conduct an
+historical retrospective study using a multi-source approach (aerial The authors declare that they have no known competing financial
+photographs, historical atlas, books and documents) to fill this gap. interests or personal relationships that could have appeared to influence
+the work reported in this paper.
+6. Conclusions
+Data availability
+This research assessed the spatio-temporal changes of bofedal plant
+productivity in relation to droughts and water extraction in the northern Data will be made available on request.
+12
+
+--- Página 13 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+Acknowledgments Etnografía. Sociedades Indígenas Contempor ´ aneas y Su Ideología. Andr ´ es Bello,
+Santiago, pp. 69 – 109.
+Cavieres, A., 1985. Informe Final proyecto W.U.S.-A.H.C. Estudio del efecto de las
+This research was funded by the Agencia Nacional de Investigaci on y ´
+políticas de uso de los recursos hídricos del altiplano chileno sobre las comunidades
+Desarrollo, ANID - FONDECYT - 1201527 and ANID – MILENIO – de pastores aymaras. CODEFF, Santiago.
+NCS2022_009. Additionally, R.O. Ch avez was supported by ANID - ´ Ch avez, R.O., Estay, S.A., Riquelme, G., 2022. npphen. Vegetation Phenological Cycle ´
+and Anomaly Detection using Remote Sensing Data. https://cran.r-project.org/web/
+FONDECYT - 1211924 and PIA/BASAL FB210006, O. M-R was sup -
+packages/npphen/npphen.pdf (accessed 3.9.22).
+ported by ANID - FONDECYT - 1200681, and M. Prieto by ANID - Ch avez, R., Christie, D.A., Olea, M., Anderson, T.G., 2019a. A Multiscale Productivity ´
+FONDAP - 15110006. We also thank the careful edition of the English Assessment of High Andean Peatlands across the Chilean Altiplano Using 31 Years of
+Landsat Imagery. Remote Sens. 11, 2955. https://doi.org/10.3390/rs11242955.
+grammar done by Elena Louder. We would like to acknowledge that this
+Ch avez, R., Moreira-Mu ´ noz, A., Galleguillos, M., Olea, M., Aguayo, J., Latín, A., Aguilera- ˜
+research was conducted on the traditional lands of the Lickanantay and Betti, I., Mu noz, A.A., Manríquez, H., 2019b. GIMMS NDVI time series reveal the ˜
+Quechua People. extent, duration, and intensity of “ blooming desert ” events in the hyper-arid
+Atacama Desert, Northern Chile. Int. J. Appl. Earth Obs. Geoinf. 76, 193 – 203.
+https://doi.org/10.1016/j.jag.2018.11.013.
+Appendix A. Supplementary data CIREN, 2018. Sistema de Informaci on Territorial de Humedales Altoandinos. https:// ´
+sitha.ciren.cl/ (accessed 1.18.22).
+Supplementary data to this article can be found online at https://doi. Cochilco, 2020a. Anuario de estadísticas del cobre y otros minerales 2000 – 2019.
+Comisi on Chilena del Cobre, Santiago. ´
+org/10.1016/j.jag.2022.103138. ´
+Cochilco, 2020b. Consumo de agua en la minería del cobre al 2019. Comisi on Chilena del
+Cobre, Santiago.
+References Figueiredo Ferraz Consultoría e Ingeniería de Proyecto, 1996. An ´ alisis de la oferta y
+demanda de recursos hídricos en cuencas críticas de Loa, Rapel y Mataquito.
+Volúmen I. Cuenca del río Loa. Direcci on General de Aguas, Santiago. ´
+Albano, C.M., McGwire, K.C., Hausner, M.B., McEvoy, D.J., Morton, C.G., Huntington, J. Cooper, D.J., Kaczynski, K., Slayback, D., Yager, K., 2015. Growth and Organic Carbon
+L., 2020. Drought Sensitivity and Trends of Riparian Vegetation Vigor in Nevada, Production in Peatlands Dominated by Distichia muscoides, Bolivia, South America.
+USA (1985 – 2018). Remote Sens. 12, 1362, 0.3390/rs12091362. Arctic. Antarct. Alp. Res. 47, 505 – 510. https://doi.org/10.1657/AAAR0014-060.
+Aldunate, C., 1985. Desecaci on de las Vegas de Turi. Chungara 14, 135 ´ – 139, 0.2307/ Craine, J.M., Nippert, J.B., Elmore, A.J., Skibbe, A.M., Hutchinson, S.L., Brunsell, N.A.,
+27801819. 2012. Timing of climate variability and grassland productivity. Proc. Natl. Acad. Sci.
+Anderson, T.G., Christie, D.A., Ch ´ avez, R.O., Olea, M., Anchukaitis, K.J., 2021. 109, 3401 – 3405. https://doi.org/10.1073/pnas.1118438109.
+Spatiotemporal Peatland Productivity and Climate Relationships Across the Western Dangles, O., Rabatel, A., Kraemer, M., Zeballos, G., Soruco, A., Jacobsen, D.,
+South American Altiplano. J. Geophys. Res. Biogeosciences 126, 0.1029/ Anthelme, F., 2017. Ecosystem sentinels for climate change? Evidence of wetland
+2020JG005994. cover changes over the last 30 years in the tropical Andes. PLoS One 12. https://doi.
+Babidge, S., 2016. Contested value and an ethics of resources: Water, mining and org/10.1371/journal.pone.0175814.
+indigenous people in the Atacama Desert. Chile. Aust. J. Anthropol. 27, 84 – 103. De Souza, P., 2004. Cazadores recolectores del Arcaico Temprano y Medio en la cuenca
+https://doi.org/10.1111/taja.12139. superior del río Loa: Sitios, conjuntos líticos y sistemas de asentamientos. Estud.
+Balbo, F., Wulandari, R.A., Nugraha, M.R.R., Dwiandani, A., Syahputra, M.R., Atacame nos 7 ˜ – 43. https://doi.org/10.4067/S0718-10432004002700002.
+Suwarman, R., 2019. The evaluation of drought indices: Standard Precipitation Decuyper, M., Ch avez, R.O., ´ Cufar, K., Estay, S.A., Clevers, J.G.P.W., Prislan, P., ˇ
+Index, Standard Precipitation Evapotranspiration Index, and Palmer Drought Gri ˇ car, J., Crepin ˇ ˇ sek, Z., Merela, M., de Luis, M., Notivoli, R.S., del Castillo, E.M.,
+Severity Index in Cilacap-Central Java. IOP Conf. Ser. Earth Environ. Sci. 303 Rozendaal, D.M.A., Bongers, F., Herold, M., Sass-Klaassen, U., 2020. Spatio-temporal
+https://doi.org/10.1088/1755-1315/303/1/012012. assessment of beech growth in relation to climate extremes in Slovenia – An
+Baldassini, P., Volante, J.N., Califano, L.M., Paruelo, J.M., 2012. Regional integrated approach using remote sensing and tree-ring data. Agric. For. Meteorol.
+characterization of the structure and productivity of the vegetation of the Puna using 287 https://doi.org/10.1016/j.agrformet.2020.107925.
+MODIS images. Ecol. Austral 022, 022 – 032. Direcci on General de Aguas, 2004. Diagn ´ ostico y clasificaci ´ on de los cursos y cuerpos de ´
+Bertrand, A., 1885. Memoria sobre las Cordilleras del desierto de Atacama i rejiones agua según objetivos de calidad. Direcci on General de Aguas, Santiago. ´
+limítrofes. Imprenta Nacional, Santiago. Earle, L.R., Warner, B.G., Aravena, R., 2003. Rapid development of an unusual peat-
+Blain, G.C., Sobierajski, G.R., Weight, E., Martins, L.L., Xavier, A.C.F., 2022. Improving accumulating ecosystem in the Chilean Altiplano. Quat. Res. 59, 2 – 11. https://doi.
+the interpretation of standardized precipitation index estimates to capture drought org/10.1016/S0033-5894(02)00011-X.
+characteristics in changing climate conditions. Int. J. Climatol. 42, 5586 – 5608. Estay, S.A., Ch ´ avez, R.O., 2018. npphen: an R-package for non-parametric reconstruction
+https://doi.org/10.1002/joc.7550. of vegetation phenology and anomaly detection using remote sensing. bioRxiv
+Boisier, J. P., Alvarez-Garret on, C., Cepeda, J., Osses, A., V ´ ´ asquez, N., & Rondanelli, R., 301143. 10.1101/301143.
+2018. CR2MET: A high-resolution precipitation and temperature dataset for Estay, S.A., Ch ´ avez, R.O., Rocco, R., Guti ´ errez, A.G., 2019. Quantifying massive
+hydroclimatic research in Chile. In EGU General Assembly Conference Abstracts (p. outbreaks of the defoliator moth Ormiscodes amphimone in deciduous Nothofagus-
+19739). dominated southern forests using remote sensing time series analysis. J. Appl.
+Bowman, D.M.J.S., Moreira-Mu noz, A., Kolden, C.A., Ch ˜ avez, R.O., Mu ´ noz, A.A., ˜ Entomol. 143, 787 – 796. https://doi.org/10.1111/jen.12643.
+Salinas, F., Gonz ´ alez-Reyes, A., Rocco, R., de la Barrera, F., Williamson, G.J., ´
+Garcia, E., Otto, M., 2015. Caracterizaci on ecohidrol ´ ogica de humedales alto andinos ´
+Borchers, N., Cifuentes, L.A., Abatzoglou, J.T., Johnston, F.H., 2019. usando im ´ agenes de sat ´ elite multitemporales en la cabecera de cuenca del río Santa,
+Human – environmental drivers and impacts of the globally extreme 2017 Chilean Ancash. Perú. Ecol. Apl. 14, 115 – 125.
+fires. Ambio 48, 350 – 362. https://doi.org/10.1007/s13280-018-1084-1. García-Sanz, I., Heine-Fuster, I., Luque, J.A., Pizarro, H., Castillo, R., Pailahual, M.,
+Budds, J., 2010. Water Rights, Mining and Indigenous Groups in Chile ’ s Atacama. In: Prieto, M., P ´ erez-Portilla, P., Ar ´ anguiz-Acu na, A., 2021. Limnological response from ˜
+Boelens, R., Getches, D., Guevara-Gil, A. (Eds.), Out of the Mainstream. Water high-altitude wetlands to the water supply in the Andean Altiplano. Sci. Rep. 11,
+Rights, Politics and Identity. Earthscan, London / Washington, DC, pp. 197 – 211. 7681. https://doi.org/10.1038/s41598-021-87162-6.
+Bury, J., Mark, B.G., Carey, M., Young, K.R., McKenzie, J.M., Baraer, M., French, A., Garreaud, R., 2000. Intraseasonal Variability of Moisture and Rainfall over the South
+Polk, M.H., 2013. New Geographies of Water and Climate Change in Peru: Coupled American Altiplano. Mon. Weather Rev. 128, 3337 – 3346. 0.1175/1520-0493(2000)
+Natural and Social Transformations in the Santa River Watershed. Ann. Assoc. Am. 128 < 3337:IVOMAR > 2.0.CO;2.
+Geogr. 103, 363 – 374. https://doi.org/10.1080/00045608.2013.754665. Garreaud, R.D., Vuille, M., Compagnucci, R., Marengo, J., 2009. Present-day South
+Buytaert, W., Vuille, M., Dewulf, A., Urrutia, R., Karmalkar, A., C ´ elleri, R., 2010. American climate. Palaeogeogr. Palaeoclimatol. Palaeoecol. 281, 180 – 195. https://
+Uncertainties in climate change projections and regional downscaling in the tropical doi.org/10.1016/j.palaeo.2007.10.032.
+Andes: implications for water resources management. Hydrol. Earth Syst. Sci. 14, Gherardi, L.A., Sala, O.E., 2019. Effect of interannual precipitation variability on dryland
+1247 – 1258. https://doi.org/10.5194/hess-14-1247-2010. productivity: A global synthesis. Glob. Chang. Biol. 25, 269 – 276. https://doi.org/
+Buytaert, W., Cuesta-Camacho, F., Tob on, C., 2011. Potential impacts of climate change ´ 10.1111/gcb.14480.
+on the environmental services of humid tropical alpine regions. Glob. Ecol. Biogeogr. Gundermann, H., 1998. Pastoralismo andino y transformaciones sociales en el norte de
+20, 19 – 33. https://doi.org/10.1111/j.1466-8238.2010.00585.x. Chile. Estud. Atacamenos 293 – 319. 10.22199/S07181043.1998.0016.00012.
+Caballero, Y., Jomelli, V., Chevallier, P., Ribstein, P., 2002. Hydrological characteristics Guti ´ errez, A.G., Ch ´ avez, R.O., Domínguez-Concha, J.A., Gibson-Carpintero, S., Guerrero, ´
+of slope deposits in high tropical mountains (Cordillera Real, Bolivia). Catena 47, I.P., Rocco, R., Urra, V.D., Estay, S.A., 2020. Ormiscodes amphimone Outbreak
+101 – 116. https://doi.org/10.1016/S0341-8162(01)00179-5. Frequency Increased Since 2000 in Subantarctic Nothofagus pumilio Forests of
+Calder on, M., Prieto, M., 2020. La Cuesti ´ on agraria y el cobre en la Provincia de El Loa ´ Chilean Patagonia, in: Forest Pest and Disease Management in Latin America.
+(1929/30 – 2006/07). Andes centro-sur, norte de Chile. Estud. Atacamenos 66, Springer International Publishing, Cham, pp. 61 – 75. 10.1007/978-3-030-35143-4_5.
+387 – 417. 0.22199/issn.0718-1043-2020-0042. Hahn, C., Lüscher, A., Ernst-Hasler, S., Suter, M., Kahmen, A., 2021. Timing of drought in
+Carrasco, A., 2011. One World, Many Ethics. The University of Arizona. the growing season and strong legacy effects determine the annual productivity of
+Castro, V., 1997. Fragilidades, equilibrios y ´ etica. Sobre patrimonios culturales y temperate grasses in a changing climate. Biogeosciences 18, 585 – 604. https://doi.
+naturales. MACH 23 – 27. org/10.5194/bg-18-585-2021.
+Castro, V., Martínez, J., 1996. Poblaciones indígenas de Atacama, in: Hidalgo, J., Hanson, E., 1926. Out-of-the-World Villages of Atacama. Geogr. Rev. 16, 365 – 377.
+Schiappacasse, V., Niemeyer, H., Aldunate, C., Mege, P. (Eds.), Culturas de Chile. https://doi.org/10.2307/208707.
+13
+
+--- Página 14 ---
+R.O. Ch avez et al. ´ International Journal of Applied Earth Observation and Geoinformation 116 (2023) 103138
+Hartman, B.D., Bookhagen, B., Chadwick, O.A., 2016. The effects of check dams and Ramsar,, 2018. Global Wetland Outlook: State of the World ’ s Wetlands and their Services
+other erosion control structures on the restoration of Andean bofedal ecosystems. to People. Ramsar Convention Secretariat, Gland.
+Restor. Ecol. 24, 761 – 772. https://doi.org/10.1111/rec.12402. Risopatr on, L., 1918. Diario de viaje a las cordilleras de Antofagasta y Bolivia ´
+Houston, J., Hartley, A.J., 2003. The central Andean west-slope rainshadow and its (1903 – 1904). Rev. Chil. Hist. Geogr. VIII 152 – 184.
+potential contribution to the origin of hyper-aridity in the Atacama Desert. Int. J. Romero, H., Smith, P., Mendoca, M., M ´ endez, M., 2013. Macro y mesoclimas del
+Climatol. 23, 1453 – 1464. https://doi.org/10.1002/joc.938. altiplano andino y desierto de Atacama: desafíos y estrategias de adaptaci on social ´
+Hribljan, J.A., Cooper, D.J., Sueltenfuss, J., Wolf, E.C., Heckman, K.A., Lilleskov, E.A., ante su variabilidad. Rev. Geogr. Norte Gd. 55, 19 – 41.
+Chimner, R., 2015. Carbon storage and long-term rate of accumulation in high- Romero-Toledo, H., Videla, A., Guti ´ errez, F., 2017. Explorando conflictos entre
+altitude Andean peatlands of Bolivia. Mires Peat 15, 14. comunidades indígenas y la industria minera en Chile: las transformaciones
+IPCC, 2021. Climate Change 2021: The Physical Science Basis. Contribution of Working socioambientales de la regi on de Tarapac ´ a y el caso de Lagunillas. Estud. ´
+Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Atacame nos 231 ˜ – 250. https://doi.org/10.4067/S0718-10432017005000019.
+Change. Cambridge University Press. Roy, D.P., Kovalskyy, V., Zhang, H.K., Vermote, E.F., Yan, L., Kumar, S.S., Egorov, A.,
+Jackson, D., Benavente, A., 2010. Complejizaci on de los cazadores y recolectores en chiu ´ 2016. Characterization of Landsat-7 to Landsat-8 reflective wavelength and
+chiu, río Loa medio (norte de Chile). Estud. Atacame nos 39, 5 ˜ – 20. normalized difference vegetation index continuity. Remote Sens. Environ. 185,
+Jin, X., Qiang, H., Zhao, L., Jiang, S., Cui, N., Cao, Y., Feng, Y., 2020. SPEI-based analysis 57 – 70. https://doi.org/10.1016/J.RSE.2015.12.024.
+of spatio-temporal variation characteristics for annual and seasonal drought in the Rudolph, W., 1927. The Rio Loa of Northern Chile. Geogr. Rev. 17, 553 – 585. https://doi.
+Zoige Wetland, Southwest China from 1961 to 2016. Theor. Appl. Climatol. 139, org/10.2307/207998.
+711 – 725. https://doi.org/10.1007/s00704-019-02981-y. Ruthsatz, B., 2012. Vegetaci on y ecología de los bofedales altoandinos de Bolivia. ´
+Labudov ´ a, L., Labuda, M., Tak ´ a ˇ c, J., 2017. Comparison of SPI and SPEI applicability for Phytocoenologia 42, 133 – 179. https://doi.org/10.1127/0340-269X/2012/0042-
+drought impact assessment on crop production in the Danubian Lowland and the 0535.
+East Slovakian Lowland. Theor. Appl. Climatol. 128, 491 – 506. https://doi.org/ Sarricolea, P., Meseguer-Ruiz, O., 2020. Climatología de Chile y sus escenarios futuros.
+10.1007/s00704-016-1870-2. In: Borsdorf, A., Marchant, C., Rovira, A., S ´ anchez, R. (Eds.), Chile Cambiando.
+Lave, R., 2014. Engaging within the Academy: a call for Critical Physical Geography. GEOlibros, Pontificia Universidad Cat olica de Chile, Santiago, Chile, Revisitando la ´
+Acme 13, 508 – 515. Geografía Regional de Wolfgang Weischet, pp. 187 – 218.
+Liu, W., Agusdinata, D.B., Myint, S.W., 2019. Spatiotemporal patterns of lithium mining Sarricolea, P., Herrera-Ossandon, M., Meseguer-Ruiz, O., 2017. Climatic regionalisation ´
+and environmental degradation in the Atacama Salt Flat, Chile. Int. J. Appl. Earth of continental Chile. J. Maps 13, 66 – 73. https://doi.org/10.1080/
+Obs. Geoinf. 80, 145 – 156. https://doi.org/10.1016/j.jag.2019.04.016. 17445647.2016.1259592.
+Loza, S., Meneses, R., Anthelme, F., 2015. Comunidades vegetales de los bofedales de la Sarricolea, P., Romero, H., 2015. Variabilidad y cambios clim ´ aticos observados y
+Cordillera Real (Bolivia) bajo el calentamiento global. Ecol. en Boliv. 50, 39 – 56. esperados en el Altiplano del norte de Chile. Rev. Geogr. Norte Gd. 169 – 183 https://
+Luebert, F., Pliscoff, P., 2006. Sinopsis bioclimatica y vegetacional de Chile. doi.org/10.4067/S0718-34022015000300010.
+Universitaria, Santiago. Scheihing, K., Tr oger, U., 2018. Local climate change induced by groundwater ¨
+Luo, N., Mao, D., Wen, B., Liu, X., 2020. Climate Change Affected Vegetation Dynamics overexploitation in a high Andean arid watershed, Laguna Lagunillas basin, northern
+in the Northern Xinjiang of China: Evaluation by SPEI and NDVI. Land 9, 90. https:// Chile. Hydrogeol. J. 26, 705 – 719. https://doi.org/10.1007/s10040-017-1647-4.
+doi.org/10.3390/land9030090. Sernageomin, 2011. Atlas de faenas mineras. Regiones de Antofagasta y Atacama
+McKee, T.B.N., Doesken, J., Kleist, J., 1993. The relationship of drought frequency and (versi on actualizada). Sernageomin, Santiago. ´
+duration to time scales, in: Proceedings of the 8th Conference on Applied Sernageomin, 2020. Anuario de la minería de Chile 2019. Sernageomin, Santiago.
+Climatology, Anaheim, California, 17-22 January 1993, 179-184. Seth, A., Thibeault, J., Garcia, M., Valdivia, C., 2010. Making Sense of Twenty-First-
+Meneses, R., Herrera, S.L., Lliully, A., Palabral, A., Anthelme, F., 2014. M ´ etodos para Century Climate Change in the Altiplano: Observed Trends and CMIP3 Projections.
+cuantificar diversidad y productividad vegetal de los bofedales frente al cambio Ann. Assoc. Am. Geogr. 100, 835 – 847. https://doi.org/10.1080/
+clim ´ atico. Ecol. en Boliv. 49, 42 – 55. 00045608.2010.500193.
+Meneses, R.I., Ortu no, T., Loza, S., Domic, A., Palabral-Aguilera, A., Zeballos, G., 2015. ˜ Squeo, F., Warner, B., Aravena, R., Espinoza, D., 2006. Bofedales: high altitude peatlands
+Bofedales altoandinos. In: Moya, I., Meneses, R.I., Sarmiento, J. (Eds.), Historia of the central Andes. Rev. Chil. Hist. Nat. 79, 245 – 255.
+Natural De Un Valle En Los AnDes: La Paz. Museo Nacional de Historia Natural, La Turco, M., von Hardenberg, J., AghaKouchak, A., Llasat, M.C., Provenzale, A., Trigo, R.
+Paz, pp. 191 – 205. M., 2017. On the key role of droughts in the dynamics of summer fires in
+Meseguer-Ruiz, O., Ponce-Philimon, P.I., Quispe-Jofr ´ e, A.S., Guijarro, J.A., Sarricolea, P., Mediterranean Europe. Sci. Rep. 7 (1), 81. https://doi.org/10.1038/s41598-017-
+2018. Spatial behaviour of daily observed extreme temperatures in Northern Chile 00116-9.
+(1966 – 2015): data quality, warming trends, and its orographic and latitudinal Vicente-Serrano, S.M., Beguería, S., L opez-Moreno, J.I., 2010. A Multiscalar Drought ´
+effects. Stoch. Environ. Res. Risk Assess. 32, 3503 – 3523. https://doi.org/10.1007/ Index Sensitive to Global Warming: The Standardized Precipitation
+s00477-018-1557-6. Evapotranspiration Index. J. Clim. 23, 1696 – 1718. https://doi.org/10.1175/
+Meseguer-Ruiz, O., Ponce-Philimon, P.I., Guijarro, J.A., Sarricolea, P., 2019. Spatial 2009JCLI2909.1.
+distribution and trends of different precipitation variability indices based on daily Villagr an, C., Arroyo, M., Marticorena, C., 1983. Efectos de la desertizaci ´ on en la ´
+data in Northern Chile between 1966 and 2015. Int. J. Climatol. 39, 4595 – 4610. distribuci on de la flora andina de Chile. Rev. Chil. Hist. Nat. 56, 137 ´ – 157.
+https://doi.org/10.1002/joc.6089. Villagr an, C., Castro, V., 1997. Etnobot ´ ´ anica y manejo ganadero de las vegas, bofedales y
+Meseguer-Ruiz, O., Cortesi, N., Guijarro, J.A., Sarricolea, P., 2020. Weather regimes quebradas en el Loa Superior, Andes de Antofagasta, Segunda Regi on, Chile. ´
+linked to daily precipitation anomalies in Northern Chile. Atmos. Res. 236 https:// Chungara 29, 275 – 304.
+doi.org/10.1016/j.atmosres.2019.104802. Vuille, M., Bradley, R., Werner, M., Keimig, F., 2003. 20th Century Climate Change in the
+Meza Aliaga, M., Díaz Villalobos, Y., 2014. Efectos de la variabilidad clim atica sobre las ´ Tropical Andes: Observations and Model Results. Clim. Change 59, 75 – 99. https://
+fluctuaciones del nivel de las aguas y actividad ganadera en humedales altoandinos. doi.org/10.1023/A:1024406427519.
+Interciencia 39, 651 – 658. Vuille, M., Franquist, E., Garreaud, R., Lavado Casimiro, W.S., C aceres, B., 2015. Impact ´
+Molina, F., 2012. Competing rationalities in water conflict: Mining and the indigenous of the global warming hiatus on Andean temperature. J. Geophys. Res. Atmos. 120,
+community in Chiu Chiu, El Loa Province, northern Chile. Singap. J. Trop. Geogr. 33, 3745 – 3757. https://doi.org/10.1002/2015JD023126.
+93 – 107. https://doi.org/10.1111/j.1467-9493.2012.00451.x. Walcott, F., 1925. An Expedition to the Laguna Colorada, Southern Bolivia: With a Note
+Molina, R., 2005. El río Loa: reparto, usos y conflictos por el agua en el desierto de on the Recent Occurrence of “ El Nino ” . Geogr. Rev. 15, 345 – 366. https://doi.org/
+Atacama. Comunidades atacame nas, ciudades, pueblos, y centros mineros e ˜ 10.2307/208560.
+industriales. Walker, P.A. 2005. Political ecology: where is the ecology? Prog Hum Geogr, 29, 73-
+Nú nez, L., Santoro, C.M., 2011. El Tr ˜ ´ ansito Arcaico-Formativo en la Circumpuna y Valles 82.0.1191/0309132505ph530pr.
+Occidentales del Centro Sur Andino: hacia los cambios “ Neolíticos ” . Chungar ´ a Wand, M.P., Jones, M.C., 1994. Kernel Density Estimation. Chapman and Hall/CRC, Boca
+(Arica) 43, 487 – 530. https://doi.org/10.4067/S0717-73562011000300010. Raton.
+Otto, M., Gibbons, R.E., 2017. Potential Effects of Projected Decrease in Annual Rainfall Yager, K., Valdivia, C., Slayback, D., Jimenez, E., Meneses, R.I., Palabral, A., Bracho, M.,
+on Spatial Distribution of High Andean Wetlands in Southern Peru. Wetlands 37, Romero, D., Hubbard, A., Pacheco, P., Calle, A., Alberto, H., Yana, O., Ulloa, D.,
+647 – 659. https://doi.org/10.1007/s13157-017-0896-2. Zeballos, G., Romero, A., 2019. Socio-ecological dimensions of Andean pastoral
+Prieto, M.; Calder on, M.; Fragkou, M., Fuster, R. 2022.The (not so free) Chilean water ´ landscape change: bridging traditional ecological knowledge and satellite image
+model. The case of the Antofagasta Region, Atacama Desert, Chile. Extr. Ind. Soc. analysis in Sajama National Park. Bolivia. Reg. Environ. Chang. 19, 1353 – 1369.
+Advance online publication. 0.1016/j.exis.2019.02.004. https://doi.org/10.1007/s10113-019-01466-y.
+Prieto, M., Salazar, D., Valenzuela, M., 2019. The dispossession of the San Pedro de Yager, K., Prieto, M., Meneses, R.I., 2021. Reframing Pastoral Practices of Bofedal
+Inacaliri river: Political Ecology, extractivism and archaeology. Extr. Ind. Soc. 6, Management to Increase the Resilience of Andean Water Towers. Mt. Res. Dev. 41
+562 – 572. https://doi.org/10.1016/j.exis.2019.02.004. https://doi.org/10.1659/MRD-JOURNAL-D-21-00011.1.
+Rabatel, A., Francou, B., Soruco, A., Gomez, J., C ´ aceres, B., Ceballos, J.L., Basantes, R., Y ´ a nez, N., Molina, R., 2011. Las aguas indígenas en Chile. LOM, Santiago. ˜
+Vuille, M., Sicart, J.-E., Huggel, C., Scheel, M., Lejeune, Y., Arnaud, Y., Collet, M., Zimmer, A., Meneses, R.I., Rabatel, A., Soruco, A., Anthelme, F., 2014. Caracterizar la
+Condom, T., Consoli, G., Favier, V., Jomelli, V., Galarraga, R., Ginot, P., migraci on altitudinal de las comunidades vegetales altoandinas frente al ´
+Maisincho, L., Mendoza, J., M ´ en ´ egoz, M., Ramirez, E., Ribstein, P., Suarez, W., calentamiento global mediante cronosecuencias post-glaciales recientes. Ecol. en
+Villacis, M., Wagnon, P., 2013. Current state of glaciers in the tropical Andes: a Boliv. 49, 27 – 41.
+multi-century perspective on glacier evolution and climate change. Cryosph. 7,
+81 – 102. https://doi.org/10.5194/tc-7-81-2013.
+14
