@@ -1,0 +1,222 @@
+--- Página 1 ---
+Resumen Ejecutivo
+¿Turberas andinas en riesgo? Patrones espaciotemporales de anomalías extremas de NDVI,
+extracción de agua y severidad de sequía en un área minera de gran escala de Atacama, norte de
+Chile (Chávez et al., 2023)
+Dosier Bofedal Pampa Lagunillas — Anexo técnico
+Mensaje clave
+El estudio analiza 442 bofedales de la Provincia de El Loa (Región de Antofagasta) con
+imágenes Landsat entre 1986 y 2018 y los cruza con una medida de sequía (SPEI) y con los
+derechos de agua otorgados a la industria . Su resultado central es doble:
+• 🟢 Entre 1986 y 2018 la productividad del bofedal responde sobre todo a la sequía del
+trimestre de verano (enero–marzo) ; no se detecta un efecto regional separable de la
+extracción de agua.
+• 🟢 Los derechos de agua otorgados crecieron 465 % (de 1.201 l/s antes de 1985 a 5.584
+l/s en 2018) y se concentran entre 21,3° S y 22,1° S, justo donde casi no hay bofedales
+«verdes» . Los autores sostienen que el daño minero allí ocurrió probablemente antes
+de que existieran imágenes satelitales y por eso el método no lo ve.
+Aviso de alcance: el estudio no cubre Pampa Lagunillas (Tarapacá); solo la cita, junto con
+Scheihing y Tröger (2018), como antecedente de efecto de la extracción de agua subterránea.
+Marcas de lectura: 🟢 dato o conclusión expresa del artículo · 🟡 inferencia razonada de este
+resumen (no está en el artículo) · 🔴 vacío: el artículo no lo aborda.
+1. Nombre de la investigación
+Andean peatlands at risk? Spatiotemporal patterns of extreme NDVI anomalies, water extraction
+and drought severity in a large-scale mining area of Atacama, northern Chile («¿Turberas
+andinas en riesgo? Patrones espaciotemporales de anomalías extremas de NDVI, extracción de
+agua y severidad de sequía en un área minera de gran escala de Atacama, norte de Chile»).
+Publicación: International Journal of Applied Earth Observation and Geoinformation 116 (2023),
+103138 · DOI 10.1016/j.jag.2022.103138 · acceso abierto (CC BY-NC-ND 4.0).
+2. Autores
+Roberto O. Chávez, Oliver Meseguer-Ruiz, Matías Olea, Matías Calderón-Seguel, Karina Yager,
+Rosa Isela Meneses, José A. Lastra, Ignacio Núñez-Hidalgo, Pablo Sarricolea, Roberto Serrano-
+Notivoli y Manuel Prieto (autor de correspondencia).
+
+--- Página 2 ---
+3. Institución
+Institución Participación
+Núcleo Milenio en Afiliación común de varios autores
+Turberas Andinas
+(AndesPeat) e
+Instituto de
+Ecología y
+Biodiversidad
+(IEB), Chile
+Pontificia Chávez, Olea, Lastra
+Universidad
+Católica de
+Valparaíso (Lab.
+de Geo-
+Información y
+Percepción
+Remota)
+Universidad de Meseguer-Ruiz, Calderón-Seguel, Prieto
+Tarapacá (Iquique
+y Arica)
+Stony Brook Yager
+University (EE.
+UU.)
+Universidad Meneses; Núñez-Hidalgo; Sarricolea; Serrano-Notivoli
+Católica del Norte;
+P. Universidad
+Católica de Chile;
+Universidad de
+Chile (CR2);
+Universidad
+Autónoma de
+Madrid
+Financiamiento: ANID (Fondecyt 1201527, 1211924, 1200681; Milenio NCS2022_009; PIA/BASAL
+FB210006; Fondap 15110006). Declaran no tener conflictos de interés.
+4. Objetivos
+• 🟢 Integrar la perspectiva social y la ambiental en el estudio de la productividad de los
+bofedales.
+• 🟢 Detectar los años y las áreas con anomalías extremas (negativas y positivas) de
+productividad (NDVI) en 32 temporadas de crecimiento.
+• 🟢 Responder tres preguntas: Q1 cómo es la productividad donde se concentran los
+derechos de agua; Q2 cómo se relaciona la sequía (SPEI) con la productividad según la
+latitud y la concentración de derechos; Q3 si los cambios extremos se relacionan en
+tiempo o espacio con los derechos de agua o con la sequía.
+
+--- Página 3 ---
+• 🟢 Entregar información para priorizar monitoreo y política de gestión del agua.
+5. Alcance
+Dimensión Cobertura
+Territorio Altiplano seco (puna) de la Provincia de El Loa, Región de Antofagasta;
+442 bofedales que suman 27,52 km², sobre 3.000 msnm
+Período Landsat 1986–2018 (JFM); SPEI enero 1984–abril 2018; derechos de agua
+1905–2018
+Datos NDVI Landsat (mediana por polígono, armonizada entre sensores);
+precipitación y temperatura CR2MET (grilla de 5 km); registros de la
+Dirección General de Aguas, Conservador de Bienes Raíces, fallos
+judiciales y validación de campo; 75 derechos vigentes de uso industrial
+Método Línea base fenológica probabilística (paquete npphen ); anomalía
+«extrema» = fuera del 95 % de la distribución de referencia; correlación
+de Pearson NDVI–SPEI en ventanas de 1 a 24 meses; perfiles por cada
+0,1° de latitud
+Límites Solo bofedales «verdes» (NDVI ≥ 0,23) hoy inventariados; no analiza el
+período previo a 1986 ni el manejo pastoril
+6. Humedal y/o bofedal
+• 🟢 Bofedal (en aymara ok’os o uqhu ): turbera de altura de formación andina, entre
+3.000 y 5.000 msnm, de sur de Perú y Bolivia a norte de Chile y noroeste de Argentina;
+unos 510 km² en el altiplano occidental.
+• 🟢 En la zona de estudio forman pequeñas islas o franjas ribereñas asociadas a ríos
+y quebradas; el grupo mayor está entre 22,9° S y 23,4° S.
+• 🟢 Dependen de aportes de agua (lluvia, aguas subterráneas, acuíferos, deshielo) y por
+eso son muy sensibles a cambios de disponibilidad.
+• 🟢 Son sitios de pastoreo de comunidades Lickanantay (atacameñas) y quechua, con
+estancias estacionales de verano.
+• 🔴 No describe hidrogeología de cada bofedal ni su nivel freático.
+7. Explicitud de la participación en el impacto por parte de la compañía minera
+Aspecto Qué dice el artículo
+Empresas 🔴 Ninguna. Habla de «industrias extractivas» y de derechos de agua
+nombradas por categoría: 67 % minería, 25 % agua potable, 8 % industria
+Afirmación 🟢 La extracción industrial y el cambio climático son las principales
+general amenazas ; cita estudios que vinculan la desaparición de bofedales a la
+minería (Cavieres 1985; Villagrán y Castro 1997; Romero-Toledo et
+al. 2017) y el secado como motor de migración a las ciudades
+Evidencia propia 🟢 No la hay en 1986–2018: las correlaciones NDVI–SPEI no difieren
+de causalidad en la zona de mayores derechos, y los eventos extremos son locales y
+cambian de lugar
+Atribución al 🟢 Los autores afirman que el efecto minero entre 21,3° S y 22,1° S «muy
+
+--- Página 4 ---
+Aspecto Qué dice el artículo
+período previo probablemente» ocurrió antes de las imágenes satelitales; 🔴 no lo
+demuestran (lo proponen como estudio futuro con fotos aéreas e
+historia)
+Volumen real 🔴 Usa derechos otorgados , no caudales efectivamente bombeados
+extraído (solo excluye derechos sin uso)
+🟡 Para el litigio: el artículo sirve como evidencia de contexto y de concentración espacial
+de derechos de agua, no como prueba de que una compañía concreta secó un bofedal concreto.
+8. Explicación científica del secado y la disminución de agua
+• 🟢 Mecanismo climático: la productividad de verano sigue la sequía acumulada de
+tres meses (SPEI de marzo a 3 meses) ; cerca del 80 % del área con correlación
+significativa supera r = 0,4. Una parte del área responde también a SPEI de 13–14 meses,
+es decir, a la sequía del verano anterior (efecto rezagado de uno a dos años, en línea con
+Anderson et al. 2021).
+• 🟢 Mecanismo humano: la extracción industrial de aguas superficiales y subterráneas
+reduce las entradas hídricas del bofedal; los derechos subieron en pasos, con el mayor
+salto en 1985 (de ~1.201 a ~2.411 l/s).
+• 🟢 Otras causas locales para los bofedales que no siguen al SPEI: nieve acumulada en
+invierno, lluvias torrenciales que aceleran la escorrentía y erosionan cárcavas, y
+factores propios de cada unidad (topografía, manejo, sobrepastoreo).
+• 🟢 Zona crítica: entre 21,3° S y 22,1° S está la mayor concentración de derechos y casi
+no hay bofedales verdes; los autores lo interpretan como posible pérdida previa a 1986.
+• 🔴 No mide niveles freáticos, caudales ni balances hídricos; la relación con la extracción
+se hace por superposición latitudinal , no por medición directa.
+9. Hipótesis validadas
+Las hipótesis y preguntas están ordenadas por este resumen a partir de lo que el artículo
+plantea y concluye.
+# Hipótesis o pregunta Resultado Estado
+H1 La productividad estival La mayor parte del área se 🟢 Validada
+depende de la sequía del correlaciona con SPEI 1, 2 y 3; el
+trimestre de verano SPEI 3 es el más fuerte
+H2 Existe efecto rezagado de la Área significativa con SPEI 13–14 🟢 Validada
+sequía del año anterior (parcial)
+H3 Donde hay más derechos de No hay diferencia espacial; las 🔴 No validada
+agua, la relación con la correlaciones débiles o negativas en 1986–2018
+sequía es más débil se reparten en toda la latitud
+H4 Las anomalías extremas Solo cambios locales (<1 km², <4 🟡 Débil: sin
+siguen a los derechos de % del área); correlación área patrón regional
+agua o al SPEI a escala extrema–SPEI 3 de 0,3 con p =
+regional 0,08
+
+--- Página 5 ---
+# Hipótesis o pregunta Resultado Estado
+H5 Los derechos de agua han +465 % (1.201 → 5.584 l/s) 🟢 Dato
+crecido de forma sostenida descriptivo
+H6 La ausencia de bofedales Coincidencia espacial; sin datos 🟡 Hipótesis de
+entre 21,3° y 22,1° S refleja previos los autores, no
+extracción previa a 1986 probada
+10. Cobertura vegetal, flora y fauna
+• 🟢 Cobertura: 442 unidades, 27,52 km²; los bofedales «verdes» (NDVI ≥ 0,23) casi no
+existen entre 21,3° y 22,1° S. En ninguna temporada el área con anomalía extrema,
+positiva o negativa, superó 1 km².
+• 🟢 Flora estructurante: plantas en cojín de la familia Juncaceae, Oxychloe andina y
+Distichia muscoides .
+• 🟢 Flora asociada: Zameioscirpus atacamensis , Phylloscirpus deserticola , Plantago
+tubulosa ; gramíneas ( Festuca , Deyeuxia , Cortaderia atacamensis ); acuáticas ( Mimulus ,
+Ranunculus , Lilaeopsis macloviana , Triglochin striata ).
+• 🟢 Historia: relatos de exploradores (1885–1927), fotografías aéreas de 1961–1964 y
+estudios botánicos indican bofedales y cuerpos de agua más extensos que los actuales.
+• 🟢 Fauna: solo aparece el pastoreo (estancias de verano) y el sobrepastoreo como
+factor local. 🔴 No hay inventario ni análisis de fauna silvestre.
+11. Proyección del futuro del bofedal según las hipótesis validadas
+El artículo no presenta una proyección numérica ; las siguientes líneas combinan lo que dice
+con inferencias marcadas.
+• 🟢 Se esperan en los Andes cambios de precipitación y evaporación y períodos secos
+más largos; el altiplano del norte de Atacama está entre las zonas más vulnerables al
+cambio climático.
+• 🟢 Se prevén proyectos mineros que mantendrán la alta demanda hídrica a corto y
+mediano plazo, y la minería de litio presiona salares que comparten fuentes de agua con
+los bofedales.
+• 🟢 Prioridad de monitoreo: bofedales entre 21° y 23,5° S, donde se solapan bofedales
+verdes y derechos activos, y los del norte.
+• 🟡 Con H1 y H2 validadas, más sequía y más calor reducirían la productividad del
+bofedal sin necesidad de bombeo adicional; con extracción creciente, ambos efectos se
+sumarían .
+• 🟡 Donde ya hay alta concentración de derechos y pocos bofedales, el riesgo no es de
+«degradación futura» sino de pérdida ya consumada ; los remanentes serían los más
+expuestos.
+• 🔴 No estima superficie futura, tasas de pérdida ni escenarios de recuperación.
+12. Conclusiones
+1. 🟢 La productividad del bofedal en el período satelital está gobernada mayormente
+por la sequía del verano (SPEI de tres meses), con un efecto rezagado menor.
+
+--- Página 6 ---
+2. 🟢 No hay un patrón regional que ligue las anomalías extremas a los derechos de agua;
+los cambios extremos son locales , de modo que cada bofedal debe estudiarse en terreno.
+3. 🟢 Los derechos de agua otorgados a la industria crecieron 465 % y se concentran
+donde los bofedales verdes prácticamente faltan; los autores estiman que la mayor parte
+del daño minero es anterior a 1986 .
+4. 🟢 Se necesita un estudio retrospectivo previo a 1986 (fotos aéreas, atlas, documentos) y
+más trabajo de terreno, incluida la gestión pastoril (riego, quema, cercos).
+5. 🟢 La conservación de estos ecosistemas es un asunto de justicia ambiental para las
+comunidades indígenas, y la reforma del modelo chileno de aguas abre una ventana
+para reconocer su valor.
+6. 🟡 Uso en el dosier: apoya la tesis de que la sequía explica la variación de corto plazo,
+pero no descarta ni prueba el efecto minero; ese vínculo para Lagunillas descansa en
+Scheihing y Tröger (2018) y en las secciones de evidencia satelital y de litigios.
+Referencia: Chávez, R. O., Meseguer-Ruiz, O., Olea, M., Calderón-Seguel, M., Yager, K., Meneses,
+R. I., Lastra, J. A., Núñez-Hidalgo, I., Sarricolea, P., Serrano-Notivoli, R., & Prieto, M. (2023).
+Andean peatlands at risk? Int. J. Appl. Earth Obs. Geoinf. , 116, 103138. Resumen elaborado con
+redacción propia.
