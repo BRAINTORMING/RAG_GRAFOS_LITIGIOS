@@ -1,0 +1,1498 @@
+--- Página 1 ---
+SERIE DOCUMENTOS DE TRABAJO EN ECONOMÍA FINANCIERA, RECURSOS NATURALES Y ECONOMÍA
+ECOLÓGICA · N° DT-2026-10
+Valoración del Capital Accionario de BHP Group
+(1990–2026), Contribución Estructural de los
+Activos Mineros en Chile y Cuanti fi cación de la
+Destrucción de Valor por Pasivos Socioambientales,
+Con fl ictividad Laboral y Riesgo de Desinversión
+Forzada
+Un Análisis de Suma de las Partes (SOTP), Flujos de Caja Descontados (DCF), Metabolismo Territorial de
+Enclaves, Riesgo de Certificación The Copper Mark y Estrategia de Conservación de Valor para Inversionistas
+Institucionales
+Autoría Académica e Investigativa: Fecha de Publicación  Octubre de    
+Antonio Rojas — Candidato a Doctor Región de Estudio  Antofagasta y Tarapacá 
+Profesor de Economía y Medio Ambiente y Economía Ecológica Chile
+Programa de Posgrado, Universidad de Antofagasta (Años 2015 al Mercados Analizados  ASX / NYSE (ADR) /
+2019) LSE
+Nota de Presentación y Ficha de Métricas Financieras Clave (Octubre de 2026)
+Este Documento de Trabajo examina la formación histórica del capital accionario de BHP Group Limited
+entre 1990 y octubre de 2026, cuantificando la dependencia estructural de su cotización bursátil respecto
+de sus tres activos cupríferos en explotación y cierre temporal en el Norte Grande de Chile — Minera
+Escondida , Minera Spence y Compañía Minera Cerro Colorado — y modelando la pérdida patrimonial que
+enfrentarían sus accionistas institucionales ante la no obtención de las Resoluciones de Calificación
+Ambiental (RCAs) o ante una eventual obligación de venta forzada ( fire-sale ) derivada de conflictos no
+resueltos con sus trabajadores, comunidades indígenas, proveedores locales y comunas de enclave.
+Indicador Financiero / Valor Verificado / Ponderación Estratégica y Fuente Documental
+Operacional Auditado Estimado
+Capitalización Bursátil de US$        MM (A$ Precio de referencia: US$ 82,90/ADR en NYSE y A$
+BHP Group (Octubre 2026)        MM) 60,03 en ASX ( CompaniesMarketCap, 2026 ; ASX,
+2026 ).
+Underlying EBITDA US$       MM División Cobre alcanza récord de US$ 18.000 MM
+Consolidado BHP Group (Margen   %) (54,7% del grupo) ( BHP Annual Report, 2026 ).
+(FY2026)
+Aporte de Activos en Chile al US$       MM Escondida US$ 12.400 MM [V] + Pampa Norte
+EBITDA Consolidado (     % del Grupo) (Spence) ~US$ 1.950 MM [E] ( 79,7% del EBITDA
+(FY2026) Cobre ).
+Valor Presente Neto (NAV) US$       MM Sustenta más del 50% de la prima de múltiplo
+Atribuible de BHP en Chile (     % Market Cap) EV/EBITDA del grupo frente a mineras de hierro.
+
+--- Página 2 ---
+Resumen Ejecutivo: Rentabilidad Corriente, Plusvalía Bursátil y Riesgo
+Sistémico de BHP en Chile
+El presente Documento de Trabajo evalúa desde la economía financiera y la economía ecológica la
+trayectoria de creación de valor bursátil y formación del capital accionario de BHP Group Limited
+(anteriormente The Broken Hill Proprietary Company y BHP Billiton ) desde el año 1990 hasta octubre de
+2026, demostrando empíricamente que el ascenso de la corporación desde una capitalización de mercado
+de US$ 11.800 millones en 1990 hasta US$ 210.680 millones en octubre de 2026
+( CompaniesMarketCap, 2026 ; equivalente a A$ 309.420 millones en la Bolsa de Valores de Australia, ASX,
+2026 ) se explica estructuralmente por la renta ricardiana e hidrogeológica extraída de sus activos
+cupríferos en el Norte Grande de Chile: Minera Escondida (puesta en marcha en diciembre de 1990),
+Compañía Minera Cerro Colorado (iniciada en 1994 y en cierre temporal desde diciembre de 2023) y
+Minera Spence (operativa desde 2006).
+Al cierre del año fiscal 2026 (30 de junio de 2026), la división Cobre de BHP generó un Underlying EBITDA
+récord de US$ 18.000 millones , superando por primera vez en la historia corporativa el 50% del EBITDA
+total del grupo ( 54,7% sobre US$ 32.900 millones , con un margen EBITDA de 70%, BHP Annual Report,
+2026 ). Dentro de dicho resultado, Minera Escondida aportó US$ 12.400 millones (+45% interanual) y
+Pampa Norte (Spence) ~US$ 1.950 millones , consolidando en Chile el 43,6% del EBITDA global de BHP y
+el 79,7% de su EBITDA cuprífero . Sin embargo, este flujo de caja —que ha permitido distribuir más de US$
+110.000 millones en dividendos desde 2016— se sostiene sobre una severa acumulación de fallas de
+mercado y pasivos no internalizados: conflictividad sindical crónica y judicialización laboral, accidentes
+graves y fatales, automatización excluyente y deslocalización del cerebro operativo hacia Santiago (centro
+remoto IROC/CAS), agotamiento irreversible de acuíferos altoandinos (Salar de Punta Negra, Monturaqui-
+Negrillar-Tilopozo y Pampa Lagunillas), asimetría fiscal en comunas de enclave (Mejillones, Sierra Gorda,
+Pozo Almonte y Coloso) y una contradicción física entre su declaración de abastecimiento con "100%
+energía renovable" vía contratos financieros (PPAs) y la dependencia nocturna 24/7 de centrales
+termoeléctricas a carbón en el Sistema Eléctrico Nacional (SEN).
+Mediante un modelo de valoración por Suma de las Partes (SOTP) y Flujos de Caja Descontados (DCF), se
+demuestra que: (i) la no obtención o atraso de las Resoluciones de Calificación Ambiental (RCAs) para
+compensar la caída natural de leyes (plan de CAPEX de US$ 10.700 a US$ 14.700 millones en Chile)
+provocaría una pérdida de capitalización bursátil de US$ 35.800 millones (-17,0% en el precio de la
+acción) ; (ii) una eventual obligación de venta forzada ( fire-sale ) de los activos en Chile ante la
+ingobernabilidad con sus stakeholders destruiría entre US$ 55.300 millones (-26,2%) y US$ 72.000
+millones (-34,2%) de valor accionario (desplomando el ADR desde US$ 82,90 a un rango de US$ 61,15–
+54,50) y recortaría el dividendo anual en más de 40%; mientras que (iii) cambiar la estrategia corporativa y
+ejecutar un Plan Integral de Pago de Deudas Socioambientales y Nuevo Pacto Territorial-Laboral tendría
+un costo en valor presente de US$ 4.850 millones (apenas el 2,3% de su capitalización bursátil),
+generando un Retorno sobre la Inversión en Conservación de Valor de entre 11,4x y 14,8x para los
+accionistas institucionales.
+Capítulo 1. La Trayectoria del Capital Accionario de BHP Group (1990–2026)
+Demuestra que la Plusvalía Bursátil y el Flujo de Dividendos Han Sido
+Estructuralmente Apalancados por la Renta Cuprífera de Chile
+Para evaluar con rigor económico-financiero el impacto que ejercen los activos mineros chilenos sobre la
+valoración actual de BHP Group Limited (cotizada en la Bolsa de Valores de Australia bajo el ticker ASX:
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 2 de 32
+
+--- Página 3 ---
+BHP , en la Bolsa de Nueva York mediante American Depositary Receipts bajo NYSE: BHP y en la Bolsa de
+Londres como LSE: BHP ), es imprescindible reconstruir la serie histórica de formación de su capital
+accionario desde el año 1990 hasta octubre de 2026. En la teoría financiera corporativa moderna, el
+retorno total del accionista ( Total Shareholder Return , TSR) se descompone en dos vectores
+analíticamente distintos pero interdependientes: por una parte, la rentabilidad corriente de la acción
+( dividend yield ) , que mide el flujo de efectivo distribuido periódicamente a los tenedores de títulos como
+proporción del precio de mercado; y, por otra, el valor intrínseco y bursátil de la acción ( plusvalía o
+ganancia de capital frente a minusvalía o pérdida de capital ) , que refleja el valor presente neto esperado
+de los flujos de caja libres futuros descontados a la tasa de costo promedio ponderado de capital (WACC)
+ajustada por riesgo operacional, regulatorio y socioambiental 1 .
+La elección del año 1990 como punto de partida analítico no es fortuita ni meramente cronológica: en
+diciembre de 1990 inició formalmente su producción comercial de concentrado de cobre Minera
+Escondida Limitada en el Desierto de Atacama (Región de Antofagasta, Chile), operación controlada en un
+57,5% por BHP junto a Rio Tinto (30,0%) y el consorcio japonés JECO (12,5%) ( Mining Technology, 2026 ).
+Hasta fines de la década de 1980, la entonces denominada The Broken Hill Proprietary Company Limited
+era un conglomerado industrial primordialmente australiano enfocado en acero integrado, mineral de hierro
+de Pilbara, carbón y petróleo en el Estrecho de Bass, cuya capitalización bursátil bordeaba apenas los US$
+11.800 millones en 1990, con un precio ajustado equivalente a ~US$ 4,90 por ADR ( BHP Historical Share
+Prices, 2001 ; CompaniesMarketCap, 2026 ).
+Figura 1. Evolución histórica de la capitalización bursátil (US$ miles de millones, eje izquierdo) y del precio de la acción
+ADR en NYSE (US$/acción, eje derecho) de BHP Group entre 1990 y octubre de 2026, contrastada con los hitos
+operacionales y socioambientales de sus activos en Chile. Fuente: Elaboración propia del autor con base en series de
+CompaniesMarketCap (2026) , BHP Historical Share Prices (2001) y reportes anuales FY2024–FY2026 ( BHP Annual Report,
+2026 ). [V]
+1.1. Las cuatro fases estructurales del capital accionario de BHP (1990–2026)
+El análisis longitudinal de los últimos 36 años permite identificar cuatro regímenes de acumulación y
+valoración bursátil claramente diferenciados, en todos los cuales la base de recursos en Chile operó como
+el activo pivote de generación de caja y expansión de múltiplos:
+Primera Fase — Internacionalización Cuprífera e Implantación del Modelo de Enclave en Chile (1990–
+2000): Tras la puesta en marcha de Minera Escondida en diciembre de 1990 y sus sucesivas expansiones
+de capacidad de molienda y lixiviación en la década de 1990, la acción de BHP experimentó alzas anuales
+de +35,72% en 1991, +32,69% en 1993 y +32,00% en 1994 ( CompaniesMarketCap, 2026 ), año en que
+entró en operación Compañía Minera Cerro Colorado en la comuna de Pozo Almonte, Región de Tarapacá
+( Mining Digital, 2026 ). Durante esta década, Escondida se consolidó rápidamente como el yacimiento de
+cobre de mayor producción y menor costo unitario del planeta gracias a leyes de cabeza que superaban el
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 3 de 32
+
+--- Página 4 ---
+2,0%–2,5% de cobre fino y al uso intensivo de derechos de aprovechamiento de aguas subterráneas
+otorgados gratuitamente en cuencas altoandinas (Salar de Punta Negra y acuífero Monturaqui-Negrillar-
+Tilopozo). Hacia 1996, la capitalización bursátil de BHP alcanzaba los US$ 22.780 millones , cerrando el
+año 2000 en US$ 18.810 millones tras el impacto de la crisis financiera asiática de 1997–1998 y las fallidas
+inversiones de BHP fuera de Chile (como el proyecto de hierro briqueteado en caliente en Port Hedland y
+Magma Copper en Estados Unidos).
+Segunda Fase — Fusión BHP-Billiton (2001), Inicio de Minera Spence (2006) y el Superciclo de Materias
+Primas (2001–2011): En junio de 2001 se perfeccionó la fusión bajo estructura de compañía dual ( Dual
+Listed Company , DLC) entre BHP Limited (Australia) y Billiton Plc (Reino Unido, propietaria original de Cerro
+Colorado), dando origen a BHP Billiton ( BHP Billiton, 2001 ). Ese mismo año la capitalización bursátil saltó
+un +71,42% hasta US$ 32.250 millones . Con la aceleración de la urbanización e industrialización de China
+y la entrada en operación en 2006 de Minera Spence en la comuna de Sierra Gorda (conformando junto a
+Cerro Colorado la unidad de negocios Pampa Norte , 100% propiedad de BHP, BHP Pampa Norte, 2026 ), el
+capital accionario de BHP vivió una apreciación sin precedentes ( plusvalía estructural ): pasó de US$
+34.750 millones en 2002 a US$ 101.190 millones en 2005, US$ 200.450 millones en 2007 y alcanzó su
+máximo histórico nominal de cierre anual en 2009 con US$ 301.010 millones (y US$ 255.710 millones en
+2010), impulsado por un precio de la acción que escaló +83,37% en 2007 y +74,14% en 2009
+( CompaniesMarketCap, 2026 ).
+Tercera Fase — Fin del Superciclo, Crisis de Gobernanza Socioambiental y el Capital Allocation
+Framework (2012–2019): Entre 2012 y 2015, el agotamiento del superciclo chino, el sobreendeudamiento
+por adquisiciones de gas de esquisto ( shale gas ) en Estados Unidos y el desastre socioambiental de la
+ruptura de la presa de relaves de Fundão en Samarco (Brasil) en noviembre de 2015 provocaron una
+severa destrucción de valor accionario ( minusvalía ). El precio de la acción se desplomó -26,79% en 2014 y
+-39,15% en 2015, hundiendo la capitalización bursátil desde US$ 205.150 millones (2012) a un piso de US$
+69.190 millones al cierre de 2015 (una pérdida patrimonial de US$ 135.960 millones en tres años,
+CompaniesMarketCap, 2026 ). Como respuesta ante la presión de los inversionistas institucionales, en
+2016 BHP abandonó su política de dividendo progresivo rígido e instauró el Capital Allocation Framework
+(CAF), comprometiendo un retorno mínimo del 50% de las utilidades subyacentes como dividendo
+ordinario más dividendos adicionales y recompras de acciones, al tiempo que en febrero–marzo de 2017
+enfrentó en Chile la histórica huelga legal de 44 días del Sindicato N°1 de Trabajadores de Minera
+Escondida ( IndustriALL, 2017 ; La Tercera, 2024 ).
+Cuarta Fase — Reconfiguración hacia Minerales de Transición Energética y Hegemonía del Cobre
+Chileno (2020–Octubre de 2026): Tras la unificación de su estructura corporativa dual en enero de 2022
+(concentrando su listado primario en el ASX de Australia), la escisión de sus activos de petróleo y gas con
+Woodside Energy (2022) y la venta de minas de carbón en Queensland (Blackwater y Daunia en abril de
+2024, BHP Results FY2024 ), la tesis de inversión de BHP frente a los mercados financieros globales pasó a
+depender de manera determinante de su portafolio de future-facing commodities (cobre y potasa).
+Impulsada por el alza del precio internacional del cobre sobre los US$ 6,00/lb en 2025–2026 (alcanzando
+promedios realizados de US$ 6,75/lb en Spence en julio de 2026, Diario Minero, 2026 ), la acción de BHP
+subió +25,15% en 2025 y +40,75% en lo corrido de 2026, tocando un máximo histórico intradiario de US$
+98,69 por ADR el 25 de agosto de 2026 y situándose en octubre de 2026 en torno a US$ 82,90–84,97
+por ADR (A$ 60,03 por acción ordinaria en el ASX), con una capitalización bursátil de US$ 210.680 a US$
+215.940 millones (A$ 294.210 a A$ 309.420 millones) y un Valor Empresa ( Enterprise Value ) cercano a
+US$ 224.000 millones ( CompaniesMarketCap, 2026 ; Trading Economics, 2026 ).
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 4 de 32
+
+--- Página 5 ---
+1.2. Distinción analítica entre Rentabilidad de la Acción (Flujo de Dividendos) y Valor de la
+Acción (Plusvalía vs. Minusvalía)
+Un error frecuente en el análisis no especializado consiste en confundir la rentabilidad corriente de la
+acción con la preservación o creación de valor del activo subyacente . Como documentan los estados
+financieros auditados de BHP al 30 de junio de 2026 ( BHP Exchange Release FY2026 ; MPC Markets
+Mosaic, 2026 ), desde la introducción del Capital Allocation Framework en 2016 la compañía ha devuelto
+más de US$ 110.000 millones en efectivo a sus accionistas (incluyendo US$ 59.000 millones entre enero
+de 2020 y septiembre de 2025, y un dividendo total en FY2026 de 172 centavos de dólar por acción —
+equivalente a ~US$ 8.700 millones anuales con una tasa de reparto o payout ratio de 72% en el segundo
+semestre—). Esta elevada rentabilidad por dividendo (que ha oscilado entre el 3,6% y el 9,5% anual según
+el ciclo de precios) ha sido posible porque Escondida y Spence operan como máquinas generadoras de
+flujo de caja libre con depreciación contable reducida sobre infraestructuras históricas.
+No obstante, desde la perspectiva de la economía financiera y la economía ecológica, una fracción
+sustancial de dichos dividendos no constituye renta económica genuina en el sentido de Hicks (1939) —es
+decir, el monto máximo que puede distribuirse en un período manteniendo intacto el valor del capital al
+cierre del mismo—, sino una liquidación acelerada de capital natural no contabilizado y una
+postergación de pasivos laborales, territoriales y ambientales 2 . Mientras la rentabilidad por dividendo
+remunera el corto plazo mediante el flujo de caja operativo corriente ( FCF ), el valor de la acción ( P ) y su
+t 0
+plusvalía (Δ P = P - P ) dependen de la continuidad de la licencia social y ambiental para operar durante
+t t-1
+los próximos 25 a 50 años y del múltiplo de valoración ( EV/EBITDA ) que el mercado asigna a la compañía:
+P = (1 / N ) · [ Σ (FCF + FCF - Pasivos ) / (1 + WACC + λ ) t - Deuda
+0 acciones t=1..T Chile,t Resto,t Socioambientales,t ESG
+Neta ]
+0
+Cuando los conflictos con los stakeholders en Chile (sindicatos, comunidades indígenas Aymara y
+Lickanantay, municipios de enclave, organismos reguladores como SMA, DGA y SEA, y tribunales
+ambientales) alcanzan un umbral crítico de insostenibilidad, impactan simultáneamente los tres
+componentes de la ecuación de valor accionario: (a) reducen el numerador ( FCF ) por paralizaciones
+Chile,t
+laborales, caída de leyes no compensadas por falta de Resoluciones de Calificación Ambiental (RCAs) y
+mayores costos de extracción; (b) incrementan las deducciones patrimoniales por litigios de daño
+ambiental, multas, remediación de relaves y planes de cierre; y (c) elevan la tasa de descuento (WACC +
+λ ) , comprimiendo el múltiplo bursátil y transformando la histórica plusvalía accionaria en una abrupta
+ESG
+pérdida de capital (minusvalía) para los fondos de pensiones e inversionistas institucionales.
+Año / Cap  Precio Var  Anual Dividendo / Hito Estratégico, Operacional y
+Período Bursátil ADR Ref  Acción (%) Acción (US$) Socioambiental en Chile y Global
+(US$ MM) (US$) [V]
+[V] [V/E]
+1990           +     %     Inicio de operaciones de Minera
+Escondida (diciembre 1990) con
+extracción hídrica en cuenca de Punta
+Negra.
+1994            +      %     Inicio de operaciones de Cía. Minera
+Cerro Colorado en Pozo Almonte
+(acuífero Pampa Lagunillas).
+1996            +     %     Expansiones Fase III de Escondida;
+consolidación del campo de pozos
+Monturaqui-Negrillar-Tilopozo.
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 5 de 32
+
+--- Página 6 ---
+Año / Cap  Precio Var  Anual Dividendo / Hito Estratégico, Operacional y
+Período Bursátil ADR Ref  Acción (%) Acción (US$) Socioambiental en Chile y Global
+(US$ MM) (US$) [V]
+[V] [V/E]
+2000           -      %     Ajuste post-crisis asiática; preparación
+de consolidación global de activos
+cupríferos en el Norte Grande.
+2001            +     %     Fusión BHP-Billiton (junio 2001):
+integración de Escondida y Cerro
+Colorado bajo un mismo grupo.
+2006             +      %     Puesta en marcha de Minera Spence en
+Sierra Gorda; primera huelga relevante
+en Escondida en pleno auge.
+2009             +      %     Máximo histórico de capitalización
+bursátil en el superciclo de
+commodities; lanzamiento del Programa
+Clúster.
+2012             +     %     Aprobación de proyectos de desalación
+en Coloso (Escondida) ante agotamiento
+de acuíferos continentales.
+2015            -      %     Piso bursátil: Caída de precios y
+colapso de relaves en Samarco (Brasil);
+pérdida de US$ 135,9B desde 2012.
+2017             +      %     Huelga histórica de 44 días del
+Sindicato N°1 en Escondida (feb–mar
+2017; costo >US$ 740 millones).
+2020             +      %     Demanda del CDE ante el 1TA contra
+Escondida por daño irreparable en Salar
+de Punta Negra; término PPAs carbón.
+2021             -     %     Conciliación Punta Negra (US$ 93M);
+cautelar del 1TA paraliza bombeo de
+Cerro Colorado en Lagunillas; sello
+Copper Mark.
+2023             +      %     Cierre temporal de Cerro Colorado (dic.
+2023) por expiración de RCA ambiental;
+anomalías en relaves TSF de Spence.
+2024             -      %     Huelga Sindicato N°1 Escondida (ago.
+2024, bono $33M CLP); 100% camiones
+autónomos en Spence e inauguración
+IROC Santiago.
+2025             +      %     Producción récord de 17 años en
+Escondida (1.305 kt, EBITDA US$ 8,6B);
+denuncias por accidentes de camiones
+autónomos.
+Oct.             +      %     Cobre aporta 54,7% del EBITDA grupal
+2026 (US$ 18,0B) ; Escondida US$ 12,4B;
+demanda civil contra Sindicato Spence
+(US$ 8,58M).
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 6 de 32
+
+--- Página 7 ---
+Capítulo 2. Generación de Valor de los Activos Mineros en Explotación en
+Chile (Escondida, Spence y Cerro Colorado) y Vulnerabilidad Crítica ante la
+No Obtención de RCAs
+Los estados financieros consolidados de BHP correspondientes al ejercicio fiscal 2026 (finalizado el 30 de
+junio de 2026 y publicado el 18 de agosto de 2026, BHP Financial Results FY2026 ) marcan un punto de
+inflexión estructural en la historia de la minería global: por primera vez desde la fundación de la compañía
+en 1885, el negocio del Cobre superó más de la mitad del EBITDA subyacente total del grupo ,
+desplazando al mineral de hierro de Australia Occidental (WAIO) como el principal motor de ganancias y
+valorización bursátil de BHP ( BHP Annual Report, 2026 ; MPC Markets Mosaic, 2026 ).
+2.1. Radiografía cuantitativa del aporte de Chile al EBITDA, Flujo de Caja y Valor Presente Neto
+(NAV) de BHP
+En el año fiscal 2026, BHP Group registró ingresos consolidados por US$ 58.760 millones (+15%
+interanual), un Underlying EBITDA de US$ 32.900 millones (+27% interanual, con un margen EBITDA de
+59%), una utilidad neta atribuible subyacente de US$ 13.200 millones (+30% interanual, superando el
+consenso de mercado de US$ 12.660 millones) y un Flujo de Caja Libre ( Free Cash Flow ) de US$ 9.800
+millones (+83% interanual, MPC Markets Mosaic, 2026 ). Al desagregar el Underlying EBITDA de la división
+Cobre —que alcanzó un récord histórico de US$ 18.000 millones (frente a US$ 12.300 millones en
+FY2025, con un extraordinario margen EBITDA sectorial del 70% )—, emerge la magnitud absoluta de la
+dependencia respecto de Chile:
+Minera Escondida (Región de Antofagasta; 57,5% propiedad de BHP, consolidada al 100% bajo
+normas IFRS): En FY2026 produjo 1.261.000 toneladas (1.261 kt) de cobre fino (tras haber alcanzado
+en FY2025 su máximo en 17 años con 1.305 kt), operando con un costo unitario neto C1 de apenas US$
+1,07 por libra (-10% respecto a los US$ 1,19/lb de FY2025 gracias al incremento de 45% en los créditos
+por subproductos de oro y plata, que aportaron US$ 4.500 millones a nivel de la división cuprífera). Con
+ello, Minera Escondida generó por sí sola un Underlying EBITDA récord de US$ 12.400 millones en
+FY2026 (+45% respecto a los US$ 8.600 millones de FY2025), logrando un Retorno sobre el Capital
+Empleado (ROCE) superior al 37% ( BHP Exchange Release FY2026 ; LSE BHP FY2025 Results ).
+Escondida representa el 37,7% del EBITDA consolidado total de BHP Group y el 68,9% del EBITDA
+global de cobre de la corporación .
+Pampa Norte — Minera Spence (Comuna de Sierra Gorda, Región de Antofagasta; 100% propiedad
+de BHP): Tras completar en junio de 2024 las modificaciones a su planta concentradora iniciadas en
+agosto de 2022 ( Spence Growth Option , SGO), Spence alcanzó una producción récord de ~255 kt en
+FY2025 y entregó 212,6 kt en FY2026 (con una guía de ~210–230 kt para FY2027 y ~235 ktpa a
+mediano plazo, MPC Markets Mosaic, 2026 ). Representando aproximadamente el 11% del EBITDA
+cuprífero de BHP ( BHP Chilean Copper Site Tour, 2024 ), Spence aportó del orden de US$ 1.950
+millones de EBITDA en FY2026 [E] (frente a ~US$ 1.350 millones en FY2025). Sin embargo, el propio
+reporte oficial de BHP advierte que la guía de producción de Spence permanece condicionada a la
+remediación exitosa de las anomalías estructurales detectadas en su depósito de relaves ( Tailings
+Storage Facility , TSF) ( BHP Results FY2024 ).
+Pampa Norte — Compañía Minera Cerro Colorado (Comuna de Pozo Almonte, Región de Tarapacá;
+100% propiedad de BHP): Tras operar durante 30 años desde 1994 extrayendo aguas subterráneas del
+acuífero Pampa Lagunillas, Cerro Colorado produjo 49 kt en FY2023 y apenas 11 kt en el primer
+semestre de FY2024 antes de entrar en cierre temporal ( care and maintenance ) en diciembre de
+2023 por el vencimiento de su Resolución de Calificación Ambiental (RCA) y las restricciones judiciales
+impuestas por el Primer Tribunal Ambiental ( Mining Digital, 2026 ; 1TA, 2021 ). Autorizada por
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 7 de 32
+
+--- Página 8 ---
+Sernageomin para permanecer en cierre temporal hasta 2028, la faena genera hoy flujo operativo nulo
+(y costos de cuidado y mantención), manteniendo inmovilizados 1.700 millones de toneladas de
+recursos minerales inferidos con una ley media de 0,36% de cobre (~6,12 millones de toneladas de
+cobre fino contenido, BHP Results FY2024 ).
+Figura 2. Panel izquierdo: Participación de Minera Escondida y Pampa Norte (Spence) en el Underlying EBITDA
+consolidado de BHP Group en FY2026 (US$ 32.900 millones). Panel derecho: Proyección de la caída estructural de
+producción en Chile (ktpa) y escalada del costo unitario C1 en Escondida (US$/lb) entre FY2025 y FY2031 en ausencia de
+las nuevas Resoluciones de Calificación Ambiental (RCAs) de expansión y optimización. Fuente: Elaboración propia con
+datos de BHP Financial Results FY2026 y MPC Markets Mosaic (2026) . [V/E]
+En términos agregados, las operaciones en Chile generaron US$ 14.350 millones de EBITDA consolidado
+en FY2026 ( 43,6% del total mundial de BHP Group y 79,7% de su división Cobre ). Incluso ajustando por
+el 42,5% de interés minoritario de Rio Tinto y JECO en Escondida, el EBITDA atribuible neto generado en
+Chile alcanza los US$ 9.080 millones (~32,8% del EBITDA atribuible mundial de BHP), sustentando un
+Valor Presente Neto (NAV atribuible a BHP) de US$ 78.400 millones (y un Valor Empresa consolidado de
+los activos chilenos de ~US$ 104.500 millones). Este valor justifica de manera directa el 37,2% de la
+capitalización bursátil actual de BHP (US$ 210.680 millones) , pero explica más del 50% de su prima de
+valoración por múltiplo frente a productoras puras de mineral de hierro o carbón.
+2.2. El declive geológico de leyes y la dependencia crítica de las RCAs de extensión y
+optimización (FY2027–FY2035)
+La vulnerabilidad financiera de BHP en Chile queda expuesta al examinar las tablas de proyecciones
+operacionales ( guidance ) incluidas en la presentación de resultados de agosto de 2026 ( MPC Markets
+Mosaic, 2026 ; BHP Exchange Release FY2026 ). Debido al agotamiento de las zonas de enriquecimiento
+secundario de alta ley en el rajo de Escondida y al cierre programado de la antigua planta concentradora
+Los Colorados, la propia administración de BHP proyecta que la producción de Escondida caerá desde
+1.261 kt en FY2026 a un rango de 1.000–1.100 kt en FY2027 (-13% a -21%), y se contraerá a un promedio
+de apenas 900–1.000 ktpa entre FY2028 y FY2031 (-25% respecto a FY2025) . Simultáneamente, el
+costo unitario de Escondida está proyectado al alza desde US$ 1,07/lb en FY2026 a US$ 1,20–1,50/lb en
+FY2027 y a US$ 1,30–1,60/lb en el mediano plazo (FY2028–FY2031) , lo que implica una inflación
+estructural de costos reales de entre +21% y +50%.
+Para evitar que este declive geológico destruya su capacidad de generación de caja en la década de 2030,
+BHP ha diseñado un programa de inversiones de capital (CAPEX) en Chile por entre US$ 10.700 millones y
+US$ 14.700 millones (hasta US$ 15.000 millones) ( Mining Technology, 2026 ; Mining Weekly, 2026 ), cuya
+viabilidad financiera depende íntegramente de la obtención oportuna y sin judicialización de un conjunto
+crítico de Resoluciones de Calificación Ambiental (RCAs) ante el Servicio de Evaluación Ambiental (SEA)
+y de más de 500 permisos sectoriales:
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 8 de 32
+
+--- Página 9 ---
+  Nueva Planta Concentradora de Minera Escondida (CAPEX estimado: US$ 5.900 millones) y Obras
+Tempranas / Lixiviación de Sulfuros (US$ 1.300 millones): En marzo de 2026 BHP ingresó a
+evaluación el proyecto para construir una nueva planta concentradora en reemplazo de Los Colorados
+por US$ 5.900 millones, y en julio de 2026 obtuvo de la Comisión de Evaluación Ambiental de
+Antofagasta el primer permiso ambiental inicial para obras tempranas de lixiviación de sulfuros e
+infraestructura eléctrica por US$ 1.300 millones ( Mining Technology, 2026 ). Sin la aprobación ambiental
+definitiva y la licencia social para la nueva concentradora y la expansión del depósito de relaves Laguna
+Seca, Escondida perderá de forma permanente entre 300.000 y 400.000 toneladas anuales de cobre
+fino a partir de FY2029.
+  Extensión Operacional y Reapertura de Compañía Minera Cerro Colorado por 20 años (CAPEX
+estimado: US$ 1.500 millones): El 1 de julio de 2026, BHP ingresó al SEIA el Estudio de Impacto
+Ambiental (EIA) denominado "Extensión Operacional de Compañía Minera Cerro Colorado" por US$
+1.500 millones, buscando reabrir el yacimiento en la comuna de Pozo Almonte hacia fines de la década
+(2029–2030) por un horizonte de 20 años mediante el uso de aguas residuales tratadas y agua
+desalinizada ( International Mining, 2026 ; MINING.COM, 2026 ). Sin embargo, la oposición o
+desconfianza de las comunidades indígenas Aymara de Pampa Lagunillas —que sufrieron durante tres
+décadas la desecación de su bofedal y debieron litigar ante el Primer Tribunal Ambiental y la Corte
+Suprema para frenar el bombeo— pone en severo entredicho la obtención de la RCA dentro de los
+plazos previstos por el directorio.
+  Desbotellamiento de Concentradora, Lixiviación de Sulfuros (SaL) y Remediación del Tranque de
+Relaves (TSF) en Minera Spence (CAPEX estimado: US$ 1.800–2.500 millones): En Spence, la
+extensión de vida útil por 50 años aprobada originalmente en 2022 enfrenta dos cuellos de botella
+críticos: la necesidad de nuevas RCAs para aplicar tecnologías de lixiviación de calcopirita ( BHP Leach /
+SaL ) que utilicen la capacidad latente del área de cátodos (SX-EW), y la urgente remediación
+geotécnica de las anomalías estructurales del muro y cubeta del depósito de relaves TSF ( BHP Results
+FY2024 ). Una falla geotécnica o una paralización regulatoria del TSF de Spence detendría de inmediato
+su línea de concentrado (~150 ktpa de cobre equivalente).
+  Proyectos en Gestación y Expansión Transfronteriza (Distrito Vicuña — Filo del Sol y Josemaría, y
+Exploración en el Norte Grande): En FY2025 BHP desembolsó US$ 2.100 millones para adquirir el 50%
+de participación en el joint venture no operado Vicuña junto a Lundin Mining en la frontera chileno-
+argentina (con un presupuesto adicional de US$ 800 millones al 100% en 2026 para estudios de
+prefactibilidad y decisión final de inversión, FID, de la Etapa 1 hacia fines de 2026, BHP Exchange
+Release FY2026 ). La viabilidad logística, portuaria, hídrica (desalación en la costa chilena y bombeo
+transandino) y criosférica (protección de glaciares y ambiente periglaciar) de estos proyectos en
+gestación depende directamente de la reputación ambiental de BHP ante las autoridades y
+comunidades chilenas.
+Activo / Proyecto Propiedad Producción EBITDA CAPEX NAV RCA / Permiso Crítico
+en Chile BHP FY   (kt FY   en Atribuible y Factor de Riesgo
+Cu) [V] (US$ Riesgo BHP (US$ Socioambiental
+MM) (US$ MM) [E]
+[V/E] MM) [V]
+Minera Escondida 57,5%                   –       EIA Nueva
+(Operación actual (Consol.       Concentradora (US$
++ Concentradoras) 100%) 5,9B) y Lixiviación
+(US$ 1,3B); pasivo en
+Salar de Punta Negra
+y Monturaqui; huelgas
+y accidentes.
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 9 de 32
+
+--- Página 10 ---
+Activo / Proyecto Propiedad Producción EBITDA CAPEX NAV RCA / Permiso Crítico
+en Chile BHP FY   (kt FY   en Atribuible y Factor de Riesgo
+Cu) [V] (US$ Riesgo BHP (US$ Socioambiental
+MM) (US$ MM) [E]
+[V/E] MM) [V]
+Pampa Norte: 100,0%                –       Remediación de
+Minera Spence      anomalías en depósito
+(Concentradora de relaves (TSF); RCA
+SGO + Cátodos) extensión lixiviación;
+judicialización sindical
+(demanda US$
+8,58M).
+Pampa Norte: 100,0%    (   kt -             EIA Extensión
+Cerro Colorado FY   ) Operacional por 20
+(Cierre temporal / años (julio 2026);
+Reapertura) daño al bofedal
+Pampa Lagunillas y
+oposición/litigio de
+comunidades Aymara.
+Proyectos en 50,0% / En estudio -         +      Permisos
+Gestación (JV 100,0% binacionales,
+Vicuña / Nuevas servidumbres de
+Lixiviaciones) acueductos de agua
+desalada, afectación
+periglaciar y rechazo
+en corredores
+logísticos.
+Total Cartera BHP Ponderado                          43,6% del EBITDA
+Chile (       – consolidado de BHP y
+Op  )       37,2% de su
+Capitalización
+Bursátil dependen de
+la licencia social y
+ambiental en Chile.
+Capítulo 3. Con fl ictividad Estructural con los Trabajadores: Sindicatos,
+Huelgas, Accidentabilidad, Jornadas Extraordinarias y Deslocalización
+Laboral vía Automatización (IROC Santiago)
+El primer frente de vulnerabilidad operativa que amenaza la continuidad de los flujos de caja de BHP en
+Chile radica en el deterioro estructural de sus relaciones laborales e industriales. Lejos de construir un
+modelo de relaciones laborales cooperativas acorde con las elevadísimas rentas ricardianas de sus
+yacimientos (donde el margen EBITDA alcanzó el 70% en FY2026), la administración de BHP ha
+implementado durante la última década una estrategia dual caracterizada, por un lado, por la
+confrontación cíclica en las negociaciones colectivas y la judicialización contra las organizaciones
+sindicales, y, por otro, por la sustitución acelerada de fuerza de trabajo regional mediante la
+automatización de equipos de extracción y la deslocalización de la operación hacia la capital del país
+(Santiago) .
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 10 de 32
+
+--- Página 11 ---
+3.1. De la huelga de 44 días en Escondida (2017) a las crisis de 2024 y la judicialización contra el
+Sindicato de Spence en octubre de 2026
+La evidencia empírica demuestra que los conflictos laborales en las operaciones chilenas de BHP no son
+eventos aislados, sino crisis sistémicas recurrentes cada vez que vencen los contratos colectivos o se
+alteran unilateralmente las métricas de bonificación por productividad:
+La Huelga de 44 Días en Minera Escondida (Febrero–Marzo de 2017): Convocada por los 2.500
+afiliados del Sindicato N°1 de Trabajadores de Minera Escondida ante el intento de la empresa de
+rebajar beneficios adquiridos e imponer escalas salariales inferiores para nuevos contratados,
+constituyó la paralización más prolongada en la historia de la gran minería privada chilena ( IndustriALL,
+2017 ). La huelga culminó sin acuerdo tras acogerse el sindicato al artículo 369 del Código del Trabajo
+(prórroga forzosa del contrato anterior por 18 meses), dejando a BHP una pérdida directa de
+producción superior a 150.000 toneladas de cobre fino, un impacto financiero negativo de más de US$
+740 millones en flujo de caja y una contracción de más de un punto porcentual en el IMACEC nacional
+de Chile durante el primer trimestre de 2017.
+La Huelga de Agosto de 2024 en Minera Escondida y el Costo de Comprar Paz Temporal: Tras el
+vencimiento del convenio colectivo firmado en agosto de 2021 (que había requerido un bono de
+término de conflicto de $21 millones CLP más $3 millones en crédito blando por trabajador, Guía
+Minera, 2021 ), el 13 de agosto de 2024 los cerca de 2.400 socios del Sindicato N°1 rechazaron la oferta
+de la empresa ($18 millones CLP) e iniciaron una huelga efectiva que paralizó el mayor yacimiento
+cuprífero del mundo durante 72 horas ( La Tercera, 2024 ). Para evitar una repetición del colapso de
+2017 en medio de la estrechez mundial de concentrados, BHP debió ceder el 16 de agosto de 2024
+otorgando un paquete récord de $30 a $33 millones de pesos chilenos por trabajador (~US$ 34.000–
+35.000 per cápita) ( T13, 2024 ; Reporte Minero, 2024 ), lo que significó un desembolso extraordinario
+superior a US$ 85 millones que el propio reporte semestral de BHP destacó como un factor de presión
+al alza sobre los costos laborales del ejercicio FY2025 ( LSE BHP FY2025 Results ).
+El Conflicto con el Sindicato N°2 de Supervisores y Staff de Escondida (Septiembre–Octubre de
+2026): En septiembre de 2026, el Sindicato N°2 de Supervisores y Staff de Escondida rechazó con un
+95% de los votos la oferta final de BHP ($23,5 a $28 millones CLP), aprobando la huelga legal sobre la
+base de un petitorio valorizado en US$ 69,5 millones ( La Tercera, 2026 ; Revista Nueva Minería, 2026 ).
+Sólo tras agotar la mediación obligatoria, el 14 de octubre de 2026 BHP evitó la paralización total de la
+supervisión de la mina pagando un bono de $30 millones CLP por supervisor más un nuevo bono de
+vacaciones a todo evento de $1,5 millones CLP y reajustes de asignaciones por el período 2026–2029
+( CNN Chile, 2026 ; The Clinic, 2026 ).
+La Judicialización Extrema en Minera Spence (15 de Octubre de 2026): En un hecho inédito que
+refleja la ruptura del diálogo social, el 15 de octubre de 2026 se reveló que Minera Spence (BHP)
+ingresó una demanda civil de indemnización de perjuicios por responsabilidad extracontractual ante
+el Juzgado Civil de Antofagasta en contra de su propio Sindicato de Trabajadores (organización que
+agrupa a 1.082 socios, equivalentes al 96% de la dotación de operarios), exigiendo el pago de
+$8.450.685.270 pesos chilenos (US$ 8,58 millones) ( Diario Minero, 2026 ; CNN Chile, 2026 ; Diario
+Financiero, 2026 ). La disputa se originó en mayo de 2026 cuando el sindicato solicitó una
+compensación de $5 millones por trabajador ante la caída en los bonos variables de producción del año
+fiscal 2026 pese a las utilidades récord de BHP. Ante la negativa de la empresa, se produjeron dos
+paralizaciones de brazos caídos (30 de junio al 1 de julio y 7 al 8 de julio de 2026) con ausentismo de
+hasta 413 operarios por jornada, dejando operativos apenas 3 de los 34 camiones de extracción,
+deteniendo la planta de cátodos por 23 horas y la concentradora por 26 horas, con una pérdida de 567
+toneladas de cobre fino y 2 toneladas de molibdeno . Demandar civilmente el patrimonio de la
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 11 de 32
+
+--- Página 12 ---
+organización sindical por US$ 8,58 millones radicaliza la relación capital-trabajo y anticipa huelgas de
+alta intensidad en los próximos ciclos de negociación.
+"La controversia se originó el pasado 5 de mayo, cuando la organización gremial presentó a la gerencia
+general una lista de requerimientos económicos... Mediante una misiva formal el 29 de mayo, el
+sindicato fundamentó el pago como una 'petición de participación del ganancial que colaboramos en
+generar para la empresa'... La inactividad se tradujo en la pérdida de 567 toneladas de cobre fino y dos
+toneladas de molibdeno. Considerando el precio promedio de venta obtenido por Spence en julio, fijado
+en US$ 6,75 por libra de cobre, el valor de la producción perdida se sitúa en US$ 8,58 millones." —
+Diario Minero (15 de octubre de 2026) .
+3.2. Accidentabilidad, jornadas extraordinarias y contradicciones de la automatización y
+deslocalización hacia Santiago (IROC)
+A la conflictividad remuneratoria se suma una profunda contradicción entre el discurso corporativo de
+"seguridad primero" ( Zero Harm ) y la realidad operacional en terreno. En septiembre de 2026, el
+fallecimiento de un trabajador en un accidente en Minera Escondida obligó a suspender las operaciones
+del yacimiento y motivó exigencias sindicales de una investigación exhaustiva sobre las condiciones de
+fatiga, subcontratación y presión por metas de tonelaje ( Mundo Minería, 2026 ; Revista Nueva Minería,
+2026 ). Previamente, en agosto de 2025, el Sindicato N°1 de Escondida ya había levantado una alerta
+pública denunciando graves incidentes de seguridad protagonizados por camiones de extracción
+autónomos —incluyendo volcamientos, sobrepaso de pretiles de contención e impactos contra vehículos
+menores en el rajo— ( Diario Minero, 2025 ; Reporte Minero, 2025 ). Estos riesgos se ven exacerbados por el
+uso intensivo de jornadas excepcionales de trabajo (sistemas 7x7 y 4x3 en turnos de 12 horas continuas
+a más de 3.100 metros sobre el nivel del mar) y el recurso sistemático a horas extraordinarias y personal
+de relevo para suplir dotaciones reducidas tras los programas de desvinculación por automatización.
+Más aún, la estrategia tecnológica de BHP ha configurado un proceso agudo de deslocalización de la
+actividad laboral y vaciamiento de capital humano en las regiones mineras . Entre 2022 y 2024, BHP
+ejecutó el despliegue de 85 camiones de extracción autónomos y 11 perforadoras autónomas en
+Escondida y Spence ( Portal Minero, 2022 ), alcanzando en abril de 2024 el 100% de autonomía en la flota
+de 34 camiones CAEX Komatsu 980E-5 AT y 5 perforadoras de Minera Spence ( BHP Media Centre,
+2024 ). Lejos de radicar los empleos tecnológicos de control, ciencia de datos y despacho autónomo en
+Antofagasta, Calama o Iquique, el 15 de octubre de 2024 BHP inauguró una nueva filial denominada BHP
+Copper Advanced Services (CAS) , instalando su Centro Integrado de Operaciones Remotas (IROC) en
+3.400 m² del Edificio Titanium, en el distrito financiero de Las Condes, Santiago de Chile , mediante una
+inversión de US$ 48,3 millones y un enlace submarino de fibra óptica desde Antofagasta a Santiago que
+transmite 5,4 Terabytes diarios para operar remotamente las plantas y maquinarias de Escondida y Spence
+con más de 230 profesionales radicados en la capital ( Revista Nueva Minería, 2024 ). Este diseño
+institucional contradice abiertamente las declaraciones corporativas de compromiso con el desarrollo
+regional: las regiones de Antofagasta y Tarapacá retienen íntegramente el pasivo físico (cráteres mineros,
+botaderos de estériles, tranques de relaves, consumo energético y polvo), mientras los empleos de alta
+calificación y sus remuneraciones se deslocalizan a 1.300 kilómetros de distancia en la Región
+Metropolitana.
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 12 de 32
+
+--- Página 13 ---
+Eje de Conflicto Operación Evidencia Documental Impacto Contradicción con
+Laboral Afectada y Hechos Verificados Financiero / Declaraciones ESG y
+(2017–2026) Cuantificación Riesgo Operacional
+[V/E]
+Huelgas en Minera Huelga de 44 días en >US$    M Inestabilidad recurrente
+Negociación Escondida 2017 (2.500 operarios); perdidos en      cada 36 meses; erosión
+Colectiva Reglada (Sindicato N°1 huelga de 3 días en ~US$   M en de márgenes en ciclos de
+y Sindicato agosto 2024 bonos      caída de leyes; riesgo de
+N°2) destrabada con bono ~US$   M en paralización simultánea de
+de $33M CLP; rechazo bonos oct      faenas.
+de 95% de
+supervisores (Sindicato
+N°2) en sep. 2026 y
+acuerdo por $30M CLP
+en oct. 2026.
+Judicialización Minera Spence Dos huelgas de brazos    t Cu fino Infracción al espíritu de
+Antisindical y (Sindicato de caídos (30 jun–1 jul y perdidas  diálogo social (Criterio 10
+Paros Operativos Trabajadores, 7–8 jul 2026) por baja demanda civil por Copper Mark y directrices
+1.082 socios) en bonos de $        M CLP OCDE); radicalización
+producción; sólo 3 de (US$     sindical en el 96% de la
+34 camiones millones) plantilla de Spence.
+operativos. Demanda
+civil de BHP (15 oct.
+2026) en Juzgado Civil
+de Antofagasta.
+Accidentabilidad Minera Denuncia del Sindicato Paralización de Contradicción directa con
+Grave, Fatal y Escondida y N°1 (ago. 2025) por rajo / plantas por la promesa de que la
+Riesgo en Equipos Minera Spence volcamientos y fiscalización autonomía elimina riesgos;
+Autónomos colisiones de camiones Sernageomin  coexistencia riesgosa
+autónomos; accidente multas y litigios entre flotas autónomas y
+fatal en Escondida personal en rajo.
+(sep. 2026) con
+suspensión de faenas.
+Jornadas Escondida Turnos 7x7 y 4x3 de Alza en Deterioro de salud
+Excepcionales y (>3.100 msnm) 12 horas con extensión ausentismo (hasta ocupacional (hipobaria
+Sobrecarga en y Spence de horas extra y    intermitente crónica,
+Altura Geográfica (>1.700 msnm) reemplazos ante operarios/turno en fatiga del sueño) y
+reducción de dotación Spence) y reclamos ante la Dirección
+por automatización. enfermedades del Trabajo.
+profesionales
+Deslocalización Escondida y Despliegue de 85 Inversión de US$ Drenaje de capital humano
+Laboral y Spence → camiones CAEX y 11     M en calificado y renta salarial
+Automatización Edificio perforadoras Santiago  fuga desde
+(IROC Santiago) Titanium autónomas (100% estimada de >US$ Antofagasta/Tarapacá
+(Santiago) autonomía en Spence   M/año en masa hacia la Región
+en abr. 2024); creación salarial regional Metropolitana; ruptura del
+de BHP Copper [E] pacto territorial.
+Advanced Services
+(CAS) en Santiago (oct.
+2024).
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 13 de 32
+
+--- Página 14 ---
+Capítulo 4. Desafectación Territorial, Enclaves Minero-Industriales,
+Proveedores Locales, Deudas Ambientales Impagas e Infracción a la
+Sustentabilidad Fuerte y Débil
+El segundo pilar de insostenibilidad de la operación de BHP en Chile se sitúa en la esfera territorial,
+ecológica y comunal. Desde el marco analítico de la Economía Ecológica y la teoría del Metabolismo
+Socioeconómico (Georgescu-Roegen, 1971; Daly, 1990; Martínez-Alier, 2002), la megaminería de pórfidos
+cupríferos en el Desierto de Atacama opera como un sistema termodinámicamente abierto que importa
+grandes flujos de energía de baja entropía (electricidad de potencia firme y combustibles fósiles), agua
+continental o desalinizada y reactivos químicos (ácido sulfúrico, explosivos de nitrato de amonio,
+colectores de flotación), para exportar al mercado mundial un flujo concentrado de cobre metálico y
+subproductos (aproximadamente 1,47 millones de toneladas anuales en el caso de BHP Chile), dejando
+depositado en el territorio regional más del 99% de la masa extraída en forma de roca estéril, relaves
+espesados o convencionales, ripios de lixiviación, salmueras de descarte y emisiones atmosféricas 3 .
+4.1. Infracción simultánea a los principios de Sustentabilidad Débil y Sustentabilidad Fuerte
+En la literatura económica del desarrollo sustentable coexisten dos paradigmas normativos de evaluación,
+y la evidencia empírica demuestra que el modelo operativo de BHP en las regiones de Antofagasta y
+Tarapacá infringe ambos:
+Infracción al Paradigma de Sustentabilidad Débil (Solow, 1974; Hartwick, 1977): La Regla de Hartwick
+establece que una economía extractiva que agota un stock de capital natural no renovable ( K , como el
+N
+mineral de cobre de alta ley de Escondida, Spence y Cerro Colorado) sólo mantiene una senda de
+consumo no decreciente intergeneracional si invierte la totalidad de las rentas ricardianas (rentas de
+Hotelling) generadas por la extracción en la formación de capital manufacturado ( K ), capital
+M
+humano ( K ) y capital tecnológico/institucional dentro del territorio afectado , suponiendo
+H
+sustituibilidad entre factores. En el caso de BHP, lejos de consolidar un clúster industrial diversificado
+en Antofagasta e Iquique que sustituya la renta minera cuando los yacimientos se agoten, la
+corporación: (i) remesa al exterior la abrumadora mayoría del excedente en forma de dividendos (US$
+110.000 millones globales desde 2016); (ii) deslocaliza su centro de ingeniería y operación remota (BHP
+Copper Advanced Services / IROC) hacia el barrio financiero de Santiago; y (iii) concentra las compras
+de bienes de capital de alta complejidad (camiones autónomos, plantas desaladoras, sistemas BESS de
+baterías de Sungrow) en proveedores transnacionales foráneos, dejando un déficit crónico de
+infraestructura cívica, hospitalaria y educacional en las comunas de extracción y tránsito.
+Infracción al Paradigma de Sustentabilidad Fuerte (Daly, 1990; Ekins et al., 2003): La economía
+ecológica demuestra que el capital manufacturado y el capital natural son complementarios y no
+sustitutos en funciones de soporte vital, y define como Capital Natural Crítico ( K ) a aquellos
+NC
+ecosistemas cuya destrucción es irreversible a escala histórica humana y carece de sustituto
+tecnológico. Los acuíferos milenarios de aguas fósiles y los bofedales y salares altoandinos del Desierto
+de Atacama (Salar de Punta Negra, cuenca de Monturaqui-Negrillar-Tilopozo y bofedal de Pampa
+Lagunillas) constituyen ejemplos arquetípicos de Capital Natural Crítico. Su agotamiento y desecación
+por el bombeo minero de BHP entre 1990 y 2020 violó la regla biofísica fundamental de Daly (que
+prohíbe extraer recursos renovables o semirrenovables por encima de su tasa natural de recarga). La
+posterior transición de Escondida y Spence al uso de agua de mar desalinizada permite mantener la
+molienda industrial de sulfuros, pero no sustituye ni regenera el ecosistema altoandino destruido ,
+dejando una deuda ecológica impaga con los pueblos originarios Lickanantay (Atacameño) y Aymara.
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 14 de 32
+
+--- Página 15 ---
+4.2. Deudas ambientales no pagadas: Salar de Punta Negra, Monturaqui-Negrillar-Tilopozo y
+Pampa Lagunillas
+El historial de litigios ambientales contra las filiales chilenas de BHP acredita la existencia de pasivos
+ambientales de magnitud multimillonaria cuya remediación efectiva permanece inconclusa:
+1. El colapso hidrogeológico del Salar de Punta Negra y del acuífero Monturaqui-Negrillar-Tilopozo
+(Minera Escondida): Durante casi tres décadas desde su inauguración en 1990, Minera Escondida extrajo
+caudales masivos de agua subterránea desde la cuenca del Salar de Punta Negra y el campo de pozos de
+Monturaqui-Negrillar-Tilopozo a un costo económico cercano a cero, superando en varios órdenes de
+magnitud la recarga natural en una de las zonas más hiperáridas del planeta. En abril de 2020, el Consejo
+de Defensa del Estado (CDE) interpuso ante el Primer Tribunal Ambiental (1TA, Causa R-2-2020) una
+demanda por daño ambiental grave e irreparable contra Minera Escondida ( Business & Human Rights
+Resource Centre, 2020 ; Fundación Terram, 2021 ). En junio de 2021, para evitar una sentencia condenatoria
+tras la salida a bolsa de sus bonos verdes y el inicio de su proceso de acreditación en The Copper Mark ,
+BHP suscribió un acuerdo de conciliación con el CDE y las comunidades indígenas atacameñas de Peine,
+Socaire, Camar y Talabre, comprometiendo un plan de gobernanza, estudios y medidas por hasta US$ 93
+millones ( 1TA, 2021 ; Business & Human Rights, 2021 ), cuyos avances fueron revisados por el 1TA en
+audiencia de octubre de 2025 ( 1TA, 2025 ). Desde una perspectiva financiera forense, US$ 93 millones
+distribuidos en varios años equivalen a apenas el 0,75% del EBITDA de un solo ejercicio de Minera
+Escondida (US$ 12.400 millones en FY2026), o a menos de 68 horas de operación de la mina . El ahorro
+de capital que BHP obtuvo al postergar durante 25 años la inversión en plantas desaladoras (~US$ 4.000
+millones de CAPEX ahorrados entre 1990 y 2015 capitalizados al WACC corporativo) supera los US$ 9.500
+millones [E], lo que demuestra que más del 99% de la deuda ecológica hídrica de Escondida jamás fue
+internalizada en sus balances.
+2. El daño ambiental al Sistema Lacustre y Bofedal de Pampa Lagunillas (Compañía Minera Cerro
+Colorado): En la Región de Tarapacá (comuna de Pozo Almonte), la extracción de agua subterránea por
+parte de Cerro Colorado desde el acuífero Pampa Lagunillas provocó el abatimiento del nivel freático, la
+desecación de vertientes y la degradación del bofedal altoandino de Lagunillas, sustento ancestral de
+comunidades indígenas Aymara ( OCMAL, 2019 ; London Mining Network, 2021 ). En agosto y diciembre de
+2021, el Primer Tribunal Ambiental decretó medidas cautelares ordenando la paralización de la extracción
+de agua desde el acuífero Lagunillas ( 1TA, agosto 2021 ; 1TA, diciembre 2021 ), autorizando posteriormente
+sólo extracciones mínimas transitorias hasta el vencimiento de su RCA en diciembre de 2023 y aprobando
+una conciliación en noviembre de 2023 sujeta a fiscalización judicial en terreno hasta 2026 ( 1TA, 2023 ;
+1TA, marzo 2026 ). Técnicamente, la medida de "recarga artificial" o riego superficial del bofedal
+implementada por la minera constituye un paliativo precario: un bofedal altoandino es un histosol turboso
+alimentado por presión piezométrica ascendente; cuando el acuífero se desacopla hidráulicamente, la
+oxidación de la turba libera carbono y destruye su estructura capilar de forma irreversible.
+4.3. Metabolismo de enclaves comunales, falta de proveedores locales, asimetría fiscal y tutela
+por Daño Contingente (Art. 2333 CC)
+La operación de los mega-yacimientos de BHP no ocurre en el vacío geográfico: requiere la conformación
+de enclaves de servicio industrial, energético, químico y portuario en diversas comunas de las regiones
+de Antofagasta y Tarapacá que internalizan involuntariamente las externalidades negativas mientras
+quedan excluidas de la renta cuprífera:
+El Enclave Industrial-Portuario y Energético de Mejillones: Para que Escondida y Spence procesen
+millones de toneladas de mineral sulfurado y lixiviado las 24 horas del día, la bahía y comuna de
+Mejillones actúa como el sumidero termodinámico y nodo de riesgo químico crítico del Norte Grande.
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 15 de 32
+
+--- Página 16 ---
+En Mejillones se concentran: (i) el parque termoeléctrico a carbón y gas (ENGIE, AES Andes, Central
+Atacama) que provee la potencia firme e inercia nocturna del SEN y acumula más de 80 hectáreas de
+depósitos de cenizas con metales pesados en el borde urbano; (ii) los terminales marítimos y
+estanques que almacenan 220.000 toneladas de ácido sulfúrico con despacho continuo de camiones
+las 24 horas para la lixiviación minera; (iii) el complejo petroquímico de amoníaco anhidro y nitrato de
+amonio (Enaex Prillex, plantas de ácido nítrico PANNA) que abastece los explosivos para las tronaduras
+diarias de los rajos de BHP, con emisiones de gases nitrosos (NO ) y dióxido de azufre (SO ); y (iv) el
+x 2
+corredor vial de las rutas B-262 y B-272, saturado por el tránsito diario de centenares de camiones con
+sustancias peligrosas (como lo evidenció el derrame de un camión con ácido nítrico que obligó a una
+evacuación de emergencia en Mejillones en octubre de 2026, Diario Minero, 2026 ) 4 .
+Los Enclaves de Sierra Gorda, Pozo Almonte, Coloso (Antofagasta) y Calama: La comuna de Sierra
+Gorda (localidades de Baquedano y Sierra Gorda) alberga directamente a Minera Spence y soporta las
+plumas de material particulado respirable (MP y MP ) de las tronaduras, chancado y depósitos de
+10 2,5
+ripios, junto a una población flotante conmutante que utiliza infraestructura vial y de urgencia comunal
+sin tributar ni residir en el territorio. En el borde costero sur de Antofagasta, el enclave de Puerto
+Coloso recibe los concentraductos de Escondida y alberga las mega-plantas desaladoras por ósmosis
+inversa (EWS y EWSE, con capacidad superior a 3.800 l/s), cuyas captaciones masivas de agua de mar
+provocan arrastre y atrapamiento de larvas e ictioplancton bentónico ( entrainment e impingement ) y
+descargan plumas hipersalinas densas con residuales químicos de pretratamiento y anti-incrustantes
+sobre el ecosistema costero.
+La Ecuación de Asimetría Fiscal y el Fracaso Relativo del Desarrollo de Proveedores Locales: En
+virtud del artículo 24 de la Ley de Rentas Municipales chilena (D.L. N° 3.063), la patente municipal tiene
+un tope legal máximo absoluto de 8.000 Unidades Tributarias Mensuales (UTM) (~US$ 550.000
+anuales), lo que convierte el aporte tributario directo de instalaciones multimillonarias a los
+presupuestos municipales en una cifra marginal. Al mismo tiempo, aunque BHP impulsó desde 2009–
+2011 junto a Codelco el Programa de Proveedores de Clase Mundial ( Codelco, 2026 ; Repositorio UCN ),
+las evaluaciones independientes del clúster minero de Antofagasta demuestran una estructura dual
+regresiva: mientras BHP declara en su reporte global FY2025 pagos totales a proveedores por US$
+24.800 millones, de los cuales apenas US$ 3.200 millones (12,9%) se destinan a nivel mundial a
+pequeñas empresas locales e indígenas ( BHP SEC Form 6-K, 2025 ), en el Norte Grande los contratos
+intensivos en renta tecnológica (flotas autónomas, sistemas de almacenamiento eléctrico, ingeniería de
+procesos y software) son adjudicados a matrices extranjeras o filiales en Santiago, dejando a las
+PYMES de Antofagasta, Calama e Iquique atrapadas en servicios intensivos en mano de obra de baja
+rentabilidad (aseo industrial, alimentación, transporte secundario y maestranza básica) sujetos a severa
+presión licitatoria.
+Exposición a la Tutela Civil Preventiva por Daño Contingente (Artículo 2333 del Código Civil): La
+acumulación de amenazas químicas, viales, geotécnicas (anomalías en el depósito de relaves TSF de
+Spence) e hidrogeológicas en los enclaves que abastecen a BHP configura todos los requisitos
+dogmáticos de la acción popular preventiva por daño contingente del artículo 2333 del Código Civil
+chileno (en relación con los artículos 948 y 2329 del mismo cuerpo legal). A diferencia de la acción
+ambiental reparatoria de la Ley N° 19.300, el artículo 2333 CC obliga a los tribunales civiles a decretar
+medidas concretas de hacer o no hacer —incluyendo la paralización de operaciones o flujos logísticos
+riesgosos y la constitución de cauciones multimillonarias proporcionales al EBITDA del operador—
+cuando por imprudencia o negligencia (déficit de Mejor Técnica Disponible, MTD) se amenaza con un
+daño contingente cuantificable a personas indeterminadas en las comunas de enclave 5 .
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 16 de 32
+
+--- Página 17 ---
+Comuna / Operación o Flujo Externalidad Asimetría Fiscal y Riesgo Jurídico (Ley
+Territorio de Metabolizado de BHP Negativa Económica [V/E] 19.300 / Art. 2333
+Enclave Internalizada por Código Civil)
+Residentes
+Salar de Punta Minera Escondida Abatimiento Conciliación CDE Revisión judicial
+Negra y Cuenca (extracción histórica freático irreversible, de US$ 93M continua en 1TA (oct.
+Monturaqui de aguas desecación de representa sólo 2025); impugnación
+(Antofagasta / subterráneas fósiles vegas y bofedales, 0,75% del EBITDA de nuevas RCAs por
+San Pedro) 1990–2019). pérdida de hábitat FY26 de sinergia de impactos
+de flamencos y Escondida ; ahorro acumulativos.
+afectación cultural histórico de
+Lickanantay. desalación >US$
+9.500M [E].
+Pozo Almonte y Cía. Minera Cerro Degradación del Faena paralizada Medidas cautelares
+Pampa Lagunillas Colorado (bombeo bofedal de Pampa con US$ 1.500M del 1TA (2021–2026);
+(Región de acuífero Lagunillas Lagunillas, secado de CAPEX alta probabilidad de
+Tarapacá) 1994–2023; cierre de vertientes bloqueados a la reclamaciones
+temporal actual). Aymara y pérdida espera de indígenas (Convenio
+de empleo local aprobación del EIA 169 OIT) contra el
+tras el cierre ingresado en julio nuevo EIA.
+temporal de dic. de 2026.
+2023.
+Sierra Gorda y Minera Spence (rajo, Emisiones de Spence genera Guía productiva sujeta
+Calama (Región pilas de lixiviación, MP /MP , ~US$ 1.950M de a remediación del
+10 2,5
+de Antofagasta) planta concentradora vibraciones por EBITDA anual TSF; riesgo de acción
+SGO y tranque de tronaduras, mientras el civil preventiva (Art.
+relaves TSF). anomalías municipio percibe 2333 CC) por
+geotécnicas en el patente tope seguridad de relaves
+depósito de relaves marginal y sufre y polvo.
+TSF y conmutación déficit de salud y
+masiva sin arraigo equipamiento.
+local.
+Mejillones Respaldo eléctrico Saturación Tope de patente Cartera de demandas
+(Enclave nocturno 24/7 a atmosférica (SO , municipal (8.000 populares por Daño
+2
+Portuario, carbón/gas, acopio de NO , MP ), UTM D.L. 3.063) e Contingente (Art.
+x 2,5
+Químico y 220 kt de ácido corrosión química inexistencia de 2333 CC) sobre
+Termoeléctrico) sulfúrico, nitrato de doméstica (ISO royalty directo por almacenamiento
+amonio/amoníaco 9223), 80 ha de no albergar el rajo ácido, gases nitrosos,
+(Enaex) y rutas B- cenizas, efluente extractivo en la cenizas y transporte
+262/B-272. térmico marino y comuna. peligroso.
+derrames ácidos en
+ruta.
+Coloso y Ciudad Puerto de filtrado de Arrastre larval Pérdida del Cuestionamiento
+de Antofagasta concentrados, 4 marino multiplicador ambiental a nuevas
+acueductos y plantas ( entrainment ), salarial por ampliaciones de
+desaladoras (EWS / descarga de traslado del centro desalación y
+EWSE) de Escondida. salmuera remoto CAS/IROC conflictividad social
+hipersalina, al Edificio Titanium urbana en
+inflación en Santiago (US$ Antofagasta.
+inmobiliaria dual y 48,3M).
+fuga de sueldos
+hacia IROC
+Santiago.
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 17 de 32
+
+--- Página 18 ---
+Capítulo 5. Riesgo de Pérdida de la Certi fi cación The Copper Mark y la
+Contradicción Estructural del Compromiso de Descarbonización (Operación
+24/7 y Termoeléctricas a Carbón en el SEN)
+Un componente central en la tesis de valorización bursátil de BHP ante los fondos de inversión europeos,
+norteamericanos y australianos con mandato ESG ( Environmental, Social, and Governance ) consiste en
+presentar el cobre extraído de Escondida y Spence como "cobre verde y éticamente certificado", apto para
+abastecer las cadenas de suministro de vehículos eléctricos, redes de transmisión y centros de datos de
+inteligencia artificial. Para sostener esta narrativa, en noviembre de 2021 BHP obtuvo para Minera
+Escondida y Minera Spence la certificación internacional The Copper Mark ( BHP Media Release, 2021 ;
+reevaluada en el ciclo 2023–2026, The Copper Mark Participating Sites, 2024 ), apoyándose de manera
+prominente en el anuncio de que desde el año fiscal 2022 ambas faenas operan con "100% de energía
+eléctrica renovable" gracias a cuatro contratos de compraventa de energía (PPAs) suscritos con Enel
+Generación Chile y Colbún ( BHP Media Release, agosto 2021 ; Renewables Now, 2019 ).
+5.1. La falacia termodinámica y eléctrica del "100% Energía Verde" en operaciones mineras de
+24 horas en el Sistema Eléctrico Nacional (SEN)
+El escrutinio riguroso desde la ingeniería eléctrica de potencia y las leyes de la termodinámica revela una
+contradicción insalvable entre la contabilidad financiera contractual de emisiones de Alcance 2 ( Market-
+Based Scope 2 Accounting ) utilizada por BHP en sus reportes anuales y la física del flujo horario de
+electrones en el Sistema Eléctrico Nacional (SEN) del Norte Grande de Chile ( Location-Based / 24/7
+Physical Dispatch ) :
+1. Inelasticidad horaria de la carga minera 24/7 (~1.150 MW continuos): Los procesos electro-
+hidrometalúrgicos y de conminución de Minera Escondida (tres plantas concentradoras operativas, dos
+plantas de cátodos SX-EW, cuatro sistemas de impulsión de agua desalada desde Puerto Coloso que
+vencen una cota geodésica de 3.100 metros de altitud a lo largo de 180 km) y de Minera Spence
+(concentradora SGO, refinería electro-obtención y acueducto desde Mejillones) requieren un suministro
+eléctrico absolutamente continuo e ininterrumpido las 24 horas del día, los 365 días del año , con una
+demanda agregada de potencia firme en barra de aproximadamente 1.100 a 1.200 MW medios (~9,8 a
+10,5 TWh anuales). Una interrupción eléctrica de apenas minutos provoca el embancamiento de los
+molinos SAG y espesadores de relaves, la cristalización o golpe de ariete en los acueductos de alta presión
+y el cortocircuito o pasivación de las celdas electrolíticas (como quedó demostrado en el primer semestre
+de FY2025 cuando un corte eléctrico de dos semanas redujo severamente la producción de Copper SA,
+BHP HY25 Release ).
+2. El ciclo solar diurno frente a las 12–14 horas de oscuridad nocturna en el Desierto de Atacama: La
+matriz de generación renovable contratada en el Norte Grande es abrumadoramente solar fotovoltaica
+(complementada marginalmente por parques eólicos como Horizonte de Colbún). Entre las 08:00 y las
+17:30 horas, la radiación solar del Desierto de Atacama genera un excedente masivo de energía
+fotovoltaica que provoca congestión en las líneas de transmisión y vertimiento ( curtailment ) a costo
+marginal cero. Sin embargo, entre las 19:00 horas de la tarde y las 07:00 horas de la mañana siguiente
+(12 a 14 horas diarias en otoño-invierno), la generación solar fotovoltaica en el Norte Grande cae
+exactamente a 0 MW .
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 18 de 32
+
+--- Página 19 ---
+Figura 4. Perfil horario representativo (00:00 a 23:00 hrs) de la demanda eléctrica continua 24/7 de las operaciones de
+BHP en Chile (Escondida + Spence: ~1.150 MW planos) frente a la disponibilidad física de generación solar fotovoltaica
+diurna, aporte eólico/BESS y el respaldo termoeléctrico fósil (carbón y gas natural en Mejillones/Tocopilla) requerido para
+sostener la operación nocturna en el Sistema Eléctrico Nacional (SEN). Fuente: Elaboración propia con base en parámetros
+de consumo de Escondida/Spence y datos de ESS News (2026) . [E]
+3. El respaldo físico nocturno a carbón y gas natural en Mejillones y Tocopilla: Dado que los electrones
+en una red de corriente alterna sincronizada no pueden almacenarse en los cables ni distinguirse por
+contratos comerciales, durante toda la jornada nocturna la estabilidad de tensión, el control de frecuencia
+(50 Hz), la corriente de cortocircuito, la inercia rotacional síncrona y entre el 75% y el 85% de los
+megavatios físicos consumidos por los molinos y bombas de Escondida y Spence (~900 a 980 MW
+nocturnos) provienen físicamente del despacho de las centrales termoeléctricas a carbón y gas natural
+del subsistema Norte Grande del SEN (particularmente los complejos carboneros y térmicos emplazados
+en la zona saturada de Mejillones y Huasco/Tocopilla) 6 . Aunque BHP pagó en 2020 cerca de US$ 780
+millones para rescindir anticipadamente sus PPAs directos con las termoeléctricas a carbón Kelar y
+Angamos de AES Gener ( Renewables Now, 2020 ), dichas centrales u otras unidades térmicas del sistema
+continuaron despachando en el mercado spot nocturno del Coordinador Eléctrico Nacional para sostener
+físicamente los retiros de energía de los suministradores de BHP (Enel y Colbún).
+4. La prueba por confesión implícita de los contratos con Sungrow en junio de 2026: La propia actuación
+de BHP en junio de 2026 confirma esta vulnerabilidad física. El 4 de junio de 2026, BHP firmó acuerdos de
+largo plazo con la empresa tecnológica china Sungrow para instalar 195 MW de generación solar en sitio
+y 960 MWh de almacenamiento en baterías (BESS) (110 MW solares y 110 MW / 540 MWh de baterías en
+Escondida, más 85 MW solares y 85 MW / 420 MWh de baterías en Spence, ESS News, junio 2026 ;
+International Mining, junio 2026 ). Sin embargo, el análisis cuantitativo demuestra dos hechos
+contundentes: primero, estos sistemas recién entrarán en operación a partir del año fiscal 2029
+(FY2029) ; y segundo, una capacidad de almacenamiento total de 960 MWh distribuida a lo largo de 12
+horas nocturnas equivale a una potencia media de apenas 80 MW continuos, lo que cubre solamente el
+7,0% de la demanda nocturna combinada (~1.150 MW) de Escondida y Spence . En consecuencia, más
+del 75% de la energía nocturna consumida por BHP en Chile sigue dependiendo de la quema física de
+combustibles fósiles en el SEN, transfiriendo las emisiones reales de CO , SO , NO , mercurio y material
+2 2 x
+particulado a los habitantes de Mejillones mientras BHP reporta "cero emisiones de Alcance 2 basadas en
+mercado" en Londres, Nueva York y Melbourne.
+5.2. Auditoría de vulnerabilidad y riesgo de revocación del sello The Copper Mark y sanciones
+bajo la Directiva CSDDD de la Unión Europea
+El marco de aseguramiento de The Copper Mark ( Risk Readiness Assessment , RRA v2.0/v3.0) exige el
+cumplimiento verificable de 32 criterios de producción responsable sujetos a reevaluación trianual y a un
+mecanismo formal de reclamación ( Grievance Mechanism ) abierto a comunidades, sindicatos y ONGs ( The
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 19 de 32
+
+--- Página 20 ---
+Copper Mark, 2024 ). Al contrastar la situación fáctica de Escondida y Spence en octubre de 2026 con los
+criterios obligatorios del estándar, se constata un riesgo inminente de degradación o suspensión del sello:
+Criterio de The Calificación Incumplimiento Fáctico y Mecanismo de Impugnación y
+Copper Mark Oficial Contradicción Documentada en Consecuencia Comercial
+Actual Chile (2021–2026)
+Criterio 4: Derechos Fully Meets Internalización forzada de Queja ante el Punto Nacional de
+Humanos y Debida contaminantes y riesgos agudos en Contacto (PNC) de la OCDE y
+Diligencia (UNGP) comunas de enclave (Mejillones, activación del Grievance
+Sierra Gorda) sin evaluación de Mechanism de The Copper
+impacto en derechos humanos de Mark.
+toda la cadena logística y energética.
+Criterio 10 y 11: Fully Meets Demanda civil indemnizatoria de BHP Denuncia sindical internacional
+Libertad de por US$ 8,58 millones contra el (IndustriALL / OIT) ante la
+Asociación, Sindicato de Trabajadores de Spence Secretaría Ejecutiva de The
+Negociación (15 oct. 2026); accidente fatal en Copper Mark por represalia
+Colectiva y Salud y Escondida (sep. 2026) y colisiones patrimonial antisindical.
+Seguridad de camiones autónomos (ago. 2025).
+Criterio 14: Fully Meets Daño hidrogeológico acumulado en Impugnación por organizaciones
+Derechos de los territorios ancestrales Lickanantay indígenas atacameñas y
+Pueblos Indígenas (Salar de Punta Negra y Monturaqui) aymaras exigiendo auditoría
+(CLPI — Convenio y Aymara (Pampa Lagunillas en la independiente de reparación in
+169 OIT) filial hermana Cerro Colorado de natura .
+Pampa Norte).
+Criterio 18: Gestión Fully Meets Aunque Escondida y Spence operan Reclasificación a Partially Meets
+de Agua Dulce en hoy con agua desalada, el pasivo o Does Not Meet mientras no se
+Cuencas de Estrés hidrogeológico histórico sobre los acredite recuperación
+Hídrico acuíferos de Punta Negra y piezométrica efectiva de los
+Monturaqui mantiene un déficit humedales altoandinos.
+hídrico secular no restituido
+biofísicamente.
+Criterio 20: Fully Meets Reporte de "0 emisiones Alcance 2" Cuestionamiento bajo la reforma
+Emisiones de Gases vía PPAs ( market-based ) ocultando el del GHG Protocol Scope 2
+de Efecto consumo físico nocturno (~950 MW (trazabilidad horaria 24/7) y
+Invernadero (GEI) por 12–14 hrs/día) de electricidad demandas por greenwashing
+generada con carbón y gas en el SEN ante ASIC/SEC y compradores
+(brecha de >3,2 Mt CO e/año [E]). europeos.
+2
+Criterio 21 y 22: Fully Meets Pérdida de biodiversidad en Suspensión preventiva del sello
+Biodiversidad y bofedales altoandinos, impacto de en Spence hasta la certificación
+Gestión de Relaves salmueras en Coloso y anomalías independiente de estabilidad
+(GISTM) estructurales reconocidas en el sísmica e hidráulica del TSF y
+depósito de relaves (TSF) de Minera bloqueo bajo la Directiva
+Spence (Reportes FY24–FY26). CSDDD de la UE .
+La pérdida o suspensión de la certificación The Copper Mark en Escondida y Spence, sumada a la entrada
+en vigor de las obligaciones de trazabilidad de cadena de suministro de la Directiva sobre Diligencia
+Debida de las Empresas en Materia de Sostenibilidad de la Unión Europea (Directiva (UE) 2024/1760 —
+CSDDD) y el Reglamento Europeo de Baterías, tendría un efecto financiero inmediato: los compradores
+europeos y asiáticos de cátodos grado A y concentrados aplicarían un descuento comercial de
+penalización ESG ( brown discount ) de entre 3% y 5% sobre el precio LME o excluirían los suministros de
+BHP de licitaciones preferenciales, erosionando el EBITDA anual de Chile en US$ 650 a US$ 1.100 millones
+por año [E].
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 20 de 32
+
+--- Página 21 ---
+Capítulo 6. Modelamiento Financiero de la Destrucción de Valor por Venta
+Forzada ( Fire-Sale ) frente a la Estrategia de Conservación de Valor y Pago de
+Deudas a los Stakeholders
+Llegados a este punto, corresponde responder desde la teoría de valoración de activos y finanzas
+corporativas las tres interrogantes centrales planteadas para los inversionistas institucionales de BHP: (1)
+¿Cuánto caerá el valor de la acción y el capital accionario de BHP si no obtiene las RCAs de extensión y
+optimización en Chile?; (2) ¿Qué pérdida patrimonial sufriría BHP si la suma de conflictos laborales,
+territoriales y ambientales hace insostenible continuar operando en Chile y la obliga a vender sus
+activos a un tercero que deba asumir el cumplimiento de las exigencias de los stakeholders ?; y (3)
+¿Qué valor o conservación de valor tendría para BHP cambiar radicalmente su estrategia de
+relacionamiento y pagar íntegramente sus deudas socioambientales?
+Figura 5. Mapa relacional sistémico que modela los canales causales de transmisión desde los pasivos biofísicos
+hidrogeológicos, el metabolismo de enclaves comunales (Mejillones, Coloso, Sierra Gorda, Pozo Almonte) y la conflictividad
+laboral/deslocalización (IROC Santiago), hacia el bloqueo regulatorio de RCAs, el riesgo de revocación de The Copper
+Mark , la tutela preventiva del artículo 2333 del Código Civil y la destrucción o conservación del capital accionario de BHP
+Group. Fuente: Elaboración propia del autor. [E]
+6.1. Escenario 1: Destrucción de valor por bloqueo o denegación de RCAs y caída de producción
+(Sin venta forzada)
+Bajo la línea base de octubre de 2026, BHP registra una capitalización bursátil de US$ 210.680 millones
+(precio de referencia de US$ 82,90 por ADR en NYSE y A$ 60,03 en ASX, sobre una base equivalente de
+~2.541 millones de ADRs o ~5.082 millones de acciones ordinarias, CompaniesMarketCap, 2026 ; Trading
+Economics, 2026 ). En este valor base, el mercado descuenta implícitamente que BHP ejecutará con éxito
+su plan de CAPEX de US$ 10.700 a US$ 14.700 millones en Chile para sostener una producción combinada
+de ~1.400 a 1.500 ktpa de cobre hacia la década de 2030.
+Si la oposición de las comunidades indígenas (Lickanantay y Aymara), las impugnaciones judiciales ante el
+Primer Tribunal Ambiental y la conflictividad sindical bloquean o retrasan indefinidamente las RCAs de la
+Nueva Concentradora de Escondida (US$ 5.900M) , la reapertura de Cerro Colorado (US$ 1.500M) y la
+extensión de lixiviación y remediación de relaves de Spence :
+La producción combinada de BHP en Chile caerá desde las 1.473,6 kt de FY2026 al piso de guía sin
+proyectos de ~900–950 ktpa en Escondida y ~160–175 ktpa en Spence (con 0 kt en Cerro Colorado)
+hacia FY2029–FY2032, implicando una pérdida estructural de volumen de ~380.000 toneladas
+anuales de cobre fino (-25,8%) .
+Al mismo tiempo, por deseconomías de escala fija y menor ley de cabeza, el costo unitario C1 en
+Escondida escalará de US$ 1,07/lb a US$ 1,55–1,68/lb (+45% a +57%), comprimiendo el EBITDA anual
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 21 de 32
+
+--- Página 22 ---
+consolidado de Chile desde US$ 14.350 millones a ~US$ 8.900 millones (una merma permanente de
+flujo operativo de -US$ 5.450 millones por año ).
+Descontando esta pérdida de flujos libres después de impuestos (tasa efectiva ajustada con royalty de
+42,9%, BHP Exchange Release FY2026 ) a un WACC real de 7,8%, el Valor Presente Neto (NAV atribuible
+a BHP) de su cartera chilena se contrae en -US$ 24.500 millones (desde US$ 78.400 millones a US$
+53.900 millones).
+Adicionalmente, al perder su motor de crecimiento orgánico en cobre (como ya advirtieron los analistas
+tras la guía FY2027: "In the year copper became the majority of BHP's earnings, the copper engine is
+guided to shrink" , MPC Markets Mosaic, 2026 ), el mercado aplicará una compresión de múltiplo
+EV/EBITDA de ~0,4x sobre el grupo equivalente a -US$ 11.300 millones .
+Resultado Neto del Escenario 1: La capitalización bursátil de BHP cae en -US$ 35.800 millones
+(-17,0%) , reduciéndose de US$ 210.680 millones a US$ 174.880 millones . El precio de la acción sufre
+una minusvalía directa de US$ 14,10 por ADR, cayendo desde US$ 82,90 a US$ 68,80 por ADR (de A$
+60,03 a A$ 49,82 en el ASX), mientras que el dividendo anual por acción cae un -25,6% (de US$ 1,72 a
+US$ 1,28 por acción).
+6.2. Escenario 2: Inviabilidad sistémica y obligación de Venta Forzada ( Fire-Sale Divestment ) de
+los activos en Chile
+Si la acumulación de huelgas en Escondida y Spence, la judicialización laboral, la pérdida del sello The
+Copper Mark , las medidas cautelares por daño ambiental o contingente (Art. 2333 CC) y el rechazo
+territorial hacen insostenible para BHP continuar operando en Chile, obligándola a salir a buscar un
+comprador internacional o consorcio estatal-privado que adquiera sus participaciones en Minera
+Escondida (57,5%), Minera Spence (100%) y Cerro Colorado (100%) asumiendo la obligación de dar
+cumplimiento íntegro a las exigencias de los stakeholders , la pérdida para los accionistas de BHP se
+amplifica a través de cuatro mecanismos financieros:
+  Descuento de Liquidez y Venta Forzada en Mega-Activos ( Fire-Sale & Marketability Discount ): -US$
+19.600 millones [E]. En el mercado global de fusiones y adquisiciones mineras (M&A), existen menos
+de cinco actores en el mundo con balance suficiente para absorber un paquete de activos con un NAV
+atribuible base de US$ 78.400 millones (Codelco/Estado de Chile, Rio Tinto, Glencore, Freeport-
+McMoRan o consorcios soberanos de China/Medio Oriente), y además el acuerdo de accionistas de
+Escondida otorga derechos de compra preferente ( pre-emption rights ) a Rio Tinto (que ya posee el
+30%), reduciendo la competencia en la subasta. La literatura empírica de finanzas corporativas (Shleifer
+& Vishny, 1992; Pulvino, 1998) demuestra que las ventas forzadas de activos específicos en industrias
+concentradas sufren un descuento de entre 20% y 35% sobre su valor fundamental. Aplicando un
+descuento conservador del 25% sobre el NAV atribuible de US$ 78.400 millones , BHP pierde de forma
+instantánea US$ 19.600 millones en el precio de transacción.
+  Deducción de Precio por Deudas Ambientales, Remediación Hídrica, Relaves y Cierre ( Environmental
+Liability Deduction ): -US$ 6.800 millones [E]. En el proceso de due diligence técnico y legal, cualquier
+comprador exigirá descontar dólar por dólar del precio de compra el valor presente de: (i) la
+remediación integral de los acuíferos de Punta Negra, Monturaqui-Negrillar-Tilopozo y Pampa
+Lagunillas más allá de las conciliaciones mínimas actuales (~US$ 1.850 millones); (ii) la reconstrucción y
+estabilización geotécnica definitiva del depósito de relaves (TSF) de Spence y el manejo de salmueras
+en Coloso (~US$ 1.650 millones); (iii) la actualización real de las garantías financieras de planes de
+cierre de faenas mineras (Ley N° 20.551) de los mega-rajos y botaderos de Escondida, Spence y Cerro
+Colorado (~US$ 2.500 millones por sobre lo aprovisionado contablemente); y (iv) el costo de instalar
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 22 de 32
+
+--- Página 23 ---
+almacenamiento energético BESS propio para eliminar la dependencia nocturna del carbón en el SEN
+(~US$ 800 millones). Total deducido por el comprador: US$ 6.800 millones .
+  Deducción por Contingencias Laborales, Paz Sindical y Relocalización Regional: -US$ 2.400
+millones [E]. Para poder operar las faenas sin huelgas indefinidas, el comprador exigirá descontar el
+costo de capitalizar un nuevo pacto colectivo con los Sindicatos N°1 y N°2 de Escondida y el Sindicato
+de Spence, extinguir los litigios laborales, indemnizar o revertir la deslocalización del centro IROC de
+Santiago hacia Antofagasta y reformular los regímenes de turno: US$ 2.400 millones .
+  Efecto de De-Rating o Compresión de Múltiplo Bursátil sobre el BHP Remanente ( Ex-Chile Multiple
+Compression ): -US$ 26.500 millones [E]. Este es el efecto más devastador y menos comprendido
+para los inversionistas de BHP. Hoy BHP cotiza a un múltiplo implícito de ~6,8x EV/EBITDA (y P/E de
+~16x–21x) porque el cobre representa el 54,7% de su EBITDA. Si BHP vende sus activos en Chile
+(perdiendo el 79,7% de su EBITDA de cobre), el BHP remanente queda reducido en más de un 75% a
+una empresa productora de mineral de hierro (WAIO) y carbón metalúrgico (BMA) en Australia (más
+el proyecto de potasa Jansen en Canadá, que recién sufrió un deterioro contable o impairment de US$
+2.300 millones en FY2026 por sobrecostos de la Etapa 2, BHP Exchange Release FY2026 ). En el
+mercado de capitales, las mineras dominadas por mineral de hierro expuestas al declive demográfico e
+inmobiliario de China cotizan con un descuento estructural de 1,4x a 1,8x EV/EBITDA respecto a las
+mineras de cobre. Al comprimirse el múltiplo sobre los ~US$ 18.550 millones de EBITDA remanente
+fuera de Chile en apenas 1,43x, se destruyen US$ 26.500 millones adicionales de capitalización
+bursátil .
+Figura 3. Panel A: Cascada de destrucción de capitalización bursátil de BHP Group (US$ miles de millones) en el Escenario
+2A de Venta Forzada ( Fire-Sale ) de sus activos en Chile (-US$ 55.300 millones / -26,2%). Panel B: Comparación del Precio
+por Acción ADR (US$, barras de color) y del Dividendo Anual por Acción (US$, barras grises) entre la situación base
+(octubre 2026), la Estrategia de Conservación de Valor y los tres escenarios de deterioro/salida de Chile. Fuente:
+Elaboración propia del autor mediante modelo SOTP/DCF. [E]
+Síntesis Cuantitativa del Escenario de Venta Forzada (Escenario 2A y 2B): La suma de la pérdida directa
+en la transacción de venta (US$ 19.600M + US$ 6.800M + US$ 2.400M = US$ 28.800 millones de menor
+efectivo recibido frente al NAV base, obteniendo sólo US$ 49.600 millones netos por activos que valían
+US$ 78.400 millones) más la compresión de múltiplo bursátil del grupo remanente ( US$ 26.500 millones )
+arroja una destrucción total de capital accionario de US$ 55.300 millones (-26,2% de caída en el valor
+de la acción) . La capitalización bursátil de BHP caería desde US$ 210.680 millones a US$ 155.380
+millones , y el precio de la acción se desplomaría desde US$ 82,90 a US$ 61,15 por ADR (de A$ 60,03 a A$
+44,28 en el ASX). Si además la venta forzada va precedida de una paralización operacional de 6 a 12
+meses en Escondida y Spence por huelgas o clausuras judiciales ( Escenario 2B: Paralización + Venta
+Forzada en Crisis ), el descuento de fire-sale sube al 40% y la pérdida patrimonial total alcanza los US$
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 23 de 32
+
+--- Página 24 ---
+72.000 millones (-34,2% del capital accionario), hundiendo la acción hasta US$ 54,50 por ADR y
+recortando el dividendo anual desde US$ 1,72 a US$ 0,88 por acción (-48,8%).
+6.3. Estrategia de Conservación de Valor: ¿Cuánto vale para BHP y sus accionistas cambiar su
+relacionamiento con los Stakeholders y pagar sus deudas socioambientales?
+Frente a la magnitud catastrófica que tendría para los inversionistas institucionales de BHP una pérdida
+patrimonial de entre US$ 35.800 millones y US$ 72.000 millones , este Documento de Trabajo demuestra
+que la decisión financieramente óptima —maximización del valor presente neto para el accionista a largo
+plazo— consiste en abandonar la estrategia extractiva de enclave y ejecutar de inmediato un Plan Integral
+de Pago de Deudas Socioambientales, Internalización de Externalidades y Nuevo Pacto con los
+Stakeholders en Chile (2026–2035) .
+Como se detalla en la Tabla 7 , el costo total en Valor Presente (descontado al 7,8% anual entre 2026 y
+2035) de resolver de raíz los cuatro focos estructurales de conflicto en las regiones de Antofagasta y
+Tarapacá asciende a US$ 4.850 millones (equivalente a un desembolso anual medio de ~US$ 680
+millones durante diez años, o apenas el 4,7% del EBITDA anual que hoy generan Escondida y Spence en
+Chile ):
+Pilar 1 — Fondo Vinculante de Pago de Deuda Ecológica, Restauración Hidrogeológica y Seguridad
+de Relaves (US$ 1.800 millones en Valor Presente): Incluye la constitución de fideicomisos científicos
+e indígenas co-administrados con las comunidades Lickanantay (cuenca del Salar de Punta Negra y
+Monturaqui-Negrillar-Tilopozo) y Aymara (Pampa Lagunillas y Pozo Almonte) para financiar la
+restauración ecológica activa, la compensación patrimonial e intergeneracional por las décadas de
+extracción de aguas fósiles (multiplicando por 10 el insuficiente acuerdo de US$ 93M de 2021), la
+reconstrucción integral con Mejor Técnica Disponible (MTD) del depósito de relaves TSF de Spence y la
+mitigación de salmueras marinas en Puerto Coloso y Mejillones.
+Pilar 2 — Nuevo Pacto Laboral, Desistimiento Judicial, Seguridad en Autonomía y Retorno del Centro
+IROC al Norte Grande (US$ 1.250 millones en Valor Presente): Contempla el desistimiento inmediato
+de la demanda civil por US$ 8,58 millones contra el Sindicato de Trabajadores de Spence, el
+establecimiento de una cláusula institucional de coparticipación de productividad y precio del cobre en
+los contratos colectivos de Escondida, Spence y Cerro Colorado (eliminando las huelgas trianuales), la
+revisión ergonómica de las jornadas excepcionales en gran altitud, protocolos estrictos de segregación
+física para camiones autónomos y la relocalización progresiva de las capacidades de operación
+remota e inteligencia artificial (BHP Copper Advanced Services / IROC) desde el Edificio Titanium de
+Santiago hacia dos Campus Tecnológicos Mineros en Antofagasta e Iquique en alianza con las
+universidades regionales (incluyendo la Universidad de Antofagasta y la Universidad Arturo Prat),
+formando y reteniendo ingenieros y operadores locales.
+Pilar 3 — Fondo Supramunicipal para Comunas de Enclave y Desarrollo de Proveedores Regionales
+con Transferencia Tecnológica (US$ 1.100 millones en Valor Presente): Establece un convenio
+plurianual de aporte territorial directo a las comunas de Mejillones, Sierra Gorda, Pozo Almonte,
+Antofagasta y Calama que supere la asimetría del tope de 8.000 UTM del D.L. 3.063, financiando
+infraestructura hospitalaria, monitoreo epidemiológico, pavimentación de corredores logísticos (rutas
+B-262 y B-272), encapsulamiento y abatimiento de emisiones químicas/ácidas en terminales portuarios
+de Mejillones, junto con una cuota vinculante de contratación de proveedores con casa matriz tributaria
+y productiva efectiva en la I y II Región (con cofinanciamiento de I+D y propiedad intelectual
+compartida).
+Pilar 4 — Descarbonización Física 24/7 mediante Almacenamiento BESS Masivo y
+Bombeo/Hidrógeno Renovable en el Norte Grande (US$ 700 millones de aporte directo / co-
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 24 de 32
+
+--- Página 25 ---
+inversión en PPAs firmes): Expande por cuatro la capacidad de almacenamiento en baterías
+contratada con Sungrow (pasando de 960 MWh a >4.500 MWh entre Escondida, Spence y Cerro
+Colorado antes de 2029), permitiendo sustituir efectivamente el respaldo nocturno de las
+termoeléctricas a carbón de Mejillones y blindando técnica y jurídicamente la certificación The Copper
+Mark y el acceso libre de aranceles o vetos a la Unión Europea bajo la Directiva CSDDD.
+La Ecuación Financiera de Conservación de Valor para los Accionistas: Al invertir US$ 4.850 millones en
+Valor Presente (lo que reduce el precio teórico de la acción en apenas US$ 1,90 por ADR, desde US$ 82,90
+a US$ 81,00 por ADR , manteniendo una capitalización bursátil de US$ 205.830 millones y un dividendo
+de US$ 1,66 por acción), BHP destraba la aprobación social y ambiental de su cartera de proyectos de US$
+10.700–14.700 millones (Nueva Concentradora de Escondida, reapertura de Cerro Colorado por 20 años y
+optimización de Spence) y evita una destrucción de capital accionario de US$ 35.800 millones
+(Escenario 1), US$ 55.300 millones (Escenario 2A) o US$ 72.000 millones (Escenario 2B) . En términos
+netos:
+Valor Neto de Conservación (VNC) frente al Bloqueo de RCAs: US$ 35.800M evitados - US$ 4.850M
+invertidos = +US$ 30.950 millones de riqueza accionaria preservada ( Ratio Beneficio / Costo =
+7,38x ).
+Valor Neto de Conservación (VNC) frente a la Venta Forzada ( Fire-Sale ): US$ 55.300M evitados -
+US$ 4.850M invertidos = +US$ 50.450 millones de riqueza accionaria preservada ( Ratio Beneficio /
+Costo = 11,40x ).
+Valor Neto de Conservación (VNC) frente a Paralización + Venta Forzada en Crisis: US$ 72.000M
+evitados - US$ 4.850M invertidos = +US$ 67.150 millones de riqueza accionaria preservada ( Ratio
+Beneficio / Costo = 14,85x ).
+Escenario NAV Efecto Capitalización Pérdida / Precio Plusvalía / Dividendo
+Estratégico en Atribuible Múltiplo Bursátil BHP Conservación Acción Minusvalía Anual /
+Chile Chile Grupo (US$ MM) de Valor (US$ ADR (%) Acción
+(Horizonte (US$ (US$ MM) MM) (US$) (US$)
+2026–2035) MM)
+0. Línea Base               Base         %    
+Actual
+(Octubre
+2026)
+Supone
+aprobación sin
+fricción de
+RCAs y
+ausencia de
+pasivos
+Estrategia               Preserva      -    %    
+Recomendada: (Protegido) +       a
+Conservación +      
+de Valor
+Pago de Deuda
+Socioambiental
+(US$ 4,85B) y
+Nuevo Pacto
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 25 de 32
+
+--- Página 26 ---
+Escenario NAV Efecto Capitalización Pérdida / Precio Plusvalía / Dividendo
+Estratégico en Atribuible Múltiplo Bursátil BHP Conservación Acción Minusvalía Anual /
+Chile Chile Grupo (US$ MM) de Valor (US$ ADR (%) Acción
+(Horizonte (US$ (US$ MM) MM) (US$) (US$)
+2026–2035) MM)
+Escenario 1:       -              -            -     %    
+Bloqueo
+Regulatorio de
+RCAs
+Sin nueva
+concentradora
+Escondida ni
+reapertura
+Cerro Colorado
+Escenario 2A:       -              -            -     %    
+Venta Forzada (Caja
+( Fire-Sale ) neta)
+Descuento
+25% NAV +
+Pasivos (US$
+9,2B) + De-
+rating Grupo
+Escenario 2B:       -              -            -     %    
+Paralización + (Caja
+Venta en neta)
+Crisis
+Huelgas,
+cautelares Art.
+2333 CC,
+pérdida
+Copper Mark y
+venta (-40%
+NAV)
+Pilar del Plan de Costo % sobre Exigencia de Stakeholders Riqueza
+Conservación de Valor y Valor Market Resuelta y Pasivo Mitigado Accionaria
+Pago de Deudas (2026– Presente Cap BHP Protegida (US$
+2035) (US$ MM) MM) [E]
+[E]
+1. Fondo de Reparación          % Restauración y compensación real       (Evita
+Hidrogeológica, Deuda en Salar de Punta Negra, pérdida de NAV
+Ecológica y Seguridad de Monturaqui y Pampa Lagunillas; por bloqueo de
+Relaves (TSF) remediación geotécnica definitiva RCAs)
+TSF Spence; destrabe de RCAs en
+Escondida y Cerro Colorado.
+2. Nuevo Pacto Sindical,          % Fin de demanda contra Sindicato       (Evita
+Seguridad en Autonomía y Spence; coparticipación de huelgas  paros y
+Retorno del IROC a ganancias en Escondida/Spence; descuento
+Antofagasta/Iquique relocalización de BHP Copper laboral en venta)
+Advanced Services (IROC) desde
+Santiago al Norte Grande.
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 26 de 32
+
+--- Página 27 ---
+Pilar del Plan de Costo % sobre Exigencia de Stakeholders Riqueza
+Conservación de Valor y Valor Market Resuelta y Pasivo Mitigado Accionaria
+Pago de Deudas (2026– Presente Cap BHP Protegida (US$
+2035) (US$ MM) MM) [E]
+[E]
+3. Fondo Supramunicipal          % Compensación permanente a       (Evita
+para Comunas de Enclave y Mejillones, Sierra Gorda, Pozo paralización
+Desarrollo de Proveedores Almonte, Coloso y Calama; cautelar y
+Locales abatimiento químico/vial (inmunidad descuento de
+ante Art. 2333 CC) y fire-sale )
+encadenamiento tecnológico de
+PYMES locales.
+4. Almacenamiento BESS        % Eliminación del respaldo nocturno a       (Protege
+24/7 (>4.500 MWh) para carbón en el SEN Norte Grande; múltiplo ESG y
+Descarbonización Física preservación del sello The Copper evita brown
+Nocturna en el SEN Mark y cumplimiento de la Directiva discount
+CSDDD de la Unión Europea. comercial)
+Total Plan Integral de          % Transición desde la       a
+Conservación de Valor Sustentabilidad Débil declarativa       (ROI de
+hacia la internalización real de     x a     x
+costos y licencia social duradera para el
+hasta 2050. accionista)
+Capítulo 7. Conclusiones Generales, Notas al Pie de Página y Referencias
+Primarias y Secundarias
+7.1. Conclusiones para Inversionistas Institucionales, Reguladores y Tomadores de Decisión
+El análisis económico, financiero y ecológico-territorial desarrollado en este Documento de Trabajo permite
+establecer seis conclusiones fundamentales sobre el valor de la acción de BHP Group y el futuro de sus
+operaciones en Chile:
+Primera (Dependencia Estructural de la Valoración de BHP respecto de Chile): Desde la puesta en
+marcha de Minera Escondida en diciembre de 1990 y de Cerro Colorado en 1994, la expansión del capital
+accionario de BHP desde US$ 11.800 millones hasta los actuales US$ 210.680 millones (A$ 309.420
+millones) en octubre de 2026 ha estado estructuralmente apalancada en la extracción de rentas
+cupríferas en las regiones de Antofagasta y Tarapacá. Al cierre del año fiscal 2026, cuando el cobre superó
+por primera vez en la historia el 50% del EBITDA del grupo (US$ 18.000 millones sobre US$ 32.900
+millones), Escondida (US$ 12.400 millones) y Pampa Norte (Spence, ~US$ 1.950 millones) aportaron el
+43,6% del EBITDA consolidado mundial de BHP y el 79,7% de su EBITDA cuprífero , sustentando un Valor
+Presente Neto atribuible de US$ 78.400 millones .
+Segunda (Divergencia entre Rentabilidad por Dividendo y Sostenibilidad del Valor de la Acción): Los
+más de US$ 110.000 millones distribuidos en dividendos a los accionistas desde 2016 (incluyendo US$
+1,72 por acción en FY2026) han proyectado una ilusión de rentabilidad perpetua ( dividend yield ) que oculta
+el agotamiento de las leyes de mineral y la acumulación de pasivos socioambientales no contabilizados.
+Sin la aprobación de las nuevas Resoluciones de Calificación Ambiental (RCAs) para ejecutar entre US$
+10.700 y US$ 14.700 millones de CAPEX en Chile (Nueva Concentradora de Escondida por US$ 5.900M,
+lixiviación por US$ 1.300M, reapertura de Cerro Colorado por US$ 1.500M y optimización/TSF de Spence),
+la producción de Escondida caerá por ley mineral desde 1.261 kt a 900–1.000 ktpa en FY2028–FY2031 con
+un alza de costos de hasta +50%, destruyendo US$ 35.800 millones de capitalización bursátil (-17,0% en
+el precio de la acción) .
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 27 de 32
+
+--- Página 28 ---
+Tercera (Inviabilidad del Modelo de Confrontación Laboral y Deslocalización Tecnológica hacia
+Santiago): La recurrencia de huelgas en Escondida (2017 y 2024), el acuerdo al límite con los supervisores
+en octubre de 2026 ($30 millones CLP de bono), la inédita demanda civil de BHP contra el Sindicato de
+Trabajadores de Spence por US$ 8,58 millones (15 de octubre de 2026), los accidentes fatales y con
+camiones autónomos, y la decisión de instalar el centro de operación remota BHP Copper Advanced
+Services (IROC) en el Edificio Titanium de Santiago (US$ 48,3 millones) para controlar 85 camiones
+autónomos desde la capital, han roto el tejido socioeconómico regional, drenando masa salarial calificada
+desde Antofagasta y Tarapacá hacia la Región Metropolitana.
+Cuarta (Infracción a la Sustentabilidad Fuerte y Débil y Deuda Ecológica en Enclaves): La degradación
+hidrogeológica del Salar de Punta Negra, del acuífero Monturaqui-Negrillar-Tilopozo y del bofedal de
+Pampa Lagunillas destruyó Capital Natural Crítico insustituible (violando la Sustentabilidad Fuerte), sin que
+la conciliación de US$ 93 millones en Punta Negra (equivalente a apenas el 0,75% de un año de EBITDA de
+Escondida) restituya el daño biofísico ni el ahorro histórico de ~US$ 9.500 millones que BHP obtuvo al
+postergar la desalación. Al mismo tiempo, la transferencia de riesgos químicos, atmosféricos y viales hacia
+comunas de enclave como Mejillones, Sierra Gorda, Pozo Almonte, Coloso y Calama bajo el tope de
+patente municipal de 8.000 UTM (D.L. 3.063) y el bajo encadenamiento de proveedores locales infringen la
+Regla de Hartwick (Sustentabilidad Débil) y exponen a la cadena operativa a paralizaciones cautelares
+mediante la acción popular por Daño Contingente del artículo 2333 del Código Civil .
+Quinta (Fragilidad de The Copper Mark y Contradicción Termodinámica de la Energía 24/7 en el SEN):
+La afirmación corporativa de operar Escondida y Spence con "100% energía renovable" descansa
+exclusivamente en contratos comerciales PPA ( market-based ) con Enel y Colbún, mientras que en el plano
+físico ( location-based ) una demanda continua 24/7 de ~1.150 MW requiere durante las 12 a 14 horas
+nocturnas sin sol entre 900 y 980 MW de potencia firme e inercia síncrona generada por centrales
+termoeléctricas a carbón y gas en Mejillones y Tocopilla (siendo los 960 MWh de baterías BESS
+contratados con Sungrow en junio de 2026 para FY2029 capaces de cubrir apenas el 7% de la demanda
+nocturna). Esta contradicción, sumada a los conflictos laborales, hídricos y de relaves (TSF Spence), pone
+en riesgo directo la certificación The Copper Mark y el acceso al mercado europeo bajo la Directiva
+CSDDD.
+Sexta (Imperativo Financiero de la Estrategia de Conservación de Valor frente a una Venta Forzada): Si
+la suma de estos conflictos obliga a BHP a vender sus activos en Chile, el descuento de venta forzada
+(-25% a -40% del NAV), la deducción de pasivos socioambientales y laborales (US$ 9.200 millones) y la
+compresión del múltiplo bursátil del grupo remanente provocarían una pérdida de capital accionario de
+entre US$ 55.300 millones (-26,2%, acción a US$ 61,15) y US$ 72.000 millones (-34,2%, acción a US$
+54,50) , recortando el dividendo anual en más de 40%. Por el contrario, implementar el Plan Integral de
+Pago de Deudas Socioambientales y Nuevo Pacto con Stakeholders cuesta US$ 4.850 millones en Valor
+Presente (sólo el 2,3% de la capitalización bursátil de BHP), preservando entre US$ 50.450 y US$ 67.150
+millones de patrimonio neto para los accionistas con una relación Beneficio/Costo de 11,4x a 14,8x .
+7.2. Notas Metodológicas al Pie de Página
+  Nota 1 (Distinción entre Rentabilidad Corriente y Valor de Capital): En valorización de activos
+agotables (Hotelling, 1931; Damodaran, 2012), el precio de la acción P converge al Valor Presente Neto
+0
+de los flujos de caja libres atribuibles al capital propio más el valor de las opciones reales de expansión
+(RCAs futuras). Cuando una empresa distribuye altos dividendos reduciendo la inversión en reposición
+de reservas o externalizando costos ambientales que luego se judicializan, el dividend yield observado
+en t se eleva artificialmente a costa de una destrucción del valor terminal P (minusvalía).
+T
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 28 de 32
+
+--- Página 29 ---
+  Nota 2 (Renta genuina de Hicks y Contabilidad Verde): Según Hicks (1939, Value and Capital ) y su
+extensión a recursos naturales por El Serafy (1989) y Hamilton & Clemens (1999, Banco Mundial,
+Genuine Savings ), la depreciación del capital natural hidrogeológico y mineral debe restarse del
+excedente operativo bruto para determinar el ingreso neto sustentable.
+  Nota 3 (Balance de Masa y Segunda Ley de la Termodinámica en Minería de Sulfuros): Con una ley
+media de cobre de ~0,85% en Escondida y ~0,55% en Spence (y 0,36% en los recursos inferidos de
+Cerro Colorado), por cada tonelada de cobre fino exportada se generan más de 115 a 270 toneladas de
+relaves y ripios de lixiviación más 250 a 400 toneladas de roca estéril que permanecen a perpetuidad
+en las cuencas de las comunas de Antofagasta, Sierra Gorda y Pozo Almonte.
+  Nota 4 (Metabolismo Industrial y Enclave de Mejillones): El complejo industrial-portuario de Mejillones
+concentra 12 núcleos de amenaza tecnológica y ambiental vinculados al abastecimiento minero:
+saturación atmosférica por termoeléctricas a carbón, emisiones de gases nitrosos sin abatir en plantas
+de nitrato de amonio (Enaex), dióxido de azufre y neblina ácida (Noracid/Molynor), almacenamiento de
+220.000 toneladas de ácido sulfúrico con despacho 24 horas, depósitos de cenizas de 80 hectáreas y
+transporte terrestre de sustancias peligrosas por las rutas B-262 y B-272.
+  Nota 5 (Dogmática del Daño Contingente bajo el Artículo 2333 del Código Civil): El artículo 2333 del
+Código Civil concede acción popular preventiva frente a todo daño contingente que por imprudencia o
+negligencia amenace a personas indeterminadas. La jurisprudencia y doctrina civil chilena establecen
+que contar con una Resolución de Calificación Ambiental (RCA) no exime del estándar de cuidado civil
+( neminem laedere , arts. 44 y 2329 CC) cuando existe una Mejor Técnica Disponible (MTD/BAT) no
+adoptada por el titular o cuando se supera la capacidad de carga del territorio.
+  Nota 6 (Física del Despacho Eléctrico Nocturno en el SEN vs. Contabilidad PPA): En el Sistema
+Eléctrico Nacional (SEN) de Chile, los contratos PPA son acuerdos financieros de liquidación económica
+entre generador y cliente libre. Físicamente, la energía consumida en las subestaciones Domeyko,
+Escondida, Encuentro y Mejillones durante la noche proviene del pool de unidades sincronizadas en el
+Norte Grande, donde las unidades térmicas a carbón y gas natural aportan la potencia firme nocturna y
+la estabilidad de frecuencia ante la ausencia de radiación solar.
+7.3. Referencias Bibliográficas y Documentales (Fuentes Primarias y Secundarias Verificadas)
+Fuentes Primarias (Reportes Financieros Auditados, Expedientes Judiciales y Comunicados Oficiales):
+Australian Securities Exchange (ASX). (2026). BHP Group Limited (ASX:BHP) — Company information,
+share price and market capitalization (A$ 309.42B) . https://www.asx.com.au/markets/company/BHP
+BHP Group Limited. (2001). BHP Billiton Limited — Historical Share Prices (1990–2001) .
+https://www.bhp.com/-/media/project/bhp1ip/bhp-com-en/documents/investors/historical-share-
+prices/210601_bhpbillitonlimited_sharepricesdoc.pdf
+BHP Group Limited. (2019, octubre 20). BHP targets 100 per cent renewable energy at Escondida and
+Spence operations and elimination of water usage from aquifers in Chile .
+https://www.bhp.com/news/media-centre/releases/2019/10/bhp-targets-100-per-cent-renewable-
+energy-at-escondida-and-spence-operations-and-elimination-of-water-usage-from-aquifers-in-chile
+BHP Group Limited. (2021, agosto 6). BHP operations in Chile start to operate with renewable energies
+(Contratos ENEL Generación Chile y Colbún) . https://www.bhp.com/news/media-
+centre/releases/2021/08/bhp-operations-in-chile-start-to-operate-with-renewable-energies
+BHP Group Limited. (2021, noviembre 30). BHP awarded the Copper Mark for Olympic Dam, Spence
+and Escondida . https://www.bhp.com/news/media-centre/releases/2021/11/bhp-awarded-the-copper-
+mark-for-olympic-dam-spence-and-escondida
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 29 de 32
+
+--- Página 30 ---
+BHP Group Limited. (2024, abril 29). Spence alcanza 100% de autonomía en su flota de camiones (34
+camiones CAEX 980E-5 AT y 5 perforadoras) . https://www.bhp.com/es/news/media-
+centre/releases/2024/04/spence-alcanza-100-autonoma-en-su-flota-de-camiones
+BHP Group Limited. (2024, agosto 27). Financial results for the year ended 30 June 2024 (FY2024
+Results & Spence TSF anomalies / Cerro Colorado care and maintenance) .
+https://www.bhp.com/-/media/documents/media/reports-and-
+presentations/2024/240827_bhpresultsfortheyearended30june2024.pdf
+BHP Group Limited. (2024, noviembre 18). 2024 Chilean Copper Investor Site Tour — Presentations &
+Speeches (Escondida, Spence and Cerro Colorado growth pathways) . https://company-
+announcements.afr.com/asx/bhp/8a325668-a586-11ef-99b0-4e1b1b89f14a.pdf
+BHP Group Limited. (2025, agosto 19). BHP Annual Report 2025 & Form 20-F filed with the U.S.
+Securities and Exchange Commission (SEC) .
+https://www.bhp.com/-/media/documents/investors/annual-
+reports/2025/250819_bhpannualreport2025.pdf y
+https://www.sec.gov/Archives/edgar/data/811809/000119312525183071/d35528d6k.htm
+BHP Group Limited. (2026, febrero 17). Financial results for the half year ended 31 December 2025
+(HY2026 Exchange Release & >US$110 bn shareholder returns since 2016) .
+https://www.bhp.com/-/media/documents/media/reports-and-
+presentations/2026/260217_bhpresultsforthehalfyearended31dec2025_exchangerelease.pdf
+BHP Group Limited. (2026, agosto 18). Annual Report 2026 & Financial results for the year ended 30
+June 2026 (Copper EBITDA US$18.0 bn; Escondida EBITDA US$12.4 bn) .
+https://www.bhp.com/investor-centre/reports-and-presentations/annual-report y
+https://www.bhp.com/-/media/documents/media/reports-and-
+presentations/2026/260818_bhpresultsfortheyearended30june2026_exchangerelease.pdf
+Primer Tribunal Ambiental de Chile (1TA). (2021, junio 2). Acuerdo de Conciliación entre Consejo de
+Defensa del Estado, Comunidades Indígenas Atacameñas y Minera Escondida en causa por daño
+ambiental en el Salar de Punta Negra . https://1ta.cl/acuerdo-de-conciliacion-entre-consejo-de-
+defensa-del-estado-comunidades-indigenas-atacamenas-y-minera-escondida-con-foco-en-la-
+gobernanza-socioambiental/
+Primer Tribunal Ambiental de Chile (1TA). (2021, agosto 20 y diciembre 31). Primer Tribunal Ambiental
+ordena y mantiene medida cautelar que impide a Minera Cerro Colorado de BHP la extracción de agua
+del acuífero de Lagunillas . https://1ta.cl/primer-tribunal-ambiental-ordena-a-minera-cerro-colorado-de-
+bhp-detener-extraccion-de-agua-de-acuifero-de-lagunillas/
+Primer Tribunal Ambiental de Chile (1TA). (2023, noviembre 22; 2025, octubre 1; 2026, marzo 8).
+Resoluciones de conciliación y audiencias de verificación en causas Salar de Punta Negra (Minera
+Escondida) y Sistema Lacustre de Lagunillas (Compañía Minera Cerro Colorado) . https://1ta.cl/en-
+audiencia-se-reportan-avances-en-la-implementacion-de-la-conciliacion-en-causa-sobre-dano-
+ambiental-en-salar-punta-negra/ y https://1ta.cl/primer-tribunal-ambiental-viaja-hasta-cerro-colorado-
+para-verificar-cumplimiento-de-medida-cautelar/
+The Copper Mark. (2024–2026). Participating Sites Register: Minera Escondida Limitada & Minera
+Spence SpA RRA Assessment Reports . https://coppermark.org/participants-home/participants/
+Fuentes Secundarias (Literatura Económica, Análisis de Mercado, Reportes Especializados y Prensa
+Financiera):
+Business & Human Rights Resource Centre. (2021, junio 4). Chile: BHP to pay $93m for irreparable
+damage to environment at Escondida copper mine . https://www.business-humanrights.org/en/latest-
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 30 de 32
+
+--- Página 31 ---
+news/chile-bhp-to-pay-93m-for-irreparable-damage-to-environment-at-escondida-copper-mine/
+CNN Chile. (2026, octubre 14 y 15). $30 millones y alza en bonos por producción: Los detalles del
+acuerdo entre Minera Escondida y Sindicato N°2 ; y BHP demanda a su sindicato en Spence y exige
+US$ 8,58 millones por paralizaciones ilegales . https://www.cnnchile.com/negocios/30-millones-alza-
+bonos-acuerdo-minera-escondida-sindicato-n2/ y https://www.cnnchile.com/negocios/bhp-demanda-
+sindicato-spence-us858-millones-paralizaciones-ilegales-produccion-cobre/
+CompaniesMarketCap. (2026, octubre). BHP Group (BHP) — Market capitalization history (1996–2026)
+and Stock price history (1980–2026) . https://companiesmarketcap.com/bhp-group/marketcap/ y
+https://companiesmarketcap.com/bhp-group/stock-price-history/
+Daly, H. E. (1990). Toward some operational principles of sustainable development. Ecological
+Economics , 2(1), 1–6.
+Diario Minero. (2025, agosto 27; 2026, octubre 15). Sindicato de Escondida denuncia riesgo de
+seguridad tras accidentes con camiones autónomos ; y BHP judicializa conflicto en Spence y demanda a
+sindicato por US$ 8,5 millones ($8.450.685.270 CLP) . https://diariominero.cl/index.php/mineria/1599-
+bhp-judicializa-conflicto-en-spence-y-demanda-a-sindicato-por-us-8-5-millones
+ESS News. (2026, junio 4). BHP, Sungrow sign solar, battery deals for Chile copper mines (195 MW solar
+and 960 MWh BESS for FY2029) . https://www.ess-news.com/2026/06/04/bhp-sungrow-sign-solar-
+battery-deals-for-chile-copper-mines/
+Georgescu-Roegen, N. (1971). The Entropy Law and the Economic Process . Harvard University Press.
+Hartwick, J. M. (1977). Intergenerational equity and the investing of rents from exhaustible resources.
+American Economic Review , 67(5), 972–974.
+International Mining & Mining Digital. (2026, julio 1 y 2). BHP submits US$1.5bn plan to reopen Cerro
+Colorado copper mine for 20 years . https://im-mining.com/2026/07/01/bhp-submits-plan-to-reopen-
+cerro-colorado-copper-mine-for-20-years/ y https://miningdigital.com/news/bhp-submits-us-1-5bn-
+plan-to-reopen-cerro-colorado
+La Tercera / Pulso. (2024, agosto 13 y 16; 2026, septiembre 22 y octubre 14). Huelga y acuerdo en
+Minera Escondida con Sindicato N°1 ($33 millones) y Sindicato N°2 de Supervisores ($30 millones) .
+https://www.latercera.com/pulso/noticia/huelga-en-el-mayor-yacimiento-de-cobre-mundial-bhp-y-
+sindicato-n1-de-escondida-no-logran-acuerdo-tras-extensa-
+negociacion/G6A22AS3UVFU5M3FVV4RVSWNEA/ y https://www.latercera.com/pulso/noticia/minera-
+escondida-y-sindicato-de-supervisores-sellan-acuerdo-y-evitan-la-huelga/
+Martínez-Alier, J. (2002). The Environmentalism of the Poor: A Study of Ecological Conflicts and
+Valuation . Edward Elgar Publishing.
+Mining Technology & Mining Weekly. (2026, julio 7). BHP secures environmental clearance for
+Escondida expansion ($10.7bn–$14.7bn Chilean capex program & $5.9bn new concentrator) .
+https://www.mining-technology.com/news/bhp-environmental-clearance-escondida-expansion/ y
+https://www.miningweekly.com/article/bhp-gets-approval-to-start-15bn-copper-expansion-in-chile-
+2026-07-07
+MPC Markets Mosaic. (2026, agosto 18). BHP Earnings Report FY2026: Analysis of EBITDA bridge,
+dividend payout and FY27–FY31 Escondida grade decline guidance .
+https://mosaic.mpcmarkets.com.au/content/bhp-earnings-report-fy2026/
+Revista Nueva Minería & Energía. (2024, octubre 15). BHP pone en marcha nuevo centro de operación
+remoto pionero en Sudamérica (BHP Copper Advanced Services en Edificio Titanium, Santiago, US$
+48,3 millones) . https://www.nuevamineria.com/revista/bhp-pone-en-marcha-nuevo-centro-de-
+operacion-remoto-pionero-en-sudamerica/
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 31 de 32
+
+--- Página 32 ---
+Shleifer, A., & Vishny, R. W. (1992). Liquidation values and debt capacity: A market equilibrium approach.
+The Journal of Finance , 47(4), 1343–1366.
+Solow, R. M. (1974). Intergenerational equity and exhaustible resources. The Review of Economic
+Studies , 41, 29–45.
+Trading Economics. (2026, octubre). BHP Group — Market Capitalization (ASX A$ 294.21B / NYSE US$
+215.21B) . https://tradingeconomics.com/bhp:au:market-capitalization
+7.4. Arquitectura de Gobernanza Metodológica y Declaración de Autoría Académica
+En conformidad con los protocolos contemporáneos de investigación interdisciplinaria en economía
+financiera, metabolismo territorial y economía ecológica, el presente Documento de Trabajo explicita la
+matriz de división operacional entre el procesamiento computacional de datos (sistemas de modelación
+cuantitativa, sistematización de series bursátiles 1990–2026 y cruce de balances biofísicos/energéticos
+del SEN) y el ámbito exclusivo del juicio estratégico, ético-científico y académico del autor. La definición
+de la teoría del caso económico-ambiental, la calibración de los supuestos de descuento por venta forzada
+( fire-sale ), la interpretación de las fallas de mercado en las cuencas altoandinas y comunas de enclave de
+las regiones de Antofagasta y Tarapacá, y la formulación de la estrategia de conservación de valor
+corresponden íntegramente al criterio académico y responsabilidad intelectual del investigador
+responsable.
+Fase de Procesamiento Analítico y Computacional Juicio Estratégico y Autoría Humana
+Investigación Exclusiva
+1. Auditoría Sistematización de reportes anuales de BHP Selección de fuentes primarias, validación
+Documental y (FY1990–FY2026), series ASX/NYSE, de consistencia contable IFRS y distinción
+Series Históricas expedientes del Primer Tribunal Ambiental conceptual entre flujo de dividendos
+(1990–2026) (1TA) y registros de The Copper Mark, ( yield ) y plusvalía/minusvalía de capital.
+aplicando marcadores de trazabilidad [V] y
+[E].
+2. Modelamiento Cálculo de flujos de caja descontados, Calibración de tasas de descuento
+Financiero (SOTP / sensibilidad ante caída de leyes en ajustadas por riesgo socioambiental,
+DCF) y Escondida/Spence, balance horario de evaluación de sustentabilidad fuerte vs.
+Metabolismo potencia 24/7 en el SEN y cuantificación de débil y diseño del Plan de Conservación
+descuentos por iliquidez y pasivos. de Valor (US$ 4.850 millones).
+Suscripción Académica: Documento de Trabajo elaborado por Antonio Rojas , Candidato a Doctor,
+Profesor de Economía y Medio Ambiente y Economía Ecológica del Programa de Posgrado de la
+Universidad de Antofagasta (período académico 2015–2019). Octubre de 2026.
+Antonio Rojas — Documento de Trabajo: Valoración Accionaria de BHP y Activos en Chile (1990–2026) Página 32 de 32
