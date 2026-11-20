@@ -1,0 +1,282 @@
+--- Página 1 ---
+D O S I E R C I E N T Í F I C O · B O F E D A L PA M PA L A G U N A L A G U N I L L A S
+¿Se puede recuperar Lagunillas?
+El Acuerdo de Transacción frente a la
+ciencia
+Contraste del Acuerdo  IPTA, Rol D  10  2021  , la RCA N.° 13/2022, los reportes de la minera
+y la fiscalización, con la literatura independiente. Cierra con la evaluación de viabilidad de
+recuperación y recomendaciones.
+10  18,5 m  110  10 ha 83,6 %
+Descenso freático 1991  2012 Espejo de agua 1987  2004 Del monto global va a compensar otro
+sitio  M5 
+Elaborado a partir de dos documentos de análisis aportados, el Acuerdo de Transacción  10-nov-2023  y la literatura citada. Corte: 20 de octubre de 2026.
+
+--- Página 2 ---
+Resumen ejecutivo
+Qué dicen los adjuntos, qué soporta la evidencia y qué se recomienda
+Tesis: el Acuerdo es una solución jurídico-financiera cuyas medidas no atacan la causa física del problema, el descenso del
+nivel freático. Esa es la parte más sólida. La afirmación de que el humedal será un salar irreversible es una inferencia
+razonable, no un resultado medido.
+Veredicto en los
+Medida Contenido Veredicto calibrado Nivel de evidencia
+adjuntos
+M1 Restricciones operacionales y SRA Inviable Insuficiente Hidrogeología: sólida · Salinidad
+futura: inferida
+M2 Comité de Expertos 2024  2033 Inoperante Condicionada Gobernanza: sólida · Efecto físico:
+nulo
+M3 Actualizar Imagen Objetivo (art. 25 Distorsión normativa Riesgo alto Microclima local: sólida · Intención: no
+quinquies) demostrable
+M4 Carbono y torre Eddy Covariance Inviable Medición sí, restauración no Germinación: dato de la minera ·
+Turba: inferida
+M5 Humedal equivalente  US$15 M  Ficción contable No restaurativa Equivalencia: argumento conceptual
+M6 Divulgación, libro y sitio web Legitimación Sin efecto físico Intención corporativa: no demostrable
+ US$0,4 M  corporativa
+Evidencia sólida ( 🟢 ) Evidencia inferida o abierta ( 🟡 / 🔴 )
+Descenso freático de 10  18,5 m. Cambio térmico local Trayectoria futura a salar irreversible. Plazos de
+asociado a la pérdida de agua somera. El espejo de agua recuperación  2033  2050 vs 3  5 años). Cumplimiento de la
+cayó  91 % y no se explica por lluvias. Fracaso de siembra renuncia de derechos y hallazgos de la SMA, que requieren
+de semillas reportado por la propia minera. cita directa del expediente.
+Contradicción entre los adjuntos. El primero concluye que Lagunillas "se convertirá inevitablemente en salar estéril". El segundo
+concluye que la conversión "no es un destino inevitable" y que hay recuperación posible en 3  5 años. El dosier las reconcilia:
+ambas pueden ser ciertas si se distingue vegetación, suelo y acuífero (ver sección 7  .
+Dosier científico · Viabilidad de recuperación · Pampa Lagunillas 2
+
+--- Página 3 ---
+1 · Hidrogeología: el problema de fondo
+Scheihing & Tröger  2018  , Hydrogeol J 26  705  719 · Romero-Toledo et al.  2017 
+Descenso del nivel freático 1991  2012, por pozo (m)
+LA  1 18,5
+LA  7 13,5
+LA  3 10,8
+LA  4 10,4
+LA  5 10,0
+Umbral crítico: napa a 2  3 m de profundidad
+Nivel original:  0,2 m b.n.s.  LA  5  y  1 m  LA  3  . Descenso 3,3 a 9,3 veces el umbral de 2  3 m. Tasa media  0,5  1 m/año.
+Espejo de agua de la laguna (ha, aproximado)
+1987  110
+2004  10
+2006  12
+2009  22
+2014  43
+Valores leídos del gráfico de Romero-Toledo et al.  2017  , Fig. 4. Caída 1987  2004 de  91 %. En 2014 la superficie es  39 % de la de 1987. Los años
+de mínimo  2004  2006  tuvieron más lluvia que los de leve recuperación  2009  2014  .
+Cronología Hito
+1982 Derechos por 300 l/s  DGA Res. 425  y acueducto de 76 km
+2001  2002 Se secan las vertientes (interrumpidas en 2001, según el propio Acuerdo)
+2006  2008 Sanción de Corema y acuerdo extrajudicial
+2011 Res. Ex. 67/2011 aprueba el Plan de Trabajo con SRA
+2019  2023 Sentencia 2TA anula parcialmente la RCA 69/2015; Corte Suprema confirma; RCA 13/2022
+El Acuerdo define como "Problema Central" el descenso del acuífero. Ninguna de las seis medidas lo revierte directamente; el
+SRA lo compensa en superficie con 18  25 l/s.
+Dosier científico · Viabilidad de recuperación · Pampa Lagunillas 3
+
+--- Página 4 ---
+2 · Microclima y salinidad
+Por qué la pérdida de agua somera altera la temperatura y concentra sales
+Cambio térmico local Sólidos disueltos (mg/l)
+Máx. verano (+)  2,7 °C 30.000
+11.580
+Mín. verano (−)  2 a  4 °C
+Mín. invierno (−)  3 a  8 °C
+293
+Estación Lagunillas vs control Collacagua, 29 años de datos. Varianza
+18  47.
+Línea Pico Máx.
+base laguna reportado
+Escala logarítmica. Referencia: agua de mar  35.000 mg/l.
+Mecanismo (consistente en ambos adjuntos)
+Paso Proceso Estatus
+1 La napa cae bajo  2 m: cesa la evaporación desde el nivel freático y desaparece el Medido localmente
+efecto de enfriamiento y de "radiador" térmico
+2 Sin gradiente ascendente (vertientes secas desde 2001  , el agua superficial depende Documentado
+del bombeo
+3 Con evapotranspiración muy alta, el agua estancada se evapora y deja sales; los STD Datos puntuales + mecanismo
+suben a 11.580  30.000 mg/l
+4 Evapoconcentración sostenida → costra salina → condición de salar Inferencia razonable, no proyección medida
+Dato por unificar. Los adjuntos citan tasas de evapotranspiración distintas  0,87  2,4 mm/día y 1,16  2,4 mm/día). El dosier previo
+usó 1.400 mm/año   3,8 mm/día). Debe fijarse una sola serie con su fuente antes de publicar.
+Matiz sobre causalidad. Scheihing & Tröger asocian el cambio térmico local al descenso por bombeo con una sólida evidencia
+estadística y física. Los propios autores piden más modelación; por eso conviene escribir "evidencia sólida de atribución local",
+no "demostrada".
+Dosier científico · Viabilidad de recuperación · Pampa Lagunillas 4
+
+--- Página 5 ---
+3 · Medida por medida  M1  M3 
+Fuente de ejecución: Reporte de Variables Relevantes 2020  21 e informe de fiscalización citado en el adjunto
+M1 · Restricciones operacionales y SRA
+El Acuerdo Límite de bombeo  45 l/s), SRA de  18  25 l/s en 31 puntos, renuncia a derechos  300 l/s).
+Ejecución SRA operando a 22,5  24,2 l/s. Según el adjunto, la SMA/DGA constató excedencias  2016, 2018, 2021  2023  por
+reportada 169.979,9 m³ y uso del pozo P3 sin autorización entre 2022 y 2024.
+Ciencia Bajar el bombeo no devuelve la presión hidrostática ni reactiva las vertientes; inyectar agua sobre napa
+colapsada en clima de alta evaporación favorece la concentración de sales.
+Veredicto Insuficiente Medida necesaria pero insuficiente. Cifras SMA  verificar en el expediente antes de citarlas.
+M2 · Comité de Expertos  2024  2033, US$0,69 M 
+El Acuerdo Tres integrantes que revisan los modelos hidrogeológicos.
+Ejecución Entre nov-2020 y mar-2021 la Comunidad Aymara de Cancosa impidió el ingreso al bofedal; se interrumpieron
+reportada series de monitoreo.
+Ciencia Romero-Toledo  2017  y García Barriga  2025   la gestión del agua en los Andes es socionatural y requiere
+reciprocidad y legitimidad territorial.
+Veredicto Condicionada La asesoría técnica puede ser sólida, pero su efecto depende del acceso al predio y de la
+participación comunitaria.
+M3 · Actualizar la Imagen Objetivo (art. 25 quinquies)
+El Acuerdo Permite pedir al SEA revisar metas  8,3 ha,  78 % de cobertura, rastrojo  5 %  por evolución climática.
+Ejecución CMCC atribuye oscilaciones de vegetación a estacionalidad e inestabilidad climática.
+reportada
+Ciencia Scheihing & Tröger: el cambio térmico local acompaña la pérdida de agua somera. Sin correlación entre lluvia y
+mínimos del espejo de agua.
+Veredicto Riesgo alto Riesgo de que una rebaja de metas traslade a la naturaleza un costo causado por el bombeo. Que
+haya intención de eludir no está demostrado.
+Las tres medidas se ocupan de operar, vigilar y reencuadrar. Ninguna restituye el nivel freático.
+Dosier científico · Viabilidad de recuperación · Pampa Lagunillas 5
+
+--- Página 6 ---
+3 · Medida por medida  M4  M6  y presupuesto
+Dónde va el dinero y qué restaura
+Reparto del Monto Global  US$ millones)
+US$17,94 M · Monto global
+M5 · 15,0  83,6 % 
+M5 Humedal 15,00 M2 Comité 0,69 M6 Divulgación 0,40 M1  M3  M4  1,85
+*Calculado por diferencia  17,94  15,00  0,69  0,40  ; no desglosado en los adjuntos.
+Germinación vs trasplante de champas
+Siembra de semillas  CMCC  0,0125  0,0375 %
+Trasplante de champas (literatura) 93,6  100 %
+Cifras de los adjuntos. Métodos y sitios distintos: no son comparables directamente. Muestran que la técnica de propagación importa más que la
+especie.
+M4 · Carbono y torre Eddy Covariance
+El Acuerdo Medición de flujos de CO₂ y recolonización asistida de Oxychloë andina .
+Ejecución Germinación de 0,0125  0,0375 % en los ensayos de siembra  2017  2019  .
+reportada
+Ciencia Los bofedales secuestran carbono con turba saturada de forma continua  Chávez 2023; Earle 2003  . Con napa
+profunda la turba se oxida y emite.
+Veredicto Medición sí, restauración no La torre mide, no restaura. La emisión neta actual es plausible, pero no está
+medida en Lagunillas.
+M5 · Humedal equivalente  US$15 M, 83,6 % del total)
+El Acuerdo Conservar entre 2 y 6 veces las 8,3 ha en otro humedal; 'ganancia ambiental neta'.
+Ejecución Sin hitos de ejecución en los adjuntos.
+reportada
+Ciencia Squeo  2006  y García Barriga  2025   bofedales frágiles y socionaturales, no intercambiables. Conservar otro
+sitio no devuelve agua ni vertientes a Lagunillas.
+Veredicto No restaurativa Es compensación, no restauración. El Acuerdo (§34  declara que no implica reconocimiento
+de responsabilidad; tampoco declara irrecuperable el humedal.
+M6 · Divulgación  US$0,4 M 
+El Acuerdo Artículos en revistas indexadas, libro y sitio web.
+Ejecución Proyectado; sin ejecución en los adjuntos.
+reportada
+Ciencia Su validez científica depende de la revisión por pares y de publicar datos completos, incluidos los adversos.
+Veredicto Sin efecto físico Sin efecto ecológico. Calificarlo de 'propaganda' es opinión; es mejor exigir datos abiertos.
+Dosier científico · Viabilidad de recuperación · Pampa Lagunillas 6
+
+--- Página 7 ---
+4 · Prácticas ancestrales: lo que el Acuerdo no incorpora
+Crianza del agua (uywaña) · García Barriga et al.  2025  · FAO/CNG  2024 
+Práctica Función ecohidrológica En el Acuerdo
+Irpas / acequias Conducen y reparten el agua por curvas de nivel No incluida
+Tomas y pongos Regulan caudal con diques y compuertas de turba y piedra No incluida
+Riego tendío Película laminar de 1  2 cm que satura la turba y lixivia sales Parcial: riego por SRA
+Volteo de champas Oxigena y reactiva el banco de semillas No incluida
+Pastoreo rotativo de camélidos Pisoteo blando, abonado (taquia), dispersión de semillas No incluida
+Límite de la evidencia. García Barriga et al. estudian bofedales de Arica y Parinacota, no Lagunillas, y no analizan minería ni
+hidrogeología. Los plazos de 2 años para brotar y 3  4 años para pastoreo vienen de bofedales creados con riego anual.
+Extrapolarlos a Lagunillas es una hipótesis de trabajo.
+5 · Viabilidad de recuperación: reconciliar 'inviable' y '3  5 años'
+Componente Horizonte Viabilidad Condición clave
+Cobertura vegetal (cojines) 3  5 años Posible Agua dulce disponible y continua; trasplante de champas,
+no semillas
+Salinidad del suelo 2  5 años Posible, condicional Flujo laminar con agua de baja salinidad. La lluvia local es
+superficial escasa: la fuente debe cuantificarse
+Microclima térmico 5  15 años Parcial Humedad superficial y cobertura densa mitigan; la
+restitución plena exige napa  2 m
+Turba profunda y sumidero Décadas Incierta Saturación anóxica continua; la turba oxidada no se
+de carbono recupera por trasplante
+Acuífero y vertientes 2033  2050  Res. Lenta, no garantizada Cese del bombeo y recarga natural; sin modelo público de
+67/2011  cierre
+Dosier científico · Viabilidad de recuperación · Pampa Lagunillas 7
+
+--- Página 8 ---
+5 · Horizontes: el Acuerdo vs la bioingeniería
+Dos relojes distintos: acuífero (décadas) y vegetación (años)
+Hitos del acuífero según el marco regulatorio
+2023 2033 2036 2043 2050 2078
+cierra bombeo LA  5 LA  4 LA  3 LA  2
+Comité de Expertos 2024  2033
+Manejo de largo plazo hasta 2078  RCA 
+Propuesta bioingeniería: años 1  5 (vegetación)
+Fechas de recuperación por pozo de la Res. Ex. 67/2011, citadas en el Acuerdo: LA  5 2033, LA  4 2036, LA  3 2043, LA  2 2050; manejo hasta 2078.
+Inicio de la propuesta ilustrado en 2025.
+Cronograma de la propuesta de recuperación acelerada (años)
+Año 1 Año 2 Año 3 Año 4 Año 5
+Pilar I · Cosecha de agua / irpas
+Lixiviación de sales
+Pilar II · Champeo y halófitas
+Volteo de champas
+Pilar IV · Camélidos  UG 
+Pilar III · Inercia térmica
+Año 1  2 · Hidráulica y bioingeniería Año 3  5 · Consolidación
+Limpieza de irpas, tomas de champa, riego tendío con aguas Cobertura continua, pastoreo rotativo bajo cálculo de
+de monzón (diciembre–marzo), lixiviación de sales, capacidad de carga, descanso invernal (mayo–julio),
+trasplante de champas y halófitas ( Distichlis humilis ) en amortiguación térmica.
+bordes salinizados.
+Afirmaciones a no sostener tal cual. "Inmunizado contra la salinización" y "recupera la turba en menos de 5 años" no tienen
+respaldo en las fuentes para Lagunillas. Defendible: "es posible iniciar la recuperación vegetal y reducir la salinidad superficial en
+3  5 años, si hay agua dulce y acceso comunitario; la recuperación del acuífero sigue su propio plazo".
+Dosier científico · Viabilidad de recuperación · Pampa Lagunillas 8
+
+--- Página 9 ---
+6 · Control de rigor: qué ajustar antes de presentarlo
+Cada afirmación del material fuente frente a lo que soporta la evidencia
+Afirmación en los adjuntos Qué soporta la evidencia Formulación defendible
+«La hipótesis queda plenamente Las evidencias son coherentes; no hay proyección Escribir «respaldada por evidencia
+demostrada» medida de la trayectoria a salar convergente»
+«Causalidad antrópica demostrada» Asociación estadística y mecanismo físico sólidos; «Evidencia sólida de atribución local»
+los autores piden modelación adicional
+«Sobreextracción ilegal de 169.979,9 Proviene del informe SMA citado en el adjunto; no Citar resolución o expediente SMA/DGA
+m³; P3 sin autorización» fue contrastado aquí con fecha y rol
+«Deshonestidad académica», «ardid Atribución de intención; Romero-Toledo no Reemplazar por exigencia de datos
+legal», «cooptación» documenta eso para este caso abiertos y revisión independiente
+«M5 admite que Lagunillas es El Acuerdo (§34  niega reconocimiento de «M5 no restaura Lagunillas»
+irrecuperable» responsabilidad y la RCA fija manejo hasta 2078
+«Inviable» (doc. 1  vs «no inevitable» Se refieren a componentes distintos Usar la matriz de viabilidad por
+(doc. 2  componente
+Evapotranspiración 0,87  2,4 vs 1,16  2,4 Rangos incompatibles entre adjuntos Unificar serie y fuente
+mm/día
+«3  5 años para recuperar el bofedal» Plazo de bofedales creados en Arica y Parinacota Presentar como hipótesis piloto a validar
+con riego anual
+Alcance de la lectura del Acuerdo. Se leyeron las páginas 1  12 del Acuerdo (contexto, RCA 13/2022, monto global de
+US$17.940.000  . Las fichas de M1  M6, los plazos y el mecanismo de fiscalización están descritos en los adjuntos y deben
+cotejarse con las páginas 18  50 del texto aprobado.
+Escala de evidencia usada
+🟢 Dato verificado fuente primaria o literatura revisada por pares. 🟡 Inferencia razonamiento consistente, sin medición
+directa. 🔴 Brecha dato no verificado o ausente.
+Dosier científico · Viabilidad de recuperación · Pampa Lagunillas 9
+
+--- Página 10 ---
+7 · Recomendaciones
+Viabilidad de recuperación: pasar de compensar a restaurar con indicadores medibles
+Conclusión: la recuperación vegetal y del suelo superficial es plausible en 3  5 años con agua dulce, bioingeniería y manejo
+tradicional. La recuperación del acuífero y de la turba profunda es un proceso de décadas, y el Acuerdo no la asegura.
+# Recomendación Acción concreta Responsable Prioridad
+1 Fijar la napa como indicador Exigir meta de nivel freático por pozo  LA  2 a LA  5  con SMA / DGA Alta
+rector trayectoria pública y umbral operativo de 2  3 m
+2 Auditoría hidrogeológica Modelo numérico abierto de cierre; contrastar fechas 2033  2050 Comité + universidad Alta
+independiente y escenario climático externa
+3 Umbrales de salinidad en la Definir STD y conductividad máximos en laguna y suelo, con SMA / SEA Alta
+RCA frecuencia de muestreo
+4 Convenio de gobernanza Acceso, monitoreo comunitario y manejo tradicional (uywaña) Comunidad, CMCC, Alta
+con Cancosa con financiamiento y consentimiento CONADI
+5 Pilotos de champeo con Parcelas con y sin intervención; medir supervivencia, salinidad y Equipo científico Media
+control temperatura 3 años independiente
+6 Fuente de agua cuantificada Balance de agua del riego tendío: lluvia, quebradas, SRA; evitar CMCC / DGA Alta
+estancamiento y evaporación
+7 Datos abiertos y publicación Publicar series de piezómetros, STD, NDVI y resultados de torre CMCC / MMA Media
+completa Eddy, incluidos los adversos  M4, M6 
+8 Control de la rebaja de Exigir análisis de atribución con series de la estación de control SEA / SMA Alta
+metas  M3  antes de modificar la Imagen Objetivo
+9 Adicionalidad de M5 Probar que el sitio compensado estaba en riesgo real y fijar MMA / IPTA Media
+indicadores en Lagunillas, no solo en el otro sitio
+10 Monitoreo satelital GDUDEX Series Sentinel-2/HLS con polígono estandarizado, agua, NDVI y Equipo técnico Media
+clorofila, con alertas trimestrales
+Fuentes
+Scheihing & Tröger  2018  Hydrogeol J 26  705  719 · Romero-Toledo et al.  2017  · García Barriga et al.  2025  J Soc Archaeol 26  1   28  50 · Chávez et
+al.  2023  IJAEOG 116  103138 · Earle et al.  2003  Quaternary Res 59  2  11 · Squeo et al.  2006  · FAO/CNG  2024  · Acuerdo de Transacción, IPTA Rol
+D  10  2021, 10-nov-2023 (págs. 1  12 leídas) · Evaluación técnico-científica y Viabilidad de recuperación (documentos aportados).
+Dosier científico · Viabilidad de recuperación · Pampa Lagunillas 10
