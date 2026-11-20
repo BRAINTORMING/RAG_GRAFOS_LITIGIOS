@@ -1,0 +1,742 @@
+--- Página 1 ---
+Dosier Bofedal Pampa Lagunillas — Sección Nueva
+Litigios, Sentencias y Acuerdos de BHP en Sudamérica: Demandas Ambientales y Daños
+Investigación consolidada a partir de dos fuentes independientes (Perplexity y ChatGPT) —
+fecha de corte: 11-12 de octubre de 2026
+Nota de alcance y metodología
+Esta sección responde a la siguiente pregunta de investigación, formulada como mandato de
+trabajo para esta parte del dosier:
+“Investigación detallada de las sentencias, fallos y nombre de los sucesos o descripción
+o razones de las demandas, colocando demandante, demandado, considerando el daño
+y el acuerdo judicial o prejudicial en montos, según el país. Enfocada en los países de
+Sudamérica, con fecha de referencia, de las demandas que ha tenido BHP Billiton o
+BHP Minerals Américas o sus empresas con nombre particular, en los países de
+Sudamérica, siempre del grupo BHP.”
+El contenido se construyó consolidando y cruzando dos investigaciones independientes
+entregadas por el usuario (una producida con Perplexity, otra con ChatGPT), ambas con fecha
+de corte del 11 de octubre de 2026. Donde ambas fuentes coinciden, el dato se trata como más
+confiable. Donde una fuente aporta un dato que la otra no menciona, se incorpora y se
+identifica expresamente de cuál proviene. Donde hay discrepancias de cifra o de alcance, se
+señalan en la sección 8 (“Discrepancias y reconciliación entre fuentes”) en lugar de elegir una
+cifra arbitrariamente.
+Marco de clasificación jurídica usado en todo el documento
+Siguiendo el criterio que ambas fuentes ya aplicaban de forma independiente —y que es
+indispensable para no confundir lo exigido con lo efectivamente pagado—, cada caso se
+clasifica en una de cuatro categorías:
+Categoría Significado
+Sentencia firme Decisión judicial definitiva o ejecutoriada
+Sentencia no firme / procedimiento en Hay resolución, pero sujeta a recursos o
+curso nuevas actuaciones
+Acuerdo judicial o extrajudicial Las partes pactaron una compensación
+(pagos, medidas de reparación,
+compromisos)
+Demanda o reclamación sin resolución Existen pretensiones o alegaciones, pero no
+definitiva hay responsabilidad probada ni monto fijado
+Adicionalmente, cada monto se etiqueta según su naturaleza: monto reclamado (lo que pidió
+el demandante) vs. monto acordado/sentenciado (lo que se resolvió) vs. monto
+
+--- Página 2 ---
+efectivamente pagado (cuando hay información pública al respecto) — porque, como
+advierten ambas fuentes, son cifras distintas que no deben sumarse ni confundirse entre sí.
+Advertencia sobre la estructura societaria de BHP
+Ambas fuentes coinciden en un punto jurídicamente crítico: un litigio contra una filial,
+sociedad operadora o empresa participada no equivale automáticamente a una
+condena contra la matriz BHP Group . Las participaciones societarias relevantes
+identificadas son:
+• Samarco Mineração S.A. (Brasil): 50% BHP Billiton Brasil / 50% Vale.
+• Compañía Minera Antamina S.A. (Perú): 33,75% BHP.
+• Cerrejón (Colombia): BHP tuvo 33,3% hasta la venta de su participación a Glencore,
+completada el 11 de enero de 2022 — litigios posteriores a esa fecha no son atribuibles
+a BHP como propietaria.
+• Minera Escondida Limitada y Compañía Minera Cerro Colorado Limitada (Chile):
+operadas directamente por el grupo BHP.
+• Vicuña Corp. (proyecto fronterizo Argentina-Chile): participación conjunta con Lundin
+Mining.
+Conversión de moneda
+Todas las cifras se mantienen en su moneda original y se añade un equivalente aproximado
+en dólares estadounidenses (US$) entre paréntesis. Cuando ese equivalente fue entregado
+directamente por alguna de las dos fuentes, se usa esa cifra y se indica. Cuando ninguna fuente
+lo entregó, se calculó con un tipo de cambio referencial de la fecha aproximada del hecho
+(indicado en cada caso) y se marca explícitamente como estimación propia, no verificada
+contra una fuente financiera oficial .
+1. Resumen ejecutivo comparativo por país
+N.º de casos
+identificados con
+fondamento Principal exposición
+País suficiente económica conocida Estado general
+Brasil 4 (acción civil, causa Acuerdo integral Acuerdo civil
+penal, acuerdo R$170.000 millones ratificado y firme
+integral, + 2 litigios (~US$31.700 M); (mayo 2025); causa
+conexos fuera de la porción estimada de penal apelada; litigio
+región) BHP: R$85.000 M inglés con
+(~US$15.900 M) responsabilidad
+declarada pero
+cuantía pendiente
+Chile 5 (Lagunillas, US$81,2 millones Tres
+Quipisca, Punta (Punta Negra) + acuerdos/sanciones
+Negra, Monturaqui- US$18 millones resueltos; una nueva
+
+--- Página 3 ---
+N.º de casos
+identificados con
+fondamento Principal exposición
+País suficiente económica conocida Estado general
+Tilopozo/SMA, (Lagunillas) + US$8,5 demanda (2026) sin
+Monturaqui- millones (multa resolución
+Tilopozo/Peine) Tilopozo)
+Perú 0 casos verificables No determinado Vacío de verificación
+contra BHP — ver sección 4
+directamente
+Argentina 1 disputa cautelar No aplica — sin Disputa
+(Vicuña), sin monto territorial/interprovi
+condena por daños ncial, no una
+demanda por daño
+ambiental
+cuantificado
+Colombia 0 casos verificables No aplica BHP vendió su
+posteriores a la venta participación en
+de Cerrejón (2022) enero de 2022
+🔴 Nota metodológica central: ninguna de las dos fuentes logró verificar, bajo un estándar
+de evidencia suficiente, sentencias firmes con montos de indemnización atribuibles
+directamente a BHP en Perú, Argentina o Colombia. Esto no demuestra que esos litigios no
+existan — ambas fuentes lo advierten explícitamente — sino que señala un vacío de
+investigación que debería completarse con una revisión directa de registros judiciales locales
+(ver sección 9, recomendaciones).
+
+--- Página 4 ---
+2. Brasil: colapso de la presa de Fundão (Samarco), Mariana — 5 de noviembre
+de 2015
+Línea de tiempo del caso Fundão/Samarco
+2.1 Hecho y daño alegado
+El 5 de noviembre de 2015 colapsó la presa de relaves de Fundão, operada por Samarco
+Mineração S.A. , empresa conjunta de BHP Billiton Brasil Ltda. y Vale S.A. (50%/50%). La
+avalancha de relaves recorrió aproximadamente 663 km de ríos y devastó cerca de 1.469
+hectáreas de tierras (dato de Ibama, citado por la fuente 1), causando 19 muertes ,
+destrucción de comunidades, contaminación de cursos de agua, pérdida de tierras agrícolas y
+daños ambientales y socioeconómicos de gran escala en los estados de Minas Gerais y Espírito
+Santo.
+2.2 Cronología de demandas, resoluciones y acuerdos
+Fecha Demandante Demandado Suceso / objeto
+10 dic. 2015 Ministerio Público Samarco, BHP Brasil, Acción civil pública
+del Estado de Minas Vale por daños materiales
+Gerais y morales,
+alojamiento y
+asistencia social y
+económica a
+afectados
+
+--- Página 5 ---
+Fecha Demandante Demandado Suceso / objeto
+2016 Ministerio Público Samarco, Vale, Acción civil pública
+Federal y autoridades Billiton Brasil Ltda. federal: reclamo
+públicas inicial de R$155.000
+millones
+(~US$43.000
+millones , al cambio
+de 2016, según fuente
+2) por reparación,
+compensación y
+daños morales
+colectivos
+2018 Partes de la acción Samarco, BHP Brasil, Acuerdo procesal
+civil pública de Vale ratificado
+Mariana judicialmente el 2 de
+octubre de 2018 ,
+con mecanismos de
+reparación y
+acuerdos
+individuales a través
+de la Fundación
+Renova
+Ene. 2024 — Samarco, Vale, BHP Un tribunal federal
+Brasil fijó
+provisionalmente
+daños morales
+colectivos por
+R$47.600 millones
+(~US$8.900-9.500
+millones , estimación
+propia; tipo de
+cambio referencial
+~5,0-5,4 BRL/USD),
+sujetos a recursos.
+BHP sostuvo
+públicamente que la
+decisión no era
+definitiva
+25 oct. 2024 Gobierno federal, BHP Billiton Brasil, Acuerdo integral
+estados, fiscalías, Samarco, Vale (y de reparación por
+defensorías y otras otras partes R$170.000 millones
+autoridades firmantes) (~US$31.700
+brasileñas millones) , firmado
+el 25 de octubre de
+2024
+
+--- Página 6 ---
+Fecha Demandante Demandado Suceso / objeto
+6 nov. 2024 — — El Supremo
+Tribunal Federal
+(STF) ratificó el
+acuerdo integral
+Nov. 2024 Fiscalía Federal de Samarco, Vale, BHP Un juez absolvió a
+Brasil (causa penal) Brasil y 21 personas empresas y personas
+(ejecutivos y procesadas por
+técnicos) insuficiencia de
+pruebas para
+responsabilidad
+penal individual
+directa; la fiscalía
+anunció apelación.
+Proceso distinto del
+acuerdo civil — la
+absolución penal no
+exime las
+obligaciones civiles
+de reparación
+15 may. 2025 — — La decisión de
+ratificación del
+acuerdo integral
+quedó firme , según
+información
+corporativa
+presentada ante la
+SEC (EE.UU.)
+2.3 El acuerdo integral de 2024: composición y significado del monto
+El acuerdo de R$170.000 millones (~US$31.700 millones) se desglosa, según la información
+publicada por Vale ante la SEC, aproximadamente en:
+• R$38.000 millones (~US$7.900 millones) : montos ya desembolsados hasta
+septiembre de 2024 en reparación y compensación.
+• R$100.000 millones : pagos programados a lo largo de 20 años .
+• ~R$32.000 millones : obligaciones de ejecución y medidas de reparación
+complementarias.
+Responsabilidad entre las partes: Samarco es la principal obligada; BHP Brasil y Vale
+responden subsidiariamente , en proporción a sus participaciones (50%/50%), si Samarco
+no puede cumplir. Según la fuente 2, BHP reportó que su parte estimada del acuerdo equivale a
+R$85.000 millones (~US$15.900 millones) — cifra que no aparece explícitamente en la
+fuente 1 (ver discrepancias, sección 8).
+
+--- Página 7 ---
+Las medidas incluyen recursos para saneamiento, salud, recuperación económica e
+infraestructura; pagos a comunidades indígenas y tradicionales; y programas de compensación
+para pescadores, agricultores y personas con reclamaciones relacionadas con el agua.
+Interpretación obligatoria del monto (ambas fuentes coinciden en estos cuatro
+puntos):
+1. Es un valor global asociado al acuerdo y sus obligaciones, no un pago único .
+2. Incluye gastos ya desembolsados antes del acuerdo y compromisos futuros a 20 años.
+3. Involucra a varias entidades (Samarco, BHP Brasil, Vale); no es una condena
+exclusiva de BHP por el total .
+4. El acuerdo brasileño resuelve las reclamaciones de las autoridades públicas cubiertas
+por sus términos, pero no extingue automáticamente todas las acciones de
+individuos, asociaciones, empresas o comunidades, ni litigios en otras jurisdicciones
+(Reino Unido, Australia, Países Bajos).
+2.4 Reclamaciones individuales por interrupción del suministro de agua
+Los informes anuales de BHP (citados por fuente 1) registran que Samarco había sido
+demandada en más de 87.200 reclamaciones de menor cuantía por daños morales asociados
+a interrupciones del suministro de agua (de 5 a 10 días). Aproximadamente 38.000 seguían
+activas al 30 de junio de 2024 , y BHP Brasil figuraba como codemandada en más de 24.300
+de estos procesos. Dentro de un procedimiento brasileño para demandas repetitivas, se
+estableció un parámetro judicial de R$2.000 por reclamación individual (~US$370-400,
+estimación propia) , sin que esto implique que todas las reclamaciones hayan sido pagadas o
+resueltas de forma idéntica.
+2.5 Litigios conexos fuera de Sudamérica (incluidos por referirse a daños ocurridos en Brasil)
+a) Acción colectiva en Inglaterra
+• Demandantes: personas, empresas y comunidades brasileñas afectadas por Fundão;
+una de las fuentes describe una demanda originalmente presentada en nombre de más
+de 600.000 reclamantes , cifra que ha variado según decisiones procesales sobre quién
+puede continuar.
+• Demandados: BHP Group Limited y BHP Group (UK) Limited.
+• Hito judicial: el 14 de noviembre de 2025 , la High Court de Inglaterra determinó que
+BHP es responsable bajo normas brasileñas de responsabilidad ambiental y civil. BHP
+anunció que apelaría.
+• Cuantía: no determinada a la fecha de corte. La etapa de causalidad y cuantificación
+de daños está prevista para comenzar en abril de 2027 (fuente 2) o, según otra
+referencia de la fuente 1, entre 2028-2029. 🔴 Esta diferencia de fecha entre fuentes
+debe verificarse directamente en la página de BHP sobre el litigio.
+• Monto reclamado (no condena): se ha difundido una cifra de hasta £36.000
+millones como valor estimado o reclamado por los demandantes — equivalente
+aproximado de US ≈ 1,27, 2025). Esta cifra no es una condena líquida** ni un monto
+ya otorgado por un tribunal, y el acuerdo brasileño de R$170.000 millones no resuelve
+esta acción inglesa.
+
+--- Página 8 ---
+• En noviembre de 2025, BHP informó que más de 610.000 personas habían recibido
+compensación en Brasil y que aproximadamente 240.000 reclamantes de la acción
+colectiva inglesa habían otorgado liberaciones relacionadas con sus reclamaciones —
+cifras que describen el alcance de los programas de compensación, no el número de
+demandantes con sentencia individual firme en Inglaterra.
+b) Acción colectiva de accionistas en Australia (solo identificada por fuente 2)
+• Demandantes: accionistas que adquirieron acciones de BHP entre el 8 de agosto de
+2012 y el 9 de noviembre de 2015 .
+• Demandado: BHP Group Limited (y la entidad británica del grupo).
+• Razón: presuntas omisiones o información engañosa antes del colapso de la presa.
+• Acuerdo: BHP anunció en septiembre de 2025 un acuerdo por A$110 millones
+(~US/US$ ≈ 0,65, 2025), incluidos intereses y costos, sin admisión de
+responsabilidad . La Corte Federal australiana lo aprobó el 5 de diciembre de 2025**.
+• Este pago corresponde a accionistas , no a víctimas del desastre ambiental — no debe
+sumarse a las cifras de reparación a comunidades afectadas.
+2.6 Conclusión para Brasil
+El caso Fundão es, con amplio margen, el litigio de mayor magnitud económica y jurídica
+identificado para BHP en o relacionado con Sudamérica. Combina una acción civil pública con
+acuerdo integral ya ratificado y firme, un proceso penal en apelación, y dos litigios conexos en
+otras jurisdicciones (Inglaterra y Australia) todavía en curso. La responsabilidad, el monto y el
+alcance de cada obligación deben analizarse según la sociedad demandada, el expediente y
+la jurisdicción específica — no existe una cifra única y consolidada de “lo que BHP pagó por
+Fundão”.
+
+--- Página 9 ---
+3. Chile: litigios ambientales por extracción de aguas subterráneas
+Comparación de casos ambientales de BHP en Chile
+Chile concentra, junto con Brasil, el mayor número de litigios identificados contra operaciones
+de BHP en Sudamérica — todos ellos relacionados con la extracción de agua subterránea y sus
+efectos sobre acuíferos, bofedales, vegas y salares altoandinos.
+3.1 Luis Eliecer Jara Alarcón contra Compañía Minera Cerro Colorado Limitada — Bofedal y
+acuífero de Lagunillas
+Campo Detalle
+Demandante Luis Eliecer Jara Alarcón
+Demandada Compañía Minera Cerro Colorado Limitada
+(grupo BHP)
+Tribunal / causa Primer Tribunal Ambiental, Rol D-10-2021
+Fecha de referencia Medida cautelar: agosto de 2021. Conciliación
+aprobada: 21 de noviembre de 2023
+Suceso y razón Extracción de aguas subterráneas para la
+operación minera y sus efectos sobre el
+acuífero Lagunillas, la laguna
+Huantija/Lagunillas y el bofedal asociado,
+Región de Tarapacá. El demandante alegó
+descenso de niveles del acuífero, desaparición
+de afloramientos (vertientes) y afectación de
+los sistemas hídricos que sustentan la
+vegetación y biodiversidad del humedal
+Medida previa En agosto de 2021, el Primer Tribunal
+Ambiental dispuso cautelarmente detener
+
+--- Página 10 ---
+Campo Detalle
+la extracción desde los pozos señalados, con
+excepciones y ajustes posteriores
+Resolución y monto Conciliación aprobada el 21 de noviembre de
+2023, con seis medidas de reparación y
+compensación, con acciones valorizadas en
+aproximadamente US$18 millones . Incluye
+recuperación del acuífero y el bofedal,
+compensación de componentes ambientales y
+servicios ecosistémicos, y puesta en valor del
+humedal altoandino. La documentación del
+acuerdo fija como objetivos específicos
+restringir la operación del campo de pozos
+durante su vida útil remanente
+Clasificación jurídica Conciliación judicial con obligaciones
+ambientales — no una condena en efectivo
+entregada directamente al demandante; no se
+identificó una indemnización personal
+separada de las medidas del acuerdo
+Situación procesal posterior 🔴 En marzo de 2026 , el Primer Tribunal
+Ambiental publicó información sobre una
+audiencia de prueba de la misma causa D-
+10-2021, con testimonios sobre extracción de
+agua, desaparición de vertientes y
+vulnerabilidad del acuífero. No corresponde
+afirmar que la controversia esté
+definitivamente cerrada solo porque existe
+la conciliación de 2023 — debe verificarse si
+esta audiencia corresponde a cumplimiento
+de la conciliación o a un procedimiento
+relacionado distinto
+Este es el caso directamente relevante para el objeto central del dosier (ver secciones de
+Antecedentes legales y Restricciones del dosier principal).
+3.2 Asociación Indígena Agrícola San Isidro de Quipisca contra Compañía Minera Cerro
+Colorado (solo identificado por fuente 2)
+Campo Detalle
+Demandante / recurrente Asociación Indígena Agrícola San Isidro de
+Quipisca; en una acción constitucional
+relacionada, integrantes de la comunidad
+Demandada / recurrida Compañía Minera Cerro Colorado
+Razón Cuestionamientos a la evaluación ambiental
+de la continuidad operacional de la mina y a
+impactos sobre aguas, humedales y recursos
+
+--- Página 11 ---
+Campo Detalle
+comunitarios; en una causa adicional,
+intervención de la quebrada de Quipisca-
+Parca y construcción de botaderos con riesgo
+para el curso de agua
+Decisiones Enero de 2021 : la Corte Suprema acogió el
+reclamo contra la evaluación de continuidad
+operacional, por no haberse considerado
+adecuadamente los antecedentes sobre
+efectos en aguas y humedales. Abril de 2021 :
+la Corte de Apelaciones de Iquique ordenó
+cesar intervenciones en los recursos hídricos
+de la quebrada y adoptar medidas de
+seguridad y corrección de botaderos, al
+estimar ilegal la intervención sin
+autorización
+Monto 🔴 No se identificó una indemnización
+monetaria fijada en estas decisiones. Son
+fallos de revisión y protección ambiental
+(anulación de evaluación, orden de cese de
+intervención), no una condena por una suma
+de dinero
+3.3 Minera Escondida — sanción por el acuífero Monturaqui-Negrillar-Tilopozo
+Campo Detalle
+Origen Denuncia de la Dirección General de Aguas
+(DGA) en 2018, que dio lugar a un
+procedimiento sancionatorio de la
+Superintendencia del Medio Ambiente (SMA)
+Sancionador Superintendencia del Medio Ambiente (SMA)
+Sancionada / reclamante judicial Minera Escondida Limitada (titular: BHP),
+que impugnó la sanción ante el Primer
+Tribunal Ambiental
+Razón de la sanción Incumplimiento de la resolución de
+calificación ambiental, al no limitar
+oportunamente el período de extracción de
+agua; disminución del nivel freático superior
+a 25 centímetros en el sector de Tilopozo;
+afectación del acuífero y de la vegetación de
+las vegas
+Fecha de referencia Multa impuesta en 2022 (marzo, según
+fuente 1); reclamación rechazada y sanción
+confirmada por el Primer Tribunal
+Ambiental en diciembre de 2024
+
+--- Página 12 ---
+Campo Detalle
+Resolución y monto Multa de 10.000 UTA , calificada como
+infracción gravísima — valorada por la
+cobertura periodística en más de US$8,5
+millones . La SMA describió la afectación
+ambiental como significativa e irreversible,
+con recuperación estimada en siglos
+Clasificación jurídica Sanción administrativa confirmada
+judicialmente — distinta de un acuerdo de
+reparación o de una indemnización solicitada
+por una comunidad. La Comunidad
+Atacameña de Peine aparece mencionada
+como afectada por el daño descrito, pero este
+procedimiento específico es la impugnación
+de la multa por parte de la minera, no una
+demanda de la comunidad
+3.4 Consejo de Defensa del Estado, Comunidad Indígena Atacameña de Peine y Consejo de
+Pueblos Atacameños contra Minera Escondida — Salar de Punta Negra
+Campo Detalle
+Demandantes Consejo de Defensa del Estado (CDE),
+Comunidad Indígena Atacameña de Peine,
+Consejo de Pueblos Atacameños
+Demandada Minera Escondida Limitada (BHP)
+Tribunal Primer Tribunal Ambiental
+Razón Daño ambiental vinculado a la extracción de
+agua y a impactos en la subcuenca del Salar
+de Punta Negra y sus sistemas hídricos y
+ecosistemas asociados
+Fecha de referencia Acuerdo firmado en mayo de 2021 ;
+aprobado por el Primer Tribunal Ambiental
+en junio de 2021
+Resolución y monto Acuerdo conciliatorio con 19 medidas de
+gestión socioambiental, reparación y
+compensación (estudios técnicos, plan de
+manejo). El acuerdo publicado en el portal
+oficial del proceso fija US$81.192.184 para la
+ejecución de las medidas. Una publicación
+posterior menciona un rango de gasto de
+US$81 a US$93 millones , que puede reflejar
+costos estimados o contingencias de
+ejecución
+Reconciliación con la otra fuente La fuente 1 reporta este mismo caso con una
+cifra en pesos chilenos: “hasta CLP 67.000
+
+--- Página 13 ---
+Campo Detalle
+millones” , aprobación en junio de 2021.
+Ambas cifras son consistentes entre sí (CLP
+67.000 millones equivale aproximadamente a
+US$81-86 millones a un tipo de cambio de
+referencia de ~USD/CLP 780-825 para junio
+de 2021), por lo que se trata, con alta
+probabilidad, del mismo acuerdo
+expresado en dos monedas distintas —
+no de dos acuerdos separados
+Clasificación jurídica Acuerdo conciliatorio judicial de reparación
+ambiental. El monto es el valor estimado del
+paquete de medidas comprometidas, no
+necesariamente una transferencia monetaria
+directa a los demandantes
+3.5 Comunidad Indígena Atacameña de Peine contra Minera Escondida — nueva demanda
+por Tilopozo (solo identificado por fuente 2)
+Campo Detalle
+Demandante Comunidad Indígena Atacameña de Peine
+Demandada Minera Escondida Limitada (BHP)
+Fecha de referencia Admitida a trámite por el Primer Tribunal
+Ambiental en septiembre de 2026
+Razón Presunto daño al sector de Tilopozo asociado
+a la extracción de agua del acuífero
+Monturaqui-Negrillar-Tilopozo; la
+comunidad invoca la disminución del nivel
+freático ya establecida en el procedimiento
+sancionatorio de la SMA (sección 3.3)
+Estado a la fecha de corte (11-12 oct. 🔴 Sin sentencia final ni monto acordado
+2026) o concedido. Demanda en curso
+3.6 Otros litigios relevantes en Chile (mención general)
+La documentación corporativa de BHP (informe anual 2024, citado por fuente 1) registra
+también procedimientos sobre cumplimiento ambiental y asuntos laborales (controversias
+sindicales de Escondida), que deben investigarse por separado de las reclamaciones
+ambientales dado que involucran demandantes, daños y remedios jurídicos distintos. 🔴
+Ninguna de las dos fuentes afirma que el listado de casos chilenos presentado aquí sea
+exhaustivo.
+
+--- Página 14 ---
+4. Perú: Antamina y la dificultad de atribución societaria
+BHP tiene una participación minoritaria del 33,75% en Compañía Minera Antamina S.A.,
+operación situada en el centro-norte de Perú, empresa conjunta con otros socios y operada de
+forma independiente. Ambas fuentes coinciden en que, para investigar litigios en Perú, es
+necesario distinguir tres categorías:
+1. Demandas presentadas directamente contra BHP o una filial suya.
+2. Demandas contra Antamina en las que BHP pudiera tener participación procesal o
+responsabilidad reconocida.
+3. Demandas contra Antamina sin participación procesal demostrada de BHP, aunque la
+minera forme parte de su cartera de inversiones.
+Resultado documental (ambas fuentes coinciden): se identificaron denuncias y conflictos
+comunitarios en torno a impactos y compromisos locales de Antamina, pero ninguna de las
+dos investigaciones pudo verificar una sentencia firme o un acuerdo judicial
+monetario contra BHP o una filial identificada del grupo en Perú que cumpla el estándar
+de evidencia aplicado a Chile y Brasil.
+🔴 Esto debe interpretarse como un vacío de verificación , no como prueba de ausencia de
+litigios. La verificación debería continuar con registros judiciales peruanos, resoluciones
+ambientales y administrativas, y las memorias anuales de Antamina.
+5. Argentina: disputa cautelar por el proyecto Vicuña
+BHP participa, junto con Lundin Mining , en el proyecto minero Vicuña , en la frontera entre
+las provincias argentinas de La Rioja y San Juan (y Chile). En abril de 2026 se registraron
+medidas judiciales contrapuestas entre ambas provincias argentinas sobre el tránsito de
+vehículos y la continuidad de actividades del proyecto.
+Clasificación: con la información localizada, esto constituye una disputa territorial y
+cautelar interprovincial ligada a la continuidad operativa del proyecto — no una demanda
+por daños ambientales ya cuantificada contra BHP o una de sus filiales. No se identificó
+sentencia indemnizatoria ni acuerdo monetario asociado a estos hechos. 🔴 No corresponde
+presentar este caso como un litigio de daño ambiental con monto, y debe mantenerse
+clasificado separadamente de los casos de las secciones 2-4.
+6. Colombia: Cerrejón — participación vendida en 2022
+BHP tuvo una participación del 33,3% en Cerrejón (Colombia), pero completó la venta de esa
+participación a Glencore el 11 de enero de 2022 . En consecuencia:
+• Litigios o reclamos posteriores a esa fecha contra Cerrejón no deben atribuirse
+automáticamente a BHP como propietaria actual.
+
+--- Página 15 ---
+• Sucesos ocurridos durante la etapa de participación de BHP (anterior a enero de 2022)
+sí podrían ser relevantes para un estudio histórico de responsabilidad, pero ninguna de
+las dos fuentes identificó una sentencia sudamericana con condena monetaria
+directa a BHP por hechos de Cerrejón bajo el estándar de verificación aplicado al resto
+del documento.
+🔴 Al igual que en Perú y Argentina, esto es un vacío de verificación documental con las fuentes
+disponibles, no una conclusión sobre inexistencia de litigios históricos.
+7. Tabla comparativa consolidada regional
+Estado y monto
+(original →
+Demandante o Demandado(s) / Fecha de equivalente
+País / caso autoridad sancionado referencia US$)
+Brasil — Gobierno Samarco, BHP 25 oct. 2024 Acuerdo:
+Fundão, acuerdo federal, estados, Brasil, Vale (firme: may. R$170.000 M →
+integral fiscalías, 2025) ~US$31.700 M
+defensorías (porción BHP
+estimada:
+R$85.000 M →
+~US$15.900 M,
+fuente 2)
+Brasil — Ministerio Samarco, Vale, 2016 Demanda (no
+Fundão, Público Federal BHP Brasil sentencia):
+demanda civil R$155.000 M →
+2016 ~US$43.000 M
+Brasil — — Samarco, Vale, Ene. 2024 No
+Fundão, fallo BHP Brasil firme/apelable
+provisional : R$47.600 M →
+~US$8.900-
+9.500 M
+(estimación
+propia)
+Brasil — Fiscalía Federal Samarco, Vale, Nov. 2024 Absolución
+Fundão, causa BHP Brasil + 21 apelada — sin
+penal personas monto
+indemnizatorio
+en esta causa
+
+--- Página 16 ---
+Estado y monto
+(original →
+Demandante o Demandado(s) / Fecha de equivalente
+País / caso autoridad sancionado referencia US$)
+Reino Unido — Personas y BHP Group Ltd, Responsabilidad No firme:
+acción colectiva entidades BHP Group (UK) : nov. 2025 responsabilidad
+por Fundão brasileñas Ltd declarada;
+cuantía
+pendiente (hasta
+£36.000 M
+reclamado →
+~US$45.700 M,
+estimación
+propia)
+Australia — Accionistas BHP BHP Group Ltd Acuerdo: sep. Acuerdo: A$110
+accionistas por (2012-2015) 2025, aprobado M → ~US$71-72
+Fundão dic. 2025 M (estimación
+propia), sin
+admisión de
+responsabilidad
+Chile — Luis Jara Cía. Minera Conciliación: Acuerdo: US$18
+Lagunillas Alarcón Cerro Colorado nov. 2023 M (6 medidas de
+reparación)
+Chile — Asociación Cía. Minera Ene.-abr. 2021 Fallos de
+Quipisca Indígena San Cerro Colorado protección —
+Isidro sin monto
+monetario
+Chile — SMA; Escondida Minera Multa: 2022; Sanción firme:
+Monturaqui- impugnó Escondida confirmada: dic. 10.000 UTA →
+Tilopozo (SMA) 2024 ~US$8,5 M
+Chile — Punta CDE, Comunidad Minera Acuerdo: may.- Acuerdo:
+Negra de Peine, Escondida jun. 2021 US$81.192.184 (≈
+Consejo de CLP 67.000 M, 19
+Pueblos medidas)
+Atacameños
+Chile — Comunidad de Minera Admitida: sep. Sin resolución
+Tilopozo (Peine, Peine Escondida 2026 — sin monto
+nueva demanda) identificado
+Perú — Comunidades y Antamina — No verificado
+Antamina otros actores (33,75% BHP) — sin sentencia
+(sin caso ni acuerdo
+específico monetario
+verificado) confirmado
+Argentina — Disputa cautelar Vicuña Abr. 2026 No es demanda
+
+--- Página 17 ---
+Estado y monto
+(original →
+Demandante o Demandado(s) / Fecha de equivalente
+País / caso autoridad sancionado referencia US$)
+Vicuña interprovincial Corp. (BHP/Lun por daño —
+din) disputa
+territorial, sin
+monto
+Colombia — Reclamos Cerrejón (BHP — No verificado
+Cerrejón históricos hasta ene. 2022) — BHP vendió
+diversos su participación
+en 2022
+8. Discrepancias y reconciliación entre fuentes
+Para mantener el rigor evidencial del dosier, se documentan aquí las diferencias detectadas
+entre las dos investigaciones de origen:
+Reconciliación
+adoptada en esta
+Punto Fuente 1 (Perplexity) Fuente 2 (ChatGPT) sección
+Porción del acuerdo No desglosa una cifra Entrega una cifra Se incorpora la cifra
+Fundão atribuible a específica para BHP; específica: R$85.000 de fuente 2,
+BHP solo entrega el total M (~US$15.900 M) identificada
+de R$170.000 M como “parte explícitamente como
+estimada” de BHP tal, dado que es más
+precisa y no
+contradice a fuente 1
+Monto del acuerdo “Hasta CLP 67.000 Cifra explícita: Se presentan ambas
+de Punta Negra millones” (estimado) US$81.192.184 cifras como referidas
+al mismo acuerdo,
+con el cálculo de
+equivalencia que las
+hace consistentes
+(sección 3.4)
+Demanda civil de No la menciona La incluye con su Se incorpora desde
+2016 en Brasil explícitamente como equivalente en fuente 2
+(R$155.000 M) cifra de demanda dólares de la época
+inicial
+Fallo provisional de No lo menciona Lo documenta con Se incorpora desde
+enero de 2024 detalle fuente 2
+(R$47.600 M)
+Caso Quipisca No lo menciona Lo documenta con Se incorpora desde
+fechas y tribunales fuente 2 como caso
+
+--- Página 18 ---
+Reconciliación
+adoptada en esta
+Punto Fuente 1 (Perplexity) Fuente 2 (ChatGPT) sección
+específicos adicional
+Nueva demanda de No la menciona La documenta como Se incorpora desde
+Peine por Tilopozo admitida a trámite en fuente 2; es el dato
+(2026) septiembre de 2026 más reciente de todo
+el documento
+Causa penal por No la menciona La documenta con la Se incorpora desde
+Fundão absolución de fuente 2
+noviembre de 2024
+Acción colectiva de No la menciona La documenta con Se incorpora desde
+accionistas en monto y fechas fuente 2
+Australia
+Disputa Vicuña en No la menciona La documenta, Se incorpora desde
+Argentina aclarando que no es fuente 2, con su
+una demanda por propia advertencia de
+daño cuantificado clasificación
+Fecha de la etapa de Sugiere 2028-2029 Indica abril de 2027 🔴 Discrepancia no
+cuantificación del resuelta — se
+litigio inglés presentan ambas
+fechas y se marca
+como punto a
+verificar
+directamente en la
+fuente corporativa de
+BHP
+Lectura general: la fuente 2 (ChatGPT) aporta una cobertura más granular y una mayor
+cantidad de casos individuales —particularmente en Chile (Quipisca, nueva demanda de Peine)
+y en los procedimientos conexos a Fundão (causa penal, acción de accionistas en Australia)—
+mientras que la fuente 1 (Perplexity) ofrece un marco metodológico más explícito sobre cómo
+clasificar los distintos tipos de resolución y aporta con mayor detalle la ficha de registro
+recomendada para expedientes futuros (ver sección 9). Ninguna de las dos fuentes contradice
+sustantivamente a la otra en los casos que ambas cubren en común (Fundão, Lagunillas, Punta
+Negra, Monturaqui-Tilopozo) — las diferencias son, en todos los casos revisados, de cobertura
+(qué casos incluye cada una) y no de contenido (ambas describen los mismos hechos de forma
+consistente cuando tratan el mismo caso).
+9. Recomendaciones para completar el expediente
+Ambas fuentes coinciden en que esta investigación es un punto de partida, no un inventario
+jurídico exhaustivo. Para fortalecer esta sección del dosier de cara a un eventual uso como
+antecedente o evidencia de patrón corporativo, se recomienda:
+
+--- Página 19 ---
+1. Verificar directamente en fuentes primarias cada caso, usando como mínimo: el
+sitio oficial del Primer Tribunal Ambiental de Chile (1ta.cl), el portal de la
+Superintendencia del Medio Ambiente (portal.sma.gob.cl), la base EDGAR de la SEC de
+EE.UU. para informes corporativos de BHP y Vale, el portal del Supremo Tribunal
+Federal de Brasil (portal.stf.jus.br), y los sitios específicos de los acuerdos
+(acuerdoslagunillas.cl, acuerdosalarpuntasnegras.cl).
+2. Completar una ficha estandarizada por expediente , con los siguientes campos
+(propuesta de fuente 1, adoptada aquí): identificación de la causa (nombre, número,
+tribunal), fechas separadas de demanda/sentencia/acuerdo/firmeza, partes
+(demandante, demandado directo, terceros, vínculo societario con BHP), daño (hechos
+alegados, componentes afectados, daños acreditados), resultado
+(rechazo/acogimiento/conciliación/pendiente), monto reclamado, monto judicial o de
+acuerdo, pago efectivo (si hay información pública), estado actual, y fuente.
+3. Revisar sistemáticamente registros judiciales de Perú, Argentina y Colombia ,
+donde ninguna de las dos investigaciones logró verificar casos con el estándar aplicado a
+Chile y Brasil — esto es la laguna de información más importante a cerrar.
+4. Dar seguimiento a los dos procesos activos de mayor relevancia para el patrón
+argumental del dosier : (a) la audiencia de prueba de marzo de 2026 en la causa D-10-
+2021 (Lagunillas), para determinar si implica una reapertura sustantiva del litigio; y (b)
+la nueva demanda de la Comunidad de Peine por Tilopozo, admitida en septiembre de
+2026, que podría convertirse en un segundo precedente activo de litigio por extracción
+de agua subterránea en el norte de Chile.
+5. No sumar los montos entre sí para construir una cifra total de “responsabilidad de
+BHP en Sudamérica” — como advierten ambas fuentes, se trata de categorías jurídicas
+distintas (multas administrativas, acuerdos de reparación con componentes no
+monetarios, demandas sin resolver, montos reclamados vs. acordados) cuya suma
+carecería de validez jurídica o probatoria.
+10. Valor de esta sección para el dosier
+Aunque el objeto central del dosier es el caso específico de Pampa Lagunillas, esta investigación
+regional cumple una función argumental adicional: documenta que el patrón de litigios
+ambientales por extracción de agua subterránea que afecta humedales, acuíferos,
+bofedales y salares altoandinos no es un hecho aislado de Cerro Colorado , sino que se
+repite en al menos otras tres operaciones del mismo grupo empresarial en el norte de Chile
+(Minera Escondida, en los casos de Punta Negra y Monturaqui-Tilopozo), y guarda una
+analogía estructural —aunque de magnitud y naturaleza muy distinta— con el mayor desastre
+ambiental minero de la historia reciente de Sudamérica (Fundão, Brasil), donde la misma lógica
+de responsabilidad subsidiaria de la matriz BHP frente a una sociedad operadora (Samarco en
+Brasil; Cerro Colorado y Escondida en Chile son operadas directamente, no a través de una
+sociedad conjunta) ha sido objeto de litigio extendido a lo largo de una década.
+Fuentes: investigación documental consolidada entregada por el usuario (Perplexity, 11 oct. 2026;
+ChatGPT, 11 oct. 2026), que a su vez citan: BHP (informes anuales y comunicados corporativos,
+
+--- Página 20 ---
+bhp.com), SEC de EE.UU. (base EDGAR), Supremo Tribunal Federal de Brasil, Primer Tribunal
+Ambiental de Chile (1ta.cl), Superintendencia del Medio Ambiente de Chile (portal.sma.gob.cl),
+Diario Financiero, Forbes Chile, Reuters, acuerdoslagunillas.cl, acuerdosalarpuntasnegras.cl,
+Ibama (Brasil), y cobertura periodística especializada citada en ambas fuentes originales. Este
+documento no sustituye la verificación directa de sentencias y acuerdos en sus fuentes oficiales,
+recomendada en la sección 9.
