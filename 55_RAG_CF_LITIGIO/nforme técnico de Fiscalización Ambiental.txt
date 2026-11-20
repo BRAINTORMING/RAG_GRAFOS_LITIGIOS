@@ -1,0 +1,2182 @@
+--- Página 1 ---
+INFORME TÉCNICO DE FISCALIZACIÓN AMBIENTAL
+Fiscalización Ambiental
+FAENA MINERA CERRO COLORADO
+DFZ-2025-3063-I-RCA
+MARZO 2026
+Nombre
+Aprobado Valeska Muñoz Torres
+Elaborado Sergio Vilches Enríquez
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 2 ---
+Contenido
+1 RESUMEN..........................................................................................................................................................3
+2 IDENTIFICACIÓN DE LA UNIDAD FISCALIZABLE ................................................................................................5
+2.1 Antecedentes Generales .............................................................................................................................5
+2.2 Ubicación y Layout ......................................................................................................................................6
+3 INSTRUMENTOS DE CARÁCTER AMBIENTAL FISCALIZADOS ............................................................................8
+4 ANTECEDENTES DE LA ACTIVIDAD DE FISCALIZACIÓN .....................................................................................8
+4.1 Motivo de la Actividad de Fiscalización .......................................................................................................8
+4.2 Materia Específica Objeto de la Fiscalización Ambiental ............................................................................9
+4.3 Revisión Documental ...................................................................................................................................9
+5 HECHOS CONSTATADOS ................................................................................................................................ 12
+5.1 Verificación de medidas de mitigación del componente Agua en el sector Lagunillas ........................... 12
+5.2 Estado vegetacional del sector Lagunillas ................................................................................................ 44
+6 CONCLUSIONES.............................................................................................................................................. 54
+7 ANEXOS .......................................................................................................................................................... 56
+2
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 3 ---
+1 RESUMEN
+El presente documento da cuenta de los resultados de la actividad de fiscalización ambiental realizada por la
+Superintendencia del Medio Ambiente (SMA), junto a la Dirección General de Aguas (DGA) y el Servicio Agrícola y Ganadero
+(SAG), a la unidad fiscalizable “ FAENA MINERA CERRO COLORADO ” , del titular Compañía Minera Cerro Colorado Ltda.
+(CMCC).
+La faena minera Cerro Colorado está ubicada en la región de Tarapacá. Comenzó a operar el año 1992 y basa su producción
+de 130.000 ton/año promedio de cátodos en la explotación a rajo abierto de su yacimiento de cobre, y el posterior
+procesamiento del mineral mediante chancado en tres etapas, lixiviación en pilas, extracción por solventes y
+electroobtención. En sus evaluaciones ambientales, se ha definido la vida útil del proyecto hasta el año 2023, por tanto, en
+la actualidad el proyecto se encuentra, según sus RCA, en tercer año de su fase de cierre. Las instalaciones de la unidad
+fiscalizable se componen de dos sectores, un área mina-planta en la comuna de Pozo Almonte y un área de pozos ubicada
+en la Pampa Lagunillas, comuna de Pica, dentro del denominado Predio Huantija, a 70 kilómetros de la faena.
+La presente actividad de fiscalización se centra en este segundo sector de Lagunillas y tuvo su origen tras una comunicación
+ingresada por el titular con fecha 07 de febrero de 2024, en la que informó antecedentes respecto a la condición operacional
+del Sistema de Recarga Artificial (SRA) en el sector del bofedal Lagunillas, asociado a compromisos ambientales de la RCA
+N°2022010013/2022 que autorizó el EIA “Proyecto Continuidad Operacional Cerro Colorado”. En la presentación antes
+señalada, el titular hace mención a la imposibilidad de utilizar el pozo de extracción que le corresponde según la RCA
+N°2022010013/2022 (pozo denominado “PR”) para abastecer el SRA en la etapa actual de su proyecto, debido a aspectos
+de índole sectorial que involucran materias de competencia de la DGA. Por lo anterior, informa que con la finalidad de
+mantener la continuidad del SRA, ha optado por iniciar transitoriamente la extracción desde otro pozo que cuenta con
+derechos de aprovechamiento de aguas (pozo denominado “P3”). Poster iormente, respecto a estos mismos hechos,
+mediante denuncia recibida con fecha 15 de julio de 2024 (expediente ID 87-I-2024), se reportó a esta Superintendencia
+que CMCC estaría haciendo un uso ilegal del pozo P3, el cual estaría siendo utilizado desde enero del año 2024, incumpliendo
+con la RCA del proyecto. Así también, mediante denuncia recibida con fecha 12 de marzo de 2026 (expediente ID 72-I-2026),
+se informó a esta Superintendencia sobre una afectación en el mismo sector de Lagunillas, evidenciada a través de una
+disminución en los niveles de agua subterránea que estaría comprometiendo el ecosistema del bofedal.
+La actividad de fiscalización consistió en el examen de información de los antecedentes provistos por el titular en respuesta
+a requerimientos de información realizados por esta Superintendencia los años 2024 y 2025, así como también de informes
+de seguimiento cargados por el titular al Sistema de Seguimiento Ambiental (SSA) de este organismo.
+Las materias relevantes objeto de la fiscalización fueron: ‘ Verificación de medidas de mitigación del componente Agua en
+el sector Lagunillas’ y ‘Estado v egetacional del sector Lagunillas’ .
+En conformidad con las actividades ejecutadas, se obtuvieron los siguientes resultados:
+a. Respecto a la materia relevante ‘ V erificación de medidas de mitigación del componente Agua en el sector Lagunillas’ :
+• Para la medida de mitigación HI-1 “Cambio de punto de extracción del agua utilizada para el SRA del Bofedal de
+Lagunillas, a partir del año 2022 desde el Pozo P-3 a un nuevo Pozo P- R. (indistintamente tratado como Pozo PR)” :
+- Se verificaron excedencias en los caudales de extracción para abastecer el SRA en los años 2016, 2018 , 2021,
+2022 y 2023 , que en total representan una sobreextracción equivalente a un volumen de 169.979,90 metros
+cúbicos .
+- Sobre la temporalidad aplicada por el titular para proceder con el cambio de punto de extracción, se constató
+que el pozo P3 continuó en funcionamiento para abastecer el SRA durante el período 2022-2024, lo que no se
+ajusta a lo establecido en la medida HI-1 que exigía el cambio del punto de extracción de agua utilizada en dicho
+Sistema desde el pozo P3 a un nuevo pozo, identificado como PR, a partir del año 2022.
+- De acuerdo a lo informado por el Servicio de Evaluación Ambiental (SEA) en la Rex. Ex. N°202499101467 de
+fecha 07 de junio de 2024, que resolvió el recurso jerárquico interpuesto por el titular en relación con la consulta
+3
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 4 ---
+de pertinencia de ingreso al SEIA del proyecto “Respaldo de suministro del Sistema de Recarga Artificial (SRA)
+Lagunillas” , la operación del pozo P3 en reemplazo del pozo PR corresponde a una modificación sustantiva de
+la medida de mitigación de la RCA N°2022010013/2022, debiendo por tanto ingresar obligatoriamente al SEIA
+para su evaluación en dicha sede.
+- Respecto a la elección del pozo P3 como fuente de agua para el suministro del SRA, en reemplazo del pozo PR
+por su imposibilidad de uso, la DGA informó que la justificación técnica entregada por CMCC fue insuficiente,
+identificando deficiencias en la modelación hidrogeológica realizada por el titular. Adicionalmente, la DGA
+reportó que si bien el pozo P1 carece ría de tendido de tubería que lo conecte al SRA, este argumento por sí solo
+no sería suficiente para descartarlo como alternativa de reemplazo del pozo PR, considerando que dicho pozo
+se encuentra a una distancia de más de 2 kilómetros alejado del bofedal que el pozo P3 y que por tanto, el
+posible efecto de su extracción sería menor. Atendiendo la relevancia de asegurar el cumplimiento de los plazos
+de recuperación del acuífero, la DGA estima pertinente haber realizado un análisis técnico equivalente al
+efectuado para el pozo P3, a fin de evaluar objetivamente la viabilidad de su utilización como fuente de agua
+para el sistema, lo cual no fue presentado por CMCC.
+- Con fecha 23 de diciembre de 2025, el titular informó a esta Superintendencia sobre el reinicio de la operación
+del pozo PR basado en la autorización sectorial que lo faculta para hacer la extracción de aguas desde dicho
+pozo para su uso en el SRA, situación que fue verificada por la DGA con los antecedentes disponibles en dicho
+servicio.
+- Con todo, respecto al retraso incurrido para regularizar la situación antes descrita, y en cuanto a la evaluación
+de la debida diligencia de CMCC en sus solicitudes/gestiones sectoriales ante la DGA, dicho Servicio informó que
+no se advierte la existencia de conductas omisivas, dilatorias o reiteradamente incompletas que pudieran
+evidenciar una falta de diligencia por parte del titular
+• Para la medida de mitigación HI-2 “Restricción del caudal de extracción desde campo de pozos Lagunillas” , tras el
+examen de información efectuado, se concluye que el titular se ajustó a la restricción de sus extracciones
+operacionales para los años 2022 y 2023, según los límites/umbrales establecidos, en sus respectivas escalas de
+tiempo .
+• Para la medida de mitigación HI-3 “Plan para facilitar la delimitación y protección de acuíferos que alimentan vegas
+y bofedales en la región de Tarapacá”, en particular para la “Renuncia voluntaria de los derechos de agua con los
+que cuenta Cerro Colorado en el sector hidrogeológico de Lagunillas” :
+- S i bien el titular ha cumplido formalmente con los actos administrativos asociados a la renuncia voluntaria de
+derechos de agua, el objetivo sustantivo de la medida HI-3 — esto es, asegurar una reducción real de la presión
+extractiva sobre el sector hidrogeológico de Lagunillas y contribuir al resguardo del bofedal — no se habría
+materializado en su totalidad, atendidas las sobreextracciones verificadas en periodos previos (es decir, el titular
+extrajo una cantidad de recurso hídrico mayor a la necesaria).
+- Así, el titular no se ha ajustado a lo exigido en la medida HI- 3, a saber, “ Establecer la imposibilidad para Cerro
+Colorado de desarrollar nuevas extracciones en el acuífero de Lagunillas, una vez que haya finalizado la
+operación del Proyecto, con excepción del uso de los recursos necesarios para el riego artificial del bofedal
+La gunillas y la laguna Huantija” .
+b. Respecto a la materia relevante ‘ Estado vegetacional del sector Lagunillas ’:
+• En cuanto a los indicadores de cobertura vegetacional (metas de cumplimiento de recuperación de cobertura del
+bofedal, considerando 27.1 de la Res. Ex. N°067/2011 y considerando 16.2.5 de la RCA N°2022010013/2022), se
+pudo verificar que el titular ha dado cumplimiento a los porcentajes de cobertura exigidos , ajustándose a las metas
+establecidas para los años 2012, 2016 y para el inicio de la fase de mantención del plan de manejo (año 2024).
+• No obstante lo anterior, respecto a los medios de verificación asociados al análisis de formaciones vegetacionales
+(considerando s 19.2, 25.1, 26.8 1 de la Res. Ex. N°067/2011 y requerimiento del SAG referido a definir las unidades
+cartográficas de composición de especies y porcentaje de cobertura, según lo indicado en su Oficio ORD.
+N°3352/2025), el SAG identificó que el titular ha hecho un análisis técnico insuficiente que impide contar con un
+modelo ecosistémico, lo que a juicio de dicho servicio se considera un requisito esencial para mejorar el
+entendimiento de las interrelaciones agua-vegetación en la fase de mantención del bofedal Lagunillas.
+4
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 5 ---
+2 IDENTIFICACIÓN DE LA UNIDAD FISCALIZABLE
+2.1 Antecedentes Generales
+Identificación de la Unidad Fiscalizable: Estado operacional de la Unidad Fiscalizable:
+FAENA MINERA CERRO COLORADO En fase de cierre
+Región: Ubicación específica de la unidad fiscalizable:
+Tarapacá
+Área de pozos ubicada en la Pampa Lagunillas, comuna
+Provincia: de Pica, dentro del denominado Predio Huantija.
+Del Tamarugal
+Comuna:
+Pozo Almonte y Pica
+Titular(es) de la unidad fiscalizable: RUT o RUN:
+Compañía Minera Cerro Colorado Ltda. 94.621.000-5
+Domicilio titular(es): Correo electrónico:
+Esmeralda N°340, Piso 6, Comuna de Iquique. Alejandro.b.heilbron@bhp.com
+Teléfono:
+(56 9) 47741831
+Identificación representante(s) legal(es): RUT o RUN:
+Alejandro Heilbron Batista 23.488.329-1
+Domicilio representante(s) legal(es): Correo electrónico:
+Esmeralda N°340, Piso 6, Comuna de Iquique. Alejandro.b.heilbron@bhp.com
+Teléfono:
+(56 9) 47741831
+5
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 6 ---
+2.2 Ubicación y Layout
+Figura 1. Mapa de ubicación local de la unidad fiscalizable “FAENA MINERA CERRO COLORADO” (Fuente: Elaboración propia a partir de Imagen Satelital de Google Earth).
+N
+Coordenadas UTM de referencia: DATUM WGS 84 Huso: 19 Norte: 7.781.909 metros Este: 472.254 metros
+Ruta de acceso: Se accede a la unidad fiscalizable desde la Ruta 5 por la ruta A-65 que se dirige hacia Mamiña hasta el kilómetro 50, donde se ingresa al área mina.
+6
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 7 ---
+Figura 2. Ubicación de pozos de control de niveles freáticos y de pozos de extracción de CMCC en el sector de Lagunillas (Fuente: Anexo 7 adjunto a la Carta CMCC-HSE-R-RE-075-2024
+de CMCC).
+7
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 8 ---
+3 INSTRUMENTOS DE CARÁCTER AMBIENTAL FISCALIZADOS
+Identificación de Instrumentos de Carácter Ambiental fiscalizados
+Tipo de N°/
+N° Fecha Comisión/ Institución Título Comentarios
+instrumento Descripción
+Modifica la RCA N°22/1997 que
+Modifica Resolución de Calificación autorizó el EIA “Expansión Cerro
+Comisión de Evaluación,
+1 Res. Ex. 67 07-07-2011 Ambiental que indica Colorado” y la RCA N°102/2002 que
+Región de Tarapacá
+autorizó la DIA “Mejoramiento de
+Eficiencia Stretch Plan”.
+Cumplimiento sentencia R-141-2017
+del Primer Tribunal Ambiental, año
+Comisión de Evaluación, Proyecto Continuidad Operacional
+2 RCA 2022010013 06-01-2022 2019.
+Región de Tarapacá Cerro Colorado
+En fase de cierre: 01-01-2024.
+4 ANTECEDENTES DE LA ACTIVIDAD DE FISCALIZACIÓN
+4.1 Motivo de la Actividad de Fiscalización
+Motivo Descripción
+Programada
+X Denuncia
+Autodenuncia
+De Oficio
+Otro
+Motivo: SMA tomó conocimiento de uso de pozo P3 para bombear agua al SRA, a partir de comunicación presentada por el
+X No programada
+titular en febrero de 2024.
+En forma posterior, mediante denuncia recibida con fecha 15 de julio de 2024 (expediente ID 87-I-2024), se reportó a esta
+Superintendencia que CMCC estaría haciendo un uso ilegal del pozo P3, el cual estaría siendo utilizado desde enero del año
+2024, incumpliendo con la RCA del proyecto. Así también, mediante denuncia recibida con fecha 12 de marzo de 2026
+(expediente ID 72-I-2026), se informó a esta Superintendencia sobre una afectación en el sector de Lagunillas, evidenciada a
+través de una disminución en los niveles de agua subterránea que estaría comprometiendo el ecosistema del bofedal.
+8
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 9 ---
+4.2 Materia Específica Objeto de la Fiscalización Ambiental
+• Verificación de medidas de mitigación del componente Agua en el sector Lagunillas.
+• Estado vegetacional del sector Lagunillas.
+4.3 Revisión Documental
+ID Nombre del documento revisado Origen/Fuente Observaciones
+Documentación
+Carta CMCC-HSE-R-RE-035-2024 de CMCC, de fecha 07 de
+1 Titular informa condición operacional del SRA en Lagunillas. disponible en
+febrero de 2024.
+Anexo 1
+Documentación
+Oficio ORD. N°25 de la DGA Región de Tarapacá, de fecha DGA informa sobre proceso de fiscalización sectorial FO-0104-274, asociado a
+2 disponible en
+15 de febrero de 2024. los pozos P3 y PR.
+Anexo 7
+Titular da respuesta a lo requerido en la Res. Ex. SMA TPCA N°024, de fecha 23 Documentación
+Carta CMCC-HSE-R-RE-075-2024 de CMCC, de fecha 15 de
+3 de febrero de 2024 (primer requerimiento de información en el marco de la disponible en
+marzo de 2024.
+investigación del caso; solicitud de antecedentes asociados al SRA ) . Anexo 2
+DGA remite primer Reporte Técnico en respuesta al examen de información Documentación
+Oficio ORD. N° 157 de la DGA Región de Tarapacá, de fecha
+4 encomendado mediante el Oficio ORD. SMA TPCA N°112, de fecha 06 de junio disponible en
+12 de septiembre de 2024.
+de 2024. Anexo 7
+Documentación
+Carta CMCC-HSE-R-RE-249-2024 de CMCC, de fecha 21 de
+5 Titular actualiza respuesta a lo requerido en la Res. Ex. SMA TPCA N°024/2024. disponible en
+octubre de 2024.
+Anexo 2
+Correo electrónico de fecha 15 de noviembre de 2024, Documentación
+6 enviado por el titular a la casilla de oficina de partes de la Titular actualiza respuesta a lo requerido en la Res. Ex. SMA TPCA N°024/2024. disponible en
+SMA regional. Anexo 2
+Documentación
+Carta CMCC-HSE-R-RE-290-2024 de CMCC, de fecha 13 de
+7 Titular actualiza respuesta a lo requerido en la Res. Ex. SMA TPCA N°024/2024. disponible en
+diciembre de 2024.
+Anexo 2
+Documentación
+Carta CMCC-HSE-R-RE-025-2025 de CMCC, de fecha 27 de
+8 Titular actualiza respuesta a lo requerido en la Res. Ex. SMA TPCA N°024/2024. disponible en
+enero de 2025.
+Anexo 2
+9
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 10 ---
+ID Nombre del documento revisado Origen/Fuente Observaciones
+Documentación
+Carta CMCC-HSE-R-RE-045-2025 de CMCC, de fecha 21 de
+9 Titular actualiza respuesta a lo requerido en la Res. Ex. SMA TPCA N°024/2024. disponible en
+febrero de 2025.
+Anexo 2
+Documentación
+Carta CMCC-HSE-R-RE-067-2025 de CMCC, de fecha 18 de
+10 Titular actualiza respuesta a lo requerido en la Res. Ex. SMA TPCA N°024/2024. disponible en
+marzo de 2025.
+Anexo 2
+DGA remite segundo Reporte Técnico en respuesta al examen de información Documentación
+Oficio ORD. N°49 de la DGA Región de Tarapacá, de fecha
+11 encomendado mediante el Oficio ORD. SMA TPCA N°192, de fecha 26 de disponible en
+28 de marzo de 2025.
+noviembre de 2024. Anexo 7
+Documentación
+Carta CMCC-HSE-R-RE-090-2025 de CMCC, de fecha 25 de
+12 Titular actualiza respuesta a lo requerido en la Res. Ex. SMA TPCA N°024/2024. disponible en
+abril de 2025.
+Anexo 2
+Titular da respuesta a lo requerido en la Res. Ex. SMA TPCA N°027, de fecha 06 Documentación
+Carta CMCC-HSE-R-RE-119-2025 de CMCC, de fecha 22 de
+13 de mayo de 2025 (segundo requerimiento de información en el marco de la disponible en
+mayo de 2025.
+investigación del caso; solicitud de antecedentes asociados al SRA ) . Anexo 3
+Documentación
+Carta CMCC-HSE-R-RE-135-2025 de CMCC, de fecha 18 de
+14 Titular actualiza respuesta a lo requerido en la Res. Ex. SMA TPCA N°024/2024. disponible en
+junio de 2025.
+Anexo 2
+SAG remite primer pronunciamiento técnico en respuesta al examen de Documentación
+Oficio ORD. N°1135 del SAG Región de Tarapacá, de fecha
+15 información encomendado mediante el Oficio ORD. SMA TPCA N°078, de fecha disponible en
+19 de junio de 2025.
+23 de mayo de 2025. Anexo 8
+Titular da respuesta a lo requerido en la Res. Ex. SMA TPCA N°046, de fecha 30 Documentación
+Carta CMCC-HSE-R-RE-167-2025 de CMCC, de fecha 17 de
+16 de junio de 2025 (tercer requerimiento de información en el marco de la disponible en
+julio de 2025.
+investigación del caso; solicitud para atender observaciones del SAG ) . Anexo 4
+SAG remite segundo pronunciamiento técnico en respuesta al examen de Documentación
+Oficio ORD. N°3352 del SAG Nivel Central, de fecha 26 de
+17 información encomendado mediante el Oficio ORD. SMA TPCA N°112, de fecha disponible en
+agosto de 2025.
+21 de julio de 2025. Anexo 8
+Titular da respuesta a lo requerido en la Res. Ex. SMA TPCA N°059, de fecha 06
+Documentación
+Carta CMCC-HSE-R-RE-185-2025 de CMCC, de fecha 12 de de agosto de 2025 (cuarto requerimiento de información en el marco de la
+18 disponible en
+agosto de 2025. investigación del caso; solicitud de antecedentes adicionales sobre extracciones
+Anexo 5
+operacionales hasta el año 2023 ) .
+10
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 11 ---
+ID Nombre del documento revisado Origen/Fuente Observaciones
+DGA remite tercer Reporte Técnico en respuesta al examen de información Documentación
+Oficio ORD. N°235 de la DGA Región de Tarapacá, de fecha
+19 encomendado mediante el Oficio ORD. SMA TPCA N°073, de fecha 09 de mayo disponible en
+18 de diciembre de 2025.
+de 2025 y el Oficio ORD. SMA TPCA N°120, de fecha 18 de agosto de 2025. Anexo 7
+Titular da respuesta a lo requerido en la Res. Ex. SMA TPCA N°068, de fecha 05 Documentación
+Carta CMCC-HSE-R-RE-227-2025 de CMCC, de fecha 01 de
+20 de septiembre de 2025 (quinto requerimiento de información en el marco de la disponible en
+octubre de 2025.
+investigación del caso; solicitud para atender nuevas observaciones del SAG ) . Anexo 6
+SAG remite tercer pronunciamiento técnico en respuesta al examen de Documentación
+Oficio ORD. N°4554 del SAG Nivel Central, de fecha 20 de
+21 información encomendado mediante el Oficio ORD. SMA TPCA N° 145 , de fecha disponible en
+noviembre de 2025.
+08 de octubre de 2025. Anexo 8
+Documentación
+Carta CMCC-HSE-R-RE-291-2025 de CMCC, de fecha 23 de
+22 Titular informa sobre el reinicio de la operación del pozo PR. disponible en
+diciembre de 2025.
+Anexo 7
+Documentación
+Oficio ORD. N°29 de la DGA Región de Tarapacá, de fecha DGA remite complemento a su examen de información, haciendo un análisis
+23 disponible en
+05 de marzo de 2026. actualizado respecto al reinicio de la operación del pozo PR.
+Anexo 7
+Documentación
+Informe “Inscripción de no uso y renuncia de los derechos
+24 https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/1015204 disponible en el
+de agua de CMCC”, de fecha 14 de febrero de 2023
+SSA
+Documentación
+Informe “Copia de Inscripción de Renuncia de derechos en
+25 https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/1047279 disponible en el
+el CBR 125 L/s”, de fecha 29 de abril de 2024
+SSA
+11
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 12 ---
+5 HECHOS CONSTATADOS
+5.1 Verificación de medidas de mitigación del componente Agua en el sector Lagunillas
+Número de hecho constatado: N°1
+Documentación Revisada: Antecedentes ID 1 al ID 14, ID 18, ID 19, ID 22 al ID 25, indicados en el numeral 4.3 del presente Informe
+Exigencia (s):
+RCA N°2022010013 /2022 “ Proyecto Continuidad Operacional Cerro Colorado ”
+• Considerando 12
+“Que, según lo establecido en el EIA y sus Adendas, el proyecto “Continuidad Operacional Cerro Colorado” posee las siguientes características:
+El proyecto se ejecutaría en la Región de Tarapacá, en la provincia de Tamarugal, comuna de Pica y Pozo Almonte, de acuerdo a lo siguiente:
+(…)
+Sector Lagunillas
+En el Sector de Lagunillas se encuentran localizados los pozos de extracción de agua subterránea desde donde CMCC obtiene los recursos hídricos necesarios para
+el beneficio de los minerales en el Sector Mina y para la operación del sistema de recarga artificial del bofedal de Lagunillas. Este Sector se encuentra localizado a
+aproximadamente 50 km al Noreste del Sector Mina en la comuna de Pica, a una altura promedio de 4-050 msnm. El agua es conducida desde este Sector hacia
+las operaciones de CMCC a través de un acueducto de 76 km de longitud. Las coordenadas UTM del polígono de referencia dentro del cual se circunscribe del Sector
+Lagunillas, se presentan en la siguiente Tabla:
+Coordenadas Localización Sector Lagunillas
+Coordenada UTM Datum WGS84
+Vértice
+Norte (m) Este (m)
+V1 7.800.000 517.500
+V2 7.795.000 515.000
+V3 7.793.000 519.000
+V4 7.800.000 519.000
+(…) ” .
+• Considerando 12.2 Descripción de la Operación Sin Proyecto
+“ 12.2.2 Sector Lagunillas
+Como se indicó precedentemente, en el Sector Lagunillas se encuentran localizados los pozos de extracción de agua subterránea desde donde CMCC obtiene los
+recursos hídricos necesarios para el beneficio de los minerales en el Sector Mina y para la operación del sistema de recarga artificial del mismo bofedal de Lagunillas.
+Pampa Lagunillas está localizada a aproximadamente 50 km al Noreste del Sector Mina en la comuna de Pica, a una altura promedio de 4.050 msnm. El agua es
+conducida desde este Sector hacia las operaciones de CMCC a través de un acueducto de 76 km de longitud.
+(…)
+12
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 13 ---
+En Pampa Lagunillas, CMCC cuenta con derechos de aprovechamiento consuntivo de aguas subterráneas, por un total de 300 l/s, en 4 pozos, otorgados por la
+Dirección General de Aguas según consta en la Resolución Exenta N°425 de 1982 de esa Autoridad. Sin perjuicio de aquello, el caudal máximo de extracción de
+aguas autorizado ambientalmente, según se estableció en la Resoluciones Exenta N°22/97 y N°102/02, modificadas por la Resolución Exenta N°67/2011, todas
+ellas de la COREMA Región de Tarapacá, correspondió a 150 l/s.
+Actualmente CMCC extrae, exclusivamente, desde los pozos P1 y P3.
+Conforme a la RCA N°69/2015, CMCC contemplaba extraer 135 l/s, como promedio anual, desde el campo de pozos Lagunillas, de los cuales 110 l/s son destinados
+a la operación de la faena minera y 25 l/s al Sistema de Riego Artificial (SRA) del bofedal para su mantención. Este caudal de riego sería posteriormente reducido,
+conforme a la calendarización del Plan de Trabajo del Bofedal Lagunillas aprobado por la Res. Exenta N°67/2011 y actualizado por la RCA N°69/2015.
+En la Figura 3-1 de la Adenda N°2 presentada con fecha 27 de enero de 2020, se presenta una síntesis comparativa del caudal (l/s) bombeado desde los pozos de
+extracción de CMCC de Lagunillas desde el año 2013 y el caudal (l/s) de extracción permitido de la RCA N°69/2015. La citada Figura demuestra que el bombeo real
+operado por CMCC no sobrepasa los límites aprobados ambientalmente.
+Las coordenadas UTM de cada uno de los pozos de producción son:
+Coordenadas UTM Datum WGS84
+Pozo Profundidad (m)
+Norte (m) Este (m)
+P1 166 7.799.144 518.266
+P2 136 7.798.374 517.666
+P3 261 7.796.874 518.536
+P4 114 7.795.874 518.346
+CMCC cuenta con 16 pozos de monitoreo del acuífero en el sector Pampa Lagunillas. En la siguiente tabla se presentan las coordenadas de cada uno de los pozos
+de monitoreo:
+Coordenadas UTM Datum WGS84 Coordenadas UTM Datum WGS84 Coordenadas UTM Datum WGS84
+Pozo Pozo Pozo
+Norte (m) Este (m) Norte (m) Este (m) Norte (m) Este (m)
+LA-1 7.798.774 518.212 LA-7 7.797.740 518.402 LA-12 7.803.470 515.932
+LA-2 7.798.369 517.666 LA-8 7.790.587 514.174 LA-13 7.802.364 516.232
+LA-3 7.796.668 518.326 LA-9A 7.792.722 514.774 LA-14A 7.795.750 516.582
+LA-4 7.794.683 518.286 LA-9B 7.792.735 514.775 LA-14B 7.795.816 516.619
+LA-5 7.795.565 518.331 LA-10 7.793.020 518.523 LA-15 7.796.579 515.592
+LA-6 7.797.680 518.389 LA-11 7.802.362 517.235 LA-16 7.795.139 515.324
+13
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 14 ---
+A objeto de efectuar un seguimiento de los niveles de las aguas subterráneas del sistema lacustre de Lagunillas, CMCC instaló en 2003 un total de 9 punteras. En
+la siguiente tabla se presentan las coordenadas UTM de cada una de las punteras:
+Puntera y Coordenadas UTM Datum WGS84 Puntera y Coordenadas UTM Datum WGS84
+Profundidad (m) Profundidad (m)
+multipiezómetro Norte (m) Este (m) multipiezómetro Norte (m) Este (m)
+P1 8 7.795.822 516.371 MP1-1 6 7.796.110 517.143
+P2 3 7.796.480 515.663 MP1-2 7 7.796.110 517.143
+P3 4 7.796.342 515.719 MP2-1 3 7.795.823 516.370
+P4 5 7.796.195 515.710 MP2-2 5 7.795.823 516.370
+P5 2 7.796.194 515.710 -- -- -- --
+La Figura DP-5 del EIA muestra la localización de los referidos pozos de extracción, pozos de observación y punteras en Pampa Lagunillas.
+(…)
+Asimismo, en Pampa Lagunillas, CMCC ejecuta un conjunto de actividades en el marco de las Resoluciones Exentas N°22/97 y N°102/02, modificadas por la
+Resolución Exenta N°67/2011 (todas de la COREMA Región de Tarapacá) y del Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema Lacustre
+Bofedal de Lagunillas de CMCC aprobado por la última de las citadas Resoluciones Exentas ” .
+“ 12.2.2.1 Operación del Campo de Pozos
+Para la operación del campo de pozos y las actividades relacionadas con el manejo del ecosistema lacustre, CMCC cuenta en Lag unillas, junto al pozo P3, con
+instalaciones de servicio en base a módulos contenedorizados donde se ha habilitado una oficina, bodega de insumos, base de comunicaciones y una estación
+meteorológica. Esta infraestructura cuenta con planta potabilizadora y sistema de tratamiento de aguas servidas basado en fosa séptica para la atención de 4
+personas.
+El agua es extraída actualmente desde los pozos P1 y P3. Cada pozo cuenta con sala de bomba, generador diésel y estanque de combustible y operan de forma
+continua extrayendo agua desde el acuífero de pampa Lagunillas mediante bombas de succión.
+Las aguas extraídas son impulsadas desde cada pozo, por medio de bombas Grundfos de 270 m3/h de capacidad nominal y conducidas a través de tuberías hacia
+una matriz que deriva en un estanque de 200 m3 desde donde el agua es reimpulsada y transportada de manera gravitacional hasta las instalaciones de la
+operación CMCC.
+La Tabla DP-15 del EIA muestra los volúmenes extraídos desde 1995 a 2012 así como el caudal destinado a la operación de CMCC (120,05 l/s en 2012) y el caudal
+destinado a alimentar el sistema de recarga artificial asociado al bofedal de Lagunillas (18,67 l/s en 2012).
+En cada pozo se efectúan mediciones del volumen extraído y niveles estáticos y dinámicos. Asimismo, CMCC monitorea y registra sistemáticamente los niveles
+freáticos en los pozos de observación, asociados a los pozos de producción. Complementariamente, las condiciones meteorológicas son registradas continuamente
+en la estación situada en las instalaciones de servicio en el sector del pozo de producción P3.
+La Tabla DP-16 del EIA resume las actividades de monitoreo asociadas a la operación del campo de pozos en Pampillas Lagunillas ” .
+“ 12.2.2.2 Actividades Ecosistema Lacustre Lagunillas
+Como se señalara precedentemente, CMCC realiza un conjunto de actividades enmarcadas en las Resoluciones Exentas N°22/97 y N°102/02, modificadas por la
+Resolución Exenta N°67/2011, todas ellas de la COREMA Región de Tarapacá. Estas actividades tienen por objeto asegurar el manejo sustentable de este ecosistema
+14
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 15 ---
+a fin de mantener su estructura y funcionamiento y se encuentran sistematizadas en el documento Plan de Trabajo para el Manejo de las Funciones Ecosistémicas
+del Sistema Lacustre Lagunillas. A continuación, se describen las principales actividades asociadas al manejo del referido ecosistema.
+• Sistema de Recarga Artificial (SRA):
+El Sistema de Recarga Artificial tiene por objeto reponer un caudal de agua en cantidad y calidad tal que permita la recuperación de la vegetación del bofedal
+de Lagunillas y, a su vez, conserve la superficie o espejo de agua de la laguna Huantija. El SRA está establecido en la Resolución Exenta N°67/2011 de la
+Comisión de Evaluación de la Región de Tarapacá, que modificó la Resolución Exenta N°22/97 de la COREMA Región de Tarapacá que aprobó el EIA del
+Proyecto Expansión Cerro Colorado, y la Resolución Exenta N°102/02 COREMA Región de Tarapacá que aprobó la DIA del Proyecto Mejoramiento de Eficiencia
+Stretch Plan, a objeto de suplir las mermas de las sugerencias que alimentan el bofedal y la laguna Huantija.
+El agua necesaria para el SRA se obtiene de campos de Pozos de Pampa Lagunillas, principalmente del pozo P3. Desde la matriz principal emana una tubería
+secundaria, dotada con flujómetro, que condice el agua hacia el punto de descarga del SRA.
+El SRA considera en la actualidad un total de 31 puntos de entrega de agua, los cuales se muestran en forma esquemática en la Figura DP-6 del EIA.
+Inicialmente el SRA consideró una única línea de descarga (año 2004) con un flujo de 10,5 l/s; en 2006 se expandió a 15 puntos de recarga, con un flujo de
+10,5 l/s; en 2007 se vuelve a expandir a 21 puntos de recarga con un flujo de hasta 15 l/s y, por último, en 2011 el SRA se extendió a un total de 31 puntos de
+recarga con un flujo de 18 l/s, el cual se incrementó a 18,67 l/s desde septiembre de 2012 y se espera que se incremente hasta un máximo de alrededor de 20
+l/s, de acuerdo a lo señalado en el Plan de Manejo.
+En síntesis, este sistema de mitigación distribuye el recurso hídrico suplementado al sistema vegetacional, con el objeto de restablecer los subsistemas
+dependientes del flujo directo o canal (Distichia muscoides, Oxychleo andina y Zameocirpus atacamensis, entre otras) y subsistemas freático-dependientes
+con mayor capacidad deenrraizamiento y/o tolerancia a menor humedad (Parastrephia lucida y Deyeuxia curvula, entre otras). Este sistema optimiza también
+el aporte de nutrientes al componente terminal del sistema (laguna) y permite el restablecimiento de las fluctuaciones naturales de esta última, dependientes
+de la evaporación diferencial y precipitaciones directas ” .
+• Considerando 12.3 Descripción del Proyecto Continuidad Operacional
+“(…)
+Respecto del abastecimiento del recurso hídrico, el proyecto considera la extracción de 108 l/s como promedio anual desde julio de 2020 a diciembre de 2023 desde
+el campo de pozos ubicado en Pampa Lagunillas, y de acuerdo al siguiente programa, para efectos de la mantención del riego artificial del exosistema lacustre ”
+(…)
+“ 12.3.4 Fase de Operación
+12.3.4.3 Operación del Proyecto en Sector Lagunillas
+Campos de Pozos de Aguas Subterráneas
+El proyecto Continuidad Operacional Cerro Colorado considera continuar abasteciéndose de agua para su operación desde los pozos del campo de Pozos Lagunillas.
+El caudal máximo a extraer será de 108 l/s.
+El campo de pozos continuará operando como hasta ahora, controlando los flujos de niveles estáticos y dinámicos en cada uno d e los pozos de producción y
+monitoreando los niveles freáticos en los pozos de observación.
+Asimismo, se contempla mantener las actividades asociadas al Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema Lacustre de Lagunillas,
+que consideran el riego artificial del bofedal de Lagunillas y actividades de monitoreo y seguimiento del bofedal ” .
+15
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 16 ---
+“ 12.3.5 Fase de Cierre
+La fase de cierre del Proyecto Continuidad Operacional considera el cierre de toda la operación de CMCC, incluyendo el cierre de la infraestructura que se construirá
+específicamente para este Proyecto. Todas las actividades de cierre tendrían por objetivo prevenir, minimizar y/o controlar los riesgos y efectos negativos que se
+puedan generar como consecuencia de los desarrollos y obras de la operación actual de CMCC y de la proyectada continuidad operacional.
+(…)”.
+“ 12.3.5.1 Acciones contempladas para el Plan de Cierre del Proyecto
+(…)
+c) Cierre de las Operaciones de Pampa Lagunillas
+Las actividades de CMCC en Pampa Lagunillas, no cesarán cuando se ejecute el plan de cierre de las obras y actividades del Sector Mina. De acuerdo a los
+compromisos asumidos por CMCC, las actividades relacionadas con el Plan de Trabajo de Lagunillas se extenderán luego del cese de la operación. Este Plan
+considera el mantenimiento del riego artificial del bofedal, hasta que el sistema logre llegar a un equilibrio hidráulico tal que permita la surgencia de las vertientes
+que irrigan naturalmente el bofedal. Lo anterior implicaría mantener, más allá del 2023, las instalaciones existentes en Pampa Lagunillas para dar soporte a la
+mantención del riego del bofedal y las instalaciones anexas que permitan continuar efectuando después de esa fecha, el seguimiento de la evolución de las variables
+ecosistémicas ” .
+• Considerando 15.2 Análisis del artículo 6 del RSEIA, efectos adversos significativos sobre la cantidad y calidad de los recursos naturales renovables, incluidos
+el suelo, agua y aire.
+“(…)
+Particularmente, en relación al Sector de Lagunillas, los efectos asociados a la extracción sostenida por 7 años del recurso hídrico subterráneo, lo que conlleva a
+que se generen efectos adversos sobre la vegetación, flora, fauna y limnología, debido a las condiciones en que se encuentra en la actualidad el bofedal asociado.
+En este contexto, en Adenda 4, presentada con fecha 29 de noviembre de 2021, se actualizó el modelo numérico de flujo, incorporando la serie de niveles y caudales
+actualizada hasta agosto de 2021 y, a su vez, se recalibró el modelo obteniendo como resultado un ajuste de las tendencias, en particular en los pozos LA-02, LA-
+03, LA-04 y LA-05 (pozos LA), y un nMAE de 4,4% acorde con la Guía de Modelación del SEIA.
+Junto con lo anterior, se realiza el ajuste de las tendencias modeladas a los niveles observados como se muestra en el Gráfico 1-9 al Gráfico 1-12 de la Adenda
+antes citada. Este ajuste se ha realizado para el Escenario 1 de simulación que considera: la situación con proyecto, con cambio climático y con medidas de
+mitigación y se ha denominada “Escenario 1 desplazado”.
+Como resultado de la proyección de niveles del Escenario 1, se presenta la siguiente tabla, con un rango de fechas estimadas de recuperación de los pozos LA. Por
+lo tanto, el escenario más desfavorable de proyección de los plazos de recuperación (que corresponde al Escenario 1 antes mencionado: situación con proyecto,
+con cambio climático y con medidas) estima la recuperación de los pozos de la siguiente manera: para pozo LA-02 el año 2041, pozo LA-03 al año 2033, pozo LA-
+04 el año 2036 y para el pozo LA-05, el año 2032, cumpliéndose los plazos establecidos por el 2TA:
+Fechas estimadas de recuperación en los pozos de control LA
+Escenario LA-02 LA-03 LA-04 LA-05
+Escenario 1 2041 2033 2033 2032
+Escenario 1 desplazado 2039 2033 2036 2032
+Plazo 2TA 2050 2041 2036 2033
+16
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 17 ---
+El Proyecto Continuidad Operacional contempla disminuir el suministro de agua para el proceso productivo, desde los pozos que hoy abastecen a la operación de
+CMCC, a una tasa de 108 l/s. En efecto, el Proyecto presente mantener la extracción de agua subterránea hasta fines del año 2023, considerando la misma
+infraestructura actual, consistente en dos pozos de bombeo de agua subterránea P1 y P3.
+En este sentido, es posible indicar que la extracción del recurso hídrico desde Pampa Lagunillas generará un efecto adverso significativo sobre la regeneración de
+un recurso natural renovable ” .
+• Considerando 15.4 Análisis del artículo 9 del RSEIA, localización próxima a población, recursos y áreas protegidas susceptibles de ser afectados, así como el
+valor ambiental del territorio en que se pretende emplazar.
+“(…)
+Particularmente, en relación al Sector Lagunillas, bofedal protegido por la Resolución Exenta N°909/1996 de la DGA, los efectos están asociados a la extracción
+sostenida por 7 años del recurso hídrico subterráneo, lo que conlleva a que se generen efectos adversos sobre la vegetación, flora, fauna y limnología, debido a las
+condiciones en que se encuentra en la actualidad el bofedal asociado. Asimismo, el prolongar la extracción del recurso hídrico subterráneo, por 7 años adicionales
+a lo ambientalmente aprobado, retrasará la recuperación de los niveles hasta su estado natural, con respecto al tiempo de recuperación considerado como caso
+base (año 2001) entre 21 y 25 años. Por lo tanto, se prevé la generación de efectos adversos significativos sobre el recurso subterráneo que es necesario considerar ” .
+17
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 18 ---
+• Considerando 16.2 Plan de Medidas de Mitigación, Reparación y/o Compensación
+“ 16.2.2 Medidas para impactos significativos
+Medida de mitigación HI-1:
+Componente Código Nombre
+Obras/Acciones Impacto Forma de Implementación Cuantificador Oportunidad Lugar
+Ambiental Impacto Medida
+Efecto adverso
+significativo en
+la recuperación
+de los niveles de
+agua
+subterránea de
+la cuenca de
+La ubicación
+Pampa
+HI-1 Cambio de propuesta
+Lagunillas, en
+punto de para el pozo
+particular,
+extracción del PR se
+respecto del
+agua utilizada encuentra
+tiempo de Reporte de medición de
+Extensión de la para el SRA del La medida considera desplazar la extracción fuera del
+restablecimiento caudales a la SMA y DGA.
+extracción de Bofedal de destinada al riego de Lagunillas desde el pozo P-3 al área de
+Recurso de éstos, una vez
+aguas Lagunillas, a pozo denominado PR, alejándola del acuífero de A partir del propiedad de
+hídrico OHI-1 que CMCC cese Aviso de inicio de
+subterráneas partir del año Lagunillas, de manera de facilitar la disminución del año 2022. Lirima, en las
+subterráneo el bombeo desde construcción y operación
+por 7 años 2022 desde el plazo de la recuperación de sus niveles en el área del coordenadas
+el campo de del pozo PR a la SMA y
+adicionales Pozo P-3 a un Bofedal. 517.434,49
+pozos en el DGA.
+nuevo Pozo P-R. metros este y
+Sector
+(indistintamente 7.801.928,18
+Lagunillas.
+tratado como metros
+Pozo PR) norte, datum
+Efectos en la
+WGS-84.
+biodiversidad
+presente en el
+Bofedal Pampa
+Lagunillas, por
+descenso de
+niveles de agua
+subterránea.
+18
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 19 ---
+Medida de mitigación HI-2:
+Componente Código Nombre
+Obras/Acciones Impacto Forma de Implementación Cuantificador Oportunidad Lugar
+Ambiental Impacto Medida
+1.- Caudal y volumen para fines operacionales 1. Reportabilidad
+1.1. El caudal autorizado a extraer desde el campo trimestral
+de pozos de Lagunillas para fines operacionales será El Titular reportará con
+de ochenta y tres litros por segundo (83 l/s) como una periodicidad
+caudal medio anual, con un máximo de doscientos trimestral a la
+Efecto adverso
+setenta y tres mil metros cúbicos al mes (273.000 Superintendencia del
+significativo en
+m3/mes). Medio Ambiente (SMA)
+la recuperación
+1.2. El volumen máximo total autorizado a extraer con copia a la Dirección
+de los niveles de
+desde la Cuenca de Lagunillas, durante los años General de Aguas de
+agua
+2022 y 2023 (periodo de dos años) desde el campo Tarapacá (DGA):
+subterránea de
+de pozos de Lagunillas para fines operacionales será a. El caudal diario
+la cuenca de
+de cuatro millones novecientos ochenta y dos mil extraído desde los pozos
+Pampa
+quinientos metros cúbicos (4.982.500 m3). Volumen de producción.
+Lagunillas, en
+que corresponde a una extracción promedio de 79 b. El caudal diario
+particular, Campo de
+l/s durante los dos años remanentes de vida útil de desaguado desde el rajo.
+respecto del HI-2 pozos
+la faena (años 2022 y 2023, inclusive). c. El caudal promedio Desde la
+tiempo de Restricción Lagunillas.
+Extensión de la trimestral extraído desde notificación de
+restablecimiento del caudal Pozos P1 y P3
+extracción de 2.- Regla de reducción en equivalencia con caudales la cuenca Lagunillas. la Resolución de
+Recurso de éstos, una vez de (pozos de
+aguas y volúmenes efectivamente desaguados desde el d. Volumen total Calificación
+hídrico OHI-1 que CMCC cese extracción extracción con
+subterráneas rajo. acumulado extraído Ambiental
+subterráneo el bombeo desde desde fines
+por 7 años 2.1. La extracción de aguas desde el campo de pozos desde la cuenca de Complementaria
+el campo de campo de operacionales)
+adicionales de Lagunillas se reducirá en equivalencia al desagüe Lagunillas y del área de la RCA
+pozos en el pozos PR (pozos de
+efectivo que se produzca desde el rajo de la Mina mina. N°69/2015.
+Sector Lagunillas extracción para
+(actividad de desagüe minero). e. Reducción en
+Lagunillas. SRA).
+2.2. En cuanto a las tasas de bombeo, el caudal de equivalencia entre el
+extracción de agua desde el campo de pozos de volumen efectivamente
+Efectos en la
+Lagunillas se reducirá en equivalencia al caudal desaguado desde el rajo
+biodiversidad
+efectivamente desaguado desde el rajo, de la Mina y el volumen
+presente en el
+considerando caudales promedios trimestrales. Es de agua requerido para
+Bofedal Pampa
+decir, se respetará un caudal total de extracción la operación de Cerro
+Lagunillas, por
+máxima de 83 l/s, calculado como un promedio Colorado durante los
+descenso de
+trimestral de extracciones, que estará constituido años 2022 y 2023
+niveles de agua
+tanto por las extracciones realizadas desde el (reducción desde el
+subterránea.
+campo de pozos de Lagunillas así como el desagüe volumen operacional
+efectivo desde el rajo. total inicial de 5.235.000
+2.3. En cuanto al volumen de agua, conforme a esta m3).
+regla, el volumen que efectivamente fuere
+desaguado desde el rajo de la mina, será 2. Reportabilidad
+19
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 20 ---
+descontado progresivamente del volumen Semestral
+operacional total del proyecto, en la medida que El Titular reportará con
+este volumen se extraiga del rajo. Se entiende como una periodicidad
+“volumen operacional total del proyecto”, aquel semestral a la
+estimado en base a 83 l/s, es decir, un volumen total Superintendencia del
+de cinco millones doscientos treinta y cinco mil Medio Ambiente (SMA)
+metros cúbicos (5.235.000 m3). con copia a la Dirección
+2.4. Esta regla de reducción en equivalencia no General de Aguas de
+aplicará en caso de que sea activado el Plan de Tarapacá (DGA):
+Alerta Temprana, en cuyo caso, regirá lo despuesto a. Proyección de
+en el Plan de Alerta Temprana (Anexo 1 de la recuperación del acuífero
+Adenda 4 de fecha 29 de noviembre de 2021). tomando como meta:
+i. Año 2050 (Pozo LA-2);
+3.- Independencia de los caudales del SRA y de los ii. Año 2036 (Pozo LA-4);
+caudales para fines productivos iii. Año 2041 (Pozo LA-3)
+3.1 El SRA considera un caudal máximo promedio iv. Año 2033 (Pozo LA-5)
+anual de veinticinco libros por segundo (25 l/s) en la b. Registro de
+etapa de recuperación y en la etapa de comportamiento de
+estabilización; de veinte litros por segundo (20 l/s) niveles en cada uno de
+en la etapa de mantención; de trece litros por los pozos de control (LA-
+segundo (13 l/s) en la etapa de transición; y de cinco 02, LA-03, LA-04 y LA-05),
+litros por segundo (5 l/s) en la etapa de abandono. tomando como
+Todos estos caudales expresados como caudal referencia la condición
+medio anual, entendiendo por tal, que los montos proyectada y los
+de caudales mensuales bombeados deben ser descensos máximos de la
+equivalentes a los valores medios anuales. Res. Exenta N°67/2011.
+3.2 Los caudales remanentes, resultantes de los i. 18,19 m (Pozo LA-2);
+ajustes de caudal del SRA, en la etapa de ii. 15,20 m (Pozo LA-4);
+estabilización del Plan de Manejo del Bofedal de iii. 18,89 m (Pozo LA-3);
+Lagunillas (etapa que se prolonga hasta el año iv. 17,19 m (Pozo LA-5).
+2023), no se incorporarán a los caudales para fines
+de producción. Es decir, cualquier reducción de
+caudal que se materialice de manera previa al año
+2024 en el SRA conllevará una reducción del caudal
+total extraído desde la cuenca de Lagunillas.
+20
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 21 ---
+Medida de mitigación HI-3:
+Componente Código Nombre
+Obras/Acciones Impacto Forma de Implementación Cuantificador Oportunidad Lugar
+Ambiental Impacto Medida
+Proporcionar los antecedentes
+necesarios que sirvan de
+fundamento técnico para que la
+Efecto adverso
+autoridad pueda adoptar
+significativo en
+medidas administrativas en
+la recuperación
+materia de restricción o
+de los niveles de
+constitución de nuevos derechos
+agua
+de aprovechamiento de aguas
+subterránea de
+en los acuíferos que alimentan
+la cuenca de
+una serie de bofedales definidos
+Pampa
+en la cuenca del Salar de
+Lagunillas, en HI-3 Plan
+Las líneas de trabajo que permitirán la Lagunillas y en una segunda
+particular, para
+implementación de la Medida de Compensación son: cuenta, mediante una a) Una vez
+respecto del facilitar la
+a) Delimitación del acuífero de Lagunillas, funcional al delimitación de los acuíferos obtenida la
+tiempo de delimitación
+Extensión de la resguardo de su bofedal, funcional a sus respectivas calificación
+restablecimiento y protección
+extracción de b) Delimitación del segundo acuífero, funcional al vegas y bofedales. ambiental
+Recurso de éstos, una vez de acuíferos Acuífero
+aguas resguardo de su/s bofedal/es. favorable del
+hídrico OHI-1 que CMCC cese que de
+subterráneas c) Renuncia voluntaria de los derechos de agua con los Impedir que, tanto después de Proyecto.
+subterráneo el bombeo desde alimentan Lagunillas
+por 7 años que cuenta Cerro Colorado en el sector hidrogeológico finalizado el proyecto, como con
+el campo de vegas y
+adicionales de Lagunillas, en compatibilidad con el desarrollo del posterioridad a la recuperación b) Después
+pozos en el bofedales
+Proyecto de Continuidad Operacional, con el Plan de del acuífero y del bofedal de del año
+Sector en la región
+Manejo del Bofedal, y con el objetivo de resguardo del Lagunillas, que se ejerzan 2023.
+Lagunillas. de
+bofedal de Lagunillas. extracciones de agua en él.
+Tarapacá.
+Efectos en la
+Establecer la imposibilidad para
+biodiversidad
+Cerro Colorado de desarrollar
+presente en el
+nuevas extracciones en el
+Bofedal Pampa
+acuífero de Lagunillas, una vez
+Lagunillas, por
+que haya finalizado la operación
+descenso de
+del Proyecto, con excepción del
+niveles de agua
+uso de los recursos necesarios
+subterránea.
+para el riego artificial del
+bofedal Lagunillas y la laguna
+Huantija.
+21
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 22 ---
+• Considerando 16.2.5 Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema Lacustre de Lagunillas.
+“ En relación a la configuración de los efectos de la biodiversidad presente en el Bofedal Pampa Lagunillas, por descenso de niveles de agua subterránea, posibles
+de configurar en el proceso de evaluación, se enciende que las acciones contenidas en el “Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema
+Lacustre de Lagunillas”, corresponde a una medida de mitigación.
+Al respecto, en el Anexo 7 de la Adenda N° 3 de fecha 10 de septiembre de 2021, se presenta el documento “Plan de Manejo del Bofedal de Lagunillas Consolidado”
+(Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema Lacustre Lagunillas), donde se describe en qué consiste el plan, sus etapas y plazos
+actualizados, y la estimación de la demanda hídrica del bofedal que justifica los caudales del SRA presentes y futuros.
+Cabe señalar que los objetivos, consideraciones, actividades, etapas, seguimiento y metas del Plan de Manejo aprobado en la Resolución Exenta N°67/2011 y
+N°69/2015 (Anexo 1.5.1 de la Adenda 3 de fecha 18 de junio de 2015 del proceso de evaluación de la Resolución Exenta N°69/2015), se mantienen plenamente
+vigentes a la fecha. En concordancia con lo ordenado por el 2° TA, el Proyecto opera respetando los plazos de recuperación de los niveles del acuífero (representado
+por el pozo LA-2), por tanto, los plazos estimados del SRA en el Plan de Manejo Consolidado (Anexo 7 de la Adenda N°3 de fecha 10 de septiembre de 2021)
+corresponden a los proyectados para la situación sin Proyecto, (En la situación sin proyecto, el plazo estimado de recuperación del bofedal, que se deriva de la
+aplicación de la Resolución Exenta N°67/2011, se extendería hasta el año 2075, inicio de la etapa de abandono), respecto a la situación aprobada en el proceso de
+evaluación ambiental que culminó con la RCA N°69/2015 (inicio de la etapa de abandono el año 2097).
+Un aspecto importante para relevar es que, si bien el Plan incluye la estimación de plazos y caudales para el SRA, éstos deben ser continuamente revisados, en el
+marco del concepto de manejo adaptativo que rige al Plan de Manejo. Esta condición quedó establecida en el resuelvo 1.2.b.iii) de la Resolución Exenta N°67/2011,
+que dice relación con el seguimiento del Plan de Manejo, donde se especificó: “ Verificar efectividad de medidas de mitigación implementadas y permitir su ajuste
+y adecuación a los reales requerimientos de los sistemas, conforme a los comportamientos que se observen en los mismos a través del tiempo ” . De esta manera,
+el SRA operará hasta la recuperación de las condicionales hídricas que hacen posible la mantención del bofedal, y si, a futuro, los resultados de los seguimientos
+dan cuenta de que es necesario extender la recarga, el SRA deberá adaptarse a dicho requerimiento (Resolución Exenta N°67/2011, resuelvos 1.2.a.i. l, 1.2.a.i.2 y
+1.2.b.iii.
+En este contexto, el Plan consiste en:
+✓ Se mantendrá el flujo superficial y la humectación del componente vegetacional del sistema azonal de Lagunillas, por medio de descargas múltiples,
+manteniendo la estructura hidrodinámica natural, la dependencia de los componentes ecosistémicos, y el concep to de “mantención del flujo afluente”, actividad
+fundamental del Plan. Sobre este punto, el Titular ha mejorado la distribución de los puntos de irrigación y el flujo de agua, efectuando la irrigación del sistema
+azonal en 31 puntos y con una tasa actual de 20 l/s, la que puede ser modificada según la respuesta de la recuperación de la cobertura vegetacional a propuesta
+en el citado Plan.
+✓ El pozo de reposición fue eliminado tal como se consigna en el punto 3.9 de la Resolución Exenta N°89/2011 y la irrigación del sistema Lagunillas proviene del
+pozo de producción P-3, lo que se mantendrá de la misma forma hasta el cierre del Proyecto, a fines del año 2023.
+Se hace presente que desde la dictación de la R.E. N°67/2011 se ha cumplido con el compromiso de actualizar el modelo hidrogeológico anualmente y los continuará
+entregando en los términos establecidos en la citada resolución.
+(…)
+En línea con lo anterior, a continuación, en la Tabla 1-42 de la Adenda 4 de fecha 29 de noviembre de 2021, se presenta la proyección de los caudales estimados
+del SRA por etapa y en un escenario de continuo descenso. Allí, es posible apreciar que los flujos estimados en un escenario de continuo descenso se desprenden
+de los rangos de reducción establecidos para cada etapa, según la Tabla 5-1 del Anexo N°7 de la Adenda N°3 de fecha 10 de septiembre de 2021.
+22
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 23 ---
+Tabla 1-42 Proyección de los caudales estimados del SRA (Tabla 5-1 del Anexo N°7 de la Adenda N°3), en un escenario de continuo descenso.
+Rango en el que se mantiene Duración Etapa Escenario de descenso continuo
+Etapa
+el flujo de SRA (l/s) (años) Flujo de SRA (l/s) Años
+Recuperación 25 2014 a 2017 25 2014 a 2017
+Estabilización 25 2018 a 2021 25 2018 a 2021
+25-20 2022 a 2023 25-23 2022
+23-20 2023
+Mantención 20-13 2024 a 2032 20-18 2024 a 2025
+18-16 2026 a 2027
+16-14 2028 a 2029
+14-13 2030 a 2031
+13 2032
+Transición 13-5 2033 a 2074 13-11 2033 a 2043
+11-9 2044 a 2054
+9-7 2055 a 2065
+7-5 2066 a 2074
+Abandono 5-0 2075 5-0 2075
+(inicio)
+(…)
+Al respecto, se considera que lo aquí observado, es respondido y comprometido por el titular mediante la información contenida en la Tabla 1-42: Proyección de los
+caudales estimados del SRA (Tabla 5-1 del Anexo Nº7 de la Adenda Nº3/2021), en un escenario de continuo descenso, antes detallada, lo que debe ser cumplido a
+cabalidad. Respecto a lo anterior, cualquier desviación significativa a este escenario, se entenderá como un incumplimiento a la medida ” .
+• Considerando 17.1 Plan de Seguimiento Impactos Significativos
+(…)
+“ 17.1.4 Plan de Seguimiento Ambiental Medidas HI-1 / Hi-2 – Monitoreo de Niveles
+A continuación se presenta la actualización del Plan de Seguimiento Ambiental propuesto para las medidas que fueron diseñadas y presentadas durante el
+retrotraído proceso de evaluación del año 2015 (RCA N°69/2015), y que están vinculadas y asociadas al componente hidrogeológico, materia por la cual el 2° TA
+sentencia la reevaluación parcial del Proyecto Continuidad Operacional Cerro Colorado, aplicable a las medidas denominadas:
+• Medida HI-1 – Cambio de punto de extracción del agua utilizada para el Sistema de Recarga Artificial (SRA) del Bofedal de Lagunillas, a partir del año 2022
+desde el Pozo P-3 a un nuevo Pozo P-R (indistintamente tratado como Pozo PR).
+• Medida de Mitigación HI-2 – Restricción del caudal de extracción desde campo de pozos de Lagunillas.
+23
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 24 ---
+Fase Operación – Cierre – Post Cierre
+Componente Ambiental Aguas Subterráneas
+Código del Impacto OHI-1
+Impacto Ambiental OHI-1: Efecto adverso significativo en la recuperación de los niveles de agua subterránea de la cuenca Pampa Lagunillas, en
+particular respecto del tiempo de restablecimiento de éstos, una vez que CMCC cese el bombeo desde el campo de pozos en el
+Sector Lagunillas.
+Código de la Medida • HI-1 Cambio de punto de extracción del agua utilizada para el Sistema de Recarga Artificial (SRA) del Bofedal de Lagunillas, a
+partir del año 2022 desde el Pozo P-3 a un nuevo Pozo P-R (indistintamente tratado como Pozo PR).
+• HI-2 Restricción del caudal de extracción desde campo de pozos de Lagunillas.
+Ubicación puntos de control o sitios de Se contempla el monitoreo de niveles en los siguientes pozos y piezómetros:
+muestreo, medición, análisis o control Cuadro 1: Pozos y piezómetros para monitoreo de niveles en PSA
+Coordenada WGS84, 19S Coordenada WGS84, 19S
+Nombre Tipo Nombre Tipo
+Este Norte Este Norte
+LA-2 Pozo 517.463,02 7.798.041,21 LA-15B Pozo 515.563,13 7.796.613,75
+LA-3 Pozo 518.289,53 7.796.698,48 PZ-5 Piezómetro 516.142 7.795.961
+LA-4 Pozo 518.243,24 7.794.715,63 PZ-7 Piezómetro 516.025 7.795.242
+LA-5 Pozo 518.290,67 7.795.596,61 PZ-11 Piezómetro 515.841 7.796.305
+LA-14A Pozo 516.547,72 7.795.784,99 PZ-15B Piezómetro 515.564 7.796.122
+LA-14B Pozo 516.589,14 7.795.850,91
+asd
+Parámetros para caracterizar el estado y Seguimiento de niveles en pozos de monitoreo y piezómetros.
+evolución de las variables ambientales Actualización bianual del modelo hidrogeológico a partir de 2025 y hasta 2031.
+objeto de muestreo, medición, análisis Luego actualización cada 5 años hasta la recuperación de los niveles de los pozos LA-2, LA-3, LA-4 y LA-5 al nivel de referencia 2001,
+según lo establecido en la sentencia del 2°TA o hasta el año 2050 (lo que ocurra primero).
+Límites permitidos o comprometidos A los pozos LA-2, 3, 4, 5 les aplica los indicadores y umbrales contemplados en el Plan de Alerta Temprana Lagunillas para
+resguardar el plazo de recuperación de niveles de acuífero de Lagunillas (Anexo 1 de la Adenda 4).
+Duración y frecuencia de las actividades de Se contempla el monitoreo de niveles en los pozos y piezómetros indicados en la Tabla “Pozos y piezómetros para monitoreo de
+muestreo, medición, análisis y/o control niveles en PSA” hasta la recuperación de los niveles de los pozos L A-2, LA-3, LA-4 y La-5 al nivel de referencia 2001, según lo
+para cada parámetro establecido en la sentencia 2°TA o hasta el año 2050 (lo que ocurra primero).
+Las mediciones de niveles tendrán una frecuencia mensual.
+Método o procedimiento de muestreo, Medición del nivel de agua con pozómetro manual o algún sistema digital.
+medición, análisis y/o control para cada
+parámetro.
+Frecuencia y plazo de entrega de los El Titular reportará con una periodicidad semestral a la SMA con copia a la DGA de Tarapacá.
+informes de seguimiento. a) Proyección de recuperación del acuífero, tomando como meta: Año 2050 (Pozo LA-2); Año 2036 (Pozo LA-4); Año 2041 (Pozo LA-
+3); Año 2033 (LA-5).
+b) Registro de comportamiento de niveles en cada uno de los pozos de control (LA-02, LA-03, LA-04 y LA-05), tomando como
+referencia la condición proyectada y los descensos máximos de la Res. Exenta N°67/2011.
+18,19 m (Pozo LA-2); 18,89 m (Pozo LA-3); 15,20 m (Pozo LA-4), 17,19 m (Pozo LA-5).
+c) Registro de comportamiento de niveles de pozos LA-14A, LA-14B, LA-15B; PZ-5, PZ-7, PZ-11, PZ-15B.
+24
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 25 ---
+Hecho(s):
+a. Mediante la Carta CMCC-HSE-R-RE-035-2024, de fecha 07 de febrero de 2024 (ver Anexo 1.1 ), CMCC ingresó una presentación a esta Superintendencia para
+informar antecedentes respecto a la condición operacional del Sistema de Recarga Artificial (SRA) en el sector del bofedal Lagunillas, asociado a compromisos
+ambientales de la RCA N°2022010013/2022 que autorizó el EIA “Proyecto Continuidad Operacional Cerro Colorado” . En lo principal, el titular expuso lo siguiente:
+• “Entre las medidas de mitigación propuestas se encuentra la habilitación del Pozo PR a partir del año 2022, del cual se extra ería el agua para el suministro
+del SRA del sistema Lagunillas, en reemplazo del Pozo P3 existente y que prestaba el referido suministro conforme a la Res. Exenta N°67/2011 del Plan de
+Trabajo Lagunillas” .
+• “Tanto el bofedal Lagunillas, como los pozos de CMCC (entre ellos, el Pozo PR), se encuentra al interior de denominado Predio Huantija, cuyo dominio
+corresponde a la Comunidad Indígena Aymara de Cancosa. Precisamente reconociendo el dominio de la Comunidad Indígena Aymara de Cancosa, desde la
+década de 1980 en adelante, CMCC celebró una serie de actos jurídicos con dicha comunidad a efectos de amparar tanto la operación de los pozos, como el
+transporte de agua desde el ecosistema Lagunillas hacia sus instalaciones. Fue así como con dicha Comunidad se pactaron, entre otros, servidumbres,
+usufructos y arrendamientos, todos los cuales se inscribieron en los registros respectivos” .
+• “No obstante lo anterior, después de casi 20 años de operación, un conjunto de particulares de los cuales no se tenían notici as previas y que eran
+completamente desconocidos en la zona (muchos de ellos, de hecho, eran provenientes de la ciudad de Concepción), comparecieron afirmando que eran ellos
+y no las Comunidades Indígenas “los verdaderos propietarios” del sector en que se encuentran emplazadas las instalaciones y pozos de CMCC” .
+• “En este contexto, invocando compras de derechos sobre el inmueble y disputando el dominio del mismo en el que se ubica el Po zo PR, estos particulares
+solicitaron a la Dirección General de Aguas (“ DGA ”) denegar el cambio de punto de captación de un derecho de aprovechamiento consuntivo, de ejercicio
+permanente y continuo, por un caudal de 20,16 litros por segundo, sobre aguas subterráneas a extraer mecánicamente el Pozo PR para el suministro del SRA.
+En este marco, en diciembre de 2022 la solicitud de cambio de punto de captación fue dejada sin efecto por la DGA, aduciendo la DGA Regional la omisión de
+acompañar copia de inscripción de dominio vigente del inmueble por parte de los opositores” .
+• “En contra de esta resolución denegatoria, CMCC interpuso recurso de reconsideración del Código de Aguas ante el Nivel Centra l de la DGA, argumentando
+que la citada resolución debía ser dejada sin efecto porque no perviven las causas que motivaron la ilegalidad del caso. No obstante, este recurso fue
+rechazado mediante Resolución DGA Exenta N° 211 de 30 de enero de 2024 (“ Resolución DGA ”), notificada con fecha 06 de febrero de 2024 a CMCC, que se
+acompaña a la presente, señalando la DGA al efecto que “tras analizar los antecedentes existentes en el expediente, este Servicio no tiene la certeza de quién
+o quiénes son los dueños del terreno en que se emplaza el nuevo pozo” .
+• “Como fuera señalado, con fecha 6 de febrero de 2024, CMCC ha sido notificada de la Resolución DGA, que en los hechos impide la extracción desde el Pozo
+PR, ya que, pese a ser titular de derechos de aprovechamiento de aguas vigentes, el permiso para extraer aguas desde el punto de captación Pozo PR fue
+dejado sin efecto” .
+• “Sobre el particular, y en lo que respecta a esta sede ambiental, es indispensable destacar que actualmente el bombeo de agua subterránea desde el campo
+de pozos ha cesado para fines operacionales, manteniendo única y exclusivamente la extracción para el c umplimiento del SRA” .
+• “Con la finalidad de mantener la continuidad del SRA, como parte del Plan de Manejo Lagunillas en curso desde el año 2006 y e n los términos actualizados
+en la RCA N°13/2022, y, asimismo, cumpliendo con la orden de la DGA que exige el cese del bombeo del Pozo PR, se ha optado por iniciar transitoriamente
+la extracción para estos efectos desde el Pozo P3 , que cuenta con derechos de aprovechamiento de aguas a ser captados desde ese punto, pendiente una
+solución permanente, sea ambiental o sectorial” .
+25
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 26 ---
+• “La operación transitoria de este pozo ha sido objeto de análisis por parte de CMCC, en forma diligente, para hacer frente a un escenario de imposibilidad de
+operación material o jurídica del Pozo PR. El análisis hidrogeológico denominado “ Análisis Técnico Proyecto Sistema de Respaldo de Suministro Hídrico ”
+preparado por la consultora experta Hidromas (“ Informe Hidromas ”) concluye que este puede ser utilizado por un período de hasta 10 años como condición
+más desfavorable sin afectar los plazos de recuperac ión de los niveles del acuífero en los términos exigidos por la RCA N°13/2022” .
+• “Adicionalmente el mismo informe aporta información actualizada al cese operacional de la faena de CMCC, que da cuenta que el acuífero se encuentra en
+una situación mejor a la prevista en la evaluación ambiental del año 2022, con mejores proyecciones de re cuperación” .
+• “El referido informe, que se acompaña a la presente carta, forma parte de una Consulta de Pertinencia que CMCC elevó al Servi cio de Evaluación Ambiental
+(“ SEA ”), con miras a amparar la operación del Pozo P3 mientras dure la condición de indisponibilidad del Pozo PR, toda vez que CMC C instará por la nueva
+autorización del Pozo PR con arreglo a la normativa sectorial. Esta consulta de pertinencia se encuentra radicada ante la Dirección Ejecutiva del SEA, en
+conocimiento de un recurso jerárquico, que se acompa ña a la presente” .
+b. Con fecha 15 de febrero de 2024, mediante el Oficio ORD. N°25 de la DGA Región de Tarapacá (ver Anexo 7.1 ), dicho Servicio informó a esta Superintendencia
+sobre el proceso de fiscalización sectorial FO-0104-274, indicando que con fecha 08 de febrero de 2024, dio inicio a un proceso de fiscalización sectorial a CMCC
+con el objetivo de verificar el cumplimiento de la Resolución N°211 del 30 de enero de 2024, la cual rechazó el recurso de reconsideración presentado por el
+titular, concluyéndose de esta forma, que el pozo denominado como P-R no cuenta con sus correspondientes derechos de aprovechamiento de aguas
+subterráneas. Los antecedentes presentados antes la SMA por la DGA en el documento citado fueron los siguientes:
+• “En primera instancia es dable indicar que la Resolución DGA Tarapacá N°46 de fecha 02 de diciembre de 2022, denegó la solici tud de cambio de punto de
+captación asociado al pozo P-R u OB-0103- 175 de la empresa Compañía Minera Cerro Colorado Limitada”.
+• “Que posteriormente, el titular presentó un recurso de reconsideración con fecha 12 de diciembre de 2022, el cual, entre otra s cosas, pretendía anular el
+primer acto administrativo, pidiendo además la suspensión de los efectos de la Resolución DGA Tarapacá N°46 de fecha 02 de diciembre de 2022. Esta última
+pretensión fue acogida mientras se resolvía el fondo de lo planteado”.
+• “Que, posteriormente, con fecha 30 de enero de 2024, mediante la Resolución DGA N° 211, se rechazó el recurso de reconsiderac ión presentado por el titular,
+concluyéndose de esta forma, que el pozo denominado como P-R u OB-0103-175 no cuenta con Derechos de Aprovechamiento de Aguas Subterráneas
+correspondientes”.
+• “De acuerdo a lo anterior, es que este Servicio, con fecha 08 de febrero del presente año inició un proceso de fiscalización a la empresa Compañía Minera
+Cerro Colorado, con el objeto de verificar el cumplimiento de la Resolución DGA N° 211 de 30 de enero de 2024”.
+• “En este contexto, se llevó a cabo una inspección en terreno con fecha 08 de febrero del presente año, que buscó verificar in situ el cumplimiento
+precedentemente señalado. En dicha inspección, se pudo comprobar que la empresa Compañía Minera Cerro Colorado no se encontraba extrayendo aguas
+subterráneas del pozo P-R u OB-0103- 175 tal como se aprecia en la Imagen 1” .
+• “Además, durante la inspección se observó que dentro de la batería de pozos existentes en el sector, que cuentan con Derechos de Aprovechamiento de Aguas
+Subterráneas, el pozo P-3 u OB-0104-66 estaba extrayendo agua del acuífero de Lagunillas, a un caudal instantáneo de 20,10 l/s (Imagen 2), destinado al
+sistema de Recarga Artificial (SRA) del Bofedal de Lagunillas. El pozo P-3 posee derechos de aprovechamiento de aguas subterráneas de acuerdo a Resolución
+DGA N°425 de fecha 15 de octubre de 1982” .
+• “A modo de complemento se revisó la plataforma de Monitoreo de Extracciones Efectivas, verificando que desde el 06 de febrero de 2024 el pozo P-R u OB-
+0103-175, no se encuentra extrayendo aguas, y que en su reemplazo el pozo P-3 u OB-0104-66 se encuentra e xtrayendo aguas”.
+26
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 27 ---
+• “La Resolución de Calificación Ambiental (RCA) N°13/2022 estableció en la medida de mitigación HI -1 el cambio de punto de extracción del agua utilizada
+para el Sistema de Recarga Artificial (SRA) del Bofedal de Lagunillas a partir del año 2022, trasladándola desde el pozo P-3 a un nuevo pozo P-R. Además la
+medida HI-2 estipuló la restricción del caudal de extracción desde campo de pozos de Lagunillas, determinando la salida de servicio de los pozos de extracción
+para fines operacionales (P1 y P-3) después d e diciembre 2023”.
+c. A raíz de lo informado por el titular en su carta CMCC-HSE-R-RE- 035-2024 y por la DGA en su Oficio ORD. N°25/2024, la SMA requirió a la empresa, mediante la
+Res. Ex. SMA TPCA N°024, de fecha 23 de febrero de 2024 (ver Anexo 2.1 ), la siguiente información:
+1. Registro de extracciones de aguas subterráneas para el SRA: se requiere entregar una base de datos histórica, consolidada y actualizada a la fecha, en formato
+de planilla Excel editable, con los registros de las extracciones en los pozos que han sido utilizados para el SRA. La planilla Excel deberá seguir el formato
+establecido en la Res. Ex. SMA N°894, de fecha 24 de junio de 2019, que “Dicta instrucciones para la elaboración y remisión d e informes de seguimiento del
+componente ambiental agua”, considerando la versión del fo rmato de reporte más reciente publicada en la web de la SMA. A partir de lo informado en la
+planilla, el titular deberá especificar claramente en su respuesta los periodos de tiempo en que los pozos han estado en funcionamiento y si las extracciones
+se han ajustado o no a los límites/umbrales establecidos en los instrumentos ambientales aplicables.
+2. Justificación técnica del pozo considerado para abastecer el SRA: se requiere acompañar todos los antecedentes técnicos que a juicio del titular permiten
+justificar la elección del pozo P3 como la fuente de agua para el suministro del SRA, considerando la imposibilidad que habría en utilizar el pozo PR según lo
+reportado a esta Superintendencia en la Carta CMCC-HSE-R-RE-035-2024, de fecha 07 de febrero de 2024. Lo anterior deberá incorporar los medios
+verificadores que correspondan, incluyendo una explicación fundada de por qué se ha contemplado dar continuidad al sistema desde el pozo P3 y no desde
+otro pozo de bombeo.
+3. Estado del acuífero y del sistema vegetacional de Lagunillas: se requiere presentar un reporte técnico para dar cuenta de la situación ambiental actualizada
+del sistema Lagunillas, incluyendo el estado del acuífero y del sistema vegetacional asociado. El referido reporte técnico deberá incorporar el análisis de los
+monitoreos realizados a la fecha para ambos componentes (agua y vegetación) y su comparación con los límites/umbrales/indicadores de éxito que están
+establecidos en los instrumentos ambientales aplicables. Los informes de seguimiento que estén comprometidos para esta misma materia en las RCA del
+titular, deberán ser debidamente referenciados e integrados en el reporte técnico, según corresponda.
+Mediante la Carta CMCC-HSE-R-RE-056-2024, de fecha 28 de febrero de 2024 (ver Anexo 2.2 ), el titular solicitó ampliación de plazo para dar respuesta a lo
+requerido en la Res. Ex. SMA TPCA N°024/2024, la cual fue concedida mediante la Res. Ex. SMA TPCA N°026, de fecha 29 de febrero de 2024 (ver Anexo 2.3 ).
+d. Mediante la Carta CMCC-HSE-R-RE-075-2024, de fecha 15 de marzo de 2024 (ver Anexo 2.4 ), CMCC dio respuesta a lo requerido en la Res. Ex. SMA TPCA
+N°024/2024. La presentación anterior fue posteriormente complementada por el titular con una serie de antecedentes adicionales, a saber:
+• Carta CMCC-HSE-R-RE-249-2024, de fecha 21 de octubre de 2024 (ver Anexo 2.5 ).
+• CMCC: Correo electrónico de fecha 15 de noviembre de 2024 (ver Anexo 2.6 ).
+• CMCC: Carta CMCC-HSE-R-RE-290-2024, de fecha 13 de diciembre de 2024 (ver Anexo 2.7 ).
+• CMCC: Carta CMCC-HSE-R-RE-025-2025, de fecha 27 de enero de 2025 (ver Anexo 2.8 ).
+• CMCC: Carta CMCC-HSE-R-RE-045-2025, de fecha 21 de febrero de 2025 (ver Anexo 2.9 ).
+• CMCC: Carta CMCC-HSE-R-RE-067-2025, de fecha 18 de marzo de 2025 (ver Anexo 2.10 ).
+• CMCC: Carta CMCC-HSE-R-RE-090-2025, de fecha 25 de abril de 2025 (ver Anexo 2.11 ).
+• CMCC: Carta CMCC-HSE-R-RE-135-2025, de fecha 18 de junio de 2025 (ver Anexo 2.12 ).
+27
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 28 ---
+e. Posteriormente, respecto a estos mismos hechos, mediante denuncia recibida con fecha 15 de julio de 2024 (expediente ID 87-I-2024), se reportó a esta
+Superintendencia que CMCC estaría haciendo un uso ilegal del pozo P3, el cual estaría siendo utilizado desde enero del año 2024, incumpliendo con la RCA del
+proyecto.
+f. Mediante la Res. Ex. SMA TPCA N°027, de fecha 06 de mayo de 2025 (ver Anexo 3.1 ), esta Superintendencia solicitó una actualización de lo requerido en la Res.
+Ex. SMA TPCA N°024/2024, respecto al estado del acuífero y del sistema vegetacional de Lagunillas. Mediante la Carta CMCC-HSE-R-RE-098-2025, de fecha 07 de
+mayo de 2025 (ver Anexo 3.2 ), el titular solicitó ampliación de plazo para dar respuesta a lo requerido en la Res. Ex. SMA TPCA N°027/2025, la cual fue concedida
+mediante la Res. Ex. SMA TPCA N°030, de fecha 08 de mayo de 2025 (ver Anexo 3.3 ). Mediante la Carta CMCC-HSE-R-RE-119-2025, de fecha 22 de mayo de 2025
+(ver Anexo 3.4 ), CMCC dio respuesta a lo requerido en la Res. Ex. SMA TPCA N°027/2025.
+g. Mediante la Res. Ex. SMA TPCA N°059, de fecha 06 de agosto de 2025 (ver Anexo 5.1 ), esta Superintendencia realizó un nuevo requerimiento de información al
+titular, solicitando antecedentes adicionales sobre las extracciones operacionales hasta el año 2023, en el marco de los compromisos asociados a la medida HI-2
+de la RCA N°2022010013/2022. Mediante la Carta CMCC-HSE-R-RE-185-2025, de fecha 12 de agosto de 2025 (ver Anexo 5.2 ), CMCC dio respuesta a lo requerido
+en la Res. Ex. SMA TPCA N°059/2025.
+h. Considerando las materias asociadas a las exigencias ambientales en revisión para el componente recurso hídrico, se requirió apoyo a la DGA para realizar un
+examen de información de los antecedentes remitidos por el titular, según se describe a continuación:
+• Mediante el Oficio ORD. SMA TPCA N°112, de fecha 06 de junio de 2024 (ver Anexo 7.2 ), se encomendó a la DGA realizar el siguiente examen de información:
+1. Análisis de la documentación entregada mediante la Carta CMCC-HSE-R-RE-075-2024, que dio respuesta al requerimiento de información realizado por
+esta Superintendencia en la Res. Ex. SMA TPCA N°024/2024 .
+Objetivos: (a) determinar si el titular aporta o no una justificación técnica para el pozo de reemplazo utilizado, y (b) verificar si el titular ha cumplido o no
+con sus compromisos ambientales vigentes en el sistema Lagunillas, en relación con los límites/umbrales/indicadores de éxito establecidos en los
+instrumentos ambientales aplicables para el componente “Agua”.
+2. Análisis actualizado del control de extracciones de los pozos PR y P3 en base a la información sectorial de conocimiento de la DGA.
+Objetivos: (a) contrastar la información sectorial del control de extracciones que administra la DGA con la base de datos histórica que fue presentada por
+el titular en su Carta CMCC-HSE-R-RE-075-2024, y (b) verificar si las extracciones se ajustan o no los caudales/volúmenes comprometidos ambientalmente
+para el funcionamiento del SRA.
+3. Análisis de las solicitudes/gestiones sectoriales realizadas por el titular respecto a los pozos PR y P3.
+Objetivos: (a) informar cronológicamente las solicitudes/gestiones sectoriales realizadas por el titular y su estado actual, (b) evaluar si el titular ha actuado
+o no con la debida diligencia en sus solicitudes/gestiones sectoriales ante la DGA, con miras a cumplir con las obligaciones de la RCA N°2022010013/2022,
+en lo específico, para concretar el traslado de las extracciones desde el pozo P3 al pozo PR, y (c) informar si es efectivo que, desde un punto de vista
+sectorial, existe una imposibilidad para la empresa de extraer agua desde el pozo PR, y los motivos de ello.
+• Mediante el Oficio ORD. N°157 de la DGA Región de Tarapacá, de fecha 12 de septiembre de 2024 (ver Anexo 7.3 ), dicho Servicio remitió su primer Reporte
+Técnico en respuesta al examen de información encomendado mediante el Oficio ORD. SMA TPCA N°112/2024.
+• Mediante el Oficio ORD. SMA TPCA N°192, de fecha 26 de noviembre de 2024 (ver Anexo 7.4 ), esta Superintendencia formuló ciertas observaciones a la
+DGA, para complementar/precisar su primer Reporte Técnico.
+28
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 29 ---
+• Mediante el Oficio ORD. N°49 de la DGA Región de Tarapacá, de fecha 28 de marzo de 2025 (ver Anexo 7.5 ), dicho Servicio remitió su segundo Reporte
+Técnico en respuesta a lo solicitado en el Oficio ORD. SMA TPCA N°192/2024.
+• Posteriormente, se remitieron antecedentes adicionales a la DGA para que sean considerados en su examen de información, a saber: Oficio ORD. SMA TPCA
+N°073, de fecha 09 de mayo de 2025 (ver Anexo 7.6 ; remite antecedentes de la Carta CMCC-HSE-R-RE-090-2025) y Oficio ORD. SMA TPCA N°120, de fecha
+18 de agosto de 2025 (ver Anexo 7.7 ; remite antecedentes de la Carta CMCC-HSE-R-RE-185-2025).
+• Mediante el Oficio ORD. N°235 de la DGA Región de Tarapacá, de fecha 18 de diciembre de 2025 (ver Anexo 7.8 ), dicho Servicio remitió su tercer y último
+Reporte Técnico en respuesta a lo solicitado, integrando todo el análisis del caso.
+• Finalmente, atendiendo lo comunicado por el titular en su Carta CMCC-HSE-R-RE-291-2025 de fecha 23 de diciembre de 2025 (ver Anexo 7.9 ), donde informó
+sobre el reinicio de la operación del pozo PR, la DGA remitió un complemento a su examen de información a través del Oficio ORD. DGA N°29 de la DGA
+Región de Tarapacá, de fecha 05 de marzo de 2026 (ver Anexo 7.10 ).
+i. Complementariamente, respecto a la consulta de pertinencia realizada por el titular al SEA que buscaba amparar la operación del pozo P3 en reemplazo del pozo
+PR (proyecto “Respaldo de suministro del Sistema de Recarga Artificial (SRA) Lagunillas” ), cabe hacer presente que, mediante la Rex. Ex. N°202499101467 de
+fecha 07 de junio de 2024 1 , la Dirección Ejecutiva del SEA resolvió el recurso jerárquico interpuesto por el titular en contra de la Res. Ex. SMA N°2024011015 de
+fecha 03 de enero de 2024, informando lo siguiente:
+• Considerando 28°: “(…) en opinión de esta Dirección, no cabe sino concluir que, en la especie, sí se configura la hipótesis establecida en el l iteral g.4 del
+artículo 2 del RSEIA, esto es, las medidas examinadas se ven modificadas sustantivamente por el Proyecto Consultado, conforme a las consideraciones
+desarrolladas precedentemente ” .
+• Considerando 32°: “ Que, sobre la base de la información proporcionada por el Titular y los criterios expresados anteriormente, es necesario concluir que el
+Proyecto Consultado requiere ingresar obligatoriamente al SEIA, en forma previa a su ejecución y, en consecuencia, se rechazará el recurso deducido por
+el Proponente ” .
+• Resuelvo 1°: “ RECHAZAR el recurso jerárquico interpuesto por Claudia Andrea Tapia Godoy, en representación de Compañía Minera Cerro Colorado Limitada,
+en contra de la Resolución Exenta N° 2024011015, de fecha 03 de enero de 2024, de la Dirección Regional del Servicio de Evaluación Ambiental de la Región
+de Tarapacá, en base a lo expuesto en lo considerativo del presente acto” .
+j. Finalmente, mediante denuncia recibida con fecha 12 de marzo de 2026 (expediente ID 72-I-2026), se informó a esta Superintendencia sobre una afectación en
+el mismo sector de Lagunillas, evidenciada a través de una disminución en los niveles de agua subterránea que estaría comprometiendo el ecosistema del bofedal.
+Resultado(s) Examen de Información:
+A continuación, se presenta una síntesis de la documentación analizada relacionada a las exigencias en revisión para el componente recurso hídrico, según aspectos
+de relevancia, considerando el examen de información realizado por la DGA Región de Tarapacá en su Oficio ORD. N°235/2025 (ver Anexo 7.8 ) y ORD. N°29/2026 (ver
+Anexo 7.10 ), y el análisis efectuado por esta propia Superintendencia:
+1 Antecedente disponible en el expediente público PERTI-2023-14871, enlace: https://pertinencia.sea.gob.cl/api/public/expediente/PERTI-2023-14871 .
+29
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 30 ---
+a. Para la medida de mitigación HI-1 “Cambio de punto de extracción del agua utilizada para el SRA del Bofedal de Lagunillas, a partir del año 2022 desde el Pozo P-
+3 a un nuevo Pozo P- R. (indistintamente tratado como Pozo PR)” :
+• En relación con los límites aplicables a los caudales de abastecimiento del SRA (Tabla 1-42 Proyección de los caudales estimados del SRA (Tabla 5-1 del Anexo
+N°7 de la Adenda N°3), la DGA reporta que “Se realizó la revisión de los datos contenidos en el documento “20250611 Base Datos Flujos SRA desde ene -11
+hasta may- 25” y en el documento “Respuesta Res. Ex.059 - 2025_Datos Mensuales”, específicamente los registros de caudal mensual de extracción
+correspondientes a los pozos P3 (considerando únicamente los caudales destinados al sustento SRA) y PR. Se trabajó y realizó el análisis de los datos hasta
+Diciembre 2024 .
+Durante la revisión se compararon los valores de caudal para los años 2022 y 2023, detectándose diferencias entre las planillas analizadas. Para los cálculos
+y la elaboración de los gráficos se optó por utilizar, en cada caso, los valores más altos de caudal registrados entre ambos documentos, considerando que
+representan el escenario más conservador desde el punto de vista ambiental .
+Con esta información se elaboraron dos gráficos; uno con los caudales medios mensuales de extracción entregados por el titular (Gráfico 1) y otro con los
+caudales medio anuales de extracción (Gráfico 2). En el caso de este último los caudales medio anuales fueron obtenidos calculando el promedio de los
+caudales medio mensuales correspondientes a cada año del período evaluado, además en aquellos meses en los que se realizó un cambio de flujómetro y,
+como resultado, existen dos registros de caudal de extracción, se aplicó un cálculo de promedio ponderado para obtener un valor representativo del mes.
+Posteriormente, los caudales medio anuales obtenidos fueron comparados con los límites y umbrales establecidos en la Tabla 1-42 del Considerando 16.2.5
+de la RCA N°2022010013/2022, aplicando los valores correspondientes a los años en que dichas medidas son exigibles. De esta forma se realizó la verificación
+constatando que existieron excedencias de los caudales de extracción para el SRA en los años 2016 (QMA = 25,01 L/s), año 2018 (QMA = 25,02 L/s), año
+2021 (QMA=25,05 L/s), año 2022 (QMA PR+P3 =27,54 L/s) y por último en el año 2023 (QMA P3+PR = 25,77 L/s) ; ver Tabla 1. Estas excedencias representan
+una sobreextracción equivalente a un volumen total de 169.979,90 metros cúbicos ” (énfasis agregado). El Gráfico 1 y Gráfico 2 señalados por la DGA se
+muestran en la Figura 3 y Figura 4 , respectivamente. En tanto, la Tabla 1 señalada por la DGA se reproduce en la Tabla 1 del presente Informe.
+• Sobre la temporalidad aplicada por el titular para proceder con el cambio de punto de extracción, la DGA informa que “A partir del análisis de los Gráficos 1
+y 2, se constata que el pozo P-3 continuó en funcionamiento para abastecer el Sistema de Recarga Artificial del Bofedal de Lagunillas (SRA) durante el
+período 2022 – 2024, incumpliendo lo establecido en la Medida HI-1, la cual exigía el cambio del punto de extracción de agua utilizada en dicho Sistema
+desde el pozo P-3 a un nuevo pozo, identificado como PR, a partir del año 2022 . Los gráficos evidencian que ambos pozos, P-3 y PR, operaron de forma
+simultánea desde el año 2022 y al menos hasta una parte del año 2024, extrayendo caudales con destino al SRA” (énfasis agregado).
+• Adicionalmente, respecto a la justificación entregada por el titular para la elección del pozo P3 como fuente de agua para el suministro del SRA, en reemplazo
+del pozo PR por su imposibilidad de uso, la DGA acota que “La justificación técnica para la elección del pozo P3 fue presentada a través del Memo Técnico
+Lagunillas HIDROMAS de fecha 14 de marzo de 2024 (Anexo 7), sin embargo, dicho documento no detalla de forma adecuada los ajustes específicos realizados
+al modelo hidrogeológico, ni los aspectos técnicos clave que respaldan la validez de los resultados obtenidos. En particular, se omite la descripción de la
+metodología utilizada para incorporar los nuevos caudales y datos disponibles hasta el año 2023, así como los fundamentos que aseguren la consistencia de
+dichos ajustes con la modelación histórica y con proyecciones futuras. Además, no se incluyen los estadísticos de ajuste ni los resultados de calibración del
+modelo, los cuales son fundamentales para evaluar la precisión y la confiabilidad de las simulaciones. La falta de estos elementos técnicos debilita
+significativamente la solidez de la justificación presentada, restándole transparencia y rigor desde una perspectiva hidrogeológica. La inclusión de estos datos
+permitiría una validación cuantitativa del modelo, fortaleciendo la confianza en los resultados proyectados.
+Por otra parte, si bien el titular señala que el pozo P1 carece de tendido de tubería que lo conecte al SRA, este argumento por sí solo no es suficiente para
+descartarlo como alternativa de reemplazo del pozo PR. Considerando la relevancia de asegurar el cumplimiento de los plazos de recuperación del acuífero,
+30
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 31 ---
+se estima pertinente haber realizado un análisis técnico equivalente al efectuado para el pozo P3, a fin de evaluar objetivamente la viabilidad de su utilización
+como fuente de agua para el sistema ” .
+• En cuanto a la evaluación de la debida diligencia de CMCC en sus solicitudes sectoriales realizadas respecto al pozo PR, en su Reporte Técnico la DGA presenta
+una cronología de todas las gestiones realizadas por el titular, a partir de lo cual concluye que “(…) con base en la información registrada en este Servicio, se
+revisaron las gestiones efectuadas por el titular Cerro Colorado ante esta Dirección Regional, durante el período comprendido en la solicitud de la
+Superintendencia de Medio Ambiente, con especial énfasis en la tramitación administrativa del expediente VPC-0104-85, correspondiente a la solicitud de
+cambio de punto de captación asociado al pozo denominado PR, ubicado en el sector de Lagunillas.
+Del análisis de los antecedentes disponibles, no se advierte la existencia de conductas omisivas, dilatorias o reiteradamente incompletas que pudieran
+evidenciar una falta de diligencia por parte del titular en sus presentaciones o respuestas ante requerimientos de la DGA. Por el contrario, las gestiones
+revisadas se enmarcan dentro de los plazos y procedimientos administrativos regulares establecidos en el Código de Aguas y en la normativa complementaria
+aplicable. Cabe precisar que la presente evaluación se limita al análisis de los hechos y antecedentes documentales disponibles en los registros de esta
+Dirección, sin emitir juicios de valor respecto del fondo o mérito de las decisiones administrativas adoptadas en el marco del expediente señalado ”.
+• Según lo indicado por la DGA, a la fecha de entrega de su Reporte Técnico, aún no se encontraba resuelta la tramitación sectorial requerida para el pozo PR,
+con lo que se mantiene la imposibilidad del titular para su uso. Sin embargo, mediante la Carta CMCC-HSE-R-RE-291-2025, de fecha 23 de diciembre de 2025
+(ver Anexo 7.9 ), el titular informó a esta Superintendencia que “(…) con fecha 23 de diciembre de 2025 se cumple con dar aviso del inicio de la Operación del
+Pozo PR, basado en la Resolución Exenta N°908/2025 DGA Nacional, que autoriza la modificación del punto de captación y que faculta a CMCC a la extracción
+de aguas desde el pozo PR para uso en el sistema de recarga artificial del Bofedal de Lagunillas” .
+• Esta situación fue comprobada por la DGA a través del análisis presentado en el Oficio ORD. N°29 de la DGA Región de Tarapacá, de fecha 05 de marzo de
+2026 (ver Anexo 7.10 ), donde dicho Servicio reporta que:
+- “Mediante la Resolución DGA Exenta N°908, de 17 de diciembre de 2025, la Dirección Regional de Aguas de Tarapacá concedió la autorización para el
+cambio de punto de captación, el cual corresponde a un caudal de 20,16 L/s y se encuentra asociado a la captación denominada P- R”.
+- “ En atención a lo anterior, esta Dirección Regional realizó un análisis de la información reportada por el titular en el sistema MEE (serie de datos disponible
+en el Anexo 2), respecto de las captaciones Pozo P3 y Pozo P-R, para el período comprendido entre el 1 de enero de 2025 y el 31 de diciembre de 2025 ” .
+- “Las extracciones informadas se ajustan al punto de captación autorizado. Específicamente, los registros reportados muestran que la extracción desde
+el Pozo P3 cesó con fecha 23 de diciembre de 2025 a las 11:57 horas y fue reanudada desde el Pozo P-R con fecha 23 de diciembre de 2025 a las 12:14
+horas, de acuerdo con los registros de la Plataforma de Monitoreo de extracciones Efectivas (MEE)”.
+- “ Respecto del análisis de los caudales medios anuales de extracción para abastecer el Sistema de Recarga Artificial (SRA) del bofedal de Lagunillas, a
+partir de los registros del MEE, se constata que en el año 2025, el titular extrajo un caudal medio anual de 19,33 L/s desde el Pozo P3 y 0,44 L/s desde el
+Pozo PR (es decir, un total de 19,77 L/s), lo que se encuentra dentro del límite de 18-20 L/s establecido en la RCA 2022010013/2022 para dicho año ” .
+b. Para la medida de mitigación HI-2 “Restricción del caudal de extracción desde campo de pozos Lagunillas” :
+• En relación con la extracción operacional de los años 2022 y 2023, en particular respecto a la verificación del volumen máximo mensual de 273.000 metros
+cúbicos/mes, del caudal medio anual máximo de 83 L/s y del volumen total máximo de 4.982.500 metros cúbicos para dichos años, la DGA reporta que “ Se
+trabajó con los datos contenidos en las planillas Excel denominadas “Respuesta Res. Ex. 059 - 2025_Datos Diarios.xlsx”, “Respuesta Res. Ex. 059 -2025_Datos
+Mensuales.xlsx” y “Respuesta Res. Ex. 059 -2025_Datos Trim estrales.xlsx”, revisando la información disponible en los tres archivos y homogenizando las
+escalas temporales para permitir su comparación. Posteriormente, se contrastaron los datos entre sí en los casos en que ello fue posible, para finalmente
+31
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 32 ---
+trabajar con los valores correspondientes a los escenarios más desfavorables ambientalmente, correspondientes a aquellos que reportan una mayor
+extracción .
+Para el caso del cálculo del volumen total mensual de extracción para fines operacionales, para cada mes se realizó la sumatoria de los volúmenes mensuales
+reportados para los pozos P1 y P3 (Productivo), obteniendo así el volumen total de extracción mensual del campo de pozos Lagunillas destinado para fines
+operacionales (Ver Tabla 2).
+El volumen total mensual obtenido fue comparado con el límite máximo autorizado de 273.000 m³/mes , conforme al compromiso ambiental vigente. Se
+verificó mes a mes, si las extracciones se mantuvieron dentro del valor máximo permitido. Para una mejor visualización de este cumplimiento se elaboró el
+Gráfico 3 y la Tabla 2, a partir de lo cual se desprende que los volúmenes mensuales se encontraron bajo el límite máximo de 273.000 m³/mes .
+Posteriormente, para verificar el cumplimiento del caudal medio anual de 83 L/s para los años 2022 y 2023 se realizó el cálculo a partir del promedio de los
+caudales medios mensuales. Los cálculos de esto se encuentran en el Anexo 11 “Base de Cálculo y verificación de datos.xlsx” específicamente en la Hoja
+“Cálculo QMA y cumplimiento” (énfasis agregado) . Estos resultados se presentan en la Tabla 3 del Reporte de la DGA, donde se muestra que los caudales
+medios anuales estuvieron bajo el caudal medio anual de 83 L/s .
+“Finalmente, para verificar el compromiso 1.2 “Volumen máximo total autorizado a extraer desde la cuenca de Lagunillas, durant e los años 2022 y 2023,
+desde el campo de pozos Lagunillas para fines operacionales”, se realizó la sumatoria de los volúmenes tota les mensuales correspondientes a los años 2022
+y 2023, obteniendo el volumen total extraído durante los dos años de análisis (valor de 2.783.644 metros cúbicos), el cual de acuerdo a la Tabla 4 cumple
+con el compromiso establecido, pues es inferior al volumen de 4.982.500 metros cúbicos ” (énfasis agregado).
+El Gráfico 3 señalado por la DGA se muestra en la Figura 5 , mientras que la Tabla 2 y la Tabla 3 antes citadas se reproducen en la Tabla 2 y Tabla 3 del
+presente Informe, respectivamente.
+• En relación con la regla de reducción en equivalencia con los caudales y volúmenes efectivamente desaguados desde el rajo, en particular respecto a la
+verificación del caudal total de extracción máxima de 83 l/s, calculado como un promedio trimestral de extracciones, la DGA señala que “Los cálculos de los
+caudales trimestrales para cada periodo de los años 2022 y 2023 se encuentran en el Anexo 11 “Base de Cálculo y verificación de datos.xlsx” específicamente
+en la Hoja “Cálculo Caudal Trimestral” .
+Con los caudales trimestrales resultantes se verificó que el suministro de agua a la faena desde los pozos de lagunillas (P1 y P3) y desde el desagüe del
+rajo conjuntamente no superó el caudal total de extracción máxima de 83 L/s (Tabla 5). Equivalentemente, el volumen total extraído en los dos años
+asciende a 4.384.752 metros cúbicos, valor que también resulta inferior al límite máximo de 5.235.500 definido como el volumen total máximo para los
+dos años ” (énfasis agregado). La Tabla 5 antes citada se reproduce en la Tabla 4 del presente Informe; en tanto, el valor de 4.384.752 metros cúbicos
+corresponde a la suma total de volúmenes extraídos en los pozos P1 y P3 para fines productivos, más el desagüe del rajo.
+• Junto con lo anterior, respecto a la condición “Esta regla de reducción en equivalencia no aplicará en caso de que sea activado el Plan de Alerta Temprana,
+en cuyo caso regirá lo dispuesto en el Plan de Alerta Temprana (Anexo 1 de la Adenda 4 de fecha 29 de noviembre de 2021)” , la DGA informa que “(…) se
+procedió a revisar el Anexo 1 de la Adenda 4, correspondiente al “Plan de Alerta Temprana para resguardar el plazo de recuper ación de niveles en el acuífero
+de Lagunillas” (Anexo 12), con el propósito de ve rificar las condiciones, umbrales y acciones establecidas para su activación, así como su eventual incidencia
+en la aplicación de la regla de reducción en equivalencia contemplada en la medida HI-2.
+Complementariamente, y con el objeto de evaluar el comportamiento real de los niveles piezométricos del acuífero, se revisaron los datos contenidos en el
+archivo Excel “20250618 Niveles y descensos observados históricos - LA-02, -03, -04 y -05 - Mayo.xlsx”, junto con la información del Reporte Regular N°14 del
+“Plan de Alerta Temprana para resguardar el plazo de recuperación de niveles en el acuífero de Lagunillas” correspondiente al segundo trimestre de 2025
+abril a junio de 2025 (Anexo 13).
+32
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 33 ---
+A partir del análisis de dichos antecedentes, se observa que no se ha verificado la superación de ningún umbral en los pozos de control (Ver Gráfico 4), por
+lo que el comportamiento de los niveles se mantiene dentro de lo proyectado. En consecuencia, y conforme a lo establecido en el propio Plan de Alerta
+Temprana, no ha correspondido la activación de este durante el período evaluado ” (énfasis agregado). El Gráfico 4 antes citado se reproduce en la Figura
+6 del presente Informe.
+• A partir de lo anterior, se concluye que el titular se ajustó a la restricción de sus extracciones operacionales para los años 2022 y 2023, según los
+límites/umbrales establecidos, en sus respectivas escalas de tiempo.
+c. Para la medida de mitigación HI-3 “Plan para facilitar la delimitación y protección de acuíferos que alimentan vegas y bofedales en la región de Tarapacá”, en
+particular para la “Renuncia voluntaria de los derechos de agua con los que cuenta Cerro Colorado en el sector hidrogeológico de Lagunillas” :
+• La DGA informa que “Los Trámites realizados por el Titular Cerro Colorado en el Conservador de Bienes Raíces de Pozo Almonte respecto esta medid a se
+exponen a continuación:
+- Inscripción de la declaración de prohibición de uso de derechos de aprovechamiento de aguas de la Compañía Minera Cerro Colorado Ltda. por un
+caudal de 150 L/s.
+Inscripción realizada a fojas 1, número 1, del Registro de Prohibiciones e Interdicciones año 2023, del Conservador de Bienes Raíces de Pozo Almonte, de
+fecha 27 de enero del año 2023. En donde consta la Prohibición de Uso respecto de 150 L/s de los derechos de agua de CMCC.
+Este antecedente fue incorporado por el titular en el Sistema de Seguimiento Ambiental (SNIFA) bajo el nombre “Informe Inscri pción de No Uso y Renuncia
+de los Derechos de Agua CMCC”, disponible en el siguiente enlace: https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/1015204.
+Inscripción de la renuncia a los derechos de aprovechamiento de agua s de la Compañía Minera Cerro Colorado Ltda. por un caudal de 150 L/s Inscripción
+realizada a fojas 9, número 9, del Registro de Propiedad de Aguas año 2023, del Conservador de Bienes Raíces de Pozo Almonte, de fecha 27 de enero
+del año 2023. En donde consta la Renuncia respecto de 150 l/s de los derechos de agua de CMCC.
+Este documento también fue cargado por el titular en el SNIFA bajo el mismo informe antes citado (“Informe Inscripción de No Uso y Renuncia de los
+Derechos de Agua CMCC”), disponible en el enlace indicado.
+- Inscripción de la renuncia a los derechos de aprovechamiento de aguas de la Compañía Minera Cerro Colorado Ltda por un caudal de 125 l/s. Inscripción
+realizada a fojas 144, número 72 del Registro de Propiedad de aguas año 2024, del Conservador de Bienes Raíces de Pozo Almonte, de fecha 22 de marzo
+del año 2024. En donde consta la Renuncia respecto de 125 l/s de los derechos de agua de CMCC.
+Este antecedente fue incorporado por el titular en el SNIFA bajo el nombre “Informe Copia de Inscripción de Renuncia de Derechos en el CBR 125 L/S”,
+disponible en el siguiente enlace: https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/1015204.
+Asimismo, durante el año 2024, el titular solicitó reuniones de carácter lobby con esta Dirección General de Aguas, en las cuales presentó formalmente las
+renuncias de derechos de aprovechamiento y sus respectivas inscripciones en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces de Pozo
+Almonte.
+En dichas instancias, considerando que el acuífero del sector de Lagunillas se encuentra declarado como zona de prohibición, el Departamento de
+Administración de Recursos Hídricos del Nivel Central propuso analizar alternativas destinadas a salvaguardar las aguas renunciadas, particularmente
+mediante la utilización de la figura de Reserva de Aguas, conforme a lo establecido en el Código de Aguas.
+Actualmente, se encuentra en tramitación la definición de los actos administrativos y antecedentes técnicos y legales necesarios para concretar dicha Reserva,
+los cuales deberán ser emitidos por el Nivel Central de esta Dirección General de Aguas”.
+33
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 34 ---
+• No obstante lo anterior, la DGA releva que “Si bien se verificó que los trámites administrativos de renuncia fueron oportunamente realizados y debidamente
+inscritos, la medida HI-3 establecía que dicha renuncia debía ser compatible con el desarrollo del Proyecto de Continuidad Operacional, con el Plan de
+Manejo del Bofedal y con el objetivo de resguardo del bofedal de Lagunillas . Desde esta perspectiva, y de acuerdo con lo revisado en los puntos anteriores,
+específicamente en la medida HI-1, se detectaron sobreextracciones en los caudales medios anuales permitidos para el Sistema de Recarga Artificial (SRA)
+del bofedal de Lagunillas en algunos años (es decir, el titular extrajo una cantidad de recurso hídrico mayor a la necesaria) , lo que implica que el objetivo
+sustantivo de la medida — esto es, garantizar una efectiva protección hídrica del bofedal — no se habría cumplido , pese a que formalmente se haya
+materializado la renuncia a los derechos, quedando vigente solo lo requerido para el riego del bofedal, con lo que el titular no se ha ajustado a lo exigido en
+la medida HI- 3, a saber, “Establecer la imposibilidad para Cerro Colorado de desarrollar nuevas extracciones en el acuífero de Lagunillas, una vez que haya
+finalizado la operación del Proyecto, con excep ción del uso de los recursos necesarios para el riego artificial del bofedal Lagunillas y la laguna Huantija”
+(énfasis agregado) .
+d. Por último, respecto a los hechos adicionales informados en la denuncia ID 72-I-2026:
+• Lo comunicado en la denuncia haría referencia a una posible afectación histórica en el sector de Lagunillas, pero no se especifica de manera precisa una
+situación o evento particular que pudiera estar asociado a un posible incumplimiento ambiental de las RCA de la unidad fiscalizable.
+• Con todo, respecto a la disminución de niveles de agua subterránea que se indica estaría comprometiendo el estado del bofedal, cabe destacar que los datos
+que fueron analizados por la DGA en los pozos de observación LA-02, LA-03, LA-04 y LA-05 hasta el año 2025, no dan cuenta de un descenso en la napa,
+observándose por el contrario una recuperación sostenida en la cota del agua subterránea desde el año 2020 (ver Figura 6 ), con una diferencia del orden de
+al menos 2 metros por sobre los umbrales aplicables.
+• Así, en base a los antecedentes disponibles, no ha sido posible verificar los hechos denunciados.
+Del examen de información realizado, es posible concluir lo siguiente:
+a. Para la medida de mitigación HI-1 “Cambio de punto de extracción del agua utilizada para el SRA del Bofedal de Lagunillas, a partir del año 2022 desde el Pozo P-
+3 a un nuevo Pozo P- R. (indistintamente tratado como Pozo PR)” :
+- Se verificaron excedencias en los caudales de extracción para abastecer el SRA en los años 2016, 2018, 2021, 2022 y 2023, que en total representan una
+sobreextracción equivalente a un volumen de 169.979,90 metros cúbicos.
+- Sobre la temporalidad aplicada por el titular para proceder con el cambio de punto de extracción, se constató que el pozo P3 continuó en funcionamiento
+para abastecer el SRA durante el período 2022-2024, lo que no se ajusta a lo establecido en la medida HI-1 que exigía el cambio del punto de extracción de
+agua utilizada en dicho Sistema desde el pozo P3 a un nuevo pozo, identificado como PR, a partir del año 2022.
+- De acuerdo a lo informado por el SEA en la Rex. Ex. N°202499101467 de fecha 07 de junio de 2024, que resolvió el recurso jerárquico interpuesto por el titular
+en relación con la consulta de pertinencia de ingreso al SEIA del proyecto “Respaldo de suministro del Sistema de Recarga Art ificial (SRA) L agunillas”, la
+operación del pozo P3 en reemplazo del pozo PR corresponde a una modificación sustantiva de la medida de mitigación de la RCA N°2022010013/2022,
+debiendo por tanto ingresar obligatoriamente al SEIA para su evaluación en dicha sede.
+- Respecto a la elección del pozo P3 como fuente de agua para el suministro del SRA, en reemplazo del pozo PR por su imposibilidad de uso, la DGA informó
+que la justificación técnica entregada por CMCC fue insuficiente, identificando deficiencias en la modelación hidrogeológica realizada por el titular.
+Adicionalmente, la DGA reportó que si bien el pozo P1 carecería de tendido de tubería que lo conecte al SRA, este argumento por sí solo no sería suficiente
+34
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 35 ---
+para descartarlo como alternativa de reemplazo del pozo PR, considerando que dicho pozo se encuentra a una distancia de más de 2 kilómetros 2 alejado del
+bofedal que el pozo P3 y que por tanto, el posible efecto de su extracción sería menor. Atendiendo la relevancia de asegurar el cumplimiento de los plazos de
+recuperación del acuífero, la DGA estima pertinente haber realizado un análisis técnico equivalente al efectuado para el pozo P3, a fin de evaluar objetivamente
+la viabilidad de su utilización como fuente de agua para el sistema, lo cual no fue presentado por CMCC.
+- Con fecha 23 de diciembre de 2025, el titular informó a esta Superintendencia sobre el reinicio de la operación del pozo PR basado en la autorización sectorial
+que lo faculta para hacer la extracción de aguas desde dicho pozo para su uso en el SRA, situación que fue verificada por la DGA con los antecedentes
+disponibles en dicho servicio.
+- Con todo, respecto al retraso incurrido para regularizar la situación antes descrita, y en cuanto a la evaluación de la debida diligencia de CMCC en sus
+solicitudes/gestiones sectoriales ante la DGA, dicho Servicio informó que no se advierte la existencia de conductas omisivas, dilatorias o reiteradamente
+incompletas que pudieran evidenciar una falta de diligencia por parte del titular.
+b. Respecto a la medida de mitigación HI-2 “Restricción del caudal de extracción desde campo de pozos Lagunillas” , tras el examen de información efectuado, se
+concluye que el titular se ajustó a la restricción de sus extracciones operacionales para los años 2022 y 2023, según los límites/umbrales establecidos, en sus
+respectivas escalas de tiempo.
+c. Respecto a la medida de mitigación HI-3 “Plan para facilitar la delimitación y protección de acuíferos que alimentan vegas y bofedales en la región de Tarapacá”,
+en particular para la “Renuncia voluntaria de los derechos de agua con los que cuenta Cerro Colorado en el sector hidrogeológico de Lagunillas” :
+- S i bien el titular ha cumplido formalmente con los actos administrativos asociados a la renuncia voluntaria de derechos de agua, el objetivo sustantivo de la
+medida HI-3 — esto es, asegurar una reducción real de la presión extractiva sobre el sector hidrogeológico de Lagunillas y contribuir al resguardo del bofedal —
+no se habría materializado en su totalidad, atendidas las sobreextracciones verificadas en periodos previos (es decir, el titular extrajo una cantidad de recurso
+hídrico mayor a la necesaria).
+- Así, el titular no se ha ajustado a lo exigido en la medida HI- 3, a saber, “ Establecer la imposibilidad para Cerro Colorado de desarrollar nuevas extracciones en
+el acuífero de Lagunillas, una vez que haya finalizado la operación del Proyecto, con excepción del uso de los recursos necesarios para el riego artificial del
+bofedal La gunillas y la laguna Huantija” .
+2 Según lo establecido en la RCA N°2022010013/2022, el pozo P3 se encuentra en las coordenadas 7.796.874 metros Norte y 518.536 metros Este (datum WGS 84) y el pozo P1 en las
+coordenadas 7.799.144 metros Norte y 518.266 metros Este (datum WGS 84); ver Figura 2 .
+35
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 36 ---
+Registros
+Figura 3.
+Descripción medio de prueba:
+Caudales medios mensuales extraídos por CMCC para el SRA, periodo 2011-2024. Figura extractada del Reporte Técnico adjunto al Oficio ORD. N°235/2025 de la DGA Región de Tarapacá.
+36
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 37 ---
+Registros
+Figura 4.
+Descripción medio de prueba:
+Comparación entre caudales medios anuales extraídos por CMCC para el SRA y límites aplicables, periodo 2011-2024. Se destacan las superaciones en los caudales para los años 2016
+(25,01 L/s), año 2018 (25,02 L/s), año 2021 (25,05 L/s), año 2022 (27,54 L/s) y por último en el año 2023 (25,77 L/s); ver más detalles en la Tabla 1 . Figura extractada del Reporte Técnico
+adjunto al Oficio ORD. N°235/2025 de la DGA Región de Tarapacá.
+37
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 38 ---
+Registros
+Caudal Caudal
+Caudal P3 Caudal PR Sobreextracción Sobreextracción
+Año P3+PR Límite SRA Cumplimiento
+(L/s) (L/s) (L/s) (m3)
+(L/s) (L/s)
+2011 17,31 - - - NO APLICA - -
+2012 18,67 - - - NO APLICA - -
+2013 19,78 - - - NO APLICA - -
+2014 23,30 - - 25 SI  0 0
+2015 24,46 - - 25 SI  0 0
+2016 25,01 - - 25 NO  0,01 316,22
+2017 24,60 - - 25 SI  0 0
+2018 25,02 - - 25 NO  0,02 630,72
+2019 24,98 - - 25 SI  0 0
+2020 24,89 - - 25 SI  0 0
+2021 25,05 - - 25 NO  0,05 1.576,80
+2022 7,61 19,93 27,54 23-25 NO  2,54 80.101,44
+2023 5,77 20,00 25,77 20-23 NO  2,77 87.354,72
+2024 17,81 2,11 19,92 18-20 SI  0 0
+5,39 169.979,90
+Tabla 1.
+Descripción medio de prueba:
+Comparación entre caudales medios anuales extraídos por CMCC para el SRA y límites aplicables, periodo 2011-2024. Se destacan las superaciones en los caudales para los años 2016
+(25,01 L/s), año 2018 (25,02 L/s), año 2021 (25,05 L/s), año 2022 (27,54 L/s) y por último en el año 2023 (25,77 L/s). Las excedencias respecto a lo autorizado representan un volumen
+total sobreextraído de 169.979,90 metros cúbicos. Tabla extractada del Reporte Técnico adjunto Oficio ORD. N°235/2025 de la DGA Región de Tarapacá.
+38
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 39 ---
+Registros
+Figura 5.
+Descripción medio de prueba:
+Comparación entre volúmenes totales extraídos mensualmente para fines operacionales y el límite máximo de 273.000 m3/mes, años 2022 y 2023. Se observa que en todo el periodo
+se cumple con el límite autorizado. Figura extractada del Reporte Técnico adjunto al Oficio ORD. N°235/2025 de la DGA Región de Tarapacá.
+39
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 40 ---
+Registros
+Volumen total
+Volumen Extracción P1 Volumen Extracción P3 Límite Volumen Cumplimiento
+Mes extracción para fines
+(m 3 ) (m 3 ) Mensual (m 3 ) Volumen Mensual
+operacionales (m 3 )
+ene-22 0 0 0 273.000 SI 
+feb-22 40.677 8.686 49.363 273.000 SI 
+mar-22 97.004 18.527 115.531 273.000 SI 
+abr-22 102.505 16.966 119.471 273.000 SI 
+may-22 108.031 10.474 118.505 273.000 SI 
+jun-22 122.400 593 122.993 273.000 SI 
+jul-22 118.285 619 118.904 273.000 SI 
+ago-22 114.320 0 114.320 273.000 SI 
+sept-22 120.938 0 120.938 273.000 SI 
+oct-22 137.950 0 137.950 273.000 SI 
+nov-22 123.827 0 123.827 273.000 SI 
+dic-22 127.445 0 127.445 273.000 SI 
+ene-23 139.735 0 139.735 273.000 SI 
+feb-23 123.100 0 123.100 273.000 SI 
+mar-23 143.239 0 143.239 273.000 SI 
+abr-23 142.509 0 142.509 273.000 SI 
+may-23 149.825 0 149.825 273.000 SI 
+jun-23 140.282 0 140.282 273.000 SI 
+jul-23 173.170 0 173.170 273.000 SI 
+ago-23 151.071 0 151.071 273.000 SI 
+sept-23 131.465 0 131.465 273.000 SI 
+oct-23 118.899 0 118.899 273.000 SI 
+nov-23 72.304 0 72.304 273.000 SI 
+dic-23 28.798 0 28.798 273.000 SI 
+Tabla 2.
+Descripción medio de prueba:
+Comparación entre volúmenes totales extraídos mensualmente para fines operacionales y el límite máximo de 273.000 m3/mes, años 2022 y 2023. A partir de estos registros, se observa
+que en todo el periodo se cumple con el límite autorizado. En tanto, el volumen total extraído en el periodo 2022-2023 asciende a 2.783.644 metros cúbicos, valor que también resulta
+inferior al límite máximo de volumen de 4.982.500 metros cúbicos definido como total máximo para los dos años. Tabla extractada del Reporte Técnico adjunto al Oficio ORD. N°235/2025
+de la DGA Región de Tarapacá.
+40
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 41 ---
+Registros
+Caudal Medio Anual Límite Caudal Cumplimiento
+Año
+(L/s) Medio Anual (L/s) caudal medio anual
+2022 40,2 83 SI 
+2023 48,1 83 SI 
+Tabla 3.
+Descripción medio de prueba:
+Comparación entre caudales medios anuales extraídos y el límite máximo de 83 L/s, años 2022 y 2023. Los valores de 40,2 L/s y 48,1 L/s fueron obtenidos a partir del promedio de los
+caudales medios mensuales para cada año evaluado (cálculos disponibles en el Anexo 11 del Reporte Técnico DGA). De la verificación se desprende que los caudales medios anuales
+estuvieron bajo el caudal medio anual máximo de 83 L/s. Tabla extractada del Reporte Técnico adjunto al Oficio ORD. N°235/2025 de la DGA Región de Tarapacá.
+41
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 42 ---
+Registros
+Caudal Caudal Caudal Caudal Total Caudal Total Límite Caudal
+Verificación
+Fecha Extracción P1 Extracción P3 Desagüe Rajo P1+P3+Desagüe Rajo Trimestral Trimestral
+Cumplimiento
+(L/s) (L/s) (L/s) (L/s) (L/s) (L/s)
+ene-22 0,0 0,0 44,8 44,8
+feb-22 17,2 3,6 44,0 64,8 63,5 83 SI 
+mar-22 36,3 6,9 37,7 80,9
+abr-22 39,5 6,5 36,9 83,0
+may-22 40,4 3,9 38,1 82,4 82,7 83 SI 
+jun-22 47,2 0,2 35,3 82,8
+jul-22 44,2 0,3 38,6 83,1
+ago-22 42,7 0,0 38,7 81,4 82,3 83 SI 
+sept-22 46,7 0,0 35,7 82,4
+oct-22 51,5 0,0 28,0 79,5
+nov-22 47,8 0,0 34,8 82,6 81,5 83 SI 
+dic-22 47,6 0,0 34,9 82,5
+ene-23 52,2 0,0 30,4 82,6
+feb-23 50,9 0,0 29,2 80,1 81,2 83 SI 
+mar-23 53,5 0,0 27,4 80,9
+abr-23 55,0 0,0 26,5 81,5
+may-23 55,9 0,0 25,3 81,3 81,4 83 SI 
+jun-23 54,2 0,0 27,4 81,6
+jul-23 64,7 0,0 1,2 65,9
+ago-23 56,4 0,0 0,0 56,4 57,7 83 SI 
+sept-23 50,7 0,0 0,0 50,7
+oct-23 44,4 0,0 0,0 44,4
+nov-23 27,9 0,0 0,0 27,9 27,7 83 SI 
+dic-23 10,8 0,0 0,0 10,8
+Tabla 4.
+Descripción medio de prueba:
+Comparación entre caudales totales extraídos trimestralmente para fines operacionales y el límite máximo de 83 L/s, años 2022 y 2023. Se observa que en todo el periodo se cumple
+con el límite autorizado. Tabla extractada del Reporte Técnico adjunto al Oficio ORD. N°235/2025 de la DGA Región de Tarapacá.
+42
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 43 ---
+Registros
+Figura 6.
+Descripción medio de prueba:
+Registros de descensos de niveles freáticos en los pozos de observación LA-02, LA-03, LA-04 y LA-05 y comparación con umbrales aplicables. Se observa que en el periodo asociado a la
+verificación de la medida HI-2 (años 2022 y 2023), no se ha producido la activación de umbrales. Figura extractada del Reporte Técnico adjunto al Oficio ORD. N°235/2025 de la DGA
+Región de Tarapacá.
+43
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 44 ---
+5.2 Estado vegetacional del sector Lagunillas
+Número de hecho constatado: N°2
+Documentación Revisada: Antecedentes ID 15 al ID 17, ID 20 y ID 21, indicados en el numeral 4.3 del presente Informe
+Exigencia (s):
+Res. Ex. N°067/2011 que modifica la RCA N°22/1997 que autorizó el EIA “Expansión Cerro Colorado” y la RCA N°102/2002 que autorizó la DIA “Mejoramient o de
+Eficiencia Stretch Plan”
+• Considerando 19.2
+“a. La titular debe incorporar en los modelos la interrelación existente entre las variaciones en el nivel de las aguas subte rráneas y la vegetación asociada al bofedal
+Lagunillas. La interrelación funcional entre ambas variables ecosistémicas, determina la alta dependencia de estos ecosistemas de las aguas subterráneas, la
+disminución de las napas subterráneas incide en el cese de los afloramientos hídricos, impactando negativamente el funcionamiento del bofedal. Lo anterior,
+resulta fundamental para estudiar la evolución de las variables ambientales, antecedentes necesarios a considerar en la definición de las medidas de recuperación
+del bofedal y en el plan de cierre del proyecto” .
+• Considerando 21.2
+“Considerando que el Bofedal Lagunillas tuvo una deficiente línea base en la evaluación ambiental es fundamental generar ante cedentes para una adecuada
+comprensión del ecosistema y las interrelaciones entre sus partes. Según este Servicio, es necesario para un estudio adecuado del sistema Bofedal Lagunillas, tener
+una caracterización hidrogeológica que contenga perfiles geofísicos longitudinales y transversa/es, un mapa actualizado de isodescensos, una caracterización
+físico-química de las aguas de los puntos de explotación y de recarga artificial; un “Estudio de Perfil Agrológico” que permita caracterizar los distintos horizontes
+del suelo del Bofedal, y también presentar información geológica específica que delimite en forma precisa los acuíferos del s ector” .
+• Considerando 25.1
+“ e. El titular deberá indicar las acciones a seguir en caso que la recuperación sustentable del bofedal, requiera más tiempo que los 20 años estimados para el
+desarrollo del Plan de Cierre. Lo anterior debe estar fundamentado en un plan de monitoreos sistemáticos en el tiempo, que incluye la fase de cierre del proyecto ” .
+“f. Se deberá establecer, a priori, las formaciones vegetacionales que serán recuperadas y especificar las especies vegetales dominantes que deben colonizar el
+rastrojo de especies que no se encuentran activas ” .
+“g. En cuanto al Plan de Seguimiento de los Recursos Renovables Afectados por la Extracción de Agua, se solicita especificar los parámetros químicos a monitorear,
+tanto para el bofedal, laguna y recarga artificial. Explicar por qué no se incluye monitoreo de parámetros químicos en agua de las zonas de vertientes y bofedales.
+Además, se considera insuficiente una frecuencia de muestreo anual para el análisis químico del agua de la recarga artificial, debiendo considerarse para este
+punto (a lo menos) 2 monit oreos anuales (uno en época de lluvias y otro en época de bajas temperaturas)” .
+“Finalmente y respecto al Plan de monitoreo de la vegetación del Bofedal presentado en el Plan de Trabajo, en especial de las variables ambientales relevantes
+(actividad fotosintética, entre otras), se requiere la presentación de la metodología fundamentad a técnicamente” .
+44
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 45 ---
+• Considerando 25.4
+“m. Considerando que un Bofedal no se compone sólo por su cubierta vegetacional, sino que además existen una serie de subsist emas ligados a él,
+mayoritariamente en profundidad, cuya interrelación hace viable la existencia del Bofedal como subsistema, el titular deberá considerar dentro de sus propuestas
+tendientes a recuperar el Bofedal Lagunillas, la escala de tiempo en la que esto último se desarrollará, toda vez que, la recuperación antes señalada no sólo debe
+limitarse a los niveles de agua subterránea, sino también, a los efectos generados en la capacidad de retener agua de los intersticios del sistema, lo que conlleva a
+una alteración de distintas variables ecosistémicas” .
+• Considerando 26.1
+“ Sin embargo, el PLAN contempla un estricto Programa de Seguimiento Ambiental que permitirá monitorear los cambios hidrogeológicos y vegetacionales del
+área, evaluar permanentemente la efectividad del SRA y tomar acción ante cambios no previstos, positivos o negativos, de las condiciones normales del sistema
+vegetacional durante la fase de recuperación y luego durante la fase de mantención (incluida la etapa de post-cierre) ” .
+• Considerando 26.8
+“METODOLOGÍA ESTUDIO FOTOSINTÉTICO
+a. Determinar las tasas de fotosíntesis y conductancia estomática estacionales de la vegetación azonal, en sectores del bofedal que presenten diferentes grados
+de recuperación. Con esto se realizará una curva anual de fotosíntesis, lo cual permitiría monitorear la evolución del bofedal, desde un punto de vista fisiológico.
+b. Como objetivo anexo se identificarán las tasas de transpiración de los taxa evaluados, lo cual puede ser utilizado en estudios de balance hídrico a nivel del
+ecosistema.
+Para este estudio se generará una caracterización ecofisiológica, la cual se centrará en dos parámetros claves en respuesta al déficit de agua; la tasa de asimilación
+de carbono (A en mmol CO2 m-2s-1) y conductancia estomática (Gs en mol H2O m-2 s-1).
+Para realizar la investigación se seleccionaron sectores en el bofedal, que presentan distintos grados de recuperación. En los taxas dominantes de cada sector, y
+dependiendo del tipo de crecimiento de estos taxas (vertical o cojín), vegetación, se realizaron dos tipos de mediciones:
+b.1 Determinación de una curva A/PAR, la cual permite identificar valores como fotosíntesis máxima, quantum yield (permite registrar la eficiencia en el uso de
+luz), tasa de respiración oscura y punto de compensación lumínica.
+b.2 Con el uso de la cámara de acrílico, se obtuvieron valores de fotosíntesis máxima durante períodos de radiación solar por sobre 1200 μmol fotones de luz m -
+2s-1, valor definido anteriormente en otras mediciones realizadas en especies altoandinas. Para cada medición de fotosíntesis se obtendrá el parámetro de
+conductancia estomática (Gs) y transpiración foliar.
+La continuidad del seguimiento vegetacional con esta metodología será evaluada en conjunto con el Servicio Agrícola y Ganadero una vez esté disponible el informe
+final de la investigación ” .
+“EVAPOTRANSPIRACIÓN -MÉTODO DE LA CÁMARA SEMIESFÉRICA O DOMO
+Utilización de un equipo consistente en una semiesfera, o domo, de acrílico que se ubica sobre suelo con vegetación (evapotranspiración) o raso (evaporación),
+dependiendo de las características específicas del lugar a monitorear
+(…)
+Para tener un buen valor de la evapotranspiración real en el punto es necesario realizar varios controles en un mismo día, de manera que se pueda construir una
+curva tasa de evapotranspiración versus tiempo que represente el cambio de condiciones (temperatura, insolación, viento, humedad en el aire, etc.) a lo largo del
+día” .
+45
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 46 ---
+• Considerando 26.19
+“ Se recoge el punto planteado por la autoridad. De acuerdo con lo señalado precedentemente, luego del período de recuperación del bofedal se iniciará la etapa
+de mantención de la condición vegetacional, mediante el SRA, hasta la reinstalación de los flujos naturales en las vertientes. Este último proceso será gradual ya
+que los flujos de recarga artificial serán reducidos paulatinamente en la medida que se vayan restableciendo los flujos naturales del área del bofedal. Sin perjuicio
+de ello, como se ha dicho, con posterioridad al cese del SRA, el PLAN considera un período adicional de 3 años de monitoreo para verificar la respuesta del bofedal.
+Dependiendo de dicho monitoreo, podría resultar la necesidad de extender el SRA por un periodo adicional ” .
+• Considerando 26.23
+“(…)
+En Marzo de 2009 se realizó un trabajo de cartografí a vegetacional de detalle del bofedal que se actualizará anualmente (respuestas 4 y 6 del consolidado). Del
+mismo modo, el PLAN considera revisiones semestrales del avance de las actividades y resultados. Ambas actividades asegurarán un seguimiento de frecuencia
+anual de la recuperación de la superficie y cobertura vegetacional del bofedal y su contraste de tendencias con las metas establecidas para los años 2012 y 2016,
+ambas fechas previas al cierre de la explotación de aguas subterráneas de la Cuenca de Lagunillas ” .
+• Considerando 27.1
+“Respecto de la recuperación vegetacional, señala que la medición del año 2012 y los monitoreos periódicos deben hacerse carg o del éxito de la medida
+(recuperación de un 60% el año 2012 y 70% el año 2016 en la 6 Ha), si los resultados no son los esperados, se deberán tomar las medidas pertinentes para corregir
+la recarga artificial” .
+• Considerando 27.2
+“Respecto del levantamiento cartográfico de la vegetación del bofedal, se observa que las especies sucesionales que colonizan el rastrojo no son propias del mismo,
+por lo que dentro de los indicadores de éxito, éstas especies no deben ser consideradas en la cobertura final ya que deben desaparecer en la medida que se
+restablezca la vegetación propia del humedal” .
+• Considerando 27.3
+“Respecto de los resultados del estudio fotosintético, se señala que se debe incorporar como variable de seguimiento el componente naturalidad de la vegetación,
+que apunta a que los patrones de distribución, cobertura u hábito de crecimiento de las plantas que forman parte del humedal, no se vean afectados por la
+reposición de agua ” .
+• Considerando 30.1
+“(…)
+Sin perjuicio de lo anterior, y adicionalmente, durante el proceso de restablecimiento de la cobertura vegetacional del bofedal “ Lagunillas ” , CMCC tomará las
+siguientes acciones de mitigación: a) respecto al pastoreo se establecerán exclusiones para el ganado doméstico, previo acuerdo con la comunidad de Cancosa; y
+en caso de sequía se aumentará temporalmente, si están disponibles, los flujos de agua de recarga artificial para mejorar la inundación o humectación del bofedal ” .
+46
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 47 ---
+• Resuelvo 1.2
+“ b. Plan de seguimiento de variables ambientales relevantes del “PLAN DE TRABAJO PARA EL MANEJO DE LAS FUNCIONES ECOSISTÉMICAS DEL SISTEMA
+LACUSTRE DE LAGUNILLAS”.
+CMCC deberá ejecutar un plan de seguimiento de las variables ambientales relevantes del plan de manejo, sobre la base de los componentes bofedal y laguna, que
+tendrá como objetivo los siguientes:
+i. Medir y controlar la recuperación de las funciones ecosistémicas de los componentes ambientales sensibles que se han identificado en el plan de manejo.
+ii. Medir y controlar el comportamiento en el tiempo de los componentes ambientales susceptibles de afectación que se han identificado en el plan de manejo.
+iii. Verificar la efectividad de las medidas de mitigación implementadas y permitir su ajuste y adecuación a los reales requerimientos de los sistemas, conforme a
+los comportamientos que se observen en los mismos a través del tiempo.
+iii. Detectar de manera temprana cualquier efecto no previsto y no deseado, de modo que sea posible controlarlo aplicando oportunamente las medidas o acciones
+pertinentes.
+(…)
+iv. Adicionalmente, el plan de manejo considera el seguimiento de áreas de control, sin actividad antrópica, con el objeto de medir y controlar el comportamiento
+en el tiempo de los componentes ambientales (vegetación azonal y espejos de agua), para generar las herramientas para discriminar entre las variaciones naturales
+y aquellas de origen antrópico en el área de manejo de L agunillas” .
+“ c. Plan de seguimiento de los recursos naturales renovables afectados por la extracción de agua.
+CMCC deberá ejecutar un plan de seguimiento de los recursos naturales afectados por la extracción de agua, con el objeto de controlar la recuperación y mantención
+en el tiempo de las funciones ecosistémicas del bofedal y laguna de la cuenca Lagunillas.
+c.1 Bofedal.
+El monitoreo de la vegetación azonal (bofedal) en el sector de Lagunillas considerará el seguimiento de los siguientes parámetros:
+i. Superficie del bofedal.
+ii. Cobertura especifica de bofedales.
+iii. Actividad fotosintética en bofedales.
+iv. Flujo de Vertientes.
+v. Fauna.
+vii. Evapotranspiración.
+viii. Humedad del Suelo.
+ix. Nivel de Agua Subterránea ”
+“ d. Plan de seguimiento de las medidas de mitigación.
+(…)
+d.2 Manejo de zonas de vertientes y bofedales.
+Se contemplará un programa de vigilancia de los bofedales, el cual comprenderá el seguimiento de los siguientes aspectos:
+Parámetros a controlar
+i. Superficie inundada y/o humectada.
+ii. Enraizamiento.
+iii. Escurrimiento Superficial y embalsamiento.
+47
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 48 ---
+iv. Recolonización natural y asistida.
+Los puntos de control de estas variables se ubicarán dentro el sector del bofedal. El monitoreo de los parámetros se extenderá hasta el fin del funcionamiento de
+la recarga artificial. La frecuencia de los monitoreos dependerá del parámetro a controlar y se llevará a cabo de acuerdo a la tabla siguiente:
+Parámetro Frecuencia monitoreo
+Superficie inundada Mensual
+Enraizamiento Anual
+Escurrimiento superficial y embalsamiento Mensual
+Recolonización natural y asistida Trimestral
+(…)” .
+RCA N°2022010013 /2022 “ Proyecto Continuidad Operacional Cerro C olorado”
+• Considerando 16.2.5 Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema Lacustre de Lagunillas.
+“En relación a la configuración de los efectos de la biodiversidad presente en el Bofedal Pampa Lagunillas, por descenso de n iveles de agua subterránea, posibles
+de configurar en el proceso de evaluación, se enciende que las acciones contenidas en el “Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema
+Lacustre de Lagunillas”, corresponde a una medida de mitigación.
+Al respecto, en el Anexo 7 de la Adenda N°3 de fecha 10 de septiembre de 2021, se presenta el documento “Plan de Manejo del Bofedal de Lagunillas Consolidado”
+(Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema Lacustre Lagunillas), donde se describe en qué consiste el plan, sus etapas y plazos
+actualizados, y la estimación de la demanda hídrica del bofedal que justifica los caudales del SRA presentes y futuros.
+Cabe señalar que los objetivos, consideraciones, actividades, etapas, seguimiento y metas del Plan de Manejo aprobado en la Resolución Exenta N°67/2011 y
+N°69/2015 (Anexo 1.5.1 de la Adenda 3 de fecha 18 de junio de 2015 del proceso de evaluación de la Resolución Exenta N°69/2015), se mantienen plenamente
+vigentes a la fecha. En concordancia con lo ordenado por el 2° TA, el Proyecto opera respetando los plazos de recuperación de los niveles del acuífero (representado
+por el pozo LA-2), por tanto, los plazos estimados del SRA en el Plan de Manejo Consolidado (Anexo 7 de la Adenda N°3 de fecha 10 de septiembre de 2021)
+corresponden a los proyectados para la situación sin Proyecto, (En la situación sin proyecto, el plazo estimado de recuperación del bofedal, que se deriva de la
+aplicación de la Resolución Exenta N°67/2011, se extendería hasta el año 2075, inicio de la etapa de abandono), respecto a la situación aprobada en el proceso de
+evaluación ambiental que culminó con la RCA N°69/2015 (inicio de la etapa de abandono el año 2097).
+Un aspecto importante para relevar es que, si bien el Plan incluye la estimación de plazos y caudales para el SRA, éstos deben ser continuamente revisados, en el
+marco del concepto de manejo adaptativo que rige al Plan de Manejo. Esta condición quedó establecida en el resuelvo 1.2.b.iii) de la Resolución Exenta N°67/2011,
+que dice relación con el seguimiento del Plan de Manejo, donde se especificó: “ Verificar efectividad de medidas de mitigación implementadas y permitir su ajuste
+y adecuación a los reales requerimientos de los sistemas, conforme a los comportamientos que se observen en los mismos a través del tiempo ” . De esta manera,
+el SRA operará hasta la recuperación de las condicionales hídricas que hacen posible la mantención del bofedal, y si, a futuro, los resultados de los seguimientos
+dan cuenta de que es necesario extender la recarga, el SRA deberá adaptarse a dicho requerimiento (Resolución Exenta N°67/2011, resuelvos 1.2.a.i. l, 1.2.a.i.2 y
+1.2.b.iii.
+En este contexto, el Plan consiste en:
+✓ Se mantendrá el flujo superficial y la humectación del componente vegetacional del sistema azonal de Lagunillas, por medio de descargas múltiples,
+manteniendo la estructura hidrodinámica natural, la dependencia de los componentes ecosistémicos, y el concep to de “mantención del flujo afluente”, actividad
+48
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 49 ---
+fundamental del Plan. Sobre este punto, el Titular ha mejorado la distribución de los puntos de irrigación y el flujo de agua, efectuando la irrigación del sistema
+azonal en 31 puntos y con una tasa actual de 20 l/s, la que puede ser modificada según la respuesta de la recuperación de la cobertura vegetacional a propuesta
+en el citado Plan.
+(…)
+Etapa Recuperación de la Vegetación y Estabilización: Considera la etapa de Recuperación Vegetacional, en la que se busca el cumplimiento del compromiso
+establecido en la Resolución 67/2011, en cuanto a una cobertura mínima de cojines de 70%. Una vez alcanzado dicho objetivo, se desarrolla la sub-etapa de
+Estabilización, en la que se consolida la tendencia de reducción de consumo hídrico, como consecuencia de la mayor dominancia de plantas en cojín. Se inició en el
+año 2006 y finalizará con la recuperación de la cobertura y estructura vegetacional existentes al interior del polígono de 8,3 ha, antes del efecto sobre el bofedal
+Lagunillas.
+El objetivo al término de esta etapa e inicio de la siguiente (etapa de mantención), supone la existencia de un sistema azonal (bofedal) compuesto por 70% de
+cojines, de estructura y funcionalidad equivalente al existente antes del año 1992, mantenido artificialmente a través de recarga de agua, a un flujo máximo
+estimado entre 8,5 y 13 L/s.
+(…)
+Etapa de Mantención: Corresponde a la etapa de Mantención del Bofedal recuperado hasta el inicio de la recuperación de los flujos naturales Esta etapa abarca
+desde la recuperación vegetacional del bofedal Lagunillas hasta el inicio del restablecimiento de los flujos naturales de las vertientes del sistema azonal. Se
+extendería entre el año 2021 y 2047.
+Los controles de la etapa de Mantención son:
+- Monitoreo de caudales y calidad de las aguas de recarga artificial:
+Objetivo 1. Asegurar que las áreas bajo manejo cuenten con la humectación necesaria para la mantención de la cobertura y estructura de la vegetación lograda
+por el manejo de recuperación previo.
+Objetivo 2. Detectar los incrementos en el flujo de las aguas de recarga total (artificial + natural), para establecer el inicio de la recuperación de los flujos
+naturales de vertientes.
+- Monitoreo anual de cobertura vegetacional, flora y fauna: Su objetivo es detectar eventuales cambios no deseados de la cobertura y estructura de la
+vegetación y fauna lograda por el manejo de recuperación previo. Las acciones correctivas consideran modificaciones o mejoramientos de vías de escurrimiento
+o embalsamientos. Se propone que de detectarse reducciones interanuales de cobertura, instantáneas o acumuladas, iguales o superiores al 2% se
+implementarán las acciones correctivas hasta recuperar la cobertura perdida en el sistema azonal. La implementación de medidas correctivas será establecida
+solo una vez confirmada la necesidad de cambio con el análisis de la condición de la formación testigo.
+- Monitoreo de niveles piezométricos al interior del polígono de 8,3 ha y áreas de recarga: Su objetivo es controlar la recuperación de niveles de agua
+subterránea y presiones del subsuelo del sistema vegetacional y áreas de recarga y, de acuerdo a su nivel respecto a la superficie, iniciar los controles de flujo
+para la detección de la reactivación de las surgencias naturales.
+- Monitoreo de humedad de la zona vadosa: Su objetivo es controlar el nivel de humectación del subsuelo del sistema azonal bajo recarga artificial ” .
+Hecho(s):
+a. Considerando las materias asociadas a las exigencias ambientales en revisión para el componente vegetacional, se requirió apoyo al SAG para realizar un examen
+de información de los antecedentes remitidos por el titular. A saber, mediante el Oficio ORD. SMA TPCA N°078, de fecha 23 de mayo de 2025 (ver Anexo 8.1 ), se
+49
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 50 ---
+encomendó al SAG realizar el examen de información de los antecedentes de la Carta CMCC-HSE-R-RE-075-2024, de fecha 15 de marzo de 2024 (ver Anexo 2.4 )
+y de la Carta CMCC-HSE-R-RE-119-2025, de fecha 22 de mayo de 2025 (ver Anexo 3.4 ).
+b. Mediante el Oficio ORD. N°1135 del SAG Región de Tarapacá, de fecha 19 de junio de 2025 (ver Anexo 8.2 ), dicho Servicio remitió su primer pronunciamiento
+técnico en respuesta al examen de información encomendado mediante el Oficio ORD. SMA TPCA N°078/2025.
+c. Mediante la Res. Ex. SMA TPCA N°046, de fecha 30 de junio de 2025 (ver Anexo 4.1 ) , esta Superintendencia realizó un requerimiento de información al titular,
+solicitando atender las observaciones del SAG contenidas en su Oficio ORD. N°1135/2025. Mediante la Carta CMCC-HSE-R-RE-147-2025, de fecha 01 de julio de
+2025 (ver Anexo 4.2 ), el titular solicitó ampliación de plazo para dar respuesta a lo requerido en la Res. Ex. SMA TPCA N°046/2025, la cual fue concedida mediante
+la Res. Ex. SMA TPCA N°047, de fecha 03 de julio de 2025 (ver Anexo 4.3 ). Mediante la Carta CMCC-HSE-R-RE-167-2025, de fecha 17 de julio de 2025 (ver Anexo
+4.4 ), CMCC dio respuesta a lo requerido en la Res. Ex. SMA TPCA N°046/2025.
+d. Mediante el Oficio ORD. SMA TPCA N°112, de fecha 21 de julio de 2025 (ver Anexo 8.3 ), se encomendó al SAG realizar el examen de información de los
+antecedentes de la Carta CMCC-HSE-R-RE-167-2025.
+e. Mediante el Oficio ORD. N°3352 del SAG Nivel Central, de fecha 26 de agosto de 2025 (ver Anexo 8.4 ), dicho Servicio remitió su segundo pronunciamiento técnico
+(en la forma de Reporte Técnico) en respuesta al examen de información encomendado mediante el Oficio ORD. SMA TPCA N°112/2025.
+f. Mediante la Res. Ex. SMA TPCA N°068, de fecha 05 de junio de 2025 (ver Anexo 6.1 ) , esta Superintendencia realizó un nuevo requerimiento de información al
+titular, solicitando atender las observaciones del SAG contenidas en su Oficio ORD. N°3352/2025. Mediante la Carta CMCC-HSE-R-RE-215-2025, de fecha 08 de
+septiembre de 2025 (ver Anexo 6.2 ), el titular solicitó ampliación de plazo para dar respuesta a lo requerido en la Res. Ex. SMA TPCA N°068/2025, la cual fue
+concedida mediante la Res. Ex. SMA TPCA N°070, de fecha 11 de septiembre de 2025 (ver Anexo 6.3 ). Mediante la Carta CMCC-HSE-R-RE-227-2025, de fecha 01
+de octubre de 2025 (ver Anexo 6.4 ), CMCC dio respuesta a lo requerido en la Res. Ex. SMA TPCA N°068/2025.
+g. Mediante el Oficio ORD. SMA TPCA N°145, de fecha 08 de octubre de 2025 (ver Anexo 8.5 ), se encomendó al SAG realizar el examen de información de los
+antecedentes de la Carta CMCC-HSE-R-RE-227-2025.
+h. Finalmente, mediante el Oficio ORD. N°4554 del SAG Nivel Central, de fecha 20 de noviembre de 2025 (ver Anexo 8.6 ), dicho Servicio remitió su tercer y último
+pronunciamiento técnico (en la forma de Reporte Técnico) en respuesta a lo solicitado, integrando todo el análisis del caso.
+Resultado(s) Examen de Información:
+A continuación se presenta una síntesis de la documentación analizada relacionada a las exigencias en revisión para el componente vegetacional, según aspectos de
+relevancia, considerando el examen de información realizado por el SAG en su Oficio ORD. N°3352/2025 (ver Anexo 8.4 ) y Oficio ORD. N°4554/2025 (ver Anexo 8.6 ),
+y el análisis efectuado por esta propia Superintendencia:
+50
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 51 ---
+a. Para los indicadores de cobertura vegetacional (metas de cumplimiento de recuperación de cobertura del bofedal, considerando 27.1 de la Res. Ex. N°067/2011
+y considerando 16.2.5 de la RCA N°2022010013/2022):
+• En su Oficio ORD. N°3352/2025, el SAG informa que “(…) según los antecedentes presentados por la Compañía, la recuperación del sistema azonal de
+Lagunillas se refleja en el paso de una condición cercana a cero coberturas del bofedal en el año 2006, a la condición registrada en la última campaña de
+seguimiento anual, desarrollada en marzo del 2025, que presenta más de 98,98 % de cobertura vegetacional total, donde un 94.05% corresponde a cobertura
+de especies propias del bofedal y un 73,18% corresponde a recuperación de cubrimiento de especies acojinadas de 5,23 ha respecto a su condición original
+de 7,14 ha.
+En el gráfico se observa que las especies acojinadas ya en el año 2009, luego de la implementación de la recarga de agua en el 2006, alcanzaban más de un
+13% de recuperación. Entre el año 2011 y 2012, luego de la aprobación del “PLAN” (RCA 067/11) se inici a el mejoramiento del Sistema de Recarga de Aguas
+observándose un aumento significativo de la recuperación de cobertura de especies acojinadas, llegando en el año 2025 a un 73,18 % equivalente a 5,23 ha
+de cojines ” .
+• A partir de lo anterior, el SAG concluye que (énfasis agregado):
+- “La Res. Exenta N°67/2011 estableció una meta de cumplimiento de 60% de cobertura global al año 2012, la que alcanzó un 81,9% de cobertura , lo
+que fue incluido en el “Informe de resultados del Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema Lacustre de Lagunillas” a
+través de la Carta N°111/12, con fecha 27 de septiembre de 2012 (previo a la vigencia del Sistema de Seguimiento Ambiental de SMA).
+- Del mismo modo estableció un compromiso de recuperación de Especies Propias del Bofedal al año 2016 de 70%, la que alcanzó un 83,3% de cobertura
+lo que fue incluido en el “Informe Anual Plan De Manejo De Las Funciones Ecosistémicas Del Sistema Lacustre De Lagunilla” ID5 2272, de fecha 30 de
+noviembre de 2016.
+- Por último, estableció un compromiso de recuperación de la cobertura de cojines del 70% al inicio de la fase de mantención, que corresponde medir
+en la temporada de verano, en marzo de 2024, la que ya se alcanzó en marzo de 2023 al 70,2% , lo que fue incluido en el “Informe Anual Plan De Manejo
+De Las Funciones Ecosistémicas Del Sistema Lacustre De Lagunilla” ID1038210, de fecha 30 de noviembre de 2023”.
+• El gráfico indicado por el SAG se reproduce en la Figura 7 del presente Informe, donde se observa que el titular ha dado cumplimiento a los porcentajes de
+cobertura exigidos.
+b. Respecto a los medios de verificación asociados al análisis de formaciones vegetacionales (considerandos 19.2, 25.1, 26.8 1 de la Res. Ex. N°067/2011 y
+requerimiento del SAG referido a definir las unidades cartográficas de composición de especies y porcentaje de cobertura, según lo indicado en su Oficio ORD.
+N°3352/2025 ):
+• En su Oficio ORD. N°4554/2025, el SAG reporta que “(…) la principal desviación detectada es que la respuesta queda incompleta en lo que respecta al análisis
+por formaciones vegetacionales.
+El punto crítico de insuficiencia se concentra en la falta de:
+- Análisis histórico de la recuperación de la vegetación durante la aplicación del SRA (Observación N.° 1).
+- Análisis crítico e integración de los resultados ecofisiológicos (fotosíntesis) para evaluar la naturalidad y fenología de la vegetación (Observación N.° 6 y
+N.° 8).
+- Análisis de los resultados de los polígonos vegetacionales generados por los métodos Kriging y Kernel (Observación N.° 21).
+51
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 52 ---
+• Como consecuencia de lo antes señalado, el SAG concluye que “ Esta insuficiencia en el análisis detallado por formaciones vegetacionales es lo que impide al
+titular desarrollar el modelo ecosistémico solicitado, considerado un requisito esencial para mejorar el entendimiento de las interrelaciones agua-vegetación
+en la fase de mantención del bofedal ” .
+Del examen de información realizado, es posible concluir lo siguiente:
+a. En cuanto a los indicadores de cobertura vegetacional (metas de cumplimiento de recuperación de cobertura del bofedal, considerando 27.1 de la Res. Ex.
+N°067/2011 y considerando 16.2.5 de la RCA N°2022010013/2022), se pudo verificar que el titular ha dado cumplimiento a los porcentajes de cobertura exigidos,
+ajustándose a las metas establecidas para los años 2012, 2016 e inicio de la fase de mantención (año 2024).
+b. No obstante lo anterior, respecto a los medios de verificación asociados al análisis de formaciones vegetacionales (considerandos 19.2, 25.1, 26.8 1 de la Res.
+Ex. N°067/2011 y requerimiento del SAG referido a definir las unidades cartográficas de composición de especies y porcentaje de cobertura, según lo indicado en
+su Oficio ORD. N°3352/2025 ) , el SAG identifica que el titular ha hecho un análisis técnico insuficiente que impide contar con un modelo ecosistémico, lo que a
+juicio de dicho servicio se considera un requisito esencial para mejorar el entendimiento de las interrelaciones agua-vegetación en la fase de mantención del
+bofedal Lagunillas.
+52
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 53 ---
+Registros
+Asd
+Asd
+Figura 7.
+Descripción medio de prueba:
+Evolución de la cobertura vegetacional en el bofedal de Lagunillas, periodo 2009-2025. Figura extractada del Reporte Técnico adjunto al Oficio ORD. N°3352/2025 del SAG Nivel Central.
+53
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 54 ---
+6 CONCLUSIONES
+Los resultados de las actividades de fiscalización, asociados los Instrumentos de Carácter Ambiental indicados en el punto 3, permitieron identificar los siguientes
+hallazgos:
+Materia específica
+N° Hecho
+objeto de la Exigencia asociada Hallazgo
+constatado
+fiscalización
+Para la medida de mitigación HI-1 “Cambio de punto de extracción del agua utilizada para el SRA del Bofedal de
+Lagunillas, a partir del año 2022 desde el Pozo P-3 a un nuevo Pozo P- R. (indistintamente tratado como Pozo PR)” :
+• Se verificaron excedencias en los caudales de extracción para abastecer el SRA en los años 2016, 2018, 2021,
+2022 y 2023, que en total representan una sobreextracción equivalente a un volumen de 169.979,90 metros
+cúbicos.
+• Sobre la temporalidad aplicada por el titular para proceder con el cambio de punto de extracción, se constató
+que el pozo P3 continuó en funcionamiento para abastecer el SRA durante el período 2022 – 2024, lo que no se
+ajusta a lo establecido en la medida HI-1 que exigía el cambio del punto de extracción de agua utilizada en dicho
+Sistema desde el pozo P3 a un nuevo pozo, identificado como PR, a partir del año 2022.
+• De acuerdo a lo informado por el SEA en la Rex. Ex. N°202499101467 de fecha 07 de junio de 2024, que resolvió
+el recurso jerárquico interpuesto por el titular en relación con la consulta de pertinencia de ingreso al SEIA del
+proyecto “Respaldo de suministro del Sistema de Recarga Artificial (SRA) Lagunillas”, la operación del pozo P3
+en reemplazo del pozo PR corresponde a una modificación sustantiva de la medida de mitigación de la RCA
+Verificación de N°2022010013/2022, debiendo por tanto ingresar obligatoriamente al SEIA para su evaluación en dicha sede.
+medidas de Considerando 16.2.2 • Respecto a la elección del pozo P3 como fuente de agua para el suministro del SRA, en reemplazo del pozo PR
+mitigación del Medidas para impactos por su imposibilidad de uso, la DGA informó que la justificación técnica entregada por CMCC fue insuficiente,
+5.1
+componente Agua significativos, identificando deficiencias en la modelación hidrogeológica realizada por el titular. Adicionalmente, la DGA
+en el sector RCA N°2022010013/2022 reportó que si bien el pozo P1 carecería de tendido de tubería que lo conecte al SRA, este argumento por sí
+Lagunillas solo no sería suficiente para descartarlo como alternativa de reemplazo del pozo PR, considerando que dicho
+pozo se encuentra a una distancia de más de 2 kilómetros alejado del bofedal que el pozo P3 y que por tanto,
+el posible efecto de su extracción sería menor. Atendiendo la relevancia de asegurar el cumplimiento de los
+plazos de recuperación del acuífero, la DGA estima pertinente haber realizado un análisis técnico equivalente
+al efectuado para el pozo P3, a fin de evaluar objetivamente la viabilidad de su utilización como fuente de agua
+para el sistema, lo cual no fue presentado por CMCC.
+• Con fecha 23 de diciembre de 2025, el titular informó a esta Superintendencia sobre el reinicio de la operación
+del pozo PR basado en la autorización sectorial que lo faculta para hacer la extracción de aguas desde dicho
+pozo para su uso en el SRA, situación que fue verificada por la DGA con los antecedentes disponibles en dicho
+servicio.
+• Con todo, respecto al retraso incurrido para regularizar la situación antes descrita, y en cuanto a la evaluación
+de la debida diligencia de CMCC en sus solicitudes/gestiones sectoriales ante la DGA, dicho Servicio informó
+que no se advierte la existencia de conductas omisivas, dilatorias o reiteradamente incompletas que pudieran
+evidenciar una falta de diligencia por parte del titular.
+54
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 55 ---
+Materia específica
+N° Hecho
+objeto de la Exigencia asociada Hallazgo
+constatado
+fiscalización
+Para la medida de mitigación HI-3 “Plan para facilitar la delimitación y protección de acuíferos que alimentan vegas
+y bofedales en la región de Tarapacá”, en particular para la “Renuncia voluntaria de los derechos de agua con los
+que cuenta Cerro Colorado en el sector hidrogeológico de Lagunillas” :
+• S i bien el titular ha cumplido formalmente con los actos administrativos asociados a la renuncia voluntaria de
+derechos de agua, el objetivo sustantivo de la medida HI-3 — esto es, asegurar una reducción real de la presión
+extractiva sobre el sector hidrogeológico de Lagunillas y contribuir al resguardo del bofedal — no se habría
+materializado en su totalidad, atendidas las sobreextracciones verificadas en periodos previos (es decir, el
+titular extrajo una cantidad de recurso hídrico mayor a la necesaria).
+• Así, el titular no se ha ajustado a lo exigido en la medida HI- 3, a saber, “ Establecer la imposibilidad para Cerro
+Colorado de desarrollar nuevas extracciones en el acuífero de Lagunillas, una vez que haya finalizado la
+operación del Proyecto, con excepción del uso de los recursos necesarios para el riego artificial del bofedal
+La gunillas y la laguna Huantija” .
+Considerandos 19.2,
+21.2, 25.1, 25.4, 26.1,
+26.8, 26.19, 26.23, 27.1,
+27.2, 27.3 y 30.1, y
+Resuelvo 1.2,
+Res. Ex. N°067/2011 que
+modifica la RCA
+N°22/1997 que autorizó Si bien el titular ha dado cumplimiento a los indicadores globales de cobertura vegetacional del bofedal Lagunillas,
+el EIA “Expansión Cerro respecto a los medios de verificación asociados al análisis de formaciones vegetacionales (considerandos 19.2, 25.1,
+Colorado” y la RCA 26.8 1 de la Res. Ex. N°067/2011 y requerimiento del SAG referido a definir las unidades cartográficas de
+Estado vegetacional
+5.2 N°102/2002 que autorizó composición de especies y porcentaje de cobertura, según lo indicado en su Oficio ORD. N°3352/2025), el SAG
+del sector Lagunillas
+la DIA “Mejoramiento de identifica que el titular ha hecho un análisis técnico insuficiente que impide contar con un modelo ecosistémico, lo
+Eficiencia Stretch Plan” que a juicio de dicho servicio se considera un requisito esencial para mejorar el entendimiento de las interrelaciones
+agua-vegetación en la fase de mantención del bofedal.
+Considerando 16.2.5 Plan
+de Trabajo para el
+Manejo de las Funciones
+Ecosistémicas del
+Sistema Lacustre de
+Lagunillas,
+RCA N°2022010013/2022
+55
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 56 ---
+7 ANEXOS
+N° Anexo Nombre Anexo
+Antecedentes de la condición operacional del SRA en Lagunillas:
+1
+1. CMCC: Carta CMCC-HSE-R-RE-035-2024, de fecha 07 de febrero de 2024.
+Antecedentes del primer requerimiento de información SMA en el marco de la investigación del
+caso; solicitud de antecedentes asociados al SRA:
+1. SMA: Res. Ex. SMA TPCA N°024, de fecha 23 de febrero de 2024.
+2. CMCC: Carta CMCC-HSE-R-RE-056-2024, de fecha 28 de febrero de 2024.
+3. SMA: Res. Ex. SMA TPCA N°026, de fecha 29 de febrero de 2024.
+4. CMCC: Carta CMCC-HSE-R-RE-075-2024, de fecha 15 de marzo de 2024.
+5. CMCC: Carta CMCC-HSE-R-RE-249-2024, de fecha 21 de octubre de 2024.
+2
+6. CMCC: Correo electrónico de fecha 15 de noviembre de 2024.
+7. CMCC: Carta CMCC-HSE-R-RE-290-2024, de fecha 13 de diciembre de 2024.
+8. CMCC: Carta CMCC-HSE-R-RE-025-2025, de fecha 27 de enero de 2025.
+9. CMCC: Carta CMCC-HSE-R-RE-045-2025, de fecha 21 de febrero de 2025.
+10. CMCC: Carta CMCC-HSE-R-RE-067-2025, de fecha 18 de marzo de 2025.
+11. CMCC: Carta CMCC-HSE-R-RE-090-2025, de fecha 25 de abril de 2025.
+12. CMCC: Carta CMCC-HSE-R-RE-135-2025, de fecha 18 de junio de 2025.
+Antecedentes del segundo requerimiento de información SMA en el marco de la investigación
+del caso; solicitud de antecedentes asociados al SRA:
+1. SMA: Res. Ex. SMA TPCA N°027, de fecha 06 de mayo de 2025.
+3
+2. CMCC: Carta CMCC-HSE-R-RE-098-2025, de fecha 07 de mayo de 2025.
+3. SMA: Res. Ex. SMA TPCA N°030, de fecha 08 de mayo de 2025.
+4. CMCC: Carta CMCC-HSE-R-RE-119-2025, de fecha 22 de mayo de 2025.
+Antecedentes del tercer requerimiento de información en el marco de la investigación del caso;
+solicitud para atender observaciones del SAG:
+1. SMA: Res. Ex. SMA TPCA N°046, de fecha 30 de junio de 2025.
+4
+2. CMCC: Carta CMCC-HSE-R-RE-147-2025, de fecha 01 de julio de 2025.
+3. SMA: Res. Ex. SMA TPCA N°047, de fecha 03 de julio de 2025.
+4. CMCC: Carta CMCC-HSE-R-RE-167-2025, de fecha 17 de julio de 2025.
+Antecedentes del cuarto requerimiento de información en el marco de la investigación del caso;
+solicitud de antecedentes adicionales sobre extracciones operacionales hasta el año 2023:
+5
+1. SMA: Res. Ex. SMA TPCA N°059, de fecha 06 de agosto de 2025.
+2. CMCC: Carta CMCC-HSE-R-RE-185-2025, de fecha 12 de agosto de 2025.
+Antecedentes del quinto requerimiento de información en el marco de la investigación del caso;
+solicitud para atender nuevas observaciones del SAG:
+1. SMA: Res. Ex. SMA TPCA N°068, de fecha 05 de septiembre de 2025.
+6
+2. CMCC: Carta CMCC-HSE-R-RE-215-2025, de fecha 08 de septiembre de 2025.
+3. SMA: Res. Ex. SMA TPCA N°070, de fecha 11 de septiembre de 2025.
+4. CMCC: Carta CMCC-HSE-R-RE-227-2025, de fecha 01 de octubre de 2025.
+Antecedentes del examen de información realizado por la DGA:
+1. DGA: Oficio ORD. N°25 de la DGA Región de Tarapacá, de fecha 15 de febrero de 2024.
+2. SMA: Oficio ORD. SMA TPCA N°112, de fecha 06 de junio de 2024.
+3. DGA: Oficio ORD. N°157 de la DGA Región de Tarapacá, de fecha 12 de septiembre de 2024.
+7
+4. SMA: Oficio ORD. SMA TPCA N°192, de fecha 26 de noviembre de 2024.
+5. DGA: Oficio ORD. N°49 de la DGA Región de Tarapacá, de fecha 28 de marzo de 2025.
+6. SMA: Oficio ORD. SMA TPCA N°073, de fecha 09 de mayo de 2025.
+7. SMA: Oficio ORD. SMA TPCA N°120, de fecha 18 de agosto de 2025.
+56
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
+
+--- Página 57 ---
+N° Anexo Nombre Anexo
+8. DGA: Oficio ORD. N°235 de la DGA Región de Tarapacá, de fecha 18 de diciembre de 2025
+9. CMCC: Carta CMCC-HSE-R-RE-291-2025 de CMCC, de fecha 23 de diciembre de 2025.
+10. DGA: Oficio ORD. N°29 de la DGA Región de Tarapacá, de fecha 05 de marzo de 2026.
+Antecedentes del examen de información realizado por el SAG:
+1. SMA: Oficio ORD. SMA TPCA N°078, de fecha 23 de mayo de 2025.
+2. SAG: Oficio ORD. N°1135 del SAG Región de Tarapacá, de fecha 19 de junio de 2025.
+8 3. SMA: Oficio ORD. SMA TPCA N°112, de fecha 21 de julio de 2025.
+4. SAG: Oficio ORD. N°3352 del SAG Nivel Central, de fecha 26 de agosto de 2025.
+5. SMA: Oficio ORD. SMA TPCA N°145, de fecha 08 de octubre de 2025.
+6. SAG: Oficio ORD. N°4554 del SAG Nivel Central, de fecha 20 de noviembre de 2025.
+Antecedentes disponibles en el siguiente enlace: Anexos
+57
+Superintendencia del Medio Ambiente – Gobierno de Chile
+San Martín 255, Of. 71, piso 7, Iquique / Teléfono 57-2361900 / www.sma.gob.cl
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UE28JI-462
