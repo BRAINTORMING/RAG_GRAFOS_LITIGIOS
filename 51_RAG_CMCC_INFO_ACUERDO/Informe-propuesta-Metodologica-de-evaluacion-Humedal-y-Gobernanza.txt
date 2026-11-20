@@ -1,0 +1,2508 @@
+--- Página 1 ---
+R UTA HACIA LA COMPENSACIÓN EQUIVALENTE DE LA
+BIODIVERSIDAD DEL BOFEDAL L AGUNILLAS
+P L A N D E T R A B A J O
+A C T U A L I Z A C I Ó N M A R Z O 2025
+
+--- Página 2 ---
+Marzo 2025 Una ruta hacia la compensación del bofedal de Lagunillas
+Plan de trabajo – Informe para revisión
+Elaborado por
+Cienciambiental Consultores S.A
+• Dr. Antonio Tironi Silva
+ORCID: https://orcid.org/0000-0002-6796-7422
+• MSc. Marcela Torres Gómez
+ORCID: https://orcid.org/0009-0007-8327-6238
+• MSc. Tomás Poch Velasco
+• MSc. Héloïse Doligé
+• Francisca Soto Santander
+Instituto de Ecología y Biodiversidad (IEB):
+• Dr. Pablo Guerrero,
+Departamento de Botánica de la Universidad de Concepción
+ORCID: https://orcid.org/0000-0003-1034-1899
+• Dra. Paola Poch,
+ORCID: https://orcid.org/0000-0003-2593-5315
+• Dr. Ricardo Segovia,
+ORCID: https://orcid.org/0000-0002-8787-619X
+i
+
+--- Página 3 ---
+Marzo 2025 Una ruta hacia la compensación del bofedal de Lagunillas
+Plan de trabajo – Informe para revisión
+ÍNDICE
+1 RESUMEN................................................................................................................................................... 6
+2 PRESENTACIÓN .......................................................................................................................................... 7
+2.1 UN ENFOQUE ECOSISTÉMICO PARA LA COMPENSACIÓN .............................................................................7
+3 OBJETIVO GENERAL .................................................................................................................................... 9
+3.1 OBJETIVOS ESPECÍFICOS ................................................................................................................................9
+4 CONTEXTO CASO LAGUNILLAS .................................................................................................................. 10
+4.1 AVANCES EN LA RESTAURACIÓN ................................................................................................................ 11
+4.1.1 D ESARROLLO DEL PLAN DE MANEJO DE L AGUNILLAS (2006-2024) .................................................................. 11
+4.1.2 A UDITORIAS : C ONCLUSIONES Y RECOMENDACIONES ...................................................................................... 14
+5 UNA RUTA HACIA LA COMPENSACIÓN DEL BOFEDAL DE LAGUNILLAS. ..................................................... 16
+5.1 ETAPA 1: DIAGNÓSTICO DE ANTECEDENTES Y EXPECTATIVAS DE LA RUTA ............................................... 17
+5.1.1 R EVISIÓN Y SISTEMATIZACIÓN DE ANTECEDENTES DE LA AFECTACIÓN DEL BOFEDAL DE L AGUNILLAS ......................... 17
+5.1.2 I DENTIFICACIÓN DE EXPECTATIVAS DE LA COMPAÑÍA RESPECTO AL PLAN DE COMPENSACIÓN .................................. 17
+5.2 ETAPA 2: ACTUALIZACIÓN DE LA IMAGEN OBJETIVO ................................................................................. 18
+5.2.1 C AMBIOS EN D ISTRIBUCIÓN DE E SPECIES CLAVE FRENTE A ESCENARIOS DE C AMBIO C LIMÁTICO .............................. 19
+5.3 SELECCIÓN DE BOFEDAL CONTROL ............................................................................................................ 21
+5.3.1 P RIMERA SELECCIÓN DE BOFEDAL CONTROL ................................................................................................. 22
+5.3.2 S EGUNDA SELECCIÓN DE BOFEDAL CONTROL ................................................................................................ 22
+5.4 MEDIDAS DE COMPENSACIÓN DE LA BIODIVERSIDAD ............................................................................... 24
+5.4.1 I DENTIFICACIÓN DE VARIABLES DE B IODIVERSIDAD Y D EFINICIÓN DEL E COSISTEMA DE R EFERENCIA ......................... 25
+5.4.1.1 Revisión de parámetros de biodiversidad ................................................................................ 25
+5.4.1.2 Determinar el ecosistema de referencia para Lagunillas. ........................................................ 25
+5.4.2 C UANTIFICACIÓN DEL IMPACTO RESIDUAL Y G ANANCIA EN B IODIVERSIDAD ........................................................ 26
+5.4.3 I DENTIFICACIÓN DE ÁREAS POTENCIALES PARA LA COMPENSACIÓN EQUIVALENTE ................................................. 28
+5.5 CRITERIOS PARA CONSTRUIR Y SELECCIONAR LAS ALTERNATIVAS DE COMPENSACIÓN ........................... 29
+5.5.1 P LANIFICACIÓN SISTEMÁTICA DE LA CONSERVACIÓN : ANÁLISIS MULTICRITERIO .................................................... 29
+5.5.2 E TAPAS DE LA P LANIFICACIÓN S ISTEMÁTICA DE LA C ONSERVACIÓN ................................................................... 30
+5.6 ELABORAR PLAN DE MANEJO ADAPTATIVO ............................................................................................... 32
+5.6.1 E STÁNDARES ABIERTOS PARA LA CONSERVACIÓN ........................................................................................... 32
+5.6.2 C OSTOS DE LOS PROYECTOS DE CONSERVACIÓN ............................................................................................ 33
+5.7 CONCLUSIONES Y RECOMENDACIONES ..................................................................................................... 36
+6 ANEXOS METODOLÓGICOS ...................................................................................................................... 37
+ii
+
+--- Página 4 ---
+Marzo 2025 Una ruta hacia la compensación del bofedal de Lagunillas
+Plan de trabajo – Informe para revisión
+6.1 PASO 1: IDENTIFICAR LAS VARIABLES OBTENIDAS EN ESTUDIOS PREVIOS COMO INSUMOS PARA ESTIMAR
+LA AFECTACIÓN SOBRE LAGUNILLAS .......................................................................................................... 37
+6.2 PASO 2: DETERMINAR UN ECOSISTEMA DE REFERENCIA Y LOS ATRIBUTOS BIÓTICOS Y ABIÓTICOS QUE
+DEBEN SER FOCO DE COMPENSACIÓN....................................................................................................... 38
+6.2.1 E COSISTEMA DE REFERENCIA ..................................................................................................................... 38
+6.2.2 A TRIBUTOS DE BIODIVERSIDAD .................................................................................................................. 39
+6.3 PASO 3: CALCULO DEL IMPACTO RESIDUAL (IR), GANANCIA EN BIODIVERSIDAD (GB) Y GANANCIA NETA EN
+BIODIVERSIDAD .......................................................................................................................................... 40
+6.4 IDENTIFICACIÓN DE ÁREAS DE COMPENSACIÓN EQUIVALENTE ................................................................ 47
+6.5 LINEAMIENTOS PARA LA IDENTIFICACIÓN Y MAPEO DE ACTORES DE LAS ALTERNATIVAS DISPONIBLES . 50
+6.5.1 M ETODOLOGÍA DE MAPEO DE ACTORES : ..................................................................................................... 51
+7 METODOLOGÍAS PARA LA DEFINICIÓN Y CARACTERIZACIÓN DE LOS OBJETOS DE CONSERVACIÓN
+DE CADA ALTERNATIVA DE COMPENSACIÓN ............................................................................................ 56
+7.1 OBJETOS DE CONSERVACIÓN ..................................................................................................................... 56
+7.1.1 I NDICADORES A NIVEL ECOSISTÉMICO ......................................................................................................... 56
+7.1.1.1 Diversidad taxonómica (TD) ..................................................................................................... 56
+7.1.1.2 Diversidad Filogenética (PD)..................................................................................................... 56
+7.1.1.3 Diversidad Funcional (FD) ......................................................................................................... 57
+7.1.1.4 Endemismo Taxonómico (WE) ................................................................................................. 57
+7.1.1.5 Endemismo Filogenético (PE) ................................................................................................... 57
+7.1.1.6 Endemismo Funcional (FE) ....................................................................................................... 58
+7.1.2 I NDICADORES FUNCIONALES ..................................................................................................................... 58
+7.1.2.1 Condición de la vegetación (sanitaria) ..................................................................................... 58
+7.1.2.2 Servicios Ecosistémicos ............................................................................................................ 58
+7.1.3 I NDICADORES A NIVEL DE ESPECIE .............................................................................................................. 59
+7.1.3.1 Estados de Conservación .......................................................................................................... 59
+7.1.3.2 Áreas de ocupación .................................................................................................................. 59
+7.1.3.3 Resiliencia Climática ................................................................................................................. 59
+7.1.3.4 Distintividad evolutiva .............................................................................................................. 60
+8 ANEXO 1 – REVISIÓN HISTÓRICA DE ANTECEDENTES ................................................................................ 61
+8.1 CONCLUSIONES DE LAS AUDITORÍAS AL PLAN DE MANEJO DE 2016 Y 2023 ............................................. 61
+9 ANEXO 3 -VARIABLES MONITOREADAS HISTÓRICAMENTE EN LAGUNILLAS .............................................. 70
+9.1 COMPONENTES Y VARIABLES ASOCIADOS A LA CONSTRUCCIÓN DEL ECOSISTEMA DE REFERENCIA Y LOS
+ATRIBUTOS DE COMPENSACIÓN EQUIVALENTE ........................................................................................ 73
+iii
+
+--- Página 5 ---
+Marzo 2025 Una ruta hacia la compensación del bofedal de Lagunillas
+Plan de trabajo – Informe para revisión
+FIGURAS
+Figura 1. Etapas propuestas para el desarrollo del plan de compensación, con el detalle las actividades consideradas
+en la etapa de formulación............................................................................................................................................ 8
+Figura 2. Resumen de las principales recomendaciones generadas en la primera auditoría de la recuperación de
+Lagunillas. La figura destaca las principales acciones recomendadas, ordenadas en 3 marcos principales, agrupadas
+por tema y señala los vínculos entre ellas, cada flecha indicando qué acción alimenta a otra u otro grupo de
+acciones. Las líneas gruesas indican las recomendaciones prioritarias....................................................................... 15
+Figura 3: Una ruta hacia la compensación equivalente del impacto sobre la biodiversidad del bofedal de Lagunillas.
+..................................................................................................................................................................................... 16
+Figura 4. Ciclo del Proyecto según estándares abiertos para la práctica de la conservación. ..................................... 33
+Figura 5. Cambio en la superficie del cuerpo de agua del Bofedal Lagunillas previo y posterior a la realización del
+proyecto. ..................................................................................................................................................................... 37
+Figura 6. Jerarquías de la biodiversidad (Modificado de Noss, 1990). ........................................................................ 40
+Figura 7. Resumen metodológico para aplicación de medidas de compensación equivalentes. Fuente: SEA (2023). 41
+Figura 8. Mapa de relevancia de Ecosistemas Terrestres de la región de Tarapacá obtenido desde Geoportal SIMBIO
+(2023) .......................................................................................................................................................................... 42
+Figura 9. Mapa de relevancia de humedales de la región de Tarapacá obtenido desde Geoportal SIMBIO (2023). .. 43
+Figura 10. Mapa de bofedales altoandinos de Tarapacá (destacados en rojo)........................................................... 47
+Figura 11. Estructura de la Matriz de Interés o matriz de Mendelow. ........................................................................ 54
+Figura 12. Ejemplo diagrama de interacción entre actores del sitio de compensación. ............................................. 55
+TABLAS
+Tabla 1. Línea de tiempo con las resoluciones de autorización de extracción de agua ............................................... 10
+Tabla 2. Responsabilidades asignadas en la matriz RACI a las diferentes unidades de BHP y CMCC en el desarrollo y
+seguimiento del plan de compensación .......................................................................... ¡Error! Marcador no definido.
+Tabla 3. Detalle de las metodologías propuestas para abordar cada uno de los pasos y vinculo a anexo
+metodológico detallado .............................................................................................................................................. 27
+Tabla 4. Tipos de gastos generales asociados a la implementación de un Plan de manejo para la conservación o
+restauración de la biodiversidad ................................................................................................................................. 34
+Tabla 5: Costos de la alternativa de compensación equivalente de Lagunillas elaborada hasta la fecha .................. 35
+Tabla 6. Multiplicador de relevancia del área de Influencia (M1) ............................................................................... 43
+Tabla 7. Multiplicador de Localización (M2) ............................................................................................................... 45
+Tabla 8. Multiplicador de tiempo requerido para obtener ganancias (M3) ................................................................ 45
+Tabla 9. Multiplicador por tipo de protección Legal (M4) ........................................................................................... 45
+iv
+
+--- Página 6 ---
+Marzo 2025 Una ruta hacia la compensación del bofedal de Lagunillas
+Plan de trabajo – Informe para revisión
+Tabla 10. Ejemplo tabla de mapeo de actores ............................................................................................................ 52
+Tabla 11. Criterios Climáticos-Hidrológicos y Biológicos del bofedal Lagunillas medidos previo el impacto ambiental
+hasta la actualidad ...................................................................................................................................................... 70
+Tabla 12. Componentes y variables incluidos en la metodología asociada a la caracterización y conservación
+equivalente de bofedales altoandinos de Chile. Se destacan diferentes componentes de la biodiversidad (*C:
+Composicional, *E: Estructural y *F: Funcional). ......................................................................................................... 73
+v
+
+--- Página 7 ---
+1 R ESUMEN
+Este documento presenta todos los elementos necesarios para que CMCC construya una ruta hacia la compensación
+de los impactos residuales sobre la biodiversidad del bofedal de Lagunillas, de acuerdo con los requerimientos de la
+compañía ( Our Requeriments ) y estándares nacionales (guías SEA) e internacionales (ICMM, CopperMark),
+entregando un flujo de trabajo y una caja de herramientas metodológicas que permitan construir una serie de
+alternativas de compensación equivalente, con un enfoque ecosistémico y una perspectiva regional.
+Queremos entregar herramientas para los tomadores de decisiones de la compañía para diseñar, evaluar y construir
+distintos proyectos de conservación y restauración de la biodiversidad , que, en su conjunto, configuren distintas
+alternativas de compensación equivalente al impacto sobre Lagunillas.
+A la fecha de redacción de este documento se propone una alternativa de compensación compuesta por proyectos
+de conservación en los ecosistemas de Isluga, Aroma, Penjamo y la hacienda Cancosa, los cuales buscan compensar
+un impacto residual considerando las especies amenazadas y protegidas oficialmente, que han sido afectadas por el
+ejercicio del Proyecto. El proyecto de restauración en curso en Lagunillas ha podido aumentar exitosamente la
+superficie de vegetación azonal utilizando los recursos hídricos del sistema de recarga artificial, la que debe ser
+considerada en la actualización del impacto residual a compensar de esta ruta. Adicionalmente, esta propuesta
+metodológica define la actualización de la Imagen Objetivo del bofedal de Lagunillas considerando el potencial efecto
+del cambio climático.
+Esta ruta utilizará la “ planificación sistemática de la conservación” para entregar criterios, información y análisis
+necesarios para seleccionar las mejores alternativas de compensación, considerando criterios ecológicos, climáticos,
+sociales y económicos. Este informe va complementado con una serie de anexos metodológicos que buscan describir
+más en detalle las metodologías disponibles para las distintas etapas requeridas.
+Un cambio significativo de esta ruta es la incorporación de las comunidades y otros stakeholders relevantes desde
+una etapa muy temprana, desde la construcción, definición y selección de cada alternativa. Esto busca alinearse con
+los últimos estándares comunitarios, de biodiversidad y de pueblos indígenas de la compañía, además de darle
+viabilidad a esquemas de conservación y/o restauración, en conjunto con estos socios, claves para cualquier iniciativa
+de compensación a largo plazo en el Altiplano chileno.
+Teniendo esto en cuenta, al final de este informe se entregan lineamientos metodológicos para incorporar a otros
+actores en el diseño y la implementación de la alternativa de compensación seleccionada, además de referencias
+metodológicas sobre la confección de planes de manejo -con “estándares abiertos para la conservación”- para cada
+proyecto de conservación o restauración que compondrán cada alternativa de compensación.
+6
+
+--- Página 8 ---
+2 P RESENTACIÓN
+Durante el año 2021 Minerals Americas desarrolló su Estrategia de biodiversidad y uso del territorio, que
+tiene como visión: “ un Minerals Americas con resultados positivos para la naturaleza en todos sus activos ”.
+Alcanzar esta visión involucra compensar los impactos vinculados a impactos históricos (o “ legacy issues ”), por lo
+cual Minerals Americas y CMCC formulan durante junio de 2023 el proyecto “Ruta hacia la compensación equivalente
+de la biodiversidad de Lagunillas”, con el fin de considerar las acciones de restauración desarrolladas hasta la fecha
+en el humedal de Lagunillas y orientar las medidas de compensación futura. Desde esa fecha, BHP también ha
+actualizado sus requerimientos de medio ambiente y de comunidades, y publicó una nueva política de
+relacionamiento con pueblos indígenas.
+Considerando este nuevo enfoque de la compañía hacia la biodiversidad, las comunidades y los pueblos indígenas,
+este documento contiene nuevos y actualizados lineamientos generales para identificar, priorizar y construir
+alternativas de compensación equivalente de biodiversidad, y para establecer los criterios y análisis que permitan
+definir la alternativa más apropiada y viable en términos ecológicos, sociales y económicos, en base a evidencia de
+calidad.
+Además, ayudará a orientar este desafío con una mirada integral y regional, en línea con las metas de BHP, con la
+legislación vigente y los más altos estándares internacionales (como ICMM 1 y Copper Mark 2 , BBOP 3 ).
+2.1 U N E NF OQUE E C OS I S T É MI C O P ARA L A C OMP E NS AC I ÓN
+Este documento plantea los lineamientos para el desarrollo de alternativas de compensación adaptativas y bajo un
+enfoque por ecosistemas, siguiendo las recomendaciones de la guía para la compensación de biodiversidad en el
+SEIA 4 .
+Allí se indica que en los sitios donde se considera compensar se debe comprometer un manejo adaptativo, a través
+de planes de manejo que permitan una correcta implementación y seguimiento de los proyectos de conservación,
+incluyendo hitos verificables y reportables, pero flexibles y actualizables para incorporar cambios en los ecosistemas,
+como los provocados por el cambio climático.
+El enfoque por ecosistemas, de acuerdo con la misma guía, corresponde a una estrategia para la gestión integrada
+de tierras, reconociendo que los ecosistemas no se encuentran aislados y por tanto deben gestionarse considerando
+su conectividad.
+Lagunillas por ejemplo, forma parte un sistema de lagunas altoandinas que entregan conectividad de hábitat a la
+biodiversidad del altiplano, por tanto se deben desarrollar alternativas de compensación equivalente al impacto
+1 International Council on Mining and Metal (ICMM). Jerarquía de Mitigación ICMM.
+2 Copper Mark (2020). The criteria guide for the risk readiness assessment
+3 Business and Biodiversity Offsets Programme (BBOP). Standard on biodiversity offset
+4 SEA (2022a). Guía teórica para la compensación de biodiversidad en el SEIA.
+7
+
+--- Página 9 ---
+sobre la biodiversidad en sus distintos niveles, incluyendo la continuidad de hábitat a nivel regional o de la ecozona
+altoandina 5 .
+Es importante destacar que este enfoque, no implica una mayor inversión de recursos, sino un cambio de mirada en
+la búsqueda de alternativas de compensación, sustentada en estándares nacionales e internacionales, criterios
+ecológicos y metodologías científicas apropiadas para asegurar la concreción de las metas bajo un plan de
+compensación, con mirada estratégica.
+Considerando esto, se recomienda que el desarrollo de la ruta para la compensación de lagunillas se desarrolle en 3
+fases: Formulación, Implementación y Seguimiento (Figura 1).
+Este documento contiene la fase de formulación de la ruta, donde se presentan los insumos y metodologías para
+enfrentar la siguiente fase del proyecto. Este documento entrega, (i) una revisión preliminar de la información
+disponible (estudios, datos y acciones implementadas) en Lagunillas, (ii) metodologías para actualizar y mejorar la
+estimación del alcance de compensación (impacto residual), considerando los más altos estándares científicos para
+realizar las estimaciones solicitadas por la autoridad ambiental, (iii) metodologías multicriterio para apoyar la
+selección de la alternativa de compensación más viable (en términos ecológicos, sociales y económicos), y (iv) una
+aproximación metodológica para implementar el plan de manejo adaptativo, que guiará cada proyecto de
+conservación a mediano y largo plazo.
+i) Diagnostico para la iv) Lineamientos para
+formulación del plan implementar plan de manejo
+ii) Metodología para la iii) Metodología para la adaptativo
+estimación del alcance de la selección de alternativas de
+- Revisión y sistematización de
+información secundaria compensación compensación - Alternativas para definir la
+institucionalidad de las
+- Levantamiento de metas, - Propuesta metodológica para - Criterios y metodología para la
+medidas
+expectativas y brechas de la definir ecosistema de referencia selección de alternativas
+compañía - Definir componentes mínimos
+- Propuesta metodológica para - Lineamientos para el mapeo de
+del plan de manejo adaptativo
+- Identificación de evaluar impacto residual actores a involucrar
+responsabilidades para la - Mecanismos para posibilitar
+- Lineamientos para el análisis de
+implementación y seguimiento viabilidad de largo plazo
+oportunidades y riesgos de las
+alternativas
+F a s e s Formulación Implementación Seguimiento del plan
+Cienciambiental - IEB BHP
+2 a 3 años Permanente
+Junio 2023
+Figura 1. Etapas propuestas para el desarrollo del plan de compensación, con el detalle las actividades consideradas en la etapa de formulación.
+5 Considerando los lineamientos de la guía para la conservación de la biodiversidad en el SEIA (2022), biodiversidad incluye
+diversidad genética, especies/poblaciones, comunidades o ecosistemas y paisaje.
+8
+
+--- Página 10 ---
+3 O BJETIVO GENERAL
+Diseñar un plan de trabajo cuya implementación permita identificar, priorizar y construir alternativas de
+compensación equivalente aplicables al caso del bofedal de Lagunillas, considerando los efectos del cambio climático
+global sobre los ecosistemas altoandinos.
+3.1 O BJ E T I VOS E S P E C Í F I C OS
+• Realizar un diagnóstico de antecedentes y expectativas del plan dentro de la compañía.
+• Actualizar imagen objetivo del Plan de Manejo Lagunillas en base a la evolución natural de los bofedales
+altoandinos de la cuenca, ante diversos escenarios de cambio climático.
+• Proponer metodologías para definir un ecosistema de referencia para compensar.
+• Presentar metodologías para actualizar el cálculo del impacto residual sobre Lagunillas y ganancias en
+biodiversidad producto del Plan de compensación.
+• Presentar criterios para la construcción, priorización y selección de alternativas de compensación
+equivalente para Lagunillas.
+• Presentar metodologías para la planificación y gestión de las alternativas de compensación.
+9
+
+--- Página 11 ---
+4 C ONTEXTO CASO LAGUNILLAS
+Lagunillas se encuentra en la región de Tarapacá, aproximadamente a 138 km al este de Iquique.
+Ubicado en el borde noreste de la laguna Huantija, consiste en un Sistema Vegetacional Azonal Hídrico Terrestre
+(SVAHT) del tipo bofedal, cuya vegetación se sustentaba naturalmente por un acuífero subyacente, complementado
+por las vertientes de la subcuenca Salar del Huasco 6 .
+Una serie de falencias en la evaluación de los impactos sobre el medio biótico que provocaría la extracción de agua,
+y en el seguimiento de algunas de las medidas de mitigación, ocasionaron una pérdida en riqueza de flora y cobertura
+vegetacional del bofedal, junto a una pérdida de superficie de espejo de agua y los impactos sobre la fauna asociados,
+entre otros efectos sobre los ecosistemas.
+La tasa de extracción de agua desde el acuífero ha sido variable durante la operación desde sus inicios en 1994. Un
+resumen de estas variaciones se muestra en la sucesión temporal de la Tabla 1:
+Tabla 1. Línea de tiempo con las resoluciones de autorización de extracción de agua
+ID Período Proyecto /Medida Caudal Resolución
+1 1994 -1997 Exploración de Mina y Planta de Lixiviación 50 L/s Resolución 0394/1994 del SERNAGEOMIN
+2 1997-2002 Proyecto Expansión Cerro Colorado 90 L/s Resolución N°22/1997 de COREMA
+R.E. N°102/2002 de COREMA
+3 2002 - 2015 Mejoramiento de Eficiencia Stretch Plan 150 L/s
+R.E. N°76/2011
+2005 Inicio proceso sancionatorio - Resolución Exenta N ° 19/2006, COREMA
+Proyecto Continuidad Operacional Cerro
+4 2015-2019 135 L/s RCA N°69/2015 (parcialmente anulada)
+Colorado
+5 2019-2022 Medida voluntaria 108 L/s Medida voluntaria
+Régimen cautelar de restricción y cese de
+6 2022-2023 54 -69 L/s RCA N°13/2022
+extracción de agua para operación
+7 2023-2024 Restricciones Operacionales adicionales 31 - 45 L/s Fojas 11595 (21/11/2023)
+El año 2003 la compañía es adquirida por BHP Billiton y dos años más tarde, comienza un proceso sancionatorio por
+incumplimiento en el monitoreo de variables ambientales y medidas de mitigación, que finalizó con una sanción por
+parte de COREMA en 2006 (Res ex N ° 19/2006).
+Luego de esto, el año 2008 CMCC presenta el “Plan de Manejo de las funciones ecosistémicas del sistema lacustre
+de Lagunillas”, donde se regulariza el Sistema de Recarga Artificial (SRA) de la Laguna Huantija y se impulsa el
+desarrollo un nuevo modelo hidrogeológico para la cuenca. Posteriormente, en un proceso de revisión de las RCA
+otorgadas a CMCC, en 2011 se establece un conjunto de medidas correctivas para cautelar los niveles de agua
+subterránea de la unidad hidrogeológica Lagunillas (Res Ex N ° 67/2011) 7 .
+6 Mapoteca digital Dirección General de Aguas, Subcuencas BNA.
+7 Resolución Exenta N ° digital 2022010013
+10
+
+--- Página 12 ---
+El conflicto resurgiría en 2015 con la aprobación del proyecto Continuidad Operacional Cerro Colorado (RCA
+N°69/2015), que fijaba un volumen de extracción de agua de 135 L/s hasta diciembre de 2023 8, , retrasando en hasta
+25 años el tiempo de recuperación del acuífero comprometido en la RCA N°69/2015 y en la R.E. N°67/2011 7 .
+Una serie de nuevas reclamaciones generaron la anulación parcial de la RCA N°69/2015 9 el año 2019, en cuanto a las
+medidas y condiciones para mitigar el impacto ambiental sobre el tiempo de recuperación del acuífero y el bofedal
+de Lagunillas 7,9 .
+Desde entonces, CMCC aplicó la medida voluntaria de extraer sólo 108 L/s hasta 2022, cuando se aprueba una medida
+cautelar para la paralización definitiva de la extracción de agua, a través de un régimen escalonado de restricciones
+hasta diciembre de 2023, cuando debe cesar la extracción para la operación (RCA N°13/2022) 10 . El último acuerdo
+de transacción aprobado en noviembre de 2023 11 restringiría aún más la tasa de extracción máxima de la medida
+cautelar, llegando a los 31 L/s en diciembre del mismo año, después de lo cual CMCC cesaría las extracciones con
+fines operacionales.
+4.1 A V ANC E S E N L A R E S T AUR AC I ÓN
+En esta sección, se revisan los avances históricos del desarrollo del plan de compensación del bofedal de Lagunillas.
+4.1.1 Desarrollo del plan de manejo de Lagunillas (2006-2024)
+Desde el año 2006, el bofedal de Lagunillas cuenta con un Sistema de Recarga Artificial (SRA) que se implementó en
+el marco del “Plan de trabajo para el manejo de las funciones ecosistémicas del sistema lacustre de lagunillas” (en
+adelante Plan de Manejo), como medida de mitigación de impactos no previstos sobre el acuífero. En este plan se
+fijaron indicadores de desempeño bióticos y abióticos para validar el éxito de la restauración en plazos determinados.
+Estos parámetros de mantención de características mínimas del sitio, que deben ser permanentes y asegurar la
+estabilidad del sistema, fueron declarados a partir del año 2011 (R.E. N°67/2011) como la “imagen objetivo” del
+bofedal, y representaría la condición inicial del bofedal previa al impacto del Proyecto, y a la que apuntarían los
+resultados de la ejecución del Plan de Manejo.
+El Plan de Manejo fue actualizado en octubre de 2015 (RCA N°69/2015) con la aprobación del EIA, incorporando
+elementos que tenían por finalidad minimizar las incertidumbres asociadas a la ejecución de un plan de recuperación
+de un ecosistema complejo -como los bofedales altiplánicos- y de largo plazo de ejecución. Esta resolución luego
+sería retrotraída parcialmente en 2019 (R.E. N°78/2019) hasta la elaboración de un segundo ICSARA donde se
+ajustarían las medidas y condiciones para mitigar el impacto ambiental del proyecto, dentro del plazo máximo de
+recuperación según las exigencias dispuestas en la R.E. N°67/2011, contemplando los escenarios proyectados de
+cambio climático.
+8 Memo interno BHP
+9 Tribunal Ambiental
+10 https://causas.1ta.cl/causes/193/expedient/4530/books/137/?attachmentId=7295
+11 Fojas 11595 Ilustre Primer Tribunal ambiental
+11
+
+--- Página 13 ---
+Mediante la RCA 13/2022 en enero de 2022, se calificó favorablemente el Proyecto “Continuidad Operacional Cerro
+Colorado”, manteniéndose con él las actividades asociadas al Plan de Manejo de Lagunillas, actualizando indicadores
+de cumplimiento en función de los resultados de los últimos monitoreos y considerando la aplicación de la variable
+cambio climático. Esta versión actual del Plan de Manejo del bofedal integra los compromisos de las resoluciones
+ambientales R.E. N°67/2011, RCA N°69/2015 y RCA N°13/2022.
+A pedido de BHP, durante los años 2016 y 2022 se realizaron auditorías independientes 12 para evaluar los Planes de
+Manejo formulados y su éxito en la recuperación del bofedal de Lagunillas. Ellas tenían por foco identificar sus
+fortalezas y debilidades, además de formular recomendaciones para mejorar la estrategia de gestión, sus bases
+conceptuales, metodología, mecanismos de monitoreo y evaluación. Además, se evaluaron los resultados de la
+restauración y del manejo realizados en el bofedal de Lagunillas hasta la fecha. Los resultados de estas auditorías se
+sintetizan en el punto 4.1.2.
+En marzo de 2023 se entregó una revisión independiente de la actualización del Plan de Manejo 13 , que evalúa los
+métodos de diseño, monitoreo, fijación de metas y los resultados de recuperación de Lagunillas y, en base a las
+auditorías precedentes, define las mejoras aportadas al plan, subraya sus debilidades y propone acciones de mejora,
+con mirada a la futura recuperación del bofedal, tal como lo definen la R.E. 67/2011, la RCA 69/2015, la RCA 13/2022.
+Paralelamente, en 2013 14 y 2020 15 se efectuaron estudios de acciones compensatorias de biodiversidad para
+Lagunillas, como requerimiento interno de BHP según lo articulado en sus Requerimientos Estándar de Gestión
+Ambiental 16 .
+Estos estudios buscaron generar un plan de manejo que entienda, maneje y protega los sistemas ecológicos azonales
+asociados a Lagunillas, evitando una pérdida neta de biodiversidad tras los 19 años de operación de CMCC, con
+acciones efectivas, aceptables, transparentes y duraderas.
+Su elaboración comprendía tres objetivos principales: evaluar el impacto residual de las actividades de CMCC en el
+bofedal, aplicando la jerarquía de mitigación; determinar requisitos y evaluar alternativas de acciones
+compensatorias; e inferir el alcance de la compensación necesaria en base al valor de la pérdida de biodiversidad.
+Un último reporte en 2022 17 , en el contexto de la construcción del Plan de Cierre en 2024, revisó y corrigió la
+información previamente reportada, entregando insumos para la elaboración de una estrategia de compensación
+equivalente en el marco de la Estrategia Nacional de Biodiversidad 18 , la Estrategia Regional de Biodiversidad de la
+12 Revisión externa independiente de la Recuperación del Bofedal de Lagunillas Facultad de Ciencias Biológicas de la Pontificia
+Universidad Católica de Chile. 09.04.2016.
+13 Revisión Externa Independiente de la Implementación del Plan de Manejo de Lagunillas, elaborada por Dr Pablo Marquet en
+dependencias de la UC en Marzo 2023
+14 Estudio de Identificación: Acciones compensatorias de biodiversidad para CMCC, Elaborado por Templado en Octubre 2013.
+15 Actualización de Sitios Potenciales para la Compensación en Biodiversidad del Impacto en Lagunillas para CMCC, elaborado por
+Templado en Noviembre 2020.
+16 Estándares de Nuestros Requerimientos (BHP), previamente denominados “Documentos a Nivel de Grupo” (GLD)
+17 Reporte de insumos para la Estrategia de Compensación de Lagunillas, elaborado por Templado en Agosto 2022
+18 CONAMA, 2008. Estrategia Nacional de Biodiversidad, Documento Oficial. En: CONAMA, 2008. Biodiversidad de Chile, Logros y
+Desafíos. Tercera Edición Actualizada. Ocho Libros Editores, Santiago de Chile. pp:585-595.
+12
+
+--- Página 14 ---
+Región de Tarapacá 19 , el Informe Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del sistema Lacustre
+de Lagunillas 20 y la Guía para la compensación de biodiversidad en el SEIA 21 .
+BHP, queriendo robustecer el trabajo realizado hasta ahora, incorporando nuevas metodologías de manejo
+adaptativo e involucrando a sus stakeholders desde etapas tempranas, ha desarrollado esta ruta conceptual,
+acompañada de insumos metodológicos validados científicamente para implementar la compensación equivalente
+en Lagunillas, de manera de implementar una compensación viable y socialmente validada a largo plazo.
+19 SEREMI MMA-TARAPACÁ. 2019. Estrategia Regional de Biodiversidad 2019-2030, Región de Tarapacá. Documento técnico de
+la Secretaría Regional Ministerial de Medio Ambiente, Región de Tarapacá. 67 pp.
+20 CMCC. 2022.Informe Plan de Trabajo Para el Manejo de las Funciones Ecosistémicas del Sistema Lacustre de Lagunillas, Periodo
+abril de 2021 a marzo de 2022. Compañía Minera Cerro Colorado Ltda. 128 p.
+21 SEA. 2023. Guía Metodológica para la compensación de biodiversidad en ecosistemas terrestres y acuáticos continentales.
+13
+
+--- Página 15 ---
+4.1.2 Auditorias: Conclusiones y recomendaciones
+Principales fuerzas y debilidades
+Las auditorías subrayaron la relevancia del trabajo hecho a la fecha para la elaboración de un plan de mitigación del
+impacto de CMCC en el bofedal de Lagunillas.
+De hecho, siendo un estudio pionero, podría servir de referencia para iniciativas futuras en cuanto a restauración y
+compensación de impacto ambiental desde el sector privado.
+La escala a la que fue pensada la estrategia se juzgó adecuada para hacerse cargo del impacto asociado a la operación
+de CMCC. Esperan que se genere una compensación equivalente y una ganancia neta de biodiversidad.
+La estimación del impacto residual de la compañía en el sitio estudiado fue permitida por la disponibilidad de datos
+de monitoreo fiables, aunque poco sistematizados. Esta disponibilidad de datos también permitió una adecuada
+identificación de los componentes clave de biodiversidad y de los factores explicativos del impacto residual.
+Otro objetivo de la auditoria era la evaluación del resultado de las acciones de mitigación en el área del bofedal de
+Lagunillas, las cuales fueron estimadas como exitosas en general, entregando conclusiones positivas para la
+implementación de las siguientes etapas de la estrategia. Por ejemplo, el sistema de recarga artificial implementado
+desde 2004 y rediseñado en 2006 en la laguna Huantija permitió mantener el espejo de agua a valores superiores a
+5.000 m 2 tomando en cuenta las fluctuaciones estacionales naturales, este tamaño siendo el mínimo requerido desde
+la RCA de 2002.
+En cuanto a la cobertura vegetal, se confirma un aumento de la cobertura del bofedal en las áreas beneficiadas por
+la irrigación artificial, alcanzando un 4.86% de la cobertura total de vegetación propia del bofedal el año 2020, con
+especies de plantas en cojín representando el 68,2% de esta cobertura. Esto permitió concluir que el sistema de riego
+artificial tuvo un efecto positivo sobre la recuperación de la cobertura vegetal que, según los resultados mencionados
+en el plan, se acercarían de una situación de naturalidad (en comparación con otros bofedales con características
+similares).
+Sin embargo, también se identificó un conjunto de debilidades asociadas al diseño del plan de manejo hasta la fecha.
+En primer lugar, se recalca una falta de claridad, de integración, análisis, interpretación y accesibilidad de la
+información sobre el bofedal, muchas veces esta existe, pero su fragmentación y la no coordinación de los equipos
+de monitoreo y línea base no permiten su adecuada utilización y generan retrasos y complicaciones en su uso e
+interpretación. Además, esta información fue juzgada como descriptiva y clasificatoria, culminando en dificultades
+para identificar vínculos entre los elementos del ecosistema o entre variables bióticas y abióticas, dificultando la
+adopción de un punto de vista sistémico o funcional. Existe además una falta de bases científicas y bibliográficas para
+poder consolidar las actividades de restauración con experiencias internacionales y respaldarlas con bases sólidas.
+La falta de un ecosistema de referencia o ecosistema objetivo no permite generar suficiente claridad sobre el estado
+objetivo al que se quiere acercar con las acciones y las comparaciones del bofedal con otros sitios no siempre toman
+en cuenta todos los componentes clave de biodiversidad y paisaje a conservar o restaurar.
+Otra debilidad de la estrategia reside en la falta de robustez de ciertos métodos y metodologías, entre otros, la falta
+de validación de ciertos modelos (modelos numéricos) con análisis de sensibilidad de datos, la escala del método de
+14
+
+--- Página 16 ---
+estimación de evapotranspiración, la ausencia de toma en cuenta de ciertas variables como el cambio climático o la
+disponibilidad de métodos más fiables para ciertas medidas, como el desempeño fisiológico de la vegetación.
+En síntesis, se identificó una falta de enfoque funcional, ya que no se consideran lo suficiente los flujos del ecosistema
+y las interacciones entre sus componentes bióticos y abióticos, que permitan explicar tendencias pasadas, anticipar
+tendencias futuras e interpretar fenómenos presentes relevantes para la provisión de servicios y funciones
+ecosistémicas. El objetivo es ser efectivos en generar una compensación equivalente, no solamente de componentes
+aislados, sino que de funciones ecosistémicas resilientes.
+Recomendaciones
+En base a la identificación de las principales fortalezas y límites de la estrategia y medidas de compensación de
+Lagunillas, la auditoría formula recomendaciones y sugerencias para resolver las falencias identificadas.
+Las recomendaciones formuladas se ubican dentro de tres marcos generales: la necesidad de una mirada funcional,
+de la integración de la información, y de la sistematización y mejora de la robustez de ciertas metodologías y
+herramientas de modelización, control y toma de decisión. Estos marcos son permeables, es decir que la mayoría de
+las acciones recomendadas movilizan más de un marco. Las principales recomendaciones están resumidas en la
+Figura 2.
+Figura 2. Resumen de las principales recomendaciones generadas en la primera auditoría de la recuperación de Lagunillas 12 . La figura destaca las
+principales acciones recomendadas, ordenadas en 3 marcos principales, agrupadas por tema y señala los vínculos entre ellas, cada flecha
+indicando qué acción alimenta a otra u otro grupo de acciones. Las líneas gruesas indican las recomendaciones prioritarias.
+La sección 8.1 del Anexo 1 detalla los principales avances y las principales conclusiones generadas gracias a las dos
+auditorías.
+15
+
+--- Página 17 ---
+5 U NA RUTA HACIA LA COMPENSACIÓN DEL BOFEDAL DE LAGUNILLAS .
+Esta ruta tiene 5 etapas principales:
+(1) definir la situación actual,
+(2) definir un ecosistema de referencia,
+(3) actualizar el impacto residual,
+(4) construir las alternativas de compensación y,
+(5) seleccionarlas e implementarlas.
+Un resumen de las principales actividades de cada etapa se muestra en la Figura 3.
+Figura 3: Una ruta hacia la compensación equivalente del impacto sobre la biodiversidad del bofedal de Lagunillas.
+Es importante destacar que, a diferencia de las alternativas de compensación trabajadas hasta la fecha, en este
+informe se incorpora trabajo permanente con stakeholders, quienes deben validar e involucrarse en las acciones de
+manejo desde etapas tempranas. Por otra parte, las acciones propuestas vienen a complementar el trabajo
+desarrollado a la fecha, para que este proceso se adapte a los requerimientos legales y corporativos, además de
+hacer más eficiente la gestión y manejo del proyecto.
+A continuación, se presentan en mayor detalle las distintas etapas y actividades propuestas para el desarrollo de esta
+ruta de compensación equivalente.
+16
+
+--- Página 18 ---
+5.1 E T AP A 1: D I AGNÓS T I C O DE ANT E C E DE NT E S Y E XP E C T AT I VAS DE L A R UT A
+Durante esta etapa, clave para la formulación del plan, se revisó toda la información primaria y secundaria disponible
+sobre la ecología del bofedal de lagunillas, la historia del conflicto socio-ambiental y las acciones implementadas a la
+fecha por CMCC y BHP.
+También se levantó la visión y expectativas de la compañía a través de un taller de trabajo sobre esta ruta de
+compensación. Además, se analizaron las alternativas de tenencia de la tierra con la unidad de Land Management.
+Esta información se utilizó para proponer un plan que cumpla con estas expectativas, y que incorpore el trabajo
+realizado hasta la fecha.
+5.1.1 Revisión y sistematización de antecedentes de la afectación del bofedal de Lagunillas
+Se revisaron todos los documentos e información levantada por la compañía y aquella disponible en fuentes de
+información pública sobre Lagunillas. Esto fue sistematizado y ordenado en un anexo digital 22 , separados por
+temáticas que faciliten el acceso a esta información, almacenada en una carpeta digital.
+En general, se concluye que existe suficiente información para implementar un plan de compensación equivalente
+de la biodiversidad y sus atributos. Además, BHP cuenta con varios instrumentos de gestión del lugar 23 . De esta
+manera, esta ruta no comienza desde cero, sino que continúa el trabajo avanzado hasta la fecha.
+5.1.2 Identificación de expectativas de la compañía respecto al plan de compensación
+La visión sobre la implementación del plan de compensación se levantó a través de un taller de expectativas el día
+15 de junio de 2023, donde participó el equipo consultor, representantes de las áreas de Medio Ambiente Regional
+de BHP, Asuntos Corporativos, equipo de Cierre y Medio Ambiente Ejecución de Pampa Norte.
+En términos generales, se validó la propuesta de trabajo, se aclararon dudas y se recogió retroalimentación para la
+formulación e implementación del proyecto, para incorporarlas en la etapa de diseño 24 .
+En resumen, se destaca que la compensación equivalente sería deseable, para habilitar el camino para futuros
+permisos y autorizaciones ambientales de CMCC.
+Al mismo tiempo, se observan dos posiciones dentro de CMCC; una plantea que la restauración exitosa del bofedal
+haría innecesaria la compensación, y la otra posición asume que la restauración exitosa del bofedal (a futuro) no
+excluiría a la compañía de compensar la afectación de los ecosistemas, sobre todo considerando las metas públicas
+de BHP relacionadas con el plan Nature Positive .
+Esta situación origina otra expectativa sobre este plan; una ruta de compensación de Lagunillas debe ser justificada
+con fundamentos científico-técnicos, legales y económicos, y en base a esto construir un caso de negocio robusto
+para la presentación del plan a los equipos de liderazgo de la compañía.
+22 Disponibles en el sharepoint del proyecto
+23 Entre ellos, plan de conservación, plan de alerta temprana, plan ecosistémico.
+24 La minuta del taller se adjunta como anexo en la sección 6.1
+17
+
+--- Página 19 ---
+5.2 E T AP A 2: A C T UAL I Z AC I ÓN DE L A I MAGE N O BJ E T I VO
+La imagen objetivo del bofedal de Lagunillas fue definida en el Plan de Manejo del bofedal (2008) y oficializada
+mediante la Resolución Exenta N°67/2011.
+Se desarrolló con base en un conjunto de parámetros ecológicos teóricos, que se usarían como indicadores de éxito
+de la recuperación del bofedal, tras la ejecución de su plan de restauración. Estos parámetros se estimaron durante
+el levantamiento de la línea de base del “Proyecto de Continuidad Operacional (EIA 2009)”, utilizando imágenes
+aéreas históricas de la laguna Huantija y la superficie real de cojines vegetacionales, medidos en el sistema azonal en
+base a los restos (“rastrojos”) registrados tras la desaparición de flujos naturales por los impactos del proyecto.
+Desde entonces, la imagen objetivo del bofedal ha sido actualizada en las Resoluciones de Calificación Ambiental
+N°69/2015 y N°13/2022, de acuerdo con la evolución de las variables relevantes objeto de seguimiento del Plan de
+Manejo, y se define de acuerdo a las siguientes características:
+Cuerpo de agua:
+• Superficie de laguna : ≥ 0,5 ha
+Bofedal:
+• Superficie de bofedal puro : ≥ 8,3 ha (7,13 ha de vegetación azonal dominada por cojines de las especies
+Oxychloe andina y Zameioscirpus atacamensis y 1,17 ha de cursos de agua, suelo desnudo y otras
+especies acompañantes)
+• Aporte relativo de cojines a cobertura vegetacional : 70% - 90%
+• Cobertura de especies propias de bofedal : ≥ 78% de la superficie cubierta por vegetación azonal (valor
+incorporado en RCA N°69/2015)
+• Cobertura de rastrojo y/o mantillo : ≤ 5% (valor incorporado en RCA N°13/2022)
+En el marco de la gestión del bofedal de Lagunillas, se comenzó a implementar el uso de 'formaciones testigo' o
+bofedales control para el seguimiento de variables relevantes del ecosistema, con el fin de minimizar los riesgos de
+un manejo que se aleje de las variaciones ambientales naturales del sistema, derivadas de la variabilidad climática.
+En línea con esta iniciativa, el reciente Acuerdo de Transacción entre el titular del proyecto y las partes interesadas,
+aprobado en noviembre de 2023 11 , ha acordado una serie de medidas complementarias a las resoluciones
+ambientales vigentes, con el fin de favorecer la recuperación del acuífero del bofedal. Una de ellas es la actualización
+de la Imagen Objetivo del Plan de Manejo de Lagunillas, que debe plantearse tomando en consideración la evolución
+natural de los bofedales altoandinos de la cuenca Lagunillas, incluyendo los efectos del cambio climático.
+Para llevar a cabo esta actualización de manera rigurosa, se propone en primer lugar la selección de uno o más
+bofedales control 25 , que servirán como testigo de la condición futura de un bofedal de esa región sin impactos
+ambientales significativos, pero considerando nuevas condiciones ecológicas y climáticas.
+25 Un “bofedal control” no es sinónimo o equivalente a un “bofedal de referencia”. El bofedal control es un ecosistema real similar a Lagunillas,
+mientras que un bofedal de referencia es un modelo teórico, basado en datos empíricos, de cómo sería Lagunillas si nunca hubiera sido afectado
+por las operaciones de CMCC.
+18
+
+--- Página 20 ---
+5.2.1 Cambios en Distribución de Especies clave frente a escenarios de Cambio Climático
+La imagen objetivo de Lagunillas se reestablecerá tomando en consideración el nicho ecológico ocupado por las
+especies clave del bofedal (dominantes formadoras de cojines, amenazadas y/o endémicas), y los cambios en sus
+rangos geográficos de distribución, que se generen como respuesta a variaciones climáticas de proyecciones futuras
+de cambio climático. El objetivo de realizar este análisis es para introducir rangos en las distintas variables relevantes
+de la imagen objetivo, considerando el comportamiento histórico del bofedal y proyecciones de su futuro
+comportamiento bajo distintos escenarios de cambio climático. Para conseguir esto se proponen las siguientes
+acciones, descritas en la Tabla XXX;
+Tabla 2: Acciones de actualización de la imagen objetivo para la incorporación de escenarios de cambio climático.
+Acciones Detalle
+Registros de presencia de especies objetivo desde bases de
+datos disponibles (e.g. especies dominantes de bofedal
+Oxychloe andina y Zameioscirpus atacamensis ). Fuentes:
+GBIF, líneas de base, planes de seguimiento, etc.
+Rasters de variables ambientales (temperatura, precipitación,
+humedad, tipo de suelo). Fuentes: Líneas de base, WorldClim,
+Copernicus, etc.
+Recolección de datos georreferenciados
+Escenarios de proyecciones climáticas ante diversos
+escenarios (RCP 2.6, 4.5, 8.5), obtenidos del Estudio de
+Cambio Climático llevado a cabo en el área de estudio de la
+presente propuesta (Golder, 2021 26 ).
+Compilación y procesamiento de datos sobre presencia de
+especies y co-variables ambientales asociadas a las
+localidades respectivas, que se sepa que influyen en la
+ocupación de hábitats de la especie a modelar.
+Selección y ajuste del mejor modelo/algoritmo (en función de
+Construcción del Modelo de Nicho Ecológico (ENM)
+cambios en algoritmos de modelación, parámetros de
+regularización, funciones de características, y otros)
+Análisis de sensibilidad (análisis de las variaciones en la
+distribución modelada según diferentes valores utilizados en
+parámetros claves del ENM)
+26 Golder (2021) Informe Estudio de Cambio Climático. BHP - Pampa Norte: Cierre de las Instalaciones de Cerro Colorado.
+19
+
+--- Página 21 ---
+Cartografías temáticas con los resultados.
+Distribución geográfica actual probable en función del modelo
+de nicho de la especie
+Proyección de nicho en Espacio Geográfico
+Proyección geográfica futura bajo modelos climáticos (RCP
+2.6, 4.5, 8.5)
+Identificación de las variables más sensibles (e.g.
+precipitación, temperatura, evaporación, etc) que podrían
+comprometer la estabilidad del ecosistema
+Análisis de resiliencia climática del ecosistema
+Identificación de áreas de resiliencia o refugios climáticos,
+donde las condiciones ambientales actuales y futuras sean
+favorables para la especie
+Fuente: Cienciambiental, 2025
+Algunos resultados esperados de estos análisis son Mapas de distribución geográfica de las especies claves del
+bofedal, indicando los lugares de mayor idoneidad en función de las condiciones ambientales actuales, como también
+futuras, bajo varios (2-3) escenarios de cambio climático. También se podrán producir curvas de respuesta de las
+distintas especies ante variables ambientales como la temperatura o la precipitación, y mapas de refugios climáticos
+de comunidades o frente a estrategias de migración climática asistida.
+Finalmente, para cumplir con los objetivos de este análisis, se deberán incorporar ciertos rangos de cumplimiento en
+los indicadores ecológicos de recuperación del bofedal, para permitir una adaptación de la imagen objetivo a
+condiciones de cambio en variables críticas de sistemas dinámicos, naturalmente variables. Se evaluará en base a
+información histórica y a los resultados de las proyecciones de nicho ecológico sobre espacio geográfico, en función
+de varias proyecciones climáticas. Se espera generar nuevos rangos de cobertura esperada por especie, frente a los
+valores fijos existentes actualmente, para reflejar posibles variaciones futuras en cobertura producto de
+proyecciones climáticas contrastantes.
+20
+
+--- Página 22 ---
+5.3 S E L E C C I ÓN DE B OF E DAL C ONT ROL
+Para aislar el potencial efecto del cambio climático sobre el bofedal de Lagunillas mientras el SRA se encuentre en
+ejecución, se siguió el procedimiento metodológico implementado por el CEA (2024) 27 para la búsqueda y selección
+de bofedales control. Se analizaron 13 bofedales como candidatos a ser “control”, incluyendo subsecciones (ej:
+Collacagua 1, 2 y 3). Los bofedales analizados se muestran en la Tabla 3
+Tabla 3: Bofedales analizados para la selección de un bofedal control de Lagunillas.
+Cobertura
+Presencia
+Accesibilidad Formación Riqueza promedio Costra
+Nombre Cuenca Especie dominante fauna
+(dificultad) Vegetacional Vegetación especie salina*
+íctica **
+dominante
+Lagunilla Lagunilla Baja Bofedal 13 Oxychloe andina 61,61 Si Si
+Collacagua 3 Collacagua Baja Bofedal 4 Oxychloe andina 69,30 Si Si
+Lirima
+Lirima Baja Bofedal 5 Oxychloe andina 67,82 Si Si
+Chauhin
+Salasalani Lagunillas Baja Bofedal 3 Oxychloe andina 63,07 No Si
+Guantija Lagunillas Baja Bofedal 6 Oxychloe andina 48,26 Si Si
+Jornuni Falla
+Lirima Baja Bofedal 6 Oxychloe andina 32,01 Si Si
+Lirima
+Huella
+Lagunillas Baja Bofedal 7 Oxychloe andina 78,44 Si No
+Rinconada
+Llacho Lagunillas Baja Bofedal 7 Oxychloe andina 17,25 Si Si
+Queñoa Collacagua Baja Bofedal 5 Oxychloe andina 35,25 Si No
+Collacagua 1 Collacagua Baja Bofedal 4 Oxychloe andina 36,35 No No
+Cinnagrostis
+Collacagua 2 Collacagua Baja Pajonal 4 31,34 No No
+velutina
+Coniri Lagunillas Media Pajonal N/E Festuca sp. N/E N/E No
+Guallacagua Lagunillas Alta N/E N/E N/E N/E N/E N/E
+* El valor umbral utilizado para identificar si un bofedal es salino es aquel que presenta afloramiento salino mayor a 5%, el cual es evaluado en los
+meses de menor déficit hídrico (Ahumada y Faúndez, 2009). **Refiere a la presencia de Orestias agassi N/E: No evaluado. Fuente: CEA, 2024. En
+color verde los bofedales seleccionados como posibles bofedales control y en color blanco los bofedales desestimados como bofedal control.
+Fuente: CEA, 2024.
+Para este análisis comparativo -el objetivo era buscar un bofedal lo más parecido posible a Lagunillas- se utilizaron
+variables meteorológicas, físicas, bióticas (fauna íctica y vegetación) y un análisis histórico de la dinámica
+vegetacional de cada bofedal. Los resultados del estudio mencionado hacen referencias a dos selecciones de bofedal.
+27 Centro de Ecología Aplicada (2024) Informe Selección de bofedal de control para evaluar su comportamiento
+natural en comparación con el Bofedal Lagunillas – Compañía Minera Cerro Colorado
+21
+
+--- Página 23 ---
+5.3.1 Primera selección de bofedal control
+En una primera selección de bofedales control, se seleccionaron 6 candidatos. Esta primera selección considera como
+criterio la cobertura de Oxychloe (entre 70% y 90%), la presencia de fauna íctica nativa ( Orestias ) y la accesibilidad.
+Los resultados de esta selección se muestran en la Tabla 4.
+Tabla 4: Primera selección de humedales control para Lagunillas.
+Nombre Cuenca
+Collacagua 3 Collacagua
+Lirima Chauhin Lirima
+Salasalani Lagunillas
+Guantija Lagunillas
+Jornuni Falla Lirima Lirima
+Huella Rinconada Lagunillas
+Fuente: CEA, 2024
+5.3.2 Segunda selección de bofedal control
+Luego se hizo un análisis más complejo (multicriterio) para considerar diferentes aspectos de cada bofedal, y se
+utilizaron herramientas de sistemas de apoyo a la toma de decisiones para evaluar cada alternativa
+cuantitativamente.
+En cada comparativa se consideraron cuatro criterios de selección, cada uno compuestos por distintas variables
+medidas en cada bofedal. Los criterios utilizados fueron; composición , estructural , “ amenazas & presiones” y
+“gestión, uso & conservación”.
+Luego se realizaron dos tipos de análisis, uno de similitud y otro de “Análisis de Jerarquía de Procesos” (AHP), una
+metodología de apoyo a la toma de decisiones complejas.
+Este último es un método de decisión multicriterio que ayuda a seleccionar entre distintas alternativas en función de
+una serie de criterios o variables de selección, normalmente jerarquizadas, y que suelen entrar en conflicto entre sí.
+En el primer análisis, de similitud, se hicieron dos comparaciones. Primero sólo se comparó la composición florística
+de los distintos bofedales pre-seleccionados, y la segunda se realizó considerando todos los criterios y estimando una
+distancia numérica (“euclidiana”) entre ellos, determinando aquellos más similares a Lagunillas.
+El segundo análisis de jerarquía de procesos se estructuró considerando todos los criterios antes mencionados. Para
+ver el detalle de cada análisis y los criterios utilizados, además de las variables que considera cada uno, referirse al
+estudio CEA (2024).
+Los bofedales control seleccionados según estos dos métodos fueron los que muestra la Tabla 5.
+22
+
+--- Página 24 ---
+Tabla 5: Bofedales seleccionados para ser control del bofedal de Lagunillas.
+Orden Jerarquico Similitud AHP
+1 Huella Rinconada Huella Rinconada
+2 Jornuni-Falla lirima Salasalani
+3 Guantija Guantija
+4 Lirima Chahuin Jornuni-Falla Lirima
+5 Salasalani Lirima Chahuin
+6 Collacagua 3 Collacagua 3
+Los resultados muestran que el mejor candidato para ser bofedal control es el de Huella Rinconada . Sin embargo,
+ese bofedal no mostró la presencia de Orestias , requisito fundamental de la imagen objetivo. En cualquier caso, esta
+ausencia puede deberse al muestreo realizado, que tuvo sólo una campaña, (Julio 2024). Si se confirma la presencia
+de Orestias en el bofedal, parece ser el mejor candidato para bofedal control.
+En caso de no encontrarse Orestias , se podrían utilizar dos bofedales como bofedales control. Huella Rinconada sería
+el más similar en todos los aspectos analizados a Lagunillas, pero se debería monitorear otro bofedal adicional para
+analizar la respuesta de Orestias específicamente. Los bofedales de Guantija o Salasani parecen buenos candidatos
+para ello, ya que cuentan con presencia de fauna íctica nativa, sumado a que se encuentran en la misma cuenca de
+Lagunillas.
+23
+
+--- Página 25 ---
+5.4 M E DI DAS DE C OMP E NS AC I ÓN D E L A B I ODI VE RS I DAD
+La legislación chilena indica que una “compensación de biodiversidad apropiada” requiere una cuantificación de las
+pérdidas y ganancias de biodiversidad (SEA, 2022 ) 4 . Esta información es fundamental para cuantificar el impacto
+a
+residual luego de la aplicación de medidas de mitigación y restauración, y así poder asegurar, mediante evidencia
+directa y cuantitativa, que luego de finalizada la restauración, el resultado sea “positivo para la naturaleza”.
+La mencionada guía, haciendo referencia al art. 100 del reglamento del SEIA, indica que las medidas de compensación
+apropiadas deben generar un efecto positivo alternativo y equivalente (pérdida neta cero) o superior (ganancia
+neta) al del impacto residual, y mantenerse a largo plazo considerando la duración de los impactos . Además, indica
+que la compensación de los recursos o elementos del medio ambiente afectados se debe hacer por otros de similares
+características, en cuanto a los atributos de la biodiversidad: composición, estructura y función. Estas características
+son parte de los requisitos de equivalencia establecidos por la autoridad, e implican establecer un ecosistema o sitio
+de referencia 28 para realizar este balance.
+Sin embargo, muchas veces no se cuenta con toda la información necesaria para realizar esta cuantificación
+directamente, frente a lo cual se debe recurrir a metodologías complementarias, con validez científica, para poder
+responder apropiadamente a las metas de la compañía y proponer medidas de compensación acordes al impacto
+residual estimado.
+Teniendo esto en cuenta, y siguiendo las recomendaciones de SEA (2023), se proponen los lineamientos
+metodológicos para definir estos dos aspectos clave para establecer las metas del plan compensación:
+1) Identificación de atributos de biodiversidad y Determinación del Ecosistema de Referencia que deben ser foco
+de restauración y/o conservación en el área de compensación. Esta propuesta metodológica facilitará la
+identificación de ecosistemas equivalentes y asegurará que la compensación ocurra dentro del mismo tipo de
+ecosistema impactado.
+2) Cuantificación del impacto ambiental residual de la extracción de agua de CMCC sobre el bofedal Lagunillas,
+complementando los cálculos realizados hasta la fecha. Este impacto residual es la diferencia de las características
+ambientales en el bofedal de Lagunillas (Ecosistema Impactado) entre su estado inicial (sin proyecto de CMCC), hasta
+antes del inicio del programa de restauración de Lagunillas y también tras el cierre del proyecto de CMCC en
+diciembre de 2023, considerando los esfuerzos de restauración realizados hasta fecha.
+28 La guía metodológica para la compensación de biodiversidad en el SEIA (SEA 2023), indica qué sitio de referencia debe
+considerarse como aquel que contiene la formación de mayor complejidad estructural esperable para dicho ecosistema, de
+acuerdo a los antecedentes bibliográficos y juicios de expertos.
+24
+
+--- Página 26 ---
+5.4.1 Identificación de variables de Biodiversidad y Definición del Ecosistema de Referencia
+Se propone un procedimiento de dos pasos para definir los ecosistemas de referencia. Considerando las brechas de
+información en el caso de lagunillas 29 , en cada paso se proponen metodologías complementarias que permitan
+subsanar estas brechas y cumplir con los objetivos de la ruta de compensación. Los tres pasos mencionados son los
+siguientes:
+5.4.1.1 Revisión de parámetros de biodiversidad
+Los parámetros de biodiversidad resultantes de las modelaciones de la Etapa 2 de la Ruta, cuyos atributos de
+composición, estructura y funciones ecosistémicas definirán la Imagen Objetivo actualizada, en la que se asume el
+efecto del cambio climático.
+Dicha imagen se emplearía además para seleccionar bofedales control de características mayormente equivalentes
+a las del bofedal de Lagunillas, en su condición sin impacto.
+Una vez que el bofedal de Lagunillas alcance el estado de equilibrio natural 30 posterior a la fase de mantención del
+Plan de Manejo (ver RCA N°13/2022), sus atributos definirán la Imagen Objetivo del bofedal. Se debe incluir un
+análisis de brechas de información sobre biodiversidad para calcular el impacto residual, de manera de poder
+seleccionar las metodologías complementarias que acorten estas brechas.
+5.4.1.2 Determinar el ecosistema de referencia para Lagunillas.
+El ecosistema de referencia es un ejemplo representativo, de alta calidad y sin intervenciones. Se usarán los
+antecedentes e información levantada en el paso 1 como insumos para proceder con una caracterización de los
+atributos del bofedal Lagunillas.
+Estos valores se obtienen a partir de las estimaciones teóricas de coberturas absoluta y relativa de la vegetación,
+composición de especies y superficie lagunar obtenidas en la elaboración del Plan de Manejo de Lagunillas
+(Resolución Exenta N°67/2011), actualizados en los posteriores RCA, y ahora reemplazados con la integración de
+modelos climáticos y de nicho de especies para evaluar la evolución natural del ecosistema dado el efecto potencial
+del cambio climático.
+Entonces, teniendo en cuenta los antecedentes del paso 1, se deben levantar los componentes y atributos de
+ecosistemas “típicos” de la misma zona ecológica -y equivalentes al de Lagunillas en cuanto a su biodiversidad- para
+construir este “ecosistema de referencia”. Este define los atributos de la biodiversidad en sus distintos niveles de
+organización que deben ser compensados, considerando su importancia ecológica, los servicios ecosistémicos que
+proveen y las singularidades ambientales que deben ser consideradas para la compensación (especies/poblaciones,
+29 Relacionadas con la antigüedad de la operación de CMCC en el lugar
+30 Definido como la condición de cumplimiento de la imagen objetivo del bofedal de Lagunillas, en cuanto ésta refleja lo que se
+estableció como imagen del bofedal antes de ser afectado, que por lo tanto se corresponde con la imagen del bofedal que el
+sistema podrá sostener al término del Plan de Manejo (Anexo 1.5.1, Adenda 3, EIA Proyecto Continuidad Operacional Cerro
+Colorado, 2015)
+25
+
+--- Página 27 ---
+comunidades, ecosistemas). Este ecosistema de referencia debe entenderse como un “plano” o “esquema” del
+ecosistema que se busca restaurar, que a la vez sirve de guía para la búsqueda de sitios para compensación.
+5.4.2 Cuantificación del impacto residual y Ganancia en Biodiversidad
+Usando como referencia los lineamientos de la Guía Metodológica para la Compensación de Biodiversidad en
+Ecosistemas Terrestres y Acuáticos Continentales del SEIA. Acá se deben determinar escenarios para distintos rangos
+de tiempo, que permitan dividir la línea de tiempo de Lagunillas en fases donde se pueda estimar el impacto residual
+del proyecto. Se sugiere que estos escenarios deben incluir: (1) la situación previa al proyecto minero, (2) cuando
+aún no se implementaba ninguna iniciativa de restauración, y (3) otro con restauración.
+26
+
+--- Página 28 ---
+En la Tabla 6 se sintetizan las técnicas propuestas para cumplir con cada paso del cálculo del impacto residual. El
+detalle metodológico se entrega en los anexos de este documento.
+Tabla 6. Detalle de las metodologías propuestas para abordar cada uno de los pasos y vinculo a anexo metodológico detallado
+Detalle
+Paso Objetivo Brechas Metodología propuesta
+metodológico
+- Revisión de resultados de actualización de
+Imagen Objetivo (Etapa 2)
+Falta de información
+Identificar las - Levantamiento de datos ecológicos de
+certera de la Imagen
+variables de la Bofedales control cuyos atributos representen
+Paso 1 Objetivo de Lagunillas Anexo 6.1
+Imagen Objetivo las condiciones ecosistémicas del bofedal de
+(condición sin
+actualizada (Etapa 2) Lagunillas sin intervención y considerando
+Proyecto)
+variaciones climáticas
+- Revisión y análisis de imágenes satelitales
+Existen dificultades Se propone una metodología de análisis
+metodológicas para multicriterio para identificar ecosistema/s de
+Determinar un identificar un referencia del área afectada, considerando
+ecosistema de ecosistema que información geográfica y climática (de libre
+referencia (condición actualmente disposición), además de la información
+Paso 2 inicial), y caracterizar represente el levantada en el Paso 1. Permite dar robustez a Anexo 6.2
+atributos de ecosistema afectado, la estimación de equivalencias, sobre todo
+biodiversidad a especialmente si se cuando no hay información de suficiente
+compensar. cuenta solo con datos detalle sobre biodiversidad en los inicios de la
+de biodiversidad y intervención del bofedal. Además, ayuda a
+cobertura teóricos. caracterizar los atributos a compensar.
+Calcular impacto Hace falta definir la
+residual, ganancia en estrategia que
+Se sugiere utilizar metodología SEA (2023)
+Paso 3 biodiversidad, y utilizará la compañía Anexo 6.3
+resumida en el Anexo
+ganancia neta en para obtener una
+biodiversidad ganancia neta.
+Al finalizar esta etapa estará definido el ecosistema de referencia para el bofedal de Lagunillas, caracterizando las
+variables que lo definen cuantitativamente. Además, comparando este ecosistema de referencia con el estado actual
+e histórico del bofedal, se podrá actualizar y complementar el cálculo del impacto residual, es decir, el impacto total
+del proyecto sobre la biodiversidad, en términos cuantitativos. Los resultados deberían incluir el área y los atributos
+afectados. En los anexos metodológicos (Anexo 3, sección 10) se entregan más de 30 atributos para caracterizar
+ecosistemas.
+El ecosistema de referencia servirá como insumo básico de la siguiente etapa, que deberá buscar otras zonas del
+territorio donde existan ecosistemas como el de referencia, pero en las mejores condiciones posibles. Luego,
+teniendo en cuenta el impacto residual, o la deuda de biodiversidad, se deben seleccionar el o los sitios que permiten
+saldar esa deuda y conseguir un saldo positivo para la naturaleza.
+En ejercicios anteriores de cálculo de compensación realizados por la compañía para el bofedal de Lagunillas, se
+necesitaban una combinación de entre dos y cuatro ecosistemas distintos para conseguir una compensación
+equivalente. Estos eran ecosistemas presentes en las localidades de Isluga, Aroma, Penjamo y la hacienda Cancosa.
+27
+
+--- Página 29 ---
+5.4.3 Identificación de áreas potenciales para la compensación equivalente
+En esta etapa se deberá realizar una búsqueda a gran escala -utilizando herramientas de detección remota- para
+identificar aquellos lugares donde se puede compensar efectivamente el área y los atributos afectados del bofedal
+de Lagunillas, los que serán equivalente a una o varias veces el impacto residual, según la Relevancia de los
+ecosistemas afectados. Se identificarán zonas tentativas de compensación usando el Mapa de Relevancia de la Guía
+Metodológica SEA (2023).
+Considerando que los atributos de biodiversidad responden a las condiciones del ecosistema que habitan y su
+entorno, y que los bofedales tienen una expresión en parches de baja extensión, se propone que la compensación
+equivalente del impacto residual se realice desde una perspectiva de paisaje, que considera un espacio compuesto
+por más de un ecosistema (SEA 2023).
+La normativa chilena vigente exige que la compensación debe realizarse cumpliendo criterios de equivalencia y
+conectividad. Para abordar la equivalencia y conectividad, se presentan metodologías para evaluarla en todos los
+niveles de biodiversidad: i) ecosistemas y paisajes, ii) especies/poblaciones y comunidades, iii) genes.
+Estos métodos, en su mayoría basados en las recomendaciones de la autoridad ambiental, no solo permiten
+caracterizar conectividad y equivalencia, sino también suman como criterios para evaluar la mejor opción de
+compensación (ver Anexos metodológicos).
+Este enfoque permite tener una visión más integral de la evolución de hábitat y las poblaciones, permitiendo
+considerar la dinámica futura de los ecosistemas, que siempre varia por factores forzantes de gran escala, en
+particular aquellos derivados del cambio climático, sobre todo en un contexto de emergencia climática.
+Para incorporar una mirada a largo plazo que considere estos aspectos dinámicos de los ecosistemas, y asegure que
+la compensación se sostenga a largo plazo, de acuerdo con los requisitos de la autoridad, se presenta la metodología
+de evaluación de riesgos ecosistémico propuesta por la UICN, que permite evaluar la relevancia de los sitios de
+compensación en cuanto a la vulnerabilidad de los ecosistemas de ser afectados por otras amenazas que podrían
+poner en riesgo sus sostenibilidad futura, a pesar de tomar medidas de compensación.
+Este amplio espectro de opciones metodológicas apunta a que las alternativas de compensación puedan estar
+definidas con métricas de alto estándar científico y técnico, que permita cuantificar y evaluar los resultados de las
+medidas de compensación. Esto busca asegurar la credibilidad de las acciones de la compañía para alcanzar una
+operación positiva para la naturaleza.
+28
+
+--- Página 30 ---
+5.5 C R I T E R I OS P AR A C ONS T R UI R Y S E L E C C I ONAR L AS AL T E RNAT I VAS DE C OMP E NS AC I ÓN
+En esta etapa se deberá generar un listado de criterios para el análisis de viabilidad de las distintas alternativas de
+compensación levantadas en las etapas anteriores, con un diseño de análisis multicriterio para seleccionar la mejor
+alternativa, indicando criterios a considerar, pesos a asignar y variables del análisis a ser consideradas.
+El uso de esta herramienta de análisis, si bien no es requerida como parte de la metodología del SEA, permite
+encontrar la opción más eficiente en costo-beneficio y apoyar la toma de decisiones para la implementación de un
+plan de compensación exitoso, alcanzando el objetivo de biodiversidad deseado. Este enfoque además permite
+insertar esta ruta de manera más compatible con el BHP Operating System (BOS), que utiliza el análisis multicriterio
+para la evaluación y desarrollo de proyectos.
+5.5.1 Planificación sistemática de la conservación: análisis multicriterio
+La Planificación Sistemática de la Conservación (PSC) ofrece un enfoque robusto y ampliamente usado para evaluar
+opciones de compromisos de conservación 31 . Este enfoque se basa en el establecimiento transparente de metas y
+objetivos, indicadores de biodiversidad y servicios ecosistémicos, así como factores de penalización -como el costo
+de adquisición de tierras- con el fin de optimizar la selección de una red de áreas que cumplan con la compensación
+equivalente del bofedal de Lagunillas. La mayoría de los planes sistemáticos de conservación tienen en cuenta tres
+principios clave: exhaustividad, adecuación y representatividad 32 :
+Exhaustividad (Comprehensiveness): Esto se refiere a la inclusión de todos los componentes relevantes de la
+biodiversidad dentro del área de estudio en el plan. Incluye una variedad de elementos, desde especies hasta
+ecosistemas. El objetivo es garantizar que todos los aspectos importantes de la biodiversidad se tengan en cuenta.
+Adecuación (Adequacy): Este criterio evalúa si los sitios son lo suficientemente grandes, o si tienen la capacidad de
+resistir amenazas o perturbaciones (como el cambio climático, la deforestación, la invasión de especies exóticas,
+entre otros), para garantizar la sobrevivencia de su biodiversidad a largo plazo.
+Representatividad (Representativeness): Este principio se asegura de que las áreas protegidas cubran el rango
+completo de variación de las especies, tipos de hábitat y ecosistemas de interés.
+En el plan “Ruta para la compensación equivalente de la biodiversidad del bofedal Lagunillas y sus atributos”, el tipo
+de ecosistema “bofedal altoandino”, las especies que los componen y los servicios ecosistémicos que proveen son
+identificados como objetos de conservación. Complementariamente, se deberán incluir otras áreas que cumplan con
+criterios de alto valor en biodiversidad (IBEs) y que sean parte del área de influencia del activo.
+Por ejemplo, aquellos que corresponden a ecosistemas de “Oasis de Neblina” del farellón costero de las regiones de
+Tarapacá y de Antofagasta o incluso otros sistemas vegetacionales altoandinos (ej: vegas y vertientes) que sean parte
+del área de influencia del activo. Esto permite ampliar el rango de opciones de conservación y aumentar la
+probabilidad de conseguir un impacto neto positivo. Además, cualquier iniciativa de conservación debe colaborar
+con la meta 2030 de tener un 30% del área bajo tutela de BHP con proyectos de conservación, restauración o
+31 Ball et al ., 2009
+32 Kukkala y Moilanen, 2013
+29
+
+--- Página 31 ---
+regeneración, y prepararse para reportar los resultados a las cuentas ambientales de capital natural en el futuro
+próximo.
+Adicionalmente, la PSC es iterativa, al involucrar un diálogo continuo con las partes interesadas (“stakeholders”:
+empresas, comunidades locales, gobiernos, ONGs y científicos), para co-definir los objetivos de conservación y las
+estrategias para alcanzarlos, siendo esta una de las razones de porqué es necesario contar con una identificación y
+mapeo de actores (Anexo 6.5). Este involucramiento continuo es compatible con las políticas de pueblos originarios
+y las metas de valor social de la compañía.
+La aproximación propuesta se basa en el diseño de una red de áreas relevantes para la conservación que considere
+los “ecosystem boundary maps” (EBM) de cada activo, de acuerdo con su plan de naturaleza positiva. Los EBM
+incorporarán los bofedales identificados como sitios de compensación equivalente (bofedales equivalentes), así
+como otros IBEs. Estas áreas se incluirán en las alternativas de compensación: ya sea enfocándose exclusivamente
+en bofedales equivalentes, o en un enfoque combinado que incluya tanto bofedales como otros IBEs identificados
+dentro de los límites del EBM. Además, algunos otros factores como la presión humana y las amenazas a estos
+ecosistemas (por ejemplo, el cambio climático, la extracción de agua, otras operaciones mineras, etc.) deben ser
+considerados para descartar áreas en los EBM. Para que puedan cumplir su rol de conservación de la biodiversidad
+las áreas no pueden ser ecosistemas altamente degradados.
+En esta etapa se busca construir las distintas alternativas de compensación, que estarán compuestas por diferentes
+proyectos de conservación, que sumados entregarán una compensación total equivalente de los impactos sobre
+bofedal de Lagunillas. Además, entrega las herramientas para que los equipos de liderazgo de CMCC puedan decidir
+si quieren aportar con áreas adicionales de conservación y así aportar hacia las metas globales de BHP.
+5.5.2 Etapas de la Planificación Sistemática de la Conservación
+Se propone un plan secuencial para llevar a cabo el proceso de PSC, al final del cual se seleccionarían las mejores
+alternativas destinadas para la compensación del bofedal de Lagunillas:
+i. Identificación y descripción de los objetos de conservación: Se deben identificar y describir claramente los
+objetos de conservación (bofedales equivalentes) dentro de los EBM. Esto implica recoger información
+acerca de sus atributos físicos, geográficos, ecosistémicos, entre otros, que se indican en el Anexo 3
+ii. Estados de Conservación : Los estados de conservación de las especies se determinarán utilizando la
+información oficial del Proceso Nacional de Clasificación de Especies Amenazadas, complementada con
+análisis semi-automáticos basados en el criterio B de las UICN. Se asignará un factor de penalización a cada
+especie según su estado de conservación.
+iii. Identificación de las áreas de ocupación de las especies : Mediante análisis espaciales y Modelos de
+Distribución de Especies (SDMs), se estudiará la distribución actual de las especies y determinará los niveles
+de representación necesarios para cada una. Estos análisis pueden variar dependiendo del área de
+ocupación de cada especie.
+iv. Establecimiento de las metas de conservación : Definir metas claras y cuantitativas para cada objeto de
+conservación. Deberá incluir el análisis de porcentajes de conservación para los ecosistemas (10%, 17%,
+30%, 50%), así como las metas específicas de representación para especies amenazadas, en función de su
+estado de conservación y endemismo.
+30
+
+--- Página 32 ---
+v. Análisis de Resiliencia Climática : Se utilizarán Modelos de Distribución de Especies (SDMs) para proyectar
+la distribución potencial de las especies en escenarios futuros de cambio climático. Los resultados de estos
+análisis ayudarán a diseñar estrategias de conservación resilientes al cambio climático.
+vi. Desarrollo de alternativas de proyectos de conservación: Con toda la información recogida y analizada, se
+deben desarrollar diferentes escenarios de conservación que cumplan con las metas establecidas y que sean
+resilientes al cambio climático. Se debe dar prioridad a aquellos que minimicen los costos y maximicen la
+biodiversidad.
+vii. Estimación de los costos de las alternativas de conservación: Analizar los costos asociados con la
+implementación de las estrategias de conservación, teniendo en cuenta factores como el cambio en el uso
+del suelo, la pertenencia minera, y la disposición de los propietarios hacia la conservación in situ a largo
+plazo.
+viii. Implementación y seguimiento del plan de manejo adaptativo : Una vez que se ha seleccionado el escenario
+de conservación más apropiado, el siguiente paso es implementarlo. Este proceso debe incluir el
+seguimiento continuo de los objetos de conservación y la evaluación periódica del éxito del plan en la
+consecución de las metas establecidas. Este plan, aunque detallado, debe ser adaptativo (ver sección 5.6),
+es decir, debe ser capaz de incorporar nueva información y cambiar en función de las condiciones
+cambiantes y los resultados del seguimiento. Esto garantizará que los esfuerzos de conservación sean lo más
+efectivos posible.
+Al final de esta etapa se contará con mucha información, incluyendo múltiples criterios, para poder seleccionar las
+mejores alternativas de compensación. Se propone que la decisión final puede ser apoyada utilizando softwares de
+análisis multicriterio (ej: DEFINITE) que permitan ponderar cuantitativamente cada criterio, y así elegir entre las
+distintas alternativas en base a criterios objetivos y fundados en información científica.
+31
+
+--- Página 33 ---
+5.6 E L ABORAR P L AN DE MANE J O ADAP T AT I VO
+Tras seleccionar una alternativa de proyecto, se debe elaborar participativamente un plan de manejo de
+tipo adaptativo, cuya ejecución permita alcanzar los objetivos conjuntos planteados para el sitio de compensación,
+implementar las acciones diseñadas y monitorear y evaluar sus resultados. El manejo adaptativo constituye una
+forma de gestión de proyectos basado en el aprendizaje y la mejora continua, gracias a su carácter iterativo, a la
+inclusión de perspectivas de distintos grupos de interés y la toma en cuenta de las experiencias de manejo pasadas
+tanto en contenido como diseño.
+La necesidad de generación de estrategias específicamente dedicadas al manejo adaptativo de recursos naturales ha
+derivado en la creación de herramientas especializadas que combinan los principios y mejores prácticas del manejo
+adaptativo en la gestión de tales recursos. Los Estándares Abiertos para la Conservación 33 , y la Metodología de
+Evaluación de Oportunidades para la Restauración (ROAM 34 ) son ejemplos de la generación de tales herramientas,
+obtenidas a partir de la implementación y revisión sistemática de resultados de proyectos para la práctica de la
+conservación y de la restauración de la biodiversidad, respectivamente.
+5.6.1 Estándares abiertos para la conservación
+Los Estándares Abiertos para la Práctica de la Conservación o Estándares de Conservación, creados por la Alianza
+para las Medidas de Conservación (Conservation Measures Partnerships), son un conjunto flexible de pasos
+secuenciales que se deben adaptar a los contextos socio-ecológicos específicos de los proyectos de conservación.
+Estos pasos promueven la inclusión, el manejo adaptativo y la colaboración con los actores involucrados. Además, se
+enfatiza la documentación transparente y el aprendizaje continuo. Los estándares se ajustarán con el tiempo para
+responder a nuevas necesidades, y su aplicación puede adaptarse a las realidades locales y las prioridades de
+conservación. En la Figura 4 se detalla el paso a paso de los EAC.
+33 Estándares Abiertos para la Practica de la Conservación. Alianza para las Medidas de Conservación (Conservation Measures
+Partnerships - CMP), 2020.
+34 ROAM
+32
+
+--- Página 34 ---
+Figura 4. Ciclo del Proyecto según estándares abiertos para la práctica de la conservación.
+5.6.2 Costos de los proyectos de conservación
+Las variables de costos en el contexto de la planificación sistemática de la conservación se refieren a factores que
+pueden aumentar los gastos, reducir la efectividad o complicar la implementación de estrategias de conservación en
+áreas específicas (Margules y Pressey, 2000; Possingham et al., 2000, Bennett et al., 2014). Estos criterios se utilizan
+para evaluar y ponderar negativamente ciertas áreas u opciones, lo que ayuda a identificar aquellas que son más
+viables y beneficiosas desde una perspectiva de la conservación in situ a largo plazo.
+Los costos asociados a la implementación de un plan de compensación podrían clasificarse, a grandes rasgos, en
+costos directos (i.e. gastos operacionales de implementación y manejo del plan de compensación) e indirectos (i.e.
+costo de oportunidades por cambio de uso de suelo) (ver Tabla 7). La magnitud de los costos asociados a cada ítem
+dependerá de la práctica de gestión utilizada como modelo de compensación, y en general, los gastos en la
+implementación de un plan de manejo serán significativamente mayores cuando el plan se basa en la Restauración
+de uno o más ecosistemas, comparado con uno basado en la Conservación de ecosistemas.
+33
+
+--- Página 35 ---
+Tabla 7. Tipos de gastos generales asociados a la implementación de un Plan de manejo para la conservación o restauración de la biodiversidad
+Tipo de costo Descripción Ejemplos
+Gastos recurrentes: Salarios Costos en personal Salarios para personal permanente
+Monitoreo, protección/restauración, investigación,
+Gastos recurrentes: Operativos Otros gastos de implementación
+entrenamiento de personal
+DIRECTO
+Compras y modernización de Inversiones en edificaciones, estaciones climatológicas
+Gastos en capital
+instrumentos e instalaciones y monitoreo, equipamiento para personal
+Costos de establecimiento de Costos de preparación del plan de manejo, marcaje de
+Costos de establecimiento
+área de protección límites perimetrales, reuniones con stakeholders
+Costos de oportunidad Adquisición o arriendo de tierras Adquisición o arriendo de tierras
+INDIRECTO
+Daños por fauna nativa a
+Costo por daños Conflictos carnívoros/humanos por daño a ganado
+comunidades locales
+Fuente: Modificado de Halsey, 2012.
+Una vez determinado el o los sitios de compensación destinados a conservación, y esquematizado su respectivo plan
+de manejo, se podrá recién cuantificar los gastos directos de implementación, constituidos por gastos regulares y
+sencillos de medir.
+Una primera aproximación para cuantificar el costo del cambio en el uso de suelo es generar una estimación a gran
+escala, utilizando análisis territorial que incluya información sobre la tenencia de la tierra 35 donde se espacializan los
+distintos proyectos de conservación de las diferentes alternativas de compensación, datos de pertenencia minera y
+levantamiento de información para evaluar la disposición de los propietarios hacia la conservación in situ a largo
+plazo 36 . Los costos de adquisición de territorios a dueños privados típicamente reflejarán sus costos de oportunidad,
+lo cual es conveniente pues evitaría posibles conflictos con partes interesadas y directamente involucradas (Naidoo
+et al ., 2006).
+Los costos de oportunidad, usados como proxi al precio de mercado de un territorio, se determinan calculando la
+probabilidad de que un área natural sea convertida a un uso de suelo de alguna actividad remunerativa, multiplicado
+por los beneficios netos esperados de tal tipo de uso de suelo y sumado para todos los tipos de uso de suelo (Naidoo
+& Adamowicz, 2006). Las probabilidades de conversión se pueden estimar en base a patrones históricos de la
+conversión de áreas naturales a otro uso de suelo en el sector o áreas afines de la región y, de no existir evidencia
+hacia la conversión del suelo a actividades remunerativas en las zonas en estudio, el área tendría cero costos de
+oportunidad para la conservación y un alto potencial para ser parte de una alternativa de compensación.
+Tanto para gastos directos como indirectos del Plan de Compensación, el costo de conservación unificado de cada
+unidad de planificación (PU) se calcula sumando la proporción de superficie ocupada por áreas terrestres modificadas
+por actividades humanas, como zonas urbanas (carreteras, asentamientos y zonas industriales), así como otros tipos
+de modificaciones humanas como la minería. Además, se incluye la proporción de la superficie identificada como
+pertenencia minera y potencialmente la disposición relativa de los propietarios hacia la conservación in situ.
+35 Lo que requerirá un trabajo conjunto con Land Management Pampa Norte
+36 Considerar Derecho Real de Conservación Ley 20930
+34
+
+--- Página 36 ---
+Algunos de los cálculos directos definidos en la alternativa de compensación desarrollada hasta la fecha (Templado
+y BHP, 2022) se muestran a continuación.
+Tabla 8: Costos de la alternativa de compensación equivalente de Lagunillas elaborada hasta la fecha
+Actividades claves Miles USD
+Estrategia de involucramiento de actores claves $250
+Caracterización impacto residual $100
+Actualización sitios preseleccionados $150
+Línea de Base sitio seleccionado $400
+Diseño Plan de Manejo de conservación $150
+Definición de instrumento legal de protección $100
+Definición de gobernanza $100
+Gestión de derechos de agua $1,500
+Gestión de Concesiones Mineras $1,500
+Habilitación sitio seleccionado $1,000
+Ejecución de la Medida (operación 350K por 25 años) $12,000
+Endowment para mantención de la gobernanza 5% año neto comisiones $15,000
+Total $32,250
+Fuente: Templado, 2022
+Revisando el detalle de esta estimación de costos, se puede ver que la implementación de esta nueva ruta propuesta
+en este documento cumpliría con varias de las actividades claves. En total suman 1,25 millones de dólares, lo que
+parece un monto apropiado para la implementación completa de esta ruta.
+Luego, para la operación de los proyectos de conservación, el enfoque propuesto en esta ruta, al dar una mirada
+regional y corporativa de la compensación, permite activar varias sinergias y reducir algunos costos. La co-
+construcción de alternativas junto con los stakeholders claves -considerados desde un comienzo- podría reducir
+considerablemente los costos de gestión de derechos de agua y de concesiones mineras. Se debe evaluar para cada
+caso, pero se podrían establecer esquemas de cesión o renuncia de derechos que podrían hasta eliminar ese costo
+(o reducirlo considerablemente).
+También hay varias consideraciones sobre los costos del endowment y la ejecución de la medida por 25 años. En esta
+ruta se propone que los esfuerzos de compensación de Lagunillas sean parte de un esfuerzo conjunto a nivel regional
+de las distintas operaciones de BHP, con lo que se podrían construir fondos (de operación y de mantención) con
+costos repartidos entre los assets . Incluso, nuevos proyectos de la compañía podrían aportar a estos fondos,
+reduciendo considerablemente los costos totales. Otro punto importante en ese cálculo es el interés compuesto que
+estará acumulando el endowment durante los primeros 25 años, que parece no estar considerado.
+35
+
+--- Página 37 ---
+5.7 C ONC L US I ONE S Y RE C OME NDAC I ONE S
+El caso del bofedal de Lagunillas es un ejemplo concreto de la explotación de los recursos naturales de un
+cuerpo de agua, donde las exigencias legales no fueron suficientes, y ni el monitoreo de variables ambientales
+ni las medidas de mitigación implementadas pudieron evitar un severo daño ambiental al ecosistema. El
+impacto ocurrió sobre especies únicas, muy vulnerables y con protección oficial del Estado chileno.
+Este documento presenta un flujo de trabajo detallado para la construcción, selección e implementación de
+una o varias alternativas de compensación de los impactos sobre la biodiversidad del bofedal. El informe
+muestra una descripción exhaustiva del proceso, y debe tomarse como documento de referencia para la fase
+de formulación.
+Este informe presenta una ruta clara y directa hacia la compensación, con una serie de etapas, pasos y criterios
+que van a permitir construir alternativas de compensación equivalente de Lagunillas. La decisión final de las
+metodologías específicas a utilizar está fuera de los alcances del equipo consultor, y debe considerar la opinión
+de otros actores claves, tanto dentro como fuera de la compañía.
+Las metodologías y criterios presentados cumplen a cabalidad con lo exigido por la legislación nacional, y en
+algunos aspectos va incluso más allá. Este esfuerzo adicional pretende mitigar un riesgo inherente a un proyecto
+de compensación: la credibilidad de la equivalencia de la compensación, que mientras más completa y
+transparente sea, más creíble será. También busca incorporar variables ecológicas, sociales y económicas en la
+selección de alternativas, para asegurar la viabilidad a largo plazo de las alternativas de compensación.
+Respecto al financiamiento de la alternativa actual de compensación, la estructura general de costos -gastos de
+implementación (USD 1,25 millones), fondo de ejecución (USD 12 millones) y fondo de mantención (USD 15
+millones)- nos parece adecuada. Asume 350.000 dólares por año para cada proyecto de conservación, monto
+suficiente para estándares chilenos. Pero ambos fondos están sobre estimados. Como referencia, el
+presupuesto 2022 para el sistema nacional de áreas protegidas -entero- es de 30 millones de dólares. BHP
+Minerals Americas podría construir esos fondos con financiamiento compartido de sus distintas operaciones y
+utilizarlo para iniciativas de conservación y restauración en toda su área de influencia. Además, existen modelos
+público-privados de conservación donde luego de establecida el área de conservación, se dona al Estado (como
+el caso de Pumalín). Esto también podría reducir considerablemente los costos para la compañía.
+36
+
+--- Página 38 ---
+6 A NEXOS M ETODOLÓGICOS
+6.1 P AS O 1: I DE NT I F I C AR L AS V AR I ABL E S OBT E NI DAS E N E S T UDI OS P R E V I OS C OMO I NS UMOS
+P ARA E S T I MAR L A AF E C T AC I ÓN S OB R E L AGUNI L L AS
+Se ha identificado la ausencia de una línea base exhaustiva de los componentes abióticos y bióticos, previa la
+intervención industrial en el bofedal de Lagunillas que data de 1994, lo que resulta en una limitada capacidad para
+realizar una comparación precisa y empírica del estado ambiental del ecosistema antes y después del impacto 37
+(CENIMA, 2010).
+Para cuantificar la afectación del bofedal de Lagunillas es fundamental conocer las variables abióticas (por ejemplo,
+calidad y superficie del cuerpo de agua, entre otras) y bióticas (por ejemplo, composición de especies, cobertura
+vegetacional, entre otras) registradas en el bofedal en sus condiciones previas al proyecto. Para ello se debe realizar
+una búsqueda de información que considere variables históricas obtenidas in situ por estudios previos (artículos
+científicos, Carrasco et al., 1993; 1994 y 1995), líneas base de otros proyectos, como también la adquisición y
+reconstrucción de información obtenida de manera indirecta, como es el caso del análisis de información satelital
+(Figura 5).
+Figura 5. Cambio en la superficie del cuerpo de agua del Bofedal Lagunillas previo y posterior a la realización del proyecto.
+a) Bofedal en 1986 (Landsat 5 ™), y b) Bofedal en 2023 cerca del término de las operaciones (Sentinel 2).
+En base a la búsqueda de información preliminar disponible, es posible afirmar que existen algunos registros
+históricos de criterios Climáticos e Hidrológicos (precipitaciones, pH y conductividad del agua, entre otros) y
+Biológicos a nivel de paisaje y composición (flora y fauna terrestre y acuática), que darían cuenta tanto de las
+37 CENIMA, 2010. Evaluación ambiental de pampa lagunilla. Informe elaborado por Centro de investigación en Medio Ambiente
+para BHP Billiton. Universidad Arturo Prat. Iquique Chile. 291 p.
+
+--- Página 39 ---
+condiciones anteriores a 1994 como de las actuales del área del bofedal Lagunillas. En particular, y como se observa
+en la Tabla 14 (Anexo 3), existen variables climáticas e hidrológicas que registran información histórica in situ desde
+el año 1993 hasta 2021. Además, mediante teledetección satelital es factible la obtención de información histórica,
+como por ejemplo la temperatura superficial del suelo (°C) de Lagunillas desde 1984 hasta 2022, entre otras múltiples
+variables ambientales.
+6.2 P AS O 2: D E T E RMI NAR UN E C OS I S T E MA DE R E F E R E NC I A Y L OS AT RI BUT OS B I ÓT I C OS Y
+ABI ÓT I C OS QUE DE BE N S E R F OC O DE C OMP E NS AC I ÓN
+El siguiente paso es tener conocimiento sobre el estado de los componentes abióticos y bióticos del bofedal
+Lagunillas previo a la realización del proyecto, es decir, establecer un ecosistema de referencia (ER) . Esta definición
+es fundamental para determinar el impacto residual, como también las ganancias de biodiversidad en el o los sitios
+a compensar. Por lo tanto, para la reconstrucción del ER del bofedal Lagunillas, se deben considerar variables
+históricas, y con ellas obtener un modelo que informe una condición probable de este ecosistema previo a 1994.
+6.2.1 Ecosistema de referencia
+En el marco del estudio de referencia comparativa, los componentes hidro-climático y geográfico desempeñan un
+papel fundamental, ya que permiten identificar aquellos bofedales establecidos en condiciones ambientales similares
+al ER de Lagunillas, que servirán como punto de comparación para reconstruir los componentes bióticos en el bofedal
+de Lagunillas previa a la actividad industrial. A continuación, se describen los tres componentes del estudio de
+referencia comparativa:
+• Componente hidro-climático, se refiere a todos los aspectos relacionados con el clima y la dinámica
+hidrológica del bofedal. Este componente incluye variables como la dinámica de las aguas subterráneas poco
+profundas y las temperaturas del aire (Scheihing y Tröger, 2018). Además, deben considerarse otras
+variables históricas como las precipitaciones.
+• Componente geográfico, ayuda a comprender la ubicación y las características espaciales y de conectividad
+de la red de bofedales. Aspectos como la superficie del bofedal, elevación, índice de rugosidad topográfica,
+y los tipos de suelo tienen efectos directos en la biodiversidad.
+• Componente biológico , los bofedales establecidos en condiciones ambientales similares al ER de Lagunillas
+servirán como punto de comparación para reconstruir los componentes bióticos en el bofedal de Lagunillas
+previa a la actividad industrial, lo que permite suplir parcialmente las carencias de línea de base biótica. Esta
+información permitirá inferir la afectación de la biodiversidad como consecuencia de la extracción de agua.
+La diversidad de especies, cobertura vegetacional y función ecológica de los bofedales serán indicadores
+claves para este objetivo.
+Por lo tanto, en función a estos tres componentes, y mediante técnicas de análisis estadísticos multivariados de
+clasificación y agrupamiento de diferentes unidades (bofedales) es posible:
+i) Delimitar la zona altoandina de Tarapacá en zonas hidro-climáticamente similares a las condiciones del
+ER de Lagunillas, considerando su proyección climática si no hubiese existido alteración antrópica.
+ii) Identificar los factores geográficos que estructuran las comunidades de bofedales que son similares al
+o los ER de Lagunillas.
+38
+
+--- Página 40 ---
+iii) Identificar aquellos bofedales que cumplan con la similitud ambiental, y que no se encuentren
+degradados, es decir bofedales naturales o con baja perturbación.
+iv) Caracterizar las comunidades vegetacionales existentes en los bofedales que sean seleccionados en
+cuanto a sus indicadores de biodiversidad, considerando su composición, estructura y función. Así, el
+ER corresponderá a aquellos donde exista una intersección de los componentes hidroclimáticos y
+geográficos respecto de los existentes en el ER de Lagunillas, en cuanto exista una baja o nula
+perturbación antrópica en su componente de biodiversidad. Para ver el listado exhaustivo de las
+variables bióticas y abióticas que permiten describir cada componente ver la Tabla 15 en el Anexo
+metodológico.
+6.2.2 Atributos de biodiversidad
+Las métricas tradicionales para medir el impacto sobre la biodiversidad surgen del análisis del número de especies
+de un área determinada, la cobertura y la abundancia de especies nativas y exóticas (SEA, 2022). Sin embargo, la
+biodiversidad es compleja y está jerárquicamente organizada (Figura 6), abarcando cuatro niveles: i) genes, ii)
+poblaciones o especies, iii) comunidades o ecosistemas y iv) paisajes, los cuales están estructurados en tres
+dimensiones. Estas dimensiones son: composición , la cual refiere a la identidad y variedad de elementos en un área
+(Riqueza de especies, de genes, de ecosistemas, etc), estructura , que es la organización física del sistema
+(complejidad del hábitat en un ecosistema o patrón de parches a escala de paisaje) y función , la cual involucra
+procesos ecológicos y evolutivos (flujo génico, disturbios, ciclo de nutrientes). Bajo estas consideraciones se
+proponen un conjunto de métricas de la biodiversidad de importancia en la composición, estructura y función de los
+bofedales Altoandinos (Tabla 15 del Anexo 3).
+39
+
+--- Página 41 ---
+Figura 6. Jerarquías de la biodiversidad (Modificado de Noss, 1990).
+6.3 P AS O 3: C AL C UL O DE L I MP AC T O R E S I DUAL (IR), GANANC I A E N BI ODI VE RS I DAD (GB) Y
+GANANC I A NE T A E N BI ODI VE RS I DAD
+A continuación, se detalla la aplicación metodológica de la presente propuesta en el marco de la “Guía Metodológica
+para la Compensación de Biodiversidad en Ecosistemas Terrestres y Acuáticos Continentales” (SEA, 2023; ver Figura
+7), la cual sugiere una metodología práctica para la cuantificación del impacto residual (IR) y de la ganancia neta de
+biodiversidad (GB) en el sitio o los sitios potenciales para implementar la compensación equivalente de bofedales
+azonales altoandinos de Chile.
+40
+
+--- Página 42 ---
+Figura 7. Resumen metodológico para aplicación de medidas de compensación equivalentes. Fuente: SEA (2023).
+Mapas de Relevancia
+De acuerdo con la Guía Metodología para la Compensación de la Biodiversidad del SEA (2022), es fundamental
+realizar en primera instancia una evaluación de la relevancia del sitio , la cual se ve representada en mapas 38 que
+fueron construidos de acuerdo con determinados objetivos e indicadores, buscando identificar las prioridades de
+gestión para la conservación en el marco de las compensaciones de biodiversidad. Ubicar el área de influencia y el o
+los sitios de compensación en estos mapas y reconocer su relevancia, constituye un primer acercamiento que permite
+tomar mejores decisiones, tanto del emplazamiento del proyecto como el sitio donde implementar la medida de
+compensación (SEA, 2022).
+38 SIMBIO
+41
+
+--- Página 43 ---
+Para la elaboración de los mapas de relevancia de ecosistemas terrestres y acuáticos continentales se consideran
+diversos objetivos con sus respectivos indicadores, los cuales dan cuenta de las necesidades de incluir en la
+protección de la biodiversidad la escala de ecosistemas, abarcando propiedades como protección de ecosistemas
+amenazados, presencia de glaciares, entre otras (SEA, 2022). En base a los mapas de relevancia, se observa que el
+bofedal Lagunillas se encuentra emplazado en un sitio de relevancia baja para su componente terrestre (Figura 8),
+sin embargo, no posee una cuantificación de la biodiversidad a nivel de ecosistemas acuáticos (Figura 9), por lo cual
+es necesaria su evaluación. De manera conjunta, se evalúa la relevancia de ecosistemas terrestres y acuáticos para
+los bofedales potenciales de compensación equivalente identificados en los pasos anteriores . La relevancia de los
+ecosistemas determina el Multiplicador de Relevancia (M1) (ver Tabla 9), el cual define la superficie a compensar, y
+cuantas veces se debe multiplicar el IR para conseguir una compensación equivalente, de acuerdo con la guía SEA.
+Figura 8. Mapa de relevancia de Ecosistemas Terrestres de la región de Tarapacá obtenido desde Geoportal SIMBIO (2023)
+42
+
+--- Página 44 ---
+Figura 9. Mapa de relevancia de humedales de la región de Tarapacá obtenido desde Geoportal SIMBIO (2023).
+Tabla 9. Multiplicador de relevancia del área de Influencia (M1)
+Relevancia del Sitio M1
+Muy baja 1,2
+Baja 2,4
+Media 3,6
+Alta 4,8
+Muy alta 6,0
+Matriz de componentes claves
+El siguiente paso para la evaluación del IR es el cálculo del valor del cambio (“delta”), es decir la cuantificación de las
+variables bióticas y abióticas del bofedal (componentes claves de la etapa 2 ) en sus condiciones con y sin efecto de
+la ejecución del proyecto . Estas ecuaciones deben ser aplicadas para el sitio de influencia Lagunillas, como también
+para los sitios de compensación. En estos últimos se debe considerar que se alcanzan los resultados esperados por
+las medidas de compensación planificadas (condición final). Dadas las características propias de los bofedales, que
+43
+
+--- Página 45 ---
+considera propiedades de ecosistemas acuáticos y terrestres, las variables deben ser evaluadas por separado
+( (Ecuación 1 y (Ecuación 2 ).
+(𝐶𝑓𝐴 − 𝐶𝑖𝐴)𝑝𝑟𝑜𝑚 + (𝐶𝑓𝐵 − 𝐶𝑖𝐵)𝑝𝑟𝑜𝑚
+𝛿 𝑑𝑒 𝑐𝑜𝑛𝑑𝑖𝑐𝑖ó𝑛 𝑚𝑒𝑑𝑖𝑜 𝑡𝑒𝑟𝑟𝑒𝑠𝑡𝑟𝑒 = (Ecuación 1 )
+𝑉𝑚𝑎𝑥
+Donde:
+δ de condición medio terrestre = diferencia de la condición de la biodiversidad del área de influencia entre su
+condición estimada sin proyecto y la que existirá con proyecto, al final de su ejecución;
+CfA = Condición del Paisaje con Proyecto;
+CiA = Condición del Paisaje sin Proyecto;
+CfB = Condición del Ecosistema Terrestre con Proyecto;
+CiB = Condición del Ecosistema Terrestre sin Proyecto;
+Vmax = Valor promedio máximo de los parámetros.
+(𝐶𝑓𝐴 − 𝐶𝑖𝐴)𝑝𝑟𝑜𝑚 + (𝐶𝑓𝐶1 − 𝐶𝑖𝐶1)𝑝𝑟𝑜𝑚 + (𝐶𝑓𝐶2 − 𝐶𝑖𝐶2)𝑝𝑟𝑜𝑚
+𝛿 𝑑𝑒 𝑐𝑜𝑛𝑑𝑖𝑐𝑖ó𝑛 𝑚𝑒𝑑𝑖𝑜 𝑎𝑐𝑢á𝑡𝑖𝑐𝑜 = (Ecuación 2)
+𝑉𝑚𝑎𝑥
+Donde:
+δ de condición acuática = diferencia de la condición de la biodiversidad del área de influencia entre su condición
+inicial (sin proyecto) y la que existirá con proyecto, al final de su ejecución;
+Cf = Condición con Proyecto;
+Ci = Condición sin Proyecto;
+A = Paisaje, obtenido de parámetros evaluados;
+C1 = Condición del medio acuático, obtenido de parámetros evaluados;
+C2 = Estructura de la comunidad, obtenido de parámetros evaluados;
+Vmax = Valor promedio máximo de los parámetros.
+Evaluación de Impacto Residual (IR) en bofedal Lagunillas
+Luego del cálculo del valor del cambio (“delta”) de la condición de la biodiversidad sin proyecto y con él en Lagunillas,
+se debe utilizar la siguiente ecuación:
+𝐼𝑅 = 𝛿 𝑑𝑒 𝑐𝑜𝑛𝑑𝑖𝑐𝑖ó𝑛 𝐴𝐼 × á𝑟𝑒𝑎 (𝑒𝑛 ℎ𝑎) × 𝑀1 á𝑟𝑒𝑎 𝑑𝑒 𝑖𝑛𝑓𝑙𝑢𝑒𝑛𝑐𝑖𝑎 (Ecuación 3)
+Donde:
+δ de condición AI = diferencia de la condición de la biodiversidad del área de influencia entre su condición inicial (sin
+proyecto) y la que existirá con proyecto, al final de su ejecución;
+Área (en hectáreas) = superficie del área de influencia cuya biodiversidad fue impactada negativamente;
+M1 = Valor entregado por mapas de relevancia del sitio (Ver Figura 8, Figura 9 y Tabla 9).
+Ganancia neta en biodiversidad (GB) en sitios potenciales de compensación
+Por otro lado, una vez diseñada la medida de compensación, es posible calcular la GB, para lo cual es necesario utilizar
+todos los Multiplicadores indicados en SEA (2022): Multiplicador de Relevancia (M1), Multiplicador de Localización
+44
+
+--- Página 46 ---
+(M2), Multiplicador de tiempo requerido para obtener ganancias (M3), y Multiplicador por tipo de protección Legal
+(M4); cuyos valores se detallan en la Tabla 9, Tabla 10, Tabla 11 y Tabla 12, respectivamente.
+𝜹 𝑑𝑒 𝑐𝑜𝑛𝑑𝑖𝑐𝑖ó𝑛 × á𝑟𝑒𝑎 (𝑒𝑛 ℎ𝑎) × 𝑀1 𝑠𝑖𝑡𝑖𝑜 𝑑𝑒 𝑐𝑜𝑚𝑝𝑒𝑛𝑠𝑎𝑐𝑖ó𝑛
+𝑮𝑩 = (Ecuación 4)
+𝑀2 × 𝑀3 × 𝑀4
+Tabla 10. Multiplicador de Localización (M2)
+Sitios de compensación respecto del impacto M2
+Mismo piso vegetacional o ecosistema del inventario de ecosistemas del MMA 1,0
+Misma cuenca 1,5
+Cuenca limítrofe o vecina 2,0
+Distinta cuenca, pero dentro del mismo ecotipo/tipología de ecosistema 3,0
+Tabla 11. Multiplicador de tiempo requerido para obtener ganancias (M3)
+Años entre impacto y compensación en funciones M3
+< 7 años 1,0
+7 a < 9 1,2
+9 a < 11 1,4
+11 a < 13 1,6
+13 a < 15 1,8
+15 o más 2,0
+Tabla 12. Multiplicador por tipo de protección Legal (M4)
+Tipo de Manejo M4
+El sitio de compensación cuenta con protección mediante un mecanismo formal que asegura el
+resguardo del patrimonio natural existente a perpetuidad, por ejemplo, Derecho Real de Conservación,
+1,0
+iniciativa privada de conservación con reconocimiento oficial del Estado o figuras de protección legal
+emprendidas por gobiernos locales.
+Existe un contrato entre el propietario del sitio y quien ejecuta la medida de compensación el cual se 3,0
+extiende durante todo el tiempo proyectado para la ejecución de la medida, incluyendo el tiempo
+45
+
+--- Página 47 ---
+requerido para su seguimiento, sin que exista una figura legal de protección de los componentes de la
+biodiversidad, que son objeto de la compensación.
+Finalmente, para que la compensación sea adecuada debe cumplirse que la Ganancia en Biodiversidad (GB) en el
+sitio de compensación debe ser igual o mayor que el impacto Residual (IR) en valores absolutos, lo que se expresa de
+la siguiente manera:
+|𝐺𝐵| ≥ |𝐼𝑅| (Ecuación 5)
+46
+
+--- Página 48 ---
+6.4 I DE NT I F I C AC I ÓN DE ÁR E AS DE C OMP E NS AC I ÓN E QUI V AL E NT E
+La guía para la compensación de la biodiversidad en el SEIA, sustentada en el artículo 100 del Reglamento del SEIA 39
+y en concordancia con diversos estudios, precisa que para alcanzar una compensación efectiva de la biodiversidad,
+es esencial que los componentes, estructura y la funcionalidad de los ecosistemas, sean similares a los del área
+afectada en su condición previa a la implementación del proyecto (Darbi et al., 2009.; Alonso et al., 2020; SEA, 2022a).
+Dichas áreas deben considerar el contexto del paisaje y el rango de la variación de sus elementos para asegurar su
+viabilidad ecológica y sostenibilidad a largo plazo. Así, se establece que la compensación debe realizarse en un lugar
+cercano al área de influencia del componente afectado, preferentemente dentro de la misma región administrativa,
+esto último con el objetivo de integrar el criterio de justicia ambiental (SEA, 2022). Por ello, en la presente propuesta
+se establece como área de análisis la zona altoandina de Tarapacá (Figura 10).
+Figura 10. Mapa de bofedales altoandinos de Tarapacá (destacados en rojo).
+39 Ref. artículo 100 Decreto 40, Ministerio del Medio Ambiente
+47
+
+--- Página 49 ---
+Por otro lado, la normativa chilena vigente exige que la compensación debe realizarse cumpliendo criterios de
+equivalencia y conectividad (SEA, 2022).
+La equivalencia se refiere al balance entre la biodiversidad perdida en el sitio impactado y la biodiversidad ganada
+en el o los sitios de compensación, buscando obtener una pérdida neta cero de biodiversidad, y que la sustitución de
+la biodiversidad perdida sea con otra similar en nivel, composición, estructura y función (OCDE, 2016; SEA, 2022).
+Por su parte, la conectividad hace referencia al flujo de diversidad (migraciones de organismos, flujo genético o
+similitud funcional y evolutiva; Kool et al., 2013). Mientras que la equivalencia resiste comparaciones simples como
+balance entre número de especies perdidas y ganadas/conservadas, la conectividad exige aproximaciones específicas
+para el tipo de especies y/o de paisajes (Moilanen y Kotiaho, 2018).
+La metodología que se detalla a continuación tiene como objetivos primordiales la identificación de lugares
+estratégicos en los cuales implementar acciones de compensación, con miras a lograr avances sustanciales en la
+biodiversidad, así como establecer los criterios biológicos que requieren compensación. El enfoque se centra en
+determinar áreas que, si bien están fuera del impacto directo del proyecto, presentan una equivalencia ecológica.
+Para que un ecosistema sea reconocido como equivalente, debe someterse a una rigurosa evaluación mediante el
+uso de métricas detalladas en la Guía Metodológica de Compensación del SEA, que permita clasificarlo como un
+bofedal altoandino de similares atributos biológicos y servicios ecosistémicos respecto del bofedal Lagunillas antes
+del inicio de la operación de CMCC.
+Por lo tanto, para la determinación y selección de áreas válidas para compensación (= bofedales equivalentes) que
+cumplan con los criterios de equivalencia y conectividad siguiendo los niveles de la biodiversidad (genética,
+especie/población, comunidad/ecosistema y paisaje) reconocidos por la autoridad ambiental se propone seguir
+cuatro lineamientos:
+1) A nivel de comunidad/ecosistema y paisaje: Selección de sitios de alta similitud con metodología indicada
+en Paso 2 y evaluar conectividad a escala de paisaje.
+2) A nivel de especie/población y comunidad: Identificar especies y comunidades que son objeto de
+conservación de acuerdo a la normativa nacional.
+3) A nivel de diversidad genética: evaluar la conectividad genética, con el fin de seleccionar áreas con un flujo
+génico similar Lagunillas, y evitar áreas demasiado aisladas para prevenir la homogeneización genética.
+Estos métodos no solo permiten caracterizar conectividad y equivalencia, sino también suman como criterios para
+evaluar la mejor opción de compensación.
+Las metodologías para 1) y 2) son reconocidas y se mencionan en la Guía Metodológica de SEA (2022) con el detalle
+suficiente, sin embargo, la conectividad genética no tiene metodologías explícitas por lo que se entrega en mayor
+detalle a continuación.
+Conectividad genética:
+En el campo de los estudios comparativos, la conectividad genética proporciona una aproximación cuantitativa a la
+continuidad y dispersión de la biodiversidad a través de paisajes. La filogeografía, disciplina que utiliza herramientas
+moleculares para examinar la estructura genética de las poblaciones y la evolución geográfica (Avise et al., 1987),
+resulta esencial para medir la conectividad genética. Dentro de este marco, el grado de parentesco y el flujo génico
+entre poblaciones de la misma especie son indicadores cruciales para determinar la conectividad (Moritz & Faith,
+1998). Este parámetro permite incluir el nivel genético de la biodiversidad dentro de la caracterización de los
+48
+
+--- Página 50 ---
+ecosistemas (AI y sitio de compensación), complementando así los requisitos de una medida de compensación
+adecuada según lo propuesto en la Guía Metodológica (SEA, 2022). Su uso permite definir de manera cuantitativa y
+precisa 1) el nivel de conectividad funcional que existe entre parches de hábitat a nivel de paisaje y 2) la diversidad
+genética como parte de la estructura de la comunidad de especies en el ecosistema, atributo con potencial de
+constituir un componente clave para la conservación de la diversidad biológica local.
+En la región de Tarapacá, en el norte de Chile, los bofedales, ecosistemas de humedales altoandinos, tienen una
+distribución fragmentada tipo “islas” debido a la variabilidad geográfica en la disponibilidad de agua. Esencialmente,
+ciertas especies de plantas son claves para la comunidad y el ecosistema ya que al tener crecimiento en forma de
+cojines compactos modifican el microclima. Este tipo de especies se conocen como ingenieras ecosistémicas (Badano
+y Cavieres 2006). Para evaluar la conectividad genética entre los bofedales, se proponen los siguientes pasos:
+1. Identificar aquellas especies que son abundantes o que cumplen roles funcionales críticos en los bofedales
+y diseñar un protocolo de muestreo para recolectar tejido vegetal. Este protocolo debe asegurar una
+cobertura geográfica que represente adecuadamente la región en estudio.
+2. Extracción de ADN y secuenciación de marcadores hipervariables (microsatélites o SNPs).
+3. Evaluación de la diversidad genética, estructura poblacional y flujo genético.
+4. Análisis de correlación entre distancias genéticas.
+5. Modelado SIG de la conectividad genética del paisaje.
+Además, es recomendable utilizar modelos de distribución de especies para proyectar cómo los cambios ambientales
+futuros podrían afectar la distribución y conectividad de las poblaciones ante escenarios de cambio climático
+(“análisis de resiliencia”).
+49
+
+--- Página 51 ---
+6.5 L I NE AMI E NT OS P ARA L A I DE NT I F I C AC I ÓN Y MAP E O DE AC T ORE S DE L AS AL T E RNAT I VAS
+DI S P ONI BL E S
+La identificación y mapeo de actores asociados a cada alternativa de compensación aportará a los criterios de
+selección de la alternativa más conveniente y será un insumo clave para la articulación de su gobernanza, el diseño
+y ejecución de su plan manejo adaptativo.
+El propósito de esta metodología es describir proceso de mapeo de actores y grupos clave de interés para las distintas
+alternativas de proyectos de compensación, para utilizarlo en el caso del sitio del Bofedal de Lagunillas. Los resultados
+del mapeo de actores se utilizarán en dos instancias: (i) durante el proceso de selección del proyecto de
+compensación a implementar, que contará con participación de las comunidades relacionadas a Lagunillas y; (ii) sus
+resultados debieran ser parte de los del análisis de viabilidad de las alternativas en evaluación.
+Independientemente de las acciones de compensación elegidas, la realización de un mapeo de actores ayuda a
+cumplir con la voluntad de BHP de generar “valor social” 40 como una contribución positiva a la sociedad, la economía,
+las comunidades locales, los socios estratégicos, los accionistas y el medioambiente, ya que su filosofía de entrega
+de valor social está basada en un enfoque “ bottom-up ” dónde se integran a los proyectos contribuciones de parte
+de los agentes (actores) que reciben este valor social.
+A su vez, la política de pueblos Indígenas de BHP 41 propone el objetivo de fomentar la confianza, la participación
+temprana y la inclusión de perspectivas indígenas en el diseño y la implementación de sus iniciativas con el objetivo
+de generar beneficios mutuos.
+Además, de acuerdo con las notas de orientación de biodiversidad 42 de la compañía, cuando una iniciativa involucra
+riesgos y oportunidades asociadas a biodiversidad, se debe vincular con las distintas partes interesadas, realizando
+consultas, encuestas de terreno, entre otros insumos relevantes para incorporar su visión. El documento también
+menciona específicamente que el diseño de acciones de compensación debe acompañarse de una evaluación
+( scoping ) en una consulta con actores relevantes. De hecho, BHP declara en estas notas de orientación, que los
+atributos de biodiversidad y servicios ecosistémicos más importantes son aquellos importantes para los grupos de
+interés en cuestión.
+Por último, cabe señalar, que internamente BHP ha reconocido que en relación con los “ legacy Issues ”, será clave
+entender las expectativas de los distintos actores que tienen un interés en dichos sitios para diseñar soluciones
+sustentables.
+Tomando en cuentas estos antecedentes, es fundamental identificar todos los grupos de interés vinculados al
+proyecto de compensación (directa o indirectamente), así como sus potenciales intereses y expectativas, para
+incluirlos tempranamente en distintas etapas del proyecto (diseño, gobernanza, implementación, evaluación, mejora
+40 Referirse al documento “ Social Value Efforts Priorisation Minerals Americas ”
+41 Referirse a los documentos “ Global Indigenous Peoples Strategy ”, “ Indigenous People’s Plan Minerals Americas South America
+FY19-FY2 3" y “Pueblos Indígenas - Declaración de Política (versión del 9 de noviembre 2022)”.
+42 Referirse al documento “ Biodiversity Guidance Note, Version 1.0 (February 2021)”
+50
+
+--- Página 52 ---
+continua), reconociendo así el potencial de los mapeos de actores cómo fuente de información para generar
+estrategias inclusivas en BHP.
+6.5.1 Metodología de mapeo de actores:
+Identificar, mapear y analizar los actores clave en un proyecto que involucra gestión sobre la biodiversidad, los
+recursos naturales y servicios ecosistémicos, consiste primero que todo en entender las relaciones complejas que
+mantienen los seres humanos con los recursos de los cuales dependen 43 .
+La identificación y el mapeo de grupos de interés debiesen ser realizados temprano en la gestión de un proyecto,
+para recopilar información respecto de los actores potencialmente afectados o beneficiados, las capacidades de estos
+actores para influir sobre el proyecto, las relaciones pasadas, presentes o futuras entre estos actores, los potenciales
+usos que los actores tienen de los servicios ecosistémicos (SSEE) vinculados al proyecto y los potenciales conflictos
+respecto de estos SSEE 44 .
+Los grupos de interés se pueden clasificar en distintas categorías:
+Actores clave: cualquier individuo, comunidad, grupo u organización con alto interés en uso de los recursos y SSEE
+del área de compensación y con alto poder de influenciar significativamente sobre el éxito o fracaso del proyecto.
+Son los principales aliados para la generación de un plan de manejo adaptativo, por lo tanto, es importante que se
+generen coaliciones, colaboraciones y buenas relaciones de trabajo con ellos.
+Actores primarios: cualquier individuo, comunidad, grupo u organización con alto interés en el uso de los recursos o
+SSEE, pero bajo poder en la toma de decisiones o; con alto poder en la toma de decisiones pero bajo interés en el
+área, los SSEE asociados y/o el proyecto de compensación.
+Actores secundarios: todos los otros individuos, grupos u organizaciones que tienen un interés o un rol intermedio
+en el proyecto de compensación efectiva y sus consecuencias, con una importancia relativa menor a las demás
+categorías de actores.
+Es importante tener en cuenta los siguientes puntos respecto de los grupos de interés:
+i. Un actor puede pertenecer a más de uno de estos grupos.
+ii. Los actores no solamente son “locales”, incluyen gobiernos y personas u organizaciones que no
+necesariamente se ubican cerca del sitio de compensación.
+iii. Los actores no solamente son organizaciones y grupos formales, pueden incluir personas, comunidades o
+grupos informales.
+iv. Los actores no solamente son usuarios de los SSEE del sitio de compensación, también pueden ser personas,
+grupos (formales o informales) u organizaciones que tienen un impacto directo o indirecto sobre el sitio de
+compensación.
+43 Renard, Y., 2004. Guidelines for Stakeholder Identification and Analysis: A Manual for Caribbean Natural Resource Managers and Planners.
+Caribbean Natural Resources Institute. ISBN 1-890792-07-1
+44 “Actor” o “grupo de interés” en este documento, se refiere a "cualquier individuo, comunidad, grupo u organización interesada en el resultado
+de un programa, ya sea que resulte afectada positiva o negativamente, o bien por ser capaz de influenciar la actividad o programa de manera
+positiva o negativa"
+51
+
+--- Página 53 ---
+v. Nuevos actores pueden volverse relevantes y actores pasados volverse triviales para el proyecto.
+Este último punto es importante sabiendo que el proyecto de compensación equivalente deberá implementarse a
+largo plazo.
+Para complementar la identificación de actores, y en un ejercicio que permite avanzar en la construcción de la matriz
+interés-poder (presentada más adelante en este documento), se debe intentar responder las siguientes preguntas
+para identificar más actores y evaluar la relevancia de los actores listados hasta este momento:
+i. ¿Quiénes son los beneficiarios o los que utilizan recursos del sitio de compensación?
+ii. ¿Quiénes potencialmente podrían sufrir impactos negativos del proyecto de compensación?
+iii. ¿Quiénes tienen derechos -todos; actuales e históricos, otorgados y en reclamación- sobre los recursos?
+iv. ¿Quiénes tienen la facultad de impactar los recursos o servicios del sitio de compensación?
+v. ¿Quiénes tienden a no ser incluidos en las negociaciones vinculadas al proyecto de compensación?
+vi. ¿Quiénes tienden a presentar resistencia al proyecto?
+vii. ¿Quiénes podrían ser facilitadores del proyecto?
+viii. ¿Quiénes cuentan con recursos financieros, capacidades o de información en relación al sitio y proyecto de
+compensación?
+ix. ¿Quiénes pueden influir en el éxito del proyecto?
+Para contestar estas preguntas se deben realizar observaciones en terreno, conversaciones con actores clave,
+revisiones bibliográficas y de datos disponibles relativos a la experiencia de la compañía en el territorio, entre otros.
+Una vez consolidada una lista de actores, conviene identificar una representación válida para cada parte interesada
+que corresponda a un grupo u organización.
+Mapeo de actores
+Con la lista de actores se puede desarrollar una tabla de mapeo de actores, que permite identificar potenciales
+alianzas e interacciones entre actores que tienen intereses similares (Tabla 13).
+Tabla 13. Ejemplo tabla de mapeo de actores
+Nivel de facilitación u Estrategias para obtener el
+Actor Interés en el proyecto
+obstaculización al proyecto apoyo o reducir la oposición
+Alto nivel de facilitación, es un
+Mantener comunicación
+interlocutor válido a escala
+Actor 1 Beneficiario constante, involucrar en
+local capaz de convencer a
+desarrollo del proyecto.
+otras partes interesadas
+No es beneficiario ni perjudicado, pero tiene
+Invitar a dialogar, buscar
+una vinculación de larga data con el territorio.
+Nivel bajo de obstaculización, soluciones a sus inquietudes,
+No habita el territorio pero si lo visita
+Actor 2 no tiene mayor incidencia en incorporar sus apreciaciones
+frecuentemente con fines recreativos.
+otros actores. dentro del desarrollo del
+Considera que el proyecto puede restringir su
+proyecto.
+acceso al sitio.
+52
+
+--- Página 54 ---
+Matriz de Interés-poder
+Contando con esta lista de actores definida, se debe realizar una matriz de interés-poder. Esta herramienta permite
+visualizar la influencia relativa y el nivel de interés de cada actor, también permite identificar grupos de actores con
+intereses similares y anticipar potenciales alianzas y coaliciones. La generación de coaliciones es especialmente válida
+para actores con poco poder y alto interés en los SSEE y los atributos de biodiversidad del área de compensación, o
+con el proyecto en general.
+El poder de un actor se refiere al grado de influencia que tiene para incidir sobre otros actores, instituciones o
+tomadores de decisión, ejerciendo un peso sobre sus acciones y decisiones.
+El interés de un actor se refiere a la importancia que tiene para ellos la habilidad de ocupar, acceder a o su
+dependencia de los SSEE y/o los atributos de biodiversidad área de compensación, independientemente de si
+disponen efectivamente de esta habilidad en el momento de la evaluación. También se refiere a las ganancias o
+pérdidas que enfrentaría el actor debido a las consecuencias del proyecto de compensación, las cuales son
+directamente vinculadas a la disposición del actor a tomar acción directa 45 .
+Para realizar la matriz de interés-poder, se le asigna un valor en una escala de 1 a 10 (escala cualitativa) al interés y
+poder de cada uno de los actores identificados.
+La evaluación del poder de cada actor puede ser guiada por las siguientes preguntas:
+i. ¿De quién depende el actor?
+ii. ¿Qué actores pertenecen a organizaciones más amplias?
+iii. ¿Quiénes controlan recursos (materiales o inmateriales)?
+iv. ¿Quiénes controlan la información disponible?
+La evaluación del interés de cada actor puede ser guiada por las siguientes preguntas:
+i. ¿El actor tendría una ganancia significativa al tener acceso al área de compensación, los SSEE o recursos en
+cuestión?
+ii. ¿El actor sufriría una perdida significativa al perder acceso al área de compensación, los SSEE o recursos en
+cuestión?
+iii. ¿El actor tiene alguna ganancia o pérdida en caso de éxito o fracaso del proyecto?
+iv. ¿Quiénes son susceptibles de estar a favor o en contra del proyecto?
+Una vez que estos valores son otorgados, es posible catalogar a los actores como clave, primarios o secundarios
+según las definiciones dadas previamente. A su vez, es posible ubicar a los distintos actores en una matriz con el
+grado de poder en el eje vertical y el grado de interés de los actores en el eje horizontal, lo que los posiciona en un
+determinado cuadrante que permite analizar posibles estrategias de relacionamiento con ellos (ver Figura 11).
+45 Mayers, J., 2005. Stakeholder power analysis. Power Tools. International Institute for Environment and Development., (March),
+p.24. Available at: http://www.policy-powertools.org/Tools/Understanding/docs/stakeholder_power_tool_english.pdf.
+53
+
+--- Página 55 ---
+Figura 11. Estructura de la Matriz de Interés o matriz de Mendelow 46 .
+De esta forma, la ubicación de cada actor en la matriz informa el tipo de gestión que se deberá realizar para cada
+actor o grupo de actores: involucrarlos y mantenerlos satisfechos, involucrarlos activamente, informar, y monitorear.
+La estrategia de gestión también puede ser otra que resulte más pertinente al proyecto. A su vez, este ejercicio
+también ayuda a identificar actores que pueda ser de interés movilizar de un cuadrante a otro. Por ejemplo, un grupo
+de mucho poder, pero poco interés, podría ser de interés estratégico el incrementar su interés, de modo que actúe
+como un facilitador del proyecto o que entregue mayores garantías para su éxito.
+Diagrama de actores
+Diagramar a los actores también es otra herramienta útil para visualizar los actores identificados con poder y/o
+interés en un el proyecto. La Figura 12 representa un ejemplo de estructura de diagrama.
+46 Elaboración propia a partir de Mendelow, A., (1991). Stakeholder Mapping. Proceedings of the 2nd International Conference
+on Information Systems. Cambridge, MA , 5 (2), p.61; Project Management Institute. (2017). A guide to the Project Management
+Body of Knowledge (PMBOK guide) (6th ed.). Project Management Institute; Low, Christopher & Cowton, Christopher. (2004).
+Beyond stakeholder engagement: the challenges of stakeholder particpation in corporate governance. International Journal of
+Business Governance and Ethics. 1. 45-55. 10.1504/IJBGE.2004.004896.
+54
+
+--- Página 56 ---
+Figura 12. Ejemplo diagrama de interacción entre actores del sitio de compensación.
+La identificación, el mapeo y el análisis de actores es un paso importante y se debe realizar temprano en un proceso
+de compensación equivalente de biodiversidad. Es importante notar que, dado que cada situación y territorio son
+únicos, los mapeos de actores son herramientas de análisis que permiten entender un contexto particular, por lo que
+cada mapeo puede ser actualizado constantemente a medida que se van incorporando o retirando actores con poder
+y/o interés en el proyecto.
+Por último, este proceso de mapeo también puede constituir una herramienta de monitoreo del cambio del contexto,
+permitiendo la identificación de problemas emergentes. Contar con el mapeo de actores también informa el proceso
+de involucramiento de grupos de interés en los proyectos, priorizando ciertos actores para la recibir
+retroalimentación y anticipando potenciales conflictos.
+55
+
+--- Página 57 ---
+7 M ETODOLOGÍAS PARA LA DEFINICIÓN Y CARACTERIZACIÓN DE LOS OBJETOS DE
+CONSERVACIÓN DE CADA ALTERNATIVA DE COMPENSACIÓN
+7.1 OBJETOS DE CONSERVACIÓN
+Los objetos de conservación se definen en dos escalas: (a) macro, tipo de ecosistemas (bofedal equivalente u otros
+IBEs), y servicios ecosistémicos; (b) micro, especies (estados de amenaza). Cada objeto de conservación en cada
+unidad de planificación se expresa en función de su área.
+7.1.1 Indicadores a nivel ecosistémico
+Se analizarán los bofedales equivalentes y otros IBEs identificados dentro de los EBM de CMCC. Cada unidad debe
+estar caracterizada en términos de su biodiversidad para poder ser incluida en el modelo de decisión, además de
+atributos físicos, geográficos, ecosistémicos, etc. Sus atributos más relevantes son aquellos que se utilizan para el
+cálculo de ganancia neta de biodiversidad (sensu SEA 2022).
+En términos ecológicos, se ha demostrado que una mayor riqueza de especies o diversidad taxonómica (TD) aumenta
+la estabilidad de las comunidades frente a las perturbaciones (Grman et al., 2010). Sin embargo, esta métrica
+considera a todas las especies como evolutivamente independientes y funcionalmente equivalentes, ignorando así
+el hecho de que la pérdida de ciertas especies puede tener un mayor impacto en el legado evolutivo y en el
+funcionamiento del ecosistema (Faith, 1992; Tilman, 2001; Petchey y Gaston, 2006; Swenson, 2011; Pellens y
+Grandcolas, 2016; Mammola et al., 2020, Cadotte et al., 2018). Para abordar estas limitaciones, se han incorporado
+métricas que describen otras dimensiones de diversidad, tales como la diversidad filogenética (PD) y funcional (FD)
+(Faith, 1992; Webb et al., 2002; Petchey y Gaston, 2006). Específicamente se propone la utilización de las siete
+“Variables Objeto de Compensación” (VOC), que corresponden a indicadores de biodiversidad que permite
+caracterizar detalladamente cada ecosistema de las distintas alternativas de compensación, y así poder seleccionar
+la mejor alternativa. Los indicadores acá propuestos son indicativos, y será el equipo de implementación quienes
+deberán definir cuales utilizar, de acuerdo con la información disponible.
+7.1.1.1 Diversidad taxonómica (TD)
+La métrica más utilizada de diversidad α es la riqueza taxonómica ( TD ), la cual corresponde al recuento del número
+de especies diferentes en un área determinada, y se puede expresar como la suma del taxón t en cada cuadrante de
+ubicación i y j (Laffan et al., 2008). Este índice será medido a nivel de especie.
+𝑇𝐷 = $ 𝑡 (Ecuación 6)
+!"
+#∈%!∪%"
+Donde:
+t = taxón de cada cuadrante de ubicación i y j.
+7.1.1.2 Diversidad Filogenética (PD)
+56
+
+--- Página 58 ---
+Es el equivalente filogenético de TD, y se define como la suma de las longitudes de rama encontradas en el cuadrante
+de ubicación i y j , donde las ramas son la ruta mínima que conecta a tales taxa con el antecesor común más reciente.
+Si en un cuadrante están presentes todos los taxa, la PD será la suma de todas las longitudes de rama (Faith, 1992;
+Rosauer et al., 2009). Valores comparativamente más altos indican una mayor divergencia filogenética local.
+𝑃𝐷 = $ 𝐿𝜆
+!" (Ecuación 7)
+'∈(!∪("
+Donde:
+L = Longitud de la rama de ruta mínima entre los taxa de ubicación i y j y su antecesor común más reciente;
+λ = conjunto de ramas encontradas en el conjunto de ubicaciones de i y j .
+7.1.1.3 Diversidad Funcional (FD)
+La diversidad funcional (FD), expresada en términos del índice FD , se estimará mediante el análisis del dendrograma
+de rasgos, sumando la longitud de las ramas de un dendrograma funcional elaborado a través de un análisis de
+conglomerados. Por lo tanto, mide el grado de las relaciones funcionales compartidas por las especies en una
+comunidad (Petchey y Gaston, 2006). Valores comparativamente más altos indican una mayor divergencia funcional
+local.
+𝐹𝐷 = $ 𝐿𝜆
+!" (Ecuación 8)
+'∈(!∪("
+Donde:
+L = Longitud de la rama de ruta mínima entre los taxa de ubicación i y j y su antecesor común más reciente;
+λ = conjunto de ramas encontradas en el conjunto de ubicaciones de i y j .
+7.1.1.4 Endemismo Taxonómico (WE)
+Para la estimación del endemismo taxonómico se utilizará el índice de endemismo ponderado ( WE ), el cual se define
+como la distribución del endemismo en un espacio geográfico compuesto por celdas u otras unidades de
+comparación (Williams et al., 1996; Linder, 2001), donde valores altos de este índice indicarían centros de
+endemismo.
+1
+𝑊𝐸 = $ ( ) (Ecuación 9)
+!" 𝐶𝑖
+∈(!∪("
+Donde:
+Ci = número de unidades o celdas en las cuales se encuentra el taxón i .
+7.1.1.5 Endemismo Filogenético (PE)
+57
+
+--- Página 59 ---
+Para identificar patrones geográficos de endemismo filogenético (predominio de linajes evolutivos restringidos a una
+región específica), se utilizará el índice de endemismo filogenético ( PE ) descrito por Rosauer et al., 2009. Valores
+altos cercanos a 1 indicarían centros de linajes evolutivos endémicos.
+𝐿𝑐
+𝑃𝐸 = $ 2 5 (Ecuación 10)
+!" 𝑅𝑐
+∈(!∪("
+Donde:
+Lc = longitud del largo de la rama con relación a una filogenia;
+Rc = área de distribución para cada clado.
+7.1.1.6 Endemismo Funcional (FE)
+Los patrones geográficos de endemismo funcional (predominio de especies que poseen conjuntos rasgos funcionales
+particulares a una región específica), se utilizará el índice de Endemismo Funcional (FE). Donde los valores altos
+cercanos a 1 indicarían centros de especies con conjuntos rasgos funcionales particulares a una región específica
+(Poch, 2022).
+𝐿𝑐 (Ecuación 11)
+𝐹𝐸 = $ 2 5
+!" 𝑅𝑐
+∈(!∪("
+Donde:
+Lc = longitud de la rama con relación al dendrograma de rasgos UPGMA;
+Rc = área de distribución para cada clado funcional.
+7.1.2 Indicadores funcionales
+7.1.2.1 Condición de la vegetación (sanitaria)
+Los índices espectrales de vegetación como estimadores de la producción primaria anual, proporciona una medida
+directa de la capacidad de una formación vegetacional para mantener la productividad a pesar del estrés hídrico
+relativamente alto.
+En particular para la evaluar las formaciones vegetacionales establecidas en ecosistemas áridos, como lo son los
+bofedales altoandinos, se recomienda la utilización del Índice de Vegetación Ajustado al Suelo (SAVI), el cual es un
+índice de vegetación derivado del NDVI, cuya intención es incluir las variaciones radiométricas que induce la
+presencia de zonas con escasa cobertura vegetal, como las que se dan en ambientes semiáridos.
+Una vez terminada la etapa de preselección de áreas y análisis e identificación (bofedales equivalentes y oasis de
+neblina), estas se mapean en los EBM y se definen unidades de planificación (UP). Las regiones de Tarapacá y
+Antofagasta se dividirán en UPs hexagonales de 25 km 2 , aunque se recomienda usar UP de menor superficie.
+7.1.2.2 Servicios Ecosistémicos
+58
+
+--- Página 60 ---
+Los servicios ecosistémicos serán abordados íntegramente mediante una identificación participativa 47 , donde uno de
+los servicios a evaluar, corresponde a priori a los usos culturales de las especies. Se establecerán metas que tomarán
+en cuenta el número de usos de las especies. Se generará un índice ponderado donde se dará prioridad a las especies
+con un mayor número de usos en el proceso de optimización del modelo. La recopilación de información sobre los
+usos de las especies se llevará a cabo a través de una exhaustiva revisión de la literatura, así como mediante la
+realización de entrevistas a residentes locales, líderes comunitarios, científicos, entre otros.
+7.1.3 Indicadores a nivel de especie
+7.1.3.1 Estados de Conservación
+Para obtener los estados de conservación de las especies se propone utilizar la información oficial basada en el
+Proceso Nacional de Clasificación de Especies Amenazadas (DS/MMA, 2007-2023). Pero debido a que este proceso
+aún está en curso será necesario complementar con análisis semi-automáticos de estados de conservación basados
+en el criterio B de las UICN a través de softwares, como por ejemplo la librería conR disponible para R (Daubi et al.,
+2017).
+Se aplicará un factor de penalización a las especies (“SPF”) en función de sus estados de conservación donde especies
+con mayor nivel de amenaza tienen un valor alto de SPF, y las especies de menor preocupación tienen un valor bajo
+de SPF. La calibración de los pesos específicos de penalización debe ajustarse usando análisis de sensibilidad (Duarte
+et al., 2014), mediante softwares, como Zonae Cogito (Segan et al., 2011).
+7.1.3.2 Áreas de ocupación
+El objetivo de representación para cada especie se define a partir del área de ocupación. Los umbrales deben
+ajustarse de acuerdo con las características de las especies estudiadas. Algunos umbrales objetivo comúnmente
+usados son el 100% de la distribución de cada especie con un área de ocupación inferior a 500 km 2 , el 20% de la
+distribución de cada especie con un área de ocupación superior a 125.000 km 2 y el 20-100% de la distribución de
+cada especie con un área de ocupación superior a 125.000 km 2 (Wilson et al., 2005). Para inferir la ocupación se
+realizará una compilación exhaustiva de ocurrencias provenientes de literatura, herbarios y prospecciones en terreno
+en las KBAs. Se realizarán matrices de presencia y ausencia, y se utilizarán Modelos de Distribución de Especies
+(SDMs). Estos análisis de SDMs se pueden realizar utilizando diferentes softwares disponibles, se recomienda el uso
+de la librería "BIOMOD2" para R (Thuiller et al., 2016).
+7.1.3.3 Resiliencia Climática
+Para evaluar el impacto del cambio climático, se emplearán Modelos de Distribución de Especies (SDMs) para analizar
+la distribución potencial de las especies y proyectarla en escenarios futuros de cambio climático en softwares como
+la librería "BIOMOD2" para R (Thuiller et al., 2016). Los modelos proyectados en escenarios de cambio climático
+brindarán una aproximación de cómo podrían cambiar las áreas de ocupación de las distintas especies en el futuro,
+y podemos evaluar este efecto en el diseño de red de conservación. Los análisis de PSC se realizarán considerando
+las áreas de ocupación actuales (“b. Área de ocupación”), comparado con diferentes escenarios de conservación bajo
+modelos predictivos de cambio climático, con el fin de evaluar la resiliencia de las especies al cambio climático.
+47 Solicitar nota técnica de identificación participativa de servicios ecosistémicos a Medio Ambiente Regional.
+59
+
+--- Página 61 ---
+7.1.3.4 Distintividad evolutiva
+Esta variable puede ser estimada mediante el índice w-May y el índice de Faith (May 1990; Faith 1992; Duarte et al.,
+2014). Para ello, se debe generar una filogenia molecular para las especies de plantas vasculares que se encuentran
+en las KBAs. Para ello se sugiere utilizar búsquedas en Genbank a través de sistemas semi-automáticos como la
+librería phruta de R (Román-Palacios, 2023). Luego complementado con la obtención de muestras frescas de plantas
+mediante trabajo de terreno con el objetivo de secuenciar especies faltantes y completar los vacíos de información
+de Genbank. Una vez obtenida las secuencias se propone generar un árbol de consenso obtenido mediante inferencia
+Bayesiana. Para obtener el índice w-May se aplica la función “tax. Distinctiveness” disponible en el paquete Picante
+(Kembel et al., 2010) en R 2.14.0 (R Development Core Team, 2009). El índice w-May se convierte en un porcentaje
+que varía entre el 0% y el 100% de la distribución de la especie, y este porcentaje se define como el objetivo de
+ocurrencia características (Duarte et al., 2014).
+60
+
+--- Página 62 ---
+8 A NEXO 1 – R EVISIÓN H ISTÓRICA DE A NTECEDENTES
+8.1 C ONC L US I ONE S DE L AS AUDI T OR Í A S AL P L AN DE M ANE J O DE 2016 Y 2023
+Recomendaciones
+generales de la
+Marco principal Mejoras, debilidades y recomendaciones formuladas en la Revisión externa
+Revisión externa Recomendaciones específicas
+de la Independiente de la Implementación del Plan de Manejo de Lagunillas de
+Independiente del (2016)
+recomendación Marzo 2023
+Plan de Manejo de
+Lagunillas de 2016
+Hay falencias de conocimiento de varos aspectos del ecosistema que no
+permiten anticipar futuros impactos negativos (uso del bofedal por la
+comunidad) que podrían afectar su recuperación.
+La información está bastante fragmentada en general. Falta integración de
+los datos para generar mejoras en las futuras actualizaciones del plan de
+Centralizar y sistematizar la manejo.
+información en carpetas La presentación de resultados es a veces incompleta (en el informe de Plan
+Consolidar la específicas, corregir de Manejo de Funciones Ecosistémicas del Sistema Lacustre de Lagunillas),
+información variabilidad en el nivel de por ejemplo, faltan evoluciones temporales en evapotranspiraciones y un
+Integración de la disponible y los detalle de la información análisis por cobertura de suelo. Tampoco se presenta la ubicación de puntos
+información datos asociados al Asegurarse de que toda la de evapotranspiración a monitorear en el informe 2021.
+Plan de Manejo información de monitoreo este La información no siempre se presenta de manera clara y hay ciertos vacíos
+Ecosistémico presentada e analizada para su de información, (fechas de recuperación estimadas, no hay registro de los
+integración en los reportes e niveles observados en 2001 para ciertos pozos)
+informes Sistematizar y actualizar planillas (periodos de calibración, niveles de
+referencia...)
+Consolidar toda la información del Plan y sus Actualizaciones en 1 solo
+documento.
+Fomentar la sistematización del análisis estadístico y de tendencias
+históricas.
+La metodología de domos está bien documentada y es adecuada para
+Robustecer * evapotranspiración , con mediciones puntuales, y el monitoreo de la evapotranspiración en estos
+Metodología y métodos de métodos de escalas amplías puntos es exitoso.
+herramientas evaluación y que los domos: Covarianza de Falta evaluar la evapotranspiración a mayor escala
+monitoreo vórtices o escintilómetro Para mejorar la detección de cambios no deseados, necesidad de
+complementar el método de domos con:
+
+--- Página 63 ---
+- Información de niveles piezométricos del acuífero somero
+- Series horarias de evaporación potencial (definir impacto de condiciones
+meteorológicas)
+- Integración de datos históricos para mejorar la probabilidad de detección
+de cambios
+- método de “Eddy Covariance” o Escintilometría
+Se presentaron informes trimestrales de aguas fon flujos bombeados, y los
+*para niveles freáticos , con niveles cumplieron con la RCA (13/2022) de caudal total de extracción
+predicción de caudal, operacional inferior a 83 L/s, con un volumen de extracción en los límites
+evaluación de propiedades otorgados.
+hidráulicas, mejorar la No se cumplió el compromiso de cambiar el punto de extracción desde el
+caracterización de aguas pozo P3 a un pozo PR a partir de 2022 (a la fecha aún se extrae agua por P3),
+subterráneas. y no se informa el caudal medio mensual extraído por el pozo PR para el SRA
+(solo el caudal instantáneo)
+El Plan (actualización 2021) cumple con requisitos (res 67/11) de mantención
+de un 70% de cobertura de especies propias del bofedal.
+Se usan imágenes Satelitales desde 2008 y distintos índices de actividad de la
+vegetación (MSAVI, NDVI)
+*para Cobertura vegetal : El MSAVI este indice minimiza el efecto del suelo desnudo en el Indice de
+Método de punto intercepto Vegetación. Ciertos informes no mencionan este análisis. El cambio de indice
+para la cobertura de especies / entre los informes genera discontinuidad en los análisis y prohíbe
+Uso de imágenes satelitales comparaciones. Se omiten informaciones en ciertos reportes.
+(LANDSAT TM, índice MSAVI) Las mediciones de intercambio de gases permiten evaluar el desempeño
+fisiológico de las plantas puntualmente y bajo condiciones específicas
+Pero estas mediciones son contexto-dependientes, no se señala cómo se
+seleccionan los sitios de medida de la fotosíntesis, este método no permite
+tener una visión ecosistémica o holística
+El Plan (actualización 2021) mide la disponibilidad de nutrientes en el agua
+Pero no mide la productividad ni la herbívora sobre la producción de
+*Considerar métodos más
+macrófitos y microalgas,
+directos para evaluar el
+La función ecosistémica de secuestro de carbono no se mide.
+desempeño fisiológico de las
+CMCC solicitó en 2006 monitorear la calidad del agua, pero no se indica cuál
+plantas
+es el nivel de variación de calidad del agua aceptable, cómo este se medirá y
+si estos parámetros tienen impacto sobre la vegetación
+62
+
+--- Página 64 ---
+en las instancias de monitoreo,
+evaluación, definición del Incorporar en informes las referencias literarias que justifican las
+ecosistema de referencia y actualizaciones de los modelos (ej: Clasificación de acuíferos según
+Metodología y Justificar los generación de modelos Struckmeyer y Margat).
+herramientas métodos usados conceptuales y numéricos. En general, se necesita comparar los métodos alternativos usados y la
+Especificar en los informes información histórica para integrar y resolver la sobreposición entre
+eventuales modificaciones metodologías en uso (Ej: Fotografía área no tripulada e imágenes satelitales)-
+aportadas a los métodos
+Los cambios en métodos de análisis de la información dificultan las
+comparaciones en el tiempo.
+En ciertas ocasiones, falta reportar los cambios metodológicos efectuados.
+Para sistematizar los métodos
+Necesidad de asegurar el alineamiento de los métodos usados en el análisis
+Comunicación y escalas de monitoreo, su
+Integración de la de Lagunillas con los métodos pedidos por la RCA.
+entre equipos de formato de entrega y sus
+información Falta formalización de procedimientos de gestión, sistematización de análisis
+monitoreo metodologías de análisis e
+críticos y de capacidades en el equipo ambiental
+interpretación
+Necesidad de un equipo ambiental con mayores capacidades de análisis e
+integración de la información para garantizar la factibilidad de la
+implementación del Plan.
+Analizar e
+Integración de la interpretar los Con métodos estandarizados y
+Faltan análisis de tendencias cronológicas en: Riqueza, abundancia, NDVI.
+información datos robustos
+sistemáticamente
+Revisar literatura y encontrar
+Complementar las
+estudios de sitios con
+actividades de
+Metodología y características similares o
+restauración con NA
+herramientas experimentos exitosos de
+experiencia
+acciones de conservación con
+internacional
+objetivos similares
+Modelo Hidrogeológico
+actualizaciones del modelo hidrogeológico fueron generadas en 2019, 2020 y
+2021 pero no en el mes de Julio que fue el mes comprometido y faltó la
+Para numéricos y conceptuales,
+actualización del 2022. Se aportaron mejoras como redefinición de las
+realizar medidas en terreno, o
+Metodología y Validar y calibrar unidades hidrogeológicas, con un modelo hidrológico semi-distribuido para
+procesos de "ground truthing"
+herramientas los modelos estimar la recarga (integrando temperatura, precipitación,
+para verificar la validez de las
+evapotranspiración potencial). El modelo fue calibrado con información de la
+simulaciones en la realidad .
+cuenca vecina, lo que dio valores coherentes de permeabilidad y
+almacenamiento, y un error adecuado del modelo en general.
+No se han generado las validaciones de los modelos numéricos con los
+63
+
+--- Página 65 ---
+niveles observados de años anteriores.
+a pesar de los requerimientos de la RCA, no se validó el modelo numérico de
+2021 con 30% de la información disponible.
+Hay zonas dónde todavía se necesita afinar la calibración, los niveles
+profundos y someros del acuífero todavía no se ajustan a los valores
+observados en todas las zonas
+Se recomienda validar los modelos numéricos y presentar los niveles
+observados, (evaporación, caudal, sublimación...) comparándolos con los
+descensos máximos fijados en la RCA (67/2011).
+Hay buen uso de las pruebas de bombeo en el área para estimar la
+infiltración y conductividad hidráulica.
+Agregar al modelo las pruebas de bombeo en las áreas que faltan (bordes
+sur, sureste, norte).
+Se realizó en 2021 un análisis de sensibilidad de la conductividad hidráulica,
+almacenamiento de la unidad de depósitos aluviales y recarga global para
+estimar los errores del método, lo que permitió validar la calibración del
+modelo. La incorporación de pilot points (44) permitió mejorar la precisión
+del modelo.
+Las propiedades hidráulicas en los bordes de la cuenca no coinciden con el
+modelo conceptual porque el modelo desconecta las cuencas de Lirima y
+Collacagua de Lagunillas. (diferencias de permeabilidad), en consecuencia,
+zonas saturadas de resistividad baja no fueron incorporadas en el modelo
+numérico (Ej: borde norte)
+Falta mejorar el ajuste de algunos pozos, (sectores Laguna y LA-02, Río
+Lacho, zona bordeando la cuenca de Collagua) dónde los niveles simulados
+están subestimados, o hay diferencias entre tendencias simuladas y
+observadas.
+Se garantizó la disponibilidad de agua para el SRA , y se estableció un
+Integrar la información sobre sistema de control de volumen de agua utilizada para el SRA. CMCC también
+Sistema de
+el bofedal artificial y el pozo en certificó la veracidad de la información entregada.
+Recarga Artificial
+la monografía o el documento Falta validar los datos de los pozos relacionados al SRA con métodos
+(SRA): Enfatizar la
+de síntesis para integrarla al alternativos como pozómetros manuales.
+Integración de la existencia del
+Plan de Manejo para sacar El caudal de extracción máximos para el SRA ha sido respetado entre julio y
+información bofedal artificial
+conclusiones en cuanto a la Septiembre 2022 (Inferior a 25 L/s)
+asociado al pozo
+situación post-cierre y el Se señala que hay una recarga superficial que no proviene del acuífero del
+artesiano de
+término de las actividades de campo de pozos, pero no se analiza si el SRA aporta agua con algunos
+Lirima.
+recarga artificial e irrigación elementos químicos que no son adecuados por el bofedal ni si esto afecta los
+pronósticos de recuperación del bofedal.
+64
+
+--- Página 66 ---
+Producir publicaciones
+evaluadas por pares que
+Integración de la Generación de una contenga al menos la
+NA
+información monografía o libro información y los datos
+integrados justificando el plan
+de manejo
+Tras su validación,
+disponibilizar la información,
+Integración de la haciéndola accesible y definir
+Comunicar y
+información / un plan de difusión de la No se comunican con claridad las fechas de recuperación de los niveles de
+difundir la
+Metodología y información del plan de 2001
+información
+herramientas manejo de manera
+transparente con hitos
+relevantes.
+Mejora del
+entendimiento de
+ciertas variables e Generar conocimiento sobre Se hizo seguimiento al flujo de vertientes, evapotranspiración, humedad del
+Integración de la
+Identificación de tendencias pasadas y futuras suelo, nivel de agua subterránea y superficie de la laguna.
+información /
+tendencias en las (dinámicas poblacionales, Se recomienda presentar la totalidad de los datos históricos en los informes
+Mirada funcional
+variables procesos ecológicos…) para detectar los cambios no deseados
+ecosistémicas
+estudiadas
+El Plan (actualización 2021) señala su ambición de medir la recuperación de
+funciones ecosistémicas, pero no define las funciones ecosistémicas en
+Integrar en los cuestión.
+modelos No se integra la información sobre los nutrientes en contextos de funciones
+*entre biodiversidad y
+conceptuales los ecosistémicas.
+Integración de la funciones ecosistémicas:
+vínculos entre Integrar los datos de fotosíntesis y evapotranspiración en un modelo para
+información / Definir el rol de cada especie
+distintas variables , una visión más completa de los cambios en el ciclo de agua y carbono
+Mirada funcional en las dinámicas ecosistémicas
+componentes y (usando un Sistema de Covarianza de Eddy) Lo que permitirá luego
+y destacar especies indicadoras
+funciones correlacionar la tasa de intercambio de CO2 con las mediciones puntuales
+ecosistémicas para generar un balance ecosistémico del uso de carbono y agua y relacionar
+estos flujos con variables ambientales (disponibilidad de agua, cobertura
+vegetal)
+65
+
+--- Página 67 ---
+Se declara que el Plan de Manejo 2021 tendrá un enfoque integrado,
+asociando distintas variables ambientales, pero el modelo ecosistémico es
+un modelo cerrado no incluye la cuenca (sólo toma en cuenta el movimiento
+*Asociar variables bióticas y de aguas desde el acuífero subterráneo al bofedal y la laguna)
+abióticas Para la modelización de las interrelaciones entre el acuífero el bofedal y la
+laguna que sostienen flujos de nutrientes y cadenas tróficas, no se definen
+claramente umbrales de respuesta biogeoquímicos, ni cómo se miden ni
+cómo se simulan.
+El plan (actualización 2021) señala un aporte de nutrientes y carbono desde
+*Explicitar el rol de nutrientes
+el bofedal hacía la laguna
+y carbono en la dinámica
+No mide estas conexiones funcionales. Faltan conocimientos sobre el
+ecosistémica
+impacto del movimiento de nutrientes sobre la productividad del ecosistema
+Globalmente el punto no fue resuelto.
+Se generaron investigaciones de terreno (geofísica, geología, perforaciones,
+monitoreo de niveles de gradientes. Se incorporó "upstream Weighting" al
+modelo actualizado (2021) para tomar en cuenta las celdas secas.
+No se generó un modelo numérico local de aguas subterráneas de la zona. El
+modelo numérico más actualizado (2021) no simula precisamente los niveles
+*Modelo hidrogeológico: de agua subterránea de los acuíferos ni el funcionamiento de la laguna. No
+Integrar la relación entre agua se han incorporado al modelo hidrogeológico los niveles y superficies de la
+superficial y agua subterránea laguna Huantija Faltan datos recientes de la estación meteorológica (P3)
+en el modelo hidrogeológico. (para estimar evapotranspiración potencial a partir de datos meteorológicos)
+Usar modelos continuos Mejorar la calibración del sector Humedal-laguna y representar de mejor
+(método pilot points) para manera los procesos hidrológicos superficiales (incorporando la laguna y
+modelizar los recursos hídricos. considerando el la interacción de de la zona no saturada y aguas
+Mejorar el conocimiento de las superficiales con vertientes y quebradas, con paquetes LAK y Streamflow).
+propiedades de infiltración del monitorear diferentes variables meteorológicas usando los datos de la
+suelo y potenciales fuentes estación meteorológica.
+externas de recarga o descarga Se usa in modelo continuo desde 2021 integrando variables de precipitación,
+y su impacto sobre la humedad temperatura, y evaporación diarias, considerando evaporación real,
+del suelo. escurrimiento infiltración y almacenamiento con calibración en la cuenca del
+Huasco.
+Queda pendiente validar los resultados in situ.
+Se incorporó un método con pilot points al ajuste 2021, que generó un buen
+ajuste de tendencias. Permitió relejar bastante bien las tazas de descenso en
+ciertos pozos.
+Se desconoce la presencia de conexiones hidrogeológicas con las cuencas
+66
+
+--- Página 68 ---
+vecinas.
+Revisar la calibración por zona, para mejorar la capacidad de predicción del
+modelo
+Realizar un análisis de sensibilidad de las conexiones con otras cuencas para
+evaluar conexiones con cuencas vecinas (especialmente en estratos de
+mayores profundidades y zonas de mayores conductividades hidráulicas en
+el borde del bofedal) para entender mejor los flujos entre cuencas y su
+impacto en el balance de Lagunillas
+Realizar un análisis de las pruebas de bombeo y un estudio hidrogeoquímico
+de las zonas de conexión para definir la naturaleza de los acuíferos
+(confinados, libres, semiconfinados) y la presencia de zonas de recarga o
+bordes impermeables y determinar el origen de las aguas y conexiones
+hidrogeológicas.
+El análisis actual de descarga no incorpora zonas de bofedal y deja de lado
+ciertas zonas con importante evaporación (zonas de suelo húmedo dónde la
+evaporación supera la evapotranspiración del bofedal), esto genera
+incertidumbre en el balance hídrico.
+Considerar la influencia del nivel de la napa del acuífero sobre la evaporación
+real y potencial. Para eso, realizar estimaciones de evaporación a partir de
+curvas normalizadas dependientes de la cobertura y de la profundidad de la
+napa.
+Evaluar la salinidad de la laguna y su influencia en la evaporación.
+El balance Hídrico de la zona debe considerar la piezometría (en la
+estimación de los flujos de evaporación).
+y generar modelos predictivos
+de la relación humedad
+vegetación pastoreo para Para cumplir con la RCA (13/2022) Se revisaron escenarios de recuperación
+reforzar la resiliencia del plan. con:
+Investigar en profundidad y - 1. Sin cambio climático, sin medidas preventivas
+Realizar un estudio con base teórica la capacidad - 2. Con cambio climático y con medidas preventivas
+Mirada funcional de la resiliencia del de adaptación y tolerancia - 3. Con cambio climático y Sin medidas preventivas
+sistema fisiológica de las especies del 2 pozos no cumplen con el requisito de recuperación prescrito en la RCA con
+bofedal. el escenario 3
+Esto requiere un rediseño 1 pozo no cumple con el requisito de recuperación prescrito en la RCA con el
+estudios ecofisiológicos con escenario 2
+salidas a terreno, análisis de
+laboratorio e integración de la
+67
+
+--- Página 69 ---
+información sobre las especies
+clave
+y su efecto sobre los ostros Se incorporó el cambio climático global en la actualización del modelo
+elementos del ecosistema hidrogeológico numérico de 2021 (usando datos históricos del CR2MET y
+(agua, especies, suelo…) proyecciones de temperatura y precipitación (DGA 2017)). Se corrigió el
+Integración de la
+Tomar en cuenta el Diferenciar fluctuaciones sesgo y se escaló estadísticamente.
+información /
+cambio climático debidas a procesos climáticos Solamente se consideró uno de los 4 modelos disponibles para incluir las
+Mirada funcional
+regionales y las causadas por proyecciones climáticas (CCSM4) que no es el más conservador.
+fenómenos locales o Realizar un análisis de sensibilidad de la recarga y del modelo con los 4
+antropogénicos. modelos de cambio climático y usar el grupo de modelos CMIP6
+En base a una estimación del
+estado pre-impacto establecer
+un modelo de ecosistema de
+Construir un referencia o encontrar y tomar
+No se indica cuál es la fecha de referencia en el año 2001 para el estándar de
+sistema de en cuenta un ecosistema con
+recuperación, y si el nivel esperado de recuperación fue fijado en base a un
+Mirada funcional referencia o características similares al del
+nivel 2001 observado o simulado (y por qué modelo).
+ecosistema bofedal de Lagunillas pero que
+Aclarar en los informes de actualización los valores de referencia de 2001.
+objetivo no haya sido intervenido (si
+existe), con un plan de
+monitoreo sistemático de
+variables clave
+Los niveles de descenso máximo del acuífero fijados por CMCC son distintos
+(inferiores) a los fijados por la RCA (67/2011), por lo que el cálculo del
+descenso es distinto en los monitoreos y en la RCA. En el caso del sistema de
+alerta temprana, los niveles de descenso de referencia son más exigentes en
+Robustecer el la RCA. Según los monitoreos, los niveles de varios pozos están bajo el nivel
+Metodología y Contando con una herramienta
+sistema de alerta límite de descenso máximo de la RCA desde 2019.
+herramientas de manejo adaptativo
+temprana (SAT) Usar los mismos niveles de referencia en el Plan que los propuestos por la
+RCA.
+Cuando los niveles de descenso bajan más allá del máximo fijado por la RCA,
+se debe reducir a 50% (75L /s) la extracción total de aguas subterráneas y se
+debe reducir a 30% (45L /s) si el sobrepaso persiste más de 6 meses.
+68
+
+--- Página 70 ---
+Poner prioridad al diagnóstico y reemplazo de punteras que no pudieron
+generar datos entre 2018 y 2022.
+Explicitar el uso de
+metodologías de Para asegurar una toma de No se monitorearon los niveles piezométricos en las punteras del sistema
+identificación e decisión informada. Lacustre Lagunillas entre abril 2018 y febrero 2022 porque la comunidad de
+involucramiento de El éxito de la restauración Cancosa impidió el paso. El monitoreo se reestableció desde 02.2022 pero
+Metodología y
+stakeholders en el depende de la aceptación del solamente en 2 de las 9 punteras.
+herramientas
+diseño y la plan por la autoridad ambiental Eso también impidió el monitoreo de evapotranspiración en el humedal de
+implementación de y la comunidad local (y otros Lagunillas.
+la estrategia de stakeholders eventuales) Dar prioridad a esta actividad y retomar el monitoreo
+compensación.
+69
+
+--- Página 71 ---
+9 A NEXO 3 -V ARIABLES MONITOREADAS HISTÓRICAMENTE EN L AGUNILLAS
+Tabla 14. Criterios Climáticos-Hidrológicos y Biológicos del bofedal Lagunillas medidos previo el impacto ambiental hasta la actualidad
+Componente Variable Descripción Observación Registros previos a 1994 Registros actuales Referencia
+Carrasco et al.,
+En Estudios Ambientales realizados por 1993; 1994; 1995;
+Universidad Arturo Prat desde el año 2010; 2021;
+1993, 1994 y 1995 registran el pH del CENIMA, 2006;
+El valor debería ser
+pH del agua agua. En los Informes de Cuenca Desde 1993 Hasta año 2021 2007; 2008; 2009;
+pH 7-8.
+Lagunillas Agua y Biótico para los Periodos 2010; 2011; 2012;
+2006-2021(CMCC, 2006-2021), también se 2013; 2014; 2015;
+registran estos parámetros. 2016; 2017; 2019;
+2019; 2020; 2021.
+En Estudios Ambientales realizados por Carrasco et al.,
+Universidad Arturo Prat desde el año 1993; 1994; 1995;
+1993, 1994 registran calidad de agua y 2010; 2021;
+Exposición a
+Climático/ concentración de elementos CENIMA, 2006;
+Calidad del elementos tóxicos
+Hidrológico (Temperatura y química del agua). En los Desde 1993 Hasta año 2021 2007; 2008; 2009;
+agua como As, B, Fe y Al en
+Informes de Cuenca Lagunillas Agua y 2010; 2011; 2012;
+el agua
+Biótico para los Periodos 2006- 2013; 2014; 2015;
+2021(CMCC, 2006-2021), también se 2016; 2017; 2019;
+registran estos parámetros. 2019; 2020; 2021.
+Scheihing y Tröge (2018) registraron un
+fenómeno de cambio climático a escala
+Temperaturas
+Registros Históricos local en la cuenca Lagunillas, esto es
+de la
+de temperatura debido a una caída del nivel freático por Scheihing y Tröger,
+superficie del Desde 1993 Hasta año 2012
+superficial del suelo y debajo de la profundidad de extinción del 2018.
+aire y
+aire relacionados (°C) potencial de energía evaporativa de ~2 m
+terrestre(°C)
+bgl. Datos obtenidos desde 1984 hasta
+2012, mediante imágenes Aster y Landsat.
+Paisaje Medición in situ de fotosíntesis en Desde 2008 hasta el 2019 en el bofedal de
+Actividad
+especies claves (por ejemplo, Deyeuxia Lagunillas, se realiza un monitoreo de las
+Fotosintética
+curvula y Oxychloe andina ) condiciones ecofisiológicas de especies
+claves de la vegetación azonal del sistema.
+Junto con la realización de las mediciones
+Biológico de fotosíntesis, se registra de manera Desde 2008 Hasta 2019
+simultánea los parámetros ambientales
+como la temperatura del aire ( o C),
+humedad relativa (%) y radiación
+fotosintéticamente activa en el ambiente
+(umol m-2 s-1), los cuales permiten
+
+--- Página 72 ---
+identificar las condiciones ambientales
+predominantes durante el período de
+mediciones.
+Para la generación de la serie de tiempo
+histórica se utilizaron las imágenes de
+reflectancia superficial disponibles de la
+misión LANDSAT 5, 7 y 8, entre los años
+Análisis de la
+1985 y 2022. A partir de esas imágenes se
+Índices de Vegetación Mediante
+construyeron series de tiempo de las Desde 1985 Hasta 2022 FCH, 2022
+vegetación el uso de Imágenes
+variables vigorosidad de vegetación
+Satelitales (NDVI)
+(NDVI) y área de cuerpos de agua
+(mediante clasificación de índice de agua,
+NDWI>0), y con ello se calcularon los
+estadísticos descriptivos de la serie.
+En Estudios Ambientales realizados por
+Universidad Arturo Prat (UAP) desde el
+año 1993 hasta 1995 en Pampa Lagunillas
+se establece como especie dominante a
+Oxychloe andina , sin embargo, las
+especies acompañantes son descritas
+hasta nivel de género. En 1994 UAP
+realizó la colecta de muestras, pero no se
+Composición de Flora en ambientes zonal,
+Ecosistema Composición identificaron, y quedaron para la Desde 1993 Hasta 2021
+transicional y azonal (bofedal)
+conformación de herbario. En 1995 se
+registra la composición de la flora y
+cobertura. En los Informes de Cuenca
+Lagunillas Agua y Biótico para los Periodos
+2006-2021(CMCC, 2006-2021), se
+presenta una mayor descripción de la
+vegetación (especies presentes, cobertura
+relativa y estado fenológico).
+Carrasco et al.,
+1993; 1994; 1995;
+Composición de
+2010; 2021;
+artrópodos (Similitud Estudios Ambientales realizados por
+CENIMA, 2006;
+taxonómica, Similitud Universidad Arturo Prat desde el año 1993
+Ecosistema Desde 1993 Hasta 2021 2007; 2008; 2009;
+Biocenótica, Riqueza hasta 1995 en Pampa Lagunillas. Estos
+2010; 2011; 2012;
+de especies, índice de estudios llegan a nivel de Orden.
+2013; 2014; 2015;
+Uniformidad)
+2016; 2017; 2019;
+2019; 2020; 2021
+71
+
+--- Página 73 ---
+Estudios Ambientales realizados por
+Universidad Arturo Prat desde el año 1993
+Carrasco et al.,
+hasta 1995 en Pampa Lagunillas
+1993; 1994; 1995;
+involucran la observación y captura de
+2010; 2021;
+fauna. Desde 1994, se registra la
+Composición de CENIMA, 2006;
+observación de Aves. En los Informes de
+Ecosistema Fauna terrestre y Desde 1993 Hasta 2021 2007; 2008; 2009;
+Cuenca Lagunillas Agua y Biótico para los
+acuática (captura) 2010; 2011; 2012;
+Periodos 2006-2021(CMCC, 2006-2021),
+2013; 2014; 2015;
+se presenta una mayor descripción de la
+2016; 2017; 2019;
+Fauna (censos de aves se realizan en
+2019; 2020; 2021.
+puntos de observación, presencia de
+peces y anfibios
+Carrasco et al.,
+1993; 1994; 1995;
+En Estudios Ambientales realizados por 2010; 2021;
+Individuos Universidad Arturo Prat desde el año CENIMA, 2006;
+Densidad de
+registrados/litro de 1993, 1994 y 1995, se registran la Desde 1993 Hasta 2021 2007; 2008; 2009;
+fitoplancton
+agua. densidad de fitoplancton en el agua y su 2010; 2011; 2012;
+identificación es a nivel de género. 2013; 2014; 2015;
+2016; 2017; 2019;
+2019; 2020; 2021
+72
+
+--- Página 74 ---
+9.1 C OMP ONE NT E S Y VARI ABL E S AS OC I ADOS A L A C ONS T R UC C I ÓN D E L E C OS I S T E MA D E R E F E RE NC I A Y L OS A T R I B UT OS D E C OMP E NS A C I ÓN
+E QUI VAL E NT E
+Tabla 15. Componentes y variables incluidos en la metodología asociada a la caracterización y conservación equivalente de bofedales altoandinos de Chile. Se destacan diferentes componentes de la biodiversidad (*C:
+Composicional, *E: Estructural y *F: Funcional).
+Variables objeto de
+Componente Variable Descripción Modo obtención de datos Referencia
+compensación (VOC)
+Squeo et al., 2006;
+Predominantemente agua subterránea y cierta influencia de Terreno (muestreo
+Fuente de agua Faber-Langedoen
+arroyos/ríos, derretimiento de nieve isotópico) y literatura
+et al., 2008
+Squeo et al., 2006;
+Cantidad de agua y disponibilidad estacional, especialmente
+Hidroperiodo Terreno, Base de Datos Faber-Langedoen
+durante los períodos secos
+et al., 2008
+Squeo et al., 2006;
+Faber-Langedoen
+Posición del nivel freático Nivel del flujo superficial, volumen, velocidad y caudal del agua Base de Datos, satelital
+et al., 2009; SEA,
+2022
+Climático e
+Hidrológico pH del agua Típicamente pH 7-8 Terreno, Base de Datos X Squeo et al., 2006
+Squeo et al., 2006;
+Faber-Langedoen
+Calidad del agua Baja exposición a elementos tóxicos como As, B, Fe y Al en el agua Terreno, Base de Datos X
+et al., 2009; SEA,
+2022
+Evalúa si hay infraestructura u otras evidencias de alteraciones en
+Conectividad hidrológica Terreno, Base de Datos, Faber-Langedoen
+el curso del agua que debería llegar directamente al bofedal en X
+del bofedal Satelital et al., 2008
+evaluación
+Faber-Langedoen
+Captación de agua En el sitio/ aguas arriba Terreno, Base de Datos
+et al., 2008
+73
+
+--- Página 75 ---
+Situado en terreno llano, en fondos de valle inclinados y en
+Fisiografía Base de Datos, Satelital Squeo et al., 2006
+cuencas amplias poco profundas
+Forma de relieve Rugosidad del suelo, turberas Centro plano o ligeramente elevado Base de Datos, Satelital Squeo et al., 2006
+Geográfico
+Terreno, Base de Datos,
+Composición del suelo Turba de Juncaceae pobremente descompuesta Squeo et al., 2006
+Satelital
+Terreno, Base de Datos,
+Condiciones edáficas disponibilidad de nutrientes (principalmente, N, P, K, Ca y Mg) Squeo et al., 2006
+Satelital
+Diversidad del paisaje o
+Terreno, Base de
+Paisaje Diversidad del paisaje *E coberturas de suelo (índice X
+Datos, Satelital
+de Shannon)
+Dominancia del paisaje o Base de Datos,
+Paisaje Diversidad del paisaje *E X
+índice de Equidad Satelital
+Número de parches, área
+media de parches,
+Desviación estándar de área Base de Datos,
+Paisaje Grado de Fragmentación *E X
+del parche e índice de Satelital
+Biológico esbeltez de parches
+(relación área-perímetro)
+Terreno, Base de
+Paisaje Área del bofedal *E Área X
+Datos, Satelital
+Porcentaje de cobertura,
+Terreno, Base de
+Paisaje Índice de condición del área buffer *E extensión y condición del X
+Datos, Satelital
+área buffer al bofedal
+Índices de conectividad Base de Datos,
+Paisaje Conectividad del paisaje *E entre bofedales y métricas X
+Satelital
+del paisaje (dimensión
+74
+
+--- Página 76 ---
+fractal, aislamiento entre
+parches)
+Índice integral de
+Base de Datos,
+Paisaje Conectividad del paisaje *E conectividad (conectividad X
+Satelital
+funcional entre parches)
+índice de probabilidad de
+Terreno, Base de
+Paisaje Conectividad del paisaje *E parche (Tamaño y calidad de
+Datos, Satelital
+parche)
+Cobertura y Abundancia de
+Terreno, Base de
+Ecosistema Cobertura relativa y Abundancia (%) *C especies de distintas formas
+Datos
+de vida, nativas y exóticas.
+Diversidad taxonómica Terreno, Base de
+Ecosistema Composición *C X
+(Riqueza) Datos, Satelital
+Terreno, Base de
+Ecosistema Composición *C Diversidad Filogenética X
+Datos
+Terreno, Base de
+Ecosistema Composición *C Diversidad Funcional X
+Datos, Satelital
+Biomasa (Acumulación de Terreno, Base de
+Ecosistema Densidad *C
+materia orgánica) Datos, Satelital
+Terreno, Base de
+Ecosistema Distintividad *C Distintividad Filogenética X
+Datos
+Ecosistema Distintividad Funcional Terreno, Satelital X
+Endémica del sitio,
+Terreno, Base de
+Ecosistema Irremplazabilidad *C Distribución restringida o X
+Datos
+Amplia distribución,
+75
+
+--- Página 77 ---
+Presencia de especies
+clasificadas en las categorías
+de “en peligro”, Terreno, Base de
+Ecosistema Vulnerabilidad *C X
+“vulnerables, “raras”, Datos
+“insuficientemente
+conocidas”
+Estimación de la diversidad
+beta taxonómica mediante
+Cambio en la composición de especies en el bofedal a través del Terreno, Base de
+Ecosistema la integración de datos
+tiempo *C Datos, Satelital
+multitemporales satelitales
+(Diversidad espectral)
+Flujo genético de una o más
+especies dominantes en
+Terreno, Base de
+Ecosistema Conectividad *F bofedales. Que posean X
+Datos
+características de ingeniero
+ecosistémico
+Inventario de unidades de
+vegetación, para obtener
+estado o condición de la Terreno, Base de
+Ecosistema Regeneración y reclutamiento *F
+regeneración y Datos
+reclutamiento de las
+especies de flora
+Productividad Primaria Neta
+Ecosistema C ondición de la vegetación (sanitaria) (PPN). Satelital x
+NDVI, SAVI, EVI, etc .
+Existencia de hábitats para
+las especies que
+Terreno, Base de
+Ecosistema Ambiente de fauna y habitas críticos *E potencialmente habitan los X
+Datos, Satelital
+diferentes entornos
+reconocibles
+76
+
+--- Página 78 ---
+77
