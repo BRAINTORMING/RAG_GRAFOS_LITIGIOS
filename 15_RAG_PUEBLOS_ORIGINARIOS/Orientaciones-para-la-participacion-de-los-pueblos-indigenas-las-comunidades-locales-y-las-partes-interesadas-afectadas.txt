@@ -1,0 +1,2482 @@
+--- Página 1 ---
+Orientaciones para la
+participación de los pueblos
+indígenas, las comunidades
+locales y las partes
+interesadas afectadas
+Versión 1.0 Septiembre de 2023
+tnfd.global
+
+--- Página 2 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Índice
+1. Introducción a las orientaciones del TNFD sobre la participación 4
+1.1. Contexto 4
+1.2. Alcance y contenido de estas orientaciones 5
+1.3. Ventajas de la participación 7
+1.4. Participación y derechos humanos en las recomendaciones del TNFD 8
+1.5. La participación en el enfoque LEAP 9
+2. Quién debe participar 14
+2.1. Pueblos indígenas y comunidades locales 14
+2.2. Partes interesadas afectadas 17
+3. Participación y normas de diligencia debida 20
+3.1. Normas internacionales 20
+3.2. Legislación pertinente 21
+3.3. Orientaciones sobre participación con los pueblos indígenas y las
+comunidades locales 22
+3.3.1. Consentimiento libre, previo e informado 23
+4. Preparación para la participación 25
+4.1. Gobernanza de la participación 25
+4.1.1. Políticas y sistemas para la participación 25
+4.1.2. Flujos de información, responsabilidades y rendición de cuentas 26
+4.1.3. Mecanismos eficaces de reclamación y reparación 26
+4.2. Asignación de recursos 27
+4.3. Integración en la estrategia de la organización 27
+4.4. Mapeo de los pueblos indígenas, las comunidades locales y las partes
+interesadas afectadas 28
+4.4.1. Representantes 29
+5. Diseño y aplicación de la participación 30
+5.1. Comprender los valores de la naturaleza y su contribución a las personas 30
+5.2. Principios generales de una participación significativa 31
+5.3. Modalidades de participación 32
+5.4. Procesos y colaboraciones con múltiples partes interesadas 34
+5.4.1. Gestión de compensaciones 36
+5.5. Permitir la participación significativa 37
+6. Participación en sistemas de actuación y retroalimentación 38
+6.1. Participación de los pueblos indígenas, las comunidades locales y las partes
+interesadas en el seguimiento y la evaluación 38
+Glosario, siglas y acrónimos 40
+Referencias 48
+Anexo 1: Leyes y directrices internacionales sobre los derechos de los
+pueblos indígenas 50
+Anexo 2: Derechos de los pueblos indígenas 52
+Agradecimientos 55
+2
+
+--- Página 3 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Objetivo de estas orientaciones
+Apoyar la participación significativa de las empresas e instituciones financieras con
+los pueblos indígenas, las comunidades locales, las partes afectadas y otras partes
+interesadas para el análisis, gestión y divulgación de las dependencias, impactos,
+riesgos y oportunidades relacionados con la naturaleza.
+Resultados deseados del uso de estas orientaciones
+• Un proceso eficaz de participación con los pueblos indígenas, las comunidades
+locales, las partes afectadas y otras partes interesadas en toda la organización para
+contribuir a la identificación, análisis, gestión y divulgación de las dependencias,
+impactos, riesgos y oportunidades relacionados con la naturaleza.
+• Divulgaciones coherentes con la divulgación recomendada de Gobernanza C
+y el requisito general 6 del TNFD.
+3
+
+--- Página 4 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+1. Introducción a las
+GUÍA DE REFERENCIA RÁPIDA
+orientaciones del
+Divulgación recomendada pertinente:
+TNFD sobre la
+Gobernanza C
+participación
+Componentes LEAP pertinentes:
+La participación es un componente transversal importante
+del enfoque LEAP del TNFD, que da forma a todas las
+fases de dicho enfoque.
+1.1. Contexto el Amazonas presta servicios de regulación climática críticos para
+explotaciones agrarias tan lejanas como las de la región del Medio
+Las personas forman parte de la naturaleza, la valoran y
+Oeste de Estados Unidos.
+dependen de ella por los beneficios que les aporta, tienen
+impactos sobre ella (tanto positivos como negativos) con sus Todos somos titulares de derechos y partes interesadas en el
+actividades y pueden actuar como guardianes para restaurarla esfuerzo por conservar, proteger y restaurar la capacidad de la
+y conservarla. La naturaleza es especialmente importante para naturaleza para mantener las funciones de los ecosistemas y
+quienes la vida y sustento dependen directa y significativamente proporcionar estos servicios ecosistémicos hoy y en el futuro.
+de la tierra, los territorios, los recursos y el agua, como los Según la Declaración Universal de los Derechos Humanos
+pueblos indígenas y las comunidades locales. La respuesta al (DUDH), todos los seres humanos son “ titulares de derechos ” .
+desafío mundial de detener y revertir la pérdida de naturaleza Sin embargo, no todos los individuos y grupos verán sus
+puede beneficiarse mucho de los conocimientos tradicionales de derechos humanos amenazados o afectados por un proyecto
+los pueblos indígenas y las comunidades locales. o sus actividades relacionadas. Es importante identificar a las
+partes interesadas cuyos derechos humanos pueden estar en
+Las perspectivas actuales y futuras de las sociedades y
+riesgo debido a las actividades empresariales y reconocerlas
+economías de todo el mundo dependen fundamentalmente de
+como “ titulares de derechos ” en el contexto de la participación. 2
+las funciones de los ecosistemas y de los servicios que presta la
+naturaleza. Estos servicios incluyen el suministro de agua dulce, • Los titulares de derechos incluyen a las personas cuyos
+alimentos y madera, la polinización de cultivos por polinizadores derechos humanos se ven afectados, como el derecho al agua,
+silvestres, la regulación de la calidad del suelo, el caudal de a la alimentación, a un nivel de vida adecuado y el derecho a
+agua y el clima, y la mitigación de peligros naturales como un medio ambiente limpio, saludable y sostenible. Los titulares
+inundaciones y tormentas, junto con muchos otros. de derechos también incluyen a miembros de grupos cuyos
+derechos colectivos se ven afectados, especialmente pueblos
+Las funciones y los servicios ecosistémicos que son importantes
+indígenas y comunidades locales.
+para el modelo de negocio 1 de una organización pueden prestarse
+en las proximidades de las operaciones directas de la empresa
+o en otro lugar relacionado con sus cadenas de suministro
+globales. Los servicios ecosistémicos también los pueden prestar
+ecosistemas en grandes áreas geográficas. Por ejemplo,
+1 En este documento, el término “ organizaciones ” se refiere a empresas e instituciones financieras.
+2 Organización de Cooperación y Desarrollo Económicos (2017), Guía de diligencia debida para la participación significativa de las partes interesadas
+del sector extractivo; Asamblea General de la ONU (1948), Declaración Universal de los Derechos Humanos
+4
+
+--- Página 5 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+• Las partes interesadas incluyen instituciones financieras 1.2. Alcance y contenido de estas orientaciones
+(tales como inversores, otros proveedores de capital
+Este documento proporciona orientaciones sobre la participación
+y aseguradoras), organismos gubernamentales,
+significativa y respetuosa con los pueblos indígenas y las
+legisladores y autoridades reguladoras, organizaciones
+comunidades locales y partes interesadas afectadas en lo que
+intergubernamentales, científicos, consumidores, propietarios
+respecta al análisis y la gestión de las dependencias, impactos,
+de tierras, organizaciones de la sociedad civil, otras empresas
+riesgos y oportunidades relacionados con la naturaleza.
+y comunidades que interactúan con los mismos ecosistemas,
+y los pueblos indígenas y las comunidades locales. El TNFD reconoce que los riesgos sistémicos de mayor
+envergadura asociados a la pérdida de naturaleza no pueden
+Las relaciones productivas con estos titulares de derechos
+ser abordados por actores individuales que actúen solos y que
+y partes interesadas son fundamentales para analizar y
+los enfoques aislados de la gestión de los ecosistemas pueden
+gestionar eficazmente las dependencias, impactos, riesgos y
+dar lugar a resultados negativos en general. El TNFD reconoce
+oportunidades relacionados con la naturaleza. La mayoría de las
+la necesidad de participación con múltiples grupos de partes
+empresas se relacionan regularmente con las administraciones
+interesadas y la relevancia de este tipo de participación para el
+públicas (como las autoridades fiscales y los organismos locales
+análisis y la gestión de las dependencias, impactos, riesgos y
+de planificación) y los proveedores de capital. Estas interacciones
+oportunidades relacionados con la naturaleza.
+suelen definirse a través de reglamentos y procedimientos
+empresariales estándar o acuerdos contractuales. Sin embargo, Aunque muchos de los enfoques destacados en estas
+la participación con los pueblos indígenas, las comunidades orientaciones son aplicables a procesos con múltiples partes
+locales y las partes interesadas afectadas suele estar menos interesadas y se reconoce su importancia para las cuestiones
+definida en los procedimientos empresariales estándar y no relacionadas con la naturaleza 3 (véase la Sección 5.4), estas
+se ejecuta adecuadamente. Estas relaciones pueden ser orientaciones no se centran en dichos procesos. En cambio,
+igual de importantes, y en algunos casos más trascendentes, estas orientaciones se centran en escuchar, comprender y dar
+para el análisis y gestión por parte de la organización de las respuesta a los puntos de vista de los pueblos indígenas,
+dependencias, impactos y riesgos y oportunidades relacionados las comunidades locales y las partes interesadas afectadas,
+con la naturaleza. para que sus opiniones y conocimientos puedan servir de base
+para identificar las cuestiones relacionadas con la naturaleza y
+Por ejemplo:
+sus posibles impactos en las personas, así como las posibles
+• Es posible que una organización que lleve a cabo actividades respuestas y el análisis de su eficacia.
+que podrían tener impacto sobre las tierras, territorios y/o
+El Grupo de Trabajo reconoce que las orientaciones que aquí se
+recursos de los pueblos indígenas y comunidades locales
+proporcionan solo se refieren a aquellas cuestiones de derechos
+sea capaz de crear nuevas oportunidades mutuamente
+humanos asociadas a las dependencias, impactos, riesgos y
+beneficiosas y respetuosas y desarrollar soluciones basadas
+oportunidades relacionados con la naturaleza y vinculados al
+en la naturaleza a través de una participación y colaboración
+modelo de negocio y la cadena de valor de una organización.
+significativas.
+Las normas internacionales, como los Principios Rectores de las
+• Una organización que no participe adecuadamente con los Naciones Unidas sobre las Empresas y los Derechos Humanos
+pueblos indígenas y las comunidades locales puede violar los (PRNU) y otras orientaciones e iniciativas, como la del Grupo
+derechos de los mismos y exponerse a riesgos crecientes, de Trabajo sobre Divulgaciones Financieras Relacionadas con
+incluidos el riesgo de responsabilidad civil y el riesgo la Desigualdad (TISFD), fusionado recientemente. abarcan
+4
+reputacional, o el riesgo de posibles cambios en las actitudes un conjunto más amplio de derechos humanos y dimensiones
+de los consumidores hacia la empresa, incluida su disposición sociales que se espera que complementen los incluidos por el
+a comprar sus productos y servicios. TNFD en estas orientaciones.
+3 En estas orientaciones, las dependencias, impactos, riesgos y oportunidades relacionados con la naturaleza se denominan “ cuestiones relacionadas
+con la naturaleza ” .
+4 Este nombre puede cambiar tras una consulta.
+5
+
+--- Página 6 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Estas orientaciones se basan en la legislación internacional • La resolución de la Asamblea General de las Naciones Unidas
+vigente y en las normas, directrices y marcos internacionales del 26 de julio de 2022 sobre el derecho humano a un medio
+de mejores prácticas, en particular los Principios Rectores ambiente limpio, saludable y sostenible (Resolución de la
+sobre Empresas y Derechos Humanos (PRNU) de la ONU, AGNU 76/300)
+la Declaración de las Naciones Unidas sobre los Derechos • Principios Rectores sobre Empresas y Derechos Humanos,
+de los Pueblos Indígenas, las Directrices para Empresas de las Naciones Unidas (PRNU)
+Multinacionales sobre Conducta Empresarial Responsable,
+• Declaración de las Naciones Unidas sobre los Derechos de
+de la OCDE, el Convenio sobre la Diversidad Biológica, el Marco
+los Pueblos Indígenas (DNUDPI)
+Mundial de Biodiversidad y las directrices voluntarias pertinentes.
+El listado completo de fuentes figura en la lista de referencias de
+estas orientaciones. Estas son algunas de las fuentes principales: Aplicación de estas orientaciones
+Estas orientaciones pretenden ayudar a una organización a
+• Norma AA1000 de AccountAbility sobre la participación
+establecer y mantener relaciones productivas con los pueblos
+de grupos de interés
+indígenas, las comunidades locales y las partes interesadas
+• Convenio sobre la Diversidad Biológica (CBD) afectadas para que la organización pueda participar plena y
+eficazmente. Nada en este marco puede interpretarse como
+ɚ Directrices voluntarias sobre conocimientos
+una disminución o extinción de los derechos que los pueblos
+tradicionales (artículo 8j): Directrices Akwé: Kon
+indígenas tienen actualmente o puedan adquirir en el futuro.
+voluntarias, Código de Conducta Ética Tkarihwaié:
+ri, Directrices voluntarias Mo'otzKuxtal, Directrices
+voluntarias Rutzolijirisaxik
+ɚ Marco Mundial de Biodiversidad de Kunming-Montreal
+ɚ Protocolo de Nagoya sobre el acceso y la participación
+en los beneficios
+• Convención para la Eliminación de Todas las Formas
+de Discriminación Contra la Mujer (CEDAW)
+• Las normas de desempeño de la IFC, incluida la norma IFC
+PS 6 sobre biodiversidad y la IFC PS 7 sobre los pueblos
+indígenas
+• Relaciones con la comunidad y otros actores sociales: Manual
+de prácticas recomendadas para las empresas que hacen
+negocios en mercados emergentes, de la IFC
+• Convenio 169 sobre pueblos indígenas y tribales de la
+Organización Internacional del Trabajo (OIT)
+• El Informe de la Evaluación Mundial sobre la Diversidad
+Biológica y los Servicios de los Ecosistemas y el informe
+Methodological Assessment Report on the Diverse Values
+and Valuation of Nature, de IPBES
+• Orientaciones de la UICN sobre la participación de las partes
+interesadas
+• Guía de la OCDE de diligencia debida para la participación
+significativa de las partes interesadas del sector extractivo
+• Líneas Directrices de la OCDE para Empresas Multinacionales
+sobre Conducta Empresarial Responsable
+6
+
+--- Página 7 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Las orientaciones presentan la siguiente estructura: • La sección 5 indica cómo diseñar y llevar a cabo la
+participación, incluyendo la comprensión de los valores
+• La sección 2 se refiere a en quién debe centrarse
+de la naturaleza, los principios para una buena participación,
+la participación, incluidos los pueblos indígenas,
+los modos de participación, los procesos con múltiples partes
+las comunidades locales y las partes interesadas afectadas;
+interesadas y cómo lograr la participación significativa; y
+• La sección 3 se refiere a la participación en el contexto
+• La sección 6 se refiere a cómo incorporar la participación
+de las normas de diligencia debida, incluidas las normas
+en los sistemas para la actuación y la retroalimentación.
+internacionales y la legislación pertinente, y ofrece una visión
+general de las orientaciones específicas para la participación También se incluye un glosario y una lista completa de
+de los pueblos indígenas y las comunidades locales; referencias, junto con anexos en los que se resumen las leyes
+• En la sección 4 se explica cómo prepararse para la internacionales sobre los derechos de los pueblos indígenas
+participación, incluida la gobernanza, la estrategia organizativa pertinentes para las cuestiones relacionadas con la naturaleza.
+y cómo mapear las partes interesadas pertinentes; El Grupo de trabajo anima a los lectores a consultar directamente
+los documentos fuente.
+1.3. Ventajas de la participación
+Comprender la naturaleza y las cuestiones relacionadas con la naturaleza desde la perspectiva de los pueblos indígenas, las
+comunidades locales y las partes interesadas afectadas ofrece los siguientes resultados y beneficios importantes para una organización:
+Gestión más eficaz Colaboración inclusiva Cumplimiento de las normas internacionales
+y los requisitos jurisdiccionales
+Ayuda a las organizaciones Establece una colaboración inclusiva, Ayuda a las organizaciones a satisfacer las
+a gestionar las cuestiones respetuosa y abierta con los pueblos indígenas y expectativas de las normas internacionales de
+relacionadas con la las comunidades locales y las partes interesadas prácticas empresariales responsables y del
+naturaleza y actuar respecto afectadas. Esto puede crear oportunidades de creciente número de leyes relacionadas en
+a ellas de un modo más valor para la organización que contribuyan a distintas jurisdicciones, así como los requisitos
+eficaz. la restauración y protección de la naturaleza y de generación de informes y las expectativas de
+beneficien a estos grupos. los inversores.
+Una participación de alta calidad con los pueblos indígenas, establecer relaciones de confianza basadas en la transparencia
+las comunidades locales y las partes interesadas afectadas y el respeto mutuo. Dado que una participación significativa es
+ayuda a las organizaciones a comprender mejor las cuestiones un proceso continuo, esto servirá a la organización a mediano y a
+relacionadas con la naturaleza, gestionarlas eficazmente y largo plazo .
+7
+
+--- Página 8 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+1.4. Participación y derechos humanos en las “La entidad y los recursos y relaciones a
+recomendaciones del TNFD lo largo de su cadena de valor forman un
+La importancia de la participación de las partes interesadas en la sistema interdependiente en el que opera
+organización y de las políticas y procesos en materia de derechos
+la entidad”.
+humanos se refleja en las divulgaciones recomendadas del
+TNFD, concretamente en el requisito general 6 del TNFD y en la Requerimientos generales de la norma NIIF-S1 del ISSB
+divulgación recomendada de Gobernanza C.
+Las orientaciones de aplicación del TNFD para la divulgación
+recomendada de Gobernanza C establecen que una organización
+Requisito general 6 del TNFD sobre debe describir sus políticas de derechos humanos y las
+la participación actividades de participación relacionadas con su análisis y
+gestión de las dependencias, impactos, riesgos y oportunidades
+La organización debe describir el proceso para la relacionados con la naturaleza. Esto debe abarcar a todas las
+participación de los pueblos indígenas, las comunidades partes interesadas pertinentes, dando prioridad a los pueblos
+locales y las partes interesadas afectadas de forma que se indígenas, las comunidades locales y las partes interesadas
+aborden sus preocupaciones y prioridades con respecto afectadas, que son el objetivo de estas orientaciones. Para
+a las dependencias, impactos, riesgos y oportunidades ello, debe tener en cuenta y aplicar los PRNU, la Declaración
+relacionados con la naturaleza y generados por las de las Naciones Unidas sobre los Derechos de los Pueblos
+operaciones directas de la organización y en su cadena Indígenas (DNUDPI) y los derechos humanos internacionalmente
+de valor. reconocidos aplicables a las partes interesadas afectadas.
+Esto debería incluir:
+Divulgación recomendada de Gobernanza C
+• Un resumen de los compromisos de la organización en
+del TNFD
+materia de:
+Describir las políticas y actividades de participación • Las normas internacionales de conducta empresarial
+de la organización en materia de derechos humanos, responsable estipuladas en los Principios Rectores
+y la supervisión por parte del consejo de administración sobre Empresas y Derechos Humanos de la ONU, y las
+y la dirección, con respecto a los pueblos indígenas, Directrices para Empresas Multinacionales sobre Conducta
+las comunidades locales, los afectados y otras partes Empresarial Responsable, de la OCDE;
+interesadas, en el análisis y la respuesta de la organización
+• El respeto de los derechos de los pueblos indígenas, tal y
+ante las dependencias, impactos, riesgos y oportunidades
+como se refleja en la Declaración sobre los Derechos de los
+relacionados con la naturaleza.
+Pueblos Indígenas de la ONU, el Convenio 169 de la OIT y
+el Convenio sobre la Diversidad Biológica; y
+• La resolución 76/300 de la Asamblea General de las
+La participación se incluye en los requisitos generales del TNFD
+Naciones Unidas sobre el derecho a un medio ambiente
+debido a la importancia crítica de una participación efectiva
+saludable;
+y significativa con los pueblos indígenas, las comunidades locales
+y las partes interesadas afectadas para la identificación, • Una descripción del modo en que los procesos de diligencia
+la gestión y el análisis sólidos de las cuestiones relacionadas con debida en materia de derechos humanos, incluidos, entre
+la naturaleza. Se incluye una divulgación recomendada específica otros, los relativos a los derechos de los pueblos indígenas y
+(Gobernanza C) sobre los derechos humanos y la participación las comunidades locales, están integrados en la estrategia,
+para proporcionar a los usuarios de los informes información útil las políticas, los códigos de conducta, las estructuras de
+para la toma de decisiones a la hora de analizar si las políticas gobernanza y las mejores prácticas de la organización;
+de derechos humanos y las actividades de participación de la
+organización son adecuadas para gestionar sus cuestiones
+relacionadas con la naturaleza.
+8
+
+--- Página 9 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+• Los procesos adoptados para facilitar la supervisión, • Una declaración de cómo se ha logrado el acceso y
+gestión y reparación de cualquier impacto negativo sobre la participación en los beneficios de forma equitativa,
+los derechos humanos causado por la organización o al en particular cuando se trata de pueblos indígenas y
+que esta contribuya de forma significativa a través de sus comunidades locales; y
+actividades empresariales, cadenas de suministro y relaciones • Una descripción de los resultados de los procesos de
+comerciales, incluidos los mecanismos de reclamación de la participación con los pueblos indígenas, las comunidades
+organización; locales y las partes interesadas afectadas, que incluya
+• Un resumen de la gobernanza de la organización en materia de cómo se incorporan o abordan estos resultados en el
+defensa y presión política relacionadas con la naturaleza, y el análisis de materialidad de la organización, la toma de
+enfoque de la organización en relación con la participación de decisiones y las respuestas a las cuestiones relacionadas
+las autoridades públicas en iniciativas, políticas y/o normativas con la naturaleza y sus dimensiones sociales; y
+relacionadas con la naturaleza;
+• Una declaración sobre si el consejo de administración y la
+• Un resumen de las principales prioridades y posturas de la
+junta directiva han sido informados sobre los procesos de
+organización en materias de promoción y presión política
+participación de los pueblos indígenas, las comunidades
+relacionadas con la naturaleza. Esto debería complementarse,
+locales y las partes interesadas afectadas, y los resultados
+cuando proceda, con un resumen de las principales
+de dicha participación.
+actividades directas de defensa y presión emprendidas por la
+organización en relación con la regulación y el desarrollo de
+políticas públicas relacionadas con la naturaleza; 1.5. La participación en el enfoque LEAP
+• Una descripción de la implicación de la organización en El TNFD ha desarrollado un enfoque integrado para la
+cualquier caso en curso, o concluido en el año del informe, identificación y el análisis de las dependencias, impactos, riesgos
+que tenga que ver con dependencias o impactos relacionados y oportunidades relacionados con la naturaleza: el enfoque LEAP.
+con la naturaleza que se presenten a los Puntos de Contacto
+• Localizar su interfaz con la naturaleza;
+Nacionales en virtud de las Directrices de la OCDE para
+Empresas Multinacionales sobre Conducta Empresarial • Evaluar sus dependencias e impactos;
+Responsable; • Analizar sus riesgos y oportunidades; y
+• El proceso o los procesos de participación llevados a cabo, • Prepararse para responder a los riesgos y oportunidades
+incluyendo: relacionados con la naturaleza y presentar informes sobre
+ellos.
+• Una descripción de los pueblos indígenas, comunidades
+locales y partes interesadas afectadas que participan en el La participación es un componente transversal importante del
+análisis y gestión de las dependencias, impactos, riesgos enfoque LEAP del TNFD, que da forma a todas las fases de dicho
+y oportunidades relacionados con la naturaleza, cómo se enfoque. La participación a través del enfoque LEAP puede
+identificaron, y una confirmación de que esta descripción ha orientar a los responsables de la elaboración de informes sobre lo
+sido consensuada con los participantes. que deben tener en cuenta a la hora de preparar el contenido de
+• Una declaración del propósito de la participación y si esta las divulgaciones recomendadas del TNFD, en consonancia con
+tiene lugar en relación con el análisis, la búsqueda de el requisito general 6 del TNFD.
+soluciones, la supervisión y/o la evaluación de cuestiones
+La tabla 1 muestra cómo un proceso de participación eficaz
+relacionadas con la naturaleza;
+da forma a cada uno de los componentes del enfoque LEAP,
+• Una descripción del enfoque y el proceso de participación, con preguntas clave para la participación en cada componente.
+si la participación es puntual, periódica o continua, y si se Se pueden consultar más detalles sobre el enfoque LEAP en las
+lleva a cabo mediante estructuras formales o informales; orientaciones adicionales del TNFD sobre el enfoque LEAP.
+• Una descripción sobre si la participación se ha basado en
+una consulta y participación informada libre y previa y cómo
+se ha obtenido el consentimiento libre, previo e informado
+(CLPI);
+9
+
+--- Página 10 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Tabla 1: Preguntas para la participación con los pueblos indígenas, las comunidades locales y las partes interesadas afectadas
+en el enfoque LEAP
+Alcance del análisis
+Pregunta para la participación:
+¿De qué manera las opiniones, los conocimientos y las aportaciones de los pueblos indígenas, las comunidades locales afectadas
+y otras partes interesadas dan forma a las ideas sobre las dependencias, impactos, riesgos y oportunidades relacionados con la
+naturaleza y potencialmente materiales que están asociados a las actividades de la organización (operaciones directas y cadena
+de valor)?
+Localizar la interfaz de la organización Preguntas para la participación
+con la naturaleza
+L1: Ámbito del modelo de negocio y la cadena ¿Existen pueblos indígenas, comunidades locales, y otras partes interesadas
+de valor en las ubicaciones geográficas de nuestras operaciones directas? ¿Dónde se
+encuentran?
+¿Cuáles son las actividades de nuestra
+organización por sector y cadena de valor?
+¿Dónde están nuestras operaciones directas?
+L2: Detección de dependencias e impactos Normalmente, ¿los pueblos indígenas, comunidades locales y partes interesadas
+afectadas participan en las actividades de estos sectores y cadenas de valor o
+¿Cuáles de estos sectores, cadenas de valor
+sufren impactos por dichas actividades?
+y operaciones directas están asociados a
+dependencias e impactos potencialmente
+moderados y altos sobre la naturaleza?
+L3: Interfaz con la naturaleza ¿Existen pueblos indígenas, comunidades locales y partes interesadas afectadas
+en estas ubicaciones?
+¿Dónde están los sectores, cadenas de valor
+y operaciones directas con dependencias e ¿En qué ubicaciones interactúan nuestra organización y sus cadenas de valor con
+impactos potencialmente moderados y altos? las tierras, territorios y lugares sagrados de pueblos indígenas?
+¿Con qué biomas y ecosistemas específicos ¿Qué conocimientos, incluidos los tradicionales, tienen los pueblos indígenas,
+interactúan nuestras operaciones directas y las comunidades locales y otras partes interesadas sobre estos ecosistemas?
+cadenas de valor y sectores de dependencia e
+¿Cuál es la perspectiva de los pueblos indígenas, las comunidades locales y
+impacto moderados y altos?
+otras partes interesadas sobre el valor y la importancia de estos ecosistemas?
+L4: Interfaz con sitios sensibles ¿Existen pueblos indígenas, comunidades locales y partes interesadas que
+también interactúan con la naturaleza en esos sitios sensibles?
+En cuanto a las actividades de nuestra
+organización en cadenas de valor y sectores ¿Cuáles son las perspectivas de los pueblos indígenas, las comunidades locales
+de dependencia e impacto moderados y y las partes interesadas afectadas sobre nuestra identificación de los sitios
+altos, ¿cuáles de ellas se encuentran en sitios sensibles?
+ecológicamente sensibles?
+¿Y cuáles de nuestras operaciones directas se
+encuentran en esos sitios sensibles?
+10
+
+--- Página 11 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Evaluar las dependencias y los impactos Preguntas para la participación
+relacionados con la naturaleza
+E1: Identificación de los activos ambientales, los ¿Existen pueblos indígenas, comunidades locales y partes interesadas cuyos
+servicios ecosistémicos y los impulsores derechos humanos y medios de subsistencia dependan de estos activos
+de impacto ambientales y servicios ecosistémicos?
+¿Cuáles son los sectores, procesos empresariales
+y actividades que se deben analizar?
+¿Qué activos ambientales, servicios ecosistémicos
+e impulsores de impacto están asociados a estos
+sectores, procesos empresariales, actividades y
+sitios de análisis?
+E2: Identificación de dependencias e impactos ¿Cuáles son los activos ambientales y las funciones y servicios de los
+ecosistemas que sufren impactos o de los que dependen los pueblos
+¿Cuáles son nuestras dependencias e impactos
+indígenas, las comunidades locales y las partes interesadas afectadas
+en la naturaleza?
+¿Qué derechos tienen sobre esos activos ambientales y servicios
+ecosistémicos?
+E3: Medición de la dependencia y el impacto ¿Cuáles pueblos indígenas, comunidades locales y partes interesadas
+valoran a la naturaleza y dependen de ella, y en qué medida? 5
+¿Cuál es la magnitud y el alcance de nuestras
+dependencias de la naturaleza? ¿Cómo afectan las actividades de la organización a sus dependencias de la
+naturaleza y a su capacidad para acceder a los servicios ecosistémicos?
+¿Cuál es la gravedad de nuestros impactos
+negativos en la naturaleza? ¿Cuál es la magnitud
+y el alcance de nuestros impactos positivos en la
+naturaleza?
+E4: Determinación de la materialidad del impacto ¿Cuáles pueblos indígenas, comunidades locales y partes interesadas
+pueden verse afectados por nuestro impacto en la naturaleza?
+¿Cuáles de nuestros impactos son materiales?
+¿Cuáles son los impactos reales y potenciales sobre los derechos y medios
+de subsistencia de los pueblos indígenas, las comunidades locales y partes
+interesadas afectadas?
+¿Cuáles son sus puntos de vista sobre los impactos que sufrirán de manera
+inmediata, a corto, medio y largo plazo?
+5 La evaluación de los valores de la IPBES destaca los diversos valores de la naturaleza y sus contribuciones a las personas.
+11
+
+--- Página 12 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Analizar riesgos y oportunidades relacionados Preguntas para la participación
+con la naturaleza
+A1: Identificación de riesgos y oportunidades ¿Cuáles son las percepciones sobre los riesgos y oportunidades para nuestra
+organización basados en nuestra participación con los pueblos indígenas,
+¿Cuáles son los riesgos y oportunidades
+las comunidades locales y las partes interesadas afectadas?
+correspondientes para nuestra organización?
+A2: Ajuste de la mitigación de riesgos y gestión ¿Cómo tienen en cuenta estos procesos de mitigación y gestión los impactos
+de riesgos y oportunidades existentes relacionados sobre las relaciones y la participación con los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas?
+¿Qué procesos y elementos de gestión de
+oportunidades y mitigación de riesgos ya estamos ¿Cuáles son las perspectivas de los pueblos indígenas, las comunidades
+aplicando? locales y las partes interesadas afectadas sobre los procesos existentes y
+adaptados de mitigación de riesgos y gestión de riesgos y oportunidades de
+¿Cómo pueden adaptarse los procesos de gestión
+la organización?
+de riesgos y oportunidades y sus elementos
+asociados (por ejemplo, taxonomía de riesgos,
+inventario de riesgos, tolerancia y criterios de
+riesgo)?
+A3: Medición y priorización de riesgos ¿Cuáles son las perspectivas de los pueblos indígenas, las comunidades
+y oportunidades locales y las partes interesadas afectadas sobre los riesgos y oportunidades
+que debería priorizar la organización?
+¿Qué riesgos y oportunidades deben priorizarse?
+A4: Medición y priorización de riesgos ¿Cómo se tienen en cuenta los puntos de vista de los pueblos indígenas,
+y oportunidades las comunidades locales y las partes interesadas afectadas a la hora
+de determinar la materialidad de los riesgos y oportunidades para la
+¿Qué riesgos y oportunidades son materiales y,
+organización?
+por tanto, deben divulgarse de acuerdo con las
+divulgaciones recomendadas del TNFD?
+12
+
+--- Página 13 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Prepararse para responder y presentar informes Preguntas para la participación
+P1: Estrategia y planes de asignación ¿La asignación de recursos refleja las necesidades identificadas para una
+de recursos participación significativa y continua como parte de las estrategias de
+mitigación y gestión?
+¿Qué decisiones de gestión de riesgos, estrategia
+y asignación de recursos deben tomarse como
+resultado de este análisis?
+P2: Fijación de objetivos y gestión ¿Están definidos los objetivos y se mide el progreso con el aporte de los
+del desempeño pueblos indígenas, las comunidades locales y las partes interesadas
+afectadas?
+¿Cómo vamos a establecer objetivos y definir y
+medir el progreso?
+P3: Generación de informes ¿Cuáles son las expectativas en términos de divulgación de pueblos
+indígenas, comunidades locales y partes interesadas afectadas?
+¿Qué vamos a divulgar de acuerdo con las
+divulgaciones recomendadas del TNFD?
+P4: Presentación ¿Se presentan las divulgaciones relacionadas con la naturaleza de
+manera que los resultados estén disponibles, sean fácilmente accesibles,
+¿Dónde y cómo debemos presentar nuestras
+culturalmente apropiados y fácilmente interpretables por los pueblos
+divulgaciones relacionadas con la naturaleza?
+indígenas, las comunidades locales y las partes interesadas afectadas?
+13
+
+--- Página 14 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+2. Quién debe participar
+Los Principios Rectores de las Naciones Unidas definen la 2.1. Pueblos indígenas y comunidades locales
+participación de las partes interesadas como un:
+Los pueblos indígenas representan menos del 5 % de la
+“proceso continuo de interacción y diálogo entre una empresa población mundial y gestionan menos de la mitad de los paisajes
+y sus partes interesadas que permita a la empresa escuchar, terrestres y una tercera parte de las aguas continentales, 7 y aun
+comprender y responder a sus intereses e inquietudes, así, han conseguido proteger el 80 % de nuestra biodiversidad
+incluyendo enfoques colaborativos”. mundial, 8 incluso en el contexto de desequilibrios históricos de
+6
+poder. Los pueblos indígenas y las comunidades locales tienen
+Las partes interesadas de una organización se definen como un papel fundamental que desempeñar para detener y revertir
+las personas o grupos que pueden verse afectados directa o la pérdida de naturaleza e identificar y ampliar las soluciones
+indirectamente, de forma negativa o positiva, por las actividades basadas en la naturaleza que beneficien a la naturaleza y a
+de la organización o a través de sus cadenas de valor. Las las empresas, instituciones financieras y comunidades que
+partes interesadas también incluyen a quienes puedan tener dependen de los servicios de los ecosistemas que proporciona la
+un interés en las actividades de la organización o puedan influir naturaleza.
+en ellas. Estas orientaciones del TNFD reconocen que los
+derechos humanos o los intereses más amplios de los pueblos La evaluación global de la Plataforma intergubernamental sobre
+indígenas y las comunidades locales pueden verse afectados en diversidad biológica y servicios de los ecosistemas (IPBES,
+ocasiones por las actividades relacionadas con la naturaleza o por sus siglas en inglés) también constató que, en general, la
+las cadenas de valor de una organización. También reconocen naturaleza disminuye con menos rapidez en tierras de pueblos
+que esos grupos pueden tener conocimientos o intereses que los indígenas que en otras tierras, al igual que los conocimientos
+conviertan en socios importantes para que las organizaciones sobre cómo gestionarla. 9 Igualmente, señaló que la gobernanza,
+participen en el diseño o la aplicación de estrategias y soluciones incluidas las instituciones consuetudinarias, los sistemas de
+relacionadas con la naturaleza. gestión y los regímenes de cogestión para la conservación y
+el uso sostenible, que implican a los pueblos indígenas y las
+comunidades locales e incorporan sus conocimientos locales,
+pueden ser una forma eficaz de salvaguardar la naturaleza y sus
+contribuciones a las personas.
+6 Naciones Unidas(2012) La responsabilidad de las empresas de respetar los derechos humanos: Guía para la interpretación
+7 Fondo Mundial para la Naturaleza (WWF), Programa de las Naciones Unidas para el Medio Ambiente-Centro Mundial de Vigilancia de la Conservación
+(PNUMA-CMVC), et al. (2021) El estado de las tierras y territorios de los Pueblos Indígenas y las Comunidades Locales: Una revisión técnica del
+estado de las tierras de los pueblos indígenas y las comunidades locales, sus contribuciones a la conservación de la biodiversidad global y los servicios
+de los ecosistemas, las presiones que enfrentan y las recomendaciones de acciones. Gland, Suiza
+8 Garnett, S. T., Burgess, N. D., Fa, J. E., Fernández-Llamazares, Á., Molnár, Z., Robinson, C. J., ... y Leiper, I. (2018) A spatial overview of the global
+importance of Indigenous lands for conservation. Nature Sustainability, 1(7), 369-374
+9 Plataforma intergubernamental científico-normativa sobre diversidad biológica y servicios de los ecosistemas (2019), Resumen para los encargados
+de la formulación de políticas del informe de la evaluación mundial sobre la diversidad biológica y los servicios de los ecosistemas
+14
+
+--- Página 15 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+No existe una definición consensuada de Pueblos Indígenas derecho a dar o negar su consentimiento libre, previo e informado
+adoptada en el derecho internacional. 10 Una definición estricta no a asuntos que afecten a sus vidas, derechos, y territorios.
+se considera necesaria ni deseable. Las Naciones Unidas utilizan
+La Declaración de las Naciones Unidas sobre los Derechos
+una definición de trabajo del Estudio Martínez Cobo:
+de los Pueblos Indígenas (DNUDPI) 12 y el Convenio 169 de la
+“ Son comunidades, pueblos y naciones indígenas los que, Organización Internacional del Trabajo (OIT) se encuentran entre
+teniendo una continuidad histórica con las sociedades los importantes instrumentos y jurisprudencia internacionales que
+anteriores a la invasión y precoloniales que se desarrollaron confirman los derechos de los pueblos indígenas.
+en sus territorios, se consideran distintos de otros sectores de
+las sociedades que ahora prevalecen en esos territorios o en El Convenio sobre la Diversidad Biológica (CDB) de las Naciones
+partes de ellos. Constituyen ahora sectores no dominantes de Unidas reconoce el papel, los derechos y la contribución de los
+la sociedad y tienen la determinación de preservar, desarrollar y pueblos indígenas y las comunidades locales a la conservación
+transmitir a futuras generaciones sus territorios ancestrales y su y el uso sostenible de la biodiversidad, y así se subraya en las
+identidad étnica como base de su existencia continuada como directrices del CDB y en el Marco Mundial de Biodiversidad
+pueblo, de acuerdo con sus propios patrones culturales, sus de Kunming-Montreal (GBF) (véase el Recuadro 2). El GBF
+instituciones sociales y sus sistemas legales ” . subraya la importancia de adoptar enfoques que incluyan a toda
+11
+la sociedad, de la toma de decisiones inclusiva y de los enfoques
+En virtud del Derecho internacional, los pueblos indígenas tienen de participación basados en los derechos humanos. El marco
+derechos reconocidos internacionalmente que incluyen, sin destaca mucho la importancia de los pueblos indígenas y las
+carácter limitativo: el derecho a la autodeterminación; el derecho comunidades locales.
+a poseer, controlar y utilizar sus tierras, territorios, y recursos; y el
+Recuadro 1: La participación de los pueblos indígenas y las comunidades locales y el Marco Mundial
+de Biodiversidad de Kunming-Montreal
+El Marco Mundial de Biodiversidad de Kunming-Montreal (GBF) reconoce las importantes funciones y contribuciones de los
+“ Pueblos Indígenas y comunidades locales ” como custodios de la biodiversidad y como socios en su conservación, restauración
+y uso sostenible. La aplicación del marco debe garantizar que se respeten los derechos, los conocimientos, incluidos los
+conocimientos tradicionales asociados a la biodiversidad, las innovaciones, las cosmovisiones, los valores y las prácticas de los
+pueblos indígenas y las comunidades locales, y que se documenten y preserven con su consentimiento libre, previo e informado.
+Esto debe incluir su participación plena y efectiva en la toma de decisiones, de acuerdo con la legislación nacional pertinente,
+los instrumentos internacionales, incluida la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas,
+y la legislación sobre derechos humanos. 13 Se puede consultar más información sobre la implementación de un enfoque basado
+en los derechos humanos según el Marco Mundial de Biodiversidad en la guía “ Applying a human rights-based approach to the
+Global Biodiversity Framework ” .
+10 Naciones Unidas (2007) Declaración sobre los derechos de los pueblos indígenas: Manual para las instituciones nacionales de derechos humanos
+11 Foro de Asia y el Pacífico de Instituciones Nacionales de Derechos Humanos de la región y la Oficina del Alto Comisionado de las Naciones Unidas
+para los Derechos Humanos (agosto de 2013), Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas, Oficina del Alto
+Comisionado de las Naciones Unidas para los Derechos Humanos. Manual para las instituciones nacionales de derechos humanos
+12 Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (2007) Declaración de las Naciones Unidas sobre los Derechos
+de los Pueblos Indígenas
+13 Convenio sobre la Diversidad Biológica (2022) Marco Mundial de Biodiversidad de Kunming-Montreal. Sección C. Consideraciones para
+la implementación
+15
+
+--- Página 16 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Hay una serie de metas del GBF que son relevantes para los pueblos indígenas y las comunidades locales, en particular las Metas
+1, 2, 3, 5, 9, 10, 13, 15, 21, 22 y 23.
+Meta Texto
+Meta 1 Respeta los derechos de los pueblos indígenas y las comunidades locales.
+Meta 2 Demuestra la importancia de los pueblos indígenas y las comunidades locales para una restauración eficaz.
+Meta 3 Respeta los derechos de los pueblos indígenas y las comunidades locales, incluso sobre sus territorios
+tradicionales.
+Meta 5 El derecho a respetar y proteger el uso consuetudinario sustentable por parte de los pueblos indígenas y las
+comunidades locales.
+Meta 9 El derecho a proteger y fomentar el uso consuetudinario sustentable por parte de los pueblos indígenas y las
+comunidades locales.
+Meta 10 La contribución de la naturaleza a las personas, desde la biodiversidad hasta el bienestar y la calidad de vida de
+las personas.
+Meta 13 El derecho a garantizar la distribución justa y equitativa de los beneficios que se deriven de la utilización de
+los recursos genéticos y de la información de secuencias digitales sobre recursos genéticos, así como de los
+conocimientos tradicionales asociados a los recursos genéticos.
+Meta 15 La importancia del cumplimiento del acceso y participación en los beneficios.
+Meta 21 La importancia de que solo se pueda acceder a los conocimientos tradicionales, las innovaciones, las prácticas
+y las tecnologías de los pueblos indígenas y las comunidades locales con su consentimiento libre, previo e
+informado, de conformidad con la legislación nacional.
+Meta 22 • El derecho a una participación plena y efectiva en la toma de decisiones relacionadas con la biodiversidad.
+• El derecho de los pueblos indígenas y las comunidades locales a una participación y un liderazgo plenos,
+equitativos, significativos e informados en todos los niveles de acción, participación, política y toma de
+decisiones relacionados con la biodiversidad.
+• El derecho de acceso a la información relacionada con la biodiversidad.
+• Respeta los derechos de los pueblos indígenas y las comunidades locales sobre las tierras, territorios,
+recursos y conocimientos tradicionales.
+Meta 23 El derecho a garantizar la igualdad de género en la aplicación del marco.
+16
+
+--- Página 17 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+2.2. Partes interesadas afectadas • Cambios en el estado de la naturaleza y los servicios
+ecosistémicos causados, o a los que ha contribuido,
+El término “ partes interesadas afectadas ” ha sido fundamental
+el modelo de negocio de la organización (tanto negativos
+en las normas sobre prácticas empresariales responsables
+como positivos);
+promovidas por la ONU, la OCDE y los gobiernos nacionales que
+han desarrollado planes de acción nacionales sobre empresas y • Los impulsores de impacto en el modelo de negocio y las
+derechos humanos. Las normas internacionales sobre diligencia actividades de la organización (como la contaminación
+14
+debida en materia de medio ambiente y derechos humanos, atmosférica, el agua y el suelo y el cambio de uso del suelo); y
+incluidos los Principios Rectores de las Naciones Unidas • Las respuestas a los riesgos y oportunidades relacionados con
+sobre las Empresas y los Derechos Humanos (PRNU), que el la naturaleza (como soluciones basadas en la naturaleza o un
+Consejo de Derechos Humanos de las Naciones Unidas aprobó cambio en la estrategia empresarial o el modelo de negocio).
+por unanimidad en 2011, incluyen la expectativa de que las
+Como parte de sus actividades de participación, y en
+organizaciones participen con las partes interesadas afectadas
+consonancia con los PRNU, las organizaciones deben considerar
+en todo el proceso de diligencia debida. Debe darse prioridad a
+los aspectos de derechos humanos de las dependencias,
+las partes interesadas afectadas cuyos derechos humanos se
+impactos, riesgos y oportunidades relacionados con la naturaleza
+vean perjudicados por las operaciones de la empresa.
+de su modelo empresarial. La diligencia debida en materia
+Las “ partes interesadas afectadas ” se definen en el TNFD de derechos humanos es un proceso mediante el cual una
+como “ personas o grupos que se han visto o pueden verse organización identifica, previene, mitiga y rinde cuentas de sus
+afectados negativamente por las operaciones, productos, impactos negativos sobre los derechos humanos de las personas
+servicios y cadenas de valor de una organización, incluidas las en todas sus actividades y relaciones comerciales. 16 El proceso
+dependencias, impactos, riesgos y/u oportunidades relacionados de diligencia debida se basa en la participación con las partes
+con la naturaleza de una organización, y las respuestas a estas interesadas afectadas.
+cuestiones ” .
+Entre los grupos de partes interesadas que podrían verse
+Las partes interesadas afectadas pueden incluir desde afectados por las actividades o cadenas de valor relacionadas
+comunidades locales y titulares de derechos que viven junto a con la naturaleza de una organización se incluyen los siguientes: 17
+las operaciones de la organización o el lugar de sus actividades
+• Las comunidades afectadas , incluidas las personas o grupos
+hasta aquellas que viven a cierta distancia y que se ven
+que se han visto o pueden verse afectados por las actividades
+perjudicadas, por ejemplo, por la pérdida de naturaleza, como la
+relacionadas con la naturaleza de una organización o por
+pérdida de especies migratorias, o por impulsores de impacto,
+las relaciones de su cadena de valor. Como se ha indicado
+como la contaminación atmosférica o del agua producidas por la
+anteriormente, las comunidades afectadas pueden incluir
+organización.
+desde las comunidades locales que viven junto a las
+Las dependencias, impactos, riesgos y oportunidades operaciones de la organización o el lugar de sus actividades
+relacionados con la naturaleza de una organización, 15 así como hasta aquellas que viven a cierta distancia pero resultan
+sus respuestas y otros aspectos de sus actividades y relaciones afectadas, por ejemplo, por la pérdida de naturaleza, como la
+empresariales, pueden afectar a los derechos humanos, incluidos pérdida de especies migratorias, o por impulsores de impacto,
+los derechos de los pueblos indígenas y de las comunidades como la contaminación atmosférica o del agua producidas por
+locales a través de: la organización.
+14 Foro Económico Mundial (2022) Engaging Affected Stakeholders: The Emerging Duties of Board Members: Insight Report by the Global Future Council
+on Human Rights
+15 “ Cuestiones relacionadas con la naturaleza ” se refiere a las dependencias, impactos, riesgos y oportunidades relacionados con la naturaleza
+16 Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (2011) Principios Rectores sobre las Empresas y los Derechos
+Humanos: Puesta en práctica del marco de las Naciones Unidas para “ proteger, respetar y remediar ” . Véase el Principio 17
+17 Organización para la Cooperación y el Desarrollo Económicos (2017), Guía de diligencia debida para la participación significativa de las partes
+interesadas del sector extractivo
+17
+
+--- Página 18 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+• Los pueblos indígenas y las comunidades locales , como se Estos grupos no son mutuamente excluyentes. Los trabajadores
+ha indicado anteriormente, también pueden verse afectados propios o de la cadena de valor pueden ser miembros de
+por una organización. las comunidades afectadas, mientras que otros pueden ser
+• Titulares de derechos: según la Declaración Universal de consumidores de productos. Estas orientaciones no tratan las
+Derechos Humanos, todos los seres humanos son “ titulares normas y expectativas específicas referentes a los derechos
+de derechos ” . Sin embargo, no todas las personas verán sus sindicales y al derecho de los trabajadores a la libertad de
+derechos humanos amenazados o afectados por un proyecto asociación y negociación colectiva, ni abordan la participación a
+o sus actividades asociadas. Es importante identificar través del diálogo social. 18
+los riesgos para los derechos humanos que suponen las
+actividades de un proyecto para las partes interesadas y Grupos marginados
+reconocer a dichas partes interesadas como “ titulares de
+Dentro de cada grupo de partes interesadas, se debe prestar la
+derechos ” en el contexto de la participación.
+máxima atención a las personas y grupos más marginados, 19
+• Personal propio , incluidos empleados directos a tiempo dado que pueden estar expuestos a un riesgo mayor de
+completo y a tiempo parcial de una organización; empleados resultar perjudicados por las actividades de la organización que
+con contratos de corta duración o contratos de cero horas; potencialmente causan impactos negativos en la naturaleza.
+trabajadores no asalariados que son contratistas individuales También es posible que los grupos marginados sean los que más
+que suministran mano de obra (incluidos los denominados se beneficien de enfoques que integren sus preocupaciones y
+independientes esporádicos); trabajadores proporcionados a puntos de vista en las estrategias relacionadas con la naturaleza
+través de agencias de empleo; y trabajadores migrantes. de una organización, y que de ese modo se logren resultados
+• Trabajadores de la cadena de valor , incluidas todas las positivos para la naturaleza. Deben tenerse en cuenta los riesgos
+personas que trabajan en la cadena de valor inicial o final de diferenciados a los que pueden enfrentarse las mujeres y los
+una organización, cuando ese trabajo está relacionado con hombres.
+los propios productos o servicios de la organización. Puede
+tratarse de trabajadores migrantes, trabajadores de seguridad Dependiendo del contexto local, los grupos marginados pueden
+de la obra o del servicio de limpieza, pequeños productores, incluir trabajadores migrantes, mujeres, ancianos, niños o
+trabajadores de recolección de residuos en el proceso de jóvenes, pueblos indígenas y personas con discapacidades.
+reciclaje y trabajadores informales. Pueden encontrarse en
+cualquier nivel de la cadena de valor de la organización.
+• Los consumidores y usuarios finales, incluidas todas las
+personas que adquieren, consumen o utilizan los bienes y
+servicios de la organización para uso personal, ya sea para
+sí mismas o para otras personas, y no para la reventa ni para
+fines comerciales.
+18 Cuando los trabajadores se ven afectados por las actividades y la respuesta de la organización a cuestiones relacionadas con la naturaleza,
+estas orientaciones se deben aplicar teniendo en cuenta las normas internacionales y con cuidado de garantizar que los procesos de participación
+no socaven el papel de los sindicatos ni las oportunidades de los trabajadores para organizarse a través de sindicatos.
+19 Los grupos marginados tienen ciertas características socioeconómicas que los hacen más propensos a sufrir discriminación, desigualdad en el acceso
+a los derechos, desigualdad en el acceso a los recursos, y en el control sobre ellos, o desigualdad en el acceso a las oportunidades de desarrollo.
+18
+
+--- Página 19 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Recuadro 2: Consideraciones de género en la participación
+El Manual de prácticas recomendadas para las empresas para la participación de las partes interesadas, de la IFC, destaca varios
+factores clave que se deben tener en cuenta para garantizar la integración eficaz de las mujeres en los procesos de participación de
+las partes interesadas. 20 Algunos de esos factores son los siguientes:
+• La necesidad de reconocer que los hombres y las mujeres • La necesidad de prestar atención a si las mujeres pueden
+no solo pueden tener prioridades y perspectivas diferentes formar parte de los procesos de participación y si,
+sobre las cuestiones que se debaten, sino que pueden por ejemplo, necesitan servicios de guardería a
+verse afectados de forma diferente por un proyecto, determinadas horas del día o si ciertos horarios y sitios
+actividad o iniciativa, y tener relaciones diferentes con son más convenientes;
+los recursos naturales. Por ejemplo, los hombres pueden • La oportunidad de utilizar técnicas de participación que
+utilizar un bosque para cazar y obtener madera, mientras faciliten la participación de las mujeres, como pasar
+que las mujeres dependen de él para buscar comida y tiempo en grupos pequeños, tener grupos de un solo sexo
+plantas medicinales; para algunos debates, preguntar específicamente “ ¿qué
+• La necesidad de recabar la opinión de las mujeres piensan las mujeres de la sala sobre este tema? ” e incluir
+para garantizar una imagen completa de las posibles en las reuniones o en los cuestionarios de las encuestas
+dependencias, impactos, riesgos y oportunidades cuestiones que se sabe que son importantes para las
+relacionados con la naturaleza; mujeres;
+• El valor de desglosar los datos por sexo para comprender • La necesidad en algunas culturas de crear un lugar
+mejor las diferencias de género y garantizar que se tienen separado donde puedan plantearse los problemas y
+en cuenta cuando los datos se utilizan para la toma de preocupaciones propios de las mujeres; y
+decisiones; • La importancia de recordar que las mujeres no son un
+• La importancia de contar con una muestra representativa grupo homogéneo y que no comparten todas los mismos
+de cada género a la hora de realizar encuestas y intereses o prioridades, lo que exige prestar atención
+entrevistas, reconociendo que las categorías de a la representación de las mujeres a través de líneas
+participantes en las encuestas, como “ cabeza de socioeconómicas, raciales, étnicas, religiosas y de
+familia ” , suelen inclinarse en gran medida hacia los identidad de género, así como de mujeres de diferentes
+hombres, mientras que es importante incluir a los hogares edades, estados civiles y mujeres con discapacidades.
+encabezados por mujeres, ya que las madres solteras y La consulta con ONG locales u organizaciones de
+las viudas pueden representar algunos de los hogares base comunitaria que representen a mujeres de
+más vulnerables; grupos minoritarios puede ser útil para garantizar la
+• La necesidad de que los procesos de participación sean representación.
+culturalmente apropiados para las mujeres, reconociendo
+que las mujeres pueden sentirse más cómodas hablando
+con otras mujeres, y que los equipos de encuesta o de
+participación deben contar con miembros femeninos que
+puedan involucrar a las mujeres cuando sea necesario;
+20 Corporación Financiera Internacional (2007) Relaciones con la comunidad y otros actores sociales: Manual de prácticas recomendadas para
+las empresas que hacen negocios en mercados emergentes
+19
+
+--- Página 20 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+3. Participación y normas de diligencia debida
+La participación respalda un enfoque integrado de los derechos Participación con las partes interesadas afectadas
+de los pueblos indígenas y las comunidades locales y las partes
+Las normas internacionales sobre diligencia debida en materia
+interesadas afectadas como parte de la diligencia debida en
+ambiental y de derechos humanos incluyen la expectativa de
+materia de derechos humanos y medio ambiente.
+que las organizaciones participen con las partes interesadas
+afectadas a través del proceso de diligencia debida. Esto es
+3.1. Normas internacionales aplicable a los impactos relacionados con la naturaleza y la
+respuesta de la organización en relación con ellos, cuando estos
+La diligencia debida en materia de derechos humanos y medio
+puedan afectar a los derechos humanos de los pueblos indígenas,
+ambiente es fundamental en las normas internacionales de
+las comunidades locales y las partes interesadas, además de a
+conducta empresarial responsable estipuladas en los PRNU 21
+otros aspectos de las actividades y relaciones empresariales de
+y en las Directrices de la OCDE para Empresas Multinacionales
+la organización. Los PRNU establecen que las organizaciones
+sobre Conducta Empresarial Responsable. 22
+deben “ tratar de comprender las preocupaciones de las partes
+El artículo 15 de los PRNU establece que: interesadas que puedan verse afectadas, consultándolas
+directamente de manera que se tengan en cuenta el idioma y
+“ Para cumplir con su responsabilidad de respetar los
+otros posibles obstáculos para una participación efectiva ” . 23
+derechos humanos, las empresas deben contar con políticas
+y procedimientos apropiados en función de su tamaño y
+circunstancias, a saber: Identificar y abordar los impactos negativos reales
+y potenciales
+a. Un compromiso político de asumir su responsabilidad
+La diligencia debida en materia de derechos humanos implica
+de respetar los derechos humanos;
+que una organización identifique y aborde los impactos negativos
+b. Un proceso de diligencia debida en materia de derechos
+reales y potenciales sobre los derechos humanos de las personas
+humanos para identificar, prevenir, mitigar y rendir cuentas
+en todo su modelo de negocio y en las relaciones de su cadena de
+de cómo abordan su impacto sobre los derechos humanos;
+valor; así como que evite, prevenga, mitigue y remedie aquellos
+c. Unos procesos que permitan reparar todas las consecuencias impactos en los que esté implicada; y que realice un seguimiento
+negativas sobre los derechos humanos que hayan provocado de la eficacia de sus esfuerzos, informe sobre ella y rinda cuentas
+o contribuido a provocar ” . a ese respecto.
+21 Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (2011) Principios Rectores sobre las Empresas y los Derechos
+Humanos: Puesta en práctica del marco de las Naciones Unidas para “ proteger, respetar y remediar ”
+22 Organización para la Cooperación y el Desarrollo Económicos (2011) Directrices de la OCDE para Empresas Multinacionales sobre Conducta
+Empresarial Responsable
+23 Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (2011) Principios Rectores sobre las Empresas y los Derechos
+Humanos: Puesta en práctica del marco de las Naciones Unidas para “ proteger, respetar y remediar ” Véase Comentario, Principio 18
+20
+
+--- Página 21 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Abordar los perjuicios a las partes interesadas Comprender la legislación y las directrices vigentes
+afectadas En los países donde haya pueblos indígenas y comunidades
+Cuando los impactos negativos sobre los derechos humanos locales, debe existir legislación o por lo menos directrices en
+de pueblos indígenas, comunidades locales y otras partes materia de derechos de los pueblos indígenas, que incluyan la
+interesadas afectadas estén vinculados directamente a las exigencia de que disfruten de su derecho al consentimiento libre,
+operaciones, los productos o los servicios de una organización previo e informado para actividades que afecten a sus tierras,
+a través de sus relaciones con la cadena de valor, pero sin territorios y recursos. Las leyes y disposiciones relacionadas con
+contribución por su parte, se espera de la organización que utilice el respeto de los derechos de los pueblos indígenas se aplicarán
+su influencia para abordar los perjuicios a través de la prevención, en los países que hayan firmado la DNUDPI.
+mitigación y, cuando proceda, la reparación.
+Cumplir la legislación y las directrices vigentes
+La ejecución de la debida diligencia en materia de derechos
+humanos se detalla en la siguiente guía exhaustiva para Las organizaciones se deben asegurar de conocer la legislación
+organizaciones con consejos prácticos y ejemplos reales sobre y las directrices pertinentes en materia de derechos humanos
+cómo aplicar los PRNU: de los pueblos indígenas, así como de poder cumplirlas.
+Al mismo tiempo, no deben suponer que los requisitos
+• La responsabilidad de las empresas de respetar los derechos
+legislativos o reglamentarios existentes cumplen la norma o
+humanos: Guía para la interpretación ; 24
+son lo suficientemente específicos en cuanto a la participación
+• Doing Business with Respect for Human Rights significativa de las partes interesadas, tal y como se establece
+(Hacer negocios respetando los derechos humanos); 25 y en estas orientaciones del TNFD. El cumplimiento de la ley
+• Guía de facilitación para la formación en Derechos Humanos puede no ser suficiente para lograr los beneficios positivos de
+y Debida Diligencia. 26 la participación eficaz de las partes interesadas en lo referente
+a cuestiones de la organización relacionadas con la naturaleza
+Al llevar a cabo la diligencia debida en materia de derechos o para minimizar los impactos negativos sobre las partes
+humanos con respecto a los impactos sobre los pueblos interesadas y los riesgos empresariales asociados. Se espera de
+indígenas, una organización debe aplicar la Declaración de las las organizaciones que respeten los derechos humanos aunque
+Naciones Unidas sobre los Derechos de los Pueblos Indígenas la protección jurídica de los derechos en el país donde operan sea
+(DNUDPI). débil.
+3.2. Legislación pertinente Corroborar las garantías de terceros
+En muchos países existe algún tipo de legislación referente a Las organizaciones deben tener cuidado antes de confiar en las
+la participación de las partes interesadas afectadas, que puede garantías de que terceros, como gobiernos, empresas u otros,
+incluir las propias obligaciones del gobierno de consultar con las ya han conseguido la participación y los acuerdos con las partes
+comunidades respecto a los proyectos de inversión y desarrollo interesadas. Será importante corroborar dichas afirmaciones
+que les afecten y a las expectativas de negocio y obligaciones directamente con los pueblos indígenas y las comunidades
+legales y otros terceros involucrados en dichas actividades. locales que viven en los territorios afectados, o donde se
+Los Estados adoptan cada vez más requisitos obligatorios de vayan a llevar a cabo las actividades, antes de determinar que
+diligencia debida y divulgación en consonancia con sus propias esas garantías cumplen debidamente con la perspectiva de
+obligaciones de protección de los derechos humanos. la organización, sus necesidades y expectativas de buenas
+prácticas. Las organizaciones deben tener en cuenta que las
+garantías de terceros no pueden utilizarse en lugar de la diligencia
+debida y no transfieren la responsabilidad de la organización.
+24 Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (2012) La responsabilidad de las empresas de respetar los
+derechos humanos: Guía para la interpretación
+25 Shift, Oxfam, Global Compact Network Netherlands (2016) Doing Business with Respect for Human Rights: A Guidance Tool for Companies
+Programa de las Naciones Unidas para el Desarrollo (2021) Guía de facilitación para la formación en Derechos Humanos y Debida Diligencia
+21
+
+--- Página 22 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+3.3. Orientaciones sobre participación con • Directrices Akwé: Kon voluntarias para realizar
+los pueblos indígenas y las comunidades evaluaciones de los impactos culturales, ambientales,
+locales y sociales de proyectos de desarrollo que hayan de realizarse
+en lugares sagrados o en tierras o aguas ocupadas o utilizadas
+El artículo 8(j) del CDB establece la obligación de garantizar
+tradicionalmente por las comunidades indígenas y locales,
+que la participación total y eficaz de los pueblos indígenas y
+o que puedan afectar a esos lugares. 28
+las comunidades locales se considere durante la planificación
+• El Código de Conducta Ética Tkarihwaié:ri sobre el respeto
+y ejecución de proyectos como la minería, el desarrollo de
+al patrimonio cultural e intelectual de las comunidades
+infraestructuras o las empresas turísticas.
+indígenas y locales. 29
+El artículo 8(j) del CDB establece que: • Las Directrices Voluntarias Mo' otz Kuxtal para la
+elaboración de mecanismos, legislación u otras iniciativas
+“Cada Parte contratante, en la medida de lo posible y según
+adecuadas para garantizar el consentimiento previo
+proceda: Con arreglo a su legislación nacional, respetará,
+e informado (CPI), el consentimiento libre, previo e
+preservará y mantendrá los conocimientos, las innovaciones y las
+informado (CLPI) o la aprobación y participación, según
+prácticas de las comunidades indígenas y locales que entrañen
+las circunstancias nacionales, de los pueblos indígenas
+estilos tradicionales de vida pertinentes para la conservación y
+y las comunidades para el acceso a sus conocimientos,
+la utilización sostenible de la diversidad biológica y promoverá
+innovaciones y prácticas. Esto incluye la participación justa
+su aplicación más amplia, con la aprobación y la participación de
+y equitativa en los beneficios que se deriven de la utilización
+quienes posean esos conocimientos, innovaciones y prácticas,
+de sus conocimientos, innovaciones y prácticas pertinentes
+y fomentará que los beneficios derivados de la utilización de
+para la conservación y la utilización sostenible de la diversidad
+esos conocimientos, innovaciones y prácticas se compartan
+biológica y para denunciar e impedir la apropiación ilegal de los
+equitativamente”.
+conocimientos tradicionales. 30
+• Las Directrices voluntarias Rutzolijirisaxik para la
+Directrices voluntarias desarrolladas en virtud del
+repatriación de conocimientos tradicionales pertinentes para
+artículo 8(j)
+la conservación y la utilización sostenible de la diversidad
+Las directrices reconocen la relación única que los pueblos biológica. 31
+indígenas y las comunidades locales mantienen con sus
+tierras, así como la importancia de sus conocimientos
+tradicionales, prácticas culturales y medios de subsistencia.
+Entre ellas figuran: 27
+27 Directrices voluntarias del Convenio sobre la Diversidad Biológica sobre conocimientos tradicionales
+28 Convenio sobre la diversidad biológica (2004) Directrices Akwé: Kon
+29 Convenio sobre la diversidad biológica (2011) El Código de Conducta Ética Tkarihwaié:ri3
+30 Convenio sobre la Diversidad Biológica (2019) Directrices voluntarias Mo'otz Kuxtal
+31 Convenio sobre la Diversidad Biológica (2019) Las Directrices voluntarias Rutzolijirisaxik para la repatriación de conocimientos tradicionales (cbd.int)
+22
+
+--- Página 23 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Recuadro 3: Acceso y participación en los beneficios
+Protocolo de Nagoya sobre el acceso a los recursos genéticos y la participación justa y equitativa en los beneficios que se deriven
+de su utilización al Convenio sobre la Diversidad Biológica es un acuerdo complementario al CDB que se menciona en el artículo
+8(j). Su propósito es promover la conservación y el uso sostenible de la biodiversidad, además de garantizar la distribución justa y
+equitativa de los beneficios derivados de la utilización de los recursos genéticos y de los conocimientos tradicionales asociados a
+los recursos genéticos.
+El Protocolo de Nagoya se basa en el principio del consentimiento previo e informado (CPI) 32 otorgado por un proveedor a un
+usuario y en las negociaciones entre ambas partes para establecer términos acordados mutuamente. Con ello se pretende
+garantizar la distribución justa y equitativa de los recursos genéticos y los conocimientos tradicionales asociados a los recursos
+genéticos y los beneficios asociados.
+El preámbulo contiene siete párrafos relativos a los pueblos indígenas y las comunidades locales. Estos párrafos incluyen
+referencias al artículo 8(j), la interrelación entre los recursos genéticos y los conocimientos tradicionales asociados a los recursos
+genéticos y su naturaleza inseparable.
+El Protocolo contiene importantes disposiciones relativas a los conocimientos tradicionales de los pueblos indígenas y las
+comunidades locales sobre los recursos genéticos, así como a los recursos genéticos en posesión de los pueblos indígenas y las
+comunidades locales, cuando se han reconocido los derechos de estas comunidades sobre los recursos. El Protocolo establece
+obligaciones claras para tener en cuenta las leyes consuetudinarias, los protocolos comunitarios y los procedimientos de las
+comunidades indígenas y locales, según proceda, con respecto a los conocimientos tradicionales asociados a los recursos
+genéticos, así como para solicitar el consentimiento previo e informado de los pueblos indígenas y las comunidades locales en
+estas situaciones. También prevé la distribución de los beneficios derivados de la utilización de los conocimientos tradicionales
+asociados a los recursos genéticos, así como de los beneficios derivados de la utilización de los recursos genéticos, de
+conformidad con la legislación nacional. La participación en los beneficios debe basarse en términos acordados mutuamente.
+Los principios de acceso y participación en los beneficios son fundamentales en cualquier participación entre organizaciones,
+pueblos indígenas y comunidades locales, y deben divulgarse la calidad y la naturaleza de ese diálogo. Un diálogo y una
+colaboración de alta calidad entre las organizaciones, los pueblos indígenas y las comunidades locales que adopten estos
+principios son señal de un enfoque realmente colaborativo del uso de los recursos genéticos, los conocimientos tradicionales
+asociados a los recursos genéticos y a los activos ambientales en general, y los conocimientos tradicionales.
+3.3.1. Consentimiento libre, previo e informado Aunque el derecho al consentimiento libre, previo e informado es
+particular a los pueblos indígenas, cuando las actividades de una
+La DNUDPI estipula los derechos humanos específicos de los
+organización tengan un impacto sobre las tierras, las aguas y los
+pueblos indígenas a que se les solicite su consentimiento, libre,
+medios de vida de otras comunidades locales, puede considerar
+previo e informado para las actividades que tengan un impacto
+apropiado aplicar otros enfoques, como un proceso de consulta
+sobre sus tierras, territorios u otros recursos, y el derecho a
+y participación informada (CPI). 33 Hacerlo puede reducir el riesgo
+otorgar o denegar dicho consentimiento. El CDB también adoptó
+y asegurar las oportunidades y los beneficios derivados de las
+las Directrices voluntarias Mo'otz Kuxtal antes mencionadas.
+actividades.
+32 El CPI es “El permiso dado por la autoridad nacional competente de un país proveedor a un usuario antes de acceder a los recursos genéticos,
+con arreglo a un marco jurídico e institucional nacional apropiado”. https://learnnagoya.com/guides/
+33 Las normas de desempeño de la IFC hacen referencia a un CPI que comprende un intercambio más profundo de posturas e información y una consulta
+organizada e iterativa, que hace que los clientes incorporen en su proceso de toma de decisiones los puntos de vista de las comunidades afectadas
+en materias que les afectan directamente, como las medidas de mitigación propuestas, la distribución de beneficios y oportunidades derivadas del
+desarrollo, y cuestiones de implementación.
+23
+
+--- Página 24 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+La Guía de la OCDE de diligencia debida para la participación “En algunos sectores, como el de extracción de recursos
+significativa de las partes interesadas del sector extractivo y la naturales, el gobierno puede estar obligado a establecer
+Guía de referencia para las empresas respecto a la declaración comunicación con las comunidades indígenas antes de que una
+de las Naciones Unidas sobre los derechos de los pueblos empresa privada intervenga en el proyecto. La forma en que
+indígenas destacan una serie de consideraciones adicionales se lleven a cabo esas consultas y el grado de satisfacción de
+cuando la modalidad de participación se basa en el objetivo del los actores sociales luego de esa comunicación pueden tener
+consentimiento libre, previo e informado. efectos directos en la empresa del proyecto que posteriormente
+obtenga un permiso de prospección en una zona en que se
+vean afectadas las comunidades indígenas. Por esta razón, es
+Requisitos legales para el consentimiento libre,
+aconsejable aplicar la diligencia debida en las consultas previas
+previo e informado
+con los pueblos indígenas para determinar en qué etapa se
+El Convenio 169 de la OIT, la DNUDPI y el CDB establecen produjo esa comunicación y qué compromisos se establecieron o
+ciertas obligaciones de los Estados en cuanto a la aplicación del qué cuestiones siguen pendientes”.
+consentimiento libre, previo e informado en situaciones en que las
+actividades del sector público o privado afecten a las tierras, los Se pueden encontrar más orientaciones e información sobre
+territorios y los recursos de los pueblos indígenas o a su derecho cómo llevar a cabo el proceso de CLPI en las Directrices
+más amplio a la autodeterminación. En un número creciente de voluntarias Mo' otz Kuxtal y en el kit de herramientas de la
+países, estas obligaciones se reflejan en la legislación nacional Organización de las Naciones Unidas para la Alimentación y la
+con diferentes niveles de especificidad. Agricultura (FAO) . 35
+Si una organización tiene previsto basarse en un proceso
+de participación previo con los pueblos indígenas, deberá
+asegurarse de su alcance y calidad. Como apunta la Corporación
+Financiera Internacional en su Manual de participación de las
+partes interesadas: 34
+34 Corporación Financiera Internacional (2007) Relaciones con la comunidad y otros actores sociales: Manual de prácticas recomendadas para las
+empresas que hacen negocios en mercados emergentes
+35 Organización de las Naciones Unidas para la Alimentación y la Agricultura (2011) Kit de herramientas para implementar el proceso de CLPI
+24
+
+--- Página 25 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+4. Preparación para la participación
+Antes de comprometerse con los pueblos indígenas, las de las partes interesadas que sean respetuosas y culturalmente
+comunidades locales y las partes interesadas afectadas a la apropiadas. La guía elaborada por el Consejo Global del
+hora de analizar y responder a los problemas relacionados con la Futuro sobre Derechos Humanos del Foro Económico Mundial
+naturaleza, es fundamental que las organizaciones cuenten con proporciona preguntas para que el consejo de administración
+las políticas, los procesos, los sistemas y la estrategia adecuados. de una empresa determine en qué medida la organización se
+participa con las partes interesadas afectadas: 37
+“Establecer relaciones requiere tiempo. Muchos de los
+1. ¿Sabe la organización quiénes son las partes interesadas?
+aspectos esenciales de una buena relación —confianza,
+2. ¿Dispone la organización de los mecanismos adecuados
+respeto mutuo, comprensión— son elementos intangibles
+para comprender los posibles impactos adversos sobre los
+que se desarrollan y evolucionan con el tiempo a partir
+derechos humanos de las partes interesadas afectadas y
+de experiencias y contactos individuales y colectivos.
+cómo responder adecuadamente?
+Por esta razón, ahora las empresas comienzan a
+relacionarse con los actores sociales en una etapa del 3. ¿Está el consejo suficientemente implicado en la supervisión
+proyecto mucho más temprana que en el pasado. Este es de estos mecanismos y en garantizar su eficacia?
+especialmente el caso de los proyectos de mayor tamaño 4. ¿Dispone el consejo de las competencias, la experiencia y los
+y más complejos o controvertidos, en que las empresas conocimientos adecuados para llevar a cabo estas tareas?
+comienzan a interactuar [...] en [etapas muy tempranas], 5. ¿Dispone el consejo de los mecanismos de supervisión y
+dando a entender a las comunidades y a otros actores revisión adecuados para llevar a cabo estas tareas?
+sociales locales que sus opiniones y bienestar son factores
+que consideran importantes”. Corporación Financiera
+4.1.1. Políticas y sistemas para la participación
+Internacional, Relaciones con la comunidad y otros actores
+sociales: Manual de prácticas recomendadas para las La participación eficaz con los pueblos indígenas, las
+empresas que hacen negocios en mercados emergentes. comunidades locales y las partes interesadas que estén o puedan
+36
+estar afectadas por las cuestiones y respuestas de la organización
+relacionadas con la naturaleza debe integrarse formalmente en
+Esta sección destaca la importancia de la preparación las políticas, procesos y sistemas de la organización.
+organizativa y proporciona orientaciones sobre cómo y cuándo
+llevar a cabo una participación eficaz de los pueblos indígenas, Para que sea eficaz, se debe contar con un marco de políticas
+las comunidades locales y las partes interesadas. claro sobre la participación con los pueblos indígenas, las
+comunidades locales y las partes interesadas afectadas
+que tenga una visión a largo plazo y se centre en establecer
+4.1. Gobernanza de la participación
+relaciones, evitar los impactos negativos sobre las partes
+Los consejos de administración pueden desempeñar un papel interesadas, lograr resultados positivos para ellas e identificar las
+importante en el establecimiento de una cultura organizativa que oportunidades de beneficio mutuo.
+busque y valore las perspectivas de los pueblos indígenas, las
+comunidades locales y las partes interesadas afectadas, incluidos
+los más marginados. Los propios consejos pueden buscar formas
+apropiadas de comprometerse directamente con las perspectivas
+36 Corporación Financiera Internacional (2007) Relaciones con la comunidad y otros actores sociales: Manual de prácticas recomendadas para las
+empresas que hacen negocios en mercados emergentes
+37 Foro Económico Mundial (2022) Guidance Note: Board duties in ensuring company engagement with affected stakeholders
+25
+
+--- Página 26 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+La organización debe contar con políticas sólidas que respeten • Procesos y expectativas apropiados para informar a la alta
+los derechos de los pueblos indígenas y las comunidades locales dirección y al consejo de administración de cuestiones
+para evitar y hacer frente a cualquier coacción, manipulación, significativas que surjan en el desarrollo de la participación
+intimidación, compensación y reclamaciones de los pueblos con los pueblos indígenas, las comunidades locales y las
+indígenas, las comunidades locales y las partes interesadas partes interesadas afectadas, o de cuestiones significativas
+afectadas. planteadas a través de dichos procesos.
+4.1.2. Flujos de información, responsabilidades 4.1.3. Mecanismos eficaces de reclamación
+y rendición de cuentas y reparación
+La participación de los pueblos indígenas, las comunidades Los procesos de participación deben permitir el desarrollo
+locales y las partes interesadas afectadas se debe gestionar de relaciones positivas para sacar a la luz y abordar las
+eficazmente, con una estrategia, un conjunto de objetivos, preocupaciones sobre los impactos en las partes interesadas
+un calendario, un presupuesto y una asignación de de las políticas, planes y actividades de una organización
+responsabilidades claramente definidos. Preparar a una relacionados con la naturaleza.
+organización para que tenga éxito en su participación con las
+Al mismo tiempo, pueden surgir reclamaciones sobre la
+partes interesadas requiere:
+ejecución del proceso, la implementación de sus resultados,
+• Garantizar que todo el personal conozca la política y los o problemas sustanciales que una parte interesada considera
+procesos de participación con los pueblos indígenas, las que no se han abordado debidamente. Existen riesgos similares
+comunidades locales y las partes interesadas afectadas; en cualquier proceso de este tipo. Es importante contar con un
+• Informar a los terceros que interactúan con los pueblos mecanismo de reclamación bien definido y operativo que ofrezca
+indígenas, las comunidades locales y las partes interesadas un canal reconocido y eficaz para que estas cuestiones salgan
+afectadas en relación con los negocios de la organización a la luz y se aborden formalmente, de modo que las quejas
+sobre la política y los procesos de participación en curso o los puedan identificarse y resolverse antes de que se agraven, se
+acuerdos resultantes, para ayudar a asegurarse de que los intensifiquen y socaven el proceso de participación. También
+apoyen y no los socaven; es importante hacer un seguimiento de las reclamaciones, la
+respuesta de la organización y el resultado para garantizar un
+• Establecer responsabilidades y rendición de cuentas claras,
+cierre oportuno y el aprendizaje de lecciones.
+incluso ante los altos directivos de la organización, para la
+adecuada conducción de la participación en consonancia con Las normas internacionales sobre prácticas empresariales
+las políticas de la organización; responsables (los PRNU y las directrices de la OCDE)
+• Asegurarse de que el personal responsable de la participación establecen la expectativa de que todas las empresas dispongan
+tenga la formación y la experiencia apropiadas y que de un mecanismo de reclamación eficaz a nivel operativo para
+comprenda el contexto local y el entorno operativo, lo que las personas y comunidades que puedan verse afectadas
+incluye el conocimiento del idioma local, la ley consuetudinaria negativamente por las actividades de la organización, lo que
+y los protocolos comunitarios; incluye sus respuestas a las cuestiones relacionadas con la
+• Crear una cultura en la que el personal que no interviene en naturaleza. Los PRNU establecen criterios claros para la eficacia
+los procesos formales de participación reconozca su propia de tales mecanismos en el Principio Rector 31, que establece
+responsabilidad para apoyar y mantener relaciones positivas a que deben ser legítimos, accesibles, predecibles, equitativos,
+través de sus propias prácticas; y, transparentes, compatibles con los derechos, fuente de
+aprendizaje continuo y diseñados con las aportaciones de sus
+partes interesadas. 38
+38 Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (2011) Principios Rectores sobre las Empresas y los Derechos
+Humanos: Puesta en práctica del marco de las Naciones Unidas para “ proteger, respetar y remediar ” . Véase el Principio 31
+26
+
+--- Página 27 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+La reparación eficaz de las reclamaciones requiere la o consuetudinarios (especialmente cuando hay cuestiones
+incorporación de los principios de participación significativa complejas), puntos de vista divergentes y consecuencias
+en el diseño y la aplicación de medidas correctoras destinadas importantes de las decisiones que se tomarán.
+a responder a los impactos adversos en la naturaleza y las
+Cuando el recurso del tiempo se pasa por alto o se subestima,
+partes interesadas afectadas. Los procesos de reparación de
+ello puede socavar las relaciones con los pueblos indígenas, las
+agravios deben encontrar soluciones en consulta con las partes
+comunidades locales y las partes interesadas afectadas y puede
+interesadas afectadas y con el consentimiento libre, previo e
+tener graves consecuencias para el éxito de las actividades
+informado de los pueblos indígenas y las comunidades locales.
+propuestas. Los afectados pueden buscar otras vías para plantear
+Deben establecerse canales de retroalimentación para garantizar
+las preocupaciones que no hayan sido resueltas.
+la aplicación plena y oportuna de las soluciones. 39
+Los mecanismos de reclamación son distintos del propio proceso
+4.3. Integración en la estrategia de la
+de participación de las partes interesadas. Ninguno sustituye al
+organización
+otro, pero son complementarios y se refuerzan mutuamente. 40
+La participación de los pueblos indígenas, las comunidades
+locales y las partes interesadas afectadas en las actividades
+4.2. Asignación de recursos
+empresariales en curso no es una actividad puntual ni un proceso
+La participación de los pueblos indígenas, las comunidades periférico. Para tener éxito y apoyar la identificación, análisis y
+locales y las partes interesadas afectadas exige recursos gestión eficaces de los problemas relacionados con la naturaleza,
+adecuados para llegar a buen puerto, como recursos humanos la participación debe integrarse en la estrategia y las respuestas
+y financieros, de tiempo y, en algunos casos, también más amplias de la organización. Esto es importante por varias
+recursos tecnológicos. 41 Esto puede incluir la disponibilidad de razones, entre ellas la asignación de tiempo y otros recursos
+representantes clave y asistencia para fomentar la capacidad adecuados al proceso de participación.
+de los pueblos indígenas, las comunidades locales y las partes
+interesadas afectadas. Este podría ser el caso si, por ejemplo, La estrategia de la organización puede aprovechar las siguientes
+la participación involucra cuestiones técnicas para las cuales ideas:
+necesitarán una formación a fin de participar en términos
+• Dónde y cómo los pueblos indígenas, las comunidades locales
+igualitarios, o la capacidad de contratar al asesor experto que
+y las partes interesadas dependen de los mismos activos
+elijan.
+ambientales y servicios ecosistémicos de los que depende
+Los recursos para la participación se deben acordar antes del la organización, y los impactos potenciales de la pérdida y
+proceso, reconociendo que las necesidades pueden ir variando, degradación de la naturaleza sobre sus derechos y bienestar;
+y se debe contar con el respaldo de la dirección. • Dónde y cómo se ven afectados los pueblos indígenas, las
+comunidades locales y las partes interesadas por los impactos
+Los procesos de participación pueden fracasar si no toman
+de una organización en la naturaleza, tanto positivos como
+en cuenta el recurso del tiempo. Los plazos del proyecto y las
+negativos, incluidos los impulsores de impacto como la
+actividades deben tener en cuenta el tiempo necesario para que
+contaminación atmosférica, del agua y del suelo;
+los pueblos indígenas, las comunidades locales y las partes
+• Dónde y cómo la estrategia de la organización para gestionar
+interesadas afectadas hagan sus propias preparaciones para la
+los riesgos y oportunidades relacionados con la naturaleza
+participación. También se debe asignar tiempo suficiente para la
+implica impactos (tanto positivos como negativos) u
+propia participación, los sistemas de gobernanza tradicionales
+oportunidades para los pueblos indígenas, las comunidades
+39 Organización para la Cooperación y el Desarrollo Económicos (2017) Guía de diligencia debida para la participación significativa de las partes
+interesadas del sector extractivo, Naciones Unidas (2020) Stakeholder Engagement and the 2030 agenda – a practical guide, Grupo de Trabajo de la
+ONU sobre Empresas y Derechos Humanos (2021) UNGPs 10+ A roadmap for the next decade of business and human rights
+40 Consejo Internacional de Minería y Metales (2019) Handling and resolving local-level concerns and grievances: Human rights in the mining and
+metals sector
+41 AccountAbility (2015) Norma AA1000 sobre la participación de grupos de interés
+27
+
+--- Página 28 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+locales y las partes interesadas, y si los impactos negativos se y los diferentes impactos del mismo. Se debe dar prioridad
+evitarán o se minimizarán y de qué manera; y a la participación de las partes interesadas especialmente
+• Si y cómo las estimaciones de la resiliencia de la estrategia marginadas. Se debe tener cuidado de no suponer que algún
+de la organización para cuestiones relacionadas con la grupo no será afectado sin tener pruebas para llegar a esa
+naturaleza toman suficientemente en cuenta las perspectivas, conclusión.
+prioridades, necesidades y planes de los pueblos indígenas,
+Los grupos de partes interesadas distan mucho de ser
+las comunidades locales y las partes interesadas afectadas,
+homogéneos. Comprenden grupos de personas diferenciados por
+así como la calidad de las relaciones existentes de la
+riqueza, etnia, género y otras estratificaciones socioeconómicas,
+organización.
+y estos grupos tienen diferentes relaciones de poder e intereses
+en el proceso de participación. Los trabajadores migrantes, las
+4.4. Mapeo de los pueblos indígenas, mujeres trabajadoras, la juventud trabajadora, las personas con
+las comunidades locales y las partes discapacidades y algunos grupos étnicos o raciales pueden tener
+interesadas afectadas distintas vulnerabilidades y perspectivas que deben incluirse en el
+proceso de participación. Del mismo modo, puede ser importante
+El punto de partida para la participación en la identificación,
+comprender las experiencias y perspectivas de las mujeres, los
+análisis y gestión de los problemas relacionados con la naturaleza
+jóvenes, los distintos grupos raciales y otros subgrupos dentro
+es desarrollar una comprensión completa de los pueblos
+de las comunidades y entre los pequeños agricultores para
+indígenas, las comunidades locales y las partes interesadas que
+identificar eficazmente el abanico de cuestiones relacionadas
+puedan:
+con la naturaleza que se derivan de las estrategias y planes de
+• Tener dependencias de la naturaleza comunes a las de la acción de una organización. Es esencial tener en cuenta que
+organización, particularmente en áreas importantes para las necesidades de las partes interesadas pueden cambiar
+la biodiversidad, ecosistemas de alta integridad, como las con el tiempo, por lo que sus peticiones deben reanalizarse a
+que experimentan un rápido declive en la integridad de los lo largo de los proyectos y las estrategias deben adaptarse en
+ecosistemas, y/o áreas de alto riesgo físico hídrico, y donde la consecuencia. 42
+pérdida y degradación de la naturaleza puedan tener impactos
+La identificación de los pueblos indígenas y las comunidades
+potenciales en sus derechos básicos y su bienestar;
+locales depende del contexto y varía de un país a otro. En
+• Resultar afectados negativamente por el impacto de la algunos países, la ocupación y el uso de las tierras y territorios
+organización en la naturaleza; antes de la invasión colonial sirven como forma estándar
+• Resultar afectados por la respuesta de la organización a de identificación de los pueblos indígenas, mientras que en
+cuestiones relacionadas con la naturaleza, incluidas las otros países, la legislación y las medidas complementarias
+estrategias de mitigación y adaptación, y cualquier innovación podrían haber identificado ya a algunos pueblos indígenas. 43
+o cambio en su modelo de negocio; y En los países africanos y en algunos otros contextos, son más
+• Ser importantes para promover oportunidades relacionadas relevantes otras características, como el apego y el uso de sus
+con la naturaleza y aportar valor añadido a la materialización tierras, o la marginación basada en métodos de vida o formas de
+de tales oportunidades. producción distintos a los del modelo dominante. Se debe prestar
+una atención especial a los pueblos indígenas en aislamiento
+Las organizaciones deben tener en cuenta a los pueblos voluntario, que son difíciles de identificar y a menudo los más
+indígenas, las comunidades locales y todas las categorías de vulnerables.
+partes interesadas afectadas mencionadas anteriormente,
+incluyendo el propio personal de la organización, los trabajadores
+de la cadena de valor y los usuarios finales y consumidores. Estos
+grupos pueden dividirse a su vez en partes interesadas internas
+o externas, dados sus distintos niveles de interés en un proyecto
+42 Agrawal, A., y Redford, K. (2009) Place, conservation, and displacement. Conservation and Society, 7(1); Lazos-Chavero, E., et al. (2016) Stakeholders
+and tropical reforestation: challenges, trade-offs, and strategies in dynamic environments . Biotropica 48(6)
+43 Convenio 169 de la Organización Internacional del Trabajo (OIT)
+28
+
+--- Página 29 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+El proceso de mapeo debe distinguir estos subgrupos claramente
+e intentar comprender las diferentes maneras en las que se puede
+buscar la participación de estos grupos para conocer cómo se
+pueden ver afectados y para compartir sus puntos de vista.
+4.4.1. Representantes
+En muchas situaciones, las organizaciones participarán con
+los pueblos indígenas, las comunidades locales y las partes
+interesadas a través de sus representantes. En el caso de los
+pueblos indígenas, la elección de sus representantes se basa en
+sus derechos, instituciones, cultura, derecho consuetudinario y
+prácticas y tradiciones establecidas, mientras que en el caso de
+los trabajadores, se realiza mediante procesos que se ajusten a
+las normas internacionales.
+29
+
+--- Página 30 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+5. Diseño y aplicación de la participación
+Una vez que se han identificado los pueblos indígenas, las Los valores de la naturaleza varían según los sistemas de
+comunidades locales y las partes interesadas afectadas y sus conocimiento, las lenguas, las tradiciones culturales y los
+representantes legítimos, se tiene la oportunidad de involucrarlos contextos medioambientales. La forma en que las personas
+en el diseño del proceso de participación. Esto es especialmente valoran la naturaleza está influida por cómo interpretan su
+importante cuando las organizaciones aplican el enfoque LEAP relación con ella. Las personas perciben, interpretan, juzgan y se
+para evaluar sus dependencias e impactos en la naturaleza, relacionan con la naturaleza de maneras diferentes y, a veces,
+analizar sus riesgos y oportunidades relacionados con la incompatibles. Los valores de algunos actores pueden dominar
+naturaleza y prepararse para responder. El enfoque LEAP puede las decisiones, mientras que otros pueden quedar marginados,
+ayudar a garantizar que la organización y las personas con las que lo que a menudo conduce a resultados no equitativos o a
+se relaciona coincidan en el propósito, las fases y los resultados conflictos. 44
+del proceso. La participación en el enfoque LEAP también
+El análisis de los valores de la IPBES 45 destaca los diversos
+puede ayudar a que los enfoques adoptados sean culturalmente
+valores de la naturaleza y sus contribuciones a las personas.
+apropiados y propicien la participación y la inclusión (véase la
+El análisis sigue una óptica de valores plurales 46 que puede:
+Tabla 1 anterior).
+• Ayudar a las organizaciones a participar con diversos sistemas
+Una participación en la que las expectativas de la organización y
+de conocimientos y valores sobre la naturaleza;
+de los pueblos indígenas, las comunidades locales y las partes
+interesadas afectadas no coincidan puede provocar un desgaste • Permitir el reconocimiento de una variedad de perspectivas
+de las relaciones que ponga en peligro los beneficios buscados. sostenidas por quienes participan en los múltiples valores de la
+naturaleza;
+5.1. Comprender los valores de la naturaleza y su • Ayudar a las organizaciones a comprender el proceso de
+recopilación, síntesis y comunicación de conocimientos
+contribución a las personas
+sobre el modo en que las personas atribuyen importancia y
+Entender los valores de la naturaleza es un paso fundamental significado a la naturaleza;
+para comprender y gestionar las interrelaciones entre las
+• Demostrar la importancia de los valores culturales para las
+personas y la naturaleza, incluidas las formas en que las personas
+personas y la naturaleza, especialmente para los pueblos
+conciben y valoran la naturaleza. La consideración de los
+indígenas y las comunidades locales; y
+distintos valores de la naturaleza y la forma en que estos valores
+• Ayudar a evitar el riesgo de excluir formas legítimas de definir,
+informan las decisiones es esencial para el diseño de procesos
+conocer y valorar la naturaleza y la biodiversidad.
+de participación significativos, el análisis y la gestión de las
+cuestiones relacionadas con la naturaleza.
+44 Plataforma intergubernamental científico-normativa sobre diversidad biológica y servicios de los ecosistemas (IPBES) (2015) The IPBES Conceptual
+Framework—Connecting nature and people. Current Opinion in Environmental Sustainability
+45 Plataforma intergubernamental científico-normativa sobre diversidad biológica y servicios de los ecosistemas (2022) Methodological Assessment
+Report on the Diverse Values and Valuation of Nature of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services
+46 Una óptica de valores plurales (valor-pluralismo) puede abarcar una amplia variedad de dimensiones que analizan la interdependencia entre la
+naturaleza y las sociedades, incluidos los enfoques biofísico, sanitario, sociocultural u holístico.
+30
+
+--- Página 31 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+5.2. Principios generales de una participación • Documentarse adecuadamente tanto en sustancia como en
+significativa proceso;
+Una buena guía identifica una serie de principios que deben guiar • Informar puntualmente a los participantes, con aclaratorias
+todos los procesos de participación, independientemente del sobre los pasos siguientes; y
+modo de participación. 47 • Ser continuo.
+Los principios del proceso de participación de los pueblos
+Los principios del proceso de participación deben: indígenas y las comunidades locales se basan en Tkarihwaié:ri
+• Estar dirigidos a las personas con más probabilidad de sufrir Código de conducta ética sobre el respeto al patrimonio cultural
+impactos; e intelectual de las comunidades indígenas y locales pertinentes
+para la conservación y uso sostenible de la diversidad biológica,
+• Responder a las perspectivas, necesidades e intereses de
+adoptado en el marco del Convenio sobre la Diversidad Biológica.
+los grupos marginados, incluidos los pueblos indígenas y las
+Su objetivo es orientar sobre las actividades e interacciones con
+comunidades locales;
+pueblos indígenas y comunidades locales y sobre el desarrollo
+• Basarse en la divulgación y difusión previas de información
+de códigos de conducta ética locales, nacionales o regionales,
+pertinente, objetiva, significativa y fácilmente accesible y
+con el fin de promover el respeto y preservar y mantener los
+comprensible en un plazo que permita la participación en un
+conocimientos, innovaciones y prácticas tradicionales para
+formato apropiado desde el punto de vista del género, la edad
+la conservación y el uso sostenible de la biodiversidad. Estos
+y la cultura;
+principios incluyen:
+• Garantizar la diversidad de los participantes en base a mínimos
+relacionados con el género, la edad, el origen étnico y la • Respeto de la propiedad intelectual de los pueblos
+discapacidad; indígenas y las comunidades locales: las preocupaciones
+comunitarias e individuales sobre la propiedad cultural e
+• Tener en cuenta las distintas necesidades de acceso
+intelectual relativa a los conocimientos tradicionales, las
+y comunicación de los diversos grupos e individuos,
+innovaciones y las prácticas relacionadas con la conservación
+especialmente de los más vulnerables o desfavorecidos,
+y el uso sostenible de la biodiversidad, deben reconocerse
+y utilizar un lenguaje, formatos y técnicas culturalmente
+y abordarse con los pueblos indígenas y las comunidades
+apropiados;
+locales antes de iniciar la participación.
+• Facilitar la comunicación bidireccional, permitiendo que todos
+• No discriminación: la ética y las orientaciones de toda
+los participantes intercambien puntos de vista e información,
+participación deben ser no discriminatorias, especialmente
+escuchen a los demás, tomen la iniciativa para plantear
+en relación con el género, los grupos desfavorecidos y la
+problemas y que estos se aborden incluso fuera de las
+representación.
+reuniones formales;
+• Transparencia/divulgación plena: los pueblos indígenas,
+• Llevarse a cabo de manera no discriminatoria, sin
+las comunidades locales y las partes interesadas afectadas
+manipulaciones externas, interferencias, coacciones
+deben ser informados adecuadamente con antelación sobre
+o intimidación, incluyendo la aplicación de códigos
+la naturaleza, el alcance y el propósito de cualquier actividad
+éticos de conducta para garantizar que se respeten los
+propuesta llevada a cabo por terceros que pueda implicar
+comportamientos culturales, especialmente los de los pueblos
+el uso de sus conocimientos tradicionales, innovaciones y
+indígenas y las comunidades locales;
+prácticas relacionadas con la conservación y el uso sostenible
+• Tener perspectiva de género, reconociendo que los hombres
+de la biodiversidad que se produzcan en lugares sagrados,
+y las mujeres a menudo tienen diferentes puntos de vista y
+tierras y aguas que tradicionalmente ocupan o utilizan,
+necesidades;
+o que puedan tener un impacto en ellos. Esta información
+47 Corporación Financiera Internacional (2007) Relaciones con la comunidad y otros actores sociales: Manual de prácticas recomendadas para las
+empresa que hacen negocios en mercados emergentes, Unión Internacional para la Conservación de la Naturaleza (UICN) (2021) Stakeholder
+Engagement in IUCN projects
+31
+
+--- Página 32 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+debe proporcionarse de manera que tenga en cuenta y se • Enfoque preventivo: la predicción y el análisis de daños
+comprometa activamente con el conjunto de conocimientos potenciales a la diversidad biológica debe incluir criterios e
+y prácticas culturales de los pueblos indígenas y las indicadores locales y debe contar con la plena participación de
+comunidades locales. los pueblos indígenas y las comunidades locales pertinentes.
+• Consentimiento libre, previo e informado: cualquier
+Se tratan más principios para la participación en las siguientes
+actividad o interacción que involucre los conocimientos
+secciones de estas orientaciones y en la guía de la CFI para
+tradicionales de los pueblos indígenas y comunidades
+empresas que hacen negocios en mercados emergentes,
+locales asociados con la conservación y uso sostenible de
+así como en la Nota de orientación sobre participación de las
+la diversidad biológica que ocurra o pueda tener impacto en
+partes interesadas de la UICN y en el Kit de herramientas de
+lugares sagrados, tierras y aguas que ellos tradicionalmente
+investigación de las partes interesadas del ICMM.
+ocupan o utilizan, debe llevarse a cabo con su consentimiento
+libre, previo e informado y/o aprobación. Dicho consentimiento
+o aprobación no deben ser coaccionados, forzados o 5.3. Modalidades de participación
+manipulados. La participación de los pueblos indígenas, las comunidades
+• Respeto intercultural: los conocimientos tradicionales locales y las partes interesadas afectadas abarca una amplia
+deben respetarse como expresión legítima de la cultura, variedad de metodologías. Entre ellas figuran “ hacer llegar ”
+las tradiciones y la experiencia de los pueblos indígenas y la información (“proponer” o “divulgar”), “extraer información”
+las comunidades locales y como parte de la pluralidad de (“consultar”), entablar un diálogo para resolver problemas
+sistemas de conocimientos existentes. En cualquier actividad ( “ colaborar ” ) y asociarse y compartir el poder sobre decisiones
+o interacción, da especial atención al respeto de los lugares y acciones ( “ acordar ” ). 48 Las diferentes modalidades de
+culturales, patrimoniales, ceremoniales y sagrados, las participación no son mutuamente excluyentes y pueden tener
+especies sagradas y los conocimientos secretos y sagrados. lugar en paralelo con diferentes grupos o en ciclos, con la
+• Distribución justa y equitativa de los beneficios: los advertencia de que “proponer” nunca será suficiente por sí solo.
+pueblos indígenas y las comunidades locales deben recibir
+Las metodologías para la participación con los pueblos indígenas,
+una distribución justa y equitativa de los beneficios por su
+las comunidades locales y las partes interesadas afectadas
+contribución a las actividades o interacciones relacionadas
+pueden hacer que un análisis relacionado con la naturaleza sea
+con la biodiversidad y los conocimientos tradicionales que se
+más colectivo, holístico y sólido.
+propongan realizar en lugares sagrados, tierras y aguas que
+tradicionalmente ocupan o utilizan, o que puedan tener un
+impacto en ellos. Dicha distribución debe ser equitativa dentro
+de los grupos pertinentes y entre ellos, tener en cuenta los
+procedimientos pertinentes a nivel comunitario y promover los
+objetivos del Convenio sobre la Diversidad Biológica.
+48 Shift (2013) Bringing Human Rights Lens to Stakeholder Engagement
+32
+
+--- Página 33 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Recuadro 4: Ejemplos de modalidades de participación
+Divulgación: en todos los procesos de participación, • Al tener en cuenta la restauración y protección de
+las organizaciones tendrán que revelar información a los humedales, la organización puede consultar con las
+pueblos indígenas, las comunidades locales y las partes comunidades que utilizan las tierras que se adquirirían
+interesadas sobre toda la gama de cuestiones relacionadas para estos fines, o que de alguna manera reclaman
+con la naturaleza que les afectan, incluyendo, lo que es más derechos sobre ellas. Esto puede ayudar a identificar sus
+importante, los posibles efectos perjudiciales de las cuestiones dependencias de la tierra y las dudas culturales y relativas
+relacionadas con la naturaleza de una organización y sus a la tierra de los pueblos indígenas que puedan estar
+respuestas. presentes. Puede llevar a una comprensión mejor y común
+de la viabilidad de las distintas opciones relacionadas
+Por ejemplo:
+con la tierra y de los acuerdos que serían necesarios con
+• Al pensar en una estrategia para mejorar la gestión y los titulares de derechos y las comunidades afectadas
+el reciclaje de los residuos de plástico, en la que los para evitar impactos sobre ellos, maximizar los beneficios
+recolectores de residuos normalmente hacen la mayoría del potenciales y garantizar la continuidad de la actividad.
+trabajo de recolección y clasificación de los desechos,
+Colaborar: la participación con los pueblos indígenas, las
+es esencial empezar el proceso de participación informando
+comunidades locales y las partes interesadas afectadas puede
+sobre lo que los cambios en la estrategia significarán
+implicar la colaboración en determinados procesos o para lograr
+para sus medios de vida y para su salud y seguridad en el
+determinados resultados.
+proceso de recolección de residuos.
+• Antes de buscar la participación de las comunidades locales Por ejemplo:
+en relación con los cambios previstos en el uso y reciclaje
+• Una organización puede colaborar con las Comunidades
+del agua, dichas comunidades deberán comprender las
+Locales para llegar a un análisis conjunto del uso local del
+oportunidades y beneficios que estos cambios podrían
+agua y de los impactos en la naturaleza para determinar una
+aportar, como la sostenibilidad de su propio suministro de
+respuesta común y un plan de acción para los impactos.
+agua o la posible creación de empleo en la zona, y cualquier
+posible impacto negativo, como la modificación de los Acordar: la participación puede requerir acuerdos y alianzas
+caudales y la distribución del agua. claros en los que se compartan la toma de decisiones y las
+acciones para gestionar las cuestiones relacionadas con la
+Consulta: las organizaciones deberán consultar a los pueblos
+naturaleza. Esto puede ser necesario especialmente en los
+indígenas, las comunidades locales y las partes interesadas
+casos de participación con pueblos indígenas, dado su derecho
+afectadas como parte de la identificación, análisis y gestión de
+al consentimiento libre, previo e informado para las actividades
+los problemas relacionados con la naturaleza. En el caso de
+que tengan impacto sobre sus tierras, territorios y recursos.
+los pueblos indígenas, el proceso de consulta deberá seguir
+las normas internacionales sobre derechos de los pueblos Por ejemplo:
+indígenas, establecidas en el Convenio 169 de la OIT y en la
+• Una organización puede tratar y negociar con los pueblos
+Declaración de las Naciones Unidas sobre los Derechos de los
+indígenas para llegar a un acuerdo de beneficios derivados
+Pueblos Indígenas.
+de la utilización referente al uso de recursos genéticos que
+Por ejemplo: se deriven de los conocimientos tradicionales de los pueblos
+indígenas, y para compartir los beneficios económicos con
+• Al considerar una estrategia de trasladar parte de sus
+esos pueblos.
+operaciones a una región con menos escasez de agua,
+• Una organización puede tratar con pequeños productores
+la organización debe consultar con los trabajadores y sus
+para llegar a un tipo de acuerdo o alianza que introduzca
+representantes sobre los efectos en sus puestos de trabajo,
+métodos agrícolas más sostenibles, apoye la creación de
+especialmente sobre los de los trabajadores con sueldos
+una cooperativa local y aumente los precios pagados y la
+más bajos. Esto puede ayudar a identificar oportunidades
+seguridad de la oferta.
+para la reconversión, para que algunos trabajadores se
+trasladen a otros sitios o para introducir otras condiciones
+que faciliten la transición a este personal.
+33
+
+--- Página 34 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+5.4. Procesos y colaboraciones con múltiples El nivel de cooperación también varía, desde el intercambio de
+partes interesadas información y las consultas hasta modelos más formales con
+toma de decisiones compartida y aplicación conjunta destinados
+Los riesgos sistémicos asociados a la pérdida de la naturaleza
+a mejorar la asignación y gestión de la tierra para alcanzar
+no pueden ser abordados por actores individuales que actúen
+objetivos sociales, económicos y medioambientales, preservando
+solos o trabajen aislados. Además, los enfoques aislados de la
+al mismo tiempo los valiosos ecosistemas y los servicios que
+gestión de los recursos naturales pueden dar lugar a resultados
+proporcionan. 50 Estos enfoques permiten abordar los riesgos a
+negativos en general. Por ejemplo, algunos esfuerzos por
+escala de paisaje y pueden ofrecer una forma eficaz de coordinar
+gestionar los impactos operativos individuales en la naturaleza
+la participación con las partes interesadas.
+mediante mejoras de la eficiencia pueden impulsar un mayor
+uso acumulativo de recursos por las partes interesadas, 49 Los procesos con múltiples partes interesadas pueden, y
+aumentando así el riesgo. Esto también se conoce como “ efecto normalmente deben, incluir la representación de los pueblos
+rebote ” . indígenas, las comunidades locales y las partes interesadas
+afectadas, y su objetivo es abordar cuestiones de interés común
+Dado que los diferentes esfuerzos para gestionar los impactos
+relacionadas con la naturaleza. Como los enfoques paisajísticos
+y dependencias a menudo se refieren al mismo ecosistema,
+reconocen las interconexiones entre las personas y la naturaleza,
+las decisiones tomadas para gestionar dichos impactos y
+son muy adecuados para procesos participativos y estructuras de
+dependencias son más eficaces si se apoyan en una sólida
+gobernanza que empoderan a los grupos marginados.
+coordinación entre las partes interesadas. Por lo tanto, la acción
+coordinada y colectiva de múltiples partes interesadas es
+importante para apoyar el análisis y gestión de las dependencias,
+impactos, riesgos y oportunidades relacionados con la
+naturaleza.
+Una forma bien establecida de que las organizaciones participen
+en colaboraciones con múltiples partes interesadas es a través
+de enfoques paisajísticos. Un enfoque de gestión integrada
+del paisaje es una forma de gestionar el paisaje que implica la
+colaboración entre múltiples partes interesadas, con el propósito
+de lograr paisajes sostenibles. La estructura de gobernanza,
+el tamaño y el alcance, así como el número y el tipo de partes
+interesadas (del sector privado, de la sociedad civil y del gobierno,
+por ejemplo) pueden variar.
+49 Linstead, C. (2018) The contributions of improvements in irrigation efficiency to environmental flows. Frontiers in Environmental Science (6)
+50 Global Canopy Programme (GCP), EcoAgriculture Partners, the Sustainable Trade Initiative (IDH), The Nature Conservancy (TNC), y el Fondo Mundial
+para la Naturaleza (WWF) (2021) The Little Sustainable Landscape Book
+34
+
+--- Página 35 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Recuadro 5: Compromiso de participación: la importancia de los enfoques basados en el lugar con
+múltiples partes interesadas
+La colaboración con otras partes interesadas, incluidos los Las actividades de colaboración podrían incluir:
+socios de la cadena de suministro y los consumidores de la
+• Ejecución de un análisis común de los ecosistemas
+fase posterior, los gobiernos y otras empresas que interactúan
+pertinentes;
+con los mismos ecosistemas, es fundamental a la hora de
+analizar y responder a las dependencias, impactos, riesgos • Establecimiento de nuevas plataformas de colaboración
+y oportunidades relacionados con la naturaleza. Los riesgos con las partes interesadas;
+y oportunidades relacionados con la naturaleza se extienden • Desarrollo de una hoja de ruta común para lugares o
+más allá de las operaciones directas y las cadenas de valor prácticas específicas y el compromiso con la misma;
+de la organización, a las zonas circundantes, y a menudo son • Ejecución en colaboración de las actividades de respuesta
+comunes. al riesgo;
+Aquí es donde las organizaciones y los inversores pueden • Asociaciones en busca de oportunidades;
+tener puntos ciegos en su análisis de riesgos, y los riesgos • Participación con los clientes y las empresas participadas;
+físicos a lo largo de la cadena de valor pueden crear riesgos y
+de transición, como riesgos políticos, legales y de reputación, • Supervisión colaborativa.
+que no se han previsto adecuadamente. Puede haber riesgos
+anidados presentes en los paisajes más amplios que se Las acciones de participación con las comunidades locales y
+solapan con las explotaciones, instalaciones y la cadena de los grupos de la sociedad civil pueden incluir la participación
+suministro de una organización. La participación con otras en acuerdos de asociación de paisaje, o estructuras de
+empresas que comparten dependencias o impactos similares gobernanza con múltiples partes interesadas, para compartir
+en un ecosistema o bioma específico puede proporcionar perspectivas y datos únicos basados en el lugar, identificar
+a la organización perspectivas nuevas y útiles e identificar riesgos y oportunidades en el paisaje, y acordar objetivos y
+oportunidades de colaboración que pueden ser mutuamente estrategias comunes. Las organizaciones deben debatir cómo
+beneficiosas. pueden perfeccionarse los efectos y resultados en el futuro y
+qué implicaciones presentan tanto para la organización como
+La participación de múltiples partes interesadas, al igual que para los pueblos indígenas, las comunidades locales y las
+los enfoques paisajísticos, puede mejorar la solidez de un partes interesadas afectadas.
+análisis que utilice el enfoque LEAP. Compartir recursos y
+conocimientos con otras organizaciones, y utilizarlos para Para más información, véase CDP (2023) Guidance on
+coordinar la actuación de las partes interesadas, puede Landscape and Jurisdictional Approaches, UICN (2017)
+hacer que los análisis de las cuestiones relacionadas con Business for Sustainable Landscapes: An action agenda for
+la naturaleza, y las acciones con respecto a ellas, sean más sustainable development y otros estudios de casos incluidos en
+colectivos, holísticos y sólidos. la lista de referencias.
+35
+
+--- Página 36 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+5.4.1. Gestión de compensaciones Alcanzar múltiples objetivos significa aceptar compensaciones, 51
+y estas deben analizarse y acordarse con los pueblos indígenas,
+Un enfoque de gestión integrada tiene más probabilidades
+las comunidades locales y las partes interesadas afectadas
+de conducir a paisajes sostenibles a largo plazo al abordar
+al inicio de los proyectos. Es crucial que las razones de
+explícitamente las compensaciones y sinergias entre las partes
+las compensaciones estén fundamentadas y se basen en
+interesadas y entre las distintas partes del paisaje, y al establecer
+conocimientos científicos sólidos y en las mejores prácticas para
+relaciones de colaboración. Aunque se hayan identificado
+lograr los “ mejores y más altos resultados ” . 52
+sinergias, a veces es inevitable hacer compensaciones.
+Estudio de caso: Determinar las compensaciones entre biodiversidad y servicios
+ecosistémicos en las decisiones sobre el uso del suelo
+Las herramientas de apoyo a la toma de decisiones ayudan a analizar la prestación de determinados servicios ecosistémicos,
+las compensaciones entre los resultados ecológicos y sociales, y los resultados socioeconómicos, como los medios de
+subsistencia y la seguridad alimentaria.
+Un estudio realizado en la vertiente sur del Parque Nacional Tunari, en los Andes bolivianos, exploró las compensaciones
+entre la conservación de la biodiversidad, los usos del suelo productivo y la prestación de servicios de los ecosistemas en
+un contexto de zonificación del uso del suelo terrestre. La vertiente sur, frente a la ciudad de Cochabamba, es una fuente de
+conflictos por el uso del suelo debido a su biodiversidad única, concentrada en pequeños parches de bosques de Polylepis ,
+y numerosas comunidades locales que dependen en gran medida de la agricultura y la ganadería de subsistencia. Además,
+la conversión del uso del suelo en la zona de estudio perturba los servicios ecosistémicos, como el suministro de agua y el
+control de la erosión y la escorrentía, que son importantes tanto para las comunidades locales como para los ciudadanos que
+viven en el valle.
+Para determinar las compensaciones, el análisis utiliza la planificación sistemática de la conservación, junto con herramientas
+en línea de apoyo a las políticas, como AguAAndes, con el fin de proporcionar información sobre los conflictos de uso de la
+tierra en áreas protegidas sobre las que hay datos escasos pero que son biodiversas. El uso de herramientas y planificación
+de conservación ha descubierto formas de reconciliar los usos del suelo de producción y la conservación de la biodiversidad,
+así como de identificar compensaciones y sinergias entre la conservación de la biodiversidad y otros servicios ecosistémicos.
+Las fuentes consultadas se incluyen en la lista de referencias.
+51 Holl, K. D., y Brancalion, P. H. S. (2020) Tree planting: Not a simple solution. Science, 368(6491), 580–581
+52 Gann, G. D., McDonald, T., Walder, B., Aronson, J., Nelson, C. R., Jonson, J., Hallett, J. G., Eisenberg, C., Guariguata, M. R., Liu, J., Hua, F.,
+Echeverría, C., Gonzales, E., Shaw, N., Decleer, K., y Dixon, K. W. (2019) International principles and standards for the practice of ecological restoration.
+Restoration Ecology, 27(S1), S1–S46
+36
+
+--- Página 37 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+5.5. Permitir la participación significativa necesarios de las partes interesadas. La participación con
+los interesados puede ser importante para comprender esas
+En el diseño de todo proceso de participación hay que tener en
+necesidades de recursos. Las organizaciones pueden trabajar con
+cuenta las disposiciones prácticas. Se debe prestar atención a los
+las partes interesadas para identificar los costos y cómo se pueden
+obstáculos que pueda haber para la participación, tales como:
+cubrir o reducir de manera que no supongan un obstáculo para la
+• Acceso a información oportuna; participación.
+• Barreras de idioma o analfabetismo;
+• Facilidad de acceso a determinados lugares; Ayuda para el desarrollo de capacidades
+• Barreras a la confianza necesaria para participar abiertamente y Es posible que los pueblos indígenas, las comunidades locales y las
+sin miedo a represalias; partes interesadas afectadas también necesiten tiempo, recursos y
+• Idoneidad cultural de los lugares de reunión, como grandes ayuda para mejorar su capacidad de manera que puedan participar
+edificios oficiales con fuertes medidas de seguridad en vez de como iguales en el proceso. Por ejemplo:
+sitios en aldeas locales o granjas;
+• Si una organización se basa en datos científicos sobre los
+• Obstáculos al respeto de la estructura de toma de decisiones de
+ecosistemas para analizar la viabilidad de una actividad o una
+los pueblos indígenas y las comunidades locales;
+estrategia, es importante que las partes interesadas tengan
+• Barreras de idioma o sistemas de conocimiento; capacidad para comprender e interpretar esa información,
+• Los horarios de las reuniones en los que la asistencia pueda y confiar en que es legítima y se ha recopilado y utilizado sin
+verse limitada por vacaciones, época de cosecha o periodos de sesgos;
+mucho trabajo, así como las horas del día en las que las mujeres • En los casos en los que participen partes interesadas distintas,
+suelen estar ocupadas; y como pequeños productores de toda una región o aquellos que
+• Las barreras que encuentran determinados subgrupos que trabajen con diferentes productos básicos, puede que dichas
+pueden necesitar espacios y medios aparte para hacerse partes necesiten asistencia y recursos específicos para organizar
+escuchar. Puede tratarse, por ejemplo, de mujeres en situaciones sus opiniones y preocupaciones particulares a fin de participar
+en las que sus voces se silencian en las tomas de decisiones eficazmente con la organización.
+comunitarias, o trabajadores migrantes que temen por sus
+En la fase de diseño, la organización puede participar con los
+trabajos si plantean problemas.
+pueblos indígenas, las comunidades locales y las partes interesadas
+El Manual de prácticas recomendadas para las empresas para y sus representantes para determinar cuáles son estas necesidades
+la participación de las partes interesadas, de la Corporación y cómo se pueden solventar de manera que les resulte aceptable.
+Financiera Internacional, destaca varios factores clave que se Si es necesario, también se puede incluir a expertos externos que
+deben tener en cuenta para garantizar la integración eficaz de las las partes interesadas indiquen o de alguna manera reconozcan y
+consideraciones de género en los procesos de participación de las acepten.
+partes interesadas. 53
+Los procesos en los que las partes interesadas sienten, en el
+Las partes interesadas deberán estar plenamente informadas momento o posteriormente, que no han tenido la oportunidad de
+con antelación a cualquier proceso de participación, de modo participar con conocimiento de causa y en igualdad de condiciones
+que puedan comprender en qué consiste el proceso, cuál es el dan lugar a resultados intrínsecamente frágiles y pueden conducir
+calendario y los objetivos, y consultar la información de base, así a la pérdida de confianza y a relaciones deficientes en el futuro.
+como cualquier recurso de apoyo, para poder preparar su opinión. También pueden provocar objeciones formales y obstáculos a los
+planes de la organización.
+Las organizaciones deben tener en cuenta tanto los recursos
+que tendrán que aportar para la participación como los recursos
+53 Corporación Financiera Internacional (2007) Relaciones con la comunidad y otros actores sociales: Manual de prácticas recomendadas para las
+empresas que hacen negocios en mercados emergentes
+37
+
+--- Página 38 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+6. Participación en sistemas de actuación
+y retroalimentación
+Los procesos de participación solo tendrán éxito y aportarán en una reacción de rechazo o protesta cuando la organización
+valor a todas las partes si ofrecen resultados. Sin resultados, intente seguir adelante con sus planes.
+un proceso corre el riesgo de ser considerado poco sincero por
+Cuando se desea que la modalidad de participación sea la
+las partes interesadas y, como consecuencia, las relaciones
+colaboración, o un proceso para alcanzar e implementar un
+pueden empeorar en vez de mejorar, lo que aumenta los riesgos
+acuerdo, es esencial que haya información continua sobre los
+para la organización y socava las oportunidades que de otro
+avances de todos los implicados a fin de garantizar el éxito.
+modo podrían haberse materializado.
+Como parte la gobernanza de los procesos de participación,
+Por lo tanto, mientras la organización se prepara para responder
+las organizaciones deben disponer de procedimientos y
+a las cuestiones relacionadas con la naturaleza también es
+mecanismos internos formales y de rendición de cuentas para
+importante que:
+hacer un seguimiento de los compromisos y los acuerdos
+• Cuente con sistemas internos para integrar los puntos de alcanzados e informar con regularidad sobre ellos.
+vista y las propuestas de los pueblos indígenas, comunidades
+locales y partes interesadas afectadas en la toma de
+6.1. Participación de los pueblos indígenas,
+decisiones a nivel directivo;
+las comunidades locales y las partes
+• Se asegure de que los compromisos o los acuerdos se
+interesadas en el seguimiento y la
+registren formalmente y se integren en sistemas para
+evaluación
+garantizar su implementación, con rendición de cuentas por
+las acciones;
+Participación en la evaluación de las actividades
+• Mantenga informados a los pueblos indígenas, las
+realizadas
+comunidades locales y las partes interesadas afectadas sobre
+los progresos, cambios o demoras en la implementación de Cuando una organización quiere crear métricas y objetivos
+los compromisos o acuerdos y explique los motivos de los relacionados con la naturaleza, puede ser importante incluir
+cambios o demoras; y la creación de estos en el proceso de participación a fin de:
+• Mantenga informados a los pueblos indígenas, las • Desarrollar conjuntamente métricas y mecanismos de
+comunidades locales y las partes interesadas afectadas sobre supervisión con los pueblos indígenas, las comunidades
+los resultados y conclusiones del proyecto. locales y las partes interesadas, especialmente con las
+afectadas;
+A fin de mantener una relación positiva y una base para la
+participación en el futuro, es importante informar a las partes • Asegurarse de que las personas más afectadas por los
+interesadas sobre el modo en que sus aportaciones durante resultados consideren fiables las métricas y los objetivos,
+el proceso de participación han influido en las decisiones o y que estos reflejen resultados de máxima importancia para
+acciones de la organización, o los motivos por los que no se sus intereses y bienestar;
+han adoptado determinadas propuestas. Sin este proceso de • Asegurarse de que los aportes a la evaluación del progreso
+retroalimentación, las frustraciones pueden agravarse y se respecto a los objetivos sean fiables, se consideren legítimos
+pueden hacer suposiciones sobre las motivaciones y prácticas de y contemplen factores cualitativos y cuantitativos, según
+la organización. En el peor de los casos, esto puede desembocar proceda;
+38
+
+--- Página 39 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+• Fomentar la confianza de que se rendirán cuentas de los La evaluación de los procesos de participación requiere
+resultados, basándose en la calidad y la transparencia con la indicadores cuantificables y necesita la retroalimentación de
+que serán medidos y evaluados; y las partes interesadas afectadas. Los indicadores serán más
+• Facilitar el acceso a los datos necesarios para evaluar el fiables si se desarrollan con las partes interesadas implicadas
+progreso respecto a los objetivos, sobre todo cuando los y se acuerdan de antemano durante el diseño del proceso de
+pueblos indígenas, las comunidades locales y las partes participación. Se puede obtener retroalimentación a través de
+interesadas afectadas puedan estar en mejor posición para procesos de participación existentes o mediante encuestas,
+recopilar y proporcionar determinados tipos de datos. interacciones personales, digitales o de otro tipo empleando un
+lenguaje sencillo y culturalmente apropiado.
+El TNFD ha publicado orientaciones adicionales sobre el
+establecimiento de objetivos. La inclusión de los pueblos Las organizaciones también pueden contratar a una persona
+indígenas, las comunidades locales y las partes interesadas experta independiente para evaluar sus actividades de
+afectadas en el diseño, supervisión y evaluación del progreso participación. Para tener la seguridad de que la retroalimentación
+respecto a los objetivos relacionados con la naturaleza puede de los pueblos indígenas, las comunidades locales y las partes
+ayudar a garantizar la credibilidad de los resultados que la interesadas afectadas ponga de relieve de forma eficaz las
+organización comunique a las partes interesadas, incluso a oportunidades de fortalecimiento y mejora de los procesos de
+través de informes formales. Esto también garantizará que los participación, es importante asegurarse de que las personas se
+pueblos indígenas y las comunidades locales puedan ejercer sientan libres de expresar sus opiniones sinceras, sin miedo a las
+responsabilidades de custodia para actuar en favor del medio repercusiones.
+ambiente y apoyar el proceso de gestión del cambio. Al igual
+Los detalles de esta participación con las partes interesadas en
+que con otras formas de participación colaborativa, las partes
+la evaluación de una actividad o iniciativa se pueden encontrar
+interesadas deberán contar con la capacidad técnica necesaria
+en el Stakeholder Voice Report (Informe de la voz de las partes
+para participar en la supervisión y evaluación conjuntas, o recibir
+interesadas) del Shift Project. 54 Los indicadores que sirven de
+asistencia para desarrollar esa capacidad o acceder a ella.
+guía para evaluar los procesos de participación de las partes
+interesadas están detallados en la Guía de la OCDE para la
+Evaluar la calidad de los procesos de participación participación significativa de las partes interesadas del sector
+La participación es un proceso, no un evento ni un ejercicio extractivo 55 y en el Kit de Herramientas: Entendiendo las
+puntual. Las organizaciones deben evaluar si un proceso de Relaciones Empresa – Comunidad, del ICMM. 56
+participación conduce a los resultados deseados y a relaciones
+positivas con los pueblos indígenas, las comunidades locales
+y las partes interesadas afectadas para poder identificar
+oportunidades de aprendizaje y mejora que fortalezcan los
+procesos de participación en curso y futuros.
+54 Shift (2019), Stakeholder Voice: Learning from Affected Stakeholders to Better Evaluate Program Effectiveness and Outcomes
+55 Organización para la Cooperación y el Desarrollo Económicos (2017) Guía de la OCDE de diligencia debida para la participación significativa de las
+partes interesadas del sector extractivo
+56 Consejo Internacional de Minería y Metales (2013) Kit de Herramientas: Entendiendo las Relaciones Empresa – Comunidad
+39
+
+--- Página 40 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Glosario, siglas y acrónimos
+Glosario
+Término Definición
+Partes Personas o grupos que se han visto o pueden verse afectados de forma negativa por las operaciones,
+interesadas productos, servicios y cadenas de valor de una organización, incluidas las dependencias, impactos, riesgos
+afectadas/ y/u oportunidades relacionados con la naturaleza de una organización, y las respuestas a estas cuestiones.
+comunidades
+Las comunidades afectadas pueden incluir desde las comunidades locales que viven junto a las
+afectadas
+operaciones de la organización o el lugar de sus actividades hasta aquellas que viven a cierta distancia pero
+resultan afectadas, por ejemplo, por la pérdida de naturaleza, como la pérdida de especies migratorias,
+o por impulsores de impacto, como la contaminación atmosférica o del agua producida por la organización.
+Las comunidades afectadas pueden incluir a los pueblos indígenas que tienen derechos reconocidos
+internacionalmente en relación con sus tierras, territorios, recursos, culturas, conocimientos tradicionales
+y la gestión de sus asuntos, así como el derecho al consentimiento libre, previo e informado antes de que
+puedan llevarse a cabo actividades que afecten a sus tierras.
+Fuente: Adaptado de: Foro Económico Mundial, (mayo de 2022), Engaging Affected Stakeholders: The Emerging
+Duties of Board Members: Insight Report by the Global Future Council on Human Rights
+Uso Utilización de los recursos biológicos de acuerdo con prácticas culturales tradicionales compatibles con los
+consuetudinario requisitos de conservación o utilización sostenible.
+sustentable
+Fuente: Convenio sobre la Diversidad Biológica, (2019), Glosario de términos y conceptos clave pertinentes para usar en
+el contexto del artículo 8 (j) y disposiciones conexas
+Función de los El flujo de energía y materiales a través de los componentes bióticos y abióticos de un ecosistema.
+ecosistemas Esto incluye muchos procesos como la producción de biomasa, la transferencia trófica a través de plantas y
+animales, el ciclo de nutrientes, la dinámica del agua y la transferencia de calor. Las funciones y procesos de
+los ecosistemas sustentan la producción de servicios ecosistémicos.
+Fuente: IPBES(2019), El informe de la evaluación mundial sobre la diversidad biológica y los servicios de los
+ecosistemas
+40
+
+--- Página 41 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Pueblos indígenas No existe una definición formal adoptada en el Derecho internacional. Una definición estricta no se
+considera necesaria ni deseable.
+Las Naciones Unidas utilizan una definición de trabajo del estudio de Martínez Cobo:
+“ Son comunidades, pueblos y naciones indígenas los que, teniendo una continuidad histórica con las
+sociedades anteriores a la invasión y precoloniales que se desarrollaron en sus territorios, se consideran
+distintos de otros sectores de las sociedades que ahora prevalecen en esos territorios o en partes de
+ellos. Constituyen ahora sectores no dominantes de la sociedad y tienen la determinación de preservar,
+desarrollar y transmitir a futuras generaciones sus territorios ancestrales y su identidad étnica como base de
+su existencia continuada como pueblo, de acuerdo con sus propios patrones culturales, sus instituciones
+sociales y sus sistemas legales ” .
+También señala que una persona indígena es: “ … la que pertenece a esas poblaciones indígenas a través de
+la autoidentificación como indígena (conciencia de grupo) y es reconocida y aceptada por esas poblaciones
+como uno de sus miembros (aceptación por el grupo). Eso preserva para esas comunidades el derecho y el
+poder soberano de decidir quién pertenece a ellas, sin injerencia exterior ” .
+Según el Convenio 169 de la OIT, los pueblos indígenas son descendientes de poblaciones “ que habitaban
+en el país o en una región geográfica a la que pertenece el país en la época de la conquista o la colonización
+o del establecimiento de las actuales fronteras estatales ” y que “ conservan todas sus propias instituciones
+sociales, económicas, culturales y políticas, o parte de ellas ” .
+Fuente: Foro de Asia y el Pacífico de Instituciones Nacionales de Derechos Humanos de la región y la Oficina del Alto
+Comisionado de las Naciones Unidas para los Derechos Humanos (agosto de 2013), Declaración de las Naciones
+Unidas sobre los Derechos de los Pueblos Indígenas, Oficina del Alto Comisionado de las Naciones Unidas para los
+Derechos Humanos. Manual para las instituciones nacionales de derechos humanos
+Enfoques Marco conceptual que permite a las partes interesadas de un paisaje intentar conciliar objetivos sociales,
+paisajísticos económicos y medioambientales contrapuestos. Pretende alejarse del enfoque sectorial de la gestión de
+la tierra, a menudo insostenible. Un enfoque basado en el paisaje persigue garantizar que se satisfagan las
+necesidades y se ejecuten acciones a nivel local (es decir, los intereses de las diferentes partes interesadas
+dentro del paisaje), al tiempo que tiene en cuenta los objetivos y resultados importantes para las partes
+interesadas fuera del paisaje, como los gobiernos nacionales o la comunidad internacional.
+Fuente: Global Canopy Programme, EcoAgriculture Partners, The Sustainable Trade Initiative, The Nature Conservancy
+y el WWF (2021), The Little Sustainable Landscape Book
+41
+
+--- Página 42 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Comunidades El término “ comunidades locales ” se utiliza basándose en las características enumeradas por el Convenio
+locales sobre la Diversidad Biológica y su artículo 8 (j) que se refieren a: “ Comunidades locales que encarnan
+estilos de vida tradicionales relevantes para la conservación y la sostenibilidad de la diversidad biológica ” .
+Fuente: Convenio sobre la diversidad biológica, Artículo 8: Conservación in situ
+El Convenio sobre la Diversidad Biológica, en su decisión XI/14, artículo 8(j) y disposiciones conexas,
+“ Toma nota de las características enumeradas en la sección I del anexo del informe de la Reunión del Grupo
+de Expertos como consejos potencialmente útiles para identificar a las comunidades locales, dentro del
+mandato del Convenio ” .
+Fuente: Convenio sobre la Diversidad Biológica, Decisión adoptada por la Conferencia de las Partes en el Convenio
+sobre la Diversidad Biológica en su Undécima Reunión. XI/14. Artículo 8(j) y disposiciones conexas
+Los expertos recomendaron una posible definición de trabajo basada en las siguientes características,
+algunas de las cuales podrían considerarse esenciales:
+Las comunidades locales que viven en zonas rurales y urbanas de diversos ecosistemas pueden presentar
+algunas de las siguientes características:
+a. Autoidentificación como comunidad local;
+b. Estilos de vida vinculados a tradiciones asociadas a ciclos naturales (relaciones simbióticas o de
+dependencia), el uso de los recursos biológicos y la dependencia de los mismos, y vinculados al uso
+sostenible de la naturaleza y la biodiversidad;
+c. La comunidad ocupa un territorio definible 57 tradicionalmente ocupado y/o utilizado, de forma
+permanente o periódica. Estos territorios son importantes para el mantenimiento de los aspectos
+sociales, culturales y económicos de la comunidad;
+d. Tradiciones (a menudo referidas a la historia, cultura, lengua, rituales, símbolos y costumbres comunes)
+que son dinámicas y pueden evolucionar;
+e. Tecnología/conocimientos/innovaciones/prácticas asociadas al uso sostenible y la conservación de los
+recursos biológicos;
+f. Cohesión social y voluntad de estar representados como comunidad local;
+g. Conocimientos tradicionales transmitidos de generación en generación, incluso de forma oral;
+h. Un conjunto de normas sociales (por ejemplo, que regulan los conflictos por la tierra/el reparto de
+beneficios) y leyes e instituciones comunitarias/tradicionales/consuetudinarias específicas de la
+organización;
+i. Expresión de derechos consuetudinarios y/o colectivos;
+j. Autorregulación por sus costumbres y formas tradicionales de organización e instituciones;
+k. Realización y mantenimiento de actividades económicas de forma tradicional, incluso para la
+subsistencia, el desarrollo sostenible y/o la supervivencia;
+l. Patrimonio biológico (incluido el genético) y cultural (patrimonio biocultural);
+57 Por territorio se entiende tanto tierras como aguas.
+42
+
+--- Página 43 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+m. Valores espirituales y culturales de la biodiversidad y los territorios;
+n. Cultura, incluidas las expresiones culturales tradicionales captadas a través de las lenguas locales,
+destacando el interés y los valores comunes;
+o. A veces marginados de los sistemas y estructuras geopolíticos modernos;
+p. Biodiversidad a menudo incorporada a los topónimos tradicionales;
+q. Los alimentos y los sistemas de preparación de alimentos y las medicinas tradicionales están
+estrechamente relacionados con la biodiversidad y el medio ambiente;
+r. Pueden haber tenido poco o ningún contacto previo con otros sectores de la sociedad, lo que da lugar a
+que sean distintas, o pueden optar por seguir siéndolo;
+s. Práctica de oficios y medios de vida tradicionales;
+t. Pueden vivir en estructuras de familia extensa, clan o tribu;
+u. Los sistemas de creencias y valores, incluida la espiritualidad, suelen estar vinculados a la
+biodiversidad;
+v. Propiedad común compartida sobre la tierra y los recursos naturales;
+w. Titulares tradicionales de derechos sobre los recursos naturales;
+x. Vulnerabilidad frente a extraños y escaso concepto de los derechos de propiedad intelectual.
+Fuente: Informe de la reunión del grupo de expertos de representantes de comunidades locales en el contexto del artículo
+8(j) y disposiciones conexas del Convenio sobre la Diversidad Biológica
+Contribuciones de Las contribuciones de la naturaleza a las personas son tanto los beneficios que obtienen las personas de
+la naturaleza a las la naturaleza como los perjuicios que sufren a causa de ella, de forma individual o colectiva y en grados
+personas diferentes. El concepto de “ contribuciones de la naturaleza a las personas ” ofrece una forma plural de
+entender los vínculos que existen entre el estado y las tendencias de la naturaleza (incluida la biodiversidad
+y los procesos ecológicos) con las vidas, los medios de subsistencia y la calidad de vida de las personas;
+al mismo tiempo, reconoce la existencia de múltiples perspectivas y cosmovisiones sobre las relaciones
+entre la naturaleza y los seres humanos. El concepto general de “ contribuciones de la naturaleza a las
+personas ” engloba distintas nociones, como la de bienes y servicios ecosistémicos, la de regalos de la
+naturaleza y muchas otras, y también facilita la colaboración respetuosa y el enriquecimiento mutuo entre
+diferentes sistemas de conocimiento y cosmovisiones.
+Fuente: IPBES, Nota informativa sobre la aplicación de “ las contribuciones de la naturaleza a las personas”
+43
+
+--- Página 44 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Consentimiento • Libre implica que los pueblos indígenas y las comunidades locales no sean presionados, intimidados,
+previo e manipulados ni influenciados indebidamente y que den su consentimiento sin coacción;
+informado/ • Previo implica buscar con suficiente antelación el consentimiento o la aprobación de una autorización
+Consentimiento para acceder a los conocimientos tradicionales, respetando los procesos consuetudinarios de toma de
+previo, libre decisiones de acuerdo con la legislación nacional y los requisitos de tiempo de los pueblos indígenas y
+e informado/ las comunidades locales;
+Aprobación y
+• Informado implica que se proporciona información que cubre aspectos relevantes, como, por ejemplo:
+participación
+la finalidad prevista del acceso; su duración y alcance; un análisis preliminar de las posibles
+repercusiones económicas, sociales, culturales y medioambientales, incluidos los riesgos potenciales;
+personal que pueda participar en la ejecución del acceso; los procedimientos que puede conllevar el
+acceso y los acuerdos de distribución de beneficios;
+• Consentimiento o aprobación implica que los pueblos indígenas y comunidades locales que poseen
+los conocimientos tradicionales, o las autoridades competentes de dichos pueblos indígenas y
+comunidades locales, según proceda, están de acuerdo en permitir que posibles usuarios accedan a sus
+conocimientos tradicionales. Esto incluye el derecho a no conceder el consentimiento o la aprobación;
+• Participación se refiere a la participación plena y efectiva de los pueblos indígenas y comunidades
+locales en los procesos de toma de decisiones relacionados con el acceso a sus conocimientos
+tradicionales.
+La consulta y la participación plena y efectiva de los pueblos indígenas y las comunidades locales son
+componentes cruciales de un proceso de consentimiento o aprobación.
+Fuente: Convenio sobre la Diversidad Biológica, (2019), Glosario de términos y conceptos clave pertinentes para usar en
+el contexto del artículo 8 (j) y disposiciones conexas
+Efecto rebote El patrón por el cual los usuarios de los recursos tienden a compensar la mejora de la eficiencia con un
+cambio de comportamiento hacia un mayor consumo, lo que socava las ganancias aparentes. Por ejemplo,
+un mayor ahorro de combustible de un vehículo de motor se suele compensar gastando más dinero en otros
+recursos o conduciendo más .
+Fuente: Plataforma intergubernamental científico-normativa sobre diversidad biológica y servicios de los ecosistemas
+(IPBES) Glosario de definiciones
+44
+
+--- Página 45 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Titular de Según la Declaración Universal de Derechos Humanos, todos los seres humanos son “ titulares de
+derechos derechos ” . Sin embargo, no todas las personas verán sus derechos humanos amenazados o afectados por
+un proyecto o sus actividades asociadas. Es importante identificar los riesgos para los derechos humanos
+que suponen las actividades de un proyecto para las partes interesadas y reconocer a dichas partes
+interesadas como “ titulares de derechos ” en el contexto de la participación.
+Los pueblos indígenas y las comunidades locales son reconocidos como titulares de derechos particulares
+que deben ser respetados de conformidad con la legislación nacional pertinente, los instrumentos
+internacionales, incluida la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos
+Indígenas, y la legislación sobre derechos humanos. (Véase el Anexo 1 sobre los derechos de los pueblos
+indígenas).
+Fuente: Declaración Universal de los Derechos Humanos
+Lugar sagrado Puede referirse a un sitio, objeto, estructura, zona o característica natural o área que los gobiernos
+nacionales o las comunidades indígenas consideran de particular importancia, de acuerdo con las
+costumbres de una comunidad indígena o local, debido a su significado religioso y/o espiritual.
+Fuente: Convenio sobre la Diversidad Biológica, (2019), Glosario de términos y conceptos clave pertinentes para usar en
+el contexto del artículo 8 (j) y disposiciones conexas
+Especies Planta o animal que los pueblos indígenas y las comunidades locales consideran de especial importancia,
+sagradas de acuerdo con las tradiciones y/o costumbres, por su significado religioso o espiritual.
+Fuente: Convenio sobre la Diversidad Biológica, (2019), Glosario de términos y conceptos clave pertinentes para usar en
+el contexto del artículo 8 (j) y disposiciones conexas
+Evaluación del Proceso de evaluación de los posibles impactos, tanto beneficiosos como adversos, de una actividad
+impacto social propuesta que pueda afectar a los derechos —que tienen una dimensión económica, social, cultural,
+cívica y política— y al bienestar, la vitalidad y la viabilidad de una comunidad afectada. Es decir, la calidad
+de vida de una comunidad, medida por diversos indicadores socioeconómicos, como la distribución
+de los ingresos, la integridad física y social y la protección de individuos y comunidades, los niveles y
+oportunidades de empleo, la salud y el bienestar, la educación, y la disponibilidad y calidad de viviendas y
+alojamientos, infraestructuras y servicios.
+Fuente: Convenio sobre la Diversidad Biológica, (2019), Glosario de términos y conceptos clave pertinentes para usar en
+el contexto del artículo 8 (j) y disposiciones conexas
+45
+
+--- Página 46 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Partes Las partes interesadas son personas o grupos que se ven afectados directa o indirectamente por un
+interesadas proyecto, así como quienes pueden tener intereses en un proyecto o la capacidad de influir en su resultado,
+ya sea de forma positiva o negativa.
+Fuente: Organización para la Cooperación y el Desarrollo Económicos (2017), Guía de la OCDE de diligencia debida
+para la participación significativa de las partes interesadas del sector extractivo
+Participación La participación de las partes interesadas implica procesos interactivos de participación con las partes
+de las partes interesadas pertinentes a través de, por ejemplo, reuniones, audiencias o procedimientos de consulta.
+interesadas La participación efectiva de las partes interesadas se caracteriza por una comunicación bidireccional y
+depende de la buena fe de los participantes de ambas partes.
+Fuente: Organización para la Cooperación y el Desarrollo Económicos (2023), Directrices de la OCDE para Empresas
+Multinacionales sobre la Conducta Empresarial Responsable
+Conocimientos Los conocimientos, las innovaciones y las prácticas de las comunidades indígenas y locales que encarnan
+tradicionales estilos de vida tradicionales pertinentes para la conservación y la utilización sostenible de la diversidad
+biológica.
+Fuente: Convenio sobre la Diversidad Biológica, (2019), Glosario de términos y conceptos clave pertinentes para usar en
+el contexto del artículo 8 (j) y disposiciones conexas
+46
+
+--- Página 47 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Siglas y acrónimos
+CDB – Convenio sobre la Diversidad Biológica
+CEDAW – Comité para la Eliminación de la Discriminación contra la Mujer
+CLPI – Consentimiento libre, previo e informado
+ICMM – Consejo Internacional de Minería y Metales
+OIT – Organización Internacional del Trabajo
+UICN – Unión Internacional para la Conservación de la Naturaleza
+LEAP – Enfoque de análisis de riesgos y oportunidades relacionados con la naturaleza del TNFD (Localizar, Evaluar, Analizar, Preparar)
+OCDE – Organización para la Cooperación y el Desarrollo Económicos
+CPI – Consentimiento previo e informado
+TISFD - Grupo de Trabajo sobre Divulgaciones Financieras Relacionadas con la Desigualdad
+TNFD – Grupo de Trabajo sobre divulgaciones financieras relacionadas con la naturaleza
+DNUDPI – Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas
+PRNU – Principios Rectores de las Naciones Unidas sobre las Empresas y los Derechos Humanos
+47
+
+--- Página 48 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Referencias
+Documentos normativos y directrices Convenio sobre la Diversidad Biológica, Glosario de términos y
+conceptos clave pertinentes para usar en el contexto del artículo
+Asamblea General de la ONU (1948), Declaración Universal de
+8 (j) y disposiciones conexas, aprobado por la Conferencia de las
+los Derechos Humanos
+Partes en el Convenio en su decimocuarta reunión, en el contexto
+Convenio sobre la Diversidad Biológica(2023), Directrices del artículo 8 (j) y disposiciones conexas en su decisión 14/13.
+voluntarias sobre conocimientos tradicionales
+FAO, Orientaciones prácticas para gobiernos, empresas, ONG,
+Convenio sobre la Diversidad Biológica (2022), Marco pueblos indígenas y comunidades locales en relación con la
+Mundial de Biodiversidad de Kunming-Montreal. Sección C. adquisición de tierras
+Consideraciones para la implementación.
+Consejo Internacional de Metales y Minería (2015), Kit de
+Convenio sobre la diversidad biológica (2019), Directrices herramientas de investigación de las partes interesadas
+voluntarias Mo'otz Kuxtal
+Corporación Financiera Internacional (2012), Normas de
+Convenio sobre la diversidad biológica (2019), Directrices desempeño sobre sostenibilidad ambiental y social
+voluntarias Rutzolijirisaxik para la repatriación de conocimientos
+Corporación Financiera Internacional (2007), Manual de prácticas
+tradicionales de los pueblos indígenas y las comunidades locales
+recomendadas para las empresas que hacen negocios en
+pertinentes para la conservación y la utilización sostenible de la
+mercados emergentes
+diversidad biológica
+Organización Internacional del Trabajo (1989), Convenio sobre
+Convenio sobre la diversidad biológica(2015), Protocolo
+pueblos indígenas y tribales
+de Nagoya sobre el acceso a los recursos genéticos y la
+participación justa y equitativa en los beneficios que se deriven de Unión Internacional para la Conservación de la Naturaleza (2001),
+su utilización al Convenio sobre la Diversidad Biológica Stakeholder Engagement in IUCN projects
+Convenio sobre la diversidad biológica (2011), Tkarihwaié:ri Unión Internacional para la Conservación de la Naturaleza (2018),
+Código de conducta ética sobre el respeto al patrimonio cultural e Directrices relativas a la biodiversidad para la evaluación de
+intelectual de las comunidades indígenas y locales oportunidades de restauración de paisajes forestales
+Convenio sobre la Diversidad Biológica (2004), Directrices IPBES (2019), Resumen para los encargados de la formulación
+Akwé: Kon voluntarias para realizar evaluaciones de los impactos de políticas del informe de la evaluación mundial sobre la
+culturales, ambientales, y sociales de proyectos de desarrollo diversidad biológica y los servicios de los ecosistemas
+que hayan de realizarse en lugares sagrados o en tierras o aguas
+ocupadas o utilizadas tradicionalmente por las comunidades Organización para la Cooperación y el Desarrollo Económicos
+indígenas y locales, o que puedan afectar a esos lugares (2023),Directrices de la OCDE para Empresas Multinacionales
+sobre la Conducta Empresarial Responsable
+48
+
+--- Página 49 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Organización para la Cooperación y el Desarrollo Económicos Fastré, C., Possingham, H.P., Strubbe, D. et al. Identifying trade-
+(2017), Guía de diligencia debida para la participación significativa offs between biodiversity conservation and ecosystem services
+de las partes interesadas del sector extractivo delivery for land-use decisions. Sci Rep 10, 7971 (2020)
+Naciones Unidas (2022), El derecho humano a un medio Gann, G. D., McDonald, T., Walder, B., Aronson, J., Nelson, C. R.,
+ambiente limpio, saludable y sostenible Jonson, J., Hallett, J. G., Eisenberg, C., Guariguata, M. R., Liu,
+J., Hua, F., Echeverría, C., Gonzales, E., Shaw, N., Decleer, K., y
+Naciones Unidas (2007), Declaración sobre los Derechos de los
+Dixon, K. W. (2019), International principles and standards for the
+Pueblos Indígenas: Manual para las instituciones nacionales de
+practice of ecological restoration. Restoration Ecology, 27(S1),
+derechos humanos
+S1–S46
+Oficina del Alto Comisionado de las Naciones Unidas para los
+Höhl, M., Ahimbisibwe, V., Stanturf, J. A., Elsasser, P., Kleine, M.,
+Derechos Humanos(2011), Principios Rectores sobre Empresas
+y Bolte, A. (2020), Forest landscape restoration – What generates
+y Derechos Humanos
+failure and success? Forests, 11(9), 93 ttps://doi.org/10.3390/
+UNESCO, Convención para la Salvaguardia del Patrimonio f11090938
+Cultural Inmaterial
+Holl, K. D., y Brancalion, P. H. S. (2020), Tree planting: Not a
+simple solution. Science, 368(6491), 580–581.
+Estudios de caso sobre procesos con múltiples
+Oldekop, J. A., Sims, K. R. E., Karna, B. K., Whittingham, M. J., y
+partes interesadas
+Agrawal, A. (2019), Reductions in deforestation and poverty from
+Duguma, L. A., Minang, P. A., Mpanda, M., Kimaro, A., y Alemagi, decentralized forest management in Nepal. Nature Sustainability,
+D. (2015). Landscape restoration from a social-ecological system 2(5), 421– 428. htps://doi.org/10.1038/s41893-019-0277-3
+perspective? In P. A. Minang, M. van Noordwijk, O. E. Freeman,
+C. Mbow, J. de Leeuw, y D. Catacutan (Eds.), Climate-smart Urzedo, D. I., Vidal, E., Sills, E. O., Pinã-Rodrigues, F. C.
+landscapes: Multifunctionality in practice (pp. 63–73). World M., y Junqueira, R. G. P. (2016), Tropical forest seeds in the
+Agroforestry Centre (ICRAF) household economy: Effects of market participation among three
+sociocultural groups in the Upper Xingu region of the Brazilian
+Dolch, R., Ndriamiary, J., Ratolojanahary, T., Randrianasolo, M., Amazon. Environmental Conservation, 43(1), 13–23
+y Ramanantenasoa, I. (2015). Improving livelihoods, training
+para-ecologists, enthralling children: Earning trust for effective
+community- based biodiversity conservation in Andasibe, eastern
+Madagascar. Madagascar Conservation & Development, 10(1), 21
+Douwes, E., y Buthelezi, N. (2016), Growing forests and
+communities. Journal of Geography, 29(5), 221–222
+49
+
+--- Página 50 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Anexo 1: Leyes y directrices internacionales
+sobre los derechos de los pueblos indígenas
+Legislación internacional Pertinencia
+Convenio sobre pueblos indígenas y Este instrumento recoge los derechos de los pueblos indígenas que deben respetarse
+tribales, (N° 169), OIT cuando las operaciones de una empresa o institución financiera tengan un impacto sobre
+los derechos de los pueblos indígenas.
+Declaración de las Naciones Unidas Este instrumento establece los derechos humanos de los pueblos indígenas que deben
+sobre los Derechos de los Pueblos respetarse cuando una empresa o institución financiera tengan un impacto sobre las
+Indígenas tierras, territorios, recursos y culturas de los pueblos indígenas.
+Convenio sobre la Diversidad Biológica Este instrumento reconoce el papel, las contribuciones y los derechos de los pueblos
+indígenas y las comunidades locales en la conservación de la biodiversidad.
+Directrices Akw é : Kon Estas directrices son esenciales para realizar evaluaciones de los impactos culturales,
+ambientales, y sociales de proyectos de desarrollo que hayan de realizarse en
+lugares sagrados o en tierras o aguas ocupadas o utilizadas tradicionalmente por las
+comunidades indígenas y locales, o que puedan afectar a esos lugares
+Estas directrices proporcionan un marco de colaboración en el que los gobiernos, las
+comunidades indígenas y locales, los responsables de la toma de decisiones y los
+gestores de los proyectos pueden: (a) Prestar apoyo a la participación e intervención
+plenas y efectivas de las comunidades indígenas y locales en la clasificación,
+determinación del ámbito y ejercicios de planificación del desarrollo; (b) Tener
+debidamente en cuenta las inquietudes culturales, ambientales y sociales y los
+intereses de las comunidades indígenas y locales, especialmente las mujeres, quienes
+frecuentemente sufren una parte desproporcionadamente grande de los impactos
+negativos de los desarrollos; (c) Tener en cuenta los conocimientos tradicionales de las
+comunidades indígenas y locales como parte de los procesos de evaluación de impactos
+ambientales, sociales y culturales, prestándose la debida atención a la propiedad y a
+la necesidad de proteger y salvaguardar los conocimientos tradicionales; (d) Promover
+el uso de tecnologías apropiadas; (e) Determinar y aplicar medidas adecuadas para
+impedir o mitigar cualesquiera impactos negativos de desarrollos propuestos; (f) Tomar
+en consideración las relaciones mutuas entre los elementos culturales, ambientales y
+sociales.
+50
+
+--- Página 51 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Directrices Mo'otz Kuxtal Estas directrices brindan orientaciones para garantizar el consentimiento libre, previo e
+informado de los pueblos indígenas y las comunidades locales, así como para que estos
+disfruten de una participación justa u equitativa en los beneficios derivados del uso de los
+conocimientos tradicionales asociados a la biodiversidad.
+Glosario de términos y conceptos clave Este glosario facilita una mejor comprensión de los términos y conceptos clave que
+pertinentes para usar en el contexto del deben tenerse en cuenta en la creación de normas, políticas, leyes y marcos, entre otros,
+artículo 8(j) y disposiciones conexas relativos a los derechos de los pueblos indígenas.
+Protocolo de Nagoya sobre el acceso y la El preámbulo contiene siete párrafos relativos a los pueblos indígenas y las comunidades
+participación en los beneficios locales. El Protocolo contiene importantes disposiciones relativas a los recursos
+genéticos y los conocimientos tradicionales asociados a los recursos genéticos que
+poseen las comunidades indígenas y locales.
+51
+
+--- Página 52 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Anexo 2: Derechos de los pueblos indígenas
+Se puede consultar más información en: https://respectingindigenousrights.org
+Derecho Detalles
+Derechos La DNUDPI establece que los indígenas “tienen derecho, como pueblos o como individuos, al disfrute pleno
+individuales y de todos los derechos humanos y las libertades fundamentales reconocidos en la Carta de las Naciones
+colectivos Unidas, la Declaración Universal de Derechos Humanos y las normas internacionales de derechos
+humanos (artículo 1 de la DNUDPI). El reconocimiento de los derechos colectivos de los pueblos indígenas
+es fundamental para su supervivencia física y cultural como pueblos.
+Derecho a la La DNUDPI establece el derecho de los pueblos indígenas a la autodeterminación, lo que significa que
+autodeterminación tienen derecho a determinar libremente su condición política y a perseguir libremente su desarrollo
+económico, social y cultural (artículo 3 de la DNUDPI). En el ejercicio de su derecho a la libre determinación,
+los pueblos indígenas tienen derecho a la autonomía o al autogobierno en las cuestiones relacionadas con
+sus asuntos internos y locales (artículo 4 de la DNUDPI).
+Derecho a la no La Convención Internacional sobre la Eliminación de Todas las Formas de Discriminación Racial
+discriminación compromete a los Estados a eliminar todas las formas de discriminación racial y promover el entendimiento
+entre las razas. La DNUDPI especifica que “ los pueblos y los individuos indígenas son libres e iguales a
+todos los demás pueblos y personas y tienen derecho a no ser objeto de ningún tipo de discriminación en
+el ejercicio de sus derechos, en particular la fundada en su origen o identidad indígenas ” (artículo 2 de la
+DNUDPI). Esto significa que los Estados tienen la obligación de garantizar que su constitución, normativa y
+políticas no discriminen a los pueblos indígenas.
+Derechos La DNUDPI, y los derechos humanos internacionales en general, reconoce el derecho de los pueblos
+culturales indígenas a:
+• Mantener y reforzar sus instituciones culturales particulares.
+• No ser sometidos a una asimilación forzada ni a la destrucción de su cultura.
+• Practicar sus tradiciones y costumbres culturales.
+• Mantener, proteger y desarrollar las manifestaciones pasadas, presentes y futuras de sus culturas.
+• Manifestar, practicar, desarrollar y enseñar tradiciones, costumbres y ceremonias espirituales y
+religiosas.
+• Mantener, controlar, proteger y desarrollar su patrimonio cultural, sus conocimientos tradicionales y sus
+expresiones culturales tradicionales.
+52
+
+--- Página 53 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Derechos El artículo 15 del Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC) aborda los
+culturales (cont.) derechos culturales. El Comité de Derechos Económicos, Sociales y Culturales (CESCR, por sus siglas
+en inglés) ha especificado que la dimensión comunitaria de la vida cultural de los pueblos indígenas es
+indispensable para su existencia, desarrollo y bienestar. En este sentido, el Comité ha afirmado que los
+valores culturales de los Pueblos Indígenas, así como los derechos asociados a sus tierras ancestrales
+y a su relación con la naturaleza, deben ser considerados con respeto y protegidos, a fin de evitar la
+degradación de su particular modo de vida, incluidos sus medios de subsistencia, la pérdida de sus recursos
+naturales y, en última instancia, su identidad cultural.
+Derechos sobre La legislación internacional sobre derechos humanos reconoce el derecho de los pueblos indígenas a
+la tierra, los poseer, utilizar, desarrollar y controlar las tierras, territorios y recursos que poseen en razón de la propiedad
+territorios y los tradicional u otro tipo tradicional de ocupación o utilización, así como aquellos que hayan adquirido de
+recursos naturales otra forma (artículo 26 de la DNUDPI, artículos 13 y 14 del Convenio 169 de la OIT). Esto significa que los
+derechos sobre la tierra de los pueblos indígenas se derivan intrínsecamente de su propiedad tradicional,
+independientemente de si ha sido reconocida formalmente por el Estado. Además, la DNUDPI, y la
+legislación internacional sobre derechos humanos en general, reconocen el derecho de los pueblos
+indígenas a:
+• Mantener y fortalecer su propia relación espiritual con sus tierras, territorios, aguas y mares costeros
+y otros recursos, y asumir las responsabilidades que a ese respecto les incumben para con las
+generaciones venideras.
+• Reparación, por medios que pueden incluir la restitución o, cuando esto no sea posible, una
+indemnización justa y equitativa por las tierras, territorios y recursos que tradicionalmente hayan poseído
+u ocupado o utilizado de otra forma, y que hayan sido confiscados, tomados, ocupados, utilizados o
+dañados sin su consentimiento libre, previo e informado.
+• La conservación y protección del medio ambiente y la capacidad productiva de sus tierras o territorios y
+recursos.
+• Determinar y elaborar las prioridades y estrategias para el desarrollo o la utilización de sus tierras,
+territorios y otros recursos.
+• Los pueblos indígenas no serán desplazados por la fuerza de sus tierras o territorios. No se procederá a
+ningún traslado sin el consentimiento libre, previo e informado de los pueblos indígenas interesados ni
+sin un acuerdo previo acuerdo sobre una indemnización justa y equitativa y, siempre que sea posible,
+con la opción del regreso.
+Los derechos colectivos de los pueblos indígenas a la tierra, los territorios y los recursos naturales están
+intrínsecamente ligados y son fundamentales para “ sus culturas, su vida espiritual, su integridad y su
+supervivencia económica ” , como reconoce la Corte Interamericana de Derechos Humanos. La Corte reconoce
+que, “ para las comunidades indígenas, las relaciones con la tierra no son una mera cuestión de posesión y
+producción, sino un elemento material y espiritual, del que deben disfrutar plenamente, incluso para preservar
+su legado cultural y transmitirlo a las generaciones futuras ” , y “ para evitar su extinción como pueblo ” .
+53
+
+--- Página 54 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Derecho a la vida, Todo ser humano tiene derecho a la vida y a la seguridad (artículo 3 de la DUDH, artículo 6 del PIDCP,
+la seguridad y la artículo 9 del PIDCP). La DNUDPI también reconoce que los pueblos indígenas tienen “ el derecho colectivo
+integridad física a vivir en libertad, paz y seguridad como pueblos distintos y no serán sometidos a ningún acto de genocidio
+ni a ningún otro acto de violencia, incluido el traslado por la fuerza de niños del grupo a otro grupo ” (artículo
+7 de la DNUDPI). Los pueblos indígenas y los defensores indígenas de los derechos humanos sufren
+violaciones desproporcionadas de estos derechos, a menudo a manos de agentes estatales y del sector
+privado. Los perjuicios de los ataques contra los pueblos indígenas y los líderes comunitarios son de
+naturaleza colectiva, especialmente cuando se ataca a los propios representantes de los pueblos indígenas.
+Derecho al El derecho al consentimiento libre, previo e informado está afirmado por los órganos de tratados
+consentimiento internacionales de derechos humanos, entre ellos: El Comité de Derechos Humanos, el Comité para la
+libre, previo e Eliminación de la Discriminación Racial, el Comité de Derechos Económicos, Sociales y Culturales,
+informado el Comité para la Eliminación de la Discriminación contra la Mujer y el Comité de los Derechos del Niño.
+54
+
+--- Página 55 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+Agradecimientos
+El Grupo de Trabajo agradece los aportes de una serie de • La Science Based Targets Network (SBTN) y su grupo de
+personas y organizaciones para elaborar estas orientaciones. trabajo de expertos en materia de orientaciones para la
+El Grupo de Trabajo expresa su especial agradecimiento a: participación de las partes interesadas por sus revisiones y
+aportes sobre la alineación con las orientaciones pertinentes
+• El Foro Internacional Indígena sobre Biodiversidad (FIIB), un
+de la SBTN.
+conjunto de representantes de pueblos indígenas, gobiernos
+• A las siguientes organizaciones por sus revisiones y aportes a
+indígenas, organizaciones indígenas no gubernamentales y
+este borrador de las orientaciones, incluido el borrador de las
+académicos indígenas que se organizan en torno al Convenio
+orientaciones para la participación de las partes interesadas
+sobre la Diversidad Biológica y que facilitaron la elaboración
+en la v0.4 del marco beta del TNFD: Accountability Counsel;
+de estas orientaciones a través de un proceso de diálogo de
+CDP; Secretaría del Convenio sobre la Diversidad Biológica
+un año de duración con el TNFD. También agradece a la Unión
+(CDB); Nature Finance; Ocean Conservancy; Organización
+Internacional para la Conservación de la Naturaleza (UICN),
+para la Cooperación y el Desarrollo Económico (OCDE);
+que apoyó este diálogo.
+Pacific Institute; Principios para la Inversión Responsable
+• El equipo de Shift, incluidos Caroline Rees y Mark Hodge, que
+(PRI); el Programa de las Naciones Unidas para el Desarrollo
+apoyaron la redacción inicial de estas orientaciones para el
+(PNUD); la Iniciativa Financiera del Programa de las Naciones
+marco beta v0.4 del TNFD.
+Unidas para el Medio Ambiente (PNUMA IF); el Centro Mundial
+• Bennett Freeman y Ragnhild Handagard, que prepararon un de Vigilancia de la Conservación (WCMC) del Programa de las
+análisis del panorama de las consideraciones empresariales y Naciones Unidas para el Medio Ambiente (PNUMA); y el WWF.
+de derechos humanos basado en la legislación internacional
+• Las muchas otras organizaciones y personas que aportaron
+vigente y en las mejores prácticas y que, a su vez, sirvió
+sus comentarios sobre el borrador de las orientaciones para
+de base a un documento de debate del TNFD sobre las
+la participación de las partes interesadas del TNFD en la v0.4
+dimensiones sociales de la gestión y divulgación de los riesgos
+del marco beta del TNFD y el documento de debate del TNFD
+relacionados con la naturaleza; también a NatureFinance,
+sobre las dimensiones sociales publicado en noviembre de
+que encargó dicho análisis del panorama, y a la Children's
+2022.
+Investment Fund Foundation (CIFF), que lo respaldó.
+55
+
+--- Página 56 ---
+Orientaciones para la participación de los pueblos indígenas,
+las comunidades locales y las partes interesadas afectadas
+Versión 1.0 Septiembre de 2023
+tnfd.global
+56
