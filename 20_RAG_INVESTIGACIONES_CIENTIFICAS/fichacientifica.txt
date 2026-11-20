@@ -1,0 +1,91 @@
+--- Página 1 ---
+F I C H A C I E N T Í F I C A · E S T U D I O D E L A T E C H N I S C H E U N I V E R S I TÄT B E R L I N
+Cambio climático local inducido por la sobreexplotación de agua subterránea
+en una cuenca alto-andina árida, cuenca de Laguna Lagunillas, norte de Chile
+Scheihing & Tröger · Hydrogeology Journal 26  705  719  2018  · DOI 10.1007/s10040  017  1647  4
+Autores e institución Konstantin Scheihing y Uwe Tröger. Departamento de Geociencias Aplicadas, Grupo de Investigación en
+Hidrogeología, Technische Universität Berlin.
+Publicación Recibido 3-nov-2016; aceptado 17-jul-2017; en línea 14-ago-2017. Colección «Investigación en cambio climático
+por hidrogeólogos en inicio de carrera». Revisión por pares  Springer). Al consultar la página: 25 citas, Altmetric
+46.
+Financiamiento CONICYT  Chile, hoy ANID  . Apoyo de la red ECHN de la Asociación Internacional de Hidrogeólogos. No declara
+financiamiento de la minera.
+Sitio Pampa Lagunillas y Laguna Lagunillas, Tarapacá; 19,55 °S, 68,5 °O;  4.000 m s.n.m.; acuífero somero. Derechos
+de 300 L/s  DGA Res. 425, 1982  para la mina Cerro Colorado.
+Pregunta ¿El descenso del nivel freático por extracción de agua subterránea altera el clima local (temperaturas del aire)?
+Datos Temperatura diaria 1983  2011  estación Lagunillas  MLL,  4.030 m) y control Collacagua  MCC,  4.013 m,  12 km
+al sur, cuenca del Salar del Huasco), ambas de la DGA. Nivel freático medido por BHP, dos veces al mes desde
+1991. Temperatura superficial terrestre con ASTER y Landsat 5. Índice de Oscilación del Sur  SOI  .
+Métodos Regresión lineal de niveles; pruebas de homogeneidad no paramétricas de Pettitt y Buishand para detectar puntos
+de cambio; comparación sitio–control; análisis de imágenes térmicas.
+10  18,5 m  2,7 °C  3 a  8 °C  2 m
+Descenso freático 1991  2011/12 Salto de máximas de verano hacia Mínimas de invierno   2 a  4 °C Profundidad de extinción
+(0,5  1 m/año) 1995  97 en verano) evaporativa; descenso crítico 2  3
+m
+Hallazgos
+1 · Hidrología El nivel cayó de condiciones casi superficiales a  15 m. LA  1  18,5 m; LA  7  13,5; LA  3  10,8; LA  4  10,4; LA  5
+−10. Entre 1995 y 1999 el descenso fue de 2  3 m, cuando empiezan a detectarse los cambios de temperatura.
+🟢 dato medido
+2 · Temperatura Las tendencias de MLL se desacoplan de la estación de control MCC; las anomalías son coherentes con las
+imágenes térmicas. 🟢 dato medido
+3 · Mecanismo (a) Bajo  2 m cesa el enfriamiento evaporativo y el suelo desnudo se sobrecalienta (más máximas). (b) Menos
+agua somera reduce la conductividad térmica y el aporte del acuífero   10 °C  en la noche (menos mínimas).
+🟡 propuesto por los autores
+4 · Recomendación No bajar la napa somera de 2 m en proyectos de extracción en cuencas alto-andinas; incluir la interacción agua–
+clima en estudios de impacto y monitoreo.
+Límites declarados o visibles en el texto
+El resumen dice que dos factores «podrían» causar el cambio; los autores piden más investigación sobre la interacción suelo–atmósfera.
+Las mínimas de MLL correlacionan significativamente con el SOI  1984  2011  ; en MCC la relación es parcial, lo que indica otros factores.
+MLL tiene una brecha mayor de datos entre abril de 1995 y enero de 1997, que coincide con el salto de máximas hacia 1996. Los autores estiman
+que su efecto es menor  29 años de registro;  10 % de días faltantes).
+Un solo sitio de control, serie hasta 2011  2012  no evalúa el SRA posterior ni el Acuerdo de Transacción de 2023.
+Ficha científica · Scheihing & Tröger  2018  · TU Berlin 1
+
+--- Página 2 ---
+Vínculo del estudio con Chile: entidades públicas y privadas
+Tipo Entidad Relación con el estudio Estatus
+Pública · CONICYT (hoy ANID  Financió el estudio. Confirmado
+financiamiento (agradecimientos)
+Pública · datos Dirección General de Datos de temperatura y precipitación de MLL y MCC; otorgó los 300 Confirmado
+Aguas  DGA, MOP  L/s  Res. 425, 1982  ; plataforma de datos hidrometeorológicos.
+Privada · datos BHP Billiton / Compañía Titular de los derechos; midió el nivel freático (desde 1991  ; reportó Confirmado como
+y operación Minera Cerro Colorado  130 L/s  2015  y riego del humedal con  25 L/s desde  2006. El fuente de datos; sin
+estudio no declara colaboración ni financiamiento de la empresa. vínculo de autoría
+Pública · SEA / evaluación de El estudio cita el EIA de extensión hasta 2023, entonces en curso, y Citado; uso posterior en
+evaluación impacto ambiental  EIA, propone incorporar la interacción agua–clima en estos estudios. la RCA 69/2015 y RCA
+SEA 2014  13/2022 no verificado
+Pública · Sernageomin Mapa geológico 1  1.000.000  2003  usado en la caracterización Confirmado
+cartografía geológica.
+Pública/abierta Observatorio del Agua Citado para el acceso público a datos; la ley chilena los hace Citado
+· datos  ODEA  públicos.
+Comunidad y Comunidad aymara El estudio recoge que en 2002 la comunidad advirtió el secado del Referencias citadas; sin
+ONG local; Chile Sustentable humedal y cinco manantiales  Yáñez y Molina 2008; Larraín y Poo participación declarada
+2010, de Chile Sustentable).
+Judicial / SMA, Tribunales No aparecen en el estudio  2017  . Su uso como prueba o referencia Brecha: verificar en los
+fiscalizador Ambientales, Corte en los procesos D  10  2021, R  141  2017 o Rol 8.573  2019 no está expedientes
+Suprema verificado.
+Lectura: el estudio tiene financiamiento público chileno  CONICYT  , usa datos públicos de la DGA y datos de nivel freático producidos
+por la propia minera. Esa última condición refuerza su valor probatorio: la caída del nivel proviene de mediciones de la empresa y no
+de terceros.
+Por qué importa para el Acuerdo de Transacción
+Medida Conexión con el estudio
+M1 El umbral de 2  3 m y la recomendación de no bajar de 2 m son un indicador físico exigible; el nivel actual está 3 a 9 veces por
+debajo.
+M3 Es la evidencia central para contrastar la atribución de las oscilaciones a «cambio climático»: el estudio muestra cambio térmico
+local desacoplado de la estación de control.
+M4 La turba con napa profunda pierde su condición de sumidero; el estudio aporta la profundidad de napa, no el flujo de carbono.
+M2 Un comité que revise modelos hidrogeológicos debería contrastar sus resultados con esta serie y con la estación de control.
+Cómo citarlo de forma defendible
+Sí: «Un estudio revisado por pares de la TU Berlín, financiado por CONICYT y basado en datos de la DGA y de BHP, documenta un
+descenso freático de 10  18,5 m entre 1991 y 2011, y un cambio térmico local desacoplado de una estación de control, que los autores
+atribuyen a la pérdida de agua somera.»
+Evitar: «demuestra que la minera causó el cambio climático local» (los autores proponen el mecanismo y piden más investigación) y
+«prueba que el humedal será un salar» (el estudio no proyecta salinización).
+Siguientes pasos sugeridos
+1. Pedir a los autores el conjunto de datos y las pruebas de homogeneidad para replicarlas con la serie 2012  2026  DGA y SMA  .
+2. Verificar en los expedientes  IPTA D  10  2021, 2TA R  141  2017, Corte Suprema 8.573  2019, SEIA RCA 69/2015 y 13/2022  si el estudio fue
+incorporado.
+3. Contactar a la TU Berlin y a ANID para confirmar el proyecto financiado y la disposición a un peritaje independiente.
+Fuentes: artículo original (traducción de trabajo interna, solo para uso interno) · Springer (afiliación, financiamiento, métricas) · Wikipedia, Pampa Lagunillas
+Aquifer (contexto; no menciona la TU Berlin).
+Ficha científica · Scheihing & Tröger  2018  · TU Berlin 2
