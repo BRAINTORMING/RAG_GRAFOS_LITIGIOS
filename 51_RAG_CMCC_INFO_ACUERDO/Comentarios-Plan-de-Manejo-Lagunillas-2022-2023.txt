@@ -1,0 +1,407 @@
+--- Página 1 ---
+Consolidación Comentarios Comité de Expertos
+Título Documento Observado/Revisado: Informe Plan de Manejo de las Funciones Ecosistémicas del Sistema
+Lacustre de Lagunillas. 30 Noviembre 2023. “Repor Variables Relevantes Plan de Manejo Lagunillas abril 2022
+a Marzo 2023.pdf”.
+From Comité de Expertos
+Fecha 05/06/2024
+To CMCC
+Comité de Expertos
+CE Carlos Espinoza Rol: Realiza observaciones
+SI Sergio Iriarte Rol: Realiza observaciones
+RP Rodrigo Pardo Rol: Realiza observaciones/Compila
+I. Propósito
+Enviar comentarios, observaciones y propuestas de modificación a los documentos enviados por CMCC al Comité de
+Expertos individualizado en el cuadro anterior, con la finalidad de dar cumplimiento a la Medida 2 (M2), denominada “Comité
+de Expertos durante Período de Cierre Lagunillas (2024-2028)”, del Acuerdo de Transacción entre Luis Jara Alarcón y
+Otros y Compañía Minera Cerro Colorado Limitada.
+II. Desarrollo.
+Comentarios: Carlos Espinoza.
+N° Comentario/Observación ÍTEM
+1 Cambiar "acuíferos subterráneos" por: sistemas subterráneos o acuíferos
+1. Resumen
+2 Cambiar "afluentes, de origen superficiales y/o subterráneos" por: afluentes, de origen 1. Resumen
+superficiales y/o subterráneos
+3 Cambiar "se encuentra sujeto a un evento antrópico" por: fue afectado en el pasado por 1. Resumen
+el efecto del bombeo, lo
+4 Cambiar "tiene" por: tuvo 1. Resumen
+5 Eliminar ", afectando la zona alta del sistema" 1. Resumen
+6 Cambiar "en el año 2004" por desde el año 2004 1. Resumen
+1
+
+--- Página 2 ---
+7 "En el último párrafo de esta introducción es Importante, sobre todo si este informe se 2. Introducción
+va a entregar con fecha del año 2024, que se indique que a la fecha del reporte el
+bombeo productivo se detuvo.
+Eso más allá de que se reporta un rango de fechas con bombeo activo."
+8 Cambiar "donde CMCC obtiene agua para su operación," por: desde donde CMCC 2.1. Componentes
+obtiene agua para su operación, Ambientales Sensibles
+9 Comentario: No debiera está aquí o en el punto siguiente el nivel de agua en la 2.2. Variables
+laguna?. Se debe incorporar el nivel del agua Ambientales
+Relevantes (VAR)
+10 Uniformar término con las variables de la laguna y bofedal. Es calidad o química del 2.3. Variables
+agua Ambientales
+Complementarias
+(VAC)
+11 Revisar formato del párrafo 3.3.3. Manejo de
+Recolonización
+asistida del Bofedal
+12 "Respecto a la Figura 2. Qué diferencia hay con la Figura 1? Para que se coloca en 3.3.3. Manejo de
+esta sección? Recolonización
+asistida del Bofedal
+Se recomienda actualizar figuras colocando la laguna en contexto."
+13 Respecto a la Figura 3 y otras. Figuras muy difusas. Se recomienda rehacer para 3.3.3. Manejo de
+mejor entendimiento. Recolonización
+asistida del Bofedal
+14 "En el último párrafo de la página 16. Cómo se relaciona la información presentada en 4.1.4 Flujo de Recarga
+las Figuras 6 y 7?
+Se requiere dar mejor explicación ya que esta información es clave para entender el
+sistema."
+15 Comentario: Hay algún procedimiento de QAQC de los datos levantados? No se 4.1.5 Calidad de Agua
+indica. de Recarga.
+16 Respecto al levantamiento topográfico, se requiere precisar Cual es la frecuencia de 4.2.2 Área Lagunar
+esta medición?
+17 "Respecto a la Figura 19 y otras. Estas figuras se repiten en el documento. Se pueden 4.3.10. Mejoramiento
+citar de nuevo sin volver a colocarlas. de la humectación del
+Bofedal
+Falta explicación de los símbolos en la Figura 19."
+18 Figuras 23,24 y 25. Mejorar calidad de las figuras. 5.1.1 Cartografía
+Vegetacional del
+Bofedal de Lagunillas
+19 Se recomienda uniformar las tablas para que la información sea comparable de 5.1.2 Parcelas de
+manera directa. Vegetación
+20 Comentario: Uniformar la presentación de la información para las fechas indicadas. 5.1.6
+Evapotranspiración
+21 Corregir "mes de julio del 2022" por mayo 2022 5.1.6
+Evapotranspiración
+22 Revisar referencia. 5.1.6
+Evapotranspiración
+2
+
+--- Página 3 ---
+23 Comentario: Uniformar la presentación de la información de cada mes. 5.2.1 Calidad Química
+de las Aguas
+24 En la Figura 64 Hay cuatro valores y sólo tres elementos en la leyenda. Puede ser 5.2.1 Calidad Química
+sodio (Na). Revisar. de las Aguas
+25 Porque para algunos elementos se entrega un error y para otros un valor fijo. 5.2.1 Calidad Química
+de las Aguas
+En el caso de Salar de Huasco la muestra de Sodio indica un error mayor que el
+promedio (¿?). Explicar.
+26 De que fecha es la campaña de terreno? A continuación, se hace referencia a una 5.2.1 Calidad Química
+campaña anterior de enero de 2023. Explicar. de las Aguas
+27 Para el Río Charvinto se indica que en las campañas anteriores (julio a enero de 5.2.1 Calidad Química
+2023). Revisar julio 2022 a enero 2023!!! Explicar. de las Aguas
+28 Definir uso de punto o coma para decimales. Hay mezclas en el texto. 5.2.1 Calidad Química
+de las Aguas
+Comentarios: Sergio Iriarte.
+N° Comentario/Observación ÍTEM
+1 "Comentario: ""acuíferos
+1. Resumen
+2 subterráneos"" Es redundante (sin son acuíferos, son subterráneos). Podrían ser 1. Resumen
+""aguas subterráneas..."" "
+3 Comentario: "un evento antrópico". A que se refiere esto? Al bombeo? Si es así, hay 1. Resumen
+que decir "...estuvo sujeto"
+4 Comentario: en el tercer ítem de las consideraciones generales para el desarrollo e 2.1. Componentes
+implementación de Plan. Se sugiere agregar que incluso, está en mejores condiciones Ambientales Sensibles
+de lo que estaba al momento de iniciarse el bombeo.
+5 Cambiar "donde CMCC obtiene agua para su operación," por: desde donde CMCC 2.2. Variables
+obtiene agua para su operación, Ambientales
+Relevantes (VAR)
+6 Comentario: No está considerado el nivel del agua? 3.3.3. Manejo de
+Recolonización
+asistida del Bofedal
+7 Revisar formato del párrafo 4.1.1. Cartografía
+vegetacional del
+bofedal de Lagunillas
+(CoberturaVegetacion
+al).
+8 Respecto a la Figura 2. No se entiende la figura. No hay alguna con mejor resolución? 4.1.4 Flujo de Recarga
+9 Respecto a la Figura 7. Que significan los colores (puntos verdes y puntos azules)? 4.1.7 Humedad del
+suelo
+10 Comentario: Se requiere especificar cual es la metodología utilizada para medir 4.2.1 Calidad Química
+humedad? Se realiza un perfil de humedad del suelo? Entregar más información. de las Aguas y
+Sedimentos
+3
+
+--- Página 4 ---
+11 Sugerencia: Incorporar un Mapa con los puntos de muestreo 4.2.1 Calidad Química
+de las Aguas y
+Sedimentos
+12 Respecto al levantamiento topográfico, se requiere Cuales son los puntos que se 4.2.2 Área Lagunar
+toman??
+13 Figuras 23,24 y 25. No se lee, mejorar resolución 5.1.1 Cartografía
+Vegetacional del
+Bofedal de Lagunillas
+14 Se indica que Los monitoreos del sector de Río Llacho no fueron realizados por no 5.1.2 Parcelas de
+tener autorización de acceso de la comunidad de Cancosa. Vegetación
+15 Especificar que significan las abreviaciones en la Tabla 5.1.2 Parcelas de
+Vegetación
+16 se presentan los flujos del Sistema de Recarga Artificial (SRA) distribuidos 5.1.4 Flujo de
+Vertientes
+en el bofedal de Lagunillas entre abril 2022 y marzo 2023. Porque solo el último año?
+No habían registros anteriormente?
+17 La figura 43 muestra los flujos de agua por sector de recarga para el período 5.1.4 Flujo de
+comprendido entre abril 2022 y marzo 2023. No hay registro de otros años? Vertientes
+18 Se indica en el texto que "cubren el periodo entre el 01/08/2018 y el 31/05/2022.". 5.1.6
+Porque no está hasta 2023? Se dejo de medir? Evapotranspiración
+19 Respecto al párrafo "Lo más probable es que esta anomalía esté asociada a algún 5.1.6
+cambio en el sensor o los métodos de medición.". Debiera indagarse y entregar una Evapotranspiración
+respuesta más concreta.
+20 En el último párrafo de la página 74, se sugiere destacar que en el verano de 2021 no 5.1.6
+hubo precipitaciones Evapotranspiración
+21 5.1.6
+Corregir referencia Evapotranspiración
+22 Respecto a la humedad del suelo, se requiere especificar como se mide? A que 5.1.7 Humedad del
+profundidad? Suelo
+23 5.1.7 Humedad del
+Especificar de la humedad del suelo, de que nivel? Superficial? Suelo
+24 Respecto a la afirmación "producto de un flujo estacional de gran magnitud del río 5.1.9. Peces
+LLacho ocurrido en febrero del año 2011.". Sería bueno mostrar un gráfico histórico
+que dé cuenta de esta aparición y de los rangos de variabilidad.
+25 En base a las Figuras presentadas, Falta leyenda y mapa para establecer de donde son y 5.2.1 Calidad Química
+porque su variabilidad de las Aguas
+26 5.2.1 Calidad Química
+En la Figura 64 Falta un elemento en la leyenda. Sodio? de las Aguas
+27 5.2.1 Calidad Química
+Mostrar que significan las abreviaciones de la leyenda en las Figuras de las Aguas
+28 Se sugiere Colocar imagen para comprar. Como era en 2005 y como es ahora (marzo 5.2.1. Área Lagunar
+2023). Colocar máximo.
+4
+
+--- Página 5 ---
+29 5.2.1. Área Lagunar
+En la Figura 134 Sería bueno comparar con la serie de tiempo de las lluvias
+30 6.2.1. Calidad Química
+Faltan gráficos de series de tiempo para ver variabilidad y superación de referencias de las Aguas
+31 Se sugiere indicar el mínimo establecido en la norma para la vida acuática y la Norma en 6.2.1. Calidad Química
+especifico de las Aguas
+32 Se indica que los valores de los parámetros medidos tanto en laboratorio como en 6.2.1. Calidad Química
+terreno se encuentran dentro de los rangos históricos para cada sector. Se sugiere de las Aguas
+incorporar gráficos en los que se observe lo indicado
+Comentarios: Rodrigo Pardo.
+N° Comentario/Observación ÍTEM
+1 Comentario: "un evento antrópico". No queda claro a que se refiere, es muy amplio el
+1. Resumen
+concepto de "evento antrópico"
+2 Comentario: "afectando la zona alta del sistema". esto se contradice con lo expuesto 1. Resumen
+anteriormente, ya que, por ejemplo, la laguna tiene dependencia hídrica del bofedal, por
+lo que la afectación sería más extensa.
+3 Comentario: "han sido abordables técnicamente". A que se refiere con abordables 1. Resumen
+técnicamente?, es muy amplio el concepto
+4 1. Resumen
+Sugerencia: Cambiar "sus condiciones" por: su condición posterior al evento
+5 Sugerencia: Cambiar " en cuanto a su efecto en la 1. Resumen
+recuperación de la vegetación del bofedal" por: y ha tenido efectos en la recuperación
+de la vegetación del bofedal.
+6 Comentario: en el párrafo final del resumen, si las variables indicadas inicialmente eran 1. Resumen
+cobertura y vigor, porque no se hace mención de esto en este párrafo?
+7 Comentario: en el ítem de Superficie de la laguna. Solo superficie? 2.2. Variables
+Se analiza la profundidad? Ambientales
+Se tiene alguna forma de determinar el volumen? Relevantes (VAR)
+8 2.3. Variables
+Ambientales
+Comentario: "Fauna Acuática". Aclarar a que comunidades se refiere. Se debe tomar en Complementarias
+cuenta que el zooplancton y zoobentos también son fauna, al igual que peces y anfibios. (VAC)
+9 2.3. Variables
+Ambientales
+Comentario: Se debe presentar el permiso de pesca de investigación para los recurso Complementarias
+Hidrobiológicos. (VAC)
+10 Comentario: entre las variables complementarias se nombra "Fauna". Al respecto 2.3. Variables
+aclarar a que comunidades se refiere. Ambientales
+5
+
+--- Página 6 ---
+Complementarias
+(VAC)
+11 2.3. Variables
+Ambientales
+Complementarias
+Comentario: BIORNAT esta acreditado para medir caudal? (VAC)
+12 Comentario: al definir que BIORNAT realiza el seguimiento de fauna acuática, no queda 2.3. Variables
+claro si se refiere solo a fauna íctica y anfibios? Ambientales
+Complementarias
+(VAC)
+Al parecer zooplancton y zoobentos es monitoreado por SGS.
+13 2.3. Variables
+Ambientales
+Complementarias
+Comentario: BIORNAT esta acreditado para medir caudal? (VAC)
+14 Comentario: al definir que BIORNAT realiza el seguimiento de fauna acuática, no queda 3.1.3. Actividad
+claro si se refiere solo a fauna íctica y anfibios? Fotosintética
+Al parecer zooplancton y zoobentos es monitoreado por SGS.
+15 3.1.5. Calidad de Agua
+Comentario: BIORNAT esta acreditado para medir caudal? de Recarga
+16 Comentario: al definir que BIORNAT realiza el seguimiento de fauna acuática, no queda 3.1.6.
+claro si se refiere solo a fauna íctica y anfibios? Evapotranspiración
+Al parecer zooplancton y zoobentos es monitoreado por SGS.
+17 3.1.9. Peces
+Comentario: BIORNAT esta acreditado para medir caudal?
+18 Comentario: al definir que BIORNAT realiza el seguimiento de fauna acuática, no queda 3.2.1. Calidad Química
+claro si se refiere solo a fauna íctica y anfibios? de las Aguas
+Al parecer zooplancton y zoobentos es monitoreado por SGS.
+19 3.2.2. Fitoplancton y
+Comentario: BIORNAT esta acreditado para medir caudal? Zooplancton
+20 Comentario: al definir que BIORNAT realiza el seguimiento de fauna acuática, no queda 3.3.1. Fotografía aérea
+claro si se refiere solo a fauna íctica y anfibios? no Tripulada
+Al parecer zooplancton y zoobentos es monitoreado por SGS.
+21 3.3.3. Manejo de
+Recolonización
+Revisar espaciado. asistida del Bofedal
+22 3.3.4. Análisis de la
+Vegetación Mediante
+el uso de Imágenes
+La letra A del titulo parece estar en otro tono, revisar para todo el documento. Satelitales
+6
+
+--- Página 7 ---
+23 3.3.4. Análisis de la
+Vegetación Mediante
+Comentario: NO queda claro si se utilizan las imágenes obtenidas e el punto 3.3.1, es lo el uso de Imágenes
+mismo? Satelitales
+24 4.1.1. Cartografía
+vegetacional del
+bofedal de Lagunillas
+las imágenes tienen baja resolución. Se solicita mejorar y unificar las figuras del (CoberturaVegetacion
+documento al).
+25 4.1.1. Cartografía
+vegetacional del
+Se afirma que: "Es un método exacto, presenta menor grado de error y varianza con
+bofedal de Lagunillas
+respecto a otros métodos de muestreo", pero esto no tiene la cita que la apoye. Se solita (CoberturaVegetacion
+incorporar las citas a esta y a las otras aseveraciones dentro del documento. al).
+26 4.1.2. Parcelas de
+Respecto a la Tabla 2 y otras. Se sugiere Homogeneizar las tablas Vegetación
+27 4.1.6
+Figura 10 y 11 están invertidas las fotografías. Revisar Evapotranspiración
+28 la Figura 12 Es de algún libro o trabajo publicado? 4.1.6
+Si es así debería tener la cita correspondiente. Evapotranspiración
+29 la Figura 13 Es de algún libro o trabajo publicado? 4.1.6
+Evapotranspiración
+Si es así debería tener la cita correspondiente. Revisar para el resto del documento.
+30 Los mapas deberían estar en un mismo formato. Es muy notoria la diferencia entre los 4.1.8 Aves del Bofedal
+mapas de los componentes analizados. y Laguna
+31 Comentario: Se requiere especificar si los conteos tienen alguna variable de área para 4.1.9. Peces
+calcular densidad?
+32 4.2.1 Calidad Química
+Comentario: Los sedimentos no están entre los objetivos y/o materiales y métodos. Se de las Aguas y
+requiere consistencia entre Objetivos-metodologías-resultados Sedimentos
+33 4.2.1 Calidad Química
+Respecto al muestreo realizado por la ETFA. Debería indicarse el muestreador y el de las Aguas y
+Inspector Ambiental Sedimentos
+34 4.2.1 Calidad Química
+de las Aguas y
+Se hace referencia la Tabla 5b, pero n ose encuentra la Tabla. Sedimentos
+35 4.2.3 Fitoplancton y
+faltan los organismos bentónicos Zooplancton
+36 4.2.3 Fitoplancton y
+Agregar un mapa y puntos georreferenciados, con los puntos de muestreo de Huasco Zooplancton
+37 Respecto al muestreo de organismos planctónicos, se requiere indicar la forma en que 4.2.3 Fitoplancton y
+se definieron los puntos L1-L5. Zooplancton
+38 Respecto al muestreo de organismos planctónicos, se requiere Indicar la metodología 4.2.3 Fitoplancton y
+de análisis de laboratorio Zooplancton
+7
+
+--- Página 8 ---
+39 Respecto al muestreo de organismos planctónicos, se requiere indicar si se toma la 4.2.3 Fitoplancton y
+profundidad de muestreo y la profundidad del punto de muestreo? Zooplancton
+40 Respecto al muestreo de organismos planctónicos, se requiere especificar si se sigue 4.2.3 Fitoplancton y
+alguna metodología estándar?, por ejemplo APHA. Zooplancton
+41 Respecto al muestreo de organismos planctónicos, se requiere indicar si se toman 4.2.3 Fitoplancton y
+replicas? Zooplancton
+42 5.1.1 Cartografía
+En la Tabla 9 y en otras se deben especificar las siglas y símbolos utilizados. Indicar que Vegetacional del
+significa la sigla SD. Bofedal de Lagunillas
+43 5.1.3 Actividad
+En la Figura hay alguna explicación a los valores negativos? Fotosintética
+44 5.1.3 Actividad
+En la Figura llama la atención el mínimo de aprox -2 Fotosintética
+45 5.1.3 Actividad
+Se sugiere seguir un solo formato en los títulos y subtítulos del documento Fotosintética
+46 5.1.3 Actividad
+En la Figura se requiere verificar el valor negativo inicial del control Fotosintética
+47 5.1.4 Flujo de
+En la Figura 42 corregir Fujómetro por Flujómetro Vertientes
+48 5.1.5 Calidad del Agua
+Indicar en la Tabla 28 y en el texto que es s/i y por qué no está el dato. de Recarga
+49 En la figura 44 revisar los valores cero de STD. Son correctos los cero reportados? 5.1.5 Calidad del Agua
+de Recarga
+No se condicen con los C.E.
+50 En la Figura 44 corregir la descripción, ya que son los sólidos disuelto No los Totales 5.1.5 Calidad del Agua
+(incluye suspendidos) de Recarga
+51 5.1.5 Calidad del Agua
+En la Figura 46 corregir PH por pH de Recarga
+52 5.1.6
+tener un solo separador decimal para el documento. Unificar a coma o punto. Evapotranspiración
+53 5.1.6
+Vincular correctamente Evapotranspiración
+54 Varios párrafos dentro del documento están en color gris. Unificar estructura y forma del 5.1.8 Aves del Bofedal
+documento.
+55 5.1.9. Peces
+Poner cursivas en los nombres de especies
+56 Comentario: la estructura no facilita el análisis. Además, se repiten párrafos completos 5.2.1 Calidad Química
+entre campañas. de las Aguas
+Se sugiere integrar el análisis para el periodo y luego agregarlos a la serie de tiempo. En
+conformidad a la RE 223 de la SMA.
+57 5.2.1 Calidad Química
+definir nomenclatura. Litro será con mayúscula o minúscula. de las Aguas
+8
+
+--- Página 9 ---
+58 Se han observado que las aguas subterráneas con menor tiempo de resistencia en un 5.2.1 Calidad Química
+acuífero son del tipo bicarbonatadas; después predomina el sulfato, y las más salinas de las Aguas
+son cloruradas (secuencia de Chevotareb); la secuencia análoga para cationes
+involucra a los iones calcio, luego magnesio y finalmente sodio, pero no está del todo
+claro. Este párrafo al igual que otros esta respetivo varias veces, además, parece ser un
+juicio de valor (pero no está del todo claro).
+59 5.2.1 Calidad Química
+Corregir Resistencia por residencia de las Aguas
+60 Hace falta una explicación de por que varían las estaciones de muestreo 5.2.2. Fitoplancton y
+Zooplancton
+Según la metodología debieran ser 5 estaciones en Lagunillas y 3 en Huasco.
+61 En la Tabal se indica que la abundancia es cualitativa, pero se expresan cél/l 5.2.2. Fitoplancton y
+(cuantitativa). Revisar en el documento. Zooplancton
+62 Están algo raros los valores de densidades de organismos planctónicos 5.2.2. Fitoplancton y
+Zooplancton
+Se pueden ver los informes de laboratorio con los conteos por muestra?
+63 En las tablas se indica que la riqueza es especifica, pero esto no corresponde, solo 5.2.2. Fitoplancton y
+pudieron determinar una especie. Zooplancton
+64 5.2.2. Fitoplancton y
+Revisar formatos de párrafos Zooplancton
+65 En la abundancia de zooplancton, como se obtiene esta densidad? 5.2.2. Fitoplancton y
+Se pueden ver los informes de laboratorio con los conteos por muestra? Zooplancton
+66 En la Tabla 64 se reporta la presencia de Lepidoptera . Revisar si es un organismo adulto 5.2.2. Fitoplancton y
+que cayó en el agua?. Esto puede alterar la riqueza y la abundancia total. Zooplancton
+67 5.2.2. Fitoplancton y
+Revisar formato de párrafo que se pasa de los límites de las paginas Zooplancton
+68 5.2.2. Fitoplancton y
+Indicar los periodos del seguimiento. este seguimiento comenzó 2019? Zooplancton
+69 6.1.8. Actividad
+Eliminar punto antes del título "6.1.9. Peces" Fotosintética
+III. Consideraciones Finales/ Conclusión.
+En términos generales presenta mucha información, pero es importante ordenar la presentación de esta para sacar mejor
+provecho a los datos recopilados.
+ Falta una estructura unificada del informe (No esta homogenizados los mapas, gráficos, unidades,
+separadores de decimales, entre otras cosas).
+ Se sugiere seguir un solo formato en los títulos y subtítulos del documento.
+ Figuras muy difusas. Se recomienda rehacer para mejor entendimiento.
+ En las Tablas que se utilizan siglas, abreviaciones y/o símbolos se deben especificar su significado. Se recomienda
+uniformar las tablas y en lo posible integrar la información del periodo en única tabla para que la información sea
+comparable de manera directa.
+9
+
+--- Página 10 ---
+
+ Revisar tiempos verbales, se encontraron algunos párrafos en futuro como si se tratase de una propuesta.
+ Faltan algunas variables relevantes: Nivel del agua de la Laguna, Fitobentos, Zoobentos (estas dos últimas incluidas
+en los objetivos, pero al parecer no muestreadas)
+ En general las metodologías expuestas no tienen el detalle que permita entender los realizado. Se sugiere
+complementar
+ En particular, la metodología de comunidades acuáticas está incompleta, no se especifica la metodología
+de análisis taxonómico y recuento, no se indica si hay replicas en el muestreo. Una vez definido esto
+tendríamos que revisar los datos informados, que parecen tener algunas incongruencias.
+ La forma de presentar la información es disímil entre componentes ambientales. Por ejemplo, la calidad del
+agua de la laguna se repite para cada campaña una serie de párrafos sin integrar la información para el periodo
+de análisis.
+ Permisos/acreditaciones: No se encontró la acreditación para mediciones de caudal y el permiso de pesca de
+investigación para el muestreo de organismos hidrobiológicos.
+10
