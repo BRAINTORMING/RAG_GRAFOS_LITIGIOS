@@ -1,0 +1,231 @@
+--- Página 1 ---
+Resumen Ejecutivo
+Explorando conflictos entre comunidades indígenas y la industria minera en Chile: las
+transformaciones socioambientales de la región de Tarapacá y el caso de Lagunillas (Romero
+Toledo, Videla y Gutiérrez, 2017)
+Dosier Bofedal Pampa Lagunillas — Anexo técnico
+Mensaje clave
+Estudia directamente Pampa Lagunillas y a la Compañía Minera Cerro Colorado (CMCC) ,
+pero desde las ciencias sociales (geografía humana y ciencia política), a diferencia de
+Scheihing y Tröger (2018), que lo hacen desde la hidrogeología y el clima. Su aporte para el
+dosier es histórico, contextual y documental :
+• 🟢 Reconstruye la secuencia del conflicto: exploración de aguas subterráneas sin
+autorización de las comunidades (1981), derecho de 300 l/s otorgado por la DGA (1982),
+arriendo de aguas a Cancosa (1982), compra del predio Huantija, desecamiento de
+vertientes desde 2002, reducción del acuífero confirmada por la DGA (2005), sanción a
+BHP Billiton por la Corema (2006), acciones legales (2006) y acuerdo extrajudicial
+(2008).
+• 🟢 Documenta con seis imágenes satelitales (1973–2014) que el espejo de agua cayó
+desde fines de los años ochenta hasta un mínimo en 2004–2006 y se recuperó
+parcialmente después, sin que la lluvia lo explique ; los autores lo atribuyen a las
+medidas de mitigación.
+• 🔴 No mide niveles freáticos, no modela el acuífero y no estudia la vegetación ni la
+fauna.
+Marcas de lectura: 🟢 dato o conclusión expresa del artículo · 🟡 inferencia razonada de este
+resumen (no está en el artículo) · 🔴 vacío: el artículo no lo aborda.
+1. Nombre de la investigación
+Explorando conflictos entre comunidades indígenas y la industria minera en Chile: las
+transformaciones socioambientales de la región de Tarapacá y el caso de Lagunillas (título en
+inglés: Exploring conflicts between indigenous communities and the mining industry in Chile: the
+socioenvironmental transformations of the Tarapacá region and the case of Lagunillas ).
+Publicación: Estudios Atacameños. Arqueología y Antropología Surandinas , Nº 55, 2017, pp. 231–
+250 · DOI 10.4067/S0718-10432017005000019 · recibido en diciembre de 2015, aceptado en agosto
+de 2016.
+
+--- Página 2 ---
+2. Autores
+Hugo Romero Toledo (doctor en Geografía Humana), Angélica Videla (cientista política, Mg©
+en Estudios Interculturales) y Felipe Gutiérrez (geógrafo).
+3. Institución
+Autor Afiliación
+Romero Toledo Director del Observatorio Regional, Universidad Católica de Temuco;
+investigador del Centro de Estudios de Conflicto y Cohesión Social
+(COES)
+Videla Coordinadora del Observatorio Regional, Universidad Católica de
+Temuco
+Gutiérrez Asistente de investigación, Observatorio Regional, Universidad Católica
+de Temuco
+Financiamiento: Fondecyt de Iniciación 11140265; COES (Conicyt/Fondap 15130009); Núcleo
+Acciones Colectivas en Chile (1990–2015), Universidad Andrés Bello.
+4. Objetivos
+• 🟢 Estudiar las transformaciones y contradicciones socioterritoriales del norte de
+Chile, en particular de la Región de Tarapacá, ante la expansión minera y la
+reivindicación indígena desde los años noventa.
+• 🟢 Indagar la territorialización de la inversión minera, la declaración de áreas de
+protección y el reconocimiento estatal de territorios indígenas.
+• 🟢 Conocer la estructura de la población que se reconoce como indígena y lo que
+significó para sus dirigentes la transformación minera y la articulación identitaria.
+• 🟢 Ilustrar el conflicto con el caso del humedal de Lagunillas: acceso y control del agua,
+y daño ambiental sobre recursos hídricos en territorios de comunidades.
+5. Alcance
+Dimensión Cobertura
+Territorio Norte de Chile; foco en la Región de Tarapacá. Caso: humedal de Pampa
+Lagunillas, a 120 km de Iquique y 2.600 msnm, en el predio Huantija;
+comunidades aymara de Cancosa y Lirima
+Período Contexto histórico desde el salitre y la minería del cobre; caso Lagunillas
+desde 1981 (exploración de aguas) hasta 2014 (última imagen)
+Método Mixto: fuentes secundarias; datos georreferenciados (Conadi,
+Sernageomin, Biblioteca del Congreso); encuesta Casen sobre población
+indígena; 30 entrevistas (2014–2015) a dirigentes aymara y quechua y
+a informantes de servicios públicos, ONG y consultoras
+Imágenes Seis imágenes satelitales digitalizadas a mano: Landsat 1 (24-03-1973),
+Landsat 5 (02-08-1987), Google Earth (13-09-2004), Landsat 7 (16-04-
+2006 y 24-04-2009) y Terra Server (02-08-2014)
+Clima Precipitación de la estación Lagunillas (DGA, desde 1982)
+
+--- Página 3 ---
+Dimensión Cobertura
+Límites 🟢 Sin imágenes de los años noventa. 🟡 Seis fechas, de distintas
+estaciones y sensores, y contorno digitalizado manualmente: sirve como
+tendencia, no como serie continua
+6. Humedal y/o bofedal
+• 🟢 Humedal de Pampa Lagunillas (sistema lacustre y acuífero asociado), 2.600
+msnm, 120 km de Iquique, dentro del predio Huantija, parte de territorios ancestrales
+reivindicados por las comunidades de Cancosa y Lirima.
+• 🟢 Los aymara habrían desarrollado ahí, desde tiempos ancestrales, ganadería ligada
+al sistema de acuíferos ; la comunidad usa las aguas que afloran del acuífero de
+Lagunillas.
+• 🟢 El tamaño y la forma del cuerpo de agua varían según la época del año y el clima
+(cita censos de avifauna del SAG, 2013).
+• 🟢 La CMCC se ubica dentro del Área de Desarrollo Indígena Jiwasa Oraje (2001),
+que reúne comunidades aymara y quechua y áreas de protección como el Salar del
+Huasco.
+• 🔴 No usa el término técnico «bofedal», no delimita unidades de vegetación y no
+describe la hidrogeología del sistema.
+7. Explicitud de la participación en el impacto por parte de la compañía minera
+Es el punto donde este artículo más aporta : nombra a la empresa y fecha las acciones.
+Hito Qué dice el artículo
+1981 🟢 CMCC inicia exploración de aguas subterráneas sin autorización
+de las comunidades aymara
+1982 🟢 Contrato de arriendo con Cancosa sobre las aguas de Lagunillas; la
+DGA otorga a CMCC un derecho de 300 l/s , del que la empresa solo usó
+90 l/s; es uno de los primeros casos de inscripción de agua subterránea
+por una minera bajo el Código de Aguas de 1981
+Infraestructura 🟢 Servidumbre y acueducto de 76 km desde Huantija a la faena, que
+pasa por la comunidad de Parca; según dirigentes, redujo acuíferos y
+agricultura
+1993 o 1996 🟢 CMCC compra el fundo Huantija (el artículo cita dos fechas según la
+fuente) y obtiene el agua de pozos profundos de Lagunillas
+2000 🟢 BHP compra CMCC, hecho que marca un punto de inflexión para las
+comunidades
+Desde 2002 🟢 Cancosa registra el desecamiento de vertientes y afectación del
+espejo de agua
+2005 🟢 La DGA confirma la reducción del acuífero
+2006 🟢 La Corema de Tarapacá sanciona a BHP Billiton por el daño
+ambiental en Lagunillas; Cancosa presenta acciones legales por daño
+psicosocial, patrimonial, moral colectivo y daño futuro
+
+--- Página 4 ---
+Hito Qué dice el artículo
+2008 🟢 Acuerdo extrajudicial con plan de recuperación del humedal,
+seguimiento hasta 2030, fomento productivo hasta 2027 y plan de
+educación hasta 2030
+Atribución 🟢 Concluye que hay «degradación ambiental producto de la extracción
+de agua» y que «se reconoció el daño ambiental por parte de la DGA»
+Límites 🔴 No cuantifica caudales realmente extraídos ni demuestra el vínculo
+hidrogeológico; descansa en entrevistas, resoluciones y la comparación
+imagen–lluvia
+🟡 Para el litigio: es una fuente secundaria que ordena hechos y menciona la sanción
+administrativa y el reconocimiento de la DGA. La prueba técnica de causalidad corresponde a
+Scheihing y Tröger (2018) y a los expedientes; se recomienda citar las resoluciones originales
+(DGA, Corema) y no solo este artículo.
+8. Explicación científica del secado y la disminución de agua
+• 🟢 Mecanismo planteado: extracción de agua subterránea desde pozos profundos de
+Lagunillas para el proceso minero, amparada en derechos otorgados en 1982; la DGA
+confirmó la reducción del acuífero en 2005.
+• 🟢 Evidencia propia (sensores remotos): el cuerpo de agua decae de forma
+paulatina desde fines de los años ochenta hasta inicios de los 2000 , con mínimo
+entre 2004 y 2006, y sube levemente hacia 2009 y 2014.
+• 🟢 Descarte climático: los años 2009 y 2014 tienen menos precipitación que 2004 y
+2006 y, aun así, el espejo de agua es mayor; los autores concluyen que el aumento
+posterior a 2009 se debe a medidas de mitigación y no a la lluvia.
+• 🟡 Lectura de la Fig. 4 (valores aproximados leídos del gráfico): área de ~110 ha
+en 1987, ~10 ha en 2004, ~12 ha en 2006, ~22 ha en 2009 y ~43 ha en 2014;
+precipitación del orden de 6–14 mm en esas fechas. El artículo no entrega la tabla
+numérica; las cifras exactas deben verificarse con los autores o la DGA.
+• 🟢 Efecto sobre el entorno: la reducción de acuíferos y de la agricultura en Parca, según
+dirigentes (testimonio, no medición).
+• 🔴 No aporta niveles freáticos, balance hídrico, modelación del acuífero ni mecanismo
+evaporativo; no cubre los años noventa.
+9. Hipótesis validadas
+El artículo no formula hipótesis estadísticas; las proposiciones siguientes las ordenó este
+resumen a partir de su argumento.
+# Proposición Evidencia del artículo Estado
+P1 El espejo de agua de Imágenes satelitales (Fig. 3 y 🟢 Validada
+Lagunillas se redujo entre 4) (tendencia, 6 fechas)
+1987 y 2004–2006
+P2 La reducción no se explica 2009 y 2014 con menos lluvia y 🟡 Validada
+por menor lluvia más agua que 2004–2006 cualitativamente; sin
+
+--- Página 5 ---
+# Proposición Evidencia del artículo Estado
+prueba estadística
+P3 La extracción de agua Reducción del acuífero 🟡 Respaldada por
+subterránea por la minera confirmada por la DGA (2005); actos administrativos;
+causó el daño sanción de la Corema (2006); no demostrada
+acuerdo de 2008 hidrogeológicamente
+aquí
+P4 Las medidas de mitigación Coincidencia temporal y 🟡 Plausible, no
+explican la recuperación descarte de la lluvia probada
+parcial de 2009–2014
+P5 La recuperación del Visita de campo y entrevistas: 🟢 Testimonial
+humedal es incompleta «dista mucho» de la condición
+previa
+P6 El conflicto reorganizó a 30 entrevistas y fuentes 🟢 Validada (eje
+las comunidades aymara secundarias social)
+10. Cobertura vegetal, flora y fauna
+• 🔴 Flora: el artículo no describe vegetación, no menciona especies de bofedal ni mide
+cobertura.
+• 🔴 Fauna: solo una referencia indirecta a los censos de avifauna del SAG (2013) para
+señalar que el cuerpo de agua cambia de tamaño y forma según la época; sin datos de
+aves.
+• 🟢 Cobertura de agua: es lo único medido: el área del espejo de agua entre 1973 y 2014
+(Fig. 3) y entre 1987 y 2014 (Fig. 4).
+• 🟢 Uso humano: ganadería ancestral ligada al acuífero; cultivos de subsistencia;
+proyectos de turismo y quinua de Cancosa (Programa Orígenes).
+• 🟡 Para flora y fauna deben usarse las secciones propias del dosier (flora del bofedal y
+Distichia muscoides ) y los estudios botánicos.
+11. Proyección del futuro del bofedal según las hipótesis validadas
+El artículo no ofrece una proyección cuantitativa . Lo que dice:
+• 🟢 La recuperación está en marcha mediante un plan acordado en 2008 con
+seguimiento hasta 2030 .
+• 🟢 Un informante clave señaló que «la recuperación del humedal no estaba
+funcionando», que tomaría mucho tiempo y que el tema podría «caer eventualmente en
+el olvido».
+• 🟢 Los autores concluyen que «el tiempo dirá» si las compensaciones negociadas fueron
+adecuadas y que el daño ambiental y sociocultural ocurre «de manera irreversible» en
+los espacios locales.
+• 🟢 Riesgo social: las nuevas generaciones, criadas en ciudades, tienen poco interés en
+volver a Cancosa, lo que debilita el manejo local del humedal y los proyectos de
+desarrollo.
+
+--- Página 6 ---
+• 🟡 Con P1–P3 validadas, la recuperación depende de cuánta agua se siga extrayendo ;
+si el bombeo continúa, la mejora de 2009–2014 (de ~22 a ~43 ha según la Fig. 4) sería
+frágil y estaría por debajo de la superficie de 1987.
+• 🔴 No estima superficie futura, plazos de recuperación ni escenarios climáticos.
+12. Conclusiones
+1. 🟢 El extractivismo minero chileno es resultado de una reestructuración global de la
+industria y de un marco legal neoliberal (Código de Aguas, Ley Minera, Estatuto de
+Inversiones Extranjeras) que permitió la concentración de derechos de agua y
+concesiones y el auge minero de Tarapacá.
+2. 🟢 Lagunillas es un caso paradigmático: degradación ambiental por extracción de
+agua , comunidad trasladada a zonas urbanas, negociación, compensaciones y plan de
+recuperación; un paisaje «producido» por la minería.
+3. 🟢 La CMCC está dentro del ADI Jiwasa Oraje; esta contradicción territorial explica los
+conflictos socioambientales, y la presencia de la minera, mediante mitigación y
+compensación, fortaleció la reorganización indígena .
+4. 🟢 El esquema de compensación económica y el rol «subsidiador» de las mineras
+suplieron la ausencia del Estado, pero no han sido suficientemente efectivos para
+impulsar desarrollo local.
+5. 🟢 La consulta indígena (Decreto 66, 2013) no es vinculante .
+6. 🟢 Un conflicto socioambiental es multiescalar e histórico; el análisis debe incluir los
+lugares de extracción de agua, la zona de polvo y relaves y las ciudades donde vive la
+mayoría de la población aymara y quechua.
+7. 🟡 Uso en el dosier: documento clave de contexto, cronología y reconocimiento
+del daño (DGA 2005, Corema 2006, acuerdo 2008), y de la serie de imágenes que
+descarta la lluvia como causa; no sustituye la evidencia técnica de Scheihing y Tröger
+(2018) ni los expedientes.
+Referencia: Romero Toledo, H., Videla, A. y Gutiérrez, F. (2017). Explorando conflictos entre
+comunidades indígenas y la industria minera en Chile. Estudios Atacameños , 55, 231–250.
+Resumen elaborado con redacción propia y sin reproducir las figuras originales.
