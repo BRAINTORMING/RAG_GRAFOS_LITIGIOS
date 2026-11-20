@@ -1,0 +1,92 @@
+--- Página 1 ---
+Fecha: 21 August 2024
+Para: Luisa Cares (Manager Future Developments- CMCC - Pampa Norte- BHP)
+De: Carlos Espinoza, Rodrigo Pardo y Sergio Iriarte
+Tema: Revisión del informe de Actualización del Modelo Hidrogeológico de Lagunillas 2023
+1 Propósito
+CMCC requiere contar con una herramienta adecuada y validada respecto de la gestión sustentable de los recursos hídricos y
+del cumplimiento de compromisos ambientales adquiridos con la autoridad. La revisión de la actualización de esta herramienta que
+incorpora datos hasta diciembre de 2023.
+2 Antecedentes
+E n el año 2021, ARCADIS realizó una actualización del modelo numérico hidrogeológico de Lagunillas cuya primera versión data del
+año 2005 y que a lo largo del tiempo se ha ido actualizando en una serie de versiones en donde se han ido incorporando aspectos
+como topografía actualizada, actualización de los registros de niveles y bombeo, cambios en el código MODFLOW de resolución de las
+ecuaciones de flujo subterráneo, entre otros (Modelo Hidrogeológico Lagunillas, 2021).
+Esta actualización del año 2021 fue aquella utilizada por CMCC dentro del marco del proceso de evaluación ambiental que culminó
+con la RCA N°13/2022. Los resultados de dicho modelo hidrogeológico se utilizaron para abordar y responder las consultas levantadas
+por la autoridad en la ADENDA 4 y sectorialmente ante la Dirección General de Aguas. Dicho modelo numérico de flujo de aguas
+subterráneas implementado por ARCADIS, consideró un período de modelación que va desde diciembre de 1993 hasta agosto de 2021
+operado en un régimen mixto permanente (diciembre 1993) y transiente (enero 1994 a agosto 2021).
+Luego, HIDROMÁS toma como base este modelo desarrollado por ARCADIS, extendiendo su período de calibración con
+información proporcionada por CMCC, relacionada principalmente con los datos de extracciones mensuales desde pozos
+de bombeo de propiedad del Titular, y de los niveles subterráneos medidos en diversos pozos de monitoreo emplazados
+dentro del área de estudio. El período de tiempo extendido por HIDROMÁS, considera la ventana temporal que va desde
+septiembre de 2021 hasta diciembre de 2022 (Modelo Hidrogeológico Lagunillas, 2022).
+3 Revisión de la actualización 2023 (Modelo Hidrogeológico Lagunillas, 2023)
+3.1 Generalidades
+La actualización reportada extiende el período de calibración desde diciembre de 2022 a diciembre de 2023, incorporando
+los caudales reales de extracción para el año 2023, así como los caudales descargados en el Sistema de Recarga Artificial
+para este mismo período. Además, se consideran los niveles medidos en los pozos y punteras de control, disponibles hasta
+fecha 31 de diciembre de 2023. Esta actualización considera los siguientes documentos como base para su análisis:
+• HIDROMÁS, 2023. Informe Técnico Actualización Modelo Hidrogeológico Lagunillas a diciembre 2022. Informe
+REV.0, 28 de junio de 2023, desarrollado por HIDROMÁS para Cerro Colorado.
+• ARCADIS, 2021. ACTUALIZACIÓN MODELO HIDROGEOLÓGICO DE LA CUENCA DE LAGUNILLAS, noviembre de
+2021, desarrollado por ARCADIS CHILE para BHP en el marco del EIA de Proyecto Continuidad Operacional
+Cerro Colorado, específicamente como Anexo 2 de la Adenda 4.
+1
+
+--- Página 2 ---
+3.2 Revisión Síntesis Modelo Numérico Previo año 2022
+En el modelo hidrogeológico que se actualiza llama la atención que la Unidad B que se ubica inmediatamente al norte y
+aguas arriba de la zona del bofedal esta incorporada en el modelo como una zona de permeabilidad extremadamente baja
+(<10 -3 m/d) y sin recarga por precipitaciones. Esto tiene una gran implicancia ya que este es el aporte más directo a las
+vertientes naturales. De esta manera, en este modelo se estaría subestimando la recarga desde el sector norte del bofedal.
+Adicionalmente, de acuerdo a los antecedentes que actualmente se disponen en este modelo hidrogeológico la recarga al
+bofedal viene dada por un porcentaje del aporte desde el Sistema de Riego Artificial o SRA (10% del total del SRA, asociada
+a la Zona de Recarga No. 8), siendo que la ocurrencia de una potente secuencia de arcillas en el sector de las vertientes
+hace difícil la infiltración de este monto de agua, el que se manifiesta principalmente en forma de un escurrimiento
+superficial.
+Respecto de la condición Inicial del modelo, se establece que esta corresponde al promedio de los niveles subterráneos
+históricos desde 1982 a 1993, sin embargo, no se muestran los pozos que dan cuenta de dicho nivel y cuales es la
+piezometría a ese periodo. Esto es importante para establecer adecuadamente las condiciones iniciales.
+En términos generales, el modelo tiende a reproducir adecuadamente las tendencias de los niveles de agua subterránea
+medidos, así como los niveles mismos.
+2
+
+--- Página 3 ---
+3.3 Revisión Actualización Modelo Hidrogeológico Numérico de Flujo Año 2023
+La actualización considera cuatro aspectos principales:
+• Extensión temporal del período de simulación desde enero de 2023 hasta diciembre de 2023, recordando que
+la versión previa del modelo de HIDROMÁS consideraba una ventana temporal que iba desde diciembre de
+1993 hasta diciembre de 2022.
+• Ingreso de las últimas series de bombeo reales de CMCC desde enero a diciembre de 2023.
+• Ingreso de las últimas series de niveles observados desde enero a diciembre de 2023, en los mismos 33 puntos
+de observación que definió HIDROMÁS en la versión previa del modelo numérico, la cual incluía pozos de
+monitoreo, pozos de bombeo y piezómetros. Se hace mención que la versión previa del modelo de HIDROMÁS
+consideraba niveles piezométricos observados solo hasta diciembre de 2022.
+• Ingreso de las últimas series de recarga del SRA hacia el sistema acuífero desde enero a diciembre de 2023.
+Esta actualización no modificó nada respecto de la discretización espacial (geometría, grilla en planta y estratos o
+layers en vertical), código de modelación ni propiedades hidrogeológicas (permeabilidad y almacenamiento).
+La actualización incrementa el periodo de simulación hasta diciembre de 2023, se incorporan 12 nuevos periodos de
+stress (enero a diciembre de 2023), las condiciones de borde asociadas a las extracciones de bombeo con datos
+medidos y recarga por precipitación y riego SRA fueron modificadas solo respecto a la extensión del periodo (hasta
+diciembre de 2023) y se incorporaron los datos correspondientes a las mediciones de los mismo 33 puntos de
+monitoreo de niveles.
+Los resultados de la actualización mostraron estadígrafos muy similares a los obtenidos en las actualizaciones pasadas,
+alcanzando un NMAE de 4,5%, el grafico de dispersión es similar a lo identificado en las versiones anteriores, mientras
+que los gráficos de ajuste de niveles a los puntos de observación se mantienen similares. El modelo responde a la
+reducción del bombeo experimentados desde 2020 y al cambio al bombeo al pozo PR. Respecto del Balance se
+verifican los principales cambios en la reducción del bombeo (de 73 l/s a 36 l/s).
+4 Conclusiones
+Con base en los aspectos anteriormente expuestos, es posible indicar que el informe de actualización del Modelo
+Hidrogeológico Lagunillas (2023) presenta adecuadamente lo que considera la herramienta numérica a ser actualizado,
+entregando una síntesis de sus principales componentes y supuestos.
+Llama la atención que en el Modelo Hidrogeológico Lagunillas de 2021 no se incorpore el acuífero aluvial, inmediatamente
+al norte de los bofedales, considerándolo un área con muy baja permeabilidad y si con una recarga proveniente de aportes
+del SRA. Este sector, tan importante debido a la proximidad y relación directa con la ocurrencia de la descarga por las
+vertientes naturales, debiera contar con una mejor conceptualización y de más detalle. LO anterior debiera considerarse
+en una futura actualización del Modelo Hidrogeológico Lagunillas.
+No obstante lo anterior, la actualización presentada cumple adecuadamente con la incorporación de la nueva información
+recopilada durante 2023, la que es considerada en la herramienta que fue revisada. Los resultados de la actualización
+mantienen un nivel adecuado de calibración y ajuste de tendencias en los niveles.
+3
