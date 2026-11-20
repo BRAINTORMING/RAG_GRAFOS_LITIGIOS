@@ -1,0 +1,213 @@
+--- Página 1 ---
+Resumen Ejecutivo
+Bofedales como espacios relacionales: prácticas de riego y crianza en un paisaje pastoril
+prehispánico de los Andes centro-sur (García Barriga et al., 2025)
+Dosier Bofedal Pampa Lagunillas — Anexo técnico
+Mensaje clave
+Este artículo no estudia a Lagunillas ni el impacto de la minería . Es un estudio etnográfico
+y arqueológico sobre cómo las comunidades aymara de la Región de Arica y Parinacota (Surire,
+Mulluri y Parcohaylla) construyen y mantienen sus bofedales mediante riego, y sobre cómo
+esos humedales se degradan cuando ese trabajo se abandona. Su aporte para el dosier es
+conceptual y cultural: muestra que el bofedal depende de un suministro de agua gestionado de
+forma continua y que, sin ese suministro, la turba se seca y puede morir.
+Marcas de lectura: 🟢 dato o conclusión expresa del artículo · 🟡 inferencia razonada de este
+resumen (no está en el artículo) · 🔴 vacío: el artículo no lo aborda.
+1. Nombre de la investigación
+Bofedales as relational spaces: Irrigation and nurturing practices in a pre-Hispanic pastoral
+landscape, South Central Andes («Bofedales como espacios relacionales: prácticas de riego y de
+crianza en un paisaje pastoril prehispánico, Andes centro-sur»).
+Publicación: Journal of Social Archaeology 2026, vol. 26(1), pp. 28–50 · DOI
+10.1177/14696053251395646 · © Los autores 2025.
+2. Autores
+Magdalena García Barriga, Adrián Oyaneder (autor de correspondencia), Luca Sitzia y Manuel
+Prieto.
+3. Institución
+Autor Afiliación
+García Barriga Museo Chileno de Arte Precolombino (Santiago); Núcleo Milenio de
+Ecología Histórica Aplicada para Bosques Áridos (Chile)
+Oyaneder Departamento de Arqueología e Historia, University of Exeter (Reino
+Unido)
+Sitzia Departamento de Antropología, Universidad de Tarapacá (Arica)
+Prieto Departamento de Ciencias Históricas y Geográficas, Universidad de
+Tarapacá; Núcleo Milenio en Turberas Andinas (AndesPeat), Arica
+
+--- Página 2 ---
+Financiamiento: proyectos ANID (Fondecyt 11200212, Fondecyt Postdoctorado 3210151,
+Fondecyt Regular 1201527, Milenio NCS2022_009 y NCS2022_024). Declaran no tener conflictos
+de interés.
+4. Objetivos
+• 🟢 Revisar la visión del altiplano como un ambiente «extremo» donde el pastoreo solo
+explota pastos y turberas que se sostienen solos.
+• 🟢 Mostrar que el pastoreo en bofedales implica intervenciones activas y
+significativas sobre agua y vegetación , hechas con trabajo colectivo, que mantienen
+y además amplían los recursos de turba para el ganado.
+• 🟢 Caracterizar las instalaciones hidráulicas activas y abandonadas y su papel en la
+formación del paisaje pastoril.
+• 🟢 Proponer los bofedales como paisajes culturales y «espacios relacionales» (humanos,
+animales, montañas, agua, vegetación, Pachamama), introduciendo los conceptos de
+crianza del agua , uywaña e irpa .
+5. Alcance
+Dimensión Cobertura
+Territorio Puna seca, Región de Arica y Parinacota (~19° S, 69° O, sobre 4.000
+msnm): bofedales de Mulluri, Surire y Parcohaylla
+Período Trabajo de campo 2020–2023; contexto histórico desde la época
+prehispánica, con censos de 1883, 1892 y 1943
+Etnografía Entrevistas, observación participante y verificación en terreno con ~25
+personas de las tres comunidades (algunas residentes en Arica y valles
+cercanos)
+Arqueología y Prospección con GNSS manual de canales, tomas y compuertas; vuelos
+geoespacial con dron (ortomosaicos de ~5 cm/píxel, modelos de elevación de 8–11
+cm/píxel); modelación hidrológica de cauces naturales y red hidráulica
+Programa estatal Observación del programa CONAF–CONADI de restauración de
+bofedales (desde 2019), con pastores contratados para regar y mantener
+Límites: 🟢 los autores advierten que las cifras históricas deben usarse con cautela; 🔴 el
+estudio no incluye series de caudal, nivel freático ni cobertura vegetal medida en el tiempo, y no
+cubre la Región de Tarapacá ni la cuenca de Lagunillas.
+6. Humedal y/o bofedal
+• 🟢 Los bofedales (turberas altoandinas, también llamados champeales, juqhu, vegas o
+ciénagos) están entre 3.100 y 5.600 msnm en el sur de Perú, suroeste de Bolivia, norte de
+Chile y noroeste de Argentina, y cubren unas 150.000 ha en los Andes.
+• 🟢 Tipología local según el grado de intervención humana: no manejados (en laderas,
+dependen solo de vertientes), manejados (en planicies, con riego y obras hidráulicas) y
+creados (zonas con pasto escaso que se transforman tras años de riego sistemático).
+• 🟢 Casos estudiados:
+
+--- Página 3 ---
+Bofedal Estado según el artículo
+Mulluri (dos Sin habitantes ni ganado; trabajo colectivo cesó hace ~40 años;
+bofedales vegetación verde limitada a las vertientes; riego parcial en 2010 y 2012 y
+principales, ~1,26 reparaciones en 2021 (CONAF–CONADI)
+km²)
+Surire (bofedal Trabajo colectivo cesó en los años 80; hoy se maneja solo una parte;
+principal con toma de Calaconta (sin uso por más de 30 años) restaurada en
+cinco tomas y noviembre de 2022
+canal de 2,1 km)
+Parcohaylla (~2 Sigue regado y manejado, a nivel familiar, en buen estado; tres tomas y
+km²) tres familias residentes
+• 🟢 Infraestructura: tomas (represas transversales hechas con champa viva, yareta seca
+o piedra), canales ( irpa o cequia ) y compuertas ( pongos ).
+7. Participación de la compañía minera en el impacto
+• 🔴 El artículo no identifica a ninguna compañía minera ni atribuye impactos
+concretos a una operación. No cita BHP, Cerro Colorado ni otras empresas, y no
+analiza extracción de agua industrial.
+• 🟢 Única referencia: en las conclusiones los autores señalan que los saberes y prácticas
+tradicionales suelen ser pasados por alto en las políticas públicas, «en particular
+frente a las industrias extractivas cuyas actividades amenazan estos
+ecosistemas» (citando a Prieto, 2015), y que las medidas de conservación suelen ser
+excluyentes con los pastores.
+• 🟡 Para el dosier: este artículo sirve como respaldo cultural y de política pública, no
+como evidencia de causalidad minera . Esa evidencia está en el estudio de Scheihing
+y Tröger (2018) y en las secciones de litigios y satelital.
+8. Explicación científica del secado y de la disminución de agua
+Las explicaciones que ofrece el artículo son socio-hidrológicas y observacionales , no
+hidrogeológicas:
+1. 🟢 Abandono del riego. Los bofedales manejados y creados requieren riego anual:
+desde agosto hasta el inicio del monzón, con corte en abril para evitar heladas sobre la
+turba. Si los pastores no sostienen el riego, el bofedal creado se seca. En Mulluri, un
+bofedal antes regado (Sora Sora) hoy está completamente seco según un entrevistado.
+2. 🟢 Migración y pérdida de ganado. En la segunda mitad del siglo XX la mayoría de
+los pastores migró a valles costeros y ciudades; el ganado de Mulluri murió por
+sarampión, parásitos y depredación de puma y zorro. La falta de riego y manejo entre los
+años 80 y los 2000 dejó áreas muy deterioradas o perdidas.
+3. 🟢 Sequía y clima. Los autores mencionan negligencia y sequía como factores de la
+degradación. Los pastores perciben heladas más tempranas (desde abril hasta
+noviembre) y calendarios menos predecibles; las lluvias torrenciales más frecuentes han
+erosionado cauces y formado quebradas más profundas, obligando a reubicar tomas.
+
+--- Página 4 ---
+4. 🟢 Mecanismo en la turba: cuando se interrumpe el flujo de agua, el ciclo del bofedal
+se transforma y puede desmantelarse, incluso con muerte de la turba.
+5. 🔴 No se miden caudales, niveles freáticos, evaporación ni extracción minera; no hay
+balance hídrico.
+9. Hipótesis validadas
+El artículo plantea un argumento central más que hipótesis cuantitativas; se ordena así:
+# Proposición Evidencia Estado
+H1 Los bofedales no son Mapeo GNSS y con dron de canales, 🟢 Respaldada
+solo «naturales»: tomas y compuertas; relatos orales; (cualitativa)
+hay bofedales contraste entre los tipos
+manejados y creados
+por trabajo humano
+H2 El pastoreo amplía el Proceso descrito de creación: 2 años 🟢 Respaldada con
+recurso de turba hasta brotar, 3–4 años hasta poder casos; sin medición
+pastar; Parcohaylla manejado y en buen de superficie en el
+estado tiempo
+H3 Abandonar el Mulluri y Surire (abandono y deterioro) 🟢 Respaldada de
+manejo degrada o frente a Parcohaylla (riego continuo) forma observacional
+seca el bofedal
+H4 La infraestructura Red de canales mapeada que incorpora 🟢 Respaldada
+hidráulica tiene baja escorrentías y cauces naturales (metodológica)
+visibilidad y es
+multitemporal, pero
+se puede
+documentar
+combinando
+etnografía,
+prospección y
+teledetección
+H5 El bofedal es un Relatos, ritos de agosto, terminología 🟡 Marco
+espacio relacional aymara interpretativo; no es
+(cosmopraxis, contrastable
+uywaña , irpa ) estadísticamente
+H6 El cambio climático Percepción de los pastores y 🟡 Reportado, sin
+y las lluvias observaciones de erosión en terreno cuantificar
+extremas alteran el
+manejo y los cauces
+10. Cobertura vegetal, flora y fauna
+El artículo no incluye inventario florístico ni faunístico ; menciona especies como contexto:
+
+--- Página 5 ---
+• 🟢 Flora: comunidades de las familias Juncaceae, Cyperaceae y Asteraceae. Destacan los
+cojines de Oxychloe andina («paco») y Distichia muscoides («kachu paco» o kulli puku ).
+Aparecen también las tolas (pastos y arbustos de zonas sin riego previo) y la yareta
+( Azorella compacta ), usada para construir tomas y compuertas.
+• 🟢 Fauna: llamas ( Lama glama ), alpacas ( Vicugna pacos ), bovinos y ovinos
+introducidos en la colonia; depredadores como puma ( Puma concolor ) y zorro culpeo
+( Lycalopex culpaeus ). Un testimonio recuerda que los flamencos llegaban a una laguna
+artificial de ~0,36 ha alimentada por un canal en Surire.
+• 🟢 Rol del ganado: el pisoteo, el pastoreo y el estiércol favorecen la dispersión de
+semillas y funcionan como fertilizante de bajo impacto; el descanso por trashumancia
+permite la regeneración vegetal.
+• 🟢 El artículo reporta que la degradación de los bofedales de Mulluri afectó su
+biodiversidad (citando a Yager et al., 2021).
+• 🔴 No hay datos de cobertura, riqueza ni abundancia. 🟡 Para flora y fauna de
+Lagunillas corresponde usar las secciones específicas del dosier.
+11. Proyección del futuro del bofedal según las hipótesis validadas
+El artículo no proyecta escenarios . Lo que sigue es una inferencia 🟡 a partir de H1–H3 y de
+lo observado en los tres sitios:
+• Continuidad del manejo: donde el riego y el trabajo colectivo se mantienen
+(Parcohaylla) o se retoman (restauraciones de Surire y Mulluri con apoyo CONAF–
+CONADI), el bofedal conserva o recupera su vitalidad. Los autores advierten que su
+vitalidad persiste solo mientras esos procesos socio-hidrológicos sigan conectados con
+prácticas culturales vivas.
+• Sin manejo ni agua: la tendencia observada es el secado progresivo y la pérdida de
+turba, como en gran parte de Mulluri.
+• Agravantes mencionados: sequía, heladas más largas, lluvias torrenciales que
+erosionan cauces y la presión de industrias extractivas.
+• 🟡 Alcance de la inferencia: estas proyecciones aplican a bofedales donde el agua
+depende de tomas y canales. Un bofedal cuyo suministro es el acuífero y cuyo nivel cae
+por extracción (como en Lagunillas) no se recupera con riego pastoril; ese caso requiere
+la evidencia hidrogeológica de otras secciones.
+• 🔴 No hay umbrales cuantitativos ni tiempos de recuperación.
+12. Conclusiones
+1. 🟢 Los bofedales estudiados son paisajes culturales creados y mantenidos durante siglos
+por trabajo colectivo y cíclico, no formaciones puramente naturales.
+2. 🟢 La red de canales incorpora la escorrentía y los cauces naturales, de modo que no
+hay una separación estricta entre naturaleza y cultura.
+3. 🟢 Cuando se interrumpe el riego y el manejo, el bofedal se transforma, se seca y puede
+morir; el abandono por migración en el siglo XX degradó gran parte de los de Mulluri y
+Surire.
+
+--- Página 6 ---
+4. 🟢 Los conocimientos ancestrales sobre agua son una herramienta valiosa frente a la
+crisis hídrica y el cambio climático, pero suelen ignorarse en las políticas públicas y
+frente a las industrias extractivas.
+5. 🟢 Se requiere un giro político que reconozca e integre los saberes y prácticas de los
+pastores en las estrategias de conservación y desarrollo, en vez de enfoques excluyentes.
+6. 🟡 Para el dosier: sirve como respaldo del valor cultural y de uso tradicional del bofedal
+y de su dependencia del agua; no aporta evidencia de causalidad minera ni datos
+de Lagunillas , por lo que debe leerse junto con Scheihing y Tröger (2018) y las
+secciones técnicas y legales.
+Fuente: García Barriga M, Oyaneder A, Sitzia L, Prieto M (2026) Bofedales as relational spaces:
+Irrigation and nurturing practices in a pre-Hispanic pastoral landscape, South Central Andes.
+Journal of Social Archaeology 26(1):28–50, doi:10.1177/14696053251395646. Resumen elaborado
+con redacción propia; no reproduce las figuras del artículo.
