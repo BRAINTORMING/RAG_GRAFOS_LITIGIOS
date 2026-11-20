@@ -1,0 +1,484 @@
+--- Página 1 ---
+Antes de completar este formulario usted debe considerar lo siguiente:
+• Es indispensable completar cada uno de los ítems que se solicitan, de manera ordenada,
+clara y precisa, u9lizando letra imprenta.
+• Tener presente los ar<culos 21 1 y 47 2 de la Ley Orgánica de la Superintendencia del Medio
+Ambiente, referidos a la presentación de denuncias y sus requisitos.
+• Las comunicaciones formales que realiza la Superintendencia del Medio Ambiente con el
+denunciante se efectúan a través de Carta Cer6ficada , por lo que es esencial indicar
+correctamente su domicilio. En caso de que éste se encuentre en zona rural, debe indicar
+una casilla de correos o un domicilio ubicado en zona urbana para que la no9ficación se lleve
+a cabo correctamente.
+• Para conocer el estado de tramitación de su denuncia, debe ingresar a oac.sma.gob.cl, o
+llamar al teléfono +56 2 2617 1860.
+• En caso de que la persona desee ser no6ficada por correo electrónico, debe expresarlo,
+seleccionando la casilla.
+1 Artículo 21 LO-SMA, “Cualquier persona podrá denunciar ante la Superintendencia el incumplimiento de instrumentos de gestión
+ambiental y normas ambientales, debiendo ésta informar sobre los resultados de su denuncia en un plazo no superior a 60 días hábiles.
+En el evento que producto de tales denuncias se iniciare un procedimiento administrativo sancionador, el denunciante tendrá para todos
+los efectos legales la calidad de interesado en el precitado procedimiento”
+2 Artículo 47 LO-SMA, “ El procedimiento administrativo sancionatorio podrá iniciarse de oficio, a petición del órgano sectorial o por
+denuncia.
+Se iniciará de oficio cuando la Superintendencia tome conocimiento, por cualquier medio, de hechos que pudieren ser constitutivos de
+alguna infracción de su competencia. Se iniciará a petición del órgano sectorial, por su parte, cuando tome conocimiento de los informes
+expedidos por los organismos y servicios con competencia en materia de fiscalización ambiental, los que deberán ser evacuados de
+conformidad a lo establecido en esta ley y contener en especial la descripción de las inspecciones, mediciones y análisis efectuados así
+como sugerir las medidas provisionales que sean pertinentes decretar.
+Las denuncias de infracciones administrativas deberán ser formuladas por escrito a la Superintendencia señalando lugar y fecha de
+presentación, y la individualización completa del denunciante, quien deberá suscribirla personalmente o por su mandatario o
+representante habilitado. Asimismo, deberán contener una descripción de los hechos concretos que se estiman constitutivos de infracción,
+precisando lugar y fecha de su comisión y, de ser posible, identificando al presunto infractor.
+La denuncia formulada conforme al inciso anterior originará un procedimiento sancionatorio si a juicio de la Superintendencia está
+revestida de seriedad y tiene mérito suficiente. En caso contrario, se podrá disponer la realización de acciones de fiscalización sobre el
+presunto infractor y sin ni siquiera existiere mérito para ello, se dispondrá el archivo de la misma por resolución fundada, notificando de
+ello al interesado.”
+
+--- Página 2 ---
+1. DATOS DE LA PERSONA DENUNCIANTE Y PERSONA
+REPRESENTANTE
+Denunciante
+Persona natural o particular que realiza la denuncia
+Individualización de quien denuncia
+Los campos con asterisco (*) son Obligatorios
+Nombres *
+Nombre de quien denuncia Carlos Yamal
+Apellidos *
+Apellidos de quien denuncia Farhan Villalobos (por sí y en representación de CFV
+Sociedad Agrícola, Ganadera y de Hierbas Medicinales SpA)
+Cédula de Identidad/Rol Único
+Tributario * 11.422.243-7 (Carlos Farhan Villalobos) / 78.125.051-1
+Sin puntos y con guion
+(CFV SpA)
+Sexo * Hombre x
+Marque con una X Mujer
+Prefiere no informar
+Género * Masculino x
+Marque con una X Femenino
+Transmasculino
+Transfemenino
+No Binario
+Otro
+No sabe
+Prefiere no responder
+
+--- Página 3 ---
+Identifique sus datos para notificar la información
+Debe proporcionar un correo electrónico y número telefónico, así nos podremos comunicar con usted.
+¿Desea recibir respuesta vía Sí, deseo recibir respuesta vía correo electrónico. Correo
+correo electrónico? electrónico de quien denuncia *
+cfarhanvillalobos@gmail.com
+No
+Indique la dirección de quien denuncia
+Región * Región de Tarapacá
+Comuna *
+Pica
+Dirección *
+Calle Esmeralda N° 318
+Complementar dirección con N° de
+depto., block, oficina o similar
+Coordenadas La9tud Longitud
+En caso de conocer La9tud y Longitud
+ingrésela directamente.
+Teléfono móvil de quien denuncia
++569 9 9884 1235
+Teléfono fijo de quien denuncia +56
+No es necesario anteponer un 9 a su número de contacto, solo se aceptan 8 dígitos.
+Debe ingresar al menos un teléfono móvil o fijo. Tenga en consideración que la SMA podría contactarse con Usted
+a través de vía telefónica.
+
+--- Página 4 ---
+Representante
+Representante legal de uno o más denunciantes
+En caso que Ud. sea representante legal favor completar la siguiente tabla. En caso contrario, saltar al punto
+2 “Posibles infractores”.
+Individualización persona representante o apoderada de quien denuncia
+Los campos con asterisco (*) son Obligatorios
+Nombres *
+Nombres de la persona
+representante o apoderada
+Apellidos *
+Cédula de Identidad/Rol Único
+Tributario *
+Sin puntos y con guion
+Correo electrónico de la persona Sí, deseo recibir respuesta vía correo electrónico. Correo
+representante o apoderada * electrónico de persona representante o apoderada *
+No
+
+--- Página 5 ---
+Indique la dirección de la persona representante o apoderada
+Región *
+Comuna *
+Dirección *
+Complementar dirección con N° de depto,
+block, oficina o similar
+Coordenadas Latitud Longitud
+En caso de conocer La9tud y Longitud Ej: -18.48539 Ej: -70.29248
+ingrésela directamente.
+Teléfono móvil de quien denuncia +569
+Teléfono fijo de quien denuncia +56
+No es necesario anteponer un 9 a su número de contacto, solo se aceptan 8 dígitos.
+Debe ingresar al menos un teléfono móvil o fijo. Tenga en consideración que la SMA podría contactarse con Usted a
+través de vía telefónica
+Identifique el o los documentos que acompañan a la denuncia para
+acreditar la representación
+
+--- Página 6 ---
+2. POSIBLES INFRACTORES
+Identifique a quien cometería la posible infracción
+Nombre de la persona o
+entidad posiblemente COMPAÑÍA MINERA CERRO COLORADO LIMITADA (CMCC / BHP),
+infractora faena minera regulada bajo la Unidad Fiscalizable "Faena Minera
+Nombre de la institución o
+Cerro Colorado”
+razón social.
+Cédula de Identidad/Rol
+Único Tributario 94.621.000-5
+Sin puntos y con guion.
+Tipo de actividad que Agroindustrias y/o forestal (agrícolas, ganaderías, viñas,
+desarrolla la persona o etc.)
+entidad posiblemente Construcción/Inmobiliario
+infractora
+Marque con una X Energía (Termoeléctricas, Generadores, Distribuidoras,
+etc.)
+Industrial (Fábricas)
+Minería x
+Minería no metálica (Áridos)
+Terminal de transporte (estación de trenes, terminal de
+buses, puerto, aeropuerto)
+Pesca y Acuicultura
+Comercio de leña
+Saneamiento Ambiental (rellenos sanitarios, Plantas de
+tratamiento de aguas, Desalinizadoras, etc.)
+Servicios e instalaciones des9nados a turismo en áreas
+protegidas
+En9dades Técnicas
+Transportes y Almacenajes
+Instrumentos de planificación territorial
+Unidades o equipos/ maquinarias móviles
+Otro
+
+--- Página 7 ---
+Identifique el lugar de los hechos denunciados
+Los campos con asterisco (*) son Obligatorios
+A continuación, deberá ingresar el lugar de los hechos denunciados.
+Región *
+Región de Tarapacá
+Comuna *
+Pica
+Dirección *
+Ingrese el nombre de la calle y el numero
+asociado Sector Hidrogeológico de Aprovechamiento
+Común "Laguna Lagunillas", Cuenca del Salar
+del Huasco, al interior del Predio Huan9ja /
+Estancia Cancosa. Instalación específica:
+Captación Pozo P-3 (Obra DGA OB-0104-66),
+asociada al Sistema de Recarga Ar9ficial (SRA)
+del Bofedal Lagunillas.
+Coordenadas Longitud -68.82285
+La9tud -19.92051
+En caso de conocer La9tud y Longitud
+ingrésela directamente.
+
+--- Página 8 ---
+3. HECHOS DENUNCIADOS
+Descripción y antecedentes de los hechos denunciados
+Los campos con asterisco (*) son Obligatorios
+¿Cuándo estima usted que comenzaron los hechos 01 de enero de 2024 (manteniéndose la
+denunciados? * infracción de manera con9nuada e
+*Indique fecha ininterrumpida hasta la fecha).
+Describa los hechos denunciados
+* Explicar en detalle y con claridad cada uno de los hechos que denuncia, e indicar, según la información que usted
+posee, cuáles son las actividades que originarían dichos hechos.
+1. Extracción con6nuada y no amparada ambientalmente desde el Pozo P-3 (Obra OB-0104-66):
+Compañía Minera Cerro Colorado Ltda. (CMCC) mantuvo la extracción de aguas subterráneas
+desde el denominado Pozo P-3, emplazado en el acuífero Pampa Lagunillas, con posterioridad al
+término de la fase operacional de la faena minera ocurrido el 31 de diciembre de 2023,
+des9nando dichas aguas al funcionamiento del Sistema de Recarga Ar9ficial del Bofedal
+Lagunillas. Entre el 1 de enero de 2024 y el 29 de agosto de 2025 se extrajeron desde dicho pozo
+976.874 metros cúbicos de agua subterránea, volumen equivalente aproximadamente al 80% de
+la recarga natural anual completa del sector hidrogeológico. Esta extracción se ejecutó pese a
+que la configuración ambiental aprobada exigía el traslado de la fuente de abastecimiento del
+Sistema de Recarga Ar9ficial fuera del sector Lagunillas y hacia el Pozo P-R, ubicado en Pampa
+Pénjamo.
+La con9nuidad de la extracción desde P-3 no cons9tuye una mera desviación opera9va
+secundaria, en efecto, se trata de una alteración directa del elemento estructural de la medida
+de mi9gación, pues el agua des9nada a rehidratar superficialmente el bofedal con9nuó siendo
+extraída precisamente del acuífero cuya recuperación ambiental se pretendía obtener. De esta
+manera, el Sistema de Recarga Ar9ficial pasó a operar bajo una lógica hidrogeológica circular: se
+extrae agua desde el sistema deprimido para posteriormente descargarla sobre la superficie del
+mismo ecosistema, frustrando el obje9vo de recuperación del almacenamiento subterráneo y
+manteniendo ar9ficialmente la presión sobre el recurso hídrico. La propia Demanda_v4 iden9fica
+esta circunstancia como la inversión material del sen9do de la medida HI-1.
+2. Incumplimiento material y con6nuado de la Medida de Mi6gación HI-1 de la RCA N.º
+13/2022:
+La Resolución de Calificación Ambiental N.º 13/2022, dictada respecto del proyecto “Con9nuidad
+Operacional Cerro Colorado”, estableció dentro de su régimen de mi9gación la medida HI-1,
+consistente en el cambio del punto de extracción del agua u9lizada para el Sistema de Recarga
+Ar9ficial del Bofedal Lagunillas, desde el Pozo P-3 hacia un nuevo Pozo P-R. La propia
+Superintendencia del Medio Ambiente ha descrito dicha obligación como el “cambio de punto de
+
+--- Página 9 ---
+extracción del agua u9lizada para el sistema de recarga ar9ficial (SRA) del Bofedal Lagunillas, a
+par9r del año 2022 desde el Pozo P-3 a un nuevo Pozo P-R”. Asimismo, el instrumento ambiental
+dispuso la relocalización de dicha captación hacia el sector de Pampa Pénjamo, con posterioridad
+al cierre operacional del proyecto.
+La finalidad ambiental de dicha medida resulta inequívoca: impedir que las aguas des9nadas a la
+rehidratación superficial del bofedal con9núen siendo obtenidas desde el mismo acuífero cuya
+recuperación piezométrica se persigue. No se trata, por tanto, de una obligación meramente
+formal de localización de infraestructura, sino de una medida estructural des9nada a romper la
+circularidad hidráulica del sistema, alejar la captación del sector directamente afectado por la
+extracción histórica y permi9r la recuperación efec9va del acuífero Pampa Lagunillas.
+Pese a lo anteriot, CMCC mantuvo opera9vo el Pozo P-3 para abastecer el Sistema de Recarga
+Ar9ficial después del término operacional de la faena. La consecuencia ambiental es exactamente
+inversa a la perseguida por HI-1: el sistema que debía mi9gar el impacto sobre el acuífero
+con9núa abasteciéndose del acuífero impactado. La medida ambiental no puede considerarse
+cumplida mientras el agua u9lizada para ejecutar la supuesta mi9gación con9núe siendo
+sustraída del mismo sistema hídrico que debe recuperarse.
+3. Declaración de improcedencia de la Consulta de Per6nencia y exigencia de ingreso previo al
+Sistema de Evaluación de Impacto Ambiental:
+Con fecha 4 de octubre de 2023, CMCC some9ó a conocimiento del Servicio de Evaluación
+Ambiental una Consulta de Per9nencia vinculada al uso del Pozo P-3 como fuente de
+abastecimiento o respaldo del Sistema de Recarga Ar9ficial. Mediante Resolución Exenta N.º
+202499101467-2024, de 21 de marzo de 2024, el Servicio de Evaluación Ambiental de la Región
+de Tarapacá declaró improcedente la modalidad consultada y estableció la necesidad de ingreso
+previo al Sistema de Evaluación de Impacto Ambiental para su ejecución, sin emgargo, la
+extracción desde P-3 se mantuvo con posterioridad a esa fecha.
+Este aspecto resulta relevante desde el punto de vista ambiental, toda vez que la con9nuidad de
+operación desde P-3 no sólo importa el incumplimiento material de la configuración impuesta
+por la medida HI-1, sino además la ejecución de una modalidad dis9nta de aquella
+ambientalmente evaluada, respecto de la cual la propia autoridad competente determinó que
+requería evaluación ambiental previa. La imposibilidad material o jurídica de operar desde el Pozo
+P-R no habilitaba al 9tular para sus9tuir unilateralmente una medida de mi9gación incorporada
+a la RCA por otra de sen9do contrario a su finalidad ambiental. Ante cualquier imposibilidad de
+ejecución, correspondía recurrir a los mecanismos jurídicos y ambientales per9nentes, pero no
+mantener por propia decisión la captación desde el acuífero some9do precisamente al proceso
+de recuperación.
+4. Extracción desde un acuífero sujeto a régimen de prohibición y perpetuación del circuito
+hidráulico contrario a la recuperación ambiental:
+El acuífero Pampa Lagunillas se encuentra some9do a un régimen restric9vo de explotación de
+aguas subterráneas y, conforme a los antecedentes incorporados en la propia Demanda_v4, la
+Resolución DGA N.º 9/2022 declaró al sector como zona de prohibición. A ello se agrega el
+
+--- Página 10 ---
+régimen protector establecido por el ar<culo 63 del Código de Aguas respecto de los acuíferos
+que alimentan vegas, pajonales y bofedales del norte del país. En este contexto, la con9nuidad
+de la extracción des9nada al Sistema de Recarga Ar9ficial desde el mismo acuífero some9do a
+recuperación resulta par9cularmente incompa9ble con la finalidad ambiental de las medidas
+impuestas al proyecto.
+La configuración material del sistema genera un circuito hidráulico cerrado: el agua es extraída
+desde el acuífero Pampa Lagunillas, conducida hacia el Sistema de Recarga Ar9ficial y descargada
+nuevamente sobre el bofedal, quedando some9da principalmente a procesos de evaporación y
+escurrimiento superficial, mientras sólo una fracción marginal cumple una función ecológica
+efec9va. Cada litro extraído para alimentar ar9ficialmente el bofedal cons9tuye simultáneamente
+un litro que se resta de la recuperación natural del acuífero que históricamente sostenía dicho
+ecosistema.
+Lo relevante de esta situación radica en que la medida concebida para mi9gar el impacto histórico
+de la extracción termina perpetuando materialmente la presión sobre el mismo recurso hídrico.
+La función de HI-1 era precisamente romper ese circuito, trasladando la captación fuera del sector
+crí9co. Al mantenerse la extracción desde P-3, el sistema de mi9gación fue ejecutado en sen9do
+contrario a su finalidad, transformándose en un mecanismo que posterga la recuperación
+piezométrica y man9ene ar9ficialmente la dependencia del bofedal respecto de un
+abastecimiento mecánico.
+5. Incumplimiento de la trayectoria decreciente obligatoria de caudales establecida en la RCA
+N.º 13/2022:
+El considerando 20.2.3 letra a) de la RCA N.º 13/2022 impuso expresamente el cumplimiento “a
+cabalidad” de la trayectoria decreciente de caudales prevista en la Tabla 1-42 para el Sistema de
+Recarga Ar9ficial, estableciendo que cualquier desviación significa9va respecto de dicho
+escenario debía entenderse como incumplimiento de la medida. Para el período 2024-2025, la
+trayectoria aprobada correspondía a un descenso desde 20 litros por segundo hasta 18 litros por
+segundo.
+No obstante, para el período comprendido entre abril de 2024 y marzo de 2025, el propio 9tular
+reportó un caudal promedio anual de 20,37 ± 1,50 litros por segundo, registrándose un máximo
+mensual de 21,80 litros por segundo en junio de 2024. Paralelamente, CMCC reformuló en sus
+propios informes la obligación ambiental, señalando que a par9r de 2024 se contemplaría una
+disminución “a 20 L/s” y declarando cumplimiento sobre la base de dicho valor, transformando
+de ese modo una trayectoria decreciente obligatoria entre 20 y 18 L/s en un límite está9co de 20
+L/s.
+Esta reinterpretación unilateral modifica materialmente el estándar establecido en la RCA y
+desnaturaliza la progresión ambiental comprome9da. En efecto, la obligación no consiste
+únicamente en no superar un determinado máximo de extracción, sino en reducir
+progresivamente el caudal hasta alcanzar los niveles previstos por el instrumento ambiental. Por
+ello, la sus9tución de una obligación de descenso progresivo por un valor fijo debe ser objeto de
+fiscalización específica por parte de la Superintendencia del Medio Ambiente.
+
+--- Página 11 ---
+6. Modificación de la configuración material del Sistema de Recarga Ar6ficial respecto de
+aquella ambientalmente evaluada:
+La RCA N.º 13/2022 describe la configuración del Sistema de Recarga Ar9ficial sobre la base de
+los antecedentes some9dos a evaluación ambiental, consignando que el sistema había
+comenzado a operar con 18 puntos de descarga acordados y autorizados, y que posteriormente
+el Estudio de Impacto Ambiental describió una configuración de 31 puntos. Sin embargo, el
+informe anual correspondiente al período 2024-2025 señala que el Sistema de Recarga Ar9ficial
+actualmente distribuye agua mediante 37 puntos de descarga.
+Hasta la fecha, no se ha iden9ficado o ubicado acto administra9vo que autorice la ampliación
+desde los 31 puntos descritos en el instrumento ambiental hasta los 37 puntos actualmente
+declarados en operación, ni consulta de per9nencia o procedimiento ambiental que se haga cargo
+de dicha modificación. El número, ubicación y caudal de los puntos de descarga no cons9tuye una
+variable accesoria, sino que integra la configuración material del sistema des9nado a mi9gar el
+impacto sobre el bofedal y determina directamente la forma en que el agua extraída es distribuida
+sobre el ecosistema.
+En consecuencia, corresponde que la Superintendencia determine si la operación mediante 37
+puntos de descarga importa la ejecución del proyecto en condiciones dis9ntas de aquellas
+ambientalmente evaluadas y autorizadas, y si dicha alteración debió ser previamente some9da a
+evaluación ambiental o a alguno de los mecanismos administra9vos previstos para la
+modificación de proyectos some9dos al SEIA.
+7. Necesidad de esclarecer la Resolución Exenta DGA N.º 581/2024 y su compa6bilidad con las
+obligaciones ambientales fiscalizables por la SMA:
+Se hace presente que la Dirección General de Aguas, mediante Resolución Exenta N.º 581, de 9
+de sep9embre de 2024, dispuso el cierre del procedimiento de fiscalización FD-0104-48
+consignando la conclusión “sin infracciones”. Este antecedente no puede ser omi9do y debe ser
+expresamente esclarecido, atendido que coexiste temporalmente con la extracción
+efec9vamente realizada desde el Pozo P-3 después del 1 de enero de 2024 y con las obligaciones
+ambientales establecidas en la RCA N.º 13/2022 respecto del cambio del punto de captación.
+
+--- Página 12 ---
+Frecuencia de los hechos Periódico: eventos se repiten frecuentemente
+denunciados * Continuo: eventos sin interrupción x
+Puntual: evento único
+Horarios en que se Durante la noche (entre 21:00 a 7:00 hrs)
+desarrollan los hechos Durante el día y la noche x
+denunciados * Durante el día (entre 7:00 a 21:00 hrs)
+No sabe
+¿Los hechos han afectado Sí x Ríos, Esteros, Lagunas x
+componentes del medio Humedales x
+ambiente? Glaciares
+Marque con una X Salares x
+Aguas marinas
+Aire (Emisiones atmosféricas)
+Flora / Vegetación x
+Fauna / Animales x
+Suelo x
+Medio humano x
+Patrimonio Arqueológico y Paleontológico
+Turberas x
+No
+No sabe
+¿Hay afectación de áreas Sí Parque Nacional
+colocadas bajo protección Reserva Nacional
+oficial del estado? Monumento Natural
+Marque con una X Santuario de la Naturaleza
+Parque o reserva Marina
+Otros x
+No
+No sabe
+¿Sabe si hay pueblos Sí x Ríos, Esteros, Lagunas
+originarios o pueblos Humedales
+indígenas afectados por los Glaciares
+hechos? Salares
+Marque con una X Aguas marinas
+Aire (Emisiones atmosféricas)
+Flora / Vegetación
+Fauna / Animales
+
+--- Página 13 ---
+Suelo
+Medio humano
+Patrimonio Arqueológico y Paleontológico
+Turberas
+No
+No sabe
+4. NORMATIVA AMBIENTAL
+Infracciones a la normativa ambiental
+Los campos con asterisco (*) son Obligatorios
+Si no conoce o identifica erróneamente la norma infringida, la SMA no invalidará su
+denuncia.
+¿Conoce la normativa Sí Incumplimiento de RCA x
+ambiental infringida Puede Elusión x
+por los hechos seleccionar Incumplimiento de PPDA
+denunciados? más de Incumplimiento de Norma de Emisión
+(RCA, Normas de una opción Incumplimiento de Norma de Calidad
+Emisión, Plan de Incumplimiento de Entidades Técnicas (ETFA o
+Descontaminación, ETCA)
+etc.) Incumplimiento de normas e instrucciones x
+generales de la SMA
+Incumplir medidas adoptadas por la SMA
+Otros x
+No
+Si conoce la o las normativas específicas, señálela a continuación:
+RCA N° 13/2022 de la Comisión de Evaluación de Tarapacá: Incumplimiento gravísimo de
+la Medida de Mi9gación HI-1 y de la Medida HI-3, al no haber cesado el bombeo en el
+Pozo P-3 al 31 de diciembre de 2023 y no haber puesto en marcha el Pozo PR conforme a
+lo ordenado por dicha resolución de calificación ambiental.
+I. Arcculo 8° de la Ley N° 19.300, sobre Bases Generales del Medio Ambiente, en relación
+con el D.S. N° 40, de 2013, del Ministerio del Medio Ambiente, que aprueba el
+Reglamento del Sistema de Evaluación de Impacto Ambiental (RSEIA): Ejecución de una
+modificación sustancial de proyecto sin contar con Resolución de Calificación Ambiental
+favorable previa, habiendo sido expresamente rechazado el ingreso per9nente por el
+Servicio de Evaluación Ambiental mediante Resolución Exenta N° 202499101467-2024,
+de 7 de junio de 2024.
+
+--- Página 14 ---
+II. Ley N° 20.417, que establece la Ley Orgánica de la Superintendencia del Medio
+Ambiente (LOSMA): a) Los hechos denunciados configuran las infracciones previstas en
+el ar<culo 35, letra a) (incumplimiento de las condiciones, normas y medidas establecidas
+en la Resolución de Calificación Ambiental) y letra b) (ejecución de un proyecto o ac9vidad
+que exige Resolución de Calificación Ambiental, sin contar con ella), ambas de
+competencia exclusiva de la Superintendencia del Medio Ambiente. b) Dichas
+infracciones deben calificarse como gravísimas conforme al ar<culo 36 N° 1, letra f), de la
+LOSMA, por tratarse de la ejecución de un proyecto o ac9vidad de los señalados en el
+ar<culo 10 de la Ley N° 19.300 al margen del Sistema de Evaluación de Impacto Ambiental,
+verificándose efectos, caracterís9cas o circunstancias de las previstas en el ar<culo 11 de
+la misma ley, sin perjuicio de que, una vez concluida la validación pericial hidrogeológica
+y ecológica correspondiente, pueda además configurarse la hipótesis de la letra a) del
+mismo numeral, rela9va a daño ambiental no suscep9ble de reparación. c) La calificación
+como infracción gravísima habilita la aplicación de las sanciones previstas en el ar<culo
+38 de la LOSMA, incluida la revocación de la Resolución de Calificación Ambiental
+conforme a su letra d) , sin perjuicio de las demás sanciones contempladas en las letras
+a), b) y c) del mismo ar<culo.
+III. Código de Aguas, arcculo 63, en relación con la Resolución Exenta DGA N° 9, de 7 de
+julio de 2022: Extracción no autorizada en zona declarada formalmente de prohibición
+para nuevas explotaciones de aguas subterráneas, cuyo régimen de protección alcanza
+expresamente a los acuíferos que alimentan bofedales de la Región de Tarapacá, sin
+perjuicio de las infracciones y sanciones administra9vas adicionales que correspondan
+conforme al régimen sancionatorio del propio Código de Aguas.
+
+--- Página 15 ---
+5. INFORMACIÓN ADICIONAL
+Antecedentes complementarios a la denuncia
+Los campos con asterisco (*) son Obligatorios
+Indique si ha presentado otras denuncias por los mismos hechos en la SMA o en Sí x
+otros organismos públicos *
+Marque con una X No
+Si ha presentado otras denuncias, señálelas los antecedentes a continuación:
+Ej. Números de otras denuncias recibidas por parte de la SMA y/o detalles de otras denuncias presentadas en
+otros organismos públicos.
+i. Superintendencia del Medio Ambiente (SMA): Denuncia Formulario N° 40797 de fecha
+15 de julio de 2024, radicada bajo el Expediente ID 87-I-2024 ; y ampliación de denuncia
+registrada bajo el Expediente ID 72-I-2026 de fecha 12 de marzo de 2026. Se hace
+presente que la División de Fiscalización de la SMA ya concluyó y evacuó el Informe de
+Fiscalización Ambiental DFZ-2025-3063-I-RCA en marzo de 2026 , encontrándose el
+expediente radicado en la División de Sanción y Cumplimiento.
+ii. Dirección General de Aguas (DGA): Requerimiento y expediente de fiscalización
+administra9va FD-0104-48 .
+iii. Ministerio Público / Juzgado de Garanca de Pozo Almonte: Querella criminal por delitos
+económicos y contra el medio ambiente (Ley N° 21.595) y usurpación de aguas, tramitada
+bajo el RUC N° 2401560410-3 .
+iv. Contraloría General de la República (CGR): Inves9gación e inspección administra9va
+tramitada bajo el Expediente Cero Papel N° 5729/2026 (Oficio N° 55300) , sobre dilación
+funcionaria injus9ficada en la resolución de denuncias por parte de la SMA Regional
+Tarapacá.
+
+--- Página 16 ---
+Agregar documentos para complementar y/o acreditar los hechos denunciados
+I. Copia íntegra de la Resolución Exenta N° 202499101467-2024, de 7 de junio de 2024, de
+la Dirección Regional del SEA Tarapacá, que rechazó la Consulta de Per9nencia de CMCC
+para operar el Pozo P-3 y ordenó someter la modificación a un Estudio de Impacto
+Ambiental.
+II. Copia autorizada del Acta de Declaración Tes9monial de don Winston Alburquenque
+Troncoso (abogado de CMCC a cargo de la tramitación de derechos de aguas) en autos
+sobre juicio arbitral Rol CAM 6305-2024, de fecha 1 de octubre de 2025, en la que
+confiesa que la captación desde P-3 succiona caudales que debían alimentar
+naturalmente al bofedal y reconoce la inviabilidad hidrológica del bombeo.
+III. Cer9ficado y planillas telemétricas del Sistema de Monitoreo de Extracciones Efec9vas
+(MEE) de la DGA para la obra OB-0104-66 (Pozo P-3), acreditando que CMCC ha extraído
+de manera ininterrumpida caudales con9nuos cercanos a 20 l/s entre enero de 2024 y
+2026, con un volumen acumulado que supera los 977.389 m³.
+IV. Copia de la Resolución Exenta DGA N° 9, de 7 de julio de 2022, que declaró formalmente
+el área de Laguna Lagunillas como Zona de Prohibición para nuevas extracciones de aguas
+subterráneas.
+
+--- Página 17 ---
+FIRMA DE LA PERSONA DENUNCIANTE. Para que su denuncia sea válida ante la SMA y usted tenga
+el carácter de persona o contraparte interesada ante un eventual procedimiento sancionatorio, es
+necesario que su denuncia tenga su firma. *
+Firma: ___________________________________________________
