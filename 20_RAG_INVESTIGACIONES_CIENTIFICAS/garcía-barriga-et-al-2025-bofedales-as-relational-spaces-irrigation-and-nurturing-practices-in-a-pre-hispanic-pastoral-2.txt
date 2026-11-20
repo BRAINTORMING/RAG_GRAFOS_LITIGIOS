@@ -1,0 +1,820 @@
+--- Página 1 ---
+Article
+Journal of Social Archaeology
+Bofedales as relational spaces: 2026, Vol. 26(1) 28 – 50
+© The Author(s) 2025
+Irrigation and nurturing
+Article reuse guidelines:
+practices in a pre-Hispanic sagepub.com/journals-permissions
+DOI: 10.1177/14696053251395646
+pastoral landscape, South journals.sagepub.com/home/jsa
+Central Andes
+Magdalena Garc´ ı a Barriga 1  , Adri ´ an Oyaneder 2  ,
+Luca Sitzia 3  and Manuel Prieto 4 
+Abstract
+Various factors have contributed to conceptualizing the altiplano as an “ extreme ” and
+hostile upland environment, where niche lifeways such as camelid herding are part of the
+limited human presence. Consequently, Andean herders are often portrayed as merely
+exploiting the ostensibly self-sustaining altiplano pastures and peatlands. This viewpoint is
+reinforced by the low visibility of material culture associated with and derived from
+pastoralist lifeways. To revisit this essentialist and ecologically inclined perspective, we
+argue that pastoral practices in Andean bofedales (high Andean peatlands) involve active
+and signi fi cant water and vegetation management interventions. These interventions,
+driven by collective labor, not only enhance but also expand peatland resources for
+livestock. To support this argument, we present fi ndings from Surire, Mulluri, and
+1 Museo Chileno de Arte Precolombino, Santiago, Chile. Millennium Nucleus of Applied Historical Ecology for
+Arid Forest, Chile
+2 Department of Archaeology and History, University of Exeter, Exeter, UK
+3 Departamento de Antropolog´ ı a, Universidad de Tarapac´ a, Arica, Chile.
+4 Departamento de Ciencias Históricas y Geogr´ a fi cas, Universidad de Tarapac´ a, Arica, Chile; Millenium Nucleus
+in Andean Peatlands (AndesPeat), Arica
+Corresponding author:
+Adri´ an Oyaneder, Department of Archaeology and History, University of Exeter, Laver Building 23 N Park Rd,
+Exeter EX4 4QJ, UK.
+Email: A.Oyaneder@exeter.ac.uk
+
+--- Página 2 ---
+Garc´ ı a Barriga et al. 29
+Parcohaylla (Chile), where ethnographic research was integrated with archaeological
+surveys and geospatial methods. These approaches allowed us to characterize active and
+abandoned hydraulic installations and evaluate their role in shaping pastoral landscapes.
+We offer a reimagined perspective on bofedales, framing them as cultural landscapes
+shaped by collective pastoral labor through hydraulic management practices. These
+landscapes sustain livelihoods, promote social cohesion, and are deeply embedded with
+Aymara cosmopraxis , re fl ecting the relational dynamics of humans, animals, and the en-
+vironment in co-nurturing practices.
+Keywords
+relational bofedales, water nurturing, cosmopraxis , Andes, pastoral landscape, community
+work
+Introduction
+High Andean peatlands, locally known as bofedales , champeales , juqhu , potreros ,
+ci´ enagos , and vegales , are key pastoral ecosystems that sustain life across the arid puna by
+providing water supply and essential fodder for Andean camelids (White-Nockleby et al.,
+2021). Although long perceived as purely natural formations, bofedales are now in-
+creasingly recognized as complex socio-natural systems whose sustainability and vitality
+rely on the intertwined agency of humans, sacred mountains, camelids, water, vegetation,
+and Pachamama (Flores Ochoa, 1977; Palacios, 1977; Van Kessel and Condori, 1992;
+White-Nockleby et al., 2021; Yager et al., 2021). Paradoxically, what has long been
+portrayed as pristine “ nature ” is in fact the living outcome of centuries of human – animal –
+environment interactions that nurture and even expand these wetlands. Upland camelid
+pastoralism, de fi ned by its seasonal mobility and collective labor, plays a crucial yet
+underappreciated role in their development and upkeep (Prieto, 2015; Verzijl and Quispe,
+2013). Humans and camelids shape these landscapes through grazing, trampling, and
+irrigation. Additionally, humans engage in ritual practices that synchronize their activities
+with monsoon-driven changes in water and vegetation (Garc´ ı a, 2021; Villagr´ an and
+Castro, 1997; Yager et al., 2008). This approach frames bofedales as relational, socio-
+natural, and co-produced spaces, where practices actively transform hydrological and
+ecological processes, providing tangible evidence of the material effects of pastoral labor
+(Prieto, 2015). The emerging understanding of bofedales from geographical, archaeo-
+logical, and anthropological perspectives aligns with previous research on other types of
+cultivated landscapes in South America (e.g. Arroyo-Kalin, 2015; Denevan, 2001;
+Erickson, 2018).
+Bofedales are located within the Andean altitudinal belt at elevations ranging from
+3100 to 5600 masl and are found across southern Peru, south-western Bolivia, northern
+Chile, and north-western Argentina (Izquierdo et al., 2015; Ruthsatz, 2012; Squeo et al.,
+2006). These encompass diverse plant communities, including Juncaceae, Cyperaceae,
+and Asteraceae families. Cushions of Oxychloe andina (known as paco , male puku, ork´o
+puku ) and Distichia muscoides (female puku, kachu paco, or kulli puku ) are relevant.
+
+--- Página 3 ---
+30 Journal of Social Archaeology 26(1)
+These vegetational formations are often distributed like archipelagos across the highlands.
+Despite their fragmented distribution, bofedales cover approximately 150,000 ha in the
+Andes (Meneses et al., 2019; Ruthsatz, 2012; Squeo et al., 2006; Villagr´ an et al., 1999).
+Andean indigenous pastoral communities (e.g., Aymara, Quechua, and Likan Antai)
+possess a deep ecological knowledge of bofedal management, conservation, and ex-
+pansion, rooted in traditions that extend to pre-Hispanic times (Domic et al., 2018;
+Erickson, 2018; Lane et al., 2022; Vining and Williams, 2020). This management involves
+year-round and seasonal specialized water management tasks, and the establishment of
+hydraulic infrastructure, including irrigation canals, pipelines, pumps, ponds, and res-
+ervoirs. These features are built by digging ditches, erecting dry stone walls as barriers,
+building reservoirs, and tur fi ng plant patches (Lane, 2014; Lane et al., 2022; Palacios,
+1977; Prieto, 2015; Quesada and Lema, 2009; Verzijl and Quispe, 2013; Yager et al.,
+2021). Considered diachronically, these hydraulic structures constitute a signi fi cant
+material record for archaeology, informing understandings of irrigation techniques and the
+social organization of water management over time. Nevertheless, this materiality entails
+notable methodological challenges due to its low visibility and its ephemeral, multi-
+temporal character, which are addressed in this paper.
+Along with water management, transhumance allows these high-altitude peatlands to
+recover during periods of reduced human and livestock activity, promoting plant re-
+generation (Garc´ ı a, 2021). Camelid herds signi fi cantly contribute to bofedal maintenance
+through their grazing. Their trampling, coupled with surface water fl ow, supports seed
+dispersal and enriches the soil. By feeding on tall herbage, camelids clean the peat
+( champeal ), while their dung naturally disperses seeds and acts as a low-impact fertilizer
+(Yager et al., 2008). This integrated system effectively enables livestock to “ weed, ”
+“ fertilize, ” “ sow, ” and “ harvest ” their fodder, highlighting the mutually adaptive inter-
+action between pastoralism and bofedales.
+Aymara bofedal management practices are intertwined with social and ritual di-
+mensions that involve communal labor, rituals devoted to water springs, and the ven-
+eration of culturally and religiously signi fi cant peaks and hills ( mallkus or achachilas )
+(Dransart, 2002; Van Kessel and Condori, 1992). Together, these symbolic and functional
+practices contribute to the improvement, preservation, and expansion of bofedales,
+supporting well-nourished herds that produce high-quality fi bers from llamas ( Lama
+glama ), alpacas ( Vicugna pacos ), and bovids introduced during the Spanish colonial
+period (16th – 19th centuries) (Flores Ochoa, 1977; Palacios, 1977; Yager et al., 2021).
+Building on the tradition that approaches bofedales as socio-ecological systems, this
+study deepens the understanding of the social practices embedded in such relational
+perspectives, and of the perception of bofedales as active entities for the Aymara people.
+By documenting management practices and their historical, technological, and socio-
+cultural dimensions, this work aims to challenge the traditional divide between natural and
+cultural systems. It proposes that bofedales be conceptualized as co-constructed systems
+shaped by multiple agents, emphasizing the dynamic and ever-evolving nature of the
+environment as a product of ongoing interactions, reproductions, and movements. Based
+on an ethnographic approach and on concepts such as cosmopraxis (De Munter, 2016) and
+“ lines of life ” (Ingold, 2018), it is possible to suggest that the social practices and decisions
+around the bofedal transcend human agency. Aymara actions of care and management of
+
+--- Página 4 ---
+Garc´ ı a Barriga et al. 31
+animals and nature re fl ect the particular ways in which herders relate to different entities or
+agents that in fl uence human life, including mountains, ancestors, and speci fi c places.
+Before intervening in the waters and soils with shovels and picks, Aymara herders offer
+gifts to the hills and ask permission from Pachamama. Through these rituals, the Aymara
+myths of origin, reciprocal relationships, and the commitments they maintain with these
+entities are continually renewed. From an ontological perspective, social practices linked
+to the bofedal can be understood as cosmopractices, since human actions are always
+interactions with other beings through which multiple mutual affections and agencies
+unfold, none of which are exclusive to humans (De Munter, 2016). These management
+practices also consider the other beings that inhabit the bofedales, such as plants, wild
+animals, and microorganisms, which contribute to bofedal fertility and regeneration. This
+framework reveals a network of social relationships enacted and sustained in these spaces,
+showing the continuous emergence and transformation of nature through the integration
+and interaction of its various components (Ingold, 2018).
+This perspective offers a more nuanced understanding of human – environment rela-
+tionships and highlights the importance of integrated and collaborative approaches to the
+management and conservation of bofedales. Our study contributes to this discussion
+through a detailed analysis of practices that combine material and immaterial dimensions
+of the bofedales of Surire, Mulluri, and Parcohaylla in northern Chile. It draws on
+ethnographic data collected through fi rst-hand observations and oral histories, com-
+plemented by spatial and archaeological methods focused on the material culture of
+irrigation, which serves both as a foundation for daily practices and as an archive of
+memories for those who nurture these landscapes. To grasp the complexity of bofedal
+management and its historical signi fi cance as a cultural legacy, the study establishes
+contextual and semantic relationships while introducing the concepts of water nurturing
+( crianza del agua ) and bofedales as relational spaces.
+Bofedales as relational spaces
+This work highlights the tension between culture and nature, a fundamental opposition in
+modern knowledge that has a series of implications, starting with the ideas of evolution-
+progress with anthropocentrism and the exclusivity of humans as agency-bearing beings
+(Descola, 2012). Under this paradigm, the social and cultural are seen as active, while the
+natural is passive, that is, what sustains or serves human subsistence. This logic has
+permeated all modern knowledge in terms of the understanding of practices, experiences,
+and places, and archaeology has not been immune to this opposition (Troncoso et al.,
+2022).
+In contrast, we propose that this opposition is neither universal nor characteristic of
+communities throughout time. We know that, ethnographically and historically, there are
+different forms of relationships and articulations between those beings who exist in the
+world (Lema, 2014). Aymara ethnographic accounts provide an ontological positioning in
+this regard, offering important clues for understanding and rethinking the de fi nition of the
+bofedal, for the archaeological interpretation of the corresponding material culture, and
+the practices associated with each. From there, we can ask ourselves: what is a bofedal?
+How do beings and materials interrelate in the social life of a bofedal? We understand the
+
+--- Página 5 ---
+32 Journal of Social Archaeology 26(1)
+management and care actions as cosmopractice (De Munter, 2016), since human action
+always occurs in relation to other beings, generating multiple affections and agencies that
+extend beyond the human. As de Munter notes, “ living is always becoming in relation
+with others ” (De Munter 2016: 631).
+Cosmopraxis is not limited to ritual or ceremonial activities but encompasses diverse
+dimensions, including biodiversity, technology, and the symbolic relations with peatlands
+and water, which scholarship has often treated as separate domains. Consequently, the
+concept of cosmopraxis attempts to move beyond the idea of “ worldview ” (in Spanish
+cosmovisión ), which is usually anchored in the representational plane, in the world of
+ideas and the symbolic or immaterial, disconnected from the world of practice. From this
+perspective, the cosmological does not exist in itself but is structured through rela-
+tionships, experiences, and social practices that occur in habitation, thereby altering and
+structuring the corresponding materiality (Troncoso et al., 2022). Andean communities
+offer multiple examples of cosmopractices, particularly in relation to the role of the
+mountains, which are fed with vegetal and mineral offerings considered “ food for the
+mountains ” (Garc´ ı a et al., 2018: 546). These beings are petitioned for successful harvests
+and are ritually nourished. Even pre-Hispanic settlements and contemporary constructions
+such as churches, corrals, and ceremonial enclosures are often oriented toward them, with
+openings and entrances aligned in their direction (Castro, 2009; Dransart, 2002; Mart´ ı nez,
+1989). Mountains possess the power to in fl uence human destiny and life more broadly. In
+Aymara, a series of terms express these relationships, such as mutual nurturing ( uywaña ),
+which challenges modern de fi nitions of nature and culture by emphasizing reciprocal care
+and co-existence.
+Viewing nature as a constantly produced entity transformed through human agency
+reveals bofedales as assemblages where dialogic actions and mutual impacts between
+humans and non-humans interlink (Ingold, 2011; Lema, 2014; Troncoso et al., 2022). This
+interdependence gives ecological practices ethical and political dimensions, fostering
+responsibility toward herds and what is known as nature, and requiring attentive care and
+breeding practices. Just as plants and microorganisms are affected and transformed by
+grazing practices, non-human agents nourish humans, sustaining their lives and enabling
+them to thrive (Lema, 2014). Furthermore, we can also propose the idea of nurturing or
+“ breeding the water, ” for which several types of infrastructure are built to facilitate ir-
+rigation (e.g. canals or dams). The idea of water nurturing illustrates how irrigated pastures
+sustain animals that are later transformed into meat and wool, materials herders use to
+produce textiles and clothing (Dransart, 2002). Within this multispecies web, “ one must
+know how to breed and how to let oneself be bred ” (Van Kessel and Condori 1992: 10). In
+this sense, all beings participate in processes of mutual breeding and transformation
+(Lema, 2014).
+In Aymara, the term for mutual nurturing, uywaña , refers to the reciprocal relationships
+through which humans nurture, are nurtured, and allow themselves to be nurtured by
+others (Van Kessel and Condori, 1992). The term for living entities ( uywiri ) describes
+beings such as hills or mountains that protect a community by providing and sustaining
+human life, and that are in turn nourished by humans through offerings such as animal
+sacri fi ces ( wilanchas ), ritual tables ( mesas ), and offerings ( pagos ) made to the mountains
+and to Pachamama (Fern´ andez, 1995; Mart´ ı nez, 1989). Similarly, uywaña is the term that
+
+--- Página 6 ---
+Garc´ ı a Barriga et al. 33
+de fi nes the relationship between herders and camelids. This uywaña nurturing differs
+considerably from the word de fi ning the relationship with sheep, awatiña (to herd) (Kent,
+1988). According to Kent, a herder from Puno (Peru) stated in the 1970s, “ we nurture the
+animals, and the animals nurture us ” (Kent 1988: 33). According to this linguistic dis-
+tinction, humans and camelids are herded together, fostering a symbiosis between them
+that is not present in the relationship established with Eurasian livestock.
+Thus, in this mutual nurturing, humans necessarily become interwoven with a set of
+places, beings, and materials; living is possible thanks to the relationships maintained with
+this array of entities. In this interconnection, humans are affected and transformed as they
+must attend to the needs of the organisms and living spaces they nurture, just as these also
+in fl uence and have agency over human becoming (Ingold, 2011; Troncoso et al., 2022).
+To ensure its healthiness, the peat must be guided, cared for, and nourished, like a living
+body (Young man, Visviri, 2024). Irpa is the irrigation using a canal in Aymara (Palacios,
+1977), which also means “ to guide ” and “ to guide animals ” (Arnold and Yapita, 1998).
+Interestingly, irpa is also used as a suf fi x to construct multiple words that have in common
+the idea of fl ow (Gilles Rivière, 2022, personal communication; Laime et al., 2020) and
+herding. For example, irpar or irpaska is the marriage between young llamas during the
+señalakuy or fl oreo ceremony (Elizaga, 2022); irpaqa means to ask for the bride ’ s hand in
+marriage (Laime et al., 2020). This term also designates a young bird while it is being bred.
+This reveals a semantic link between the paths that humans and animals follow to become
+persons, and the practice of channeling water through the canals that irrigate and revive the
+peatland.
+Ingold ’ s (2018) concept of the “ line ” provides an effective lens through which to
+examine the complex and dynamic relationships that shape the bofedal phenomenon. The
+bofedal is formed through an assemblage of humans, animals, plants, microorganisms,
+climatic forces, and water, all intertwined as distinct lifelines. Within this context, irpa
+functions as a line that articulates and stimulates the fertility and sociability of the bofedal.
+It is an expression of cosmopraxis that transcends the exclusively human.
+Study area and contemporary transformations
+The study area lies within the Dry Puna ecoregion of the south-central Andes (N´ uñez and
+Santoro, 1988), in the highlands of the Arica and Parinacota Region, northern Chile, at
+more than 4000 masl. It encompasses the pastoral territories of Mulluri, Surire, and
+Parcohaylla, located near 19° S and 69° W (Figure 1).
+Mulluri, Surire, and Parcohaylla herders have had a historical and territorial connection
+with the highlands of neighboring geopolitical regions of Tarapac´ a (Chile) and Oruro
+(Bolivia) and, more generally, with the ancient Carangas Aymara cultural region
+(Dransart, 2002; Rivière, 1982). While the Mulluri community has its origins in the
+colonial period, at least (Garc´ ı a, 2021), the history of Parcohaylla has not yet been studied.
+Oral histories indicate that the families acquired the currently settled lands of Parcohaylla
+after the Saltpeter War (1879 – 1883). While the rich historical memory of the Surire
+community members links their settlements with Arajj Saya or the upper half of the Isluga
+territory (Comunidad de Santo Tom´ as de Isluga, 2018; Mart´ ı nez, 1989). Across these
+regions, herders maintained close ties with farmers in the valleys at lower altitudes,
+
+--- Página 7 ---
+34 Journal of Social Archaeology 26(1)
+Figure 1. Location of Mulluri, Surire, and Parcohaylla (red dots) in the puna of the Arica Parinacota
+region, Chile. Map: authors.
+particularly Esquiña, Camiña, and Nama. During the second half of the 20th century, most
+herders migrated to the coastal valleys and cities of the Arica, Parinacota, and Tarapac´ a
+regions (Eisenberg, 2013; Gundermann, 2018), leaving much of the bofedal irrigation
+infrastructure abandoned. The Aymara language was nearly lost during this process, with
+older community members interviewed for this study only partially understanding and
+remembering it. As in other parts of the Andean highlands of Bolivia and Peru, Aymara
+people today often move between urban and rural areas (Damonte, 2011).
+Nowadays, in Mulluri, there are no inhabitants and no livestock, however, people
+return every year to celebrate the Virgin of Nativity. The livestock gradually perished due
+to measles, intestinal parasites, and predation by pumas ( Puma concolor ) and foxes
+( Lycalopex culpaeus ). As a result of herder migration, along with other environmental and
+geopolitical factors, many of the Mulluri bofedales have suffered degradation and drying,
+directly affecting their biodiversity (Yager et al., 2021). Although herding is no longer a
+daily practice for many, it remains a world of inherited representations that shape how
+people think and relate to animals (Bugallo and Tomasi, 2012). The absence of active
+irrigation and bofedal management between the 1980s and 2000s left many areas severely
+deteriorated or entirely lost. Historical accounts from the 1960s indicate that about
+10 families kept livestock in the bofedales near Mulluri. This is consistent with historical
+census data indicating that in 1943, Mulluri had 56 inhabitants living in eight households
+and maintaining around 2000 llamas and 180 alpacas (Keller, 1946). Earlier census data
+show that Mulluri had 80 inhabitants in 1892 and 60 in 1883 (Castro, 2010). However, due
+
+--- Página 8 ---
+Garc´ ı a Barriga et al. 35
+to the highly mobile nature of herders and the challenges in accessing their settlements and
+areas of activity, these historical fi gures should be used with caution.
+In Mulluri, two large bofedales stand out, together covering approximately 1.26 square
+kilometers. Their management required signi fi cant labor and coordination, as both were
+worked simultaneously. One includes a 4.5-km canal along its northern edge, remnants of
+which remain visible today. Accounts vary on the time required to build and maintain
+these canals, with estimates ranging from one to four days. However, these activities
+ceased 40 years ago, and greenery is con fi ned to the area around the springs. Notably, in
+2010 and 2012, the community irrigated a small portion of the main Mulluri bofedal (6 sq
+km) near the village. This same ditch and intake were revisited and repaired in 2021 by
+of fi cials from Chilean National Forestry Corporation and Chile ’ s National Indigenous
+Development Corporation (CONAF-CONADI) as part of an ongoing regional program
+aimed at bofedal restoration.
+In Surire, collective work on bofedales ceased during the 1980s. From the 1943 census,
+it is possible to establish that Surire had two houses and 14 inhabitants who managed a
+livestock population of 1413 camelids (Keller, 1946). Oral accounts suggest that until the
+1970s, four families lived there and actively collaborated to maintain water intakes and
+clean the canals. The main bofedal (12 sq km) featured fi ve water intakes and a major canal
+extending 2.1 km along its eastern edge. Each family originally managed herds of up to
+1000 llamas, but these numbers declined to 500 and eventually to 200. Nowadays, only a
+small portion of the main bofedal is actively managed. This work is carried out by two
+community members who are occasionally assisted by relatives visiting from urban areas.
+In November 2022, the main intake at Calaconta, unused for more than 30 years, was
+restored and returned to operation (Figure 2).
+Unlike the previous cases, the Parcohaylla bofedal (2 sq km) continues to be irrigated
+and managed collectively, although at the family rather than the communal level, and it
+remains in good condition. The three families residing in the village work independently,
+without necessarily coordinating with one another, to maintain the three intakes that feed
+the bofedal. Unfortunately, no 20th-century census data are available for the community.
+In the 1960s, oral accounts indicate that approximately eight families maintained smaller
+herds compared to those in Mulluri and Surire, aligning with the smaller size of the
+bofedales in this area. Each family kept up to 100 head of livestock, including llamas,
+alpacas, and sheep. In the past, families would coordinate in advance to spend one or
+two days irrigating the main bofedal and other nearby bofedales.
+Nowadays, young people living in the city return to help their parents, invest in
+livestock, and occasionally visit the village. Parcohaylla has also been part of the CONAF-
+CONADI program, with efforts focused on restoring several bofedales and encouraging
+residents to maintain these traditional practices (supplementary material).
+Methods
+Between 2020 and 2023, we conducted ethnographic research to document local man-
+agement practices of bofedales, their seasonality, and perceptions of landscape change and
+degradation. This effort included interviews, corroboration of oral accounts in the fi eld,
+and participant observation. Approximately 25 people from the three communities
+
+--- Página 9 ---
+36 Journal of Social Archaeology 26(1)
+Figure 2. Hydraulic devices or architectures: tomas (a) – (f), cequias and pongos (g) – (h). Photos:
+authors.
+
+--- Página 10 ---
+Garc´ ı a Barriga et al. 37
+participated in these research activities. Some of the participants currently manage bo-
+fedales, while others reside in the coastal city of Arica and nearby valleys. Individuals who
+explicitly authorized the use of their names are identi fi ed accordingly. In all other cases,
+only gender and age range are included (e.g., “ Adult woman, ” “ Young man ” ), along with
+the location and year of the interview. When interviews were conducted away from their
+territories (i.e., Arica or nearby valleys), the community to which the interviewee belongs
+is speci fi ed, followed by the location where the interview took place (e.g. Demetrio
+Garc´ ı a, Mulluri community member, Pampa San Mart´ ı n, 2022).
+Additionally, we documented the irrigation activities conducted by local herders as part
+of government-led agreements with CONAF-CONADI. This program, launched in 2019,
+aimed to address the challenges of abandonment and labor shortages in the management of
+bofedales. The initiative involved the irrigation and upkeep of bofedales by teams of local
+herders hired explicitly for these tasks. Annual goals were set for constructing new ir-
+rigation canals and maintaining existing ones. Fortunately, these efforts have played a
+crucial role in mitigating the deterioration of the bofedales.
+To complement the range of methods employed in this study, we conducted an on-site
+archaeological survey and indirect observations during our ethnographic fi eldwork,
+enabling us to gather detailed knowledge about bofedales. The survey follows what has
+been proposed by Sitzia et al. (2025) and Garc´ ı a et al. (2024). Following their protocols,
+the irrigation canals, once identi fi ed in the fi eld, were mapped upstream and downstream
+using handheld GNSS devices. Key features — such as canal hierarchy, width, con-
+struction techniques, materials, and their associations with other archaeological sites —
+were documented through photography and recorded in fi eld forms. This methodology not
+only provided a means to cross-reference oral accounts regarding the conservation status
+of the bofedales but also generated new lines of inquiry for our ongoing ethnographic
+research.
+Similarly, we applied remote sensing methods to re fi ne and expand the results obtained
+from the ground survey. This approach integrated geospatial techniques, aerial image
+interpretation, and hydrological modeling. Photogrammetric fl ights over the bofedales
+were conducted with a DJI Mavic Pro 2 drone, yielding orthomosaics and digital elevation
+models through structure-from-motion photogrammetry using Agisoft Metashape 2.2.
+The orthomosaics, at approximately 5 cm per pixel, were employed in ArcGIS Pro 3.2 to
+vectorize linear hydrological features and identify hydraulic installations. At the same
+time, a false-color Decorrelation Stretch orthomosaic processed in ENVI 4.6 enhanced the
+distinction of vegetation, water, and bare soil. The digital elevation models, at roughly 8 –
+11 cm per pixel, were utilized in ArcGIS Pro 3.2 ’ s hydrology toolbox to model natural
+streams and establish their hierarchy by applying an accumulation threshold of 5000.
+Consequently, a network of natural and anthropogenic hydraulic systems and relevant
+points was generated by combining ground survey data with remote sensing.
+Nurtured bofedales
+The interviewees noted that in Mulluri, Surire, and Parcohaylla, champeales are “ created
+and partially created. ” Oral accounts and fi eld validation differentiated among bofedales
+
+--- Página 11 ---
+38 Journal of Social Archaeology 26(1)
+found in highland grazing lands based on their level of human intervention. They are
+categorized as “ unmanaged, ” “ managed, ” and “ created. ”
+Managed and created bofedales tend to be located on plains, whereas unmanaged ones
+are found on steep slopes and are generally smaller, appearing as scattered patches across
+the landscape. Managed bofedales cover large areas that require arti fi cial irrigation and are
+therefore associated with hydraulic infrastructures such as intakes and canals. In contrast,
+unmanaged bofedales lack irrigation structures and depend exclusively on the fl ow
+provided by natural springs. Although unmanaged, these bofedales are still used for
+grazing domestic herds and are thus integrated into herding mobility circuits and man-
+agement strategies. Their use allows managed and created bofedales to rest, preventing
+overgrazing and enabling their recovery. In this way, unmanaged or “ natural ” bofedales
+also form part of the pastoral landscape, once again challenging the conventional nature-
+culture divide.
+Created bofedales refer to areas modi fi ed through the systematic channeling of water
+and irrigation over several years, where previously only sparse vegetation, such as various
+grass species ( tolas ), existed: “ Whenever there is water, and at the appropriate time, a
+bofedal can be created. It is quite a bit of work, and it needs to be taken care of ” (Demetrio
+Garc´ ı a, Mulluri community member, Pampa San Mart´ ı n, 2022).
+First, the herders go to mensurar , which means making observations and measure-
+ments of the topography to choose a suitable location. Second, they construct the toma
+(intake). The concept of toma comes from the Spanish word “ tomar , ” meaning they are
+literally used to “ take ” water, diverting it from its source towards the main ditch and then
+distributing it throughout the bofedal. Generally speaking, tomas correspond to live canal
+dams arranged transversally on the course of a river or stream (Figure 2(g) – (h)).
+Subsequently, a canal is traced to convey water to the desired pooling area, equipped
+with peat ( champa ) and stone gates ( pongo ) to control the water fl ow. The irrigation
+method is riego tend´ ı o , where water fl ows freely, fl ooding the future champeal . The
+bofedal is irrigated from August until the beginning of the monsoon season. If it does not
+rain, irrigation continues. In April, arti fi cial irrigation must be cut off, meaning the pongos
+are closed, and the excess water is drained into the river (Figure 2(a) – (f)). Continued
+irrigation during the winter months may result in frost formation, which can adversely
+affect the champeal. The following year, the process is repeated. After two years, the
+bofedal begins to sprout. The grass that used to grow in the new area rots and dies as the
+champeal compacts and kills these plants. In three or four years, cattle can graze on it. If
+irrigation is not sustained by herders, the newly created bofedal dries up, highlighting the
+concept of “ fodder chacras ” coined by Lane (2009). The following quotes illustrate local
+perspectives on these practices:
+In Parcohaylla, there are parts that are human-made and parts that are natural. Sora Sora [bofedal
+in the territory of Mulluri], was human-made, but now it ’ s completely natural, and look, uh!
+[emphasizing pause], it is entirely dry. And now, to restore that you should be working there for a
+month. Yes, it can be recovered, but you must live there. It is indeed a lot of work (Demetrio
+Garc´ ı a, Mulluri community member, Pampa San Mart´ ı n, 2022).
+
+--- Página 12 ---
+Garc´ ı a Barriga et al. 39
+In Mulluri, a portion of it is human-made. Everything in the village area is for irrigation, and
+those champeales are human-made. It used to be full of tolas … There is no need for transplanting
+here. It is because, for sure, the same water carries some little seeds; the water itself brings them, it
+shows itself, and it grows on its own (Adult man, Parcohaylla, 2023).
+Historical memory on management and cyclical practices
+Each August, when the bofedal has thawed and begins to regrow, families gather in the
+peatlands to carry out their seasonal tasks. Depending on the area to cover, the work could
+take anywhere from a day to a week. Since the monsoon rains occurring between De-
+cember and March destroy the irrigation infrastructure, it must be restored every year. In
+this process, herders build upon the remnants of the previous year ’ s structures, which act
+as material reminders to guide their collective labor (Figure 3). At the same time, they
+re fl ect on and invoke the memory of their ancestors who once worked on the same land. In
+the bygone era of rural communities, the irrigation of champeales was governed by a series
+of reciprocal obligations amongst families within the community ( ayni ), wherein livestock
+keepers were obliged to irrigate the champeales they utilized for grazing. Several nar-
+ratives corroborate the cultural signi fi cance of these obligations.
+In years gone by, irrigation was mandatory because people relied on it to provide food for their
+animals. Those who didn ’ t have any obligations were expected to employ a worker... Men,
+women and anyone else with animals had to participate, as they had to contribute to the task.
+(Demetrio Garc´ ı a, Mulluri community member, Pampa San Mart´ ı n, 2021)
+I believe [irrigation] is important because in the past, they had their animals, and they had to
+irrigate the champeales; it was like an obligation they had to ful fi ll. But now that people have left,
+it ’ s been left abandoned. ( ´ Angel Garc´ ı a, Mulluri, 2021)
+We have to get the water so that the bofedal turns “ green, ” otherwise it would not be possible;
+everything would be brown. It is our duty to get the pipe so we can irrigate and feed the little
+animals (Nelly Bisa, Parcohaylla, 2021).
+Work in the bofedales was organized corporately, both at the family and community
+levels. Figure 4 illustrates the form taken by a managed bofedal, with its different hy-
+draulic arrangements and spatial distribution. At the top is the spring, where the water
+feeding the bofedal originates. The spring forms a stream, which is redirected with a small
+dam (toma). From that point, water fl ows through a main channel that community elders
+called cequia , from the Spanish acequia , or irpa, which is traced on the edge of the
+bofedal. Generally, in each bofedal, there is more than one intake and more than one main
+irrigation channel. Smaller canals branch out from the main ones, distributing water inside
+the bofedal. This fl ow is regulated by the presence of gates known as “ pongos ”
+(Figure 2(e) – (f)).
+The water that feeds the bofedales originates from sacred mountains, emerging as
+springs known in Aymara as hole ( phujru ) or spring ( jalsuri ). These hold high ritual
+importance, as they are regarded as openings through which life emerges, making life in
+these territories possible. They are considered “ living ” places, capable of becoming
+
+--- Página 13 ---
+40 Journal of Social Archaeology 26(1)
+Figure 3. (a) Parcohaylla bofedal during the dry season (September 2022). The photograph shows
+community member Mrs. Nelly Bisa maintaining the irrigation ditch. (b) Anocarchave bofedal,
+located in Parcohaylla territory, during the dry season (September 2022). In the photograph, the
+Aranibar Bisa family is extracting the intake and cleaning the ditches. (c) Janure bofedal, in
+Parcohaylla, during the dry season (September 2022). Nicol´ as Brañez, a young community
+member hired by CONAF, is shown extracting the intake and cleaning the ditches. Photos: authors.
+
+--- Página 14 ---
+Garc´ ı a Barriga et al. 41
+Figure 4. The diagram illustrates the shape of a managed bofedal with its different hydraulic
+arrangements and spatial disposition. Figure: authors.
+dangerous if not treated with respect and given what they need. For this reason, during
+August, the month of the Pachamama, herders perform rituals to seek permission before
+beginning their work. Before digging, they ask forgiveness in Aymara, saying, “ Holy
+earth, Pachamama, I am going to harm you with my pick. ” They then make a small hole,
+
+--- Página 15 ---
+42 Journal of Social Archaeology 26(1)
+place an offering, and cover it, believing that no harm will come to them. These rituals also
+include offering coca leaves and alcohol, making payments ( pagos ) to Pachamama, and
+performing animal sacri fi ces ( wilanchas ).
+After the ceremonies, the intake ( sacar la toma ) had to be dismantled. Intakes function
+as small dams built transversely across rivers or streams. They are generally constructed
+with living champa (soil blocks) but may also be made of dry yareta ( Azorella compacta )
+or alignments of stones sometimes packed with straw (Figure 2(g) – (h)). These structures
+are key devices that materialize the social and spatial organization of irrigation. They also
+embody herders ’ hydraulic knowledge and serve as indicators of landscape transfor-
+mation, particularly when strong river fl ows deepen channels and force the relocation of
+intakes to higher positions. In recent decades, increased torrential rainfall associated with
+more frequent extreme weather events (Sarricolea and Romero, 2015) has produced
+dramatic landscape changes. Field observations con fi rm that streambeds have eroded,
+forming deeper gullies.
+From the intakes, the herders guide the water with their digging bar and shovel through
+the main canals (irpas) that border the bofedal. Normally, these are simple trenches dug
+into the peat or soil outside the bofedal. In Surire and Mulluri, some segments are built
+with dry stone walls (Figure 3(c)). The irpa enables irrigation, like the vascular system of a
+living being, to sustain the nurturing of water that feeds the pastures nourishing llamas and
+alpacas, and through them, the social and economic reproduction of the community as a
+whole. The irpa thus becomes an axis of nourishment, a lifeline (Ingold, 2018) that
+connects diverse agents and stimulates the fertility of the bofedal.
+From the main irpas, secondary and tertiary canals are traced. Their morphology varies:
+some are straight, others meandering; some are highly formalized and dug into the peat,
+while others follow natural runoff channels that merge with the irrigation network (see
+insets, Figure 5). Upstream, additional water is directed into the canals to increase their
+carrying capacity. These canals enable the distribution and controlled fl ooding of the
+champeal, with fl ow regulated by gates or pongos (Figure 2(e) – (f)).
+Pongos are simple devices made of stone, fragments of champa, or dry yareta. They are
+located at the points where the secondary irpas branch from the main canal. In Aymara,
+pongo means “ gate. ” These structures perform a fundamental function, as opening or
+closing them regulates the fl ow and velocity of the water. The irrigation rhythm depends
+on their operation and varies according to the characteristics of each bofedal. Larger
+bofedales are irrigated in sections, with the pongos opened and closed sequentially until
+the entire area is covered — a process repeated throughout the monsoon.
+In Surire, the canal originating from an intake called Kalaconta fl ows 4 km before
+emptying into a small reservoir, a lagoon-like structure that appears to be arti fi cial,
+covering approximately 0.36 ha. This reservoir is located in a corner within the bofedal,
+near the settlement of Ajaicota (in Aymara, qota means lagoon). In this context, both the
+water fl owing through the canal during the dry season ( Lupi pacha ) and the summer rains
+during the wet season ( Jallu pacha ) supply the lagoon.
+From there, you have to send water to fi ll that little lagoon... Yes, the canal we ’ re going to see, that
+one used to irrigate here, all of this, it would fi ll that lagoon; fl amingos used to come to that
+
+--- Página 16 ---
+Garc´ ı a Barriga et al. 43
+Figure 5. Above: Surire bofedal (green) showing hydrological modeling (light blue) and irrigation
+channels (acequias, red). Water intakes (bocatomas) are marked as white points. Below: insets
+showing acequias mapped from ground-truthing and remote sensing on a drone orthomosaic, with
+hydrological modeling from a drone-based digital elevation model. Maps: authors.
+lagoon too. Now, since it rained, there ’ s some water in it. From there, it continues to irrigate, and
+after that, it fi lls another little canal (Teodora Castro, Surire, 2022).
+Management practices involve a series of tasks carried out throughout the annual cycle,
+with the dry season, or Lupi pacha (August – November), demanding the greatest
+
+--- Página 17 ---
+44 Journal of Social Archaeology 26(1)
+dedication to the bofedal. In a typical year, the peatlands rest during the cold season
+( Thaya pacha ), while herders and their animals move to lower altitudes (Garc´ ı a 2021),
+practicing what is known as costeo mobility. Herders in Mulluri refer to this period as
+“ pasture time ” (March – August), when the rain-fed pastures grow and mature for the
+animals. When herders and their livestock return to the high puna, they open the tomas and
+clean the canals. In August, the bofedales begin to thaw and start to regrow. Irrigation
+continues day and night from September onward. Depending on their size, the bofedales
+take between two and eight days to become fully saturated. In Mulluri, local accounts
+recall that by the feast of the Virgin of the Nativity (8 September), the bofedales were
+already green. However, herders perceive that the climate has changed considerably in
+recent years, making it increasingly challenging to predict seasonal patterns. They report
+that frosts now start as early as April and last up until November, disrupting the timing of
+traditional practices. In response, herders remain fl exible and adapt their management
+strategies to the particular conditions of each cycle (Figure 6).
+Figure 6. Annual cycle of the bofedal, with different practices during the dry season ( Lupi pacha ),
+rain season ( Jallu pacha ), and cold season ( Thaya pacha ). Figure: authors.
+
+--- Página 18 ---
+Garc´ ı a Barriga et al. 45
+Concluding remarks
+Centuries of collective and cyclical labor have produced a pastoral landscape where
+bofedales remain visible as enduring traces of the region ’ s herding history. Rather than
+pristine or purely natural formations, these wetlands have been continuously shaped
+through cosmopractices: social and ritual actions that involve relationships and agencies
+extending beyond the human. Herders and camelids have been central to the creation and
+persistence of these ecosystems, while their maintenance also relies on other beings within
+the territory, including sacred mountains, herd guardians, Pachamama, water, and veg-
+etation, who offer their gifts so that life may continue.
+Through these relationships, herders extend the social world to encompass the non-
+human, nurturing reciprocal bonds and commitments enacted through ritual acts, espe-
+cially during August, the month dedicated to Pachamama and the time when interventions
+and irrigation in the bofedales begin.
+From an archaeological perspective, these practices have left enduring material im-
+prints on the landscape, where human and non-human agencies are entangled in the
+making of hydraulic structures and ecological forms. The integration of geomorphological
+and hydrological patterns shows that the canal networks incorporate natural runoff and
+watercourses, making visible the close articulation between human intention and envi-
+ronmental process. Rather than re fl ecting a strict separation between nature and culture,
+the bofedales embody their ongoing entanglement, demonstrating the futility of drawing
+clear boundaries between what is natural and what is human-made.
+The role of humans, herds, and other beings that inhabit the bofedales invites us to
+consider nature not as a fi xed or static entity, but as something continually produced and
+reproduced through ongoing interactions and movements. A member of the Mulluri
+Aymara community exempli fi es this by stating:
+The bofedal is a vast ecosystem where every being plays a role. That is its essence. Wild animals,
+those we raise, and we ourselves are all integral parts of this system. This re fl ects a worldview in
+which we are all interconnected and dependent on one another — this is simply the way it is (Adult
+man, Mulluri community member, Azapa Valley, 2021).
+The managed and created bofedales include irrigation features built by herders to
+support their upkeep and water distribution. Their vitality endures as long as these socio-
+hydrological processes and reciprocity between human and non-human agents remain
+connected to the living cultural practices of exchange and care (Lema, 2014; Van Kessel
+and Condori, 1992). The Aymara concepts of irpa and uywaña embody these ideas of fl ow
+and interconnection. Both are central to the cosmopraxis (De Munter, 2016) and to the
+language that expresses the nurturing (crianza) of the bofedales.
+The network of relationships that emerges in the bofedales establishes a continuity
+between social and ecological spheres, where human sociability involves and relies upon
+interconnections with the non-human entities that also inhabit and “ work ” in the bofedal.
+The water that irrigates the bofedal emerges from the subterranean world at highly rit-
+ualized points ( jasuri, pujhru ). From there, it is captured and directed by herders through a
+hierarchically organized canal system, which distributes water across the bofedal like
+
+--- Página 19 ---
+46 Journal of Social Archaeology 26(1)
+veins in a living body. Just as animals and people have their nurturing spaces in corrals and
+homes, water is “ nurtured ” within these canals, with its fl ow and rhythm regulated by the
+opening and closing of pongos. Following Ingold (2018), these processes highlight the
+relational and dynamic interactions that sustain the bofedal as a socio-ecological system.
+When these movements are interrupted, the lifecycle of the bofedales is transformed
+and can be fully dismantled, even leading to the death of the peat. The living body stops
+irrigating itself, becomes sick, and gradually dies. In this work, we have explained how the
+geopolitical and socio-economic phenomena of the 20th century triggered massive and
+accelerated migrations of the local population, who had for centuries or millennia im-
+plemented diverse practices for managing the bofedales. Neglect and drought have altered
+the pastoral landscape, resulting in signi fi cant degradation or demise of extensive tracts of
+bofedales, particularly in Mulluri, where livestock rearing is no longer practiced.
+By recognizing nature ’ s ongoing transformation through the intertwining and per-
+meation of its various components, this perspective offers a nuanced understanding of the
+relationships between humans and the non-humans in the production of nature. It also
+highlights the need for more integrated and collaborative approaches to environmental
+management and conservation efforts, particularly those fostered by government
+institutions.
+The intricate and long trajectory of bofedales, as remarkably co-created ecosystems,
+demonstrates the profound signi fi cance of ancestral knowledge and technologies. Such
+information is an indispensable toolbox, equipping us to confront the ever-intensifying
+challenges posed by the water crisis and the impacts of climate change. However, these
+traditional practices are often/historically overlooked in public policies, particularly in the
+face of extractive industries whose activities threaten these ecosystems (Prieto, 2015).
+Conservation measures frequently rely on exclusionary approaches, disregarding the
+agency of herders in the production and conservation of bofedales (Garc´ ı a et al., 2021). It
+is therefore crucial to make visible and incorporate the language associated with these
+nurturing actions, as it introduces terms that foster a cosmopraxis, decentering anthro-
+pocentric and economistic perspectives that have negatively impacted these ecosystems.
+Addressing these challenges requires a political shift that recognizes and integrates
+herders ’ knowledge and practices into conservation and development strategies.
+ORCID iD
+Adri´ an Oyaneder  https://orcid.org/0000-0001-9526-9077
+Funding
+The authors disclosed receipt of the following fi nancial support for the research, authorship, and/or
+publication of this article: This study is supported by the following Agencia Nacional de Inves-
+tigación y Desarrollo (ANID) projects: Fondecyt de Iniciación 11200212, Fondecyt Postdoctorado
+3210151, Fondecyt Regular 1201527, MILENIO NCS2022_009, and MILENIO NCS2022_024.
+Declaration of con fl icting interests
+The authors declared no potential con fl icts of interest with respect to the research, authorship, and/or
+publication of this article.
+
+--- Página 20 ---
+Garc´ ı a Barriga et al. 47
+Supplemental Material
+Supplemental material for this article is available online.
+References
+Arnold D and Yapita J (1998) R´ ı o de vellón, r´ ı o de canto: Cantar a los animales, una po´ etica andina
+de la creación . La Paz: Instituto de Lengua y Cultura Aymara.
+Arroyo-Kalin M (2015) Landscaping, landscape legacies, and landesque capital in pre-Columbian
+Amazonia. In: Isendahl C and Stump D (eds) The Oxford Handbook of Historical Ecology and
+Applied Archaeology . Oxford: Oxford University Press.
+Bugallo L and Tomasi J (2012) Crianzas mutuas. El trato a los animales desde las concepciones de
+los pastores puneños (Jujuy, Argentina). Revista Española de Antropolog´ ı a Americana 42(1):
+205 – 224.
+Castro V (2009) De ´ ı dolos a santos. Evangelización y religión andina en los Andes del sur . Santiago:
+Centro de Investigaciones Diego Barros Arana and DIBAM.
+Castro L (2010) Miner´ ı a de altura y din´ amicas de población boliviana e ind´ ı gena en el norte de Chile
+(Tarapac´ a 1880-1930). Si Somos Americanos, Revista de Estudios Transfronterizos 10(2):
+129 – 145.
+Comunidad de Santo Tom´ as de Isluga (2018) Antecedentes y documentos relacionados con sus
+t´ ı tulos de dominio . Pisagua: Imprenta de El Comercio.
+Damonte G (2011) Construyendo territorios. Narrativas territoriales aymaras contempor´ aneas .
+Lima: GRADE, CLASCO.
+De Munter K (2016) Ontolog´ ı a relacional y cosmopraxis, desde los Andes. Visitar y conmemorar
+entre familias aymara. Chungara Revista de Antropolog´ ı a Chilena 48(4): 629 – 644.
+Denevan WM (2001) Cultivated Landscapes of Native Amazonia and the Andes . Oxford: Oxford
+University Press.
+Descola P (2012) M´ as all´ a de la naturaleza y la cultura . Buenos Aires: Ediciones Amorrotou.
+Domic AI, Capriles JM, Escobar-Torrez K, et al. (2018) Two thousand years of land-use and
+vegetation evolution in the Andean highlands of northern Chile inferred from pollen and
+charcoal analyses. Quaternary 1(3): 32.
+Dransart P (2002) Earth, water, fl eece and fabric. An ethnography and archaeology of Andean
+camelid herding . London: Routledge.
+Eisenberg A (2013) Aymara Indian Perspectives on Development in the Andes . Tuscaloosa: The
+University of Alabama Press.
+Elizaga J (2022) Traer los rebaños a casa: el Señalakuy como instancia de sociabilización humano-
+animal. In: Bugallo L, Dransart P and Pazzarelli F (eds) Animales humanos, humanos animales.
+Relaciones y transformaciones en mundos ind´ ı genas sudamericanos . Buenos Aires: An-
+tropofagia Editorial, 187 – 211.
+Erickson CL (2018) The domesticated landscapes of the Andes. In: Seligmann LJ and Fine-Dare KS
+(eds). The Andean World . London: Routledge, 29 – 43.
+Fern´ andez G (1995) Ofrenda, ritual y terapia: las mesas aymaras. Revista Española de Antropolog´ ı a
+Americana 25: 153 – 180.
+Flores Ochoa J (1977) Pastores de alpacas de los Andes. In: Flores Ochoa J (ed) Pastores de puna.
+Uywamichiq punarunakuna . Lima: Instituto de Estudios Peruanos, 15 – 49.
+
+--- Página 21 ---
+48 Journal of Social Archaeology 26(1)
+Garc´ ı a M (2021) Otra costa hay en la puna. Con fi guraciones del espacio ind´ ı gena y movilidad
+pastoril en los Andes centro-sur . Santiago: Qillqa Ediciones.
+Garc´ ı a M, Gili F, Echeverr´ ı a J, et al. (2018) K´oa: entidad andina sagrada de una planta y otros
+cuerpos. Una posibilidad interpretativa para ofrendas funerarias en la arqueolog´ ı a de Arica.
+Chungara Revista de Antropolog´ ı a Chilena 50(4): 537 – 556.
+Garc´ ı a M, Prieto M and Kalazich F (2021) The protection of the mountain ecosystems of the
+southern central Andes: Tensions between Aymara herding practices and conservation policies.
+eco.mont 13(1): 22 – 30.
+Garc´ ı a M, Sitzia L, Oyaneder A, et al. (2024) Posible sistema de acequias en el bofedal de Surire,
+Andes centro sur: ¿pr´ acticas de manejo y riego del bofedal durante el periodo Formativo? Paper
+presented at the XI Encuentro de Teor´ ı a Arqueológica de Am´ erica del Sur (TAAS), Huaraz,
+Per´ u, 5 – 10 August 2024.
+Gundermann H (2018) Comunidad andina y procesos sociohistóricos en el norte de Chile . Arica:
+Ediciones Universidad de Tarapac´ a.
+Ingold T (2011) Being Alive: Essays on Movement, Knowledge, and Description . London:
+Routledge.
+Ingold T (2018) La vida de las l´ ı neas . Santiago: Ediciones Universidad Alberto Hurtado.
+Izquierdo AE, Foguet J and Ricardo Grau H (2015) Mapping and spatial characterization of Ar-
+gentine High Andean peatbogs. Wetlands Ecology and Management 23: 963 – 976.
+Keller C (1946) El Departamento de Arica . Santiago: Ministerio de Econom´ ı a y Comercio.
+Kent J (1988) El sur m´ as antiguo: revisión de la domesticación de cam´ elidos andinos. In: Flores
+Ochoa J (ed). Llamichos y Paqocheros. Pastores de Llamas y Alpacas . Cusco: Editorial
+Universitaria, 23 – 35.
+Laime T, Lucero V and Arteaga M (2020) Payani Arupirwa: Diccionario bilingüe Aymara-Cas-
+tellano/Castellano-Aymara . La Paz: Plural Editores.
+Lane K (2009) Engineered highlands: the social organization of water in the ancient north-central
+andes (AD 1000 – 1480). World Archaeology 41(1): 169 – 190.
+Lane K (2014) Water technology in the andes. In: Selin H (ed) Encyclopaedia of the History of
+Science, Technology, and Medicine in Non-Western Cultures . Dordrecht: Springer, 1 – 24.
+Lane K, Beresford-Jones D, Coll L, et al. (2022) Pre-Hispanic anthropogenic wetlands in the upper
+Ica drainage, south-central Andes: Dating and context. Antiquity 96(389): 1251 – 1271.
+Lema V (2014) Hacia una cartograf´ ı a de la crianza: domesticidad y domesticación en comunidades
+andinas. Espaço Amer´ ı ndio 8(1): 59 – 82.
+Mart´ ı nez G (1989) Espacio y Pensamiento I. Andes Meridionales . La Paz: Hisbol.
+Meneses RI, Domic A, Beck S, et al. (2019) Bofedales altoandinos. Un oasis en la puna . La Paz:
+Herbario Nacional de Bolivia.
+N´ uñez L and Santoro C (1988) Cazadores de la puna seca y salada, norte de Chile. Estudios
+Atacameños 9: 11 – 60.
+Palacios F (1977) Pastizales de regad´ ı o para alpacas. In: Flores Ochoa J (ed) Pastores de puna.
+Uywamichiq punarunakuna . Lima: Instituto de Estudios Peruanos, 155 – 170.
+Prieto M (2015) Privatizing water in the Chilean Andes: the case of las vegas de Chiu-Chiu.
+Mountain Research and Development 35(3): 220 – 229.
+Quesada M and Lema V (2009) Los potreros de Antofagasta. Trabajo ind´ ı gena y propiedad ( fi nales
+del siglo XVIII y comienzos del XIX). Andes 22(2): 201 – 229.
+
+--- Página 22 ---
+Garc´ ı a Barriga et al. 49
+Rivière G (1982) Sabaya, structures socio-´ economiques et repr´ esentations symboliques . PhD
+Thesis, ´ Ecole des Hautes ´ Etudes en Sciences Sociales, France.
+Ruthsatz B (2012) Vegetación y ecolog´ ı a de los bofedales altoandinos de Bolivia. Phytoecolog´ ı a 42:
+133 – 179.
+Sarricolea P and Romero H (2015) Variabilidad y cambios clim´ aticos observados y esperados en el
+Altiplano del norte de Chile. Revista de Geograf´ ı a, Norte Grande 62: 169 – 183.
+Sitzia L, Osorio D, Garc´ ı a B M, et al. (2025) Long-term occupation of bofedales ecosystems by
+high-Andean hunter-gatherers in the Dry Puna, northern Chile. Antiquity 99(404): e11.
+Squeo FA, Warner BG, Aravena R, et al. (2006) Bofedales: High-altitude peatlands of the central
+Andes. Revista Chilena de Historia Natural 79(2): 245 – 255.
+Troncoso A, Armstrong F and Moya F (2022) Ontolog´ ı a, modos de existencia y tecnolog´ ı as:
+Propuestas para un acercamiento relacional en arqueolog´ ı a. Bolet´ ı n de la Sociedad Chilena de
+Arqueolog´ ı a 52: 81 – 104.
+van Kessel J and Condori D (1992) Criar la vida: tecnolog´ ı a y trabajo en el mundo andino .
+Santiago: Vivarium.
+Verzijl A and Quispe SG (2013) The system nobody sees: irrigated wetland management and alpaca
+herding in the Peruvian andes. Mountain Research and Development 33: 280 – 293.
+Villagr´ an C and Castro V (1997) Etnobot´ anica y manejo ganadero de las vegas, bofedales y
+quebradas en el Loa superior, Andes de Antofagasta, segunda región, Chile. Chungar´ a 29(2):
+275 – 304.
+Villagr´ an C, Castro V and S´ anchez G (1999) La tradición altipl´ anica: Estudio etnobot´ anico en los
+Andes de Iquique, primera región, Chile. Chungara Revista de Antropolog´ ı a Chilena 31(1):
+81 – 186.
+Vining B and Williams PR (2020) Crossing the western Altiplano: the ecological context of ti-
+wanaku migrations. Journal of Archaeological Science 113: 105046.
+White-Nockleby C, Prieto M, Yager K, et al. (2021) Understanding bofedales as cultural landscapes
+in the central Andes. Wetlands and Indigenous People 41: 102.
+Yager K, Resnikowski H and Halloy S (2008) Pastoreo y variabilidad clim´ atica en el Parque
+Nacional de Sajama, Bolivia. Pirineos 163: 97 – 109.
+Yager K, Prieto M and Meneses RI (2021) Reframing pastoral practices of bofedal management to
+increase the resilience of Andean water towers. Mountain Research and Development 41(4):
+A1 – A9.
+Author biographies
+Magdalena Garc´ ı a Barriga is a researcher who obtained her BA in Archaeology from
+the Universidad de Chile, followed by an MA and a PhD jointly awarded by the Uni-
+versidad Católica del Norte and the Universidad de Tarapac´ a. She has participated in
+numerous research projects and multidisciplinary collaborative initiatives in the Andean
+Puna and the Atacama Desert. Her areas of interest include historical ecology, pastoral
+mobility practices, nature management, irrigation archaeology, the history of the Aymara
+people, and interculturality. She currently works in the Collections Area of the Museo
+Chileno de Arte Precolombino and acts as a main researcher for the Millennium Nucleus
+project on Applied Historical Ecology for Arid Forests (AFOREST, Chile).
+
+--- Página 23 ---
+50 Journal of Social Archaeology 26(1)
+Adri´ an Oyaneder is a Database Manager in the Department of Archaeology and History
+at the University of Exeter (UK), working for the AHRC-funded Biocultural HIVE
+project. His work integrates geomatics, remote sensing, and digital infrastructures to
+advance archaeological research, with a regional focus on the South Central Andes and the
+Atacama Desert. Trained in Digital Humanities, he develops web-based databases and
+geospatial platforms that connect cultural data with analytical tools. His broader research
+practice is grounded in collaborative and community-engaged approaches, developed
+through long-term partnerships with local communities across South America and, more
+recently, South Asia.
+Luca Sitzia is an Assistant Professor in Archaeology at the University of Tarapac´ a and
+Director of the Laboratory for Archaeometric Research and Analyses (LAIA). He is a
+geoarchaeologist whose research focuses on site formation, archaeological stratigraphy,
+and the application of geoarchaeological methods in anthropological and social research.
+He also contributes to discussions on landscape transformation through the use of ge-
+oarchaeological analysis. His research focuses on the South Central Andes, alongside
+collaborations on Paleolithic sites in southwestern France.
+Manuel Prieto holds a PhD in Geography from the University of Arizona. He is a Full
+Professor in the Department of Historical and Geographical Sciences at the University of
+Tarapac´ a (Arica, Chile). He also serves as Director of the Millennium Nucleus for Andean
+Peatlands (AndesPeat) and Principal Investigator of the LiOness project. His current
+research lies within the emerging fi eld of Critical Physical Geography, focusing on the
+socioecological transformations of the Atacama Desert.
