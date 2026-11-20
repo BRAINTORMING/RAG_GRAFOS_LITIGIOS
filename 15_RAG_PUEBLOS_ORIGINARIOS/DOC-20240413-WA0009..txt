@@ -1,0 +1,1652 @@
+--- Página 1 ---
+Buenas prácticas para un manejo sostenible de la
+ganadería camélida en el territorio altoandino
+Guía de campo
+
+--- Página 2 ---
+[Sin texto reconocible]
+
+--- Página 3 ---
+Buenas prácticas para un manejo sostenible de
+la ganadería camélida en el territorio altoandino
+Guía de campo
+Diego Araníbar
+Jorge Gonnet
+Walter Ramírez
+Antonio Mamani
+Giselle Placencia
+Javier Salinas
+Corporación de Estudios y Desarrollo Norte Grande (CNG)
+Publicado por
+la Organización de las Naciones Unidas para la Alimentación y la Agricultura
+y
+el Ministerio de Agricultura de Chile
+Santiago, 2024
+
+--- Página 4 ---
+Cita requerida:
+Araníbar, D., Gonnet, J., Ramírez, W., Mamani, A., Placencia, G. y Salinas J. 2024. Buenas prácticas para un manejo sostenible de la ganadería camélida en el
+territorio altoandino - Guía de Campo. Santiago, FAO y MINAGRI. https://doi.org/10.4060/cc7979es
+Las denominaciones empleadas en este producto informativo y la forma en que aparecen presentados los datos que contiene no implican, por parte de la
+Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) juicio alguno sobre la condición jurídica o nivel de desarrollo de países,
+territorios, ciudades o zonas, ni sobre sus autoridades, ni respecto de la demarcación de sus fronteras o límites. La mención de empresas o productos de fabri-
+cantes en particular, estén o no patentados, no implica que la FAO los apruebe o recomiende de preferencia a otros de naturaleza similar que no se mencionan.
+ISBN: 978-92-5-138204-2
+© FAO, 2024
+Algunos derechos reservados. Esta obra se distribuye bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 3.0 Organizaciones intergu-
+bernamentales (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo/deed.es).
+De acuerdo con las condiciones de la licencia, se permite copiar, redistribuir y adaptar la obra para fines no comerciales, siempre que se cite correctamente,
+como se indica a continuación. En ningún uso que se haga de esta obra debe darse a entender que la FAO refrenda una organización, productos o servicios
+específicos. No está permitido utilizar el logotipo de la FAO. En caso de adaptación, debe concederse a la obra resultante la misma licencia o una licencia
+equivalente de Creative Commons. Si la obra se traduce, debe añadirse el siguiente descargo de responsabilidad junto a la referencia requerida: “La presente
+traducción no es obra de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no se hace responsable del contenido
+ni de la exactitud de la traducción. La edición original en [idioma] será el texto autorizado”.
+Todo litigio que surja en el marco de la licencia y no pueda resolverse de forma amistosa se resolverá a través de mediación y arbitraje según lo dispuesto en el
+artículo 8 de la licencia, a no ser que se disponga lo contrario en el presente documento. Las reglas de mediación vigentes serán el reglamento de mediación
+de la Organización Mundial de la Propiedad Intelectual http://www.wipo.int/amc/en/mediation/rules y todo arbitraje se llevará a cabo de manera conforme
+al reglamento de arbitraje de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional (CNUDMI).
+Materiales de terceros. Si se desea reutilizar material contenido en esta obra que sea propiedad de terceros, por ejemplo, cuadros, gráficos o imágenes, cor-
+responde al usuario determinar si se necesita autorización para tal reutilización y obtener la autorización del titular del derecho de autor. El riesgo de que se
+deriven reclamaciones de la infracción de los derechos de uso de un elemento que sea propiedad de terceros recae exclusivamente sobre el usuario.
+Ventas, derechos y licencias. Los productos informativos de la FAO están disponibles en la página web de la Organización (http://www.fao.org/publications/
+es) y pueden adquirirse dirigiéndose a publications-sales@fao.org. Las solicitudes de uso comercial deben enviarse a través de la siguiente página web: www.
+fao.org/contact-us/licence-request. Las consultas sobre derechos y licencias deben remitirse a: copyright@fao.org.
+Fotografía de la portada y contraportada: ©FAO/Carlos Pallacan y © FAO/Corporación Norte Grande.
+
+--- Página 5 ---
+Índice
+Presentación iv
+Agradecimientos vi
+I. Introducción 1
+II. Manejo comunitario y adaptativo de los humedales altoandinos 4
+2.1 Tipología y características de los humedales altoandinos presentes en el altiplano 5
+2.2 Prácticas tradicionales y su importancia para un buen manejo y mantención de los humedales 10
+2.3 Sobrepastoreo y acciones para mitigar sus impactos 17
+2.4 Capacidad de carga como estrategia de planificación predial 19
+2.5 Manejo sostenible del pastoreo sobre las pasturas naturales 23
+2.5.1 Rotación de pastoreo 24
+2.5.2 Instalación de cercos 25
+III.Manejo ganadero camélido: reforzando tradiciones e incorporando innovaciones 26
+3.1 Patrimonio genético de la ganadería camélida 27
+3.2 Nombres y colores tradicionales 30
+3.3 Problemas derivados de un manejo ganadero inapropiado 35
+3.3.1 Defectos congénitos o malformaciones 35
+3.3.2 Enfermedades más comunes de los camélidos en zonas ganaderas 37
+3.4 Mecanismos para el manejo sanitario 40
+3.4.1 Manejo sanitario mediante medicina veterinaria 41
+3.4.2 Manejo sanitario mediante medicina tradicional 40
+3.5 Acciones para un manejo productivo 42
+3.5.1 Registro genealógico de camélidos 44
+3.5.2 Empadre controlado 46
+Recomendaciones para incorporar en programas de extensión pecuaria camélida 48
+V. Comentarios finales 52
+VI. Glosario 54
+VII. Bibliografía 56
+iii
+
+--- Página 6 ---
+Cuadros Figuras
+Guía de campo
+Cuadro 1. Principales características de los tipos fisonómicos Figura 1. Bofedal de Turuna. Ubicado en las faldas del volcán
+de vegas y bofedales 6 Sillajhuay, en la comuna de Colchane, se destaca por su manejo
+tradicional de las aguas superficiales 7
+Cuadro 2. Proceso de cálculo de capacidad de carga sobre el predio
+piloto Temblor Tijrata, en la localidad de Cultane 20 Figura 2. Cojin, puku o pako pako (Oxychloe andina) 7
+Cuadro 3. Proceso de cálculo de capacidad de carga del predio Figura 3. Pajonal hídrico en Cancosa, comuna de Pica 8
+piloto Temblor Tijrata, en la localidad de Cultane 21
+Figura 4. Borde de vega salina con presencia de plantas en placa
+Cuadro 4. Defectos congénitos de camélidos domésticos 36 en estancia Utalakata, localidad de Guallatire, comuna de Putre 9
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+Cuadro 5. Medicinas tradicionales para la curación y tratamiento Figura 5. Esquema de prácticas de manejo tradicional de
+de enfermedades internas y externas 41 humedales altoandinos, identificadas en las regiones de Arica
+y Parinacota y de Tarapacá 10
+Cuadro 6. Propuestas manejo reproductivo y sanitario de c
+amélidos sudamericanos 50 Figura 6. Construcción de canal de regadío en el sector de
+Puquio, en Guallatire, comuna de Putre 11
+Cuadro 7. Consideración de inversiones e infraestructura
+focalizada en concursos públicos de las instituciones del Estado 51 Figura 7. Limpieza del río Caquena (estancia Iscacollo,
+Caquena), comuna de Putre 12
+Figura 8. Rectificación de canal con champeras, azadón y
+serrucho (sector Jalsure, Cancosa), comuna de Pica 12
+Figura 9. Construcción de dique en humedal de Huasco Lípez,
+comuna de Pica. Dique en funcionamiento en humedal Central
+Citani, comuna de Colchane 13
+Figura 10. Trasplante de vegetación en sacos con champas de
+q’eña en estancia Surapalca II, Tacora, comuna de General Lagos 14
+iv
+
+--- Página 7 ---
+Figura 11. Desecamiento de pozas en estancia Chacorpuju, Figura 23. Los potreros aislados para producción de forraje y
+Parinacota, comuna de Putre 14 posterior ingreso del ganado facilitan los manejos estacionales 25
+Figuras 12. Limpieza y ensanchamiento de vertientes de un bofedal Figura 24. Ejemplar de llama raza K’ara, criadero de camélidos
+en la alta cordillera, en la localidad de Cultane, comuna de Huara 15 Layrja Phura, Ancovinto, comuna de Colchane 28
+Figura 13. Limpieza y ensanchamiento de vertientes de un bofedal Figura 25. Ejemplar de raza Thampulli, Sector Ch’oto Collo,
+en la alta cordillera, en la localidad de Cultane, comuna de Huara 15 Lirima, comuna de Pica 28
+Figura 14. Volteo de champas en bofedal de Cancosa, comuna Figura 26. Ejemplar de alpaca raza Huacaya, estancia Bocatoma,
+de Pica (sector Jalsure) 16 Visviri, comuna de General Lagos 29
+Figura 15. Esquema de los impactos que genera el sobrepastoreo Figura 27. Ejemplar de raza Suri, estancia Chacorpuju, Parinacota,
+en el territorio altoandino 17 comuna de Putre 29
+Figura 16. Erosión de los suelos en bofedal de Visviri, comuna de Figura 28. Ejemplar de Ch’ara Kunturi, criadero de camélidos
+General Lagos 18 Layrja Phura, Ancovinto, comuna de Colchane 30
+Figura 17. Identificación de signos de sobrepastoreo en bofedal Figura 29. Ejemplar de Wanaku, criadero de camélidos Layrja
+de Visviri, comuna de General Lagos 18 Phura, Ancovinto, comuna de Colchane 31
+Figura 18. Instalación de celda de exclusión en Bofedal de Visviri, Figura 30. Ejemplar de Parina, criadero de camélidos Layrja
+comuna de General Lagos 20 Phura, Ancovinto, comuna de Colchane 31
+Figura 19. Celda de exclusión después de temporada invernal, Figura 31. Ejemplar de Ch’umphi T’axllu, estancia Surapalca II,
+localidad Cancosa, comuna de Pica 21 comunidad de Angela Blas de Tacora, comuna de General Lagos 32
+Figura 20. Plan de manejo del pastoreo para conservar los Figura 32. Ejemplar de Ch’umphi Qiwlla, estancia Surapalca II,
+bofedales, considerando la capacidad de carga como el factor comunidad de Angela Blas de Tacora, comuna de General Lagos 32
+principal para su uso más sostenible 22
+Figura 33. Ejemplar de color blanco (Janq’u), criadero de
+Figura 21. Pastoreo intensivo de alpacas Huacaya en el Bofedal camélidos Layrja Phura, Ancovinto, comuna de Colchane 33
+de Visviri, comuna de General Lagos 23
+Figura 34. Ejemplar de color blanco (Quyllu), Estancia Bocatoma,
+Figura 22. Pastoreo rotativo en potreros con divisiones, para el Visviri, comuna de General Lagos 33
+control de sobrecarga animal 24
+v
+
+--- Página 8 ---
+Figura 35. Ejemplar de color café claro (Wari) 34
+Figura 36. Ejemplar de vicuña infectado por la sarna (Karachi),
+Guía de campo Laguna del Huasco, comuna de Pica 37
+Figura 37. Aplicación intramuscular 40
+Figura 38. Aplicación intravenosa 40
+Figura 39. Aplicación subcutánea 40
+Figura 40. Aplicación oral 40
+Figura 41. Características básicas de especie llama de raza
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+Thampulli en la localidad de Lirima, comuna de Pica 43
+Figura 42. Características básicas de especie llama de raza K’ara,
+en el criadero Layrja Phura, localidad de Ancovinto, comuna de
+Colchane 43
+Figura 43. Alpacas de raza Huacaya. Ejemplar de estancia
+Bocatoma, Visviri, comuna de General Lagos 43
+Figura 44. Alpaca de raza Suri, bofedal de Visviri, comuna de
+General Lagos 43
+Figura 45. Ejemplo de ficha de registro individual de camélidos 44
+Figura 46. Llamas en selección de plantel base en la estancia
+Manzano, Visviri, comuna de General Lagos 45
+Figura 47. Alpacas Huacaya en estancia Bocatoma, Visviri,
+comuna de General Lagos 45
+Figura 48. Empadre controlado 46
+vi
+
+--- Página 9 ---
+Presentación
+vii
+©FAO/Carlos Pallacan
+
+--- Página 10 ---
+Presentación
+Guía de campo
+Según la Organización de las Naciones Unidas para la comprende las comunas de Putre y General Lagos en la región de
+Alimentación y la Agricultura (FAO), los Sistemas importantes Arica y Parinacota; las comuna de Huara, Camiña, Colchane y Pica
+del patrimonio agrícola mundial (SIPAM) son agroecosistemas en la región de Tarapacá; y las comunas de Calama (sector Alto
+habitados por comunidades que viven en una relación intrínseca Loa) y San Pedro de Atacama en la región de Antofagasta.
+con su territorio. Estos sitios, en constante evolución, son
+sistemas resilientes caracterizados por una agrobiodiversidad En ambos territorios, mujeres y hombres, a través de la
+valiosa, conocimientos tradicionales y ancestrales, culturas y agricultura, la ganadería y la cosecha de productos de los
+paisajes invaluables, gestionados de manera sostenible por ecosistemas naturales, han trabajado la tierra por generaciones,
+agricultores, agricultoras, ganaderos, ganaderas, pescadores, conservando las técnicas ancestrales de comunidades Mapuche
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+pescadoras y poblaciones forestales, de manera que contribuyan y campesinas en el caso del sur y Aymara, Quechua y Lickanantai
+a sus medios de vida, subsistencia y seguridad alimentaria. A en el caso del norte, manteniendo vivas sus tradiciones, cultura,
+través del enfoque SIPAM, FAO ha reconocido más de 70 sitios en sistemas productivos, junto a su agrobiodiversidad.
+todo el mundo.
+La ganadería camélida es una práctica extensiva tradicional y
+Un sitio SIPAM o SIPAN (Sistemas Importantes del Patrimonio ancestral que data de tiempos prehispánicos, y que consiste en
+Agrícola Nacional) debe cumplir con ciertos criterios que lo hagan la reproducción, cuidado y pastoreo de camélidos domesticados,
+merecedor de esta distinción. No solo se reconoce un sistema como llamas ( Lama glama ) y alpacas ( Vicugna pacos ); que hacen
+productivo y un territorio, sino también a la comunidad en su uso de la vegetación de vegas y pajonales del piso altiplánico.
+conjunto; haciendo hincapié en sus valores patrimoniales y
+culturales para el resguardo de la biodiversidad a nivel mundial y El manejo sostenible de esta práctica, desarrollada por las
+las características únicas que posee. comunidades indígenas en el territorio Altoandino, busca
+preservar los recursos naturales y promover la subsistencia de las
+En Chile actualmente se trabaja en dos territorios que cumplen comunidades locales contribuyendo a la seguridad y soberanía
+con los criterios de sitio SIPAN: el territorio Cordillera Pehuenche alimentaria específicamente en las comunas de Putre, General
+que se extiende entre las comunas de Alto Biobío en la región Lagos, Huara, Camiña, Colchane, Pica, Calama (localidades
+del Biobío; Lonquimay, Melipeuco y Curarrehue, en la región de de Caspana y Toconce) y San Pedro de Atacama. Este sistema
+La Araucanía; y el territorio Altoandino y Precordillera Norte que agropecuario desempeña un papel importante en la adaptación
+viii
+
+--- Página 11 ---
+al cambio climático, ya que la diversidad genética y la capacidad Agradecemos a la Corporación Norte Grande por este trabajo,
+adaptativa de los camélidos son fundamentales para enfrentar los una guía de buenas prácticas sostenibles de la ganadería
+desafíos climáticos. de camélidos orientada a los ganaderos, ganaderas y los
+profesionales extensionistas que están presentes en el territorio
+En este contexto, la Corporación Norte Grande (CNG) junto al
+Alto Andino. Asimismo, se reconoce la labor de las instituciones
+equipo del territorio Altoandino y Precordillera Norte de SIPAN,
+gubernamentales lideradas por el Ministerio de Agricultura, como
+han trabajado en colaboración con actores locales para elaborar
+la Oficina de Estudios y Políticas Agrarias (ODEPA), el Instituto
+esta publicación. En esta guía se destaca la importancia de
+de Desarrollo Agropecuario (INDAP), la Corporación Nacional
+proteger este patrimonio agrícola y ganadero a través de prácticas
+Forestal (CONAF) y la Corporación Nacional de Desarrollo
+sostenibles y adaptativas al territorio donde se desarrolla, como
+Indígena (CONADI), que han impulsado este proyecto y han
+un testimonio de la sabiduría arraigada en las tradiciones de
+demostrado su apoyo a las comunidades que trabajan para
+las comunidades del altiplano chileno, que sustenta la vida de
+conservar el patrimonio agrícola y transmitir su conocimiento a
+generaciones pasadas, presentes y futuras.
+las generaciones futuras.
+ix
+
+--- Página 12 ---
+Guía de campo
+Agradecimientos
+Los autores expresan su agradecimiento a las personas que formaron parte del conjunto de estancias,
+las que cumplieron el rol de predios pilotos para desarrollar esta propuesta de plan de manejo en
+el territorio altoandino vinculado a la Red de Sistemas Importantes del Patrimonio Agrícola Nacional
+(SIPAN). En especial se agradece a quienes compartieron sus saberes y permitieron recopilar y poner
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+en valor su patrimonio ancestral: a Francisco Manzano, Rolando Manzano Butrón, Rolando Manzano
+Rada, Regina Mamani, Marcelino Mamani, Carmen Paco, Reynaldo Villanueva, Felipa Alave, Alejandra
+Tapia, Angelino Huanca, Julia Flores, Darío Marca, Elvira Valdés, Isabel Villalobos, Arturo Villalobos
+y Alfonso Flores, de la comuna de General Lagos; a Domitila Huaylla, Antonio Calle, Martín Huanca
+(Q.E.P.D.), Rosa Jiménez y familia, Catalina Jiménez y familia, de la comuna de Putre; a la familia Gómez
+Mamani de Ancovinto; a Lucía Ticuna, Simón Mamani, Teodoro Mamani, Ambrosia Ticuna y Eulogia
+Quispe, de la comuna de Colchane; a Eduarda Castro, Simeón Moscoso, Pedro Lucas, Lino Lucas,
+Margarita Lucas, Elsa Cáceres, Edwin Espinoza y Héctor Barreda, de la comuna de Pica; y a Eleuterio
+Vilca de la comuna de Huara.
+©xxx
+x
+
+--- Página 13 ---
+I . Introducción
+xi
+©FAO/Carlos Pallacan
+
+--- Página 14 ---
+I. Introducción
+Guía de campo
+Esta guía de campo trata sobre el manejo tradicional del ecosistema. La ganadería camélida es la columna La guía tiene tres capítulos sobre:
+de humedales altoandinos y ganadería camélida, de vertebral de las culturas andinas. En el caso del
+i. el manejo comunitario y adaptativo de los humedales
+llamas y alpacas, en el altiplano de Chile. La finalidad de altiplano chileno, la mayor parte de las personas que
+altoandinos, que en lo principal aborda las tipologías,
+este manual es compartir manejos de los bofedales, del se dedican a la producción de ganadería son parte del
+prácticas tradicionales de manejo y propuestas de
+pastoreo y de los rebaños que fueron registrados en el pueblo Aymara. Este pueblo, con una amplia vocación
+manejo sostenible;
+altiplano chileno, en las regiones de Arica y Parinacota y ganadera, desarrolló los manejos de camélidos nativos
+Tarapacá, en territorios ganaderos predominantemente que hacen posible que esta sea la principal actividad
+ii. el manejo ganadero camélido, que tanto refuerza
+del pueblo Aymara. económica tradicional.
+tradiciones como innova en la materia, que trata el
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino: patrimonio genético, los problemas derivados de
+Está dirigida principalmente a profesionales Los humedales –bofedales, vegas y pajonales, hídricos
+prácticas inapropiadas, las principales enfermedades
+extensionistas que trabajan directamente con y salinos– fueron y siguen siendo piezas claves en
+y su manejo tanto por métodos convencionales y
+productoras y productores de ganadería de camélidos, el desarrollo de la ganadería de camélidos. Su gran
+tradicionales, para finalizar con acciones para un
+aunque también puede ser útil a personas interesadas productividad y la certidumbre de sus ciclos, facilitó
+manejo reproductivo; y
+en conocer la situación de este sistema productivo en el la instalación de unidades productivas en su entorno,
+altiplano chileno. con viviendas y corrales omnipresentes desde más de
+iii. un apartado final de recomendaciones y sugerencias
+3 000 años hasta el tiempo presente. Asimismo, lo hizo
+dirigidas a los equipos de extensión sobre esta actividad
+El altiplano es una vasta peniplanicie que se ubica por
+su abastecimiento de agua para consumo y para baños
+productiva con valor cultural.
+encima de los 3 400 metros sobre el nivel del mar.
+medicinales del ganado.
+Comprende unos mil kilómetros latitudinalmente por
+Argentina, Chile, el Estado Plurinacional de Bolivia y Para el pueblo Aymara, naturaleza y cultura iban de
+Perú, entre el desierto de Atacama por el oeste y las la mano. El desarrollo armónico de ambas dio pie
+tierras bajas más húmedas por el este. Los nevados al concepto del suma qamaña (traducido al español
+sobrepasan los 6 000 metros de altura. El paisaje de como el “buen vivir”), el que se materializó en prácticas
+volcanes, cordilleras, pampas y quebradas conforman económicas y culturales amigables con los ecosistemas
+las nacientes de cuencas hídricas, de las que dependen naturales, integradas mediante rituales y costumbres
+todos los habitantes de sus tierras más bajas, ya sean basadas en una cosmovisión persistente en el tiempo.
+de valles agrícolas como de las urbes del borde costero.
+Las culturas andinas se desarrollan armónicamente
+en este paisaje semiárido, valorando las funciones
+productivas y generadoras de biodiversidad natural
+2
+
+--- Página 15 ---
+1
+©FAO/Corporación Norte Grande
+
+--- Página 16 ---
+II. Manejo
+comunitario y
+adaptativo de
+los humedales
+altoandinos
+©FAO/Corporación Norte Grande
+
+--- Página 17 ---
+II. Manejo comunitario y adaptativo de los humedales altoandinos
+En la cosmovisión andina, la interacción equilibrada entre el para fortalecer las economías locales en las comunidades
+ser humano y la naturaleza es fundamental. La relación entre indígenas del altiplano. Existen estudios que indican que vegas
+humedal, ganadería y ser humano permite la conservación y bofedales de los altos Andes y la puna pueden llegar a tener
+de la agrobiodiversidad presente en ecosistemas altoandinos, varios miles de años (Gonnet et al ., 2016). Por ello, comprender
+como vegas, bofedales y pajonales. Las prácticas tradicionales su funcionamiento y composición, así como identificar y conocer
+que llevan a cabo las comunidades andinas en el manejo de los las practicas ancestrales, ayuda a generar estrategias de
+humedales han hecho posible el uso de los recursos de estos conservación, las cuales deben considerarse desde una mirada
+ecosistemas generación tras generación. integrada en las políticas públicas focalizadas en estos territorios,
+tanto en sus aspectos técnicos y comunitarios, con objeto de
+Los humedales altoandinos cumplen un rol fundamental en la
+promover un desarrollo sostenible y coherente con la identidad
+mitigación del cambio climático. Su conservación es indispensable
+cultural del pueblo Aymara.
+2.1 Tipología y características de los humedales altoandinos presentes en
+el altiplano
+Las vegas y bofedales crecen con relación a las fuentes de agua que recorrido el agua es afectada por procesos físicos, químicos y
+disponen superficial o subterráneamente mediante un conjunto de biológicos que determinan las concentraciones de diferentes
+interacciones con el entorno, como con las geoformas (formas del elementos y compuestos disueltos en el agua. Luego, en algunos
+relieve) dominantes y las estructuras de la roca madre en donde se casos, las características de la composición del agua se describen
+aloja el humedal. como “calidad” (si es apta para consumo humano o riego) o “dureza”
+(relacionado al contenido de calcio y magnesio disuelto en ella).
+En su recorrido, el agua, tanto superficial como subterráneo,
+interactúa con diversos componentes del medio físico, natural y Los humedales altoandinos se clasifican principalmente en tres tipos
+antrópico. Estos componentes pueden ser, entre otros, la atmósfera, considerando su vegetación, la materia orgánica y la saturación del
+el suelo, las rocas en profundidad y la agrobiodiversidad. En este suelo (Ahumada y Faúndez, 2009) (Cuadro 1).
+5
+
+--- Página 18 ---
+Cuadro 1. Principales características de los tipos fisonómicos de vegas y bofedales
+Guía de campo Tipo fisonómico Vegetación Materia orgánica en suelo Saturación del suelo
+25-35 %
+Bofedal Champones compactos en cojín Saturado
+(o superior)
+Pradera de césped o Graminoides bajos rizomatosos
+5-10 % Temporalmente saturado
+vega (< 40 cm)
+Graminoides altos que forman
+Pajonal 5-10 % Temporalmente saturado
+macollos (> 40 cm)
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+Fuente: adaptada por los autores de Ahumada y Faúndez (2009).
+El término “bofedal” se utiliza para definir las comunidades vegetales bajas cantidades de sales disueltas (aguas blandas) en comparación
+con plantas en cojín compacto o champones, cuyos suelos se con aquellas dispuestas cuencas abajo. Las vertientes u ojos de
+encuentran anegados o saturados durante gran parte del año agua se denominan localmente puquiales o puquios, término que
+(Figura 1). seguramente se relaciona con el vocablo puku o pako - pako en
+lengua Aymara o quechua, respectivamente. El mismo término se
+Los bofedales son formaciones que producen suelos orgánicos a
+usa tradicionalmente para nombrar a la típica especie vegetativa
+gran velocidad, almacenando carbono atmosférico y desarrollando
+asociada a los ojos de agua, correspondiente al cojín o champón
+turberas donde la materia orgánica en el suelo puede sobrepasar el
+( Oxychloe andina ) (Figura 2).
+30 % (Ahumada y Faúndez, 2009).
+Las formaciones de bofedales son características de humedales
+de nacientes de cuencas o de vertientes, cuyas aguas contienen
+6
+
+--- Página 19 ---
+II. Manejo comunitario y adaptativo de los humedales altoandinos
+En lugares donde la humectación del suelo varía significativamente
+a lo largo del año, como en los sectores más elevados o marginales
+de los sistemas humedales, la vegetación crece con otra fisonomía
+vegetacional, denominadas técnicamente “pajonales hídricos”
+y “vegas” (Figura 3). En ambos casos, la saturación del suelo es
+temporal, presentando mayor humedad en los meses de verano
+(diciembre a marzo), mientras que la acumulación de materia
+orgánica en el suelo puede ser variable, aunque en general, menor
+que en las formaciones de bofedales.
+El término “pajonales” define sistemas vegetacionales con
+pastizales altos (> 40 cm), cespitosos o macollantes, que se
+desarrollan entre lagunas y cursos de agua. En cambio, el término
+“vegas” tiende a relacionarse con las formaciones vegetales cuya
+fisonomía son del tipo de césped o pastos bajos, principalmente
+rizomatosos con expresión aérea en pequeñas rosetas (< 40 cm de
+altura) (ver Glosario).
+©FAO/Corporación Norte Grande
+Figura 1. Bofedal de Turuna.
+Ubicado en las faldas del volcán
+Sillajhuay, en la comuna de
+Colchane, se destaca por su
+manejo tradicional de las aguas
+superficiales.
+Figura 2. Cojin, puku o pako
+©FAO/Corporación Norte Grande
+pako ( Oxychloe andina ). ©FAO/Corporación Norte Grande
+7
+
+--- Página 20 ---
+Los pajonales hídricos generalmente están dominados por especies
+de pastos altos, destacando especies como Deyeuxia curvula y
+Deyeuxia eminens , conocidas localmente como q’eña , sora o weylla .
+Guía de campo
+Las vegas, en cambio, están compuestas principalmente por pastos
+bajos y céspedes rizomatosos tales como la grama salada ( Distichlis
+spicata ), colcha ( ch'iji ) o pasto de vega ( Carex maritima ).
+Además de la disponibilidad hídrica, se considera como segundo
+factor el contenido salino del agua o sustrato (Ahumada y Faúndez,
+2009). Así, las tres formaciones vegetales (bofedal, pajonal hídrico
+y vega) pueden llegar a seis tipos debido a la combinación de
+situaciones salinas o no salinas. Una cubierta salina mayor del 5
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+% de superficie, medida en temporada seca, determina que un
+bofedal sea salino; si es menor a ese valor (< 5 %), el bofedal es no
+salino. Este umbral ronda el 20 % y 30 % para distinguir vegas de
+césped y pajonales hídricos, salinos y no salinos, respectivamente.
+Al igual que la humedad, la concentración de sales en el suelo y
+agua determina la composición de especies y su recambio a lo largo
+de gradientes de salinidad.
+En todos los casos descritos, los bordes de los bofedales, vegas
+y pajonales hídricos usualmente están habitados por especies
+leñosas, como la uma tola ( Parastrephia lucida ). Mientras que en
+©FAO/Corporación Norte Grande
+sus correlativos salinos, se encuentran una gama de leñosas o
+Figura 3. Pajonal
+subleñosas en placa, como el janki ( Frankenia triandra ), o jankijanki
+hídrico en Cancosa,
+comuna de Pica. ( Sarcocornia pulvinata ), entre las especies dominantes (Figura 4).
+8
+
+--- Página 21 ---
+II. Manejo comunitario y adaptativo de los humedales altoandinos
+Figura 4. Borde de vega salina con
+presencia de plantas en placa en
+estancia Utalakata, localidad de
+©FAO/Corporación Norte Grande
+Guallatire, comuna de Putre.
+9
+
+--- Página 22 ---
+2.2 Prácticas tradicionales y su importancia para un buen
+manejo y mantención de los humedales
+Guía de campo
+Los humedales altoandinos cumplen un rol clave en el desarrollo Lograron identificarse y caracterizarse las prácticas que comprende
+y permanencia de las poblaciones humanas que habitan el el manejo tradicional en la mayoría de los humedales que manejan
+altiplano. El desarrollo de las comunidades ganaderas altoandinas las familias presentes en las comunas de General Lagos, Putre,
+del norte de Chile se sustenta con relación a las condiciones Colchane, Pica y Huara, con las cuales se trabajó en conjunto.
+que presentan bofedales, vegas y pajonales. En consecuencia, el Este repertorio de prácticas ancestrales ha perdurado en las
+manejo tradicional de estos humedales atiende a la optimización comunidades altoandinas hasta el presente, teniendo su origen en
+del rendimiento hídrico del ecosistema y el mejoramiento en la los Andes al menos desde el auge del imperio Inca. A continuación,
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+producción de la vegetación o forraje para el ganado. se describen en un esquema las prácticas identificadas en el
+altiplano chileno (Figura 5).
+Figura 5. Esquema de prácticas de manejo tradicional de humedales altoandinos, identificadas en las regiones de Arica y Parinacota y de Tarapacá
+Tipos de manejo
+Limpieza y
+Limpieza de Rectificación Construcción Desecamiento Volteo de
+Canalizaciones Champeo Trasplante ensanchamiento
+canales de canales de diques de pozas champas
+de vertientes
+Fuente: elaboración propia.
+10
+
+--- Página 23 ---
+II. Manejo comunitario y adaptativo de los humedales altoandinos
+Sobre los manejos tradicionales de humedales altoandinos, se
+considera que la construcción de canales o canalizaciones de
+regadío (Figura 6) es la práctica ancestral por excelencia que
+permite una mejor irrigación del humedal y una contribución
+a la infiltración de agua en el subsuelo. Las canalizaciones son
+modificaciones que se realizan en la superficie del humedal para
+distribuir los flujos superficiales de agua. Se ejecutan excavaciones
+someras –entre 20 cm a un metro de profundidad, dependiendo
+las características del humedal– que permitan transportar el flujo
+del cauce desde una vertiente o río para el riego del humedal o
+siembras. Las principales funciones son mantener elevado el nivel
+del agua, generar riego lateral y reforzar el riego por resumen
+provocado por la saturación del suelo y la gravedad.
+De manera periódica, especialmente durante las épocas previas y
+posteriores a las precipitaciones, se realiza la limpieza de canales
+(Figura 7), en la cual se remueve el material que obstruye el paso del
+agua por los cauces, tales como algas, arena, piedras y raíces.
+©FAO/Corporación Norte Grande
+Figura 6. Construcción de canal de
+regadío en el sector de Puquio, en
+Guallatire, comuna de Putre.
+11
+
+--- Página 24 ---
+Asimismo, una de las principales técnicas desarrolladas en el
+manejo tradicional de vegas y bofedales es el champeo, que
+corresponde a la reubicación de trozos compactos de vegetación
+Guía de campo
+extraídos de los humedales. Esta técnica se desarrolla en conjunto
+a la construcción, rectificación (emparejar los bordes del canal
+retirando la vegetación que puede cerrar el avance del cauce)
+y en la reactivación de canales, cuando se retoman trabajos
+preexistentes (Figura 8).
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+©FAO/Corporación Norte Grande
+Figura 8.
+Rectificación
+de canal con
+champeras, azadón
+y serrucho (sector
+Jalsure, Cancosa),
+comuna de Pica.
+©FAO/Corporación Norte Grande
+©FAO/Corporación Norte Grande
+Figura 7. Limpieza del río Caquena
+(estancia Iscacollo, Caquena),
+comuna de Putre.
+12
+
+--- Página 25 ---
+II. Manejo comunitario y adaptativo de los humedales altoandinos
+Otro elemento que se desarrolla en los humedales es la
+construcción de diques, lo cual consiste en levantar un murete de
+champas o piedras que se ubican de forma perpendicular al flujo
+de un río o cauce, con el fin de elevar los niveles de agua, extender
+el riego lateral y derivar el agua a través de canales más elevados
+(Figura 9).
+En algunos casos, ciertos sectores del humedal presentan un
+exceso de agua que se acumula y mezcla con sedimentos,
+formando fangos que presentan un peligro para el ganado, ya
+que una vez dentro es difícil para el animal poder salir. Para evitar
+esto algunas de las técnicas implementadas son el trasplante y el
+desecamiento de pozas (Figuras 10 y 11).
+El trasplante reubica matas de alguna especie vegetal con la ©FAO/Corporación Norte Grande
+finalidad de que se propague en las superficies fangosas o que
+redirija el riego. En algunos casos, al momento de trasplantar, se
+le agrega guano al sustrato para ayudar en el enraizamiento y
+desarrollo de la vegetación. En tanto, el desecamiento consiste en
+cambiar la dirección del caudal que se dirige a las zonas de pozas
+para su posterior desecamiento. Es un proceso que tarda bastante
+tiempo dependiendo de la profundidad y extensión de las pozas.
+Una práctica complementaria es la limpieza y ensanchamiento
+de vertientes, las que sirven para proporcionar mayor abertura
+al lugar donde aflora el agua subterránea, disminuyendo los
+obstáculos que impiden un incremento del caudal del flujo de agua.
+Esta tarea se realiza en manantiales (vertientes) que alimentan la
+circulación de los cauces superficiales (Figuras 12 y 13). ©FAO/Corporación Norte Grande
+Figura 9. Construcción de dique en humedal de Huasco Lípez,
+comuna de Pica. Dique en funcionamiento en humedal Central Citani,
+comuna de Colchane.
+13
+
+--- Página 26 ---
+Guía de campo
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+©FAO/Corporación Norte Grande ©FAO/Corporación Norte Grande
+Figura 10. Trasplante de vegetación Figura 11. Desecamiento de pozas
+en sacos con champas de q’eña en estancia Chacorpuju, Parinacota,
+en estancia Surapalca II, Tacora, comuna de Putre.
+comuna de General Lagos.
+14
+
+--- Página 27 ---
+II. Manejo comunitario y adaptativo de los humedales altoandinos
+©FAO/Corporación Norte Grande
+Figuras 12 y 13. Limpieza y
+ensanchamiento de vertientes
+de un bofedal en la alta
+cordillera, en la localidad de ©FAO/Corporación Norte Grande
+Cultane, comuna de Huara.
+15
+
+--- Página 28 ---
+Otra práctica es el volteo de champas, la que se realiza en lugares
+donde hay estancamiento de aguas o elevamiento del nivel del
+bofedal por falta de manejos y en vegetación con alta presencia de
+Guía de campo
+puku. Para ello, se retiran estos trozos de champas, exponiendo las
+raíces, semillas y materia orgánica. Dicho procedimiento permite, al
+cabo de una temporada de crecimiento, un cambio en la fisonomía
+vegetacional, generando mayor disponibilidad de alimentación
+para el ganado (Figura 14).
+Este tipo de prácticas tradicionales contribuye a la conservación de
+la agrobiodiversidad, en concordancia con una serie de beneficios
+ambientales que permiten mejorar la distribución de la irrigación,
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+favoreciendo la mantención de la humedad en el suelo y la
+conservación de la vegetación característica de estos ecosistemas.
+A su vez, estas prácticas permiten que un porcentaje del caudal
+transportado se infiltre en el subsuelo, contribuyendo a la recarga
+de las napas subterráneas y a la mantención de los humedales
+altoandinos en períodos de estrés hídrico.
+©FAO/Corporación Norte Grande
+Estas labores proporcionan un conjunto de servicios ecosistémicos,
+como la producción de la vegetación, la atenuación de los efectos Figura 14. Volteo de champas en
+bofedal de Cancosa, comuna de Pica
+negativos debido a las amplias oscilaciones climáticas entre épocas
+(sector Jalsure).
+secas y más húmedas o la detención de procesos de erosión,
+desecamiento y mortandad de parches de humedales. Finalmente,
+un mejor estado de los humedales se relaciona con mayor
+producción de vegetación y la permanencia especies domésticas y
+silvestres, como la diversidad de aves, insectos, mamíferos y flora.
+16
+
+--- Página 29 ---
+II. Manejo comunitario y adaptativo de los humedales altoandinos
+2.3 Sobrepastoreo y acciones para mitigar sus impactos
+Así como existen un conjunto de buenas prácticas que han permitido En el altiplano chileno, el sobrepastoreo se produce principalmente
+a las comunidades del altiplano manejar sosteniblemente los en vegas y bofedales por la excesiva cantidad de ganado camélido
+humedales altoandinos, también es posible identificar acciones y ovino, situación que se agudiza conforme se convive con fauna
+de degradación de esos ecosistemas producto de la intervención silvestre, tales como vicuñas, guanacos, burros asilvestrados o
+humana. Entre ellas, la más relevante se asocia al sobrepastoreo, especies de menor tamaño, pero en mayor cantidad, como vizcachas
+es decir, a la sobreutilización del forraje vegetal destinado para o aves.
+el pastoreo. Este suele obedecer a la concentración de la masa
+Los impactos que se generan por el sobrepastoreo a nivel ambiental
+ganadera en un sitio en particular durante un período corto o
+y productivo se presentan a modo de esquema en la Figura 15 y están
+extenso, o a un ingreso de animales antes de tiempo. Estas malas
+relacionados mayoritariamente con la reducción de la cobertura
+prácticas conducen a que la vegetación óptima para la alimentación
+vegetal, el aumento o aceleración de la erosión del suelo producto
+del ganado no cuente con el tiempo necesario para su regeneración,
+de la escorrentía o viento y la disminución del valor forrajero de la
+degradándose la condición del humedal y reemplazándose su
+vegetación que consume el ganado por pastoreo selectivo, lo que
+vegetación por especies de menor valor forrajero.
+conlleva un incremento de especies de baja calidad nutritiva.
+Figura 15. Esquema de los impactos que genera el sobrepastoreo en el territorio altoandino
+Sobre pastoreo
+Incremento de
+Reducción Perdida de
+Erosión del suelo especies de baja
+cobertura vegetal vegetación forrajera
+calidad nutritiva
+Fuente: elaboración propia.
+17
+
+--- Página 30 ---
+Las siguientes Figuras 16 y 17 ilustran los efectos del sobrepastoreo
+en el bofedal de Visviri de la comuna de General Lagos, donde se
+concentra una masa ganadera mayor a
+Guía de campo
+1 000 ejemplares.
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+©FAO/Corporación Norte Grande ©FAO/Corporación Norte Grande
+Figura 16. Erosión de los suelos Figura 17. Identificación de signos
+en bofedal de Visviri, comuna de sobrepastoreo en bofedal de
+de General Lagos. Visviri, comuna de General Lagos.
+18
+
+--- Página 31 ---
+II. Manejo comunitario y adaptativo de los humedales altoandinos
+2.4 Capacidad de carga como estrategia de planificación predial
+Con el propósito de evitar el sobrepastoreo en las estancias producción primaria neta subterránea (PPNS) es la medición de la
+o sayañas que hacen uso de los humedales altoandinos para producción de las raíces. Si bien este último tipo de producción no
+la alimentación del ganado camélido, en el último tiempo se es considerada como una fuente primaria de alimentación por las
+diseñaron un conjunto de estrategias que permiten planificar de personas dedicadas a la ganadería en el altiplano chileno, y a su
+forma eficiente la disponibilidad de forraje del bofedal sin alterar vez resulta compleja su medición y cuantificación, la PPNS resulta
+su ciclo natural de regeneración. Una de estas, la capacidad de vital para el mantenimiento de la vegetación durante los períodos
+carga o receptividad de un potrero permite calcular la cantidad en los que disminuye la cantidad de precipitaciones o de bajas
+de cabezas de ganado y fauna silvestre que puede sostener ese temperaturas. Cabe destacar que, para el proceso de cálculo de
+ambiente sin deteriorarse, es decir manteniendo la diversidad y capacidad de carga, se debe considerar como forraje disponible (FD)
+cobertura natural de especies vegetacionales de acuerdo con su una proporción cercana al 60 % del total de la PPNA, puesto que
+ciclo reproductivo. el 40 % restante debe destinarse para asegurar la conservación y
+reproducción de la biodiversidad de la vegetación, así como para la
+En este proceso, se requiere fortalecer un manejo ganadero
+fauna silvestre que convive en el lugar.
+adecuado de las vegas y bofedales, lo que implica y requiere un
+conocimiento sobre la superficie de producción vegetal destinada Como segundo factor, se requiere cuantificar la carga ganadera
+al pastoreo durante la temporada de crecimiento correspondiente (K), es decir, el número de cabezas de ganado que pastorean en
+al período de primavera y verano. A dicha producción vegetal – un sector por un tiempo determinado. La carga ganadera es el
+por cada temporada de crecimiento– se le otorga el nombre de principal factor del mantenimiento de la diversidad natural de
+producción primaria neta (PPN), la cual se encuentra compuesta plantas, la conservación de una buena condición de las pasturas
+tanto por la producción de vegetación que se realiza a nivel naturales y la preservación de la cubierta vegetal y de los suelos.
+superficial como subterránea. Cabe destacar que la tasa de PPN Asimismo, debe considerarse, según la literatura existente (Bonacic,
+está condicionada por las precipitaciones propias de la temporada, 1991), que el consumo diario del ganado camélido es del orden del
+así como por los ciclos de precipitaciones de los años anteriores 1,8 % a 2 % de su peso vivo, estableciéndose como referencias que
+(Chávez et al ., 2019). por unidad de ganado (UG). En el caso de la llama (UG llama), esta
+consume un promedio de 1,6 kg por día, por lo que su consumo
+La producción primaria neta aérea (PPNA) es la medición por individual anual (CIA) es de 584 kg de pasto al año. Por su parte, la
+hectárea de la producción vegetal en tallos y hojas, que se evidencia alpaca (UG alpaca) consume 1 kg por día y 380 kg al año, mientras
+de manera superficial y se reconoce directamente como la fuente que la oveja (UG oveja) consume 0,7 kg por día y 255 kg al año.
+principal para la alimentación del ganado. Por otra parte, la
+19
+
+--- Página 32 ---
+Considerando los antecedentes anteriores, a continuación, se
+expone, a modo de referencia, el proceso de cálculo de capacidad de
+carga sobre el predio piloto en la localidad de Cultane (Cuadro 2).
+Guía de campo
+De acuerdo con el proceso de recolección y muestreo de vegetación
+a través de celdas de exclusión, el cual se desarrolló durante la
+temporada 2020-2021, se determinó que la PPNA de este predio
+es de 1 760 kg por hectárea al año, traduciéndose efectivamente,
+al considerar el factor del 60 %, en un forraje disponible de 1 056
+kg por hectárea al año. Esta cantidad disponible (si se considera
+que el consumo anual de la especie llama alcanza los 584 kg) da
+cuenta que sobre este predio no se pueden disponer más de dos
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+ejemplares por hectárea (Figuras 18 y 19).
+Ahora bien, al considerar el total de la superficie de bofedal en
+la localidad de Cultane (32,4 ha), se calculó que la cantidad de
+unidades de ganado llama (UG llama) que pueden alimentarse en
+este espacio no debe ser mayor a los 59 ejemplares. Dado que la
+persona responsable cuenta en la actualidad con un total de 43
+ejemplares, se pudo determinar que el bofedal de Temblor Tijrata,
+©FAO/Corporación Norte Grande
+en la localidad de Cultane, presenta una carga ganadera acorde a
+Figura 18. Instalación de celda de
+exclusión en bofedal de Visviri,
+comuna de General Lagos.
+Cuadro 2. Proceso de cálculo de capacidad de carga sobre el predio piloto Temblor Tijrata, en la localidad de Cultane
+Formación PPNA FD CIA K
+vegetacional (kg/ha/año) (kg/ha/año) (kg) (UG llama/ha)
+Predio piloto
+Temblor Tijrata
+Pastizal salino con
+1 760 1 056 584 1,8
+bofedal
+Fuente: elaboración propia.
+20
+
+--- Página 33 ---
+II. Manejo comunitario y adaptativo de los humedales altoandinos
+su productividad y por tanto se puede inferir que se encuentra en
+buen estado de conservación (Cuadro 3).
+Al tener en cuenta la capacidad de carga se evitan los procesos de
+erosión, desecamiento y afectación de las fuentes de agua, entre
+otros, lo que redunda en el mantenimiento de la reproducción de
+las plantas. También conviene señalar que estos procesos deben
+realizarse de manera periódica y constante, dado que, al depender
+de la condición pluviométrica, el nivel de productividad es dinámico,
+por lo que las cifras entregadas responderán a la condición actual y
+no a las futuras.
+Dentro de la clasificación de humedales altoandinos, los bofedales
+se reconocen como ambientes con alta productividad de pasturas
+naturales. En ellos, las formaciones con presencia de pastizales y
+pajonales cuya predominancia está determinada por las especies
+Deyeuxia curvula y D. eminens, (q’eña) , D. rigescens (sora) y Festuca
+hypsophylla y F. rigescens (weylla) . Estos ambientes se identifican con
+una mayor productividad que en aquellas formaciones en donde
+predominan las plantas de cojín o champones de Oxychloe andina
+©FAO/Corporación Norte Grande
+(puku o pakopako) y Distichia muscoides (puku hembra) , y que en las
+Figura 19. Celda de exclusión praderas de céspedes bajos de especies tales como Distichlis humilis
+después de temporada invernal,
+(ch'iji o grama salada) , Carex marítima , Eleocharis pseudoalbibracteata
+localidad Cancosa, comuna de Pica.
+Cuadro 3. Proceso de cálculo de capacidad de carga del predio piloto Temblor Tijrata, en la localidad de Cultane
+Superficie bofedal (ha) UG llama N.° de llamas en bofedal Situación
+32,4 58,6 43 Buen estado
+Fuente: elaboración propia.
+21
+
+--- Página 34 ---
+(pasto de vega) o Hypochaeris taraxacoides (siki perro) . Asimismo, proveen los humedales altoandinos. Si se cuantifica y establece
+si cualquiera de estas formaciones vegetacionales disminuye la una adecuada capacidad de carga, ello incidirá positivamente
+cantidad de agua disponible o aumenta la salinidad en sus aguas o en el peso de los ejemplares (kilogramos de carne al año) y, por
+Guía de campo
+suelo, la productividad disminuye sustancialmente. ende, en el aumento de éxito de pariciones, a raíz de una mayor
+producción de leche por parte de las hembras y una mejor
+A continuación, se ofrece un esquema de un ciclo virtuoso de
+condición corporal por aumento de la fibra en las crías
+producción ganadera, sostenible con el hábitat natural que
+(Figura 20).
+Figura 20. Plan de manejo del pastoreo para conservar los bofedales, considerando la capacidad de carga como el factor principal para su uso más sostenible
+Plan de manejo del pastoreo
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+Incremento del éxito
+de pariciones Producción primaria
+neta aérea (PPNA)
+(o kilos de fibra o litros
+del leche) ¿Cuánto produce mi
+campo? Medimos la producción
+de pasturas
+Capacidad de carga por
+Conservación tipo de ganado (UG)
+Productividad del bofedal
+¿Cuántas cabezas
+secundaria
+sostienen mis pasturas?
+(kg de carne al año)
+Ajustamos
+la carga y la Carga de ganado
+rotación
+¿Cuántas cabezas
+realmente pastorean en
+mi campo?
+Fuente: elaboración propia.
+22
+
+--- Página 35 ---
+II. Manejo comunitario y adaptativo de los humedales altoandinos
+2.5 Manejo sostenible del pastoreo sobre las pasturas naturales
+Según las recomendaciones entregadas por la Universidad Técnica
+del Oruro (2010) del Estado Plurinacional de Bolivia, el buen
+manejo del pastoreo en bofedales altoandinos debe incluir diversas
+estrategias y acciones, las que se resumen a continuación.
+• Incrementar o mantener la productividad primaria o materia
+vegetal producida por cada año en vegas y bofedales
+azonales y en la estepa zonal circundante o de “campo”.
+• Mantener la diversidad natural de especies vegetales de
+tal modo de evitar la dominación de especies no deseadas
+(venenosas, espinosas, no aptas para el consumo animal,
+invasoras) por sobre especies deseables (nutritivas,
+digeribles, funcionalmente claves).
+• Incrementar o mantener la buena calidad forrajera para una
+mejor nutrición y optimizar el rendimiento de la biomasa
+forrajera disponible.
+• Incrementar o mantener la cobertura verde para proteger los
+suelos y el rendimiento del agua en vegas y bofedales.
+• Favorecer un consumo más homogéneo sobre la pastura
+de modo de que incremente la equidad entre las especies
+vegetales, optimice su productividad e incremente la
+frecuencia de las especies deseables.
+©FAO/Corporación Norte Grande
+• Fortalecer el conocimiento a través de ensayos de manejo
+de plantas nativas para mejorar la producción forrajera y
+Figura 21. Pastoreo intensivo de
+las condiciones de las áreas de pastoreo. alpacas Huacaya en el bofedal de
+Visviri, comuna de General Lagos.
+23
+
+--- Página 36 ---
+2.5.1 Rotación de pastoreo
+Una de las estrategias básicas y fundamentales para un buen
+Guía de campo manejo ganadero es la rotación del pastoreo del rebaño ( tama )
+entre distintos sectores de un predio dentro del ciclo anual
+(Figura 22). Esta acción permite el descanso y recuperación de la
+vegetación. Considerando los efectos asociados al sobrepastoreo
+–que se pueden prever utilizando mecanismos como el cálculo
+de capacidad de carga–, este descanso es necesario para evitar
+el agotamiento del forraje disponible, y fundamental cuando hay
+signos de empobrecimiento de la cubierta vegetal. Esta estrategia
+debe aplicarse al inicio del período de rebrote de las pasturas o
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+germinación y el establecimiento de plántulas. Durante este tiempo,
+es recomendable establecer un descanso del sector excluido, hasta
+que los brotes y plántulas se fortalezcan a un punto de tolerar mejor
+el pastoreo. También es conveniente excluir los potreros cuando el
+objetivo sea dejar florecer las plantas y producir semillas.
+Figura 22. Pastoreo rotativo en
+potreros con divisiones, para el
+©FAO/Corporación Norte Grande
+control de sobrecarga animal.
+24
+
+--- Página 37 ---
+II. Manejo comunitario y adaptativo de los humedales altoandinos
+2.5.2 Instalación de cercos
+En cuanto a la infraestructura, el cerco contribuye a una mejor
+estrategia de pastoreo proporcionado los siguientes beneficios:
+• Facilita el manejo espacial de la tama o rebaño, para el
+pastoreo rotativo entre sectores del predio.
+• Regula la carga en tiempo y espacio de las praderas
+nativas
+de pastoreo.
+• Posibilita descansos extendidos en el tiempo, que permitan
+transcurrir todo el ciclo de crecimiento y reproducción de
+la vegetación para recuperar la condición de la pastura o
+permitir la producción de semillas y repoblamiento de la
+densidad de pasturas.
+• Facilita la distribución de la tropa en categorías, por sexo o
+por motivos sanitarios dentro de una tama.
+• Reduce la utilización de mano de obra, es decir, facilita los
+manejos sin requerir personal apropiado.
+• Controla el ingreso de animales de otras zonas o
+propiedades; también evita o reduce el ingreso de
+animales silvestres (Figura 23).
+©FAO/Corporación Norte Grande
+Figura 23. Los potreros aislados
+para producción de forraje y
+posterior ingreso del ganado
+facilitan los manejos estacionales.
+25
+
+--- Página 38 ---
+III. Manejo ganadero
+camélido: reforzando
+Guía de campo
+tradiciones e incorporando
+innovaciones
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+©FAO/Corporación Norte Grande
+26
+
+--- Página 39 ---
+III. Manejo ganadero camélido: reforzando tradiciones e incorporando innovaciones
+El sistema de ganadería camélida forma parte de la herencia reproductivas y sanitarias, generando un valioso aporte a la
+cultural de los pueblos andinos. Quienes se desenvuelven en este conservación del patrimonio genético y al conocimiento del
+sistema productivo han conservado y reproducido un cúmulo de entorno natural, a través del relacionamiento con la vegetación y
+saberes ancestrales, traspasados de generación en generación las propiedades medicinales que estas otorgan para el tratamiento
+mediante la oralidad y el conocimiento vivencial presente en los de enfermedades parasitarias e infecciosas que afectan al ganado
+territorios del piso altiplánico. Estos sistemas de conocimiento, camélido. En la actualidad, estos sistemas de conocimiento
+que se manifiestan en diversas prácticas tradicionales, han tradicional, sumado al conocimiento científico, permiten optimizar
+permitido la subsistencia del manejo ganadero en sus dimensiones y viabilizar la sostenibilidad productiva de esta actividad.
+3.1 Patrimonio genético de la ganadería camélida
+Uno de los objetivos de los Sistemas importantes del patrimonio la vocación productiva que se quiera otorgar al ganado camélido,
+agrícola mundial (SIPAM) de la FAO es promover la conservación de ya sea para la producción de carne para el consumo humano o
+la biodiversidad en sus diversos estados, producto de las distintas para la extracción de fibra destinada a la elaboración de textilería o
+amenazas que afectan hoy en día a la humanidad (FAO, 2011), artesanía textil.
+destacando principalmente los cambios ambientales globales, la
+En las regiones de Arica y Parinacota y Tarapacá, producto
+estandarización de la dieta alimentaria o la afección de nuevas
+del trabajo colaborativo con más de 20 familias ganaderas,
+plagas o enfermedades que en la actualidad no tienen respuestas.
+se lograron identificar dos especies de camélidos domésticos
+En ese sentido, resguardar la diversidad genética resulta clave para
+correspondientes a llama ( Lama glama ) y alpaca ( Vicugna pacos ).
+encontrar probables salidas a dichos cambios y demandas globales.
+En ambas especies se distinguieron mayoritariamente dos razas
+Las comunidades ganaderas del altiplano, producto de su genéticas, correspondientes a las razas K’ara y Thampulli en la
+cosmovisión y estrecha relación con los ejemplares camélidos especie llama, y las razas Huacaya y Suri en la especie alpaca.
+sudamericanos, han establecido y adaptado un conjunto de razas A continuación, se describen las características principales de
+genéticas, con distintas características fenotípicas, de acuerdo con cada raza.
+27
+
+--- Página 40 ---
+Llama raza K’ara Llama raza Thampulli
+Guía de campo Los ejemplares de la raza K’ara son productores de carne y piel, Ejemplar de doble propósito, mayor producción de fibra y menor
+poseen una fibra corta, caracterizada por su no desarrollo en su en carne. Tamaño corporal menor que la raza K’ara , aunque con
+cuerpo de fibra, específicamente en los miembros y el cuello, de excepciones de mayor tamaño. Con mayor cobertura de fibra por
+menor tamaño de fibra, que la raza Thampulli . todo el cuerpo, miembros, orejas y semi cubierta en la cabeza y
+cara. La coloración varía entre negro, café y blanco.
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+©FAO/Corporación Norte Grande ©FAO/Corporación Norte Grande
+Figura 24. Ejemplar de llama raza K’ara , criadero de camélidos Layrja Phura, Figura 25. Ejemplar de raza Thampulli, Sector Ch’oto Collo, Lirima, comuna
+Ancovinto, comuna de Colchane. de Pica.
+28
+
+--- Página 41 ---
+III. Manejo ganadero camélido: reforzando tradiciones e incorporando innovaciones
+Alpaca raza Huacaya Alpaca raza Suri
+La raza de alpaca Huacaya es fundamentalmente productora de Es una raza productora de fibra. Su tamaño es menor que la raza
+fibra. Su cabeza es pequeña y las orejas puntiagudas. Cara, orejas Huacaya , la fibra es caída a las laterales extremas de su cuerpo de
+y miembros cubiertos de fibra y mayor densidad en su cuerpo. mayor longitud.
+Tamaño mayor que la raza Suri .
+©FAO/Corporación Norte Grande ©FAO/Corporación Norte Grande
+Figura 26. Ejemplar de alpaca raza Huacaya, estancia Bocatoma, Visviri, Figura 27. Ejemplar de raza Suri, estancia Chacorpuju, Parinacota, comuna
+comuna de General Lagos. de Putre.
+29
+
+--- Página 42 ---
+Según lo observado en las estancias ganaderas, la falta de con alpaca; o la denominación local constatada en la comuna de
+manejo, asociado principalmente a la separación de especies y Putre de ejemplares de llama raza Suri , que en realidad presentan
+razas, ha llevado a que se generen cruzas que alteran o mezclan características fenotípicas similares a la llama raza Thampulli y
+Guía de campo
+las características fenotípicas propias de cada raza. Caso de ello alpaca raza Suri .
+son los guarizos , ejemplares híbridos entre la cruza de una llama
+Ch’ara Kunturi
+3.2 Nombres y colores tradicionales
+Se asemeja a los colores que presenta la especie cóndor andino.
+Uno de los principios de la cosmovisión de los pueblos
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino: andinos es su constante interacción y respeto con la tierra o
+Pachamama, así como con quienes forman parte de ella. Dichos
+principios se reflejan en los nombres que las comunidades les
+otorgan a los ejemplares de camélidos domésticos, los cuales
+están relacionados con la fauna silvestre local, o los colores
+del entorno natural circundante. Cabe señalar que estas
+denominaciones expresadas en la lengua aymara se presentan
+como un mecanismo de transmisión oral y de vínculo con el
+territorio. A continuación, se presentan algunos ejemplares de
+acuerdo con su denominación tradicional:
+©FAO/Corporación Norte Grande
+Figura 28: Ejemplar de Ch’ara Kunturi , criadero de camélidos Layrja Phura,
+Ancovinto, comuna de Colchane.
+30
+
+--- Página 43 ---
+III. Manejo ganadero camélido: reforzando tradiciones e incorporando innovaciones
+Wanaku Parina
+Se asemeja a los colores que presenta la especie guanaco. Se asemeja a los colores que presenta la especie flamenco.
+©FAO/Corporación Norte Grande ©FAO/Corporación Norte Grande
+Figura 29. Ejemplar de Wanaku, criadero de camélidos Layrja Phura, Figura 30. Ejemplar de Parina, criadero de camélidos Layrja Phura,
+Ancovinto, comuna de Colchane. Ancovinto, comuna de Colchane.
+31
+
+--- Página 44 ---
+Ch’umphi T’axllu Ch’umphi Qiwlla
+Guía de campo Se asemeja a los colores que presenta la especie gato andino. Se asemeja a los colores que presenta la especie gaviota andina.
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+©FAO/Corporación Norte Grande ©FAO/Corporación Norte Grande
+Figura 31. Ejemplar de Ch’umphi T’axllu, estancia Surapalca II, comunidad Figura 32. Ejemplar de Ch’umphi Qiwlla, estancia Surapalca II, comunidad
+de Angela Blas de Tacora, comuna de General Lagos. de Angela Blas de Tacora, comuna de General Lagos.
+32
+
+--- Página 45 ---
+III. Manejo ganadero camélido: reforzando tradiciones e incorporando innovaciones
+Color blanco (Janq’u) Color blanco (Quyllu)
+Se asemeja a la nieve presente en la Cordillera de los Andes. Se asemeja a la nevada o las nubes de nuestro entorno.
+©FAO/Corporación Norte Grande ©FAO/Corporación Norte Grande
+Figura 33. Ejemplar de color blanco (Janq’u), criadero de camélidos Layrja Figura 34. Ejemplar de color blanco (Quyllu), Estancia Bocatoma, Visviri,
+Phura, Ancovinto, comuna de Colchane. comuna de General Lagos.
+33
+
+--- Página 46 ---
+Color café claro (Wari)
+Guía de campo Se asemeja al color que presenta la vicuña, correspondiente a
+otra especie de camélido silvestre.
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+©FAO/Corporación Norte Grande
+Figura 35. Ejemplar de color café claro (Wari).
+34
+
+--- Página 47 ---
+III. Manejo ganadero camélido: reforzando tradiciones e incorporando innovaciones
+3.3 Problemas derivados de un manejo ganadero inapropiado
+El manejo reproductivo y sanitario es una de las labores más los camélidos. Esta situación ha provocado dificultades, como
+importantes en el proceso de crianza de camélidos sudamericanos, el desarrollo de defectos congénitos o malformaciones en los
+especialmente cuando el objetivo es comercial o de alimentación ejemplares producto de la constante consanguinidad que ocurre
+familiar. En el último tiempo, producto de fenómenos demográficos al interior de los rebaños o tamas , al no contar con la colaboración
+transversales, como la migración de jóvenes a los centros urbanos, entre vecinos y familiares para cumplir estas labores tradicionales.
+se han perdido ciertos manejos ganaderos que antiguamente
+3.3.1 Defectos congénitos o malformaciones
+se realizaban a través de faenas comunitarias en un acto de
+reciprocidad conocido como ayni . Estas faenas incluían el manejo
+Según lo constatado en las estancias ganaderas donde se
+comunitario en baños antisárnicos con el método de aspersión
+establecieron los predios piloto de SIPAN, los defectos o
+sobre parásitos externos, pastoreos rotacionales en las diferentes
+malformaciones más comunes en los camélidos son ojo sarco ,
+estaciones del año y empadre dirigido, organizado por grupo de
+pezones supernumerarios, polidactilia y orejas cortas o gruesas
+reproductores que criaban los mismos comuneros de las zonas
+( thusu ). A continuación, se describen los defectos congénitos
+ganaderas, donde intercambiaban unos a otros para no producir
+usando el término científico y la denominación en lengua aymara o
+la consanguinidad y obtenían fechas definidas de parición en
+tradicional (Cuadro 4).
+35
+
+--- Página 48 ---
+Cuadro 4. Defectos congénitos de camélidos domésticos
+Defecto genético Descripción tradicional Fenotipo
+Guía de campo
+Testículo pequeño, se queda No hay descenso de un testículo al escroto después del nacimiento, en
+Criptorquidia
+en el abdomen desarrollo del ejemplar
+Testículo pequeño y grande Presencia de testículo(s) pequeño(s) por insuficiente crecimiento y desarrollo
+Hipoplasia testicular
+(Ch’ulla K’urutani) de uno o ambos testículos
+Llamas machorras Insuficiente desarrollo de uno o ambos ovarios, con diversos grados de
+Hipoplasia ovárica
+(Urwaya) presentación, en mayor proporción de tipo bilateral
+Hermafroditismo Tiene los dos órganos Presentan testículo y ovario (ovotestis), con persistencia de órganos genitales
+(intersexualidad) sexuales (Marimachu) como pene y vagina
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+Orejas cortas Presenta una reducción en el tamaño del pabellón auricular, orejas cortas
+Microtia
+(Muru, thusu) semejantes a las cabezas de camellos
+Falta de pigmentación normal del ojo, presentando ojos blancos o celestes
+Ojo zarco Nayra kjusi
+(forma unilateral o bilateral)
+Acortamiento del maxilar inferior; los incisivos inferiores se ubican por detrás
+Prognatismo superior Laka ch’ulla
+del rodete dentario, del maxilar superior alterando el consumo de forrajes
+Hay desarrollo de pezuñas o dedos supernumerarios en uno o más
+Polidactilia Tara o tala
+extremidades, colgados o unidos a los huesos
+Dedos fusionados en forma total o parcial, formando una solo pezuña
+Sindactilia Zapato o zapatero
+denominada como pata de equino
+Dos pezones en uno
+Pezones fusionados Presencia de pezones unidos o están fusionados, en cualquiera de los pezones
+(Nuñu tara)
+Más de cuatro pezones, Presencia de pezones supernumerarios o pezones adicionales, sobre cuatro
+Polimastia (politelia)
+(Jila nuño) pezones que son normales en alpacas y llamas
+Escaso crecimiento corporal de los animales, quedan con una talla muy baja
+Enanismo Jisk’a k’awra
+(enanos)
+Presencia de fibras gruesas (cerdas) abundantes en la región del pecho u otros
+Mandil (unkusani) Lankju thaura
+sectores del cuerpo, muy similar a la vicuña
+Fuente: elaboración propia.
+36
+
+--- Página 49 ---
+III. Manejo ganadero camélido: reforzando tradiciones e incorporando innovaciones
+3.3.2 Enfermedades más comunes de los camélidos en zonas enfermedades suelen presentarse por un inadecuado manejo
+ganaderas ganadero, como el hacinamiento, el uso inadecuado de tratamientos
+parasitarios o el vínculo de espacios comunes con fauna silvestre o
+Las enfermedades más comunes presentes en la crianza de
+doméstica que presenta algún tipo de enfermedad (Castillo, 2018).
+camélidos se pueden clasificar en tres categorías: enfermedades
+A continuación, se describen las enfermedades más comunes
+parasitarias externas, enfermedades parasitarias internas
+presentes en camélidos.
+y enfermedades infecciosas. Gran parte de estos tipos de
+i. Enfermedades parasitarias externas más comunes
+Sarna (Karachi)
+Esta enfermedad puede ser causada por • Los lugares afectados pierden • Evitar el ingreso de los animales
+contagio directo, es decir, por contacto la cobertura de fibra, el animal sospechosos o con lesiones de sarna a
+de un animal enfermo con uno sano, disminuye su condición física, no una tama sana.
+o por contagio indirecto, a través de come normalmente y trata de rascarse
+dormideros, corrales, revolcaderos, continuamente, provocándose más • Revisar permanentemente a los
+estercoleros, aguadas y utensilios de laceraciones. animales, especialmente los que se
+esquila contaminadas (Figura 36). rascan o tienden estar muy inquietos
+Tratamiento convencional con escozor.
+Existen dos tipos de sarna:
+• Vía parenteral (inyectable a base de • Verificar que los corrales no estén
+©FAO/Corporación Norte Grande
+a) Sarna sarcóptica: se localiza en la piel, ivermectina). contaminados. En caso contrario, se debe
+con poca proporción de fibra en la cara, desinfectar el espacio con creolina u otro
+bajo los miembros y en el sector perianal. • Repetir el tratamiento luego de 15 días, producto apto para su tratamiento.
+para evitar eclosión de huevos.
+b) Sarna psoróptica: se localiza en el oído • Productos para aplicar por vía
+medio y en la parte interna de las orejas y • Baños de inmersión, aspersión y subcutánea:
+se extiende hacia la cara y el cuello. fumigado.
+- 1 ml/50 kg de peso vivo de un producto
+Síntomas Prevención y control sistémico a base de moxidectina.
+- Se puede aplicar medicina tradicional
+• Irritación seguida de inflamación que • Realizar baños de inmersión con dependiendo del productor o productora,
+medicamentos a base de moxidectina ©FAO/Corporación Norte Grande
+produce un líquido seroso y seco, el como es el uso de preparaciones
+cual coagula y forma costras que se dos veces al año: uno después de las realizadas con la especie tola (Parastrephia
+Figura 36. Ejemplar de vicuña infectado por la
+resquebrajan e infectan con secreción lluvias y otro antes de las lluvias. Puede lucida) y ñaca tola, ( Baccharis tola ) (Pezo et sarna (Karachi), Laguna del Huasco, comuna de
+de pus. ser de aspersión o inmersión. al ., 2014) (Cuadro 4). Pica.
+37
+
+--- Página 50 ---
+Piojera o pediculosis (Jamak’u o Lapha)
+Guía de campo
+Enfermedad parasitaria externa causada Síntomas baños de inmersión, baños de aspersión de abril y mayo y octubre-noviembre
+por pequeños insectos que provocan o fumigado. Otro método aplicable (considerando períodos antes y después
+picaduras y mordeduras. Tienen • Las llamas y alpacas se rascan o para los parásitos externos es mediante de las lluvias).
+como resultado la formación de zonas muerden la fibra donde se aloja el inyectables vía parenteral en base a
+inflamadas y ligeramente elevadas, parásito. Ivermectina u otros productos específicos • Se recomienda realizar campañas de
+comezón, anemia y baja en la calidad de de la medicina veterinaria. sanidad en toda la comunidad para
+la fibra debido a la presencia de liendres Tratamiento controlar los ectoparásitos, practicando el
+o huevos. Al igual que la sarna, esta • Se aconseja aplicar la dosis según ayni y la mink’a en las comunidades.
+enfermedad puede contagiarse directa o • Cualquiera sea el tratamiento, debe ser la posología o folleto adjunto del
+indirectamente. aplicado a todos los animales de la tama medicamento, es decir, que los productos • Los baños deben estar cubicados
+o rebaño. veterinarios se aplican acorde al peso vivo correctamente para evitar problemas
+Localización de cada especie animal, para no causar de intoxicación o poca dosificación del
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino: • Según las posibilidades del productor, el
+exceso o sobredosis. medicamento. De no considerarse esta
+•Se encuentran sobre la piel y fibra, tratamiento se puede realizar mediante recomendación, puede que el baño no
+ataca principalmente a crías, ancutas dos métodos. con la preparación de • Si persiste la piojera, es recomendable logre ningún efecto contra los parásitos.
+y animales con baja alimentación, o medicina veterinaria (desparasitación repetir el tratamiento en los siguientes
+desnutridos. Estos parásitos son visibles externa a base de moxidectina o similar 10 a 15 días. El período adecuado como
+a simple vista. principio activo), los cuales consisten en forma preventiva es entre los meses
+38
+
+--- Página 51 ---
+III. Manejo ganadero camélido: reforzando tradiciones e incorporando innovaciones
+ii. Enfermedades parasitarias internas más comunes
+Sarcocistiosis (falsa triquina, arrocillo)
+Es un parásito enquistado en la carne Síntomas Prevención y control isoxazoles, con una frecuencia de tres o
+de los músculos, característico en los cuatro meses (Hung, 2006).
+camélidos, cuya vía de transmisión se • Salivación abundante, fiebre de 40 C a • Evitar que los perros ingieran carnes y
+puede realizar a través del contacto 41,6 °C. vísceras crudas, dado que estas pueden • Educación sanitaria a productores e
+con perros u otros animales silvestres estar infectadas. instituciones involucradas en el sector
+carnívoros. • Anemia, debilidad general, ganadero, con la finalidad de resguardar
+descoordinación en los miembros • Los animales muertos por efecto de la seguridad alimentaria y bienestar
+Localización al caminar. enfermedades u otra causa, deben animal.
+ser quemados o enterrados en su
+• Se localiza en los músculos, • La mayoría de los camélidos no totalidad, para evitar que mascotas,
+usualmente en los que tienen mayor muestran síntomas notables. depredadores o carroñeros ingieran
+movimiento, como los que están en el partes del animal.
+cuello. Tratamiento
+• Lo recomendable es una dosificación
+• Se puede evidenciar a partir de los dos • No existe un tratamiento efectivo, los interna para la desparasitación a los
+a tres años. cuales están en proceso de investigación. perros, por ejemplo, isoxazolines o
+iii. Enfermedades infecciosas bacterianas
+Enterotoxemia
+Esta enfermedad infecciosa ataca Síntomas • Falta de apetito, en su mayoría no • El medicamento debe ser administrado
+principalmente a las crías de llamas y asimilan la alimentación. oralmente (en la boca) del animal, por
+alpacas, generalmente durante la época • En algunos casos las crías se alejan de debajo de la lengua con la ayuda de una
+de lluvias. Es producida por la bacteria sus madres. • Episodios de diarreas o estreñimiento. cánula o una pistola dosificadora.
+Clostridium perfringens , frecuentemente
+asociada con la Escherichia coli. • Decaimiento, los ejemplares apoyan Tratamiento Prevención
+la cabeza en el suelo con las orejas
+La transmisión puede ser directa de un hacia atrás y los miembros delanteros • Administración de antibióticos • Mantener limpio y seco los corrales,
+animal a otro, o indirecta, mediante la estirados. (oxitetraciclina). Se pueden aplicar otros realizar rotación de corrales, evitar
+ingesta de agua y pastos contaminados productos veterinarios existentes para consumo de aguas detenidas y que
+o cuando el animal entra en contacto • Muestran un vientre abultado y se esta enfermedad. las crías con sus madres pernocten en
+con heces y orina de animales quejan por el dolor. cobertizos apropiados.
+enfermos. • También se puede aplicar sulfato de
+magnesio disuelto en agua.
+39
+
+--- Página 52 ---
+3.4 Mecanismos para el manejo sanitario
+Guía de campo
+Gracias a la medicina veterinaria, en la actualidad es posible tratar presentan los ejemplares, presentando principalmente cuatro vías o
+las enfermedades externas, internas e infecciosas de la salud de los mecanismos de aplicación, las cuales se presentan a continuación.
+camélidos. Los tratamientos varían según las enfermedades que
+INTRAMUSCULAR INTRAVENOSO SUBCUTÁNEO VÍA ORAL
+La aplicación intramuscular es La aplicación de este método Esta inyección o aplicación Este método de aplicación es para
+para los tratamientos vitamínicos y puede variar de acuerdo con es preferentemente para las parásitos internos e infecciosos
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+enterotoxemia en su gran mayoría. las enfermedades, tales como: enfermedades externas como como tenias, sarcocistiosis,
+En este procedimiento dos personas brucelosis, tuberculosis, vitaminas sarna, piojos, garrapatas, fiebre, fasciola hepática, hidatidosis,
+deben sujetar al ejemplar para y sueros. Se debe inyectar fasciola hepática y otras. Se enterotoxemia, bronquitis o
+inmovilizarlo y administrarle la cuidadosamente en la parte interior introduce particularmente en la neumonía. El medicamento debe
+inyección en las partes del cuerpo de la pierna, localizando la vena axila, por debajo de la piel. Para ser cargado en una pistola o
+con mayor proporción muscular, yugular más notoria. introducir la aguja, se debe estirar mochila dosificadora y debe ser
+por ejemplo, la parte posterior de en forma triangular la piel. Luego administrado por la boca
+cualquiera de las piernas. se aplica el producto específico con del animal, por debajo de su
+precisión. lengua con la ayuda de una
+cánula dosificadora.
+FAO/Corporación Norte Grande FAO/Corporación Norte Grande FAO/Corporación Norte Grande Asociación Ganadera Layra Phura
+© © © ©
+Figura 37. Aplicación intramuscular. Figura 38. Aplicación intravenosa. Figura 39. Aplicación subcutánea. Figura 40. Aplicación oral.
+40
+
+--- Página 53 ---
+III. Manejo ganadero camélido: reforzando tradiciones e incorporando innovaciones
+3.4.2 Manejo sanitario mediante medicina tradicional conjunto de tratamientos utilizados localmente, los que, en algunos
+casos, trascienden las delimitaciones político-administrativas de los
+El conocimiento tradicional que presentan las comunidades territorios, situación que da cuenta de un conocimiento transversal
+andinas respecto de las propiedades medicinales que concentra la generalizado por parte de las comunidades que habitan el territorio
+vegetación del piso altiplánico, ha estado intrínsicamente asociado altoandino. Tal situación, insta a generar instancias de investigación
+a los mecanismos de prevención, tratamiento y control de las que permitan fortalecer procesos transdisciplinarios, estableciéndose
+enfermedades que pueden afectar al ganado camélido doméstico. mecanismos simbióticos entre los sistemas de conocimiento científico
+En este sentido, con la finalidad de reforzar y salvaguardar estos y tradicional, especialmente en los servicios de extensión que brindan
+sistemas de conocimiento, y gracias a la disposición de las familias asistencia técnica a los ganaderos y ganaderas respecto al manejo
+ganaderas que fueron parte de este proceso, se pudo identificar un sanitario del ganado camélido (Cuadro 5).
+Cuadro 5. Medicinas tradicionales para la curación y tratamiento de enfermedades internas y externas
+Enfermedad Medicina tradicional Comuna donde la implementan
+Ceniza y aceite quemado caliente
+Kachú k’ata mezclado con manteca de chancho (molido y calentado)
+Sarna ( karachi ) Mezclar uma thola con parafina y aceite quemado caliente Putre, Colchane y Pica
+Azufre mezclado con agua
+Mezclar azufre molido (300 g) con grasa de llama (2 kg)
+Infusión (mate) de chachacoma
+Infusión de supo thola
+Infusión de ñaka thola
+Infección interna digestiva
+Infusión de joko thola , muña, misiku y pepa de palta Putre, General Lagos, Colchane y Pica
+(diarrea)
+Infusión de hoja de coca
+Infusión de lampaya (para las crías)
+Infusión de uma thola
+Rupturas de hueso Parche de uma thola hervida y molida General Lagos
+Infección conjuntivitis (ojo) Paja brava molida y en infusión (mate) General Lagos
+Infusión de espina chancoroma
+Temperatura o fiebre Infusión de supo Thola General Lagos
+Infusión de amañoko
+Fuente: Elaboración propia en base a información recopilada por informantes SIPAN y Corporación Norte Grande.
+41
+
+--- Página 54 ---
+3.5 Acciones para un manejo productivo
+Guía de campo
+Para avanzar hacia un manejo eficiente que, además, permita en el • orejas de constitución larga y curva, (abananada o aplatanada);
+futuro escalar comercialmente su producción, uno de los desafíos
+• cola que tape toda la zona perineal (órganos reproductores
+al interior de las comunidades ganaderas es el fortalecimiento y
+externos);
+especificación productiva de su masa ganadera. En este aspecto,
+una de las estrategias propuestas para afianzar una óptima
+• buena conformación, simetría e implantación de los miembros
+producción ganadera y, a su vez, salvaguardar la diversidad
+anteriores y posteriores;
+genética que presentan las especies y razas de camélidos
+sudamericanos domésticos, tiene relación con los procesos de • espalda recta y buena conformación muscular corporal
+mejoramiento genético al interior de los rebaños o tamas con las (raza K’ara );
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+que cuenta cada familia.
+• simetría entre las proporciones corporales (cuerpo, cuello,
+Por mejoramiento genético se entiende la selección y reproducción miembros y cabeza), y
+de ejemplares que portan características fenotípicas ideales para
+• buena amplitud de pecho y cañas (sector del antebrazo y sobre
+que estas se propaguen y predominen en la tama de camélidos
+los dedos y menudillo) gruesas (Figura 41 y 42).
+domésticos, de acuerdo con su función o utilidad.
+En el caso de la especie alpaca, al ser las dos razas Huacaya y Suri
+En el caso de la especie llama, para un efectivo mejoramiento
+productoras de fibra, se requiere considerar como mínimo las
+genético es necesario contar con características fenotípicas básicas
+siguientes características:
+externas propias de cada raza, tanto para hembras como machos,
+potenciando así las características idóneas para la producción de
+• finura, rizos, densidad, largo de mecha y uniformidad, largo de
+carne o fibra, dependiendo de su especialidad productiva, tal como
+vellón, elasticidad y brillo;
+se presentan a continuación:
+• calce de miembros, cabeza y cara cubiertos de fibra;
+• buena alzada (talla);
+• colores enteros, sin mancha alguna; y
+• color de vellón entero, uniforme y suave al tacto (raza Thampulli );
+• se consideran colores en otras tonalidades enteros (Figuras 43 y 44).
+42
+
+--- Página 55 ---
+III. Manejo ganadero camélido: reforzando tradiciones e incorporando innovaciones
+FAO/Corporación Norte Grande FAO/Corporación Norte Grande
+© ©
+Figura 41. Características básicas de especie llama de raza Thampulli en la Figura 42. Características básicas de especie llama de raza K’ara , en el
+localidad de Lirima, comuna de Pica. criadero Layrja Phura, localidad de Ancovinto, comuna de Colchane.
+FAO/Corporación Norte Grande FAO/Corporación Norte Grande
+© ©
+Figura 43. Alpacas de raza Huacaya. Ejemplar de estancia Bocatoma, Visviri, Figura 44. Alpaca de raza Suri, bofedal de Visviri, comuna de General Lagos.
+comuna de General Lagos.
+43
+
+--- Página 56 ---
+Guía de campo Figura 45. Ejemplo de ficha de registro individual de camélidos
+3.5.1 Registro genealógico de camélidos
+Considerando las características señaladas anteriormente, para
+A. DATOS GENERALES
+avanzar en una estrategia de mejoramiento genético, es necesario
+País: Chile Región: Tarapacá Comuna: Colchane Comunidad: Ancovinto
+Estancia/ Sayaña : Taypiguano Foto:
+diagnosticar previamente el estado actual de las condiciones
+Propietaria(o): Alexander Gómez Mamani
+fenotípicas que presenta el respectivo rebaño o tama ganadera, Fecha de registro: 10-06-2021
+con la finalidad de seleccionar los ejemplares con las características B. DATOS INDIVIDUALES
+idóneas acorde a la vocación productiva deseada. Este proceso, N° Crotal: AGN01 Especie: Llama Raza: K’ara
+Sexo: Hembra Macho Color: Blanco c/ negro
+denominado selección de plantel base, se materializa a través de Nombre tradicional: Alqa Tiwtira Asociación Ganadera Layra Phura
+©
+Fecha de nacimiento: Hora de nacimiento:
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino: un sistema de registro genealógico mediante fichas individualizadas
+Peso nacimiento (kg):
+Fecha de destete: Peso destete (kg):
+por cada ejemplar seleccionado. Esta ficha permitirá contar con
+C. DATOS REPRODUCTIVOS
+información clave del ejemplar, considerando datos desde su
+1 ra Gestación 2 da Gestación 3 ra Gestación
+nacimiento, manejo reproductivo (en el caso de las hembras),
+Fecha Jañacho Fecha Jañacho Fecha Jañacho
+1 er empadre
+cuantificación de la fibra obtenida de acuerdo con los procesos de
+2 do empadre
+esquila, entre otros datos, estableciendo una adecuada trazabilidad 3er empadre
+Preñada (sí/no)
+que permita al productor o productora ganadera generar valor Observaciones
+Número de partos 1 er Parto 2 do Parto 3 er Parto
+agregado al momento de su comercialización (Figura 45). Fecha de parición
+N° crotal de la cría
+Sexo de la cría
+Peso nacimiento (kg)
+Peso destete (kg)
+D. PRODUCCIÓN DE FIBRA
+Fecha Edad Longitud (cm) Peso total fibra Método de Observaciones
+promedio fibra bruta (kg) esquila
+E. DESCARTE, VENTA, MORTALIDAD O MOVIMIENTO
+Causa Edad Fecha Destino Observaciones
+Fuente: elaboración propia.
+44
+
+--- Página 57 ---
+III. Manejo ganadero camélido: reforzando tradiciones e incorporando innovaciones
+FAO/Corporación Norte Grande
+©
+Figura 46. Llamas en selección de plantel base en la estancia Manzano,
+Visviri, comuna de General Lagos.
+FAO/Corporación Norte Grande
+©
+Figura 47. Alpacas Huacaya en estancia Bocatoma, Visviri, comuna de General Lagos.
+45
+
+--- Página 58 ---
+Guía de campo
+3.5.2 Empadre controlado un empadre controlado es llevarlas a cabo mediante grupos de
+reproductores, la cual cuenta con una serie de etapas del proceso,
+Otra de las acciones claves para un adecuado manejo ganadero,
+entre los que se cuentan (Figura 48):
+especialmente para evitar problemas asociados a la consanguinidad,
+es la cruza o empadre, puesto que permite un mayor un control • Seleccionar hembras y machos de acuerdo con la raza y color.
+de los ejemplares identificados para la reproducción. Es necesario,
+• Las hembras seleccionadas al corral de empadre sin que exista
+sin embargo, identificar y reconocer las fechas previstas para este
+intervención de ejemplares no seleccionados.
+proceso, vinculadas con la entrada de la época de celo de la hembra.
+Así es posible asegurar un óptimo manejo reproductivo y contar
+• Permite introducir a los machos para que realicen el proceso de la
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino: con crías con las características fenotípicas deseadas, evitando la
+monta ( Jarjk’aya ) a todas las hembras receptivas.
+posibilidad de malformaciones o defectos congénitos producto de
+la consanguinidad. Una de las prácticas tradicionales para realizar
+FAO/Corporación Norte Grande
+©
+Figura 48. Empadre controlado.
+46
+
+--- Página 59 ---
+FAO/Corporación Norte Grande
+©
+
+--- Página 60 ---
+IV. Recomendaciones
+para incorporar
+Guía de campo
+en programas de
+extensión pecuaria
+camélida
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+FAO/Corporación Norte Grande
+©
+48
+
+--- Página 61 ---
+IV. Recomendaciones para incorporar en programas de extensión pecuaria camélida
+Con la finalidad de abordar los diversos puntos críticos
+identificados en el desarrollo de la implementación del plan de
+manejo y contribuir a establecer la ganadería camélida como
+una actividad productiva eficiente, sostenible y basada en la
+identidad cultural de sus comunidades, se plantean una serie de
+acciones desde el punto de vista de formación de capacidades
+y articulación interinstitucional (Cuadro 6), y de inversiones
+prioritarias (Cuadro 7), necesarias de considerar por parte de
+los distintos equipos técnicos y de extensión que operan en las
+comunas cuya actividad ganadera es relevante.
+49
+
+--- Página 62 ---
+Cuadro 6. Propuestas manejo reproductivo y sanitario de camélidos sudamericanos
+Línea de acción Actividades propuestas
+Guía de campo Fortalecer instancias de catastro y caracterización del conjunto de prácticas tradicionales que aportan a la conservación de la diversidad local en torno a
+la ganadería camélida.
+Fortalecer la estrategia de selección de planteles base al interior de las familias que se identifique con potencial productivo, para contar con un ganado
+con mejores condiciones fenotípicas que permita una producción de mayor calidad en cuanto a carne y fibra.
+Considerar talleres o asesoría especializada en aquellos ganaderos que se inclinen por el mejoramiento genético, promoviendo la necesidad de
+incorporar nuevos ejemplares, mediante compra o intercambio, teniendo en cuenta fechas claves de acuerdo con el calendario ganadero (empadres
+controlados, pariciones, destete, entre otras).
+Fortalecer la competencia e intercambio de experiencias a través de la vinculación con ferias y encuentros regionales, nacionales e internacionales. Se
+Manejo considera relevante considerar los predios pilotos SIPAN como espacios de diálogo o “aulas ecosistémicas” para el desarrollo de estas actividades.
+reproductivo y
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+sanitario Coordinar operativos sanitarios con instituciones del Estado, como el Servicio Agrícola Ganadero (SAG), el Programa de Desarrollo Territorial Indígena
+(PDTI), y la Corporación Nacional Forestal (CONAF) respecto a fechas y fármacos utilizados para evitar la sobre medicación de camélidos.
+Avanzar hacia un control sanitario que ponga énfasis en la medicina tradicional aymara o con enfoque ecológico como elemento diferenciador de la
+ganadería camélida del altiplano, visibilizando la labor de adultos mayores y validando el saber tradicional con el conocimiento científico.
+En esta línea, se propone reactivar el oficio tradicional de “enfermeros de ganado”, identificando a un grupo de ganaderos y ganaderas con amplio
+conocimiento en la medicina tradicional y reconocidos de esta forma por sus pares, para que sean los encargados de brindar una capacitación a las y
+los usuarios del PDTI.
+Esta acción también contribuye a descomprimir las labores de los profesionales en terreno del PDTI, fomentando la autogestión familiar y comunitaria
+tratamientos de enfermedades internas o externas por parte de los y las ganaderas de la comuna.
+Priorizar la postulación de concursos Programa Sistema de Incentivos para la Sustentabilidad Agroambiental de los Suelos Agropecuarios (SIRSD-S)
+vinculado a la práctica de recuperación o mantención de bofedales, en predios pilotos SIPAN u otros relevantes de acuerdo con la potencialidad
+productiva de los ganadores y las ganaderas.
+Establecer catastro de acciones vinculadas al manejo de bofedales a través de los concursos SIRSD-S, el proyecto Manejo Sustentable de la Tierra (MST),
+el convenio entre la CONAF y la Corporación Nacional de Desarrollo Indígena (CONADI), y zonas rezagadas, entre otros, con la finalidad de identificar
+sectores con mayor o menor intervención y monitorear sus resultados.
+Manejo integral
+de vegas y
+Fomentar el desarrollo de estrategias de pastoreo que permitan descomprimir la sobrecarga de pastoreo en superficies de bofedales.
+bofedales
+Avanzar hacia un modelo de planificación predial que aborde la relación entre productividad de bofedal y ganado mediante el cálculo de capacidad
+de carga por predio o bofedal, monitoreo mensual de caudales y monitoreo vía imágenes satelitales en bofedales de importancia estratégica para la
+comuna, o que sean compartido por un número relevante de familias.
+Generar instancias de sensibilización local, empleando estrategias didácticas, respecto de los inconvenientes que genera la condición de sobrepastoreo
+en sus estancias y el impacto a futuro que podrían tener, aportando a la reducción de tensiones y conflictos al interior de las familias involucradas.
+50
+
+--- Página 63 ---
+IV. Recomendaciones para incorporar en programas de extensión pecuaria camélida
+Cuadro 7. Consideración de inversiones e infraestructura focalizada en concursos públicos de las instituciones del Estado
+Línea de acción Propuestas de inversión
+Priorizar proyectos que contemplen la compra de ejemplares que permitan el mejoramiento genético, y que cuenten con capacidades para llevar un
+registro genealógico de su plantel base, como son los predios pilotos SIPAN, o que planteen la necesidad de seguimiento y asesoría constante.
+En ese sentido, la consideración de un Servicio de Asistencia Técnica Especializada (SAT Ganadero Camélido) se presenta como una alternativa para
+priorizar aquellos ganaderos o ganaderas con mayor potencialidad de escalar su producción.
+Manejo
+reproductivo y
+Promover la construcción o gestión de un centro de machaje que permita contar con ejemplares reproductores de buena calidad, para evitar
+sanitario
+consanguinidad al interior de tamas o rebaños, haciendo un seguimiento que permita realizar empadre controlado en fechas adecuadas por especie y
+raza.
+Fomentar el desarrollo de inversiones o priorizar postulaciones a proyectos que consideren y justifiquen un proceso efectivo respecto al mejoramiento
+genético, como son la construcción de corrales para separación de machos y crías.
+Priorizar la postulación de concursos SIRSD-S vinculado a la práctica de recuperación y mantención de bofedales, en predios pilotos SIPAN u otros
+relevantes de acuerdo con la potencialidad productiva de los o las ganaderas.
+Considerar la compra de instrumentos de medición como fluviómetros para ser utilizados en bofedales de importancia estratégica. Esto permitirá
+contar con información y datos actualizados sobre caudales presentes durante el año, y disminuir escenarios de conflictos al interior de las
+comunidades respecto a la distribución del agua.
+Fomentar el desarrollo de inversiones o priorizar postulaciones a proyectos que consideren y justifiquen la incorporación de superficie de praderas
+suplementarias tanto de especies nativas como introducidas.
+Manejo integral
+de bofedales
+Fomentar el desarrollo de inversiones o priorizar postulaciones a proyectos que consideren y justifiquen la necesidad de generar estrategias de
+rotación de pastoreos, como mallas tradicionales o cercos eléctricos.
+Fomentar el desarrollo de inversiones o priorizar postulaciones a proyectos que consideren y justifiquen la importancia de acumulación de aguas lluvias
+en espacios donde existe escasa disponibilidad de agua durante el periodo posterior a las lluvias, considerando técnicas tradicionales, tales como
+vijiñas , u otros más innovadores como tranques revestidos o bebederos.
+Fomentar el desarrollo de inversiones o priorizar postulaciones a proyectos que consideren y justifiquen la importancia de establecer espacios de
+acopio o bodegas de almacenaje para el estiércol, que permitan su protección de factores climáticos y la conservación de sus propiedades.
+51
+
+--- Página 64 ---
+V. Comentarios
+finales
+Guía de campo
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+FAO/Corporación Norte Grande
+©
+52
+
+--- Página 65 ---
+V. Comentarios finales
+En este manual se integra el conocimiento tradicional con el
+técnico-científico. Este aspecto es innovador en la región y
+demuestra la apertura a valorar ambos enfoques en el desarrollo
+del conocimiento. La ganadería camélida se desarrolla desde
+hace unos 3 000 años y las culturas andinas mantienen vivas las
+tradiciones en los manejos del pastoreo y técnicas aplicadas al
+mantenimiento del rebaño o tama .
+Este manual representa, como otros intentos, un paso en el
+camino a conjugar ambas cosmovisiones: la tradicional, que
+se caracteriza por integrar los componentes y procesos de la
+naturaleza a diferentes escalas espacio-temporales (geográficas
+e intergeneracionales), y la técnico-científica (occidental) que
+tiene la virtud de haber profundizado el conocimiento a niveles
+de precisión y detalle, pero con la carencia de una comprensión
+integradora de la naturaleza a diferentes escalas, sino más bien
+desarrollada en compartimentos estancos.
+Este enfoque integrado se intentó plasmar a lo largo del
+manual y seguramente será de utilidad para la inspiración de
+futuros técnicos y ganaderos y ganaderas para el desarrollo de
+nuevas visiones para la ganadería altiplánica y otras actividades
+económicas tradicionales andinas.
+53
+
+--- Página 66 ---
+VI. Glosario
+Guía de campo
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+FAO/Corporación Norte Grande
+©
+54
+
+--- Página 67 ---
+VI. Glosario
+A C niveles de agua, extender el riego Pongo: Denominación de los Rizomatoso: Hábito de crecimiento de
+lateral y derivar el agua a través de trozos de champa, piedras u otro algunas plantas rastreras, cuyas partes
+Azonal: Ambiente en cuyos factores Canal tradicional: Canalización canales por sectores más elevados. recurso disponible para obstruir aéreas brotan en macollos desde las
+que lo modelan o condicionan que permite transportar el flujo del la salida del agua a través de raíces gemíferas.
+no se relacionan con los factores cauce de una vertiente o río hacia una canalización tradicional.
+dominantes de una zona o sectores de interés para riego de E
+región, como el clima, los suelos o bofedal o siembras. Las principales T
+R
+sustratos. Es otras palabras, posee funciones son mantener un nivel del
+Edáfico: Perteneciente o relativo
+características propias, asociadas agua elevado, generar riego lateral
+al suelo, especialmente en lo que Raíces gemíferas: Se forman yemas en Tama: Rebaño de llamas o alpacas.
+con algún factor ambiental local y reforzar el riego por resumen
+respecta a las plantas. las raíces que permiten la propagación Grupo de ejemplares donde
+o específico del sitio donde se provocado por la saturación del suelo
+vegetativa de la planta. componen cierto número, por
+desarrolla. Por ejemplo, los bofedales y la gravedad.
+diferentes categorías y sexo. También
+o humedales altoandinos del norte
+Reactivación de canal: Consiste en se puede identificar un grupo definido
+de Chile son considerados ambientes Champas: Son todos aquellos G
+la utilización de un canal tradicional de machos o hembras.
+azonales, por cuanto crecen trozos compactos de vegetación
+que se ha mantenido en buenas
+estrechamente relacionados con la provenientes de los bofedales. Estos Graminoides: Término común
+condiciones, al cual se le ingresa flujo
+disponibilidad de agua, sea superficial se producen al realizar un canal con que se denominan a un
+de agua con el fin de direccionarla
+o subsuperficial, pese a que la matriz tradicional o mantención de estos. conjunto de plantas parecidos a Z
+a sectores de mayor beneficio de
+ambiental dominante es árida a pastos o gramíneas que incluye
+producción forrajera. Se deben
+desértica. Esta matriz circundante, Champear: Reubicación de champas, frecuentemente a especies de las Zonal: Calificativo del tipo de
+considerar labores de rectificación y
+influenciada por los factores las cuales permitan intervenir o tapar familias Poaceae, Cyperaceae, Juncaceae vegetación ya sea que crece en sitios
+retiro de obstáculos en el canal, tales
+climáticos y edáficos típicos de la pequeños cauces de río, permitiendo y Cyperaceae . donde influye el clima y el sustrato
+como crecimiento de vegetación,
+región se considera como ecosistema mejorar la distribución del agua y regional o de la zona (por ejemplo,
+piedras, tierras y reparar las
+o ambiente zonal (Ahumada y aportando una mayor extensión del vegetación zonal).
+bocatomas de acceso del cauce.
+Faúndez, 2009). beneficio del riego en las vegas o
+M
+bofedales.
+Rectificación de canal: Consiste
+Otro ejemplo típico de ambiente
+Manejo de vegas y bofedales: Son en emparejar los bordes del canal,
+azonal lo constituyen los salares y Champera: Herramienta metálica
+aquellas labores de recuperación retirando el crecimiento del bofedal,
+también los sistemas de médanos pesada de mango largo y chapa
+o mantención de los sectores, que a mediano plazo cierran el avance
+arenosos, donde la acumulación de cuadrada afilada en su extremo para
+considerándose como parte de un del cauce.
+sales por evaporación, o el depósito cortar champas.
+ecosistema mayor.
+de arenales y su modelado por Riego lateral: Riego que se genera
+el viento, conforman situaciones por la humectación que aflora en
+excepcionales dentro de la matriz D los costados de las canalizaciones
+zonal circundante, donde priman los P
+tradicionales, así como en los espejos
+factores ambientales de la región. Dique: Sinónimo de cocha. Consiste de agua que afloran por el riego por
+El término zonal o azonal se hace en un murete de champas o piedras Parche: Área definida resumen.
+extensivo a la vegetación que habita que se construyen de manera homogéneamente por la vegetación
+en estos ambientes. perpendicular al flujo de un río o que la compone.
+cauce, esto con el fin de elevar los
+55
+
+--- Página 68 ---
+VII. Bibliografía
+FAO/Corporación Norte Grande
+©
+
+--- Página 69 ---
+VII. Bibliografía
+Ahumada, M. y Faúndez, L. 2009. Guía Descriptiva de los Hung, A. 2006. Evaluación y difusión en campo de una vacuna para
+Sistemas Vegetacionales Azonales Hídricos Terrestres de la el control de la sarcocistiosis en alpacas y llamas: Fase 2. Proyecto
+Ecorregión Altiplánica (SVAHT). Santiago. Ministerio de Agricultura CONCYTEC. Lima.
+de Chile, Servicio Agrícola y Ganadero. bibliotecadigital.ciren.
+cl/bitstream/handle/20.500.13082/6189/SAG-HUMED06. Gonnet, J., López, C., Araníbar, E. y Lictevout, E. 2016.
+pdf?sequence=1&isAllowed=y Manual introductorio al manejo de vegas y bofedales mediante
+prácticas tradicionales de culturas andinas en el norte de
+Bonacic, C. 1991. Características biológicas y productivas de Chile. Arica, Corporación Norte Grande. bibliotecadigital.
+los camélidos sudamericanos. Avances en Ciencias Veterinarias, ciren.cl/bitstream/handle/20.500.13082/26592/HUM2-0178.
+6 (2). https://avancesveterinaria.uchile.cl/index.php/ACV/article/ pdf?sequence=1&isAllowed=y
+view/4642
+Pezo, D., Franco, E., García, W., Franco, F., Bravo, W., Alarcón,
+Castillo, H. 2018. Implicancias sanitarias en el manejo V. y San Martín, F. 2014. Manual del técnico alpaquero. Segunda
+sostenible de camélidos sudamericanos silvestres. Sarna y otras edición. Lima, Soluciones Prácticas. https://www.produccion-
+enfermedades producidas por parásitos. GECS News, 7: 11-24. animal.com.ar/libros_on_line/53-manual_alpaquero.pdf
+https://camelid.org/pdf/gecs-news-7-1.pdf
+Saavedra, V. 2010. Manual de Perito en Camélido. Facultad de
+Chávez, R., Christie, D., Olea, M. y Anderson, T. 2019. A Ciencias Agrícolas, Pecuarias y Veterinarias. Universidad Técnica
+Multiscale Productivity Assessment of High Andean Peatlands de Oruro y Project Concern Internacional.
+across the Chilean Altiplano Using 31 Years of Landsat Imagery.
+Remote Sens 11(24): 2955. doi.org/10.3390/rs11242955
+FAO. 2011. Sistemas Ingeniosos del Patrimonio Agrícola Mundial.
+Un legado para el futuro. Roma. www.fao.org/3/i2232s/i2232s.pdf
+57
+
+--- Página 70 ---
+Guía de campo
+Buenas prácticas para un manejo sostenible de la ganadería camélida en el territorio altoandino:
+58
+
+--- Página 71 ---
+IV. Recomendaciones para incorporar en programas de extensión pecuaria camélida
+59
+
+--- Página 72 ---
+ISBN 978-92-5-138204-2
+9 7 8 9 2 5 1 3 8 2 0 4 2
+CC7979ES/1/03.24
+https://doi.org/10.4060/cc7979es
