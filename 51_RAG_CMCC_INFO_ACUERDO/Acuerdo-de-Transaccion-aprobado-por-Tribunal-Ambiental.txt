@@ -1,0 +1,2460 @@
+--- Página 1 ---
+ACUERDO DE TRANSACCIÓN
+LUIS ELIECER JARA ALARCÓN Y OTROS
+Y
+COMPAÑÍA MINERA CERRO COLORADO LIMITADA
+En Iquique, a 10 de noviembre de 2023, comparecen:
+1) Don LUIS ELIECER JARA ALARCÓN, RUT N° 7.440.132-5, demandante
+en los autos Rol D-10-2021 seguidos ante el Ilustre Primer Tribunal
+Ambiental (" IPTA "), representado por el abogado Sr. Ladislao Alex
+Quevedo Langenegger , RUT N° 9.188.998 - 6 , ambos domiciliado s para
+estos efectos en Mejillones 2246, Departamento B, Iquique ; y
+2) COMPAÑÍA MINERA CERRO COLORADO LIMITADA (“CMCC” o “Cerro
+Colorado”) , RUT N° 94.621.000-5, representada por el abogado José Luis
+Fuenzalida Rodríguez , RUT N° 13.333.117-4, ambos domiciliados para
+estos efectos en Esmeralda 340, Piso 3 Edificio Esmeralda, Iquique.
+Los comparecientes debidamente representados, con el apoyo del Ministro
+subrogante en Ciencias Ambientales del IPTA, Señor Cristián López Montecinos
+como amigable componedor, vienen en acordar el siguiente Acuerdo de
+Transacción (“ Acuerdo ”), que es una actualización y mejora de la Transacción
+presentada al IPTA con fecha 20 de marzo de 2023 (“ Acuerdo Original ”) que
+sustituyó a su vez, la transacción presentada previamente ante el IPTA con fecha
+30 de septiembre de 2022, en los autos Rol D-10-2021:
+1
+
+--- Página 2 ---
+CONTENIDO
+I.- CONSIDERACIONES GENERALES ................................ ................................ ............................. 3
+I.1.- Contexto normativo del sector Lagunillas de CMCC ......................................................... 3
+I.2.-Contexto del Acuerdo ............................................................................................................. 7
+I.2.- Declaraciones Previas ......................................................................................................... 11
+II.- PROBLEMA CENTRAL SUS CAUSAS Y EFECTOS QUE SOSTIENEN EL ACUERDO ........ 12
+III.- DESARROLLO DEL ACUERDO ................................ ................................ ................................ 14
+III.1.- Objetivos del Acuerdo ....................................................................................................... 14
+III.1.1. Objetivo General ................................ ................................ ................................ ............ 14
+III.1.2. Objetivos Específicos ................................ ................................ ................................ ..... 14
+III.2.- Principios Rectores del Acuerdo .................................................................................... 15
+III.3 Medidas propuestas en el Acuerdo .................................................................................... 16
+III.3.1. Medidas asociadas a la recuperación del acuífero Lagunillas ................................ ....... 16
+III.3.2. Medida asociadas a la recuperación del bofedal Lagunillas ................................ .......... 16
+III.3.3. Medidas asociadas a la compensación de componentes ambientales y servicios
+ecosistémicos del sector Lagunillas ................................ ................................ .......................... 17
+III.3.4. Medida asociada a la divulgación al conocimiento científico y educación ambiental de
+las acciones de mejora en sector Lagunillas ................................ ................................ ............ 17
+III.3.4 Resultados Esperados ...................................................................................................... 18
+IV.- FICHA DE MEDIDAS ................................ ................................ ................................ ................. 18
+Medida 1 (M1): Restricciones Operacionales Adicionales a los Estándares de la Medida
+Cautelar de 14 de febrero de 2022 ............................................................................................. 18
+Medida 2 (M2): Comité de Expertos durante Periodo de Cierre Lagunillas (2024- 2033) .... 22
+Medida 3 (M3): Actualización de Imagen Objetivo del Plan de Trabajo para el Manejo de las
+Funciones Ecosistémicas del Sistema Lacustre de Lagunillas en base a Evolución Natural
+de Bofedales Altoandinos de la Cuenca Lagunillas Producto del Cambio Climático y
+eventual ajuste a los permisos de CMCC que regulan dicho Plan sujetos a la fiscalización
+de la SMA ..................................................................................................................................... 28
+Medida 4 (M4): Compensación por pérdida neta de carbono en bofedal de Lagunillas ..... 37
+Medida 5 (M5): Compensación de un Humedal Altoandino similar o equivalente al bofedal
+Lagunillas ..................................................................................................................................... 41
+Medida 6 (M6): Plan de Divulgación Lagunillas y de las medidas del Acuerdo ................... 47
+V.- CONSIDERACIONES FINALES ................................ ................................ ................................ . 49
+V.1.- Seguimiento, Reportabilidad y Fiscalización de las Medidas ........................................ 49
+V.2.- Responsabilidad y Colaboración Recíproca en el cumplimiento del Acuerdo ............ 50
+V.3.- Otras declaraciones ........................................................................................................... 50
+ANEXOS ................................ ................................ ................................ ................................ ........... 53
+2
+
+--- Página 3 ---
+I.- CONSIDERACIONES GENERALES
+I.1.- Contexto normativo del sector Lagunillas de CMCC
+1. Que, la faena minera Cerro Colorado inició su operación en 1994, en virtud de
+la Resolución Exenta N°394/1994, del Servicio Nacional de Geología y Minería,
+ingresando en forma voluntaria al Sistema de Evaluación de Impacto Ambiental
+(“ SEIA ”) el 7 de marzo de 1997, previo a la entrada en vigencia de este
+instrumento. Esta faena se compone de dos sectores, un área mina-planta en
+Pozo Almonte y un área de pozos ubicada en la Pampa Lagunillas, comuna de
+Pica, dentro del denominado Predio Huantija, a 70 kilómetros de la faena
+( Figura 1 ).
+Figura 1. Ubicación de área mina y planta en Cerro Colorado y área de pozos en Pampa Lagunillas .
+2. Que, la faena minera Cerro Colorado utilizará hasta el 31 de diciembre de 2023
+los pozos de agua subterránea, como fuente de su suministro hídrico.
+3. Que, el sector de Lagunillas se encuentra sujeto a un conjunto de actos
+administrativos de contenido ambiental, emanados de la autoridad ambiental
+evaluadora (de la entonces Comisión Regional del Medio Ambiente de la
+Región de Tarapacá –“ COREMA ”- y de la actual Comisión de Evaluación de la
+misma región – “ COEVA ”-), sujetos todos ellos al seguimiento, fiscalización y
+3
+
+--- Página 4 ---
+eventual sanción por parte de la Superintendencia del Medio Ambiente
+(“ SMA ”), de acuerdo al siguiente esquema conceptual ( Figura 2 ):
+2006-2016
+Res. Exenta N°67/11 COEVA 2017-2023 (2022-2023)
+Aprobación Plan de Trabajo RCA 69/15 COEVA RCA 13/22 COEVA
+Lagunillas para Recuperación Aprobación EIA Continuidad RCA complementaria de EIA
+Ecosistema Lagunillas Operacional Cerro Colorado, Continuidad Operacional
+presentado en 2006,por extendiendo operación pozos (cumplimiento de sentencia
+impactos no previstos en Lagunillas R-141-2017 2TA, 2019)
+sector Lagunillas
+Figura 2. Secuencia de las resoluciones de contenido ambiental que establecen el manejo
+ambiental de Lagunillas
+I.1.1. Resolución Exenta Nº67/2011, COEVA, que aprueba Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del Sistema Lacustre de
+Lagunillas
+4. Que, en este contexto, por medio de la Resolución Exenta Nº19, de 14 de
+febrero de 2006, de la COREMA, se dio inicio a un proceso de sanción con
+arreglo a las disposiciones vigentes a dicha fecha de la Ley Nº19.300 sobre
+Bases Generales del Medio Ambiente (“ LBGMA ”), culminando en la sanción
+por no haber dado cumplimiento al plan de seguimiento previsto en las
+resoluciones de calificación de la faena de la época (“ RCA ”), por no haber
+informado la ocurrencia de impactos ambientales no previstos y por no haber
+implementado oportunamente las medidas de mitigación asociadas a las
+referidas RCA.
+5. Que, seguidamente a la culminación de este proceso de sanción y como
+consecuencia del mismo, para efectos de abordar estos impactos no previstos
+y su manejo, por medio de la Resolución Exenta Nº137, de 26 de noviembre de
+2007, de la COREMA, se dio inicio a un proceso de revisión de las RCA de la
+faena, para efectos de determinar si las variables ambientales relacionadas
+con el sector Lagunillas se habían comportado conforme a lo previsto en las
+RCA y, en su caso, adoptar las medidas necesarias para corregir el desarrollo
+de estas variables. En el marco del procedimiento de sanción y de este
+procedimiento de revisión de RCA, con fecha 2006 CMCC hizo entrega del
+Plan de Trabajo para el Manejo de las Funciones Ecosistémicas del Sistema
+Lacustre de Lagunillas (“ Plan de Trabajo Lagunillas ”), documento que fue
+objeto de complemento ateniendo las observaciones de los Órganos de la
+Administración del Estado con Competencia Ambiental (“ OAECA ”) convocados
+al procedimiento.
+6. Que, este proceso de revisión de las RCA de la faena culminó con la dictación
+de la Resolución Exenta Nº67/2011, de 7 de julio de 2011, de la COEVA, acto
+administrativo firme y ejecutoriado, cuyo Resuelvo 2 dispone:
+“Para la acertada comprensión de la resolución que en este acto se dicta,
+entiéndase formar parte indisoluble de la misma el expediente del proceso
+administrativo de modificación que le da sustento, especialmente los documentos
+4
+
+--- Página 5 ---
+denominados “Plan de Trabajo para el Manejo de las Funciones Ecosistémicas
+del Sistema Lacustre de Lagunillas” e informe de Respuestas al Consolidado de
+Observaciones al “Plan de Trabajo para el Manejo de las Funciones
+Ecosistémicas del Sistema Lacustre de Lagunillas”.
+En este manejo, las variables ambientales relevantes son: (i) Flujo de
+vertientes, (ii) Superficie de la Laguna Huantija, (iii) Nivel de aguas
+subterráneas en el Bofedal Lagunillas y en la Laguna Huantija, (iv) Salud de la
+vegetación del Bofedal, (v) Cobertura del Bofedal y (vi) Superficie del Bofedal.
+7. Este manejo incluye entre sus acciones la implementación de un Sistema de
+Recarga Artificial (“ SRA ”) que tiene como objeto y fin emular el funcionamiento
+de las vertientes naturales de Lagunillas interrumpidas en el año 2001, con
+vocación de largo plazo hasta el restablecimiento de las referidas vertientes,
+una vez recuperado el nivel del acuífero Lagunillas conforme al Plan de
+Trabajo Lagunillas.
+I.1.2. RCA Nº69/2015, que aprobó el Estudio de Impacto Ambiental (“EIA”) del
+proyecto Continuidad Operacional Cerro Colorado (“COCC”)
+8. Que, con fecha 18 de julio de 2013, fue presentado a evaluación ambiental el
+EIA del proyecto COCC que, en lo que respecta al sector Lagunillas, tuvo por
+objeto extender la operación del campo de pozos de Lagunillas entre 2017 y
+2023, inclusive.
+9. Que, el procedimiento de evaluación ambiental culminó con la dictación de la
+RCA Nº69/2015, de 1º de octubre de 2015, de la COEVA, que aprobó el EIA, y
+en lo que respecta al sector Lagunillas, de acuerdo a la sección 7.2.5 de la
+RCA Nº69/2015, fue actualizado el Plan de Trabajo Lagunillas:
+“[…] precisando aspectos relacionados con el desarrollo e implementación de las
+próximas etapas del Plan de Trabajo para el Manejo de las Funciones
+Ecosistémicas del Sistema Lacustre de Lagunillas, incorporando además
+elementos que tienen por objeto minimizar las incertidumbres que naturalmente
+se asocian a la ejecución de un plan de recuperación de un sistema natural, de
+largo plazo de ejecución”.
+10. Que, por medio de la sentencia de fecha 8 de febrero de 2019, dictada en la
+causa R-141-2017 (acumulada R-142-2017), dictada por el Ilustre Segundo
+Tribunal Ambiental de Santiago (“ ISTA ”), fue anulada parcialmente la RCA
+Nº69/2015, disponiendo:
+“[…] Anular parcialmente la Resolución Exenta N° 1317/2016, y
+consecuencialmente la RCA N° 69/2015, sólo en la parte relativa a las medidas y
+condiciones establecidas para hacerse cargo del impacto ambiental del proyecto
+en los tiempos de recuperación del acuífero de Pampa Lagunillas y el bofedal del
+mismo nombre que éste sustenta, respetando los plazos máximos de recuperación
+que se derivan de la aplicación de la Resolución Exenta N° 67/2011, esto es, al
+año 2050 en el Pozo LA-2, quedando subsistente en todo lo demás la citada RCA
+N° 69/2015. Para dichos efectos, se deben contemplar los escenarios de cambio
+climático conforme se ha razonado en la parte considerativa de este fallo.
+5
+
+--- Página 6 ---
+Consecuentemente, el procedimiento se retrotraerá sólo para este aspecto a nivel
+del segundo ICSARA, y luego se continuará con el mismo. La resolución resultante
+complementará la RCA en la parte pertinente y el titular deberá ajustar su
+operación a las nuevas condiciones, normas y medidas que contenga” .
+Esta sentencia fue confirmada por la Excelentísima Corte Suprema (Rol 8573-
+2019), encontrándose firme y ejecutoriada, la cual dio lugar al procedimiento
+de evaluación ambiental singularizado en la sección I.1.3 siguiente.
+I.1.3. RCA Nº13/2022, de 6 de enero de 2022, que complementa la RCA
+Nº69/2015 en cumplimiento de la sentencia del ISTA confirmada por la
+Excma. Corte Suprema.
+11. Que, para dar expreso cumplimiento a lo ordenado por el ISTA en la sentencia
+antes referida, con fecha 23 de julio de 2019 se dio inicio al procedimiento de
+evaluación ambiental destinado a complementar la RCA Nº69/2015, con el
+objeto y fin de evaluar las medidas destinadas a recuperar los niveles del
+acuífero Lagunillas en los términos, pozos y plazos derivados de la aplicación
+de la Resolución Exenta Nº67/2011 (Pozo LA-2, año 2050; Pozo LA-3, año
+2043; Pozo LA-04, año 2036; Pozo LA-05, año 2033), considerando la
+aplicación de la variable cambio climático. Adicionalmente, en el proceso de
+evaluación fue nuevamente actualizado el Plan de Trabajo Lagunillas.
+12. Que, el referido proceso de evaluación ambiental culminó aprobado por medio
+de la Resolución Exenta Nº2022010013, de 6 de enero de 2023 (ya definida
+como “ RCA Nº13/2022 ”), la cual, en particular, en su sección 20.2 incluye
+exigencias específicas y adicionales destinadas a dar cumplimiento a la
+sentencia del ISTA, tanto en lo concerniente al acuífero Lagunillas, como en la
+actualización del Plan de Trabajo Lagunillas . Respecto de este último Plan, la
+RCA Nº13/2022 señala, a requerimiento del Servicio Agrícola y Ganadero
+(“ SAG ”) en la sección 20.2.3:
+“[…]a) En relación a lo comprometido por el titular en la Tabla 1-42: Proyección
+de los caudales estimados del SRA (Tabla 5-1 del Anexo Nº7 de la Adenda
+Nº3/2012), para un escenario de continuo descenso (de los caudales
+suministrados por el SRA), esto debe ser cumplido a cabalidad. En este sentido,
+cualquier desviación significativa respecto de este escenario, se entenderá como
+un incumplimiento a la medida. B) Por otro lado, y en lo que respecta a que no se
+presenta un umbral establecido asociado a cobertura mínima de las especies
+propias del bofedal, y considerando los reportes del estado actual del Ecosistema
+Lagunillas, se considera dejar establecido como exigencia de cumplimiento lo
+establecido en la RCA Nº 69/2015, esto es que se deberá mantener como valor
+mínimo un 78% de la cobertura de especies propias del bofedal, porcentaje que
+actualmente se encuentra cumplido. Asimismo, respecto de la fase de abandono
+del proyecto, se debe establecer que la condición natural de cobertura del
+bofedal no supere un 5% del rastrojo o mantillo, valor usualmente utilizado para
+este tipo de vegetación azonal” .
+Esta resolución se encuentra firme y ejecutoriada, sin recursos administrativos
+ni judiciales en su contra.
+6
+
+--- Página 7 ---
+13. Que, de este modo, CMCC se encuentra sujeto por medio de las referidas
+resoluciones ambientales (Resolución Exenta N°67/2011, RCA Nº69/2015 y
+RCA Nº13/2022) a un manejo de largo plazo en el sector Lagunillas (hasta el
+año 2078, inclusive), sujeto a la fiscalización de la SMA, destinado
+específicamente a la recuperación del ecosistema, tanto en cuanto a
+vegetación como acuífero, establecido por la autoridad administrativa y el
+ISTA, por medio de resoluciones firmes y ejecutoriadas.
+14. Que, la revisión de los parámetros ambientales del sector Lagunillas, que son
+remitidos periódicamente a la S MA, e n cumplimiento de las medidas
+comprometidas en las autorizaciones ambientales de la faena antes referidas
+(Resoluciones Exentas Nº67/2011, RCA Nº69/2015 y RCA Nº13/2022) ha
+tenido como resultado, hasta ahora, la recuperación de los niveles en los pozos
+de control y el aumento de la cobertura vegetacional – tal como consta en las
+imágenes contenidas en los Anexos N°2 y N°3 de este Acuerdo .
+15. Que, en este contexto, el Acuerdo , como asimismo las propuestas de acuerd o
+que le antecedieron, fueron concebidos como un equivalente jurisdiccional en
+el contexto de las autorizaciones ambientales que rigen la faena de CMCC
+(Resoluciones Exentas Nº67/2011, RCA Nº69/2015 y RCA Nº13/2022), que
+establecen un manejo ambiental de l argo plazo para el sector Lagunillas, de
+manera de ser un complemento coherente con este marco normativo de largo
+plazo , en actual ejecución y reporte a la SMA .
+I.2.-Contexto del Acuerdo
+16. Que, concurren a la celebración del Acuerdo los comparecientes, cada uno de
+ellos singularmente definido como “ Parte ” y conjuntamente todos ellos como
+las “ Partes ”.
+17. Que, el Sr. Luis Eliécer Jara Alarcón interpuso ante el IPTA, con fecha 17 de
+agosto de 2021, una demanda de reparación de daño ambiental en contra de
+CMCC dando origen a la causa Rol D-10-2021, elevando las peticiones que en
+ella se indican.
+18. Que, por su parte, CMCC contestó la demanda con fecha 13 de septiembre de
+2021, solicitando su completo rechazo y negando en forma expresa los hechos
+de la demanda y argumentando que no concurren los requisitos para configurar
+una responsabilidad por daño ambiental. Asimismo, CMCC alegó la falta de
+legitimidad activa del demandante ─así como de todos los terceros
+coadyuvantes que comparecieron con posterioridad─, en atención a que
+entiende que la legítima propietaria de la zona en que se encuentra Lagunillas
+es la Comunidad Indígena Aymara de Cancosa, la cual ha vivido desde
+tiempos ancestrales e inmemoriales en el lugar y cuenta con inscripciones de
+dominio a su favor tanto ante el Conservador de Bienes Raíces, como ante el
+Registro Público de Tierras Indígenas.
+7
+
+--- Página 8 ---
+13. Que, distintos terceros comparecieron en los referidos autos siendo admitidos
+por el IPTA en calidad de terceros coadyuvantes conforme al artículo 23 del
+Código de Procedimiento Civil (“ CPC ”) aplicable por mandato del artículo 47 de
+la Ley N°20.600 que Crea los Tribunales Ambientales (“ LTA ”), el artículo 54 de
+la LBGMA, y del artículo 18 N°2 de la LTA. Tales terceros coadyuvantes ─a
+todos los cuales el IPTA les ordenó comparecer mediante procurador común─
+son los siguientes:
+a) Paula Andrea Vilches Astudillo, RUN: 11.656.032-5, domiciliado en calle
+Sotomayor Nº 625, oficina 1108, Iquique.
+b) Laura Jenny Vilches Astudillo, RUN. Nº 8.515.575-K, domiciliado en
+calle Sotomayor Nº 625, oficina 1108, Iquique.
+c) Sonia Graciela Vilches Astudillo, RUN: 9.565.328-6, domiciliado en calle
+Sotomayor Nº 625, oficina 1108, Iquique.
+d) Carmen Gloria Vilches Astudillo, RUN: 9.768.218-6, domiciliado en calle
+Sotomayor Nº 625, oficina 1108, Iquique.
+e) Sonia Jenny Astudillo Verdugo, RUN: 4.904.325, domiciliado en calle
+Sotomayor Nº 625, oficina 1108, Iquique.
+f) Claudio Enrique Vilches Macaya, RUN 10.815.988-K, domiciliado en
+calle Sotomayor Nº 625, oficina 1108, Iquique.
+g) Gabriel Aquiles Brunaud Escobar, RUN: 9.372.801-7, domiciliado en
+Barros Arana N°415, departamento 4, Concepción.
+h) Christopher Gabriel Brunaud Castillo, Run 16.155.471-5, domiciliado en
+Barros Arana N°415, departamento 4, Concepción.
+i) Marcela Andrea Ríos Eyzaguirre, RUN: 8.563.696-0, domiciliado en
+Barros Arana N°415,departamento 4, Concepción.
+j) Lucy Natacha Fabiola Durán Salas, RUN: 10.041.171-7, domiciliado en
+Avenida Las Terrazas N° 1242, Lomas de San Andrés, Concepción.
+k) Maximiliano Víctor Eliecer Jara Flández, RUN: 21.227.394-5,
+domiciliado en calle Maipú Nº 179, de la comuna y ciudad de
+Concepción.
+l) Andrea Soledad Flández Fritz, RUN: 13.956.597-5, domiciliado en calle
+Maipú Nº 179, Concepción.
+m) Sebastián Luis Andrés Jara Flández, RUN: 22.841.152-3, domiciliado
+en calle Maipú Nº 179, de la comuna y ciudad de Concepción.
+n) Rodrigo Fernando Blamey Cruz, Run: 13.744.027-K, domiciliado en
+pasaje Primeras Piedras Nº 3551, Iquique.
+o) Jorge Rolando Vilches Navarro, Run: 7.174.437-K, domiciliado en calle
+Sotomayor Nº 625, oficina 1108, Iquique.
+p) Erika Macaya Godoy, RUN 5.776.555-0, domiciliado en calle Sotomayor
+Nº 625, oficina 406, Iquique.
+q) Carlos Erick Vilches Macaya, RUN: 9.724.563-6, domiciliado en calle
+Sotomayor Nº 625, oficina 406, Iquique.
+r) Maritza Alejandra Vilches Macaya, RUN: 11.198.164- 7, domiciliado en
+calle Sotomayor Nº 625, oficina 406, Iquique.
+s) Pamela Beatriz Vilches Macaya, RUN: 12.593.193-6, domiciliado en
+calle Sotomayor N° 625, oficina 406, Iquique.
+8
+
+--- Página 9 ---
+t) Carlos Yamal Farhan Villalobos, RUN: 11.422.243-7, domiciliado en
+calle Esmeralda N° 318, localidad de Pica, Región de Tarapacá.
+u) Luis Patricio Zúñiga Martínez, RUN: 7.879.417-8, domiciliado en calle
+Eleuterio Ramírez N° 1181, Iquique.
+19. Que, con fecha 12 y 13 de abril de 2022, fue rendida la prueba ante el IPTA, al
+tenor de los hechos sustanciales pertinentes y controvertidos, fijados en la
+resolución que recibió la causa a prueba, dictada por el IPTA.
+20. Que, con fecha 01 de agosto de 2022, las Partes fueron citadas a oír sentencia
+por el IPTA (fs. 9191).
+21. Que, posteriormente, las mismas Partes, de común acuerdo solicitaron en dos
+ocasiones la suspensión del procedimiento con miras a explorar seriamente y
+de buena fe un término del litigio de común acuerdo. La primera suspensión
+fue elevada al IPTA con fecha 03 de agosto de 2022 (fs. 9192), a la que el
+IPTA accedió el 05 de agosto de 2022 (fs. 9193). La segunda suspensión fue
+elevada al IPTA con fecha 06 de septiembre de 2022 (fs. 9194), a la que el
+IPTA accedió el 12 de septiembre de 2022 (fs. 9195). En la segunda solicitud
+hizo explícito el propósito de búsqueda de un equivalente jurisdiccional al IPTA
+al informar al IPTA:
+“Que, durante este período las partes han desplegado sus mayores esfuerzos, de
+buena fe, con miras a alcanzar un acuerdo en la materia de autos seguida ante
+S.S. Ilustre” .
+22. Que, en el marco de las referidas suspensiones , las Partes sostuvieron
+reuniones preliminares y sesiones presenciales de trabajo con miras a acercar
+sus posiciones .
+23. Que, en cumplimiento de lo acordado, las Partes procedieron a generar un
+acuerdo con miras a poner término al presente litigio, previa aprobación del
+IPTA por medio de resolución certificada como firme y ejecutoriada por el Sr.
+Secretario, que fue presentado al IPTA con fecha 30 de septiembre de 2022.
+24. Que, el acuerdo de septiembre de 2022 contempló un conjunto de dos medidas
+de mitigación, una de reparación y una de compensación, como suplemento al
+manejo aprobado ambientalmente en las Resoluciones Exentas Nº67/2011,
+RCA Nº69/2015 y RCA Nº13/2022 , de responsabilidad de CMCC, y sujeto a la
+fiscalización de la SMA, considerando la específica condición regulatoria en la
+que se encuentra CMCC de acuerdo a las autorizaciones ambientales antes
+referidas.
+25. Que, en consideración a que el IPTA no se pronunció respecto del acuerdo
+presentado en septiembre de 2022, estando aún pendiente el juicio, las Partes
+ampliaron seriamente sus esfuerzos de buena fe, con miras a actualizar y
+enriquecer dicho acuerdo, lo que dio como resultado una mejora sustancial del
+mismo y que es adicional al manejo de largo plazo en Lagunillas que CMCC
+9
+
+--- Página 10 ---
+ejecutará conforme a las (Resoluciones Exentas Nº67/2011, RCA Nº69/2015 y
+RCA Nº13/2022), dando lugar a una nueva versión del acuerdo (ya definido
+como ” Acuerdo Original ”) que fue presentada al IPTA el día 20 de marzo de
+2023, para efectos de dar término al presente juicio conforme a lo dispuesto
+por el artículo 44 de la LTA.
+26. Que, en virtud del Acuerdo, CMCC mejoró los términos y condiciones de una
+de las medidas de mitigación y, en particular, adicionó una quinta medida de
+compensación, consistente en la puesta en valor de un Humedal Altoandino
+similar o equivalente al bofedal Lagunillas, por un costo equivalente a USD$
+15.000.000 (quince millones de dólares de los Estados Unidos de América.), lo
+cual tiene como objetivo contribuir a la conservación y compensación de
+ecosistemas altoandinos equivalentes al bofedal Lagunillas y generar valor
+ambiental agregado al manejo del sector Lagunillas referido en la medida de
+reparación.
+27. Que, no obstante, mediante resolución dictada el 22 de marzo de 2023, el IPTA
+determinó no pronunciarse respecto del Acuerdo, invocando que para entonces
+regían los efectos de la citación a las partes para oír sentencia. Dicha
+resolución fue impugnada por CMCC ante la Ilustrísima Corte de Apelaciones
+de Antofagasta (“ ICA de Antofagasta ”), Tribunal Superior de Justicia que,
+mediante resolución dictada con fecha 13 de julio de 2023, revocó lo dispuesto
+por el IPTA, ordenando que se citara a una audiencia para los efectos de
+evaluar el Acuerdo, de conformidad a lo dispuesto en el artículo 44 de la LTA.
+28. Que, dando cabal cumplimiento a lo ordenado por la ICA de Antofagasta,
+mediante resolución de 5 de septiembre de 2023, el IPTA fijó audiencia para
+efectos de evaluar el Acuerdo Original, la cual fue celebrada el día 13 de
+octubre de 2023, con la integración de los Ministros Sres. Alamiro Alfaro,
+Cristián López y Juan Opazo. En la referida audiencia, las Partes presentaron
+al IPTA el contexto fáctico y normativo del Acuerdo Original, las características
+esenciales de las Medidas propuestas y de las mejoras introducidas en el
+mismo, reiterando su intención y voluntad seria, sincera y manifiesta de dar
+término a la controversia por medio del Acuerdo Original como equivalente
+jurisdiccional.
+29. Que, asimismo, en la referida audiencia de 13 de octubre de 2023, el IPTA
+formuló diferentes preguntas a las Partes para el debido entendimiento del
+Acuerdo Original, dando lugar a observaciones concretas a las Medidas
+propuestas y designando al Ministro Cristián López como amigable
+componedor para efectos de guiar a las Partes en el robustecimiento del
+Acuerdo, con miras a dar cumplimiento al Principio de Indemnidad del artículo
+44 de la LTA.
+30. Que, en el marco de la audiencia antes referida, las Partes, con la activa guía
+del Amigable Componedor han enriquecido el Acuerdo Original, atendiendo la
+observaciones e inquietudes del IPTA, dando lugar a la presente versión del
+10
+
+--- Página 11 ---
+mismo, cuyos términos y condiciones se desarrollan en el presente documento,
+ya definido previamente como “ Acuerdo ”.
+I.2.- Declaraciones Previas
+31. Que, las Partes declaran que el Acuerdo ha sido elaborado con miras a dar
+cumplimiento al requisito del artículo 44 de la LTA; siendo el Acuerdo fruto de
+los esfuerzos de ambas Partes para dar término al juicio, mejorando los
+términos y condiciones del Acuerdo Original, teniendo en consideración las
+observaciones manifestadas por el IPTA en la audiencia de 13 de octubre de
+2023, y la guía del amigable componedor en las reuniones de trabajo
+sostenidas en cumplimiento de lo mandatado por el IPTA, junto al relator de la
+causa.
+32. Que, las Partes declaran y reconocen que ellas han alcanzado el Acuerdo,
+que, a juicio de éstas, contiene medidas de mitigación, reparación y
+compensación ambiental suficientes y adecuadas (todas ellas “ Medidas ” y
+cada una de ellas “ Medida ”), considerando un enfoque de razonabilidad y
+buena fe; siendo este Acuerdo consistente con el manejo ambiental de largo
+plazo que CMCC debe emplear conforme a sus autorizaciones ambientales, en
+actual desarrollo, y sujeto a la fiscalización de la SMA (Resoluciones Exentas
+Nº67/2011, RCA Nº69/2015 y RCA Nº13/2022).
+33. Que, las Partes reconocen que, en virtud del Acuerdo, CMCC se compromete
+a ejecutar las Medidas descritas en detalle en cuanto a su denominación,
+naturaleza jurídica, responsable, objetivo, resultado esperado, alcance, plazos
+estimados, verificador de cumplimiento y monto financiero asociado.
+34. Que, las Partes vienen en suscribir el presente Acuerdo como equivalente
+jurisdiccional, tendiente a finalizar el presente litigio y precaver todo litigio
+eventual sobre la materia , incluyendo expresamente un litigio indemnizatorio
+por daño ambiental . Ninguna parte de su contenido es ni puede ser
+interpretada como un reconocimiento o aceptación, explícito o implícito, de
+responsabilidad por parte de CMCC con relación a la existencia, naturaleza,
+extensión, magnitud o d uración del daño ambiental alegado en el juicio .
+35. Que, las Partes han consentido el Acuerdo como una unidad, encontrando
+cada una de sus estipulaciones justificación en otra u otras, o en su conjunto, y
+siendo además un elemento esencial para su interpretación el manejo
+ambiental en curso dispuesto en la Resolución Exenta Nº67/2011, la RCA
+Nº69/2015 y la RCA Nº13/2022.
+36. Que, c omo consecuencia de todo lo señalado, el Acuerdo , en los términos
+aprobados por el IPTA, pondrá término al presente juicio, con fuerza de
+sentencia definitiva de término y autoridad de cosa juzgada. Asimismo, en
+mérito del presente Acuerdo , las Partes declaran precavidos, transigidos y
+consecuencialmente terminados, con efecto de cosa juzgada en última
+11
+
+--- Página 12 ---
+instancia, también los juicios eventuales que pudiesen en el futuro incoarse
+entre ellas, a propósito del uso y/o aprovechamiento de aguas que ha
+efectuado CMCC en el área de Lagunillas o a propósito d el campo de pozos de
+agua subterránea, ubicados en el sector de Lagunillas.
+37. Que, asimismo, conforme al criterio del IPTA, contenido en la resolución de
+fecha 9 de junio de 2020, que rola a fojas 3.472 de los autos Rol D-3-2019, el
+presente Acuerdo, en caso de ser aprobado por el IPTA, tiene el carácter de
+sentencia firme y ejecutoriada para todos los efectos legales al ponerle término
+al conflicto por resolución del mismo, produciéndose por tanto el efecto de cosa
+juzgada, de conformidad a lo establecido en el artículo 2460 del Código Civil,
+así como en los artículos 26, 38 y 44 de la LTA y artículos 158, 262 y demás
+pertinentes del CPC. De este modo, el presente Acuerdo, de ser aprobado por
+el IPTA, pone término al juicio con fuerza de sentencia firme y ejecutoriada
+respecto de las Partes y, como consecuencia, también de todos los terceros
+coadyuvantes admitidos en la causa D-10-2021.
+38. Que, e l monto financiero total del Acuerdo asciende a la suma de USD
+$ 17. 940 .000 ( diecisiete millones novecientos cuarenta mil dólares de los
+Estados Unidos de América) en su equivalente en moneda nacional a la
+fecha de suscripción del Acuerdo (“ Monto Global ”) y los montos individuales
+por Medida (“ Montos por Medida ”) indicados respecto de cada una de ellas,
+han sido definidos atendiendo a estándares nacionales e internac ionales
+acordes con la conservación del medio ambiente, así como otras experiencias
+de manejo de proyectos ambientales y de restauración ambiental, estimándose
+razonables y suficientes para el cumplimiento de los objetivos, alcances y
+resultados esperados de las Medidas, cumpliéndose con ello las exigencias del
+principio de indemnidad, según el art. 44 de la LTA , siendo tales cantidades los
+límites totales máximos destinados a la ejecución de las Medidas , siempre
+respetando los principios de indemnidad, razonabilidad y buena fe , siendo el
+Monto Global el valor máximo para la ejecución de la totalidad de las M edidas
+del Acuerdo . El Monto Global y los Montos por Medida son convertidos a
+moneda nacional para los efectos de la ejecución del Acuerdo , según da
+cuenta el Anexo N° 1 .
+II.- PROBLEMA CENTRAL SUS CAUSAS Y EFECTOS QUE SOSTIENEN EL
+ACUERDO
+39. Que, el Acuerdo entre las Partes tiene como objeto y fin solucionar lo que se
+denomina “Problema Central” que originó estos autos, consistente en el
+descenso de los niveles del acuífero Lagunillas por la operación del campo de
+pozos y que habría tenido como efectos el retraso en la recuperación de los
+niveles del acuífero Lagunillas y la afectación del Bofedal Lagunillas. Figura 3 ).
+12
+
+--- Página 13 ---
+Retraso en recuperación
+Afectación de bofedal
+Efectos de niveles del acuífero
+Lagunillas (E2)
+Lagunillas (E1)
+Descenso de niveles del
+Problema Central
+acuífero Lagunillas
+Operación Campo de
+Causas
+Pozos Lagunillas
+Figura 3. Problema Central, Causas y Efectos.
+40. Que, con anterioridad a la suscripción del Acuerdo, CMCC se encuentra sujeto
+al conjunto de resoluciones ambientales singularizadas a lo largo de este
+documento (Res. Exenta N°67/2011, RCA N°69/2015 y RCA N°13/2022), las
+cuales tienen como objetivo corregir los impactos no previstos que se habían
+generado el ecosistema Lagunillas, a través de las siguientes medidas:
+- Recuperación de los niveles del acuífero del año 2001 en los respectivos
+plazos de los correspondientes pozos de control.
+- Recuperación y mantención de la vegetación propia del bofedal Lagunillas.
+Para alcanzar la solución del “Problema Central”, CMCC cuenta con las
+resoluciones citadas, que determinan las acciones correctivas destinadas al
+manejo y recuperación del sector Lagunillas, actualmente en ejecución, y se
+propone un conjunto de seis medidas adicionales consistentes con este
+manejo, que conforman el Acuerdo (detalle en Sección III). En la Figura 4 se
+muestra un esquema de los componentes que contribuyen a la solución.
+13
+
+--- Página 14 ---
+Recuperación de niveles Recuperación de la Captura de carbono Conservación de
+Objetivos del acuífero Lagunillas, en vegetación de bofedal (R3 ) humedal altoandino
+(Resultados los pozos de control, Lagunillas similar o equivalente
+Esperados ) dentro de los plazos (R2) (R4)
+establecidos en 2001 (R1)
+Ascenso de niveles del
+Solución acuífero Lagunillas, junto con
+ganancia ambiental
+Acciones Medidas Restricciones Operacionales Compensación por pérdida neta
+Reducción de caudales de
+Correctivas bombeo. Adicionales adicionales a los Estándares de de carbono en bofedal de
+( AC1 ) la Medida Cautelar de 14 de Lagunillas.
+febrero de 2022 del IPTA (M4)
+(M1)
+Modificación de puntos de Comité de Expertos durante Compensación de un Humedal
+extracción (eliminación de P4 y Periodo de Cierre Lagunillas Altoandino similar o
+bombeo desde PR) ( AC2 ) (2024- 2033) equivalente al bofedal
+(M2) Lagunillas
+(M5)
+Habilitación de sistema de Actualización de Imagen Plan de Divulgación Lagunillas y
+recarga artificial (SRA) que Objetivo del Plan de Trabajo de las Medidas del Acuerdo
+emula las vertientes naturales para el Manejo de las (M6)
+(AC3) Funciones Ecosistémicas
+(M3)
+Res. Ex. Nº 67/2011 - RCA N° Acuerdo
+69/2015 - RCA Nº 13/2022
+Figura 4: Esquema de Solución del Problema Central
+III.- DESARROLLO DEL ACUERDO
+III.1.- Objetivos del Acuerdo
+III.1.1. Objetivo General
+41. Que, el objetivo general consiste en constituir un conjunto de Medidas que son
+coherentes con el manejo en curso del sector Lagunillas para la solución del
+Problema Central levantado, en complemento de las resoluciones ambientales
+vigentes de CMCC (Resolución Exenta Nº67/2011, RCA Nº69/2015 y RCA
+Nº13/2022) o las que las reemplacen, modifiquen o sucedan en el futuro,
+sujetas a la fiscalización de la SMA.
+III.1.2. Objetivos Específicos
+a) Restringir la operación del campo de pozos de Lagunillas en su tiempo de
+vida útil remanente.
+b) Acotar la incertidumbre respecto de los tiempos de recuperación de los
+niveles.
+c) Actualizar el manejo de largo plazo del sistema Lagunillas.
+d) Compensar los flujos de carbono que hubieran sido generados y/o no
+captados.
+14
+
+--- Página 15 ---
+e) Compensar los efectos materia del juicio en Lagunillas en un ecosistema
+equivalente.
+f) Difusión de conocimiento científico en base a la experiencia de Lagunillas y
+la implementación de las medidas del Acuerdo.
+III.2.- Principios Rectores del Acuerdo
+42. Que, las Partes relevan los siguientes principios jurídicos socio ambientales
+como elementos para la interpretación y aplicación del Acuerdo:
+a) Principio de Legalidad: Los órganos del Estado actúan válidamente previa
+investidura regular de sus integrantes, dentro de su competencia y en la
+forma que prescriba la ley. (artículo 7º, Constitución Política de la
+República). En base a este principio, toda solución de controversia referida
+a los actos administrativos ambientales y sectoriales de CMCC está
+radicada en las instancias administrativas y judiciales que franquea la ley.
+b) Principio de valoración de los servicios ecosistémicos : El proceso de
+toma de decisiones para la conservación de la biodiversidad debe
+considerar la identificación y valoración de los servicios ecosistémicos, y
+cuando sea posible, su cuantificación (Art. 2º letra j) LSBAP).
+c) Principio de jerarquía: Los impactos significativos sobre la biodiversidad
+deberán ser evitados, mitigados, reparados y, en último término,
+compensados (Art. 2º letra b) LSBAP).
+a) Resolución colaborativa de conflictos: Es misión de la judicatura
+“fomentar las actitudes y relaciones de colaboración necesarias para
+resolver efectivamente” los conflictos desde su origen y contexto (
+“Principios jurídicos medioambientales para un desarrollo ecológicamente
+sustentable”, Poder Judicial de la República de Chile, Organización de
+Estados Americanos y Cumbre Judicial Iberoamericana. p. 50, nota al pie
+10). Por esta razón, el diálogo de buena fe entre las partes es un elemento
+vital para alcanzar soluciones sostenibles en el tiempo.
+b) Principio de transparencia y principio de rendición de cuentas: En
+base los principios del Acuerdo de Escazú, las Medidas del Acuerdo deben
+contemplar medios de verificación y, el Acuerdo en sí mimo, acciones de
+reportabilidad ante la judicatura que permitan la trazabilidad del
+cumplimiento de las mismas, según la naturaleza de las medidas, en su
+implementación y seguimiento.
+15
+
+--- Página 16 ---
+III.3 Medidas propuestas en el Acuerdo
+III.3.1. Medidas asociadas a la recuperación del acuífero Lagunillas
+a) Medida 1 (M1): Restricciones Operacionales Adicionales a los
+Estándares de la Medida Cautelar de 14 de febrero de 2022 del IPTA ,
+que tiene como objeto y fin reducir el bombeo de caudales para fines
+operacionales a valores más exigentes ( caudales promedio mensual
+máximos de 45 l/s y 31 l/s , a partir del mes de oc t ubre y novie m bre de
+2023, respectivamente ) que el caudal más estricto fijado en la medida
+cautelar de 14 de febrero de 2022 (54 l/s), minimizando así el impacto en la
+fuente de la actividad generadora del mismo (operación del campo de
+pozos) .
+b) Medida 2 (M2): Extensión de la vigencia del Comité de Expertos de la
+RCA Nº13/2022, en actual funcionamiento, hasta la fecha prevista para
+la recuperación del primer pozo de control (LA-5, cuya recuperación
+se prevé para el año 2032, siendo el año 2033 el plazo fijado por el
+ISTA) , con el objeto y fin de extender la vigencia de la figura del Comité de
+Expertos (originalmente prevista hasta diciembre de 2023) hasta la
+recuperación del primer nivel, validando así la proyección de recuperación
+más inmediata de la RCA Nº13/2022 (año 2033).
+III.3.2. Medida asociadas a la recuperación del bofedal Lagunillas
+Medida 3 (M3): Actualización de Imagen Objetivo del Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del Sistema Lacustre
+de Lagunillas en base a Evolución Natural de Bofedales Altoandinos
+de la Cuenca Lagunillas Producto del Cambio Climático y eventual
+ajuste a los permisos de CMCC que regulan dicho Plan sujetos a la
+fiscalización de la SMA .
+El objeto y fin de esta Medida consiste en estudiar la evolución natural de
+los sistemas vegetacionales (bofedales) altoandinos en la cuenca de
+Lagunillas considerando entre otros aspectos el potencial efecto del cambio
+climático global y, en su mérito, como resultado del análisis, presentar al
+Servicio de Evaluación Ambiental (“ SEA ”), conforme al artículo 25 quinquies
+de la LBGMA, la actualización del Plan de Trabajo Lagunillas establecido en
+la Resolución Exenta N°67/2011, de la COEVA, en base a la actualización
+de la Imagen Objetivo del bofedal Lagunillas. Adicionalmente, en caso de
+requerirse un manejo temprano de las variables ambientales relevantes
+mientras se tramite el procedimiento, CMCC propondrá al SEA la adopción
+de las medidas provisionales que fueren pertinentes y útiles para estos
+efectos, de acuerdo con el artículo 32 Ley Nº19.880 que Establece las
+Bases de los Procedimientos Administrativos que Rigen los Actos de los
+Órganos de la Administración del Estado o (“ LTA ”).
+16
+
+--- Página 17 ---
+Como se indicará más adelante respecto de la Medida 5 (M5), la
+recuperación actualmente desarrollada en el sector Lagunillas al amparo de
+la Resolución Exenta Nº67/2011, actualizada por la RCA Nº69/2015 y RCA
+Nº13/2022 y cuya Imagen Objetivo pueda eventualmente ser nuevamente
+actualizada en virtud de la Medida 3 (M3), representa una ganancia
+ambiental neta, ya que la Medida 5 (M5) tiene como objeto y fin compensar
+en ecosistema equivalente el área impactada de Lagunillas ( Figura 5 ).
+Manejo Plan de Trabajo Compensación en Plan
+Lagunillas: ecosistema equivalente Lagunillas
+como
+8,3 hectáreas 2 a 6 veces 8,3 hectáreas, Ganancia
+según resultado de Ambiental
+metodología Neta
+Figura 5. Ganancia ambiental neta Lagunillas
+III.3.3. Medidas asociadas a la compensación de componentes ambientales y
+servicios ecosistémicos del sector Lagunillas
+a) Medida 4 ( M4 ): Compensación por pérdida de captación de carbono en
+bofedal de Lagunilla s . Esta Medida consiste en un complemento del Plan
+de Trabajo Lagunillas, como vehículo que permita compensar como
+ganancia ambiental las emisiones de gases de efecto invernadero,
+potencialmente generadas como aquellas las no absorbidas por el b ofedal
+Lagunillas, entre los años 1998 (momento en que comenzó el deterioro del
+ecosistema de Lagunillas) y 2020 (al recuperarse las funciones
+ecosistémicas). Como primera fuente de compensación, se considerará la
+absorción de carbono que pudiese generarse a partir de actividades
+asociadas a la Medida N°5.
+b) Medida 5 (M5): Puesta en Valor de un Humedal Altoandino similar o
+equivalente al Bofedal Lagunillas. Esta Medida tiene como objeto y fin
+contribuir a la conservación y puesta en valor de un humedal altoandino que
+presente características similares o equivalentes al bofedal Lagunillas,
+preferentemente localizados en la Región de Tarapacá. Esta Medida, que
+es instaurada en el presente Acuerdo, se justifica por ser una ganancia
+ambiental en la mejora de un ecosistema adicional y equivalente al bofedal
+Lagunillas, generando un valor ambiental agregado al manejo del Sistema
+Lagunillas referido en la Medida 3 (M3).
+III.3.4. Medida asociada a la divulgación al conocimiento científico y educación
+ambiental de las acciones de mejora en sector Lagunillas
+Medida 6 (M6): Plan de Divulgación Lagunillas , cuyo objeto y fin consiste
+en aportar al conocimiento científico y educación ambiental, respecto de la
+experiencia acumulada del Plan de Trabajo Lagunillas y de las Medidas del
+Acuerdo.
+17
+
+--- Página 18 ---
+III.4 Resultados Esperados
+43. Que, como resultado del desarrollo de las Medidas, el Acuerdo, en conjunto
+con el Plan de Trabajo Lagunillas en desarrollo desde el año 2006 y con
+vocación de largo plazo hasta el año 2078, contempla un conjunto de Medidas
+que, aplicadas en forma integrada, genera como beneficio ambiental, teniendo
+a la vista el Objetivo General y los Objetivos Específicos de la Sección III.1:
+a) Minimizar el impacto del bombeo del campo de pozos.
+b) Mejorar el manejo de incertidumbres propias de las proyecciones de
+recuperación del acuífero en los términos ordenados por el ISTA y la
+Excelentísima Corte Suprema,
+c) Revisar y en su caso actualizar el marco normativo del Plan de Trabajo
+Lagunillas , pudiendo establecerse con arreglo a la ley un manejo temprano
+mientras penda la resolución de fondo de la mencionada actualización.
+d) Compensar las emisiones de gases de efecto invernadero, considerando al
+sector Lagunillas tanto como fuente emisora de estos gases como sumidero
+de los mismos.
+e) Compensar el área impactada de Lagunillas en un ecosistema tipo bofedal
+altoandino equivalente a Lagunillas, en superficie que permite considerar el
+área de manejo del Plan de Trabajo Lagunillas como una ganancia
+ambiental neta.
+f) Contribuir a la generación y difusión del conocimiento científico y educación
+ambiental en base a un manejo ininterrumpido y con vocación de largo
+plazo de un ecosistema tipo humedal altoandino, experiencia que puede ser
+replicada en otros manejos similares.
+IV.- FICHA DE MEDIDAS
+Medida 1 (M1): Restricciones Operacionales Adicionales a los Estándares de
+la Medida Cautelar de 14 de febrero de 2022
+Nombre Restricciones Operacionales Adicionales a los
+Estándares de la Medida Cautelar de 14 de febrero de
+2022
+Naturaleza de la Medida de Mitigación
+Medida
+Responsable Compañía Minera Cerro Colorado Limitada (“ CMCC ”)
+Objetivo/Resultado Objetivo:
+esperado
+Ajustar los estándares operacionales de bombeo de aguas
+subterráneas y de disposición final de los derechos de
+aprovechamiento de aguas de CMCC, en condiciones más
+estrictas que las establecidas para los Períodos 3 y 4 de la
+resolución de medida cautelar de fojas 6003 del Cuaderno
+18
+
+--- Página 19 ---
+Nombre Restricciones Operacionales Adicionales a los
+Estándares de la Medida Cautelar de 14 de febrero de
+2022
+de Cautelar de la causa rol D-10-2021, por medio de la
+incorporación restricciones de caudal adicionales a partir de
+la aprobación del presente Acuerdo.
+La Medida se propone como complementaria al régimen de
+bombeo de aguas subterráneas desde el acuífero
+Lagunillas establecido en la RCA N°13/2022 y en la medida
+cautelar dictada por el IPTA con fecha 14 de febrero de
+2022 en estos autos, presentando como ganancia ambiental
+la intensificación de las restricciones de bombeo a contar
+del mes de octubre de 2023, antes del término de la vida útil
+operacional en diciembre de 2023, conforme a las RCA
+N°69/2015 y RCA N°13/2022, constituyendo un régimen de
+bombeo más exigente que el régimen administrativo y
+judicial vigente.
+Resultado Esperado:
+Añadir restricciones adicionales al caudal extraído para
+fines operacionales a partir de la aprobación del Acuerdo,
+respecto de los Períodos 3 y 4 de la resolución de medida
+cautelar, con posterioridad al término de la causa rol D-10-
+2021, hasta el cese del campo de pozos para fines
+operacionales.
+Alcance: A modo de referencia, la resolución de medida cautelar de
+fecha 14 de febrero de 2022 del IPTA dispone para los
+Períodos 3 y 4:
+“Periodo 3.
+Restricción según lo establecido en la RCA N° 13 del
+06 de enero de 2022.
+Duración: inmediatamente a continuación del periodo
+anterior, desde el día 181 hasta el 31 de diciembre
+de 2023.
+Condición operativa 1: en caso de registrarse en el
+periodo en cuestión un descenso entre el umbral
+intermedio y el umbral límite identificados en la Tabla
+N° 1, en alguno de los pozos de control LA-02, LA-
+03, LA-04 o LA-05, se debe retroceder a un caudal
+de operación de 69 l/s.
+19
+
+--- Página 20 ---
+Nombre Restricciones Operacionales Adicionales a los
+Estándares de la Medida Cautelar de 14 de febrero de
+2022
+Condición operativa 2: en caso de registrarse en el
+periodo en cuestión, dos descensos, entre el umbral
+intermedio y el umbral límite identificados en la Tabla
+N° 1, en alguno de los pozos de control LA-02, LA-
+03, LA-04 o LA-05, se debe retroceder a un caudal
+de operación de 54 l/s.
+Condición operativa 3: en caso de registrarse en el
+periodo en cuestión un descenso mayor que el
+umbral límite identificados en la Tabla N° 1, en
+alguno de los pozos de control LA-02, LA-03, LA-04 o
+LA-05, se debe retroceder a un caudal de operación
+de 0 l/s.
+Periodo 4.
+Restricción de caudal de 0 l/s para operación, con 25
+l/s para SRA.
+Duración: desde el 31 de diciembre 2023 y a
+perpetuidad para quien oficiare como titular del
+proyecto, manteniendo extracción para el SRA según
+Resolución de Calificación Ambiental (RCA) N° 13
+del 06 de enero de 2022.
+Condición operativa: consolidar el traspaso del 100%
+de los derechos de aprovechamiento de agua de
+propiedad de la demandada en el sector Lagunillas a
+la DGA”.
+Con miras a establecer un régimen operacional más
+estricto, CMCC adoptará restricciones adicionales a los
+caudales extraídos con fines operacionales desde el
+acuífero de Lagunillas, en los siguientes términos:
+1. Etapa 1: A partir de la aprobación del Acuerdo , (tomando
+como referencia el mes de octubre de 2023 ) , CMCC
+extraerá un caudal promedio mensual máximo de 45 l/s
+con fines operacionales , más el caudal destinado al
+funcionamiento del SRA en ejecución, por hasta por un
+caudal de 25 l/s como promedio mensual, conforme a
+los términos y condiciones de la RCA N° 13 / 2022, y de
+los pronunciamientos ambiental es y sectoriales
+pertinentes, y aquellos que l os modifique n , reemplace n o
+20
+
+--- Página 21 ---
+Nombre Restricciones Operacionales Adicionales a los
+Estándares de la Medida Cautelar de 14 de febrero de
+2022
+sucedan en el futuro, siendo este caudal más estricto
+que el caudal más restrictivo de la medida cautelar,
+correspondiente a 54 l/s;
+2. Etapa 2: A partir del 1 de noviembre de 2023 hasta el
+31 de diciembre de 2023 , CMCC extraerá un caudal
+promedio mensual máximo de 31 l/s , como promedio
+mensual, con fines operacionales –más el caudal
+destinado al funcionamiento del SRA en ejecución, antes
+referido.
+A contar del 1° de enero de 2024, CMCC cesará el bombeo
+de los pozos de Lagunillas para fines operacionales,
+manteniendo únicamente un bombeo de hasta 25 l/s,
+promedio mensual, para fines del SRA en ejecución,
+conforme a los términos y condiciones de la RCA
+Nº13/2022, y de los pronunciamientos ambientales y
+sectoriales pertinentes, y aquellos que los modifiquen,
+reemplacen o sucedan en el futuro.
+Con fecha 5 de enero de 2023, CMCC se obligó al no
+ejercicio de 150 litros por segundo de los derechos de los
+que es titular, en conformidad con lo exigido por la
+Resolución Exenta Nº13/2022.
+Dentro de los primeros cinco días hábiles del mes de enero
+de 2024, CMCC enviará a la Dirección General de Aguas de
+Tarapacá (“ DGA ”) una carta invitando a la conformación de
+la Mesa de Trabajo para implementar la renuncia de los
+derechos de aprovechamiento de aguas de CMCC en la
+Cuenca de Lagunillas ordenada por la RCA Nº13/2022,
+salvo los caudales destinados al SRA en ejecución,
+conforme a los términos y condiciones de la RCA
+N°13/2022, y de los pronunciamientos ambientales y
+sectoriales pertinentes, y aquellos que los modifiquen,
+reemplacen o sucedan en el futuro.
+Difusión de Resultados.
+Dentro del primer semestre de 2024, CMCC habilitará un
+repositorio con la información de la evolución del acu í fero al
+término del bombeo operacional en diciembre de 2023 . S u
+difusión se realizará a través de medios de comunicación
+21
+
+--- Página 22 ---
+Nombre Restricciones Operacionales Adicionales a los
+Estándares de la Medida Cautelar de 14 de febrero de
+2022
+efectivos, como parte del plan de difusión o socialización,
+en el marco de la Medida 6 (M6) del presente Acuerdo.
+Plazo estimado La Medida entra en vigencia desde que la resolución del
+IPTA por medio de la cual apruebe el Acuerdo se encuentre
+firme y ejecutoriada, en virtud de certificado extendido por el
+Sr. Secretario.
+Verificador de a) Reportes mensuales a la DGA de los caudales de
+Cumplimiento bombeo y niveles en los pozos LA-02, LA-03, LA-04 y
+LA-05, hasta diciembre de 2023, inclusive, a ser
+remitidos dentro de los primeros 15 días hábiles del mes
+siguiente al que es reportado.
+b) Registro gráfico que dé cuenta del cese de bombeo para
+fines operacionales desde los pozos de extracción en
+Lagunillas.
+c) Carta invitación a la DGA para efectos de constituir la
+Mesa de Trabajo para el destino de los derechos de
+aprovechamiento de aguas.
+d) Copias autorizadas de los actos jurídicos que den
+cuenta de la renuncia de los derechos de
+aprovechamiento de aguas, con excepción del caudal
+destinado al SRA en ejecución, conforme a los términos
+y condiciones de la RCA N°13/2022, y de los
+pronunciamientos ambientales y sectoriales pertinentes,
+y aquellos que los modifiquen, reemplacen o sucedan en
+el futuro.
+e) Registro de publicación de primera carga de información
+acerca de las condiciones de recuperación del acuífero a
+través de medios de comunicación efectivos, como la
+página web del sector Lagunillas.
+Monto Financiero No aplica
+Asociado
+Medida 2 (M2): Comité de Expertos durante Periodo de Cierre Lagunillas
+(2024- 2033)
+Nombre Comité de Expertos durante P eriodo de C ierre
+Lagunillas (2024 - 203 3 )
+Naturaleza de la Medida de Mitigación
+Medida
+22
+
+--- Página 23 ---
+Nombre Comité de Expertos durante P eriodo de C ierre
+Lagunillas (2024 - 203 3 )
+Responsable Compañía Minera Cerro Colorado Limitada (“ CMCC ”)
+Objetivo/Resultado Objetivo:
+esperado
+Extender el funcionamiento del Comité de Expertos en
+materias ambientales hasta la recuperación del primer pozo
+de referencia (LA-05), lo que se proyecta que sucederá el
+año 2032 de acuerdo a la evaluación ambiental que culminó
+con la RCA Nº13/2022, siendo el año 2033 el plazo límite
+de recuperación de los niveles en el referido pozo en virtud
+de lo ordenado por el ISTA.
+Comité de Expertos hasta 2023 (RCA Nº13/2022)
+A modo de contexto, en la sección 3.5 del Anexo 4 de la
+Adenda 2 del procedimiento de evaluación que culminó con
+la RCA Nº13/2022, se contempla la figura del Comité de
+Expertos.
+La conformación del Comité de Expertos tuvo lugar en el
+mes de mayo de 2022, de acuerdo a lo establecido en la
+RCA N°13/2022. Está constituido por 3 miembros,
+designados de común acuerdo entre CMCC y las
+Direcciones Regionales de la DGA, Servicio Agrícola y
+Ganadero (“ SAG ”) y SEREMI de Medio Ambiente (“ MMA ”),
+todos de la Región de Tarapacá. Sus integrantes son los
+siguientes profesionales:
+a) Rodrigo Pardo , Licenciado en Ciencias del Mar de
+la Universidad Católica del Norte (1996), Doctor en
+Ciencias Biológicas con mención Ecología y Biología
+Evolutiva de la Universidad de Chile (2010), Magíster
+en Ciencias Biológicas c/m Ecología y Biología
+Evolutiva de la Universidad de Chile (2005), y
+Diplomado en estadística y Minería de Datos de la
+Universidad de Santiago (2014).
+b) Sergio Iriarte, Geólogo. Ha desarrollado múltiples
+proyectos en hidrogeología, así como en geología
+regional, geotermia y glaciología. Trabajó 10 años en
+el Servicio Nacional de Geología y Minería (Chile)
+desarrollando proyectos de geología regional e
+hidrogeología.
+c) Carlos Espinoza , Ingeniero Civil, con mención en
+Hidráulica de la Universidad de Chile, Máster de
+Ciencias en Ingeniería Ambiental d e la Universidad
+23
+
+--- Página 24 ---
+Nombre Comité de Expertos durante P eriodo de C ierre
+Lagunillas (2024 - 203 3 )
+de Illinois (1994) y Doctor en Ingeniería Ambiental
+(1997). Becas Presidente de la República y
+Fullbright.
+En caso de que CMCC requiera modificar a uno o más
+integrantes del Comité de Expertos, su selección se
+realizará siguiendo el mismo proceso de selección utilizado
+para su conformación original, es decir, el o los miembros a
+seleccionar serán designados de común acuerdo entre
+CMCC, y las Direcciones Regionales de la DGA, SAG y
+SEREMI de MMA, todos de la Región de Tarapacá.
+El objetivo del Comité de Expertos en los términos de la
+RCA N°13/2022 es definir, una vez resuelto el proceso de
+evaluación, las medidas adicionales a implementar, con la
+finalidad de que estas se apliquen inmediatamente sea
+levantada una alerta preventiva, por lo cual, deberá ser
+retroalimentado de manera permanente con los datos de
+seguimiento ambiental y los reportes que se originen del
+Plan de Alerta Temprana.
+En cuanto al marco de trabajo del Comité de Expertos, este
+evaluará posibles medidas prematuramente y aunque estás
+no sean requeridas. Para esto, el Comité de Expertos
+actualmente conformado, ha trabajado en:
+a) Desarrollar escenarios de alerta posibles, en virtud
+de los datos de seguimiento. Priorizar y evaluar
+dichos escenarios (mediante los modelos
+desarrollados en el caso de ser factible).
+b) Proponer para los escenarios de alerta priorizados
+medidas preventivas concretas, incluyendo su
+diseño, plazo de implementación, factibilidad técnica
+de implementación e indicadores de efectividad.
+c) En el caso de las medidas preventivas que sean
+ejecutadas, el Comité de Expertos dará seguimiento
+a la efectividad de la medida. El mecanismo y
+periodo de seguimiento será definido por el Comité
+de Expertos de acuerdo al tipo de medida preventiva.
+Asimismo, el Comité de Expertos apoyará en:
+a) Identificar aquellos aspectos que generan mayor
+incertidumbre en los pronósticos y evaluar la
+posibilidad de reducir esa incertidumbre.
+24
+
+--- Página 25 ---
+Nombre Comité de Expertos durante P eriodo de C ierre
+Lagunillas (2024 - 203 3 )
+a. Evaluar la pertinencia de desarrollar sensibilizaciones
+o análisis de incertidumbre, y definir la configuración
+de estos análisis.
+En el Anexo N°4 del presente Acuerdo son acompañados
+los antecedentes que dan cuenta de la constitución y
+funcionamiento del Comité de Expertos hasta la fecha.
+Comité de Expertos 2024-2033 (Medida 2 -M2)
+La Medida del presente Acuerdo, propone mantener el
+funcionamiento de este Comité hasta la recuperación del
+primer pozo de referencia (LA-05) lo que se proyecta,
+sucederá el año 2032 (según la proyección de la RCA
+N°13/2022), siendo el plazo límite el año 2033 conforme a lo
+ordenado por el ISTA
+La Medida es planteada como un complemento a la RCA
+N°13/2022, al extender la vigencia del Comité de Expertos
+por 10 años adicionales respecto de lo establecido en la
+mencionada autorización ambiental, generando una
+ganancia ambiental al minimizar la incertidumbre de
+recuperación de los niveles ordenados por el ISTA, en el
+pozo más exigente (Pozo LA-05) en cuanto a la fecha de
+recuperación (proyectado para 2032 siendo 2033 el año de
+recuperación en virtud de la sentencia del ISTA).
+Resultado Esperado:
+Durante este periodo de funcionamiento, a contar de 2024 y
+hasta 2033, el Comité de Expertos tendrá las siguientes
+responsabilidades:
+a) Revisar las actualizaciones comprometidas de la
+herramienta predictiva y sus proyecciones (modelo
+hidrogeológico), verificando los plazos de
+recuperación de niveles.
+b) Identificar aquellos aspectos que generan mayor
+incertidumbre en los pronósticos y evaluar la
+posibilidad de reducir esa incertidumbre.
+c) Evaluar la pertinencia de desarrollar sensibilizaciones
+o análisis de incertidumbre, y definir la configuración
+de estos análisis.
+d) Evaluar la necesidad de implementar medidas
+adicionales para lograr el cumplimiento de los plazos
+25
+
+--- Página 26 ---
+Nombre Comité de Expertos durante P eriodo de C ierre
+Lagunillas (2024 - 203 3 )
+de recuperación de niveles comprometidos.
+e) Velar por la incorporación de los efectos del Cambio
+Climático de manera actualizada (el estado del arte),
+en la predicción de la recuperación de niveles del
+acuífero.
+f) Revisar los informes anuales del Plan de Trabajo
+Lagunillas, proponiendo ajustes o mejoras a sus
+alcances y metodologías.
+En cuanto a la Medida 3 (M3), el Comité Experto se
+encargará de:
+a) Emitir una recomendación técnica en el proceso de
+selección de l bofedal de control, de acuerdo a las
+variables forzantes .
+b) Revisión de estudios de gabinete y entrega de
+recomendaciones.
+Adicionalmente, en relación a la Medida 5 (M5), el Comité
+de Expertos deberá:
+a) Emitir su recomendación técnica en el proceso de
+selección de un humedal altoandino, similar o
+equivalente al bofedal Lagunillas.
+b) Revisar los alcances de los estudios ambientales
+propuestos a desarrollar en el humedal y los informes
+de seguimiento que se elaboren.
+Alcance Estudios de terreno requeridos:
+Se desencadenarían solo en caso de identificar
+desviaciones en los plazos de recuperación, al momento de
+realizar las revisiones periódicas de la actualización del
+modelo hidrogeológico, de acuerdo con la RCA N°13/2022.
+Estudios de gabinete requeridos:
+El Comité de Expertos mantendrá su actual estructura (es
+decir, 3 integrantes en las especialidades descritas) con
+soporte de personal de CMCC y de los consultores que
+desarrollen las actualizaciones del modelo comprometidas
+en la RCA N°13/2022.
+Se requerirá la revisión, por parte del Comité de Expertos,
+de los modelos hidrogeológicos que se encuentren vigentes
+(Hidrología, Modelos Conceptuales y Numéricos) así como,
+26
+
+--- Página 27 ---
+Nombre Comité de Expertos durante P eriodo de C ierre
+Lagunillas (2024 - 203 3 )
+de los estudios de Cambio Climático Global que se
+encuentren vigentes, al momento de realizar las
+verificaciones.
+Difusión de los análisis del Comité de Expertos:
+Por último, dentro del primer semestre de 2024, CMCC
+habilitará un repositorio de la información que dé cuenta de
+los informes de rev isión y/o recomendaciones del Comité de
+Expertos. La difusión de las recomendaciones del Comité
+se realizará a través de medios de comunicación efectivos,
+como parte del plan de difusión o socialización , en el marco
+de la Medida 6 (M6) del presente Acuerdo.
+La Figura 6 muestra un esquema del modelo de gestión
+propuesto para el Comité de Expertos durante la etapa de
+cierre.
+Plazo estimado 10 años de recuperación de niveles (entre los años 2024 y
+2033).
+Verificadores de a) Minuta que resume hallazgos y recomendaciones del
+Cumplimiento Comité de Experto, en cada revisión de las
+actualizaciones comprometidas de la herramienta
+predictiva (el Modelo) y sus proyecciones.
+b) Carta Gantt de implementación de la medida respectiva,
+en caso de que deba ser adoptada en base a la
+recomendación del Comité de Expertos.
+c) Registro de publicación de primer informe de revisión del
+Comité de Expertos a través de medios de comunicación
+efectivos, como la página web del sistema Lagunillas.
+Mon t o Financiero USD $ 690.000 incluye trabajos del Comité de Expertos
+Asociado durante el periodo definido por la Medida (2024-2033).
+27
+
+--- Página 28 ---
+Figura 6. Modelo de Gestión del Comité Experto
+Medida 3 (M3): Actualización de Imagen Objetivo del Plan de Trabajo para el
+Manejo de las Funciones Ecosistémicas del Sistema Lacustre de Lagunillas
+en base a Evolución Natural de Bofedales Altoandinos de la Cuenca
+Lagunillas Producto del Cambio Climático y eventual ajuste a los permisos
+de CMCC que regulan dicho Plan sujetos a la fiscalización de la SMA
+Nombre Actualización de Imagen Objetivo del Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del
+Sistema Lacustre de Lagunillas en base a Evolución
+Natural de Bofedales Altoandinos de la Cuenca
+Lagunillas Producto del Cambio Climático y eventual
+ajuste a los permisos de CMCC que regulan dicho Plan
+sujetos a la fiscalización de la SMA
+Naturaleza de la Medida de Reparación
+Medida
+Responsable Compañía Minera Cerro Colorado Limitada (“ CMCC ”)
+Objetivo/Resultado Objetivo:
+esperado
+Estudiar la evolución natural de los sistemas
+vegetacionales (bofedales) altoandinos considerando entre
+otros aspectos el potencial efecto del cambio climático y,
+en su mérito, si como resultado del estudio se concluye
+que es necesario actualizar la Imagen Objetivo del bofedal
+Lagunillas, someter a la consideración del SEA actualizar
+la Imagen Objetivo del bofedal Lagunillas establecido en la
+28
+
+--- Página 29 ---
+Nombre Actualización de Imagen Objetivo del Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del
+Sistema Lacustre de Lagunillas en base a Evolución
+Natural de Bofedales Altoandinos de la Cuenca
+Lagunillas Producto del Cambio Climático y eventual
+ajuste a los permisos de CMCC que regulan dicho Plan
+sujetos a la fiscalización de la SMA
+Resolución Exenta N°67/2011, de la COEVA.
+1.- Etapa 1. Estudio de la evolución natural de bofedal
+Lagunillas y del bofedal de control en la misma
+cuenca o sus alrededores.
+La Medida comienza con estimar la condición de equilibrio
+futura esperada en bofedales altoandinos localizados en la
+cuenca de Lagunillas o sus alrededores, considerando
+potenciales efectos del cambio climático en las condiciones
+hídricas del área.
+Para este estudio se seleccionará el bofedal Lagunillas, y
+uno o más bofedales de comparación de acuerdo a las
+variables forzantes a estudiar, entre ellas, el clima y
+condiciones meteorológicas; las condiciones topográficas,
+información hidrogeológica descriptiva, hidrología, tipos de
+suelos, calidad del agua y tipo de vegetación.
+El o los bofedales de comparación, se seleccionarán
+tomando en consideración una aproximación basada en las
+variables forzantes de los ecosistemas altiplánicos, que
+podrían dar cuenta de las comunidades biológicas
+presentes. Las características climáticas serán el primer
+criterio de similitud, seguido por el tipo de ecosistema
+(Inventario Nacional de Humedales, MMA) y otras variables
+tales como indicadas en el párrafo anterior (condiciones
+topográficas, tipos de suelos, etc., similitud en términos de
+su funcionamiento físico y tipo de vegetación con
+Lagunillas, así como su accesibilidad, lo que se puede
+definir a partir de una primera vista a terreno.
+Se estudiarán las variables meteorológicas, como
+forzantes de los cambios en los indicadores de
+productividad y extensión de la vegetación (ej. NDVI,
+COT). Se determinará la geometría del lugar que alberga el
+bofedal como insumo de la condición esperada.
+Se analizará la evolución histórica de las condiciones
+meteorológicas de estaciones de control para proyectar
+29
+
+--- Página 30 ---
+Nombre Actualización de Imagen Objetivo del Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del
+Sistema Lacustre de Lagunillas en base a Evolución
+Natural de Bofedales Altoandinos de la Cuenca
+Lagunillas Producto del Cambio Climático y eventual
+ajuste a los permisos de CMCC que regulan dicho Plan
+sujetos a la fiscalización de la SMA
+esta situación hacia el futuro, considerando estimaciones
+de cambio climático en variables como la precipitación y
+temperatura del aire.
+Asimismo, para el bofedal Lagunillas se actualizarán las
+condiciones de descarga de agua esperadas en el sistema
+conformado por las vertientes, bofedal Lagunillas y laguna
+Huantija, como parte de los insumos requeridos para la
+evaluación de cambios esperados en la Imagen Objetivo
+del bofedal de Lagunillas. Esto se realizará mediante el
+levantamiento complementario de información
+hidrogeológica (topografía de detalle, mapeos
+estructurales, etc.) y la realización de un modelo
+hidrogeológico conceptual y numérico a escala del bofedal
+y de la laguna. Este último debiera considerará los
+escenarios climáticos futuros.
+2.- Etapa 2: Ajuste de Imagen Objetivo
+En base a los resultados de la Etapa 1, la Medida
+contempla una actualización del Plan de Trabajo
+Lagunillas, que fue iniciado en el año 2006 y que fuera
+oficializado en el año 2011 y actualizado con la RCA
+N°69/2015 y con la RCA N°13/2022, incorporando la
+variable de cambio climático, generando como ganancia
+ambiental una actualización respecto del Plan de Trabajo
+Lagunillas, en ejecución.
+A modo de contexto de la referida Imagen Objetivo, esta se
+encuentra contenida en el proceso de revisión de RCA que
+culminó con la Resolución Exenta Nº67/2011, cuyo
+expediente íntegro rola a fojas 4002 del cuaderno principal.
+La Imagen Objetivo fue definida en el año 2006,
+confrontando los puntos de definición con la fotografía
+aérea del Servicio Aerofotogramétrico de Fuerza Aérea de
+Chile de 1990 (fotografía que puede ser examinada a fojas
+30
+
+--- Página 31 ---
+Nombre Actualización de Imagen Objetivo del Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del
+Sistema Lacustre de Lagunillas en base a Evolución
+Natural de Bofedales Altoandinos de la Cuenca
+Lagunillas Producto del Cambio Climático y eventual
+ajuste a los permisos de CMCC que regulan dicho Plan
+sujetos a la fiscalización de la SMA
+4195 del cuaderno principal), específicamente en el marco
+de un informe técnico evacuado por la Universidad Arturo
+Prat titulado “ ESTADO AMBIENTAL DEL BOFEDAL DE
+LAGUNILLA 1992-2005” . En dicho informe se indica
+específicamente que: “Aunque no se cuenta con
+información de topografía anterior al año 1997, los
+monitoreos de Cerro Colorado muestran que la laguna
+Huantija presenta grandes fluctuaciones en el tamaño y se
+relaciona plenamente con la pluviosidad. Concordante con
+lo anterior, se puede deducir lo mismo observando la
+fotografía aérea tomada en noviembre de 1990, que
+muestra las huellas de los diferentes tamaños que ha
+adquirido la laguna antes de esa fecha (Figura 6).”
+Más aún, tal como declaró el Sr. Mario Parada, testigo
+experto y autor del Plan Trabajo Lagunillas, la fotografía
+fue utilizada como uno de los insumos que permitieron
+también reconstruir el área de cobertura del bofedal 1 .
+La delimitación del área aproximada previa a toda
+intervención antrópica se realizó sobre la base de tres
+insumos: (i) una planimetría construida sobre la base de
+los deslindes de los cojines inactivos; (ii) el análisis y
+comparación de esta información a la luz de los datos
+contenidos en la fotografía del año 1990; (iii) la información
+científica correspondiente a las características esenciales
+1 Al respecto, la declaración del Sr. Parada aborda estos puntos cuando responde las preguntas del Ministro Oviedo, como
+consta en la siguiente transcripción parcial: “¿En base a qué línea de base se fijaron los pisos mínimos de cobertura
+vegetacional si no existía una línea de base de cobertura vegetacional (…)? El componente principal del bofedal son
+cojines y afortunadamente los cojines, cuando se ven inactivados por una condición natural o artificial, se mantienen en el
+tiempo y eso nos permitió establecer una planimetría (…). Ello permitió a través de GPS crear un polígono siguiendo los
+márgenes de estas plantas. Afortunadamente los cojines son el 80% o más del sistema, de todo el polígono (…) el
+componente principal es cojín y eso lo pudimos levantar porque estaba presente, independiente de que las plantas estaban
+inactivas, pero fue posible planimetrarlas. ¿La vegetación estaba, aunque estuviese aparentemente seca y esto
+permitió hacer la grilla? Exactamente. Los cojines cuando se secan se mantienen en el tiempo por décadas. ¿Y esto se
+hizo con ocasión del Plan Lagunillas que se activa a partir del 2006? Exactamente. Y también tenemos como respaldo
+esa fotografía del año noventa, y así uniendo todos esos datos, además de la información sobre qué debe tener un
+bofedal… ¿Esta fotografía (…) coincide, corrobora el levantamiento que ustedes hicieron con la cobertura seca?
+Exactamente. (…)”.
+31
+
+--- Página 32 ---
+Nombre Actualización de Imagen Objetivo del Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del
+Sistema Lacustre de Lagunillas en base a Evolución
+Natural de Bofedales Altoandinos de la Cuenca
+Lagunillas Producto del Cambio Climático y eventual
+ajuste a los permisos de CMCC que regulan dicho Plan
+sujetos a la fiscalización de la SMA
+de un sistema vegetacional como este.
+Las siguientes imágenes incluyen la georreferenciación de
+wgs84 del polígono objetivo del humedal según la
+delimitación realizada en el año 2006 en el Plan de Trabajo
+Lagunillas , considerando imágenes de 1990 y 1961.
+Fotografía SAF 1990 y superposición del área de bofedal definida
+como objetivo de recuperación del Plan de Trabajo Lagunillas.
+32
+
+--- Página 33 ---
+Nombre Actualización de Imagen Objetivo del Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del
+Sistema Lacustre de Lagunillas en base a Evolución
+Natural de Bofedales Altoandinos de la Cuenca
+Lagunillas Producto del Cambio Climático y eventual
+ajuste a los permisos de CMCC que regulan dicho Plan
+sujetos a la fiscalización de la SMA
+Fotografía SAF 1961 y superposición del área de bofedal definida
+como objetivo de recuperación del Plan de Trabajo Lagunillas.
+Además, como puede apreciarse en base al Anexo N°3
+del presente Acuerdo, las variables relevantes que son
+objeto de seguimiento en el Plan de Trabajo Lagunillas,
+son las siguientes:
+33
+
+--- Página 34 ---
+Nombre Actualización de Imagen Objetivo del Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del
+Sistema Lacustre de Lagunillas en base a Evolución
+Natural de Bofedales Altoandinos de la Cuenca
+Lagunillas Producto del Cambio Climático y eventual
+ajuste a los permisos de CMCC que regulan dicho Plan
+sujetos a la fiscalización de la SMA
+Bofedal:
+ Flujo de Vertientes (caudal promedio aportado)
+ Actividad fotosintética (presencia)
+ Cobertura rastrojo (<5%)
+ Cobertura especies de bofedal (>78%)
+ Superficie (8,3 ha)
+ Humedad del suelo (presencia)
+ Fauna Íctica (presencia)
+Laguna
+ Superficie (> 5.000 m2)
+En caso de requerirse la actualización de la Imagen
+Objetivo frente al SEA, el vehículo legal que admite esta
+actualización es el artículo 25 quinquies de la LBGMA,
+norma incorporada con fecha 26 de enero de 2010, que
+recogió con jerarquía de ley la figura de la revisión de RCA
+por comportamiento de las variables ambientales
+relevantes de un proyecto en firma distinta a la prevista en
+su RCA, sentando en el Dictamen N°20.477/2003 de la
+Contraloría General de la República, siendo este último
+pronunciamiento el fundamento jurídico de la Resolución
+Exenta N°67/2011 que aprobó el Plan de Trabajo
+Lagunillas .
+Adicionalmente, en caso de que en el marco de la
+instrucción del procedimiento de 25 quinquies de la
+LBGMA hubiere mérito para adoptar un manejo temprano
+del ecosistema, considerando un eventual cambio en el
+comportamiento de las variables ambientales relevantes,
+dicho manejo temprano podría ser amparado por medio de
+medidas provisionales en caso de que el SEA estimare
+concurrentes los supuestos del artículo 32 de la LPA, las
+cuales pueden ser alzadas, modificadas o reiteradas en la
+resolución final.
+34
+
+--- Página 35 ---
+Nombre Actualización de Imagen Objetivo del Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del
+Sistema Lacustre de Lagunillas en base a Evolución
+Natural de Bofedales Altoandinos de la Cuenca
+Lagunillas Producto del Cambio Climático y eventual
+ajuste a los permisos de CMCC que regulan dicho Plan
+sujetos a la fiscalización de la SMA
+Resultado esperado:
+a) Estimación de la evolución natural de los sistemas
+vegetacionales (bofedales) de referencia
+seleccionados, considerando el potencial efecto del
+cambio climático global.
+b) Estimación de evolución esperada en bofedal de
+Lagunillas.
+c) Evaluación de la Imagen Objetivo del bofedal Lagunillas
+establecido en la Resolución Exenta N°67/2011, de la
+COEVA, considerando la variable de cambio climático
+de acuerdo a la normativa vigente, en particular, la Ley
+Marco de Cambio Climático y la Guía del SEA sobre la
+materia, como asimismo la RCA N°13/2022.
+d) Ingreso de solicitud de actualización del Plan de Trabajo
+Lagunillas vigente , en base a la nueva Imagen Objetivo
+del bofedal Lagunillas, conforme al artículo 25
+quinquies de la LBGMA. Adicionalmente, en caso de
+requerirse un manejo temprano de las variables
+ambientales relevantes mientras se tramite el
+procedimiento, CMCC propondrá al SEA la adopción de
+las medidas provisionales que fueren pertinentes y
+útiles para estos efectos, de acuerdo con el artículo 32
+de la LPA.
+35
+
+--- Página 36 ---
+Nombre Actualización de Imagen Objetivo del Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del
+Sistema Lacustre de Lagunillas en base a Evolución
+Natural de Bofedales Altoandinos de la Cuenca
+Lagunillas Producto del Cambio Climático y eventual
+ajuste a los permisos de CMCC que regulan dicho Plan
+sujetos a la fiscalización de la SMA
+a lcance A. Estudios de terreno requeridos:
+Selección de bofedal de control:
+a) Se realizará una revisión de la información disponible
+en los catastros regionales, nacionales, etc., respecto a
+las características o atributos de los bofedales
+presentes en el área. En base a este análisis se
+preseleccionarán dos o más bofedales de comparación.
+b) Se realizará una visita a terreno con profesionales a
+cargo del estudio que permita observar los atributos de
+los bofedales preseleccionados.
+c) Finalmente se seleccionarán el o los bofedales que
+posean atributos similares a Lagunillas, en una o más
+variables forzantes (condiciones topográficas,
+meteorológicas, información hidrogeológica descriptiva,
+hidrología, tipos de suelos, calidad del agua,
+información de monitoreo histórico, similitud en
+términos de su funcionamiento físico y tipo de
+vegetación con Lagunillas, entre otros temas).
+Estudios de terreno para caracterizar el o los bofedales de
+seleccionado para comparación:
+a) Estudio topográfico mediante un levantamiento LIDAR u
+otro aplicable.
+b) Caracterización de vegetación y extensión actual de los
+mismos (COT u otra variable aplicable).
+c) Identificación de las principales especies de fauna
+presentes en el área de estudio.
+d) Caracterización de suelos en sectores de relevancia
+e) Mapeo geológico e hidrogeológico superficial y
+medición de caudales.
+f) Caracterización de calidad del agua.
+g) Finalmente, y en virtud de la información disponible y
+las condiciones de accesibilidad al bofedal, se evaluará
+y definirá la necesidad de realizar una campaña
+geofísica, la determinación de estratigrafía somera del
+bofedal mediante perforación con barreno manual hasta 36
+3 m. Determinación directa de profundidad radicular y la
+instalación de piezómetros y su levantamiento
+topográfico.
+
+--- Página 37 ---
+Nombre Actualización de Imagen Objetivo del Plan de Trabajo
+para el Manejo de las Funciones Ecosistémicas del
+Sistema Lacustre de Lagunillas en base a Evolución
+Natural de Bofedales Altoandinos de la Cuenca
+Lagunillas Producto del Cambio Climático y eventual
+ajuste a los permisos de CMCC que regulan dicho Plan
+sujetos a la fiscalización de la SMA
+Plazo estimado 36 meses, desde que la resolución del IPTA que apruebe
+el Acuerdo se encuentre certificada como firme y
+ejecutoriada por el Sr. Secretario.
+Verificadores de a) Informe de caracterización de los bofedales estudiados
+Cumplimiento (incluyendo base de datos de registros obtenidos en
+terreno).
+b) Informe de estimación de la evolución natural de los
+sistemas vegetacionales estudiados (bofedales)
+considerando el potencial efecto del cambio climático
+global.
+c) Informe final de evaluación de la Imagen Objetivo del
+bofedal Lagunillas establecido en la Resolución Exenta
+N°67/2011, de la COEVA.
+d) Petición de actualización de Imagen Objetivo del
+Bofedal Lagunillas y/o desarrollo de estudios
+adicionales que permitan precisar evolución esperada
+en bofedal de Lagunillas, conforme al artículo 25
+quinquies de la Ley N°19.300 y, en su caso, petición de
+medidas provisionales al amparo de la LPA.
+Monto Financiero USD$ 600.000 para trabajos de terreno
+Asociado
+USD$ 400.000 para gabinete
+Medida 4 (M4): Compensación por pérdida neta de carbono en bofedal de
+Lagunillas
+Nombre Compensación por p é rdida neta de carbono en bofedal
+de Lagunilla s
+Naturaleza de la Medida de Compensación
+Medida
+Responsable Compañía Minera Cerro Colorado Limitada (“ CMCC ”)
+Objetivo/Resultado Objetivo:
+37
+
+--- Página 38 ---
+Nombre Compensación por p é rdida neta de carbono en bofedal
+de Lagunilla s
+esperado Como Primer Objetivo se busca estimar las emisiones de
+carbono y/o la capacidad de captura de carbono en la
+biomasa total original de la vegetación que conformaba el
+bofedal de Lagunillas.
+Cuantificar las emisiones y/o la pérdida o ganancia en la
+capacidad de captura de carbono, que se genera ante la
+disminución o aumento del tamaño del bofedal; así como el
+cambio, en dicha capacidad, producto de los efectos del
+cambio climático.
+Aplicación de esta cuantificación en el cambio que se
+produjo entre los años 1998 (momento en que comenzó el
+deterioro del ecosistema de Lagunillas) y 2020 (al
+recuperarse completamente las funciones ecosistémicas)
+en el bofedal de Lagunillas, época en la que éste pudo
+generar emisiones de gases con efecto invernadero y
+además en la cual el bofedal no desarrolló su capacidad de
+captura de carbono de manera integral.
+La Medida es presentada como un complemento del Plan
+de Trabajo Lagunillas, en cuanto a ser un vehículo que
+permita compensar como ganancia ambiental las emisiones
+de gases de efecto invernadero generadas y/o no captadas
+por el bofedal Lagunillas, considerando la fecha de inicio de
+efectos en las vertientes del sector Lagunillas.
+Como un Segundo Objetivo se propone robustecer el
+conocimiento de la productividad actual de la
+vegetación presente en bofedales altoandinos , mediante
+la instalación de equipamiento que permita registrar dicha
+información en el bofedal de Lagunillas.
+Lo anterior, permitirá la realización de investigaciones
+científicas, los resultados de dicho monitoreo contribuirán al
+fortalecimiento de la estimación de los sumideros en el
+Inventario Nacional de Gases de Efecto Invernadero.
+La Medida es presentada como un complemento del Plan
+de Trabajo Lagunillas, en cuanto a ser un vehículo que
+permita compensar como ganancia ambiental las emisiones
+de gases de efecto invernadero generadas y/o no captadas
+por el bofedal Lagunillas, considerando la fecha de inicio de
+efectos en las vertientes del sector Lagunillas, hasta el año
+38
+
+--- Página 39 ---
+Nombre Compensación por p é rdida neta de carbono en bofedal
+de Lagunilla s
+2020 (al recuperarse las funciones ecosistémicas).
+Resultado Esperado:
+Compensación de emisiones de gases de efecto
+invernadero.
+En la elección del mecanismo de compensación, serán
+tenidos en consideración los siguientes criterios rectores:
+a) Se seleccionarán compensaciones de alta calidad, es
+decir, aquellas generadas a partir de proyectos que
+brinden co-beneficios ambientales. Se entenderá por
+proyectos con co-beneficios ambientales, aquellos
+cuya ejecución, además de compensar de las
+emisiones de gases de efecto invernadero, generen
+beneficios a la calidad de agua, al suelo y/o la
+biodiversidad en forma acorde al objeto de interés
+ambiental del sector.
+b) Se seleccionarán compensaciones de proyectos de
+reducción/absorción de emisiones ejecutados en el
+territorio nacional.
+c) Las compensaciones (reducciones/absorción) de
+emisiones serán adicionales, medibles y verificables.
+Cabe señalar que, en la determinación del mecanismo de
+compensación de las emisiones, se considerará como
+primera fuente de compensación la absorción de carbono
+que pudiese generarse a partir de actividades asociadas a
+la Medida 5 (M5).
+Desarrollo de la metodología antes descrita, de manera
+reproducible y escalable para ser utilizada en otros
+ecosistemas altoandinos y la evaluación respectiva ante
+efectos del cambio climático.
+Alcance Estudios de terreno requeridos:
+a) Estimación de la capacidad de captura de carbono de la
+comunidad que conforma el bofedal. El secuestro de
+carbono se evaluará tomando muestras de sedimentos
+con un Core a una profundidad aproximada de 40 cm y
+posteriormente subdivididos en estratos de profundidad.
+Las muestras serán analizadas en laboratorio
+cuantificando la cantidad de carbono total.
+b) Evaluar la relación “Carbono capturado: Flujo de
+39
+
+--- Página 40 ---
+Nombre Compensación por p é rdida neta de carbono en bofedal
+de Lagunilla s
+metano”. Se realizarán mediciones de emisión de
+metano con cámaras estáticas. Analizando las tasas de
+emisión/captura de Dióxido de carbono y metano.
+c) Medición de la captura de carbono con un monitoreo
+continuo en línea (sujeto a la disponibilidad de red) en la
+zona del bofedal Lagunillas, instalando una torre Eddy o
+una torre de flujo que son equipos que permiten estimar
+el balance de carbono a partir de la medición de la tasa
+fotosintética mediante un Analizador de Gases Infrarrojo
+(IRGA) y que cuenta con:
+ Instrumentos meteorológicos instalados en una torre
+metálica en altura sobre el nivel del piso.
+ Anemómetro sónico que mide la velocidad del viento
+en tres dimensiones, radiómetro, pluviómetro, sensor
+de humedad relativa y de temperatura del aire, lo que
+permite la medición de las tasas de
+evapotranspiración.
+ Cámaras para medir la respiración de suelo.
+Estudios de gabinete requeridos:
+a) Estimación de generación de gases con efecto
+invernadero y/o perdida de captura de carbono en la
+biomasa total original de la vegetación que
+conformaba el bofedal Lagunillas (momento en que
+comenzó el deterioro del ecosistema de Lagunillas) y
+el 2020 (al recuperarse las funciones ecosistémicas),
+es decir, tomando en consideración, como el
+ecosistema funcional, desde que se alcanzó una
+cobertura de un 80%.
+b) Identificación y selección de uno o más instrumentos
+de compensación conforme a los criterios rectores.
+Se considerará como primera fuente de
+compensación la absorción de carbono que pudiese
+generarse a partir de actividades asociadas a la
+Medida 5 (M5).
+Difusión de Resultados.
+La difusión de los resultados de esta Medida formará parte
+del alcance de la Medida 6 (M6) del presente Acuerdo.
+40
+
+--- Página 41 ---
+Nombre Compensación por p é rdida neta de carbono en bofedal
+de Lagunilla s
+Plazo estimado 24 meses, desde que la resolución del IPTA que apruebe el
+Acuerdo se encuentre certificada como firme y ejecutoriada
+por el Sr. Secretario.
+Verificadores de a) Informe de estimación de generación de gases con
+Cumplimiento efecto invernadero y/o perdida de captura de carbono en
+la biomasa total original de la vegetación que
+conformaba el bofedal de Lagunillas.
+b) Registro de instalación de torre Eddy Covariance y
+registro de datos.
+c) Plan de Compensación, indicando monto (Ton/CO2),
+plazos (cronograma) y mecanismo de compensación a
+utilizar, conforme a los criterios rectores.
+d) Registros de implementación de instrumentos de
+compensación de acuerdo a cronograma incluido en el
+Plan.
+Monto Financiero USD $250.000 para estudios de terreno y gabinete
+Asociado
+USD $300.000 para compensación
+USD $300.000 para la instalación y operación de la torre
+Eddy
+Medida 5 (M5): Compensación de un Humedal Altoandino similar o
+equivalente al bofedal Lagunillas
+Nombre Compensación de un Humedal Altoandino similar o
+equivalente al bofedal Lagunillas
+Naturaleza de la Medida de Compensación
+Medida
+Responsable Compañía Minera Cerro Colorado Limitada (“ CMCC ”)
+Objetivo/Resultado Objetivo:
+esperado
+Esta Medida consiste en contribuir a lograr resultados
+positivos para la naturaleza de las operaciones de CMCC
+en los ecosistemas altoandinos localizados preferentemente
+en la Región de Tarapacá, mediante la conservación de un
+humedal altoandino que presente características similares o
+equivalentes al bofedal Lagunillas.
+41
+
+--- Página 42 ---
+Nombre Compensación de un Humedal Altoandino similar o
+equivalente al bofedal Lagunillas
+Esta Medida, que es instaurada en el presente Acuerdo, se
+justifica por apuntar a una compensación equivalente,
+mediante la conservación de un ecosistema adicional y
+equivalente al bofedal Lagunillas, conforme a las
+metodologías vigentes de la autoridad ambiental,
+generando una ganancia neta en biodiversidad al
+combinarla con el manejo del sector Lagunillas referido en
+la Medida 3 (M3).
+Resultado Esperado:
+Esta medida incluirá las acciones necesarias para
+seleccionar una superficie de humedal altoandino para fines
+de conservación. El humedal seleccionado deberá
+presentar características similares o equivalentes en
+biodiversidad y/o servicios ecosistémicos al bofedal
+Lagunillas. Las acciones de conservación serán tomadas
+previo acuerdo con las comunidades presentes en el área, y
+en la medida en que CMCC pueda razonablemente
+constituir títulos de ocupación del territorio.
+Alcance: Fase 1.- Definición de metodología y gobernanza para la
+selección del humedal para fines de conservación
+Para efectos de calcular la compensación equivalente, se
+han considerado las reglas de compensación establecidas
+en las guías metodológicas de la autoridad ambiental, en
+base a la superficie considerada como impactada del
+ecosistema Lagunillas. Se elaborará una matriz de
+componentes claves de biodiversidad para el bofedal de
+Lagunillas que detallará aquellos componentes de la
+biodiversidad que deben ser compensados.
+Se tendrá en cuenta las particularidades de los ecosistemas
+para garantizar la razón de equivalencia, que se sustentan
+en la ganancia generada con la implementación de la
+Medida, considerará guías y/o estándares nacionales e
+internacionales aplicables.
+Como criterios para la selección del sitio, entre las
+características o atributos a considerar como parte de la
+metodología de selección del humedal se encuentran:
+a) Hábitats cercanos o contiguos a Lagunillas, de ser
+posible, con presencia de formaciones de vegetación
+42
+
+--- Página 43 ---
+Nombre Compensación de un Humedal Altoandino similar o
+equivalente al bofedal Lagunillas
+azonal, fauna y superficies de agua.
+b) Presencia de elementos relacionados con valores
+sociales y culturales para las comunidades aledañas,
+tales como zonas de pastoreo, disponibilidad de agua,
+uso de plantas medicinales, etc.
+c) Especificación de elementos de tenencia de tierra que
+indiquen factibilidad de establecer algún mecanismo
+legal de protección. Se buscará generar sitios con
+derecho real de conservación.
+d) Consideración de Sitios Prioritarios para la Conservación
+de la Biodiversidad de Áreas Protegidas producto de la
+Estrategia Regional de Biodiversidad, preferentemente
+en la Región de Tarapacá, de ser posible.
+e) De acuerdo con las guías metodológicas nacionales,
+para la selección del sitio y el cálculo de la superficie de
+conservación equivalente se tendrán en cuenta los
+siguientes criterios: condiciones de paisaje
+(fragmentación, conectividad y diversidad de parches),
+atributos ecosistémicos (estructura, composición,
+diversidad de ambientes) y ecológicos (capacidad de
+regeneración y reclutamiento).
+Utilizando la metodología de las guías ya referidas, y
+asumiendo algunos de los escenarios más probables, y
+la accesibilidad efectiva al territorio (en cuanto a la
+factibilidad de constituir títulos de ocupación del suelo)
+se puede estimar que la superficie de compensación
+para ecosistema terrestre será de una superficie entre
+dos y seis veces la superficie impactada, dependiendo
+de las condiciones finales del sitio de conservación y
+considerando una superficie de 8,3 hectáreas
+impactadas de ecosistema terrestre.
+f) Diseño de un proceso participativo e inclusivo para el
+diseño e implementación de la medida.
+g) Factibilidad para acceder razonablemente y de buena fe
+a títulos de ocupación del territorio por parte de CMCC.
+Fase 2.- Identificación y evaluación de humedales
+preseleccionados
+a) Identificación preliminar de sitios a analizar en base a
+metodología definida en la Guía metodológica para la
+43
+
+--- Página 44 ---
+Nombre Compensación de un Humedal Altoandino similar o
+equivalente al bofedal Lagunillas
+compensación de biodiversidad en ecosistemas
+terrestres y acuáticos continentales, SEA 2023.
+b) Ejecución de estudios y análisis en los sitios
+preseleccionados, para verificar las condiciones de
+similitud o equivalencia con el humedal de Lagunillas, en
+biodiversidad y/o servicios ecosistémicos.
+c) Análisis de factibilidad para acceder razonablemente y
+de buena fe a títulos de ocupación del territorio por parte
+de CMCC.
+Fase 3.- Selección de humedal
+La selección de humedal a conservar se efectuará en base
+a los siguientes criterios:
+a) En la misma cuenca del bofedal Lagunillas, de ser
+posible.
+b) Confirmación de la presencia de elementos claves de
+biodiversidad y/o servicios ecosistémicos para asegurar
+similitud o equivalencia (resultados Fase 2).
+c) Compatibilidad de los objetivos de Puesta en Valor con
+los servicios y aspiraciones de las comunidades y
+grupos de interés que habitan o hacen uso de los
+potenciales sitios a seleccionar.
+d) Especificación de elementos de tenencia de tierra que
+indiquen factibilidad de establecer algún mecanismo
+legal de protección, favoreciendo las figuras con un
+derecho real de conservación.
+e) Alineamiento con políticas y programas públicos de
+protección y conservación de biodiversidad, como el
+Plan Nacional de Restauración de Paisajes 2021-2030.
+f) Confirmación de factibilidad para acceder
+razonablemente y de buena fe a títulos de ocupación del
+territorio por parte de CMCC.
+Fase 4: Definición de Plan de conservación para el sitio
+seleccionado.
+Una vez seleccionado por CMCC el sitio en donde
+implementará la Medida, en función de sus características y
+condiciones específicas en base los resultados de los
+estudios de Fase 3, CMCC diseñará el Plan de
+44
+
+--- Página 45 ---
+Nombre Compensación de un Humedal Altoandino similar o
+equivalente al bofedal Lagunillas
+conservación del sitio que será sometido a la aprobación del
+IPTA. Este Plan incluye :
+a) Identificación de actividades de conservación a ejecutar.
+b) Identificación de permisos ambientales o sectoriales
+aplicables.
+Definición de gobernanza para la administración del sitio
+seleccionado y financiamiento.
+c) Definición de instrumento legal para la protección
+(incluyendo figura de protección, mitigación de
+amenazas, derechos de agua y concesiones mineras).
+d) Identificación de necesidad de acuerdos con terceros
+(comunidades, propietarios, etc.) y factibilidad para
+acceder razonablemente y de buena fe a títulos de
+ocupación del territorio por parte de CMCC.
+Fase 5- Ejecución de las acciones de conservación y
+Seguimiento.
+a) Obtención de permisos aplicables para la ejecución de
+las actividades.
+b) Solicitud y tramitación de instrumento legal para la
+protección.
+c) Firma de acuerdos con terceros (en caso de aplicar), en
+términos razonables y de buena fe para la ocupación del
+territorio por parte de CMCC.
+d) Ejecución de acciones de conservación, mantención y
+administración del área.
+e) Seguimiento de acciones definidas en el Plan de puesta
+en valor.
+En el evento de resultar imposible la ejecución de la Medida
+en el sitio seleccionado por motivos ajenos a la voluntad y
+control de CMCC, en particular, si no le es posible acceder
+al territorio en forma razonable y de buena fe, CMCC
+quedará liberado de ejecutar la Medida en dicho lugar y
+solicitará al IPTA definir una modalidad de ejecución
+sustitutiva y equivalente de la Medida, hasta por el Monto
+por Medida correspondiente, teniendo a la vista las
+políticas, planes y programas en materia de biodiversidad
+del Estado de Chile.
+45
+
+--- Página 46 ---
+Nombre Compensación de un Humedal Altoandino similar o
+equivalente al bofedal Lagunillas
+Fase 6- Integración del conocimiento adquirido en la
+recuperación del bofedal de Lagunillas con la
+conservación de un bofedal equivalente para la mejora
+continua
+Tal como se indica la Medida 2 (M2) en relación a la Medida
+5 (M5), el Comité de Expertos, durante su vigencia, deberá:
+a) Emitir su recomendación técnica en el proceso de
+selección de un humedal altoandino, sim ilar o
+equivalente al bofedal Lagunillas (fases 1, 2 y 3) .
+b) Revisar los alcances de los estudios ambientales
+propuestos a desarrollar en el humedal y los informes
+de seguimiento que se elaboren (fases 4 y 5).
+Asimismo, los hallazgos que arroje el desarrollo de las
+Fases 1 a 5, antes referidas, serán tenidos en consideración
+por CMCC, con el fin que revise y proponga medidas que
+aporten a la mejora de las variables ambientales asociadas
+al Plan de Trabajo Lagunillas.
+Difusión de Resultados.
+La difusión de los resultados de esta Medida formará parte
+del alcance de la Medida 6 (M6) del presente Acuerdo.
+Plazo estimado a) Fase 1: 6 meses
+b) Fase 2: 24 meses
+c) Fase 3: 6 meses
+d) Fase 4: 20 meses
+e) Fase 5: 15 años
+a. Fase 6: 15 años (paralelo a Fase 5).
+Verificador de Los verificadores de cumplimiento se definen según fase de
+Cumplimiento ejecución de la medida:
+a) Fase 1: Informe de propuesta metodológica de
+evaluación de humedal y gobernanza.
+b) Fase 2: Informe de caracterización de sitios .
+c) Fase 3: Reporte de selección de humedal.
+d) Fase 4: Plan de conservación de Humedal
+seleccionado.
+e) Fase 5: Reporte de ejecución de medidas y reporte
+46
+
+--- Página 47 ---
+Nombre Compensación de un Humedal Altoandino similar o
+equivalente al bofedal Lagunillas
+anual de seguimiento de acciones de
+implementación; y registro de ejecución sustitutiva y
+equivalente, según corresponda.
+a. Fase 6: Mejora continua del Plan de Trabajo
+Lagunillas y el Plan de conservación del humedal
+equivalente.
+Monto Financiero USD $ 15.000.000 (incluye actividades de terreno y
+Asociado gabinete)
+Medida 6 (M6): Plan de Divulgación Lagunillas y de las medidas del Acuerdo
+Nombre Plan de Divulgación Lagunillas y de las medidas del
+Acuerdo
+Naturaleza de la Medida de Compensación
+Medida
+Responsable Compañía Minera Cerro Colorado Limitada (“ CMCC ”)
+Objetivo/Resultado Objetivo:
+esperado
+Esta Medida consiste en la puesta en valor del trabajo de
+restauración realizado en el sector Lagunillas mediante la
+valoración de la data histórica del Plan de Trabajo
+Lagunillas ; junto con la difusión de los estudios asociados a
+las M edidas M1, M3, M4 y M5 .
+Resultado Esperado:
+La puesta en valor considera sistematizar, analizar y
+difundir el conocimiento proveniente de las Medidas
+desarrolladas. Esto contribuirá al conocimiento de las
+variables ambientales objeto de estudio y a la restauración y
+conservación de los humedales altoandinos.
+Alcance: Fase 1 (6 meses):
+a) Revisión de la data histórica del plan de manejo por un
+panel experto y multidisciplinario, incluyendo información
+sobre su estado actual y su evolución en el tiempo.
+b) Elaboración de una estrategia de difusión científica, que
+permita dar a conocer los resultados y avances en la
+investigación relacionada con la data histórica del
+monitoreo del bofedal Lagunillas.
+47
+
+--- Página 48 ---
+Nombre Plan de Divulgación Lagunillas y de las medidas del
+Acuerdo
+c) Identificación de revistas científicas indexadas en la Web
+of Science, libros especializados, congresos y eventos
+especializados para la publicación y difusión de los
+resultados.
+Fase 2 (8 meses):
+Estrategia de socialización de la información científica, con
+acciones que permitan revalorizar el territorio y generen un
+flujo sostenido de beneficios culturales, sociales y
+económicos, asociadas a la difusión del conocimiento
+científico y la conservación de los humedales altoandinos.
+La información sería transmitida para todo tipo de público,
+en diversos formatos (tanto físico como digital) e instancias
+participativas. Esto considera la participación de
+organizaciones indígenas de la zona, no sólo para
+resguardar la pertinencia de las actividades, sino para
+informar oportunamente de los resultados obtenidos en las
+etapas anteriores y recoger sus dudas, planteamientos e
+inquietudes.
+Fase 3 (12 a 36 meses) :
+a) Organización de la información de monitoreo de
+variables ambientales bajo estándares de datos
+informáticos para biodiversidad y según los lineamientos
+de la fase previa.
+b) Análisis estadísticos de los datos y tendencias a través
+del tiempo.
+c) Elaboración de artículos científicos para su publicación
+en revistas indexadas en la Web of Science o difusión
+en congresos o eventos especializados.
+d) Elaboración de un libro especializado en el campo de la
+evolución del bofedal de Lagunillas.
+e) Por último, se elaborará una página web del sector
+Lagunillas, en la cual se difundirán los resultados de las
+Medidas del presente Acuerdo.
+Plazo estimado 36 meses desde que la resolución del IPTA por medio de la
+cual apruebe el Acuerdo se encuentre firme y ejecutoriada,
+por medio de certificado extendido por el Sr. Secretario.
+48
+
+--- Página 49 ---
+Nombre Plan de Divulgación Lagunillas y de las medidas del
+Acuerdo
+En cuanto a la página web, esta tendrá vigencia mientras
+esté en operación el Plan de Trabajo Lagunillas, pudiendo
+ser sustituida por otras tecnologías que se desarrollen en el
+futuro.
+Verificador de Los verificadores de cumplimiento para la Puesta en Valor
+Cumplimiento son:
+a) Bases de datos de información de variables
+ambientales.
+b) Publicación científica en revista indexada o en congreso
+o eventos especializados.
+c) Libro sobre la evolución del humedal de Lagunillas
+estrategia de socialización de la información científica.
+d) Creación de la página web de difusión.
+Monto Financiero USD $ 400.000 para la implementación del Plan de
+Asociado Divulgación Lagunillas.
+V.- CONSIDERACIONES FINALES
+V.1.- Seguimiento, Reportabilidad y Fiscalización de las Medidas
+44. CMCC deberá elaborar anualmente un registro interno detallado, sistematizado
+y resumido de control de gestión de los avances, niveles de cumplimiento y
+ejecución de las Medidas y estado de avance de la ejecución financiera en
+relación con el Monto Global del Acuerdo y también para cada Monto por
+Medida. El registro servirá de insumo para el respectivo Reporte Sistematizado
+y Resumido referido en el numeral siguiente.
+45. CMCC deberá entregar cada dos años al IPTA un Reporte Sistematizado y
+Resumido en el que se detallará el nivel de cumplimiento de las Medidas, los
+principales logros y las dificultades o ajustes en la ejecución del Acuerdo, su
+estado de avance, así como todas aquellas materias que las Partes estimen
+pertinente hacer presente al IPTA, a fin de que este pueda prestar sus buenos
+oficios en la correcta implementación del Acuerdo. El primero de estos
+informes deberá ser entregado al IPTA cuando transcurran dos años desde
+que la resolución que aprueba el Acuerdo se encuentre firme y ejecutoriada por
+medio de certificado del Sr. Secretario.
+46. La obligación indicada debe ser cumplida con independencia de las
+competencias propias y sectoriales de la SMA, la DGA, el SAG y la División de
+Recursos Naturales del MMA y/u otro OAECA; en atención a sus funciones,
+49
+
+--- Página 50 ---
+atribuciones y obligaciones legales para desarrollar labores de seguimiento
+ambiental, fiscalización y sanción.
+V.2.- Responsabilidad y Colaboración Recíproca en el cumplimiento del
+Acuerdo
+47. Será de responsabilidad de CMCC contar con las autorizaciones ambientales y
+permisos sectoriales pertinentes, así como con el financiamiento del Monto
+Global necesario para implementar las Medidas del Acuerdo.
+48. La ejecución de las Medidas será de cargo de CMCC, ya sea por sí o por
+intermedio de terceros competentes en el diseño, evaluación y ejecución de las
+mismas.
+49. Todas las Partes actuarán con miras al desarrollo integral del Acuerdo, en un
+marco de colaboración recíproca, buena fe y sustentabilidad.
+V.3.- Otras declaraciones
+50. Cada Parte pagará las costas personales y las costas procesales.
+51. Del mismo modo, las Partes, ratificando en forma expresa y sin reservas el
+presente Acuerdo, se otorgan entre ellas el más amplio, completo, total,
+definitivo y mutuo finiquito en relación con los hechos referidos y las acciones
+planteadas que motivaron el inicio del presente juicio, declarando
+expresamente que: (a) renuncian a toda acción judicial, extrajudicial o de
+cualquier otra índole, derecho o reclamo de cualquier clase o naturaleza que
+eventualmente pudieren tener una en contra de la otra, sus representantes y/o
+ejecutivos, siempre con ocasión y a consecuencia de los hechos referidos que
+motivaron el inicio del proceso de D-10-2021, seguido ante el IPTA,
+produciéndose en consecuencia un avenimiento total entre ellas. La presente
+renuncia incluye expresamente a la acción de indemnización por daño
+ambiental; y; (b) que no tienen cargos ni reclamos de ninguna especie que
+formularse al respecto. Este finiquito y renuncia, así como el efecto de cosa
+juzgada del presente Acuerdo, se extienden expresamente a cualquiera de las
+empresas del “grupo de empresas BHP”, incluyendo entidades nacionales y
+extranjeras, e incluyendo también aquellas en que tenga participación
+minoritaria. Para efectos de este documento, se entenderá que “empresas del
+grupo BHP” comprende a todo el conjunto de entidades que presentan vínculos
+de propiedad, directa o indirectamente, de naturaleza mayoritaria o minoritaria,
+con las entidades BHP Group Limited. Se incluyen así todas y cada una de las
+relacionadas de esta última entidad, según la definición del artículo 100 de la
+Ley 18.045.
+52. Los comparecientes dejan constancia que lo expresado en el Acuerdo lo han
+manifestado de manera libre y espontánea, con pleno conocimiento de sus
+50
+
+--- Página 51 ---
+derechos, contando con la debida y necesaria información del alcance y
+efectos del presente documento y con asesoría letrada durante toda su
+redacción.
+53. Para efectos del artículo 31 N°14 de la Ley de Impuesto a la Renta, las Partes
+dejan constancia que no se encuentran relacionadas en los términos del
+artículo 8 N°17 del Código Tributario y que los gastos que CMCC desembolse
+con ocasión del Acuerdo permiten poner término a la presente contienda
+judicial en la forma señalada en el Acuerdo.
+54. Finalmente, las Partes declaran que el Acuerdo producirá efectos legales una
+vez que sea aprobado por el IPTA, en los términos y condiciones que este
+último establezca, conforme al artículo 44 de la LTA.
+51
+
+--- Página 52 ---
+Personerías:
+La totalidad de los comparecientes declaran contar con personería y
+atribuciones suficientes para suscribir el presente instrumento.
+a) La personería del abogado don Ladislao Alex Quevedo Langenegger
+para representar a don Luis Eliecer Jara Alarcón consta en mandato judicial
+que otorga facultades de ambos incisos del artículo 7° del CPC, de fecha 10
+de agosto de 2021, otorgado ante Notario Público titular de la sexta Notaría
+de Iquique, don Andrés Cuevas Ossandón, Repertorio N°1692-2021, que
+rola a fojas 37 del expediente.
+b) La personería del abogado José Luis Fuenzalida Rodríguez para
+representar a CMCC consta en mandato judicial que otorga facultades de
+ambos incisos del artículo 7° del CPC, otorgado por Escritura Pública de
+fecha 24 de agosto de 2021, en la Notaría de Santiago de doña Susana
+Belmonte Aguirre.
+LADISLAO ALEX QUEVEDO LANGENEGGER
+JOSÉ LUIS FUENZALIDA RODRÍGUEZ
+52
+
+--- Página 53 ---
+ANEXOS
+ANEXO N°1:
+TABLA DE CONVERSION A LAMONEDA NACIONAL DE MONTO GLOBAL Y MONTOS POR
+MEDIDA
+Para los efectos de ejecución del Acuerdo, el Monto Global y los Montos por Medida son convertidos
+de dólares de los Estados Unidos de América (“ USD ”) a su equivalente en moneda nacional (“ CLP ”),
+de acuerdo al valor observador del USD al día 10 de noviembre de 2023 (CLP 910,73. Fuente:
+https://www.dolaronline.cl/) ):
+MEDIDAS VALOR POR MEDIDA EN USD VALOR POR MEDIDA EN CLP
+MEDIDA 1 No Aplica No aplica
+MEDIDA 2 690.000 628.403.700
+MEDIDA M3 1.000.000 910.730.000
+MEDIDA M4 850.000 774.120.500
+MEDIDA M5 15.000.000 13.660.950.000
+MEDIDA M6 400.000 364.292.000
+MONTO GLOBAL 17.940.000 16.338.496.200
+53
+
+--- Página 54 ---
+ANEXO N°2:
+REGISTRO DE RECUPERACIÓN DE NIVELES POZOS LA-2, LA-3, LA-4 Y LA-5
+Figura 1- Ubicación de pozos de control
+54
+
+--- Página 55 ---
+Figura N°2 – Comparación de Niveles de Agua Observados vs Niveles Agua Modelados - Pozo de Control LA-
+02
+Figura N°3 – Comparación de Niveles de Agua Observados vs Niveles Agua Modelados - Pozo de Control LA-
+03
+55
+
+--- Página 56 ---
+Figura N°4 – Comparación de Niveles de Agua Observados vs Niveles Agua Modelados - Pozo de Control LA-
+04
+Figura N°5 – Comparación de Niveles de Agua Observados vs Niveles Agua Modelados - Pozo de Control LA-
+05
+56
+
+--- Página 57 ---
+ANEXO N°3
+NIVELES DE RECUPERACIÓN DE COBERTURA VEGETACIONAL BOFEDAL LAGUNILLAS
+Tabla N°1 – Resultados del monitoreo de variables ambientales relevantes. Periodo 2017-2023
+Sistem Condición
+Variable Unidad 2017 2018 2019 2020 2021 2022 2023
+a exigible
+Exp SMA Exp SMA Exp SMA Exp SMA Exp SMA Exp SMA
+(*)
+64247 77466 91746 115596 12112 1012417
+Flujo de
+Vertientes
+25
+Bofedal (caudal l/s 25,5 24,4 24,0 24,0 23,6 25 25
+(promedio)
+promedio
+aportado)
+Actividad
+umol
+fotosintética
+CO m -2 na 2,1 – 4,6 Sin Acceso 4,1 – 8,9 Sin Acceso s/i -
+(Oxychloe 2
+s -1
+andina)
+Cobertura
+vegetación % na 96,8 97,1 97,6 97,1 98,02 97,85
+(1)
+Cobertura
+% < 5 % 2,9 2,7 2,1 2,6 1,98 1,2
+rastrojo (1)
+Cobertura
+especies de % > 78 % 83,3 94 96,2 96,2 94,39 94,4
+bofedal
+Superficie ha na 8,3 8,3 8,3 8,3 8,3 8,3
+Humedad 13,3 – 15,6 –
+% na 20-47 14-30 s/i 16,5 - 35 12,7 – 36,6
+del suelo 32,1 54,9
+Fauna
+Ictica (n° de n na 137-434 162-374 569-1124 350 - 873 132 - 529 266-529 151-794
+registros)
+85.027 91.490 1.314.161 110.827 120.380 791.582 195.000
+>5.000
+Laguna Superficie m 2 (Septiembre (Diciembre (Julio 2019) (Septiembre (Septiembre (Marzo (Marzo
+2017) 2018) 2020) 2021) 2022) 2023)
+(*) Pendiente de entrega a SMA.
+Gráfico N°1 – Evolución de la cobertura de vegetación del bofedal (%), respecto a la superficie colonizable.
+Periodo 2009-2023
+57
+
+--- Página 58 ---
+ANEXO N°4
+ANTECEDENTES DE CONSTITUCIÓN Y FUNCIONAMIENTO COMITÉ DE EXPERTOS
+RCA N°13/2022
+58
+
+--- Página 59 ---
+CERRO COLORADO
+| BHP Informe: “Conformación del Comité de Expertos
+PAT de Lagunillas”
+1. Resumen
+Este informe da cuenta del cumplimiento del compromiso establecido en la Resolución de Calificación Ambiental
+a
+N° 2022010013 del 06 de enero de 2022 (en adelante. RCA N*13/2022), correspondiente la conformación del
+Comité de Expertos dispuesto en el Plan de Alerta Temprana para resguardar el Plazo de Recuperación de
+en
+Niveles el Acufero de Lagunillas (en adelante, PAT de Lagunillas).
+Para llevar a cabo este compromiso, la Compañía Minera Cerro Colorado (CMCC) realizó un proceso de pre-
+selección de profesionales con amplia experiencia en temas de hidrogeología y bofedales altoandinos. A
+continuación, presentó una propuesta de candidatos a las Direcciones Regionales de la Dirección General de
+Agricola y SEREMI
+Aguas, Servicio y Ganadero de Medio Ambiente, todos de la Region de Tarapacá: solicitando
+su evaluación y conformidad. Contando con la aprobación de estas autoridades!, se constituyó el Comité de
+Expertos (en adelante, el Comité).
+El Comité, está formado por tres miembros? cuya función principal será el analizar la información del estado del
+acuífero y del bofedal Lagunillas y definir las medidas adicionales e inmediatas a implementar en caso de que se
+active una Alerta Preventiva Temprana del PAT de Lagunillas.
+2. Introducción
+En el marco del cumplimiento de los compromisos ambientales adquiridos en el Estudio de Impacto Ambiental
+del proyecto “Continuidad Operacional Compafila Minera Cerro Colorado”, el cual fue aprobado ambientalmente
+porla RCA N“13/2022, este informe presenta los antecedentes que dan cuenta del cumplimiento de lo establecido
+en
+en el acápite 3.5 del Plan de Alerta Temprana para resguardar el Plazo de Recuperación de Niveles el Acuffero
+de Lagunillas”, en el cual se señala respecto a la conformación del Comité de Expert:
+“Lo constituirán 3 miembros, y su objetivo será definir una vez resuelto el proceso de evaluación, las medidas
+adicionales a implementar, con la finalidad de que estas se apliquen inmediatamente sea levantada una alerta
+preventiva, por lo cual, deberá ser retroalimentado de manera permanente con los datos de seguimiento
+ambiental y los reportes que se originen del PAT, según se describe en la Sección 5 del presente documento.
+El comité será conformado en común acuerdo entre el Titular y las Direcciones Regionales de la Dirección
+General de Aguas, Servicio Agrícola y Ganadero y SEREMI de Medio Ambiente, todos de le Región de
+Tarapacá”.
+Anno
++ ver 1
+Anexo
+? Ver 2
+al
+Contenido en a Ada 4). 4, Anevo 1, que de respuesta 4* Informe Consolidado de Solchud de Acaraciones, Rectificaciones ylo
+Ampliciones FTCSARA SEA COR N" 20210110981 de 10 ce noviembre de 2021
+59
+
+--- Página 60 ---
+CERRO COLORADO de
+| BHP Informe: “Conformación del Comité de Expertos
+PAT Lagunilla"
+Adicionalmente, en el numeral 20.2.2, letra a) de la RCA 13/2022, relativo al Plan de Alerta Temprana (PAT), se
+indica:
+“De acuerdo al PAT, es dable indicar que, desde la conformación del Comité de Expertos, hasta la definición de
+las medidas adicionales a implementar, no podrá transcumir un período mayor de 8 meses desde a aprobación
+de la Resolución de Calificación Ambiental”
+3. Objetivo
+dar cuenta
+El objetivo de este informe es de la constitución del Comité de Expertos asociado al PAT de Lagunillas,
+‘dando cumplimiento a los compromisos ambientales establecidos en la RCA 13/2022 en relación a esta materia.
+4. Antecedentes Generales
+En el sector Lagunillas se encuentran ubicados los pozos de extracción de agua subterránea desde los cuales
+CMCC obtiene los recursos hídricos necesarios para el beneficio de los minerales en el Sector Mina y para la
+operación del sistema de recarga artificial del bofedal de Lagunillas. El sector de Lagunillas se encuentra
+localizado a aproximadamente 50 km al noreste del yacimiento de Cerro Colorado, en la comuna de Pica, a una
+altura promedio de 4.050 msnm.
+Durante la evaluación ambiental del Proyecto Continuidad Operacional de Cerro Colorado, se ha diseñado un
+Pian de Alerta Temprana que permite prevenir eventuales desviaciones respectos de los plazos proyectados de
+recuperación de niveles freaticos en el acuífero de Lagunillas. A través de este Plan, CMCC se hará cargo de
+controlar eventuales comportamientos anómalos en el seguimiento de los niveles que pueda implicar el no
+cumplimiento de los plazos de recuperación, y a partir de esto, gestionar medidas para revertir tal condición, ya
+sea medidas de reducción del caudal de bombeo, así como otras medidas adicionales que sea definidas para
+mitigar o prevenir comportamientos anómalos.
+5. Selección Conformación del Comité de Expertos
+y
+partir del
+AA mes de enero de 2022, una vez aprobada la RCA N° 13/2022. CMCC inici las gestiones conducentes
+ala conformación de un Comité de Expertos asociado al PAT de Lagunillas.
+La primera tarea realizada fue realizar un proceso de búsqueda, y pre-selección de tres profesionales de distintas
+especialidades (geología, hidrogeología y ecología), todos con vasta experiencia en las áreas de hidrogeología,
+humedales y biodiversidad de ecosistemas altoandinos.
+60
+
+--- Página 61 ---
+CERRO COLORADO Expertos
+| BHP Informe: “Conf del Comité de
+ion
+PAT de Lagunillas
+Estos antecedentes de los profesionales propuestos fueron presentados ante las Direcciones Regionales de la
+Dirección General de Aguas, Servico Agricola y Ganadero y SEREMI de Medio Ambiente, todos de la Region
+de Tarapacá, quienes, tras la revisión y evaluación de los curriculums de los candidatos propuestos, entregaron
+su conformidad (Anexo 1). En particular, los profesionales aprobados por las autoridades ambientales que
+conforman el Comité de Expertos son:
+Sr. Sergio Iriarte Diaz.
+Sr. Carlos Espinoza Contreras.
+Sr. Rodrigo Pardo Luksic
+-
+6. Objetivos y Alcances del Comité de Expertos
+El objetivo principal de este Comité será defini las medidas adicionales a las incluidas en el PAT de Lagunillas
+(RCA 13/2022), con la finalidad de que éstas se apliquen inmediatamente, conforme sea levantada una alerta
+preventiva. Para cumplir este objetivo, el Comite debera ser retroalimentado de manera permanente con los
+datos de seguimiento ambiental y los reportes que se originen del PAT. A continuación. se listan los principales
+alcances del Comité:
+Desarrollar escenarios de alerta posibles, en virtud de los datos de seguimiento. Priorizar y evaluar dichos
+-
+escenarios (mediante los modelos desarrollados en el caso de ser factible).
+Proponer para los escenaríos de alerta priorizados medidas preventivas concretas, incluyendo su diseño,
+-
+plazo de implementación, factibilidad técnica de implementación e indicadores de efectividad.
+En el caso de las medidas preventivas que sean ejecutadas, el Comité dará seguimiento a la efectividad
+de la medida. El mecanismo y periodo de seguimiento será definido por el Comité de acuerdo al tipo de
+medida preventiva.
+Identificar aquellos aspectos que generan mayor incertidumbre en los pronósticos y evaluar la posibilidad
+-
+de reducir esa incertidumbre.
+Evaluar la pertinencia de desarrollar sensibiizaciones o análisis de incertidumbre, y definir la configuración
+-
+de estos análisis.
+Cabe señalar, que a la fecha el Comité ha sesionado en 4 oportunidades, y se encuentra desarrollando las
+actividades antes descritas.
+7. Conclusiones
+CMCC ha constituido el Comité de Expertos asociado al Plan de Alerta Temprana (PAT) de Lagunillas. Este está
+por tres
+formado profesionales que cuentan con la debida aprobación y conformidad de los Servicios Públicos
+a
+competentes, dando así cumplimiento lo establecido en la RCA N"13/2022, en lo relativo a esta materia.
+61
+
+--- Página 62 ---
+CERROCOLORADO | BHP Conformación del Comité de Expertos
+PAT de Lagunillas
+Anexo 1. Comunicaciones de conformidad de las
+autoridades de la propuesta presentada por CMCC
+62
+
+--- Página 63 ---
+orom.Ns 08/20
+ANT: Propuesta de integrantes para la
+del —
+conformación Comité de Expertos Plan
+el
+de Alerta Temprana (PAT) para resguerdar
+Plazo de Recuperación de Niveles el
+en
+cuero de Lagunilas.
+Revisa confirma idoneidad
+MAT: y de
+listado de profesionales propuestos para
+el tado
+conformar Comité
+09
+Iquique, de mayo de 2022
+A: ALEJANDRO HEILERON BATISTA
+GERENTE GENERAL
+COMPAÑÍA MINERA CERRO COLORADO LIMITADA
+ROXANA VIGUERAS
+DE: CHERRES
+SECRETARIA REGIONAL MINISTERIAL DEL MEDIO AMBIENTE
+REGIÓN DE TARAPACÁ
+N"S2 y los
+En atención al documento con fecha 1 de abr el de 2022, nombra presenta antecedentes curriculares
+que
+de ls res profesionales propuestos conformar Comité Expertos el de lo comprometido el
+para de en marco en
+Plan de Alerta Temprana (PAT) para resguardar el Pazo de Recuperación de Nieles el Acufero de Lagunilas
+en
+aprobado mediante Resolución de ce Calificación del Ambiental se N" 13/2022. De la 8 revisión del documento
+citado
+anteriormente, este órgano administración Estado pronuncia conforme los profesionales propuestos,
+saluda a
+Si oto particular, atencamente usted,
+E
+VIGUERAS CHERRES
+L MINISTERIAL DEL MEDIO AMBIENTE
+REGIÓN DE TARAPACÁ
+A2
+63
+
+--- Página 64 ---
+mlinaricnesag £0b.cl>
+From: Vinko Malnarich Torrico <vinko
+Sent: To: Avarez, jueves, de mayo MA manuela de 2022 avare:2ebhp.com>
+26 16:12.
+Manuel
+Subject: RE: Comité de Expertos de Lagunillas
+Estimado Manuel, no tenemos observaciones ala propuesta presentada.
+saludos
+Vinko Malinarich Torrico.
+Encargado Regional Recursos Naturales Renovables
+Servicio Agricola y Ganadero
+Av. Pedro Prado - 23384. quique. Región de Tarapacó
+156-57) 2505484 2505485 Anexo 3709
++
+Alvarez, Manuel MA [mailto manuel ma avarez20 hp.com)
+Enviado el: miércoles 25 de mayo de 2022 16:58 sas ob
+Para: Vinko Malinarich Torrico <vinko malinanch ci
+Asunto: Comité de Expertos de Lagunilas
+Estimado Vinko
+Espero te encuentres muy bien!
+a
+Te contacto propósito de nuestra propuesta de candidatos para el Comité de Expertos de Lagunilas, que
+forma parte de los compromisos adquiridos por Cerro Colorado mediante la RCA 13/2022. Particularmente
+forma parte del Plan de Alerta Tempana de plazos de recuperación de nveles en la Cuenca que hemos
+implementado.
+En concreto, quisiera saber si, ustedes como Servicio, tienen observaciones a nuestra propuesta
+Como antecedente, aprovecho esta comunicación, para avisarles que DGA y Seremi del Ministerio del
+(los nos
+Medioambiente restantes involucrados en la decisión) oficiaron, aprobando nuestros candidatos.
+Ante cualquier duda, mis números de teléfono celular son:
++56 97763 2985
++55 9 6149 4730
+Muchas Gracias!
+Manuel Avarez
+Recursos Hídricos
+Compañía Minera Cerro Colorado
+A3
+64
+
+--- Página 65 ---
+49
+om. + we
+ANT.
+Carta BHP Cerro Colorado
+Ne51/2022 de fecha 01de abril
+de 2022.
+— —
+MAT. Aprueba propuesta de
+integrantes para fa
+conformación: del Comité de
+Expertos.
+Iquique, 16 de mayo de 2022
+CLAUDIO OLIVARES SANTELICES
+DIRECTOR REGIONAL
+DIRECCIÓN GENERAL DE AGUAS, REGIÓN DE TARAPACÁ .
+ALEJANDRO HEILBRON BATISTA
+COMPAÑÍA MINERA CERRO COLORADO LIMITADA
+Junto con saludarlo cordialmente y relación solicitud detallada
+en a su
+el ANT., la cual se relaciona con el compromiso descrito en el
+en
+número 20.22 Plan de Alerta Temprana (PAT) letra a), Proyecto
+Continuidad Operacional de Cerro Colorado, aprobado por la
+este Servicio
+Resolución de Calificación Amblental N* 13 del año 2022,
+puede mencionar lo siguiente:
+Con fecha de 11 de abril de 2021, ingresa para aprobación a
++ se
+este Servicio la propuesta de integrantes del Comité de Expertos
+para el PAT de Lagunilas. Los tres profesionales propuestos,
+fueron los siguientes:
+Sr. Sergio Iriarte
+-
+Sr. Carlos Espinoza Contreras.
+Sr. Rodrigo Parco Luksic.
+-
+En de lo anterior, revisó y evaluó los antecedentes de los
+razón se
++
+tres: candidatos propuestos para la conformación del Comité de
+Expertos para el PAT Lagunillas, dando conformidad a la propuesta
+aceptando la conformación de dicho Comité.
+y
+Sin otro particular, saluda atentamente a usted,
+65
+
+--- Página 66 ---
+CERRO COLORADO | BHP Contain des Comi de Exper
+Anexo 2. Integrantes del Comité de Expertos
+Rodrigo Pardo: Licenciado en Ciencias del Mar de la Universidad Católica del Norte (1996), Doctor en Ciencias
+Biológicas con mención Ecología y Biología Evolutiva de la Universidad de Chile (2010), Magíster en Ciencias
+en y
+Biológicas c/m Ecología y Biología Evolutiva de la Universidad de Chile (2005), y Diplomado estadística Minería
+de Datos de la Universidad de Santiago (2014).
+25 años de experiencia en estudios de ecosistemas acuáticos continentales.
++
+Ha participado en proyectos en las áreas de ecología acuática, conservación y biodiversidad de vertebrados
++
+acuáticos y en la modelación aplicada de ecosistemas acuáticos continentales, y en su adaptación al cambio
+climético.
+de
+«Ha colaborado en cátedras Limnología, Ecología, Modelación Aplicada y Biogeoquímica de la Universidad de
+Chile: Ecología de Poblaciones, Limnología y Ecología de comunidades de la Universidad Metropolitana de
+Ciencias de la Educación y Limnologia de la Universidad Andrés Bello.
+Actualmente forma parte del Curso Biodiversidad y Conservación de Humedales de la Universidad Santo Tomas
++
+y Fundador de AquaExpert.
+Sergio Iriarte: Geólogo. Ha desarrollado múltiples proyectos en hidrogeología, así como en geología regional,
+geotermia y glaciología. Trabajó 10 años en el Servicio Nacional de Geología y Minerla (Chile) desarrollando
+proyectos de geología regional e hidrogeología
+30 años
+de experiencia,
++
+«Ha desarrollado múltiples proyectos en hidrogeología, así como en geología regional. geotermía y glaciología.
+Vesta experiencia en hidrología isotépica, siendo parte del equipo de expertos de la Agencia Intemacional de
++
+Energía Atómica (AIEA).
+Profesor del Diplomado *Hidrogeología Aplicada a la Minería y Medioambiente” de la Universidad de Chile desde
++
+2008,
+Vicepresidente de la Asociación Intemacional de Hidrogeólogos (Capitulo Chileno).
++
+Carlos Espinoza: Ingeniero Civil, con mención en Hidráulica de la Universidad de Chile, Máster de Ciencias en
+Ingeniería Ambiental de la Universidad de Ilinois (1994) y Doctor en Ingenieria Ambiental (1997). Becas Presidente
+de la República y Fulbright.
+AS
+66
+
+--- Página 67 ---
+CERRO COLORADO | BHP Conformación del Comité de Expertos
+PAT de Lagunillas
+y
+31 años de experiencia en estudios de recursos hídricos modelación hidrogeológica
++
+Ha participado en diversos comités de revisión de estudios hidrogeológicos y ambientales de proyectos en Chile
++
+tanto en lo que se relaciona con el consumo de agua y sus efectos (aguas superficiales y subterráneas), así como
+con estudios de los efectos de actividades de proyecto sobre la calidad del agua superficial y subterránea.
+Desde 1989 y hasta 2006 fue profesor jomada completa de la Escuela de Ingeniería de la Universidad de Chile,
++
+en la cual desarrolló actividades docentes de pregrado, postgrado y postítulo en el Departamento de Ingeniería
+Civil de la Universidad de Chile: aguas subterráneas, calidad del agua, modelación hidrogeológica y medio
+2006
+ambiente. A partir de marzo de es profesor jomada parcial de la Universidad de Chile.
+Enla actualidad es profesor en el Diploma de Postítulo en Hidrogeología Aplicada a la Minería y Medio Ambiente
++
+del Departamento de Geología de la Facultad de Ciencias Fisicas y Matemáticas de la Universidad de Chile.
+AS
+67
