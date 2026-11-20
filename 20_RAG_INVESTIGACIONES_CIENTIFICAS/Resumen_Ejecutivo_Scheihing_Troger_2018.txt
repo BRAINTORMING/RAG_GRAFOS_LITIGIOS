@@ -1,0 +1,232 @@
+--- Página 1 ---
+Resumen Ejecutivo
+Cambio climático local inducido por la sobreexplotación de agua subterránea — Cuenca Laguna
+Lagunillas, norte de Chile (Scheihing & Tröger, 2018)
+Dosier Bofedal Pampa Lagunillas — Anexo técnico
+Mensaje clave
+El estudio documenta que, entre 1991 y 2012, el nivel del acuífero somero de Pampa Lagunillas
+cayó desde condiciones casi superficiales hasta ~15 m de profundidad (hasta 18,5 m en el pozo
+más afectado), y que en ese mismo período la temperatura del aire en la cuenca se desacopló
+de una estación de referencia cercana no intervenida : las mínimas invernales bajaron 3–8
+°C y las máximas de verano subieron 2,7 °C en forma abrupta. Los autores proponen que la
+causa es el descenso del nivel freático por debajo de ~2 m de profundidad, y recomiendan no
+permitir descensos bajo ese umbral en acuíferos altoandinos someros.
+Marcas de lectura usadas en este resumen: 🟢 dato o conclusión expresa del estudio · 🟡
+inferencia razonada de este resumen (no está en el estudio) · 🔴 vacío: el estudio no lo aborda.
+1. Nombre de la investigación
+Local climate change induced by groundwater overexploitation in a high Andean arid
+watershed, Laguna Lagunillas basin, northern Chile (en español: «Cambio climático local
+inducido por la sobreexplotación de agua subterránea en una cuenca hidrográfica alto-andina
+árida, cuenca de Laguna Lagunillas, norte de Chile»).
+Publicación: Hydrogeology Journal 26:705–719 (2018) · DOI 10.1007/s10040-017-1647-4 · Recibido
+3-nov-2016, aceptado 17-jul-2017.
+2. Autores
+Konstantin Scheihing y Uwe Tröger.
+3. Institución
+Departamento de Geociencias Aplicadas, Grupo de Investigación en Hidrogeología, Technische
+Universität Berlin (Alemania). Financiado por CONICYT (Chile); el primer autor agradece el
+apoyo de la Red de Hidrogeólogos en Inicio de Carrera (ECHN) de la Asociación Internacional
+de Hidrogeólogos (IAH).
+4. Objetivos
+• 🟢 Examinar la relación concreta entre el descenso de los niveles de agua
+subterránea y los cambios en las temperaturas mínimas y máximas, diarias y
+
+--- Página 2 ---
+mensuales, del aire , usando datos de monitoreo de largo plazo (y no modelos a gran
+escala).
+• 🟢 Cuantificar cambios climáticos locales mediante análisis estadístico de series de
+tiempo de dos estaciones meteorológicas durante 29 años, y contrastarlos con imágenes
+satelitales de temperatura superficial (LST).
+• 🟢 Derivar una recomendación de buenas prácticas para la gestión de agua subterránea
+en entornos andinos similares.
+5. Alcance
+Dimensión Cobertura del estudio
+Área Cuenca Laguna Lagunillas (194 km², 4.000–4.800 msnm), acuífero no
+confinado de Pampa Lagunillas; precipitación media ~140 mm/año,
+>80 % en verano
+Niveles de agua 5 pozos de observación (LA-1, 3, 4, 5, 7), 1991–2012, medidos por BHP
+(acceso público por ley chilena)
+Temperatura del Estación Lagunillas (MLL, ~4.030 msnm) y estación de referencia
+aire Collacagua (MCC, ~4.013 msnm, cuenca del Salar del Huasco, 12 km al
+sur), 1983–2012
+Teledetección Landsat 5 (diurno, reescalado 0–1, antes de 2000) y ASTER (LST
+absoluta, día y noche, 2000–2014)
+Estadística Regresión lineal, pruebas de Pettitt y Buishand (puntos de cambio),
+Mann-Kendall modificado, correlación cruzada de Pearson, Índice de
+Oscilación del Sur (SOI)
+Área afectada por el Estimada en ~30 km² alrededor del humedal, bajo 4.050 msnm
+cambio climático
+local
+Límites declarados por los autores: 🟢 ~10 % de los días tienen datos faltantes (brecha
+mayor en MLL entre abr-1995 y ene-1997); las imágenes satelitales se usaron de forma
+cualitativa ; no hay modelación climática ni balance de energía directo.
+6. Humedal y/o bofedal
+• 🟢 El artículo trata el humedal ( wetland ) Laguna Lagunillas y el salar contiguo en el
+sur de la cuenca. 🔴 No usa el término «bofedal» ni caracteriza su tipología
+vegetacional.
+• 🟢 Condición original: el agua subterránea en la zona del humedal estaba a ~0,2 m bajo
+el suelo (pozo LA-5) y a ~1 m en la estación meteorológica (LA-3) en 1991.
+• 🟢 En 2002 la comunidad aymara advirtió que el humedal y cinco manantiales
+asociados se habían secado por el severo descenso del nivel freático.
+• 🟢 Como parte de la sanción a BHP, la empresa acordó regar artificialmente el humedal
+(~25 L/s desde ~2006, con agua del mismo acuífero ) y restaurarlo a largo plazo; las
+extracciones del acuífero continuaban.
+
+--- Página 3 ---
+• 🟢 Imágenes Landsat en falso color muestran el retroceso general de la vegetación
+superficial asociada al humedal; la anomalía térmica fría del humedal casi desapareció
+hacia octubre de 1995.
+7. Participación de la compañía minera en el impacto
+El estudio es explícito en nombrar a BHP (Compañía Minera Cerro Colorado) como operador de
+la extracción, y atribuye el descenso a la explotación del acuífero:
+Hecho Detalle según el estudio
+Derechos de agua 🟢 En 1982 la DGA otorgó a BHP derechos de extracción instantánea de
+300 L/s del acuífero (Res. DGA N.° 425)
+Destino 🟢 Mina de cobre Cerro Colorado (45 km al oeste), producción
+comercial desde 1994; extracciones desde después de 1991
+Magnitud actual 🟢 BHP reporta ~130 L/s (informe de sostenibilidad 2014) y buscaba
+extender la operación hasta 2023 (evaluación ambiental en curso al
+momento del artículo)
+Descenso 🟢 Hasta 31 dic. 2011: LA-1 −18,5 m; LA-3 −10,8 m; LA-4 −10,4 m; LA-5
+−10 m; LA-7 −13,5 m; promedio 0,5–1 m/año
+Vínculo con pozos 🟢 «Los descensos más fuertes estuvieron asociados con los pozos de
+producción»; los saltos en las series reflejan la gestión operativa de
+esos pozos; la leve recuperación de 2005 coincide con una baja de
+producción tras un terremoto
+Calificación 🟢 Los autores hablan de «severa sobreexplotación» y de un sitio de
+producción de agua «mal gestionado» ( mismanaged )
+🔴 Matiz: el artículo no presenta una serie anual de caudales extraídos ni un balance hídrico
+formal; la atribución a la extracción se apoya en la coincidencia espacial (descensos máximos
+en pozos de producción), la coincidencia temporal y la exclusión de explicaciones climáticas
+regionales.
+8. Explicación científica del secado y de la disminución de agua
+Qué ocurrió con el agua ( 🟢 ): la extracción sostenida por encima de la recarga (precipitación
+~140 mm/año) hizo descender el nivel freático de ~0,2–1 m a ~10–18 m. Los años lluviosos
+(1999, 2001) amortiguaron apenas el descenso. Entre 1992 y 2005 toda la cuenca bajó ~6 m
+respecto de condiciones naturales (contorno 4.028 → 4.022 msnm). Con el nivel muy por debajo
+del humedal, los manantiales y la vegetación freatófita pierden su fuente de agua.
+Por qué además cambió el clima local ( 🟢 propuesto por los autores): dos mecanismos
+que se suman cuando el nivel baja de ~2 m (profundidad de extinción del potencial evaporativo
+en los Andes áridos):
+1. De día: con agua somera, buena parte de la energía solar se consume evaporando. Al
+bajar el nivel, esa energía calienta el suelo desnudo y, a través de él, la atmósfera baja
+→ las máximas de verano subieron ~2,7 °C hacia 1995–1997. Las LST diurnas confirman
+anomalías frías de hasta ~20 °C donde hay agua somera.
+
+--- Página 4 ---
+2. De noche: el agua somera aumenta la conductividad térmica del suelo y lo conecta con
+un reservorio de calor casi constante (~10 °C). Al desaparecer, el suelo pierde ese aporte
+→ las noches se enfrían más : mínimas invernales −3 a −8 °C y estivales −2 a −4 °C
+respecto de la referencia. Las LST nocturnas muestran la cuenca 4–10 °C más fría que la
+referencia, con diferencia creciente.
+Umbral: 🟢 el descenso crítico observado fue de 2–3 m bajo el suelo , tras lo cual los cambios
+son abruptos (no lineales), consistente con tasas de descenso de 0,5–1 m/año.
+Figura 2 del estudio. Profundidad del nivel de agua (círculos de colores, escala izquierda) y
+precipitación mensual en MLL (barras azules, escala derecha) en cinco pozos, 1991–2012. Las
+bandas grises marcan el inicio de los cambios de temperatura (1995–1998), el secado de los
+manantiales y el inicio del riego del humedal. A la derecha, contornos del nivel de agua en
+octubre de 1992 (condición no perturbada) y octubre de 2005.
+9. Hipótesis validadas
+El artículo no enumera hipótesis formales; la tabla ordena las proposiciones que contrasta y el
+respaldo estadístico que presenta.
+# Proposición Evidencia del estudio Estado
+H1 El acuífero sufrió Tendencias lineales en 5 pozos, R² 0,76–0,91; 🟢 Validada
+un descenso descensos de 10–18,5 m
+sostenido por
+extracción
+
+--- Página 5 ---
+# Proposición Evidencia del estudio Estado
+H2 Las temperaturas Mann-Kendall: tendencia decreciente de la 🟢 Validada
+mínimas locales diferencia MLL−MCC; pendiente de Sen
+bajaron −0,187 (verano, p = 0,012) y −0,385 (invierno,
+p = 0,005)
+H3 Las máximas de Punto de cambio ~1995 (Pettitt y Buishand, p 🟢 Validada
+verano subieron < 0,0001); salto ~2,7 °C
+de forma abrupta
+H4 Aumentó la Varianza de dmin en MLL: 18,0 → 47,0; 🟢 Validada
+variabilidad quiebres en ~1994 ( dmin , p < 0,0001) y
+térmica local ~1999–2001 ( dmax , p = 0,006–0,010); MCC
+sin quiebres
+H5 No es un Correlación cruzada MLL–MCC de ~0,7 🟢 Validada
+forzamiento (rezago 0) en 1983–1995 y desacople en (evidencia fuerte,
+climático regional 1997–2012; MCC sigue al SOI (La Niña → no prueba directa)
+noches más cálidas) y no muestra quiebres
+H6 No es un artefacto Tendencias y cambios de varianza persisten y 🟢 Respaldada
+de la brecha de se observan en ambas estaciones y series
+datos 1995–1997
+H7 Las anomalías LST Landsat/ASTER 1991–2014: pérdida de la 🟢 Respaldada
+térmicas anomalía fría del humedal y diferencia cualitativamente
+satelitales creciente entre la cuenca y la referencia
+coinciden con el
+cambio de aire
+H8 Mecanismos Coherente con literatura (Alkhaier et al., 🟡 Plausible; los
+físicos: extinción Houston, Hernández-López et al.) y con los autores piden más
+evaporativa a ~2 datos; no medido directamente investigación
+m y pérdida de (modelación)
+conductividad
+térmica
+
+--- Página 6 ---
+Figura 7 del estudio. Evolución de las temperaturas mínimas (a) y máximas (b) mensuales en
+MLL y MCC para verano e invierno, 1984–2012. Las barras grises son la diferencia MLL−MCC:
+tendencia decreciente en las mínimas y salto de ~2,7 °C en las máximas de verano.
+10. Cobertura vegetal, flora y fauna
+El estudio no es un inventario biótico : su foco es hidrológico-climático.
+• 🟢 Vegetación: las imágenes Landsat en falso color muestran un retroceso general de
+la vegetación superficial del humedal, donde el agua estaba originalmente a ~0,2 m; la
+anomalía térmica fría asociada a la vegetación y al agua somera se pierde hacia 1995.
+• 🟢 Fauna y ecosistema: los autores advierten que habría que estudiar «en mayor
+profundidad» los efectos del cambio climático local sobre plantas, insectos, aves,
+pequeños reptiles y roedores alrededor del humedal. No presentan datos de especies,
+abundancias ni cobertura medida.
+• 🟢 Efecto adicional señalado: máximas de verano más altas pueden aumentar la
+evaporación de la lluvia, que cae casi toda en verano.
+• 🔴 Vacío: no hay cuantificación de superficie vegetada, composición florística ni
+fauna. 🟡 Para flora ( Distichia muscoides y otras) y fauna ( Orestias agassii ) corresponde
+apoyarse en las secciones específicas del dosier.
+11. Proyección del futuro del bofedal según las hipótesis validadas
+El estudio no incluye proyecciones . Lo siguiente es una inferencia 🟡 construida sobre H1–
+H8, con sus propios límites:
+• Si el nivel freático permanece bajo ~2–3 m: el humedal no puede recuperarse con
+agua subterránea natural, porque su fuente (agua a ≤1 m) ya no existe. Hay un círculo
+vicioso plausible: suelo más caliente de día → más evaporación del escaso aporte de
+verano; noches más frías y con mayor variabilidad → mayor estrés por heladas para la
+
+--- Página 7 ---
+vegetación. Los autores ven el efecto como un refuerzo entre procesos hidrológicos y
+atmosféricos en el clima extremo andino.
+• El riego con agua del mismo acuífero (~25 L/s) alimenta localmente el humedal,
+pero mientras el acuífero siga en descenso no reproduce las condiciones naturales: es
+una compensación, no una recuperación del sistema (inferencia; el estudio solo reporta
+la medida).
+• Escenario de recuperación: requeriría reducir las extracciones hasta devolver el nivel
+por encima del umbral de ~2 m. 🔴 El estudio no mide tiempos de recuperación ni si el
+cambio térmico es reversible.
+• Superficie en riesgo: ~30 km² alrededor del humedal (bajo 4.050 msnm).
+• 🔴 Límite temporal: los datos de agua y temperatura terminan en 2012 (LST hasta
+2014). La evolución posterior, incluida la actualización satelital y las medidas de la
+conciliación judicial de 2023, está tratada en otras secciones del dosier y no en este
+estudio.
+12. Conclusiones
+1. 🟢 Entre 1991 y 2012 el acuífero de Pampa Lagunillas descendió de 0,5 a 1 m/año por
+sobreexplotación; el descenso crítico a partir del cual aparecen cambios climáticos no
+lineales fue de 2–3 m bajo el suelo .
+2. 🟢 Se detecta un cambio climático local : mínimas invernales −3 a −8 °C, mínimas
+estivales −2 a −4 °C, máximas de verano +2,7 °C (~1995–1997) y mayor varianza térmica,
+coherente con las anomalías de temperatura superficial satelital.
+3. 🟢 Se descarta un forzamiento climático regional, dado el desacople respecto de la
+estación de referencia de Salar del Huasco; la variación natural de las mínimas se asocia
+al SOI.
+4. 🟢 Los autores proponen dos mecanismos: pérdida del enfriamiento evaporativo diurno
+y pérdida del aporte térmico nocturno del acuífero, ambos al bajar el nivel bajo ~2 m.
+5. 🟢 Recomendación: en proyectos de agua subterránea en cuencas altoandinas áridas y
+semiáridas, evitar descensos bajo 2 m y considerar las interacciones agua
+subterránea–clima en los estudios de impacto ambiental y en el monitoreo.
+6. 🟡 Para el dosier: el estudio entrega causalidad física y estadística publicada en revista
+arbitrada, útil para vincular extracción, secado y cambio térmico; su límite es que no
+cuantifica flora, fauna ni proyecta el futuro del humedal, por lo que debe
+complementarse con las secciones de evidencia satelital, flora y litigios.
+Fuente: Scheihing K, Tröger U (2018) Hydrogeol J 26:705–719, doi:10.1007/s10040-017-1647-4.
+Resumen elaborado a partir de la traducción al español del artículo. Las figuras corresponden a
+las publicadas en el artículo original; sus rótulos internos están en inglés.
