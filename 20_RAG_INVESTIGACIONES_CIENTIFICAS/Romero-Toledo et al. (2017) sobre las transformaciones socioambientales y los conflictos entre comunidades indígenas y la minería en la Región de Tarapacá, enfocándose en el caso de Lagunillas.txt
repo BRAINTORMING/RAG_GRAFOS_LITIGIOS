@@ -1,0 +1,956 @@
+--- Página 1 ---
+Explorando conflictos entre comunidades
+indígenas y la industria minera en chile: las
+transformaciones socioambientales de la región
+de tarapacá y el caso de lagunillas
+Exploring conflicts between indigenous communities
+and the mining industry in chile: the socioenvironmental
+transformations of the tarapaca region an the case of lagunillas
+Hugo Romero Toledo 1 , Angélica Videla 2 y Felipe Gutiérrez 3
+Resumen D Introducción
+Este artículo explora los conflictos socioambientales mineros, a partir
+de la contradicción entre el crecimiento económico de Chile, que es
+fuertemente dependiente de la producción de minerales para el mercado El norte de Chile es conocido por ser uno de los lugares de
+global, y los acuerdos nacionales e internacionales que apuntan al reco- extrema aridez en el mundo. Pese a lo anterior, este extenso
+nocimiento y protección de los pueblos originarios así como también territorio ha permanecido habitado por grupos humanos
+del territorio que habitan. En este sentido, se analiza la problemática de
+acceso y control del agua, puesto que se ha registrado daño ambiental desde hace aproximadamente 12 mil años. Actualmente,
+sobre recursos hídricos localizados en territorios de comunidades. Para existen al menos tres pueblos originarios en este espacio,
+ello la investigación entrega una serie de elementos que le dan forma a las
+que se encuentran luchando por reconocimiento político
+interacciones y a los conflictos entre empresas mineras y comunidades
+indígena, como lo son la importancia de las dinámicas de la población y derechos territoriales. Estos pueblos –que residen en
+andina indígena, y el uso fluido que hacen del espacio urbano y rural, el altiplano y la precordillera– son los aymara, quechua y
+el proceso de reconocimiento y formalización del pueblo aymara, las
+comunidades y los territorios indígenas versus la territorialización de la atacameño o likan-antai, cuyas prácticas socioambientales
+industria minera desde los años ochenta. Para ilustrar estos procesos se son ancestrales y trascienden los límites geopolíticos de la
+presenta el caso del humedal de Lagunillas localizado en la precordillera cordillera de los Andes. El norte de Chile, además, es rico
+de la región de Tarapacá.
+en minerales, lo que ha atraído históricamente a grandes
+Palabras claves : Conflictos socioambientales – aymara – minería –Tarapacá. compañías mineras públicas y privadas, que han ejercido
+una creciente demanda por tierra, agua y energía para sus
+Abstract procesos industriales, y que en base a marcos legales ad
+This article explores socioenvironmental mining conflicts, from the contradiction hoc, han transformado a la minería en la actividad econó-
+between economic growth in Chile, which strongly depends on mineral production for
+global markets, and the national and international agreements that aim to protect mica más importante del país. De esta forma, ha emergido
+indigenous communities and the environment where they live. One of the main issues una importante contradicción, que se ha acentuado en los
+centers on water resources located in these territories.
+últimos treinta años: el crecimiento económico de Chile,
+In this sense, our research is also focused the elements that shape interactions and
+conflicts between companies and indigenous communities, such as the importance fuertemente dependiente de la producción de minerales
+of the dynamics of the Indigenous Andean population, and the fluid use that they para el mercado global, choca con los acuerdos nacionales
+make of urban and rural space, the process of recognition and formalization of the
+Indigenous people, communities and territories, and the territorialization of the e internacionales que apuntan al reconocimiento y protec-
+mining industry since the 1980s. These processes are illustrated through the case of ción de las comunidades indígena y el medio ambiente en
+the Lagunillas wetlands, located in the foothills of the Tarapacá region. que viven, los cuales han sido recientemente reconocidos
+y negociados. Sin embargo, en Chile los movimientos so-
+Keywords : Socioenvironmental conflicts – aymaras – mining –Tarapacá.
+ciales contra la minería están menos desarrollados que en
+Recibido: diciembre 2015. Aceptado: agosto 2016. otras partes de América Latina, pese a lo extensivo e inten-
+sivo de la industria minera en el país.
+1 Doctor en Geografía Humana. Director del Observatorio Regional, Universidad Católica de Temuco e Investigador del Centro de Estudios de
+Conflicto y Cohesión Social (COES).CHILE. Email: hugo.romero@uct.cl.
+2 Cientista Política, Mg© en Estudios Interculturales. Coordinadora del Observatorio Regional, Universidad Católica de Temuco, CHILE.
+Email: avidela@uct.cl
+3 Geógrafo. Asistente de investigación del Observatorio Regional, Universidad Católica de Temuco. CHILE. Email: fgutierrez2010@alu.uct.cl
+Nº 55 / 2017, pp. 231-250
+231 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 2 ---
+Hugo Romero Toledo, Angélica Videla y Felipe Gutiérrez
+Este artículo explora cómo esta contradicción se de- mitada capacidad de distribución de las riquezas y los
+sarrolla en el norte de Chile. Para ello nos adentrare- negativos impactos sociales y ambientales asociados
+mos en el concepto de extractivismo y su aplicación a (Bebbington 2013), lo que ha generado la transforma-
+la minería, para con esta relación entender el concepto ción del uso, control y significado de los recursos na-
+de territorialización. En la segunda sección se analiza la turales, afectando el derecho de la población local e
+conceptualización de articulación identitaria indígena incrementando las desigualdades (Göbel & Ulloa 2014;
+y se presenta el caso de las comunidades andinas en el Bebbington et al . 2008).
+norte de Chile, posteriormente se expone la metodo-
+logía de investigación. En las últimas tres secciones se Utilizando esta conceptualización, nuestro trabajo se
+presentan los resultados: en primer lugar, se analiza el centra en el extractivismo minero, el cual está conti-
+proceso de territorialización de la inversión minera en nuamente presionado por tres grandes elementos: a) la
+Chile y en la región de Tarapacá, luego, se presenta la constante exploración y explotación de depósitos para
+articulación identitaria indígena en el norte de Chile, mantener su competitividad, b) el incremento de inver-
+y en tercer lugar, se presenta el caso de Lagunillas, en sión en tecnología para mantener la producción a bajo
+el que se expresa la contradicción entre el crecimiento costo, y c) la creciente producción de desperdicios (Brid-
+minero y la reorganización indígena. Por último, se ge 2000). El extractivismo minero requiere construir
+presentan conclusiones sobre el proceso chileno y las infraestructura para tener acceso a las materias primas
+futuras líneas de investigación. más baratas y para acortar la distancia con los mercados
+(Bunker 2011). Esto significa que se ha ampliado la fron-
+D Extractivismo minero en américa latina tera de recursos a través de la introducción de la minería
+en lugares donde no se había desarrollado con anteriori-
+Como resultado del proceso de colonización, América dad y donde actualmente viven comunidades campesinas
+Latina fue especializada tempranamente en la explota- e indígenas, lo cual está generando conflictos sociales de
+ción intensiva de materias primas, especialmente mine- importancia (Bebbington et al . 2008). En muchos países
+rales, lo que ha generado a lo largo del tiempo un patrón de la región, se ha favorecido el control privado sobre la
+de crecimiento económico con una enorme degradación tierra, el agua y otros recursos naturales, lo que ha altera-
+ambiental (Alimonda 2015). Este proceso, que ha per- do su uso y su manejo para generar mayores ganancias, lo
+sistido en la historia del continente, y que ha ganado cual ha ido provocando descontento social dado lo irre-
+fuerza en los últimos treinta años en el marco de una versible del daño ambiental (Delgado 2010).
+reestructuración económica mundial, ha sido llama-
+do por algunos autores como extractivismo (Gudynas De esta manera, las comunidades campesinas e indíge-
+2015, 2009; Göbel y Ulloa 2014). El extractivismo es la nas, localizadas en aquellas áreas objeto del extractivismo,
+apropiación de la naturaleza a través de la monoproduc- experimentan la persistencia de órdenes coloniales que
+ción y la extracción de grandes volúmenes de recursos afectan sus dinámicas socio-culturales sobre la naturale-
+naturales generalmente no procesados. Se caracteriza za, y los ponen en una condición subalterna con respecto a
+por su multiescalaridad, ya que se crean enclaves pro- prácticas y discursos hegemónicos (Alimonda 2011; Esco-
+ductivos en territorios locales, con redes de transporte bar 1999; Leff 2006; Martínez-Alier 2004) que terminan
+y energía que conectan el sitio de extracción con puer- por transformar a los territorios donde viven en espacios
+tos, para su exportación a mercados internacionales de “sacrificio” (Svampa 2009). Es decir, los territorios que
+(Gudynas 2009). El discurso que sustenta este proceso habitan son transformados completamente para la extrac-
+sostiene que los recursos naturales “pertenecen al país” ción de recursos a partir de la concentración de la tierra y el
+y no a comunidades específicas (como indígenas o cam- agua y su posterior transformación en mercancías, gene-
+pesinos), y que su explotación genera desarrollo y ayuda ralmente sin el consentimiento de las comunidades locales,
+a reducir la pobreza (Bebbington y Williams 2008). De o con mecanismos de participación no vinculante. Así, el
+esta forma, los gobiernos de la región han privilegia- daño ecológico no solamente afecta al lugar, sino también
+do una reestructuración geográfica que ha provocado al cuerpo, a la identidad, al medio ambiente, a la cultura y a
+una acelerada transformación del paisaje, pese a su li- la economía de quien lo habita (Escobar 2011).
+Nº 55 / 2017
+232 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 3 ---
+Explorando conflictos entre comunidades indígenas y la industria minera en chile: las
+transformaciones socioambientales de la región de tarapacá y el caso de lagunillas
+Nuestro aporte a los estudios del extractivismo apun- nuevos contextos sociales, culturales, económicos y re-
+tan a entender el proceso mediante el cual se están oca- gulatorios. Las comunidades locales contestan y resisten
+sionando las contradicciones territoriales entre minería las prácticas estatales, a través de la persistencia o la ree-
+y comunidades indígenas, y cómo esto no necesaria- laboración de interpretaciones del territorio, mostrando
+mente trae consigo conflictos abiertos contra el Estado usos locales de la tierra y prácticas culturales cotidianas,
+y las compañías transnacionales, sino que esquemas sustentados en derechos basados en las costumbres
+de conflictividad latente, que se mueven entre la arti- (Peluso 1995, 2005; Isager y Ivarsson 2010). Esta con-
+culación de identidades indígenas, la reorganización traterritorialización no necesariamente está asociada a
+indígena, la lucha por el daño ambiental generado por grandes movimientos sociales, sino que con actos coti-
+la minera, acciones legales y de negociación, y multi- dianos de resistencia (Lestrelin 2011).
+culturalismo neoliberal. Para ello, creemos necesario
+introducir el concepto de territorialización, como for- Dentro de esta conceptualización de construcción de
+ma en la cual el extractivismo construye –aunque sea consensos sobre la explotación de recursos promovi-
+solo de manera provisoria– el que ciertos recursos, en dos por el Estado, a través de instituciones, leyes, dis-
+este caso cierto tipo de minerales, territorios y perso- cursos y prácticas cotidianas no coercitivas, es desde
+nas con diferentes representaciones y prácticas sociales donde creemos que es importante entender el caso
+conflictivas, se mantengan fijas. El concepto de territo- del extractivismo minero en América Latina. En esta
+rialización (Vandergeest y Peluso 1995; Peluso 2005), región, desde la década de los noventa la inversión en
+entendido como prácticas materiales y discursivas del minería ha crecido exponencialmente, multiplicándo-
+Estado sobre el territorio, ha sido utilizado principal- se hasta en un 400%, lo que representa un 30% de la
+mente por Nancy Peluso, para explicar la construcción inversión mundial (Bridge 1999, 2004). En este pe-
+del “bosque político” en Estados poscoloniales en Asia. ríodo, han arribado compañías transnacionales como
+Esta construcción toma forma a través de una serie Barrick Gold, Falcon Bridge, Yamana Gold, Phelps
+de discursos, prácticas de conocimiento y relaciones Dodge, Río Tinto, BHP-Billiton, Sumitomo, Anglo
+de poder que crean un determinado tipo de paisaje, a American y Xstrata Copper (Delgado 2010), lo que en
+través de la movilización de individuos e instituciones, países como Chile ha venido acompañado de la conce-
+para recolectar, clasificar y controlar características sión y privatización de grandes extensiones de tierra
+biofísicas y humanas del paisaje, que tiene como fin para explotación minera.
+último manejar, transformar y/o proteger el medio am-
+biente. La territorialización es un proceso histórico de En nuestra perspectiva, el extractivismo debe ser enten-
+legitimación cultural y de nuevas formas de poder es- dido dentro de un proyecto político y económico demo-
+tatal, de acuerdo con la expansión del capitalismo y en crático (aunque en el caso de Chile profundamente atado
+concordancia con la economía global, que gobierna, de a la anterior dictadura), el cual, a través de marcos legales
+manera no coercitiva, qué tipo de personas tiene acce- de corte neoliberal en inversiones extranjeras, agua, mi-
+so y control sobre un recurso específico y qué prácticas nería y energía, generaron que ciertas prácticas socioam-
+pueden ser realizadas sobre dicho recurso (Vandergeest bientales hayan sido internalizadas. Sin embargo, la
+y Peluso 1995; Peluso 1995; Vandergeest 1996; Isager dramática transformación de los paisajes de extracción,
+y Ivarsson 2010). La territorialización es más fuerte mostraron la forma en la cual se está ejecutando una mo-
+cuando las personas naturalizan los marcos teóricos y dernización con degradación socioambiental, en la cual
+prácticas del Estado en sus prácticas cotidianas, mu- el territorio ha sido y está siendo ordenado y planificado
+chas veces ignorando o contradiciendo a la gente que por actores traslocados, y donde la participación ciudada-
+vive en los territorios. na está limitada. Este hecho ha contribuido a desarrollar
+luchas sociales por la defensa de derechos territoriales y
+Por lo general, la territorialización implica el desplaza- culturales colectivos (Svampa 2009, 2011), muchas de
+miento de población, especialmente “minorías étnicas”, ellas levantadas por poblaciones indígenas, especialmen-
+dado los altos impactos sobre su medio ambiente (Les- te en la región andina de América.
+trelin 2011) y la confrontación de estas minorías con
+Nº 55 / 2017
+233 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 4 ---
+Hugo Romero Toledo, Angélica Videla y Felipe Gutiérrez
+D El fenómeno de la articulación indígena articulación indígena se mueve dentro de espacios he-
+gemónicos y contra-hegemónicos (derechos humanos,
+En muchos países del mundo, se ha venido desarrollan- ONG, programas multiculturales), donde la resistencia
+do un proceso de articulación indígena (Clifford 2013; Li no implica el rechazo total, sino que táctico, en alianza
+2000) que ha traído consigo la negociación y contesta- con otros grupos para maniobrar.
+ción sobre las formas en las cuales los Estados posco-
+loniales han producido y construido el territorio. Existe En esta perspectiva, la identidad indígena no es algo
+un contexto internacional de reconocimiento y revitali- dado, sino que producido. Es un ensamblaje que emer-
+zación de los pueblos indígenas, que se inicia vinculado ge de la interacción entre partes, donde las instituciones
+a la discusión de postguerra sobre derechos humanos, y cumplen un rol central, materializando y haciendo reco-
+que comienza a tomar formar con el Convenio 107 de la nocibles cualidades específicas, capacidades y posibili-
+Organización Internacional del Trabajo de 1957 (no ra- dades (Sawyer y Terence Gomez 2012). Esta identidad
+tificado por Chile). Ronald Niezen (2002) señala que el indígena se articula en el contexto de proyectos etno-
+resurgimiento indígena global no puede ser entendido territoriales que ocupan un esencialismo estratégico
+sin referencias a las tecnologías, poder y legitimidad del (Perrault y Green 2013; Prieto 2016), para demandas his-
+Estado, y como reacción a la compensación sobre las pér- tóricas sobre la forma en la cual se ha territorializado el
+didas, sufrimiento y las faltas a la honorabilidad (Niezen Estado. En estas demandas, las diferencias lingüísticas,
+2002), que ha generado que ciertos grupos hayan sido culturales, y la localización rural son indicadores claves
+marginalizados y minorizados por la extracción de recur- de identidad indígena. De acuerdo con Niezen (2002)
+sos y la modernización económica. En el caso de América la identidad indígena se ha fortalecido a partir de una
+Latina, el fenómeno ha sido denominado “emergencia historia compartida de desposesión, junto con ciertas
+indígena” (Bengoa et al . 2012), que comenzó a surgir formas de economía de subsistencia que aún sobreviven,
+desde los setenta, a partir de diferentes organizaciones y que se desarrollan en un territorio cuya data es anterior
+que tuvieron diversos orígenes, estrategias e intereses a la llegada de colonos y geomensores. Al mismo tiempo,
+políticos, identidades y preocupaciones territoriales. Los comparten un sistema espiritual que data desde antes de
+movimientos indígenas han basado sus demandas en el la llegada de los misioneros, y un idioma o lengua que
+derecho a la autorrepresentación y soberanía sobre sus expresa “todo lo que es importante y distintivo sobre su
+territorios y el ejercicio de sus identidades culturales, de- lugar en el universo” (Niezen 2002). De esta manera,
+finiéndose a sí mismos como pueblos indígenas, más que para los pueblos indígenas, la subsistencia en su tierra
+como minorías étnicas o raciales dentro de una sociedad es una de las más importantes fuentes de autonomía
+dominante (Ulloa 2005). Esta “emergencia” se intensifi- y poder, y constituye la ideología indigenista (Perrault
+có en América Latina, entre otros factores, como reacción 2012). Desde aquí se legitiman sus reclamos por tierra,
+a la conmemoración de los quinientos años del descubri- resaltando o incluso exagerando, valores tradicionales
+miento de América en 1992. como la reciprocidad, la vida en comunidad y el respeto
+por el medio ambiente (Ulloa 2005).
+La autoidentificación indígena no es un fenómeno na-
+tural o inevitable, pero tampoco es un fenómeno mera- La producción de la identidad indígena, en el contexto
+mente inventado, adoptado o impuesto (Li 2000). Por internacional, debe ser entendida desde Naciones Uni-
+el contrario, es una articulación cultural y política de das (1986), la que establece la continuidad histórica de
+discursos y fuerzas sociales (Hall y Du Gay 1996), que aquellos que viven en territorios donde había población
+tienen prácticas históricas, representaciones, y significa- antes de la invasión europea. En la actualidad, estos
+dos que han estado en conflicto latente y que confluyen grupos no pertenecen a los sectores dominantes dentro
+en la conformación de identidades colectivas de manera de la sociedad, y tienen sistemas sociales, culturales y
+contingente o provisional. La articulación es un posicio- políticos distintos, así como también lenguaje, cultura
+namiento (Hall 1990) táctico, y se puede volver explícito y creencias diferentes. Una segunda fuente de produc-
+y transformativo en tiempos de movilización y politiza- ción de identidad indígena viene del Convenio N° 169
+ción (Li 2000). De acuerdo a James Clifford (2013), la de la Organización Internacional de Trabajo (1989), ra-
+Nº 55 / 2017
+234 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 5 ---
+Explorando conflictos entre comunidades indígenas y la industria minera en chile: las
+transformaciones socioambientales de la región de tarapacá y el caso de lagunillas
+tificado por Chile en 2008, donde se reconoce como interesado conocer la estructura de la población que se
+población indígena a aquella que tiene continuidad his- reconoce como indígena en el norte de Chile, y compren-
+tórica, cultura y formas de vida diferentes a la población der lo que ha significado para sus dirigentes el proceso de
+nacional y que posee sus propias organizaciones socia- transformación minera y la articulación identitaria.
+les e instituciones políticas.
+Esta investigación presenta un método mixto en la reco-
+Nuestro trabajo contribuye a entender los procesos de lección y análisis de datos. Primero, se recurrió a fuen-
+articulación identitaria desarrollados desde espacios tes secundarias para estudiar el proceso de organización
+urbanos, especialmente de la población aymara en Chi- de las comunidades aymaras, quechuas y atacameñas y
+le, en el contexto de la expansión minera. En este sen- el proceso de expansión minera. En segundo lugar, se
+tido, viene a complementar el trabajo de Tom Perrault ha utilizado información georreferenciada provenien-
+(2012), quien ha analizado la situación de aymaras y te de instituciones como Conadi, Sernageomin y la Bi-
+quechuas urbanos, pero en Bolivia, a partir de la in- blioteca del Congreso Nacional para poder caracterizar
+digeneidad, como concepto que trasciende la división territorialmente a la región. Posteriormente, se recurrió
+urbano/rural y etnia/clase. Nuestro trabajo se suma a información secundaria, sobre todo a la serie históri-
+también al análisis que Manuel Prieto ha hecho sobre ca de la encuesta de Caracterización Socioeconómica de
+el proceso de articulación indígena en relación con las Chile (Casen) enfocada en la población indígena. Por úl-
+tradiciones y las costumbres dentro del contexto urba- timo, se utilizó información primaria a partir de treinta
+no y de la gobernanza neoliberal del agua (Prieto 2016) entrevistas a dirigentes aymaras y quechuas de la región
+y procesos de colectivización de derechos por parte de de Tarapacá y a informantes claves de servicios públicos,
+comunidades atacameñas en el norte de Chile (Prieto ONG y consultoras realizadas durante el 2014 y el 2015.
+2014). Esta investigación avanza en entender el caso Nuestra investigación ha asegurado el anonimato de los
+chileno, en el que es posible identificar una creciente participantes. Solo una parte de los entrevistados estu-
+concentración de población indígena residente en zo- vo dispuesta a darnos su consentimiento informado de
+nas urbanas, que comenzó desde los años noventa a manera escrita, mientras el resto lo dio de manera verbal.
+desarrollar un proceso de articulación identitaria, que Este hecho a nuestro juicio es significativo, puesto que
+ha tenido en la demanda de tierras y agua una de sus da cuenta de las desconfianzas existentes en la región a
+principales reivindicaciones. Son la institucionalidad la hora de hablar de los impactos de la minería sobre las
+indígena, la persistencia de prácticas andinas de la comunidades indígenas y el medio ambiente.
+población recientemente urbanizada, y las empresas
+mineras y sus políticas para evitar los conflictos so- Para observar el comportamiento del cuerpo de agua de
+cioambientales, las que han contribuido a la conforma- Lagunillas, 4 se realizó una digitalización en base a percep-
+ción de comunidades aymara y quechua. ción remota a seis imágenes satelitales, una landsat 1 con
+fecha 24 de marzo de 1973, una landsat 5 con fecha 2 de
+D Metodología agosto de 1987, una Google Earth con fecha 13 de septiem-
+bre de 2004, dos landsat 7 con fecha 16 de abril de 2006 y
+El objetivo de esta investigación es estudiar las trans- 24 de abril de 2009 y una Terra Server con fecha 2 de agos-
+formaciones y contradicciones socio-territoriales que se to de 2014, con el fin de analizar la variación histórica en
+están desarrollando en el norte de Chile, específicamente la superficie del cuerpo de agua. Este análisis se contrastó
+en la región de Tarapacá, en el contexto de la expansión con información de precipitación para establecer si existe
+minera y de la activación de un proceso de reivindicación correlación entre el tamaño del cuerpo de agua y el agua
+indígena desde los años noventa. Nuestros objetivos es- caída. Los datos pluviométricos de la estación Lagunillas
+pecíficos han sido indagar sobre la territorialización de la (ID M_002_AJ) fueron extraídos de la página web de
+inversión minera en la región, la declaración de áreas de
+protección del medio ambiente y la cultura, y del crecien- 4 Según el estudio de censos de avifauna de la región de Tarapacá
+te proceso de reconocimiento de territorios indígena por (SAG, 2013), el tamaño y la forma del cuerpo de agua de Laguni-
+parte del Estado chileno. De la misma manera, nos ha llas es variable en distintas épocas del año según las condiciones
+climáticas imperantes.
+Nº 55 / 2017
+235 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 6 ---
+Hugo Romero Toledo, Angélica Videla y Felipe Gutiérrez
+los datos hidrometereológicos de la Dirección General de la, para adoctrinar a la población aymara, quechua y ata-
+Agua (DGA), que registra información desde el año 1982. cameña en la nueva cultura dominante chilena (Gonzáles
+2002; Van Kessel 2003; Aylwin et al. 2013).
+D La territorialización minera y el proble-
+ma del agua en el norte de chile Sin embargo, el ciclo de expansión del salitre terminó
+abruptamente en el período de entreguerras, generando
+De acuerdo a Vandergeest & Peluso (1995), la territo- una severa crisis social. Los movimientos obreros en las
+rialización es una forma inestable de despliegue del Es- salitreras fueron particularmente fuertes, lo que provocó
+tado en el territorio, que ocurre no solamente a través una violenta represión por parte del Estado a través del
+de la instalación de instituciones, sino que también en Ejército, afectando también a la población indígena. Una
+la aplicación de ciertas tecnologías (por ejemplo, ma- parte de ella se replegó hacia sus localidades de origen en
+peos y zonificaciones) y la creación de ciertos tipos de los Andes, mientras otros “bajaron” a las ciudades puer-
+derecho que regulan el acceso a determinados recursos to, buscando mercancías, el acceso al mercado del trabajo
+por determinados sectores de la población. Inicialmen- y la educación (Castro y Bahamondes 1987; Grebe 1998).
+te, la territorialización del Estado puede efectuarse a A partir de la segunda mitad del siglo XX, se registró un
+través medios coercitivos para expropiar y controlar importante proceso de migración de la población indíge-
+recursos, legitimar fronteras y organizar a la población, na hacia zonas urbanas, impulsado por la consolidación
+pero tiende a moverse a medios no coercitivos cuando minera del norte de Chile (cobre, plata, litio, bórax y hie-
+las poblaciones internalizan las formas en las cuales el rro) (Gundermann y Gonzáles 2008), y el impacto de la
+Estado controla sus actividades y su dominio y acceso minería sobre la disponibilidad y calidad del agua, lo que
+de recursos. En el caso de Chile, la principal forma en la ha afectado a la agricultura de la población andina (Ca-
+cual el Estado consolidó su presencia en los territorios rrasco y Fernández 2009; Madaleno 2004).
+anexados con posterioridad a la Guerra del Pacífico, fue
+a través de la especialización del norte en producción Una segunda oleada de territorialización minera en
+minera, especialmente de salitre. el norte de Chile fue a través de la industria del cobre.
+Durante la primera mitad del siglo XX, el Estado entre-
+La territorialización del Estado significó el fortalecimien- gó concesiones mineras a compañías norteamericanas,
+to de las ciudades puerto (Arica, Iquique y Antofagasta) cuyo máximo ejemplo fue Chuquicamata, que se trans-
+y la transformación de las salitreras en agencias de colo- formó en el símbolo del progreso que generaba el cobre
+nización. Las salitreras no solamente fueron enclaves que para Chile. Sin embargo, la presencia estatal en el Norte
+concentraron recursos naturales (tierra y agua) y el mer- se volvió intensiva desde 1966, cuando el gobierno de
+cado laboral, sino que al mismo tiempo impusieron un Eduardo Frei Montalva inició la compra de los yacimien-
+estilo de vida urbano y la proletarización de la población tos mineros de cobre para ponerlos en manos del Estado,
+andina (Cariola y Sunkel 1982; Gonzáles 2011; Blázquez mediante la chilenización del cobre . Esto significó la incor-
+1999) que contribuyeron a forjar una “cultura pampina”. poración del cobre como una de las principales fuentes
+El uso y la propiedad del agua del altiplano y la precor- de financiamiento de las políticas sociales, discurso que
+dillera se orientaron a la industrialización del salitre y al perdura hasta el día de hoy en la sociedad chilena. En
+proceso de urbanización (Madaleno 2004), provocando 1971, y con el apoyo unánime del Congreso Nacional,
+el despojo de recursos hídricos de las comunidades andi- Salvador Allende promulgó la nacionalización y estatiza-
+nas. La relación entre la población indígena y la sociedad ción de la gran minería del cobre, fortaleciendo su impor-
+chilena fue mediada por las salitreras, a través de la espe- tancia para el futuro del país. La presencia estatal en la
+cialización de la población indígena como abastecedores producción no sufrió cambios en el periodo de dictadura
+de productos y mano de obra, lo que modificó el relativo militar de Pinochet: en 1976 se fundó la Corporación
+aislamiento en el cual se encontraban (Castro 1997; Van Nacional del Cobre (Codelco), la cual se transformó con
+Kessel 1980). Conjuntamente, se inició un agresivo pro- los años no solamente en la empresa que contribuye más
+ceso de asimilación cultural llamado chilenización , a través a la economía chilena, sino también en una de las ma-
+de la instalación de instituciones públicas, como la escue- yores productoras de cobre en el mundo. Actualmente,
+más del 90% de la producción del país está en manos
+Nº 55 / 2017
+236 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 7 ---
+Explorando conflictos entre comunidades indígenas y la industria minera en chile: las
+transformaciones socioambientales de la región de tarapacá y el caso de lagunillas
+de 17 compañías mineras privadas, entre ellas BHP Bi-
+lliton, Anglo American, Río Tinto y Teck. Sin embargo, A partir de los noventa, con la vuelta de la democracia,
+la estatal Codelco, con sus ocho divisiones, representa- y luego de una reorganización de la propiedad, los yaci-
+ba el 32% de la producción de cobre de Chile el 2014. 5 mientos Cerro Colorado (BHP Billiton), Quebrada Blan-
+ca (Teck) y Doña Inés de Collahuasi (Anglo American)
+La territorialización minera y el boom cuprífero en el comenzaron a funcionar de forma intensiva en la región
+norte de Chile son consecuencia de la reestructuración de Tarapacá. Por ejemplo, Collahuasi pasó a producir el
+mundial de la economía en términos tecnológicos, or- 3% de la producción mundial de cobre. Las exportacio-
+ganizacionales y geográficos (Bridge 2000, 2004). A nes desde la región de Tarapacá se multiplicaron desde
+escala nacional, el extractivismo minero fue planificado 2% en el período 1990-1992 a 7% a nivel nacional en el
+por el Estado chileno, y alcanzó una mayor fuerza a tra- período 2006-2008. De la misma manera, se pasó de
+vés de las políticas neoliberales y las reformas profundas concentrar el 1,3% de la inversión extranjera directa en
+a las inversiones extranjeras (1974) a la tierra (1979), al el período 1974-1989, a 5,3% en el período 1990-1998
+agua (1981) y a la minería (1983). Esto significó la firma (CIPTAR, 2012). Según la Comisión Chilena de Cobre
+de acuerdos entre el Estado y compañías transnaciona- (Cochilco), la región de Tarapacá aportó con un 10% al
+les, para traspasar los yacimientos anteriormente nacio- PIB nacional en 2013. En términos del PIB regional, la
+nalizados a manos de privados. Por ejemplo, en la región minería aportó un 52,5% en 2008, pero disminuyó a
+de Tarapacá, en el año 1977 comenzó la explotación del 46,7% en 2011. En términos de su aporte al empleo re-
+yacimiento Quebrada Blanca por capitales transnacio- gional de Tarapacá, éste creció de 6,9% el 2010 a 8,9%
+nales, entre ellos Falconbridge y Canadian Superior Oil. en 2011 y 11% el 2013 (Cochilco 2013). En tanto, el agua
+En 1979 terminaron las exploraciones del yacimiento para sustentar este boom ha provenido principalmente
+Cerro Colorado por las empresas Nippon Mining y Mi- de fuentes subterráneas (1.153 l/s) y en mucho menor
+ning Development. Por su parte la Compañía Doña Inés medida de fuentes superficiales (104 l/s) dada la híper
+de Collahuasi comenzó su reorganización en 1975, de la aridez del territorio (Cochilco, 2015). La concentración
+mano de Superior Oil y Falconbrige, y realizó variados del agua para los procesos mineros del cobre, amparada
+estudios durante las décadas de 1980-90 (Millán 2006; primero en la estatización y luego en la privatización, fue
+Meza 1983). De esta forma, el cobre, en cuanto mineral generando una importante contradicción entre minería y
+necesario para el desarrollo del país, pasó de manos es- comunidades indígenas.
+tatales a manos transnacionales, y el norte de Chile, en
+cuanto territorio, pasó a constituir la palanca del creci- La presión sobre los recursos hídricos localizados en te-
+miento económico, especialmente las regiones de Anto- rritorio donde viven comunidades aymaras, quechuas y
+fagasta y Tarapacá. atacameñas, por parte de las mineras en el norte de Chile,
+generó que la Ley Indígena de 1993 incorporara referen-
+La expansión minera no fue la única forma de territo- cias específicas para el territorio y el agua de las poblacio-
+rialización estatal. Desde fines de la década de 1970, nes indígena del desierto de Atacama. De esta manera,
+el sector andino del norte comenzó a especializarse en el agua, que había sido privatizada en 1981, se abrió a un
+conservación de la naturaleza. Esto se consolidó a partir nuevo régimen legal que reconoció que para ciertas po-
+de 1984 con la creación del Sistema Nacional de Áreas blaciones en localizaciones específicas existen derechos y
+Silvestres Protegidas del Estado, SNASPE. De esta usos comunitarios del recurso:
+manera, vastos territorios con escaza población fueron
+transformados en áreas de conservación que aseguran Se deberá proteger especialmente las aguas de las comunidades
+la presencia estatal y limitan el acceso y uso de dichos Aimaras y Atacameñas. Serán considerados bienes de propie-
+territorios, especialmente de los grupos indígenas que dad y uso de la Comunidad Indígena establecida por esta ley, las
+históricamente habían recolectado leña y ocupado el aguas que se encuentren en los terrenos de la comunidad, tales
+sistema de humedales para la ganadería. como los ríos, canales, acequias y vertientes, sin perjuicio de los
+derechos que terceros hayan inscrito de conformidad al Código
+General de Aguas (Ley 19.253, Artículo 64)
+5 Publicado en www.consejominero.cl el 2015
+Nº 55 / 2017
+237 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 8 ---
+Hugo Romero Toledo, Angélica Videla y Felipe Gutiérrez
+Por su parte, el informe de la Comisión de Verdad Histó- indígena estaría retornando o recuperando algo que se
+rica y Nuevo Trato con los Pueblo Indígenas (2009), im- perdió en el transcurso del tiempo o en un pasado esen-
+pulsado por el Estado chileno, señaló explícitamente que cial (Prieto 2014). Por el contrario, nosotros ocupamos
+las comunidades aymara, quechua y atacameña han sido el concepto de “articulación” porque queremos mostrar
+enormemente afectadas por el Código de Agua de 1981, que es un fenómeno actual, con diferentes rutas, muchas
+que permitió la privatización, y que anuló los usos histó- veces emergiendo de forma contradictoria, que produce
+ricos del recurso para reorientarlos hacia el mercado bus- subjetividades de manera más inestable y que actúan
+cando maximizar su uso y precio (Prieto y Bauer 2012). políticamente. En el caso de Chile, la principal fuente
+La literatura especializada registra varios casos en que el de institucionalización de lo que hoy entendemos como
+extractivismo minero ha afectado el agua de las comuni- pueblos indígenas es la Ley Indígena (1993), la cual re-
+dades indígenas en el norte de Chile: la compra de dere- conoció en esta calidad a aquellos que descienden de
+chos de agua superficiales a precios más bajos que los de los ocupantes del territorio nacional desde la época
+mercado en Quillahua (Budds 2007), la inscripción de precolombina y que conservan manifestaciones étnicas
+solo un número reducido de derechos de agua superficial y culturales, “siendo para ellos la tierra el fundamento
+de carácter individual supuestamente para que los comu- principal de su existencia y cultura” (Ley 19.253, artículo
+neros no tuvieran que pagar posibles impuestos o con el 1). La Ley Indígena y la conformación de la Corporación
+afán de “protegerlos” de grandes intereses económicos Nacional de Desarrollo Indígena (Conadi) fueron las
+como en Chiu Chiu y Lasana (Molina 2012; Prieto 2014), formas con las cuales el Estado reaccionó a un escena-
+la exploración y extracción de agua subterránea sin con- rio marcado por una acelerada urbanización, el mayor
+sentimiento de las comunidades, como el caso de Pampa acceso a la educación de poblaciones que habían estado
+Lagunilla (Van Kessel 1985; Larraín y Poo 2010; Salinas históricamente excluidas, los impactos del extractivismo
+2012), la captación de aguas superficiales mediante tubos y neoliberal sobre los territorios indígenas, principalmente
+pozos, principalmente en el río Loa (Yáñez y Molina 2011), en minería, industria forestal e hidroeléctricas, y la capa-
+y la contaminación del agua que generan los relaves mine- cidad de la población indígena de articularse en una serie
+ros emplazados a escasos kilómetros de las comunidades, de organizaciones formales e informales de variado tipo,
+como en Chiu Chiu y Quillagua (Yáñez y Molina 2008). 6 que comenzaron a conectar los territorios ancestrales con
+Estas contradicciones socioterritoriales, que representan los espacios urbanos.
+la larga historia de despojo, habrían fortalecido el proceso
+de autoidentificación indígena. La Ley Indígena, a partir Sin embargo, el territorio conocido hoy como Norte
+de los cambios introducidos en el contexto de reconoci- Grande de Chile tiene una larga historia de ocupación
+miento a los denominados pueblos originarios, ha gene- humana, que constituye la base de los que hoy se deno-
+rado importantes cambios. De esta forma, la identidad minan pueblos indígenas. Dada la extrema condición
+indígena no debe ser pensada como algo fijo o dado, sino climática y la topografía del desierto, el agua siempre ha
+como históricamente contingente, contestada, negociada sido un recurso crítico para estos habitantes, jugando un
+y politizada. rol clave en términos materiales, sociales y cosmológicos
+(Castro et al . 1991). Por cientos de años, el espacio andino
+D La articulación identitaria de los ayma- ha estado socialmente organizado a través de pisos eco-
+ras en el norte de chile lógicos (Murra 1975; Hidalgo 2004), donde la tierra, el
+agua y la sociedad han estado íntimamente relacionadas,
+Como lo señala Manuel Prieto, algunos autores que han dependiendo fuertemente de las lluvias y del agua sub-
+analizado políticas identitarias indígenas en Chile han terránea. Sobre los 3.800 m de altitud, las comunidades
+ocupado conceptos como “re-etnificación” para refe- aymaras desarrollaron la ganadería en humedales alto-
+rirse a un proceso de recuperación de la identidad étni- andinos, mientras que en la precordillera se desarrolló la
+ca (Van Kessel 2003; Rivera 1997), donde la población agricultura, muchas veces a través de complejos sistemas
+de irrigación. Entre los 3.000 y 2.000 m de altitud, la
+6 Para un análisis detallado y sistemático del proceso de aplicación del agricultura ha sido practicada en las quebradas usando
+Código de Aguas en territorio atacameño ver las tesis de doctorado la limitada agua de los ríos y en los oasis, donde afloran
+de Manuel Prieto (2014) y Francisco Molina (2014).
+Nº 55 / 2017
+238 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 9 ---
+Explorando conflictos entre comunidades indígenas y la industria minera en chile: las
+transformaciones socioambientales de la región de tarapacá y el caso de lagunillas
+vertientes. Desde el siglo XIX, con el arribo del capita- por parte de Conadi, como también de las mineras. Sin
+lismo, y por sobre todo después de la guerra entre La embargo, y contrario a esta opinión, un líder aymara de
+Confederación Perú-Bolivia y Chile, que dio por ganador la zona andina nos planteó que este proceso de activa-
+a este último, el agua fue concentrada por el Estado para ción de identidades es propio de un lugar que siempre ha
+abastecer a las ciudades y a las mineras. estado poblado por una diversidad de grupos indígenas,
+los cuales no habían podido expresar anteriormente sus
+En Chile, se incluyó por primera vez una pregunta so- diferencias con la cultura dominante:
+bre autoadscripción en el Censo 1992: Si usted es chileno,
+¿Se considera perteneciente a alguna de las siguientes culturas? yo no creo que la organización de otros pueblos [indígenas] sea
+Las opciones de respuesta sobre autoidentificación fue- mala. Si usted va a Iquique tú encuentras croatas, ingleses, chi-
+ron: aymara, rapanui y mapuche (998.385 personas se lenos, argentinos, peruanos, bolivianos… acá [hacia el interior
+autoidentificaron como indígenas). Por su parte, en el del territorio] siempre ha sido lo mismo. Siempre ha habido ay-
+Censo 2002, la pregunta fue orientada a la pertenen- maras, quechuas, urus. De hecho, por acá viven unos urus. Siem-
+cia: ¿P ertenece usted a alguno de los siguientes pueblos origina- pre han vivido por acá” (dirigente indígena, aymara, hombre
+rios o indígenas? Se sumaron a las opciones de respuesta de la tercera edad, octubre de 2014) .
+atacameño, quechua, colla, kawésqar y yagán, llegando
+a reconocerse ocho pueblos indígenas (692.192 per- Dentro de este proceso de articulación, la inscripción de
+sonas dicen pertenecer a uno de los pueblos indígenas organizaciones en el marco de la Ley Indígena tuvo un rit-
+señalados). En el Censo 2012, se preguntó por autoi- mo acelerado. Según Gundermann y Vergara (2009), las
+dentificación y pertenencia: ¿S e considera perteneciente a organizaciones andinas se han prolongado hacia las zonas
+algún pueblo indígena? (con opción sí o no). En segundo urbanas y han surgido de la necesidad de reconstruir rela-
+lugar, se preguntó: ¿A cuál pertenece? En las opciones ciones sociales en la ciudad, ante la pérdida de recursos con-
+de respuesta apareció likan antai en reemplazo de ata- siderados comunes o colectivos. En este contexto surgen las
+cameño y se sumó además a los diaguitas (1.807.443 comunidades indígenas modernas, donde el concepto de
+personas declararon pertenecer a un pueblo indígena). “comunidad” es algo más inestable, que mezcla lo tradicio-
+Finalmente, se preguntó: ¿En qué idiomas puede tener nal con lo moderno y lo urbano con lo rural, y donde los
+una conversación? Las opciones de respuesta fueron: es- poblados andinos tienen una función de repliegue frente a
+pañol, mapudungun, aymara, quechua, rapanui e inglés. 7 los vaivenes del mercado laboral y el envejecimiento de la
+Los datos del censo no permiten una comparación, por- fuerza de trabajo (Gundermann y Vergara 2009; Gunder-
+que las preguntas de 1992, 2002 y 2012 no miden lo mann y González 2008; Subdere 2010). Las comunidades
+mismo. Adicionalmente a los pueblos indígenas identifi- indígenas de Tarapacá, tienen un carácter genealógico, his-
+cados a través del censo, un estudio de la Subsecretaría de tórico y geográfico, asociado a un poblado o caserío. En ellas
+Desarrollo Regional (SUBDERE, 2010), señaló que en la están inscritos los residentes de los pueblos del interior, y
+región de Tarapacá también se ha registrado un incipien- la parte de la familia que emigró hacia las zonas urbanas.
+te proceso de organización de urus y chipayas. Las comunidades son organizaciones políticas, y por tanto,
+sometidas a las mismas dinámicas que otras organizaciones
+De esta manera, en el Norte Grande de Chile, a la pre- del Chile posdictatorial, que ensayan prácticas democráti-
+sencia de los aymaras y atacameños, hay que sumar el re- cas, con distintos niveles de participación, que correspon-
+ciente proceso de articulación quechua y de otros grupos, den a redes de poder local e incluso regional, y que pueden
+entre ellos los changos, y también el esfuerzo que están llegar a establecer distintos tipos de relaciones con el Estado
+haciendo los afrodescendientes. En alguna de nuestras y las compañías mineras. Sus intereses varían entre elemen-
+entrevistas se nos señaló que parte de esta articulación tos políticos, de clase, étnicos, de género y de valoración
+se estaría generando en las zonas urbanas, y que tendría del ambiente, y deben ser entendidas como insertas en las
+como fin el acceso a beneficios que pueden conseguirse transformaciones socioambientales históricas por las que
+ha atravesado el Norte de Chile.
+7 Los datos del Censo 2012 no pueden ser utilizados dado el cues-
+tionamiento del Centro Latinoamericano y Caribeño de Demo- Según el catastro de Conadi del año 2015, en la región
+grafía (Celade) por no cumplir los estándares.
+Nº 55 / 2017
+239 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 10 ---
+Hugo Romero Toledo, Angélica Videla y Felipe Gutiérrez
+Figura 1. Evolución de la población indígena en la región de Tarapacá, 2000-2013.
+Fuente: Elaboración propia en base a Encuesta Casen 2000-2013
+de Tarapacá se contabilizan 268 asociaciones indígenas Los datos de la Figura 1 muestran un sostenido in-
+y 106 comunidades indígenas. La razón de lo anterior, cremento de la población que se auto-identifica como
+según las entrevistas que hemos realizado, es que los indígena en la región de Tarapacá. Además, el porcen-
+cambios legales le permitieron a la población indígena taje de población indígena que vive en zonas urbanas
+poder reconocerse: “Antes nos daba miedo decir que alcanzó el 87,6% en 2013, mientras que se observa
+somos una comunidad” (dirigente indígena, aymara, una disminución de la población indígena rural, que
+mujer de tercera edad, noviembre de 2014). Esto repre- descendió de 15,5% el año 2006 a 12,3% en 2013. En
+senta sin duda un gran avance en la lucha de los pue- relación a la población aymara y quechua que vive en la
+blos indígenas. Como lo menciona con orgullo una de región, los datos que arroja el análisis histórico de Ca-
+nuestras entrevistadas: “Si, yo soy indígena. Yo soy de sen muestran un aumento considerable. El año 2000 8
+esta comunidad” (dirigente indígena, aymara, mujer de la población aymara correspondía a un 8,3% de la
+la tercera edad, noviembre de 2014). De esta forma, en población total de Tarapacá, cifra que representa un
+el área rural se concentran las comunidades, que están aproximado de 19.760 personas. Trece años después,
+compuestas por un reducido número de miembros que quienes se declaran aymaras ascienden a 37.307 per-
+aún viven en el poblado de origen, mientras el grueso sonas, existiendo un aumento de 47,1%. De la mis-
+de ellos reside en las ciudades. ma manera, existe un crecimiento de la población
+quechua en la región de Tarapacá, pasando de 337
+Junto con la formalización y el aumento de las organiza- personas en el 2000 a 5.623 adscritos el 2013. Cabe
+ciones indígenas, comenzó a crecer el número de perso- destacar que la población regional ha crecido en un
+nas que se adscriben a los pueblos indígenas. La encuesta 25,2% entre el 2000 y 2013, y que parte de la pobla-
+Casen pregunta : En Chile, la ley reconoce la existencia de 9
+pueblos indígenas. ¿Pertenece usted o es descendiente de alguno 8 Para realizar el cálculo de población correspondiente a la actual di-
+de ellos? Para la región de Tarapacá los resultados son los visión política administrativa de La región de Tarapacá en el año
+2000 y 2003 en base a Casen, se consideró solo aquellas comunas
+observados en la Figura 1.
+pertenecientes a la región creada en 2007. Para el año 2006 la base
+de datos Casen posee una variable con la nueva división.
+Nº 55 / 2017
+240 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 11 ---
+Explorando conflictos entre comunidades indígenas y la industria minera en chile: las
+transformaciones socioambientales de la región de tarapacá y el caso de lagunillas
+ción que se autoidentifica como aymara y quechua ción territorial de los diversos grupos indígenas. En el
+proviene de países fronterizos. Para el 2013, 2.365 de procedimiento de Evaluación de Impacto Ambiental, las
+los encuestados que se autoidentificaron como ayma- empresas deben declarar el impacto que generan o gene-
+ras eran extranjeros, mientras que en los quechuas la rarán sobre el medio humano, con especial énfasis en la
+cifra alcanzó los 1.639. presencia de comunidades indígenas localizadas en las
+áreas de extracción. Sin embargo, la consulta indígena no
+Por último, desde 1995, y a través de Conadi, se crearon es vinculante. Como lo ilustra la Figura 2, en la región de
+las Áreas de Desarrollo Indígena (ADI), entendidas como Tarapacá se produce una importante colisión territorial,
+unidades territoriales donde el Estado focaliza recursos dado que la Compañía Minera Cerro Colorado se localiza
+para las comunidades. Los criterios para la designación dentro del ADI Jiwasa Oraje, donde habitan comunida-
+de un ADI se basaron en la ocupación ancestral del terri- des aymaras y quechuas, y donde también existen áreas
+torio, alta densidad de población indígena, homogenei- de protección de la naturaleza, como el Salar del Huasco
+dad ecológica y dependencia de recursos naturales como (recientemente desafectado). Es en este escenario actual
+la tierra, el agua, flora y fauna. Según los documentos donde ha ocurrido uno de los eventos más significativos
+oficiales, las ADI tienen como objetivo la superación de la para entender la conflictividad de la minería en Chile en
+pobreza, el rescate de la cultura y acoger las demandas de tierras indígenas: el caso de Lagunillas.
+tierras, aguas y organización. En el Norte Grande se han
+constituido las siguientes ADI: Alto Andino en la región En este proceso de articulación identitaria en contexto
+de Arica y Parinacota (2004), Jiwasa Oraje (2001) en Ta- de extractivismo minero, la población indígena comen-
+rapacá, y Atacama La Grande (1997) y Alto Loa (2003) zó a mostrar un repertorio de acciones (Prieto 2014) que
+en la región de Antofagasta. van desde la certificación del ser indígena frente al Esta-
+do (Gavilán y Lagos 2014), la participación en políticas
+De esta forma, una nueva geografía indígena comenzó a neoliberales multiculturales (Boccara y Bolados 2008), el
+surgir. Por una parte, han aumentado el número de co- desarrollo de acciones cotidianas por demandas de reco-
+munidades y asociaciones indígenas reconocidas por el nocimiento y otras problemáticas (Gundermann 2004;
+Estado que conectan el territorio originario del altipla- Gundermann y Vergara 2009; Zapata 2007) y la defensa
+no y la precordillera con la población indígena que vive del territorio frente a grandes inversiones, especialmente
+en zonas urbanas, como Iquique y Alto Hospicio. Por por daño ambiental (Carrasco y Fernández 2009).
+otra parte, el Estado reconoce a las comunidades como
+organizaciones que tienen presencia territorial, y que D El caso de pampa lagunillas 9
+demandan el control de la tierra y el agua, fuertemente
+presionadas por el crecimiento urbano y el boom minero. Tal vez uno de los casos paradigmáticos dentro de los
+Por último, se crean las ADI como forma de reconocer un conflictos socioambientales que involucran a comunida-
+territorio para la población indígena, donde se focalizan des indígenas y la gran minería privada en Chile, es el de
+recursos para mejorar la calidad de vida de las comunida- la Compañía Minera Cerro Colorado (CMCC) y la comu-
+des y al mismo tiempo la sustentabilidad del territorio. nidad aymara de Cancosa, específicamente en lo que re-
+fiere a recursos hídricos y degradación medioambiental.
+Como lo ilustra la Figura 2, en la sección precordillerana Este conflicto se ha desarrollado en el contexto de las
+comienza a agravarse la coexistencia de comunidades, ya- dinámicas andinas de la segunda mitad del siglo XX, los
+cimientos mineros, áreas de desarrollo indígena (ADI), cambios introducidos por las políticas neoliberales sobre
+y áreas silvestres protegidas del Estado (SNASPE). La la tierra y el agua que favorecieron a la industria minera,
+Ley 19.300, sobre Bases Generales del Medio Ambien- y el proceso de articulación de identidad indígena, donde
+te (1994) y sus posteriores modificaciones, entre ellas se involucra la parte de la comunidad que todavía reside
+el Decreto 66 (2013) que regula la Consulta Indígena
+para aquellos proyectos de inversión que se localicen en 9 Los datos de esta sección provienen de entrevistas realizadas
+los territorios reconocidos como de uso estos pueblos. a dirigentes de comunidades aymaras y quechuas, personal de
+Este proceso legal contribuyó a hacer visible la ocupa- servicios públicos, ONG y consultores. El equipo investigador se
+comprometió a garantizar el anonimato de las fuentes.
+Nº 55 / 2017
+241 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 12 ---
+Hugo Romero Toledo, Angélica Videla y Felipe Gutiérrez
+Figura 2. Emplazamiento de yacimientos mineros, áreas de conservación, comunidades
+y áreas de desarrollo indígena en el norte de Chile. Fuente: Elaboración propia.
+Nº 55 / 2017
+242 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 13 ---
+Explorando conflictos entre comunidades indígenas y la industria minera en chile: las
+transformaciones socioambientales de la región de tarapacá y el caso de lagunillas
+en el poblado de Cancosa (cercano a la frontera con Bo- del primer cátodo de cobre en 1994. Dicha corporación
+livia), con sus tierras comunales y prácticas de pastoreo explotó el yacimiento cuprífero hasta el año 2000 cuan-
+circundante a un humedal, y la parte de la comunidad que do es comprada por BHP.
+emigró áreas urbanas como Pica y Alto Hospicio, y que
+corresponde a la nuevas generaciones. Si bien los hechos Este hecho, producirá un punto de inflexión para las
+se iniciaron en la década de 1980 sus repercusiones con- comunidades indígenas relacionadas con CMCC, ya sea
+tinúan en la actualidad. por su cercanía a la faena o por su relación con el proceso
+productivo. Hasta aquel momento, las relaciones entre
+El humedal de Pampa Lagunillas se localiza a 120 km ambos actores no se encontraban institucionalizadas,
+de la ciudad de Iquique y a 2.600 msnm, en la región con excepción de la comunidad de Cancosa, a la cual
+de Tarapacá. El humedal está emplazado en el predio de se le arriendan sus derechos de aguas sobre el sistema
+nombre Huantija, que a su vez es parte de los territorios lacustre Lagunillas. A pesar de que las comunidades de
+ancestrales reivindicados por dos comunidades indíge- la precordillera son las más cercanas a la operación de
+nas aymaras: Cancosa y Lirima. En el área del humedal CMCC, fueron las comunidades altiplánicas las prime-
+Lagunillas los aymaras habrían desarrollado ancestral- ras en reaccionar ante la compañía minera, en la defensa
+mente actividades de ganadería a partir del sistema de principalmente del recurso hídrico, articulándose bajo
+acuíferos. La comunidad de Cancosa consiguió su perso- nuevos formatos organizativos, asumiendo en este pro-
+nalidad jurídica como Comunidad Indígena reconocida ceso una transformación política de sus bases en defensa
+por Conadi en 1995. Según diferentes fuentes y las entre- de sus recursos naturales y su patrimonio ancestral. De
+vistas que hemos realizado en la zona, dicha comunidad esta forma, el conflicto socioambiental será fundante
+se compone de más de 80 familias, lo que totaliza unas en la organización actual de los aymaras de Tarapacá,
+350 personas asociadas a una aldea rural localizada en y les permitirá abordar de mejor manera el proceso de
+plena cordillera de los Andes, a 3.962 msnm. El Censo reconocimiento que deriva de la Ley Indígena en 1993.
+2002 (el último válidamente realizado en Chile), indicó Como destacan Gundermann (2000) y Van Kessel
+que en dicha localidad vivían solo 26 habitantes, y que (2003, 1985), el caso de CMCC y sus exploraciones en
+20 personas más, de origen aymara, componían la pobla- la década de 1980, dio nacimiento a una de las primeras
+ción flotante enfocada a cuidar el ganado y plantaciones organizaciones de las propias comunidades de defensa de
+agrícolas de subsistencia. El grueso de los miembros de sus recursos naturales, la cual fue llamada Cotali. Este
+la comunidad se encuentra disperso en zonas urbanas hecho se enmarca dentro de las acciones de exploración
+como Pica, Alto Hospicio e Iquique. de aguas subterráneas que CMCC inició en 1981, sin
+la autorización de las comunidades aymaras de la zona
+Desde antes de los años sesenta, se realizaron estudios (Salinas 2012). Posteriormente, en 1982 se estableció un
+en los afloramientos de óxidos en el sector de la Quebra- contrato de arriendo entre la CMCC y la comunidad ay-
+da de Parca, los cuales revelaron la existencia de recursos mara de Cancosa sobre las aguas de Lagunillas.
+cupríferos en el llamado Cerro Colorado. Los sondajes
+llevados a cabo por el grupo chileno-norteamericano Éste es uno de los primeros casos de inscripción de agua
+Normina, confirmaron esta situación y la posibilidad de subterránea de una compañía minera, amparado en el
+explotar un futuro yacimiento. En la década del setenta, nuevo Código de Aguas (1981), en el contexto del esca-
+Nipon Mining Company, compró el yacimiento y culmi- so conocimiento de la situación de los recursos hídricos
+nó las campañas de exploraciones, estimando una re- a más de 100 metros de profundidad y de lo que signi-
+serva de 79 millones de toneladas de cobre. Hacia el año ficaba la producción intensiva de minerales (Mamani
+1982 la corporación canadiense Río Algom, a través de 2008). La Dirección General de Aguas (DGA) le otorgó
+su subsidiaria Riochilex, compró la propiedad y creó la a CMCC el derecho de aprovechamiento de 300 l/seg en
+Compañía Minera Cerro Colorado, la cual se volvió real- 1982, de los cuales la empresa solo utilizó 90 l/seg. La
+mente efectiva en el año 1992 cuando comenzó la cons- Compañía adquirió el derecho de servidumbre de paso,
+trucción de su planta, considerando la explotación a tajo otorgada por el Estado de Chile, para un acueducto de
+abierto, iniciando su fase operacional con la concreción 76 km, el cual va desde Huantija hacia la faena minera,
+Nº 55 / 2017
+243 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 14 ---
+Hugo Romero Toledo, Angélica Videla y Felipe Gutiérrez
+pasando directamente por la comunidad de Parca, lo que ciones fueron emprendidas por miembros de la nueva ge-
+según los dirigentes ha significado una reducción de los neración, criados principalmente en zonas urbanas, con
+acuíferos y la disminución de la agricultura. Sin embargo, acceso a información y con un amplio dominio de len-
+ya desde 1985 habían existido tensiones entre la compa- guaje técnico y legal (por ejemplo se encargaron estudios
+ñía minera y la comunidad indígena de Cancosa, princi- hidrogeológicos propios), lo que permitió a la comunidad
+palmente centradas en las compensaciones, la compra de establecer una negociación con la CMCC sin precedentes.
+terrenos, y la cantidad de agua que se estaba extrayendo
+(Mamani 2008). Al mismo tiempo, la situación de arren- Producto de las negociaciones, la CMCC emprendió un
+damiento de tierras y aguas para la CMCC ocasionó un trabajo de recuperación del humedal de Lagunillas y se
+conflicto entre las comunidades indígenas de Cancosa y logró en el año 2008 un acuerdo extrajudicial con la co-
+Lirima que se solucionó con la compra del fundo Huan- munidad, que en conjunto con la empresa estableció un
+tija por parte de la CMCC en 1993 (Salinas 2012) o 1996 plan de trabajo para continuar la recuperación del ecosis-
+(Avilés 2010). De esta forma, CMCC consiguió las aguas tema y de apoyo al desarrollo de los miembros de ésta.
+de pozos profundos ubicados en Lagunillas para tener Entre los puntos de negociación se incluyó un plan de
+una producción anual de 125 mil toneladas de cátodos seguimiento para la recuperación de Lagunillas al 2030,
+de cobre de alta pureza, con una reserva estimada en 192 el financiamiento de un programa de fomento productivo
+millones de toneladas de cobre, lo que ha generado im- al año 2027, y un plan de educación hasta el año 2030
+pacto medioambiental sobre el sistema hídrico, afectan- (Salinas 2012). En síntesis, el conflicto se constituyó
+do especialmente a la agricultura y la ganadería (Larraín como un caso cuya causa está en que: “la comunidad es
+y Poo 2010), pero también, sobre la forma en la cual se propietaria de estas aguas, no solo porque están localiza-
+organizan las comunidades, su relación y repertorio de das en territorios ancestrales, sino también porque han
+acción frente a la empresa minera y el Estado, e incluso hecho uso ancestral de ellas a través de su afloración en el
+las relaciones entre las comunidades aymaras y con los acuífero de Lagunillas, que abarca una amplia extensión
+quechuas: “el principal cambio ha sido sobre la gente” (empre- de tierras de propiedad y uso de la comunidad” (Yáñez y
+sario local del pueblo de Mamiña, 2015). Molina 2014). Se reconoció el daño ambiental por parte
+de la DGA y se llegó a un plan de mitigación y compensa-
+Desde el año 2002 se viene registrando por parte de la ciones con la comunidad indígena de Cancosa.
+comunidad de Cancosa el desecamiento de vertientes
+y la afectación al espejo del agua de Lagunillas (Figura Como lo ilustra la Figura 3, es posible observar que existe
+3). La DGA confirmó la reducción del acuífero durante un descenso paulatino del cuerpo de agua (representado
+el año 2005, y la Corporación Regional del Medio Am- por la línea continua) desde finales de la década del 1980
+biente (Corema) de Tarapacá sancionó a BHP Billiton por hasta inicios de los 2000, con su punto mínimo entre
+el daño ambiental en Lagunillas en 2006. Ese mismo los años 2004 y 2006, para luego presentar un leve au-
+año la comunidad aymara de Cancosa interpuso acciones mento hacia el año 2009 y 2014 (no hemos tenido acce-
+legales contra Cerro Colorado por el daño psicosocial, so a imágenes de la década del noventa). Este descenso
+patrimonial, daño moral colectivo y daño futuro a raíz coincide con el período en el cual se desarrolló el conflic-
+del desecamiento del humedal. Dentro de las actividades to socioambiental. El aumento registrado el año 2009
+de desarrollo local promovidas por los programas esta- puede coincidir con la implementación de las medidas
+tales para población indígena, la comunidad de Cancosa compensatorias por parte de la compañía propietaria de
+había comenzado un proyecto de turismo y plantación los derechos de agua cercanos a Lagunillas con el objeto
+de quínoa, ambas iniciativas apoyadas por el Programa de disminuir el impacto, dado que, según los datos de la
+Orígenes, dentro de un plan mayor sobre repoblamiento estación pluviométrica, dicha disminución y aumento
+del sector andino enmarcado en la declaración de la zona no se condicen con los datos de precipitación (como lo
+como ADI Jiwasa Oraje (2001). Al momento de escalar muestra la Figura 4). De acuerdo a ellos, la precipitación
+el conflicto, la gran mayoría de los que habían firmado el para los años 2009 y 2014 es inferior a los años 2004 y
+contrato de arriendo en nombre de la comunidad aymara 2006, que es cuando el cuerpo de agua se encontraba en
+de Cancosa ya habían fallecido, por lo que todas estas ac- su punto mínimo de superficie, lo que confirma que el
+Nº 55 / 2017
+244 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 15 ---
+Explorando conflictos entre comunidades indígenas y la industria minera en chile: las
+transformaciones socioambientales de la región de tarapacá y el caso de lagunillas
+Figura 3. Variación del cuerpo de agua de Lagunillas
+Fuente: Elaboración propia.
+aumento posterior al 2009 pueda deberse a medidas de Sin embargo, y como señala un encargado de relaciones
+mitigación más que a precipitación. comunitarias de una de las empresas mineras de Tarapa-
+cá, junto con el daño ambiental, uno de los principales
+En una de las entrevistas realizadas a uno de los miem- impactos fue el haber establecido un sistema de nego-
+bros de la comunidad de Cancosa, se nos señaló que ciación basado en la compensación económica y el que
+existe preocupación debido a que la estrategia de un pro- las empresas mineras hayan asumido una suerte de rol
+yecto de desarrollo local orientado al turismo no había subsidiador con las comunidades indígenas (dotándolas
+funcionado como ellos esperaban, y que se creía que la de servicios básicos, incentivos y fondos concursables)
+continuidad de este proyecto presentaba dificultades, es- que las hizo suplir en muchas localidades la inexistente
+pecialmente porque las generaciones más jóvenes no te- acción estatal. Esto creó un nuevo escenario en la región
+nían mucho interés en volver a Cancosa a vivir y trabajar. de Tarapacá: gran inversión privada demandando tierras,
+De la misma forma, en nuestra visita al humedal de La- agua y mano de obra en el marco de grandes reformas
+gunillas pudimos observar que se han tomado medidas neoliberales, y comunidades indígenas que por primera
+para mantener el espejo de agua, pero distaría mucho, vez fueron posibilitadas de ser reconocidas en cuanto a
+de acuerdo a nuestros entrevistados, de cómo era el lugar su existencia y ocupación territorial ancestral y actual por
+antes de la intervención de la CMCC (ver Figura 3). En parte del Estado, y de ser compensadas por la extracción
+una entrevista con un informante clave se nos mencionó de recursos y el impacto de las faenas en sus territorios
+que la recuperación del humedal no estaba funcionando, por medio de las mineras. El siguiente paso fue la am-
+y que existía la idea de que ésta tomaría mucho tiempo, si pliación de las disputas territoriales derivadas del extrac-
+es que antes esta preocupación ambiental por este hume- tivismo, el neoliberalismo multicultural y la articulación
+dal no cayera eventualmente en el olvido.
+Nº 55 / 2017
+245 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 16 ---
+Hugo Romero Toledo, Angélica Videla y Felipe Gutiérrez
+Figura 4. Comparación entre área del cuerpo de agua de Lagunillas y precipitación
+Fuente: Elaboración propia, en base a digitalización y datos de la DGA.
+identitaria: nuevas comunidades comenzaron a orga- la zona altiplánica y precordillerana y contradicciones so-
+nizarse, el daño ambiental sobre los recursos hídricos cioterritoriales de importancia.
+producido por las mineras se transformó en un potente
+discurso de las comunidades y de activistas medioam- Desde estas contradicciones socioterritoriales es impor-
+bientales, las medidas de mitigación y compensación se tante leer la articulación identitaria y la reorganización de
+transformaron en la forma de relación ente comunidades las comunidades indígenas de Tarapacá. En este proceso,
+y empresas, y estas últimas no han sido lo suficientemen- han confluido la persistencia de la comunidad, que se ha
+te efectivas para incentivar procesos de desarrollo local adaptado a la nueva vida urbana, a las políticas emanadas
+en las comunidades andinas y precordilleranas. de los organismos del Estado para rescatar y fortalecer un
+determinado tipo de identidad indígena, y las políticas co-
+D Conclusión munitarias desarrolladas por las empresas mineras, entre
+otros. Las comunidades hoy en día están organizadas, son
+El extractivismo minero en Chile es el resultado de una visibles y mantienen relaciones complejas, donde confluyen
+reestructuración mundial de la industria minera y de la elementos de resistencia y negociación. Incluso en la zona
+existencia de un marco legal neoliberal implantado du- de impacto de la CMCC la emergencia de los quechuas en
+rante la dictadura, pero aplicado en términos materiales los poblados de Macaya, Mamiña y Quipisca es un hecho
+en democracia. El Estatuto de Inversiones Extranjeras, el bastante importante, donde la conflictividad asociada a la
+Código de Aguas, la Ley Minera, e incluso la Declaración presencia de la minera ha jugado un rol primordial.
+de parques nacionales ilustran que el neoliberalismo es
+un proyecto ecológico político estatal, que ha permitido También hemos sugerido que pensar en contradicciones
+el boom minero de Tarapacá, y de otras zonas de Chi- socioterritoriales permite analizar el conflicto socioam-
+le, a partir de la concentración de derechos de agua y de biental más allá de territorios adyacentes al área de ex-
+concesiones de tierra, provocando transformaciones en tracción de minerales. Es necesario ampliar el análisis,
+Nº 55 / 2017
+246 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 17 ---
+Explorando conflictos entre comunidades indígenas y la industria minera en chile: las
+transformaciones socioambientales de la región de tarapacá y el caso de lagunillas
+integrando los lugares desde donde se extrae el recurso cia de Cerro Colorado ha fortalecido, mediante políticas
+hídrico para los procesos industriales y para el abasteci- de mitigación y compensación, el proceso de articulación
+miento de los campamentos, además de aquellas zonas identitaria y la reorganización de las comunidades.
+donde existe afectación por el polvo en suspensión, o
+aquellos lugares donde se encuentran los relaves, o que De esta forma Lagunillas, con su degradación ambien-
+son impactados por el tránsito de los vehículos. Al mis- tal producto de la extracción de agua, con su comunidad
+mo tiempo, creemos importante considerar los asen- traslocada y fuertemente concentrada en espacios urbanos,
+tamientos urbanos, como en el caso de Iquique y Alto con negociación, medidas de compensación y plan de re-
+Hospicio, que es donde reside el grueso de la población cuperación, ha sido producido como un paisaje minero, en
+aymara y quechua de Tarapacá, y que se encuentran leja- el sentido en que Lefebvre, Harvey, Smith y Swyngedouw,
+nos al área de extracción. Es en estos espacios urbanos – entre otros, han comprendido la dialéctica de producción
+donde viven los aymaras y quechuas que han nacido en la del espacio en el capitalismo. Esta producción está fuerte-
+ciudad– desde donde se lleva a cabo parte de la articula- mente conectada al proceso de articulación identitaria in-
+ción identitaria que reivindica los territorios de origen de dígena mundial y a una red cuprífera global. De esta forma,
+las familias, movilizando discursos que los conectan con un conflicto socioambiental no es solo un hecho puntual
+la ocupación indígena ancestral del mundo andino. Este en un lugar aislado, donde se enfrentan un par de actores
+hecho, sumado a las políticas nacionales e internaciona- con intereses contrapuestos. Por el contrario, un conflic-
+les sobre pueblos indígenas, está generando una nueva to socioambiental es un fenómeno multiescalar, histórico
+geografía indígena, que contesta la relación entre pueblos y coproducido tanto por el capitalismo global, como por
+indígenas y territorio, presionando al Estado y a las em- instituciones multilaterales, ONG, intelectuales, y actores
+presas mineras por beneficios compensatorios derivados locales indígenas y no indígenas. Sin embargo, el daño am-
+de los efectos del extractivismo. biental y la transformación sociocultural ocurren de ma-
+nera irreversible en los espacios locales. El tiempo dirá si
+También es importante señalar la existencia del ADI las medidas de compensación negociadas entre empresas y
+Jiwasa Oraje, el cual contempla una alta densidad de comunidades han sido las adecuadas.
+comunidades indígenas y poblados que son declarados
+como impactados por la actividad minera y donde se es- Agradecimientos Esta investigación ha sido finan-
+tán enfocando recursos del Estado utilizando el discur- ciada por el Proyecto FONDECYT de Iniciación N°
+so de la disminución de la pobreza y la sustentabilidad 11140265 y por el Centro de Estudios de Conflicto y
+ambiental. El que una zona declarada como ADI tenga Cohesión Social (COES), CONICYT/FONDAP N°
+en el centro una faena de extracción minera es parte de 15130009. Ha recibido también el aporte del Núcleo
+la contradicción territorial que explica los conflictos so- Acciones Colectivas en Chile (1990-2015) de la Uni-
+cioambientales. Pero también es importante darle una versidad Andrés Bello. Asimismo queremos agradecer
+segunda lectura al hecho de que precisamente la presen- a Ximena Toledo por sus valiosos comentarios.
+D Referencias citadas
+ALIMONDA, H. (Coord.). 2011. La Naturaleza Colonizada: Ecología altoandinos (Tesis para optar al grado de Magíster en Gestión y
+Política y Minería en América Latina. Ediciones CICCUS, Buenos Planificación Ambiental). Universidad de Chile, Santiago.
+Aires.
+AYLWIN, J., M. MEZA-LOPEHANDÍA y N. YÁÑEZ. 2013. Los
+ALIMONDA, H. 2015. Mining in Latin America: coloniality and Pueblos Indígenas y el Derecho. LOM Ediciones, Santiago.
+degradation. En The International Handbook of Political Ecology, R.
+Bryant (Ed.), pp. 149-161. Edward Elgar Publishing, Cheltenham. BEBBINGTON, A., J. BURY, D. HUMPHREYS BEBBINGTON, J.
+LINGAN, J. MUÑOZ y M. SCURRAH. 2008. Mining and social
+AVILÉS SUÁREZ, M. E. 2010. Percepción de la sustentabilidad socio movements: Struggles over livelihood and rural territorial development
+ambiental por parte de comunidades indígenas aymaras de humedales in the Andes . Working Paper 33, Brooks World Poverty Institute.
+University of Manchester, Manchester.
+Nº 55 / 2017
+247 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 18 ---
+Hugo Romero Toledo, Angélica Videla y Felipe Gutiérrez
+BEBBINGTON, A. y M. WILLIAMS. 2009. Agua y Minería: Con- CLIFFOR, J. 2013. Returns: becoming indigenous in the twenty-first cen-
+flictos en el Perú. Mountain Research and Development 28: 190-195. tury. Harvard University Press, London.
+BEBBINGTON, A. (Ed.). 2013. Industrias extractivas, conflicto social DELGADO, G. 2010. Ecología Política de la Minería en América Latina:
+y dinámicas institucionales en la región andina . Instituto de Estudios Aspectos socioeconómicos, legales y ambientales de la mega minería . Cen-
+Peruanos, Lima. tro de Investigaciones Interdisciplinarias en Ciencias y Humani-
+dades, Ciudad de México.
+BENGOA, J., N. CANIGUAN, D. DURÁN, M. ALLENDE, M. GER-
+VAIN, F. VILLARROEL y P. GAJARDO. 2012. Mapuche. Procesos, po- ESCOBAR, A. 1999. After Nature: Steps to an Antiessentialist Po-
+líticas y culturas en el Chile del Bicentenario . Editorial Catalonia, Santiago. litical Ecology. Current Anthropology 40(1): 1-30.
+BLÁZQUEZ, P. 1999. El Agua del Loa Superior; 1888-1920. Administra- ESCOBAR, A. 2011. Ecología Política de la Globalidad y la Diferen-
+ción Estatal de un recurso escaso (Tesis para optar al grado de Licen- cia. En La Naturaleza Colonizada: Ecología política y minería en Amé-
+ciado en Historia). Instituto de Historia, Pontificia Universidad rica Latina , H. Alimonda (Coord.), pp. 61-92. Ediciones Ciccus,
+Católica de Chile, Santiago. Buenos Aires.
+BOCCARA, G. y P. BOLADOS. 2008. ¿Dominar a través de la GONZÁLES, S. 2011. Las históricas relaciones entre Tarapacá y
+participación? El neoindigenismo en el Chile de la postdictadura. Oruro: la frustrada tentativa de integración transfronteriza du-
+Revista Memoria Americana 16(2): 167-196. rante el ciclo de expansión del salitre (1864-1928). Revista de Geo-
+grafía Norte Grande 50: 63-85.
+BRIDGE, G. 1999. Harnessing the bonanza: economic liberaliza-
+tion and capacity building in the mineral sector. Natural resources GAVILÁN, V. y F. LAGOS. 2014. ¿Integración social y subordina-
+23(1): 43-55. ción política de los aymara? Un estudio de la certificación estatal
+indígena en el norte chileno. Estudios Atacameños. Arqueología y An-
+BRIDGE, G. 2000. The social regulation of resource access and en- tropología Surandinas 49: 95-110.
+vironmental impact: production, nature and contradiction in the
+US copper industry. Geoforum 31(2): 237-256. GÖBEL, B. y A. ULLOA (Eds.). 2014. Extractivismo minero en Colom-
+bia y América Latina. Colección General Biblioteca Abierta, Bogotá.
+BRIDGE, G. 2004. Mapping the bonanza: geographies of mining
+investment in an era of neoliberal reform. The Professional Geogra- GONZÁLES, S. 2002 . Chilenizando a Tunupa: La escuela pública en el
+pher 56(3): 406-421. Tarapacá andino 1880-1990. Ediciones de la Dirección de Bibliote-
+cas, Archivos y Museos, Santiago.
+BUNKER, S. 2011. Matéria, Espaço, Tempo e Globalização: o Caso
+de Carajás na Amazônia Brasileira. En La Naturaleza Colonizada: GREBE, M. E. 1998. Procesos migratorios, identidad étnica y estra-
+Ecología Política y Minería América Latina, H. Alimonda (Coord.), tegias adaptativas en las culturas indígenas de Chile: Una pers-
+pp. 127-133. Ediciones CICCUS, Buenos Aires. pectiva preliminar. Revista Chilena de Antropología 14: 55-68.
+CARIOLA, C. y O. SUNKEL. 1982. Un Siglo de Historia Económica de GUDYNAS, E. 2009. Diez tesis urgentes sobre el nuevo extracti-
+Chile, 1830-1930. Ediciones Cultura Hispánica, Madrid. vismo. Contextos y demandas bajo el progresismo sudamericano
+actual . En Extractivismo, Política y Sociedad . CAAP y CLAES, Quito.
+CARRASCO, A. y E. FERNÁNDEZ. 2009. Estrategias de Resis-
+tencia Indígena frente al Desarrollo Minero. La Comunidad de GUDYNAS, E. 2015. Extractivismos: Ecología, economía y política de un
+Likantatay ante un posible traslado forzoso. Estudios Atacameños. modo de entender el desarrollo y la Naturaleza. Centro de Documenta-
+Arqueología y Antropología Surandinas 38: 75-92. ción e Información Bolivia (CEDIB), Cochabamba.
+CASTRO, M. 1997. Agua, Derechos y Cultura en los Andes del Nor- GUERRERO, V. 1995. De parcela a comuna: la producción de espa-
+te de Chile: Un Enfoque desde la Antropología Jurídica. Chungara cio social en Alto Hospicio. Revista Ciencias Sociales 5: 18-41.
+29(1): 63-80.
+GUNDERMANN, H. 2000. Las organizaciones étnicas y el dis-
+CASTRO, M. y M. BAHAMONDES. 1987. Cambios en la Tenencia curso de la identidad en el norte de Chile, 1980-2000. Estudios
+de la Tierra en un Pueblo de la Precordillera del Norte de Chile: Atacameños. 19: 75-92.
+Socoroma . Revista Chilena de Antropología 6: 35-57 .
+Nº 55 / 2017
+248 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 19 ---
+Explorando conflictos entre comunidades indígenas y la industria minera en chile: las
+transformaciones socioambientales de la región de tarapacá y el caso de lagunillas
+GUNDERMANN, H. 2004. Inicios de Siglo en San Pedro de Ata- MADALENO, I. 2004. Aymara Indians in Chile: Water Use in Ancestral
+cama: Procesos, Actores e Imaginarios en una Localidad Andina . Cultures at Odds with Water Rights in Modern Times . Conference on
+Chungara . Revista de Antropología Chilena 36: 221-239. International Agricultural Research for Development, Berlín.
+MAMANI, A. 2008. Desecamiento Laguna sector Lagunilla en
+GUNDERMANN, H. y H. GONZÁLEZ. 2008. Pautas de Integra- el territorio ancestral de la comunidad de Cancosa. En Globali-
+ción Regional. Migración, Movilidad y Redes Sociales en los Pue- zación, Derechos Humanos y Pueblos Indígenas , A. Bello y J. Aylwin
+blos Indígenas de Chile. Universum 23(1): 82-115. (Comps.), pp. 392-397. Observatorio de Derechos de los Pueblos
+Indígenas y Alfabeta Impresiones, Temuco.
+GUNDERMANN, H. y J. VERGARA. 2009. Comunidad, Organi-
+zación y Complejidad Social Andinas en el Norte de Chile . Estu- MARTINEZ-ALIER, J. 2004. Distribution Conflicts Ecological of
+dios Atacameños. Arqueología y Antropología Surandinas 38: 107-126. Sustainability Indicators. International Journal of Political Economy
+34(1): 13-30.
+HALL, S. 1990. Cultural Identity and Diaspora. En Identity: Commu-
+nity, Culture, Difference . J. Rutherford (Ed.), pp. 222-237. Lawrence MEZA, R. 1983. 100 años de minera en Chile . Sociedad Editora Lead,
+& Wishart, U.K. Santiago.
+HALL, S. y P. DU GAY (Eds.). 1996. Questions of cultural identity .
+Sage, London. MILLÁN, A. 2006. La minería metálica en Chile en el Siglo XX. Editorial
+Universitaria, Santiago.
+HIDALGO, J. 2004. Historia Andina de Chile. Editorial Universitaria,
+Santiago. MOLINA, F. 2012. Competing rationalities in water conflict: Mining
+and the indigenous community in Chiu Chiu, El Loa Province,
+INSTITUTO NACIONAL DE ESTADÍSTICAS. 1992. Censo de Northern Chile. Singapore Journal of Tropical Geography 33: 93-107.
+Población y Vivienda Chile 1992, Resultados Generales. Recu-
+perado el 20.10.2015 del sitio web http://www.ine.cl/canales/ MOLINA, F. 2014. Negotiated Rationalities, Politicised Identities: Inter-
+usuarios/cedoc_online/censos/pdf/censo_1992.pdf generational Relations, water conflicts and mining in Chiu-Chiu, Chile .
+(Thesis to obtain the degree of Doctor of Philosophy in Geogra-
+INSTITUTO NACIONAL DE ESTADÍSTICAS Y PROGRA- phy) Department of Geography, King’s College, London.
+MA ORÍGENES. 2005. Estadísticas Sociales de los Pueblos
+Indígenas en Chile, Censo 2002. Recuperado el 22.10.2015 MURRA, J. 1975. Formaciones Económicas y Políticas del Mundo Andino.
+de http://www.ine.cl/canales/chile_estadistico/estadisti- IEP Ediciones, Lima.
+cas_sociales_culturales/etnias/pdf/estadisticas_indige-
+nas_2002_11_09_09.pdf NIEZEN, R. 2003. The Origins Indigenism: human rights and the politics
+of identity . University of California Press, London.
+ISAGER, L. and S. IVARSSON. 2010. Contesting Landscapes in
+Thailand: Tree Ordination as Counter-territorialization. Critical PELUSO, N. L. 1995. Whose Woods are These? Counter-Mapping
+Asian Studies 34(3): 395-417. Forest Territories in Kalimantan, Indones. Antipode 27(4): 383-406.
+LARRAÍN, S. y P. POO (Eds.). 2010. Conflictos por el Agua en Chile: PELUSO, N. L. 2005. Seeing Property in Land Use: Local Territo-
+Entre los Derechos Humanos y las Reglas del Mercado . Programa Chile rializations in West Kalimantan, Indonesia. Geografisk Tidsskrift,
+Sustentable, Santiago. Danish Journal of Geography 105(1): 1-15.
+LEFF, E. 2006. Aventuras de la Epistemología Ambiental: de la articula- PELUSO, N. y P. VANDERGEEST. 2015. Political Forest. En The
+ción de ciencias al diálogo de saberes. Siglo XXI Editores, México. International Handbook of Political Ecology , R. Bryant (Ed.), pp. 162-
+175. Edward Elgar Publishung, U.K.
+LESTRELIN, G. 2011. Rethinking State Ethnic Minority Relations
+in Laos: Internal Resettlement, Land Reform and Counter-Terri- PERRAULT, T. Extracting Justice: Natural Gas, Indigenous Mobili-
+torialization. Political Geography 30: 311-319. zation, and the Bolivian State. En The Politics of Resource Extraction:
+Indigenous Peoples, Multinational Corporations, and the State , S. Sawyer
+LI, T. 2000. Articulating indigenous identity in Indonesia: Resou- y Terence Gomez (Eds.), pp. 75-102. Palgrave Macmillan, London.
+rce politics and the tribal slot. Comparative studies in society and his-
+tory 42(01): 149-179. PERRAULT, T. y B. GREEN. 2013. Reworking the spaces of indi-
+geneity: the Bolivian ayllu and lowland autonomy movements
+compared. Environment and Planning D: Society and Space 31: 43-60
+Nº 55 / 2017
+249 Estudios Atacameños
+Arqueología y Antropología Surandinas
+
+--- Página 20 ---
+Hugo Romero Toledo, Angélica Videla y Felipe Gutiérrez
+PRIETO, M. 2014. Privatizing Water and Articulating Indigeneity: The ULLOA, A. 2005. The Ecological Native. Indigenous People’s Movements
+Chilean Water Reforms and the Atacameño People (Likan Antai) . (Doc- and Eco-Governmentality in Colombia . Routledge, U.K.
+tor of Philosophy in Geography) School and Geography Develo-
+pment, The University of Arizona, Tucson Arizona. VANDERGEEST, P. 1996. Mapping Nature: Territorialization of
+Forest Rights in Thailand. Society & Natural Resources: An Interna-
+PRIETO, M. 2016. Transando el agua, produciendo territorios e tional Journal 9(2): 159-175.
+identidades indígenas: el modelo de aguas chileno y los atacame-
+ños de Calama. Revista de Estudios Sociales 55: 88-103. VANDERGEEST, P. y N. PELUSO. 1995. Territorialization and
+State Power in Thailand. Theory and Society 24(3): 385-426.
+PRIETO, M. y C. BAUER. 2012. Hydroelectric Power Generation
+in Chile: An Institutional Critique of the Neutrality of Market VAN KESSEL, J. 1980. Holocausto al progreso: Los aymaras de Tarapacá .
+Mechanisms. Water International 37(2): 131-146. Centro de Estudios y Documentación Latinoamericana, Amsterdam.
+RIVERA, F. 1997. Procesos de articulaciones socioidentitarias y re- VAN KESSEL, J. 1985. La Lucha por el Agua de Tarapacá: la visión
+formulaciones étnicas en Atacama. Estudios Atacameños 13: 61-73. andina. Chungara 14: 141-155.
+SALINAS, J. 2012 . La Comunidad Aymara de Cancosa y los Acuer- VAN KESSEL, J. 2003. Holocausto al Progreso: Los aymaras de Tarapa-
+dos con la Compañía Minera Cerro Colorado. En Defensa de los cá . IECTA, Iquique.
+Derechos Territoriales en Latinoaméric a, M. Fernández y J. Salinas,
+pp. 211-248. RIL, Santiago. YÁÑEZ, N. y R. MOLINA. 2008. La gran minería y los derechos indíge-
+nas en el norte de Chile . LOM Ediciones, Santiago.
+SAWYER, S. y E. TERENCE GOMEZ. 2012. The Politics of Resource
+Extraction: Indigenous Peoples, Multinational Corporations, and the Sta- YÁÑEZ, N. y R. MOLINA. 2011. Las aguas indígenas en Chile . LOM
+te . Palgrave Macmillan, London. Ediciones, Santiago.
+SVAMPA, M. 2011. Modelos de desarrollo, cuestión ambiental y ZAPATA, C. 2007. Memoria e historia: El proyecto de una identi-
+giro eco-territorial. En La Naturaleza Colonizada: Ecología Política y dad colectiva entre los aymara de Chile. Chungara, Revista de Antro-
+Minería América Latina , H. Alimonda (Coord.), pp. 181-215. Edicio- pología Chilena 39: 171-183.
+nes CICCUS, Buenos Aires.
+SVAMPA, M. y M. ANTONELLI (Eds.). 2009. Minería Transnacio-
+nal, Narrativas del Desarrollo y Resistencias Sociales. Biblos, Buenos
+Aires.
+Nº 55 / 2017
+250 Estudios Atacameños
+Arqueología y Antropología Surandinas
